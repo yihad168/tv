@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="綜合",民視
+http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="綜合",民視第一台
+http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="新聞財經",民視新聞台
+http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="綜合",民視台灣台
+http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
