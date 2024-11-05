@@ -3,12 +3,6 @@
 
 #EXTINF:-1 group-title="檸檬代理 臺灣",中視 HD
 http://limon.zapi.eu.org/lm147.php?id=2cc71359-2456-443d-8ddc-d9cf86fd8f39
-#EXTINF:-1 group-title="檸檬代理 臺灣",中視新聞台
-http://limon.zapi.eu.org/lm147.php?id=2cfe8d82-fcaf-4931-95ed-655d60426101
-#EXTINF:-1 group-title="檸檬代理 臺灣",公視 HD
-http://limon.zapi.eu.org/lm147.php?id=79ffbe07-bcea-493b-8ccc-386fc5ca2228
-#EXTINF:-1 group-title="檸檬代理 臺灣",民視 HD
-http://limon.zapi.eu.org/lm147.php?id=c823ee51-6e21-4de8-82ff-34cb51f4b4c4
 #EXTINF:-1 group-title="檸檬代理 臺灣",民視 HD
 http://limon.zapi.eu.org/lm147.php?id=bba1cd9a-b72b-4d29-a545-384d7de01cf7
 #EXTINF:-1 group-title="檸檬代理 臺灣",民視新聞台
@@ -25,19 +19,9 @@ http://limon.zapi.eu.org/lm147.php?id=c772bec8-0cf3-4f31-b9b4-86511166bc99
 http://limon.zapi.eu.org/lm147.php?id=43e5a720-a239-4f03-9727-711f55e88e89
 #EXTINF:-1 group-title="檸檬代理 臺灣",非凡新聞
 http://limon.zapi.eu.org/lm147.php?id=253c4f77-5b43-4793-a186-dd8b88edc903
-#EXTINF:-1 group-title="檸檬代理 臺灣",東森新聞台
-http://limon.zapi.eu.org/lm147.php?id=451f0cdd-b2a7-4f08-85d9-d786b6b3423a
-#EXTINF:-1 group-title="檸檬代理 臺灣",東森財經新聞台
-http://limon.zapi.eu.org/lm147.php?id=b543a5c6-2629-466f-8048-c943ee042636
-#EXTINF:-1 group-title="檸檬代理 臺灣",東森電影
-http://limon.zapi.eu.org/lm147.php?id=55d60885-3825-4600-8a5c-1427ceae2aa6
-#EXTINF:-1 group-title="檸檬代理 臺灣",東森洋片
-http://limon.zapi.eu.org/lm147.php?id=cfbd4405-3f72-4aaa-80c8-fdbba94b6d2d
-#EXTINF:-1 group-title="檸檬代理 臺灣",東森戲劇
-http://limon.zapi.eu.org/lm147.php?id=c9ad5922-8313-4c42-a327-174544661402
 #EXTINF:-1 group-title="檸檬代理 臺灣",東森幼幼
 http://limon.zapi.eu.org/lm147.php?id=6f0752d1-787f-413d-abe2-f595bb0c55e3
-#EXTINF:-1 group-title="檸檬代理 臺灣",龍華影劇
+#EXTINF:-1 group-title="檸檬代理 臺灣",台視綜合
 http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
 #EXTINF:-1 group-title="檸檬代理 臺灣",龍華偶像
 http://limon.zapi.eu.org/lm147.php?id=d6aed7e2-3138-4dd8-90b8-73be504e00c0
@@ -49,26 +33,8 @@ http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
 http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
 #EXTINF:-1 group-title="檸檬代理 臺灣",三立台灣台
 http://limon.zapi.eu.org/lm147.php?id=ab7c868d-3788-4bfa-8352-930399e5c78a
-#EXTINF:-1 group-title="檸檬代理 臺灣",三立都會台 HD
-http://limon.zapi.eu.org/lm147.php?id=9f6b4588-7dac-4598-8974-eeec1a1485ff
 #EXTINF:-1 group-title="檸檬代理 臺灣",三立綜合台 HD
 http://limon.zapi.eu.org/lm147.php?id=95db1e0a-0eee-423f-a8e4-b05fef9c21c8
-#EXTINF:-1 group-title="檸檬代理 臺灣",中天新聞HD
-http://limon.zapi.eu.org/lm147.php?id=9ece40f1-712e-43c8-9639-018c38d088ba
-#EXTINF:-1 group-title="檸檬代理 臺灣",中天綜合 HD
-http://limon.zapi.eu.org/lm147.php?id=4026260e-ec58-4e70-9083-7b632257880b
-#EXTINF:-1 group-title="檸檬代理 臺灣",中天亞洲台
-http://limon.zapi.eu.org/lm147.php?id=86367931-34f8-4aa6-acb0-8fa4d577ae11
-#EXTINF:-1 group-title="檸檬代理 臺灣",中天娛樂
-http://limon.zapi.eu.org/lm147.php?id=308d8d9f-38ec-498c-a0f9-127127f03e78
-#EXTINF:-1 group-title="檸檬代理 臺灣",八大第一台
-http://limon.zapi.eu.org/lm147.php?id=6bb0001a-0201-4ae2-809d-c83e5e3e19f2
-#EXTINF:-1 group-title="檸檬代理 臺灣",八大戲劇
-http://limon.zapi.eu.org/lm147.php?id=b9681578-eb3b-45c4-b3e5-5f51c8daf2d4
-#EXTINF:-1 group-title="檸檬代理 臺灣",八大綜合
-http://limon.zapi.eu.org/lm147.php?id=0fdd4afc-c155-4164-8baa-b50c4488402d
-#EXTINF:-1 group-title="檸檬代理 臺灣",EYETV旅遊 HD
-http://limon.zapi.eu.org/lm147.php?id=f3272a92-64e9-47b3-aad2-89a71db1950c
 #EXTINF:-1 group-title="檸檬代理 臺灣",EYETV戲劇 HD
 http://limon.zapi.eu.org/lm147.php?id=35d20aac-a621-438e-8cf1-8433605954c3
 #EXTINF:-1 group-title="檸檬代理 臺灣",ELTA體育 2 HD
@@ -83,52 +49,26 @@ http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
 http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
 #EXTINF:-1 group-title="檸檬代理 臺灣",星衛娛樂台
 http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="檸檬代理 臺灣",寰宇綜合 HD
-http://limon.zapi.eu.org/lm147.php?id=b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5
 #EXTINF:-1 group-title="檸檬代理 臺灣",HBO HD
 http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
 #EXTINF:-1 group-title="檸檬代理 臺灣",HBO HITS HD
 http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
 #EXTINF:-1 group-title="檸檬代理 臺灣",Hollywood Movies
 http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="檸檬代理 臺灣",CINEMAX
-http://limon.zapi.eu.org/lm147.php?id=6cf1d6f9-8057-4a4e-8eba-cd950c24f19d
 #EXTINF:-1 group-title="檸檬代理 臺灣",靖天卡通台
 http://limon.zapi.eu.org/lm147.php?id=8c0b6427-06c1-4818-a7ed-b0defb96981d
-#EXTINF:-1 group-title="檸檬代理 臺灣",Disney Channel (中文語)
-http://limon.zapi.eu.org/lm147.php?id=14a2fbdd-6d6a-4f1b-b7cb-37097fea5988
-#EXTINF:-1 group-title="檸檬代理 臺灣",Disney Channel (中文語)
-http://limon.zapi.eu.org/lm147.php?id=0141203e-146b-4f2d-88df-236b71b21559
-#EXTINF:-1 group-title="檸檬代理 臺灣",FX HD
-http://limon.zapi.eu.org/lm147.php?id=373a5116-eab4-490f-b4e7-4ad3b7b07fd1
-#EXTINF:-1 group-title="檸檬代理 臺灣",NatGeo Wild HD (中聲)
-http://limon.zapi.eu.org/lm147.php?id=d6e7b123-b223-4341-af2c-1eb367c153d7
-#EXTINF:-1 group-title="檸檬代理 臺灣",Fox HD (CH Sub)
-http://limon.zapi.eu.org/lm147.php?id=4bba680c-acc2-4edf-a2fb-6cf7b3762a7e
-#EXTINF:-1 group-title="檸檬代理 臺灣",FX HD
-http://limon.zapi.eu.org/lm147.php?id=373a5116-eab4-490f-b4e7-4ad3b7b07fd1
 #EXTINF:-1 group-title="檸檬代理 臺灣",Hollywood Movies
 http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="檸檬代理 臺灣",Movie HD
+#EXTINF:-1 group-title="檸檬代理 臺灣",龍華電影
 http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
 #EXTINF:-1 group-title="檸檬代理 臺灣",美亞電影
 http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
 #EXTINF:-1 group-title="檸檬代理 臺灣",愛爾達影劇台
 http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-#EXTINF:-1 group-title="檸檬代理 臺灣",CHC高清電影
-http://limon.zapi.eu.org/lm147.php?id=a787bff0-5bf5-4e01-ab3e-86506c29fhls
-#EXTINF:-1 group-title="檸檬代理 臺灣",CHC高清電影
-http://limon.zapi.eu.org/lm147.php?id=a787bff0-5bf5-4e01-ab3e-86506c29fc46
-#EXTINF:-1 group-title="檸檬代理 臺灣",Fox HD (CH Sub)
-http://limon.zapi.eu.org/lm147.php?id=4bba680c-acc2-4edf-a2fb-6cf7b3762a7e
 #EXTINF:-1 group-title="檸檬代理 臺灣",龍華影劇
 http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
 #EXTINF:-1 group-title="檸檬代理 臺灣",星衛娛樂台
 http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="檸檬代理 臺灣",tvN Movies
-http://limon.zapi.eu.org/lm147.php?id=8d17a83a-ccb9-4214-9acb-5cdf1cfb6c8e
-#EXTINF:-1 group-title="檸檬代理 臺灣",天映頻道
-http://limon.zapi.eu.org/lm147.php?id=e994b973-bec0-43d6-a02b-55b6bad51bb7
 #EXTINF:-1 group-title="檸檬代理 臺灣",天映頻道
 http://limon.zapi.eu.org/lm147.php?id=f451021a-e45f-4088-8c53-913c7945209a
 #EXTINF:-1 group-title="檸檬代理 臺灣",天映頻道
@@ -164,96 +104,95 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 
-#EXTINF:-1 group-title="LITV代理",客家頻道
+#EXTINF:-1 group-title="LITV代理",客家頻道LITV
 http://tvbox6.com/tv/tw9.php?id=1
 
-#EXTINF:-1 group-title="LITV代理",原住民
+#EXTINF:-1 group-title="LITV代理",原住民LITV
 http://tvbox6.com/tv/tw9.php?id=2
 
-#EXTINF:-1 group-title="LITV代理",MOMO
+#EXTINF:-1 group-title="LITV代理",MOMO LITV
 http://tvbox6.com/tv/tw9.php?id=3
 
-#EXTINF:-1 group-title="LITV代理",民視第一台
+#EXTINF:-1 group-title="LITV代理",民視第一台 LITV
 http://tvbox6.com/tv/tw9.php?id=4
 
-#EXTINF:-1 group-title="LITV代理",民視台灣台
+#EXTINF:-1 group-title="LITV代理",民視台灣台 LITV
 http://tvbox6.com/tv/tw9.php?id=5
 
-#EXTINF:-1 group-title="LITV代理",民視
+#EXTINF:-1 group-title="LITV代理",民視 LITV
 http://tvbox6.com/tv/tw9.php?id=6
 
-#EXTINF:-1 group-title="LITV代理",中視
+#EXTINF:-1 group-title="LITV代理",中視 LITV
 http://tvbox6.com/tv/tw9.php?id=7
 
-#EXTINF:-1 group-title="LITV代理",華視
+#EXTINF:-1 group-title="LITV代理",華視 LITV
 http://tvbox6.com/tv/tw9.php?id=8
 
-#EXTINF:-1 group-title="LITV代理",style
+#EXTINF:-1 group-title="LITV代理",style LITV
 http://tvbox6.com/tv/tw9.php?id=9
 
-#EXTINF:-1 group-title="LITV代理",亞洲旅遊台
+#EXTINF:-1 group-title="LITV代理",亞洲旅遊台 LITV
 http://tvbox6.com/tv/tw9.php?id=10
 
-#EXTINF:-1 group-title="LITV代理",電影頻道
+#EXTINF:-1 group-title="LITV代理",電影頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=11
 
-#EXTINF:-1 group-title="LITV代理",nickelodeon
+#EXTINF:-1 group-title="LITV代理",nickelodeon LITV
 http://tvbox6.com/tv/tw9.php?id=12
 
-#EXTINF:-1 group-title="LITV代理",博斯高球1
+#EXTINF:-1 group-title="LITV代理",博斯高球1 LITV
 http://tvbox6.com/tv/tw9.php?id=13
 
-#EXTINF:-1 group-title="LITV代理",博斯運動1
+#EXTINF:-1 group-title="LITV代理",博斯運動1 LITV
 http://tvbox6.com/tv/tw9.php?id=14
 
-#EXTINF:-1 group-title="LITV代理",博斯無限
+#EXTINF:-1 group-title="LITV代理",博斯無限 LITV
 http://tvbox6.com/tv/tw9.php?id=15
 
-#EXTINF:-1 group-title="LITV代理",博斯網球
+#EXTINF:-1 group-title="LITV代理",博斯網球 LITV
 http://tvbox6.com/tv/tw9.php?id=16
 
-#EXTINF:-1 group-title="LITV代理",靖洋戲劇台
+#EXTINF:-1 group-title="LITV代理",靖洋戲劇台 LITV
 http://tvbox6.com/tv/tw9.php?id=17
 
-#EXTINF:-1 group-title="LITV代理",靖洋電影台
+#EXTINF:-1 group-title="LITV代理",靖洋電影台 LITV
 http://tvbox6.com/tv/tw9.php?id=18
 
-#EXTINF:-1 group-title="LITV代理",龍華電影
+#EXTINF:-1 group-title="LITV代理",龍華電影 LITV
 http://tvbox6.com/tv/tw9.php?id=19
 
-#EXTINF:-1 group-title="LITV代理",東森新聞台
+#EXTINF:-1 group-title="LITV代理",東森新聞台 LITV
 http://tvbox6.com/tv/tw9.php?id=20
 
-#EXTINF:-1 group-title="LITV代理",娛樂百分百
+#EXTINF:-1 group-title="LITV代理",娛樂百分百 LITV
 http://tvbox6.com/tv/tw9.php?id=21
 
-#EXTINF:-1 group-title="LITV代理",nickjr
+#EXTINF:-1 group-title="LITV代理",nickjr LITV
 http://tvbox6.com/tv/tw9.php?id=22
 
-#EXTINF:-1 group-title="LITV代理",TVBS
+#EXTINF:-1 group-title="LITV代理",TVBS LITV
 http://tvbox6.com/tv/tw9.php?id=23
 
-#EXTINF:-1 group-title="LITV代理",TVBS歡樂台
+#EXTINF:-1 group-title="LITV代理",TVBS歡樂台 LITV
 http://tvbox6.com/tv/tw9.php?id=24
 
-#EXTINF:-1 group-title="LITV代理",MTV
+#EXTINF:-1 group-title="LITV代理",MTV LITV
 http://tvbox6.com/tv/tw9.php?id=25
 
-#EXTINF:-1 group-title="LITV代理",居家頻道
+#EXTINF:-1 group-title="LITV代理",居家頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=26
 
-#EXTINF:-1 group-title="LITV代理",歷史頻道
+#EXTINF:-1 group-title="LITV代理",歷史頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=27
 
-#EXTINF:-1 group-title="LITV代理",HITS
+#EXTINF:-1 group-title="LITV代理",HITS LITV
 http://tvbox6.com/tv/tw9.php?id=28
 
-#EXTINF:-1 group-title="LITV代理",旅遊頻道
+#EXTINF:-1 group-title="LITV代理",旅遊頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=29
 
-#EXTINF:-1 group-title="LITV代理",CinemaWorld
+#EXTINF:-1 group-title="LITV代理",CinemaWorld LITV
 http://tvbox6.com/tv/tw9.php?id=30
-
 
 
 
@@ -735,3 +674,2073 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7327/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7328/index.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV|综合", 民視
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv002
+
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="4GTV|综合", 民視第一台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv003
+
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="4GTV|新闻", 民視新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv13
+
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="4GTV|综合", 民視台灣台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv001
+
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="4GTV|电影", 民視影劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv09
+
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="4GTV|生活", 民視旅遊台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv07
+
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="4GTV|娱乐", 民視綜藝台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv004
+
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="4GTV|综合", 中視
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv040
+
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="4GTV|新闻", 中視新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv074
+
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="4GTV|电影", 中視經典台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv080
+
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="4GTV|综合", 中視菁采台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv064
+
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="4GTV|新闻", 中天新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv009
+
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="4GTV|综合", 中天亞洲台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv109
+
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="4GTV|综合", 華視
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv041
+
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="4GTV|新闻", 華視新聞
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv052
+
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="4GTV|综合", 靖天綜合台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv046
+
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="4GTV|综合", 靖天國際台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv063
+
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="4GTV|电影", 靖天戲劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv058
+
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="4GTV|综合", 靖天日本台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv047
+
+#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="4GTV|少儿", 靖天映畫台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv055
+
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="4GTV|少儿", 靖天卡通台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv044
+
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="4GTV|娱乐", 靖天育樂台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv062
+
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="4GTV|新闻", 靖天資訊台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv065
+
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="4GTV|电影", 靖天電影台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv061
+
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="4GTV|娱乐", 靖天歡樂台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv054
+
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="4GTV|电影", 龍華偶像台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn12
+
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="4GTV|少儿", 龍華卡通台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn01
+
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="4GTV|电影", 龍華戲劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn18
+
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="4GTV|娱乐", 龍華日韓台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn11
+
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="4GTV|电影", 龍華經典台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn21
+
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="4GTV|电影", 龍華電影台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn03
+
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="4GTV|电影", 靖洋戲劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv045
+
+#EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="4GTV|少儿", 靖洋卡通 Nice Bingo
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv057
+
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="4GTV|新闻", 寰宇新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn14
+
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="4GTV|新闻", 寰宇新聞台灣台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn15
+
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="4GTV|新闻", 寰宇財經台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn23
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="4GTP|其他", TVBS
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv073
+
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="4GTV|新闻", TVBS 新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv072
+
+#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="4GTV|娱乐", TVBS 綜藝台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/284
+
+#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="4GTV|娱乐", TVBS 歡樂台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv068
+
+#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="4GTV|娱乐", TVBS 精采台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv067
+
+#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="4GTV|电影", TVBS 台劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/285
+
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="4GTV|娱乐", 八大精彩台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv034
+
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="4GTV|娱乐", 八大綜藝台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv039
+
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="4GTV|综合", 三立綜合台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/169
+
+#EXTINF:-1 tvg-id="三立財經新聞" tvg-name="三立 iNEWS" tvg-logo="https://assets.livednow.com/logo/三立財經新聞.png" group-title="4GTV|新闻", 三立 iNEWS
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/229
+
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="4GTV|综合", 台視
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv066
+
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="4GTV|新闻", 台視新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv051
+
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="4GTV|新闻", 台視財經台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv056
+
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="4GBEE|体育", 博斯運動一台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn07
+
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="4GBEE|体育", 博斯運動二台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn08
+
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="4GBEE|体育", 博斯無限台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn10
+
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="4GBEE|体育", 博斯無限二台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn13
+
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="4GBEE|体育", 博斯網球台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn09
+
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="4GBEE|体育", 博斯高球台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn05
+
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="4GBEE|体育", 博斯高球二台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn06
+
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="4GBEE|体育", 博斯魅力台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn04
+
+#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="4GTV|娱乐", ELTA 娛樂台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv070
+
+#EXTINF:-1 tvg-id="ELTA生活旅遊" tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA生活旅遊.png" group-title="4GTV|生活", ELTA 生活旅遊
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/237
+
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="4GTV|生活", ELTV 生活英語
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn20
+
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="4GTV|新闻", 東森新聞
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv152
+
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="4GTV|新闻", 東森財經新聞
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv153
+
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="4GTV|新闻", 非凡新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv010
+
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="4GTV|新闻", 非凡商業台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv048
+
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="4GTV|新闻", 鏡電視新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv075
+
+#EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="4GTV|新闻", CNBC Asia 財經台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/235
+
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="4GTV|生活", 亞洲旅遊台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn17
+
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="4GBEE|体育", GINX Esports TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv053
+
+#EXTINF:-1 tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://assets.livednow.com/logo/TechStorm.png" group-title="4GBEE|体育", TechStorm
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/181
+
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="4GBEE|体育", 時尚運動X
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/277
+
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="4GBEE|体育", 智林體育台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv101
+
+#EXTINF:-1 tvg-id="TraceSports" tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="4GBEE|体育", TraceSports
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv077
+
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="4GTV|电影", 影迷數位紀實台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/212
+
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="4GTV|电影", 影迷數位電影台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv011
+
+#EXTINF:-1 tvg-id="AMC電影台" tvg-name="AMC 電影台" tvg-logo="https://assets.livednow.com/logo/AMC電影台.png" group-title="4GTV|电影", AMC 電影台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv017
+
+#EXTINF:-1 tvg-id="CatchPlay-電影台" tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay-電影台.png" group-title="4GTV|电影", CatchPlay 電影台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv076
+
+#EXTINF:-1 tvg-id="My-Cinema-Europe-HD-我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png" group-title="4GTV|电影", My Cinema Europe HD 我的歐洲電影
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/176
+
+#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="4GTV|电影", 公視戲劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv042
+
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="4GTV|电影", 采昌影劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv049
+
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="4GTV|电影", 台灣戲劇台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn22
+
+#EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="4GTV|电影", 戲劇免費看 1台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/270
+
+#EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="4GTV|电影", 戲劇免費看 2台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/244
+
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="4GTV|电影", 經典電影台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/201
+
+#EXTINF:-1 tvg-id="電影免費看-2台" tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="4GTV|电影", 電影免費看 2台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/245
+
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="4GTV|电影", 電影原聲台 CMusic
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/218
+
+#EXTINF:-1 tvg-id="花系列-經典劇場" tvg-name="花系列 經典劇場" tvg-logo="https://assets.livednow.com/logo/花系列-經典劇場.png" group-title="4GTV|电影", 花系列 經典劇場
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/279
+
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="4GTV|电影", CinemaWorld
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/225
+
+#EXTINF:-1 tvg-id="HITS-頻道" tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="4GTV|电影", HITS 頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/186
+
+#EXTINF:-1 tvg-id="Rock-Action" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action.png" group-title="4GTV|电影", Rock Action
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/180
+
+#EXTINF:-1 tvg-id="Rock-Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="4GTV|电影", Rock Entertainment
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/275
+
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="4GTV|电影", 金光布袋戲
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/236
+
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="4GTV|电影", 霹靂布袋戲
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/301
+
+#EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="4GTV|少儿", DreamWorks 夢工廠動畫
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/282
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="4GTV|少儿", Nickelodeon
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/185
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="4GTV|少儿", Nick Jr. 兒童頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/219
+
+#EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="4GTV|少儿", i-Fun 動漫台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv15
+
+#EXTINF:-1 tvg-id="兒童卡通台" tvg-name="兒童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="4GTV|少儿", 兒童卡通台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/269
+
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="4GTV|少儿", 精選動漫台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/204
+
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="4GTV|少儿", 經典卡通台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/202
+
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="4GTV|少儿", 達文西頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv018
+
+#EXTINF:-1 tvg-id="超人力霸王整套看" tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="4GTV|少儿", 超人力霸王整套看
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/278
+
+#EXTINF:-1 tvg-id="MOMO-親子台" tvg-name="MOMO 親子台" tvg-logo="https://assets.livednow.com/logo/MOMO-親子台.png" group-title="4GTV|少儿", MOMO 親子台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/231
+
+#EXTINF:-1 tvg-id="LiveABC-互動英語台" tvg-name="LiveABC 互動英語台" tvg-logo="https://assets.livednow.com/logo/LiveABC-互動英語台.png" group-title="4GTV|少儿", LiveABC 互動英語台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/188
+
+#EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="4GTV|娱乐", Classica 古典樂
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv059
+
+#EXTINF:-1 tvg-id="Lifetime-娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://assets.livednow.com/logo/Lifetime-娛樂頻道.png" group-title="4GTV|娱乐", Lifetime 娛樂頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/217
+
+#EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="4GTV|娱乐", MTV Live HD 音樂頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/213
+
+#EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="4GTV|娱乐", Mezzo Live
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv083
+
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="4GTV|娱乐", 豬哥亮歌廳秀
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv006
+
+#EXTINF:-1 tvg-id="Trace-Urban" tvg-name="Trace Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="4GTV|娱乐", Trace Urban
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv082
+
+#EXTINF:-1 tvg-id="Global-Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="4GTV|生活", Global Trekker
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/252
+
+#EXTINF:-1 tvg-id="韓國娛樂台" tvg-name="韓國娛樂台" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="4GTV|娱乐", 韓國娛樂台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv016
+
+#EXTINF:-1 tvg-id="LUXE-TV" tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="4GTV|生活", LUXE TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/175
+
+#EXTINF:-1 tvg-id="Pet-Club-TV" tvg-name="Pet Club TV" tvg-logo="https://assets.livednow.com/logo/Pet-Club-TV.png" group-title="4GTV|生活", Pet Club TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/182
+
+#EXTINF:-1 tvg-id="TV5MONDE-Style" tvg-name="TV5MONDE Style" tvg-logo="https://assets.livednow.com/logo/TV5MONDE-Style.png" group-title="4GTV|生活", TV5MONDE Style
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/178
+
+#EXTINF:-1 tvg-id="車迷-TV" tvg-name="車迷 TV" tvg-logo="https://assets.livednow.com/logo/車迷-TV.png" group-title="4GTV|生活", 車迷 TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/160
+
+#EXTINF:-1 tvg-id="Love-Nature" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="4GTV|生活", Love Nature
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/139
+
+#EXTINF:-1 tvg-id="Fun-探索娛樂台" tvg-name="Fun 探索娛樂台" tvg-logo="https://assets.livednow.com/logo/Fun-探索娛樂台.png" group-title="4GTV|生活", Fun 探索娛樂台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/274
+
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="4GTV|生活", 幸福空間居家台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/168
+
+#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="4GTV|综合", Arirang TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv079
+
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="4GTV|综合", Bloomberg TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/283
+
+#EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="4GTV|新闻", VOA 美國之音
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv03
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="4GTV|新闻", DW德國之聲
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/226
+
+#EXTINF:-1 tvg-id="SBN-全球財經台" tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN-全球財經台.png" group-title="4GTV|新闻", SBN 全球財經台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/224
+
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="4GTV|新闻", 半島國際新聞台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv10
+
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="4GTV|新闻", 第1商業台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv104
+
+#EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="4GTP|其他", History 歷史頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/214
+
+#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="4GTP|其他", CI 罪案偵查頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/215
+
+#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="4GTP|其他", Smart 知識台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-longturn19
+
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="4GTP|其他", 視納華仁紀實頻道
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv013
+
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="4GTP|其他", 原住民族電視台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/273
+
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="4GTP|其他", 客家電視台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv043
+
+#EXTINF:-1 tvg-id="滾動力-Rollor" tvg-name="滾動力 Rollor" tvg-logo="https://assets.livednow.com/logo/滾動力-Rollor.png" group-title="4GTP|其他", 滾動力 Rollor
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/249
+
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="4GTP|其他", 好消息
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv16
+
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="4GTP|其他", 好消息2台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/litv-ftv17
+
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="4GTP|其他", 大愛電視
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/209
+
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視2" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="4GTP|其他", 大愛電視2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/230
+
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="4GTP|其他", 人間衛視
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/210
+
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="4GTP|其他", 國會頻道1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv084
+
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="4GTP|其他", 國會頻道2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/litv/4gtv-4gtv085
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物一台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="4GTP|其他", 東森購物一台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/173
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物二台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="4GTP|其他", 東森購物二台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/174
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物三台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="4GTP|其他", 東森購物三台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/287
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="4GTP|其他", 東森購物四台
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/4gtv/286
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="4GBEE|体育", TNT Sport 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/TNT_Sports_1
+
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT Sport 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="4GBEE|体育", TNT Sport 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/TNT_Sports_2
+
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT Sport 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="4GBEE|体育", TNT Sport 3
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/TNT_Sports_3
+
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT Sport 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="4GBEE|体育", TNT Sport 4
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/TNT_Sports_4
+
+#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports Football" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="4GBEE|体育", Sky Sports Football
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Football_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Main-Event" tvg-name="Sky Sports Main Event" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Main-Event.png" group-title="4GBEE|体育", Sky Sports Main Event
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Main_Event
+
+#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports Premier League" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="4GBEE|体育", Sky Sports Premier League
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Premier_League
+
+#EXTINF:-1 tvg-id="Sky-Sports-Action" tvg-name="Sky Sports Action" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Action.png" group-title="4GBEE|体育", Sky Sports Action
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Action_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Mix" tvg-name="Sky Sports Mix" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Mix.png" group-title="4GBEE|体育", Sky Sports Mix
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Mix_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Arena" tvg-name="Sky Sports Arena" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Arena.png" group-title="4GBEE|体育", Sky Sports Arena
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Arena_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-News" tvg-name="Sky Sports News" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-News.png" group-title="4GBEE|体育", Sky Sports News
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_News_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Cricket.png" group-title="4GBEE|体育", Sky Sports Cricket
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Cricket_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="4GBEE|体育", Sky Sports Tennis
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Tennis
+
+#EXTINF:-1 tvg-id="Sky-Sports-F1" tvg-name="Sky Sports F1" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-F1.png" group-title="4GBEE|体育", Sky Sports F1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_F1_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Golf" tvg-name="Sky Sports Golf" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Golf.png" group-title="4GBEE|体育", Sky Sports Golf
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Golf_Live_TV
+
+#EXTINF:-1 tvg-id="Sky-Sports-Racing" tvg-name="Sky Sports Racing" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Racing.png" group-title="4GBEE|体育", Sky Sports Racing
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Sky_Sports_Racing_Live_TV
+
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="4GBEE|体育", Tennis Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Tennis_Channel_Live_TV
+
+#EXTINF:-1 tvg-id="La-Liga-TV" tvg-name="LaLiga TV" tvg-logo="https://assets.livednow.com/logo/La-Liga-TV.png" group-title="4GBEE|体育", LaLiga TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/La_Liga_TV_Live_TV
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 1" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="BEES|戏剧", HBO 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/HBO_Live_TV
+
+#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2" tvg-logo="https://assets.livednow.com/logo/HBO-2.png" group-title="BEES|戏剧", HBO 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/HBO_2_Live_TV
+
+#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="BEES|自然", Discovery Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Discovery_Channel_Live_TV
+
+#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="BEES|自然", Discovery Life
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Discovery_Life_Live_TV
+
+#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax West" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="BEES|戏剧", Cinemax West
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Cinemax_West_Live_TV
+
+#EXTINF:-1 tvg-id="UK-Great-Movies" tvg-name="Great Movies" tvg-logo="https://assets.livednow.com/logo/UK-Great-Movies.png" group-title="BEES|戏剧", Great Movies
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Great_Movies_Live_TV
+
+#EXTINF:-1 tvg-id="UK-Sky-Cinema-Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://assets.livednow.com/logo/UK-Sky-Cinema-Comedy.png" group-title="BEES|戏剧", Sky Cinema Comedy
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Sky_Cinema_Comedy_Live_TV
+
+#EXTINF:-1 tvg-id="UK-Sky-Cinema-Family" tvg-name="Sky Cinema Family" tvg-logo="https://assets.livednow.com/logo/UK-Sky-Cinema-Family.png" group-title="BEES|戏剧", Sky Cinema Family
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Sky_Cinema_Family_Live_TV
+
+#EXTINF:-1 tvg-id="UK-Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/UK-Cartoon-Network.png" group-title="4GTV|少儿", Cartoon Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Cartoon_Network_Live_TV
+
+#EXTINF:-1 tvg-id="UK-Virgin-1" tvg-name="Virgin 1" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-1.png" group-title="4GTV|综合", Virgin 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Virgin_1
+
+#EXTINF:-1 tvg-id="UK-Virgin-2" tvg-name="Virgin 2" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-2.png" group-title="4GTV|综合", Virgin 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Virgin_2
+
+#EXTINF:-1 tvg-id="UK-Virgin-3" tvg-name="Virgin 3" tvg-logo="https://assets.livednow.com/logo/UK-Virgin-3.png" group-title="4GTV|综合", Virgin 3
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/UK_Virgin_3
+
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://assets.livednow.com/logo/DAZN.png" group-title="4GBEE|体育", DAZN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/DAZN_Live_TV
+
+#EXTINF:-1 tvg-id="Bein-Sports-USA" tvg-name="Bein Sports USA" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="4GBEE|体育", Bein Sports USA
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Bein_Sports_USA_Live_TV
+
+#EXTINF:-1 tvg-id="Bein-Sports-English-2" tvg-name="Bein Sports English 2" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-English-2.png" group-title="4GBEE|体育", Bein Sports English 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Bein_Sports_English_2_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Premier-League" tvg-name="SuperSport Premier League" tvg-logo="https://assets.livednow.com/logo/SuperSport-Premier-League.png" group-title="4GBEE|体育", SuperSport Premier League
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Premier_League_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://assets.livednow.com/logo/SuperSport-LaLiga.png" group-title="4GBEE|体育", SuperSport LaLiga
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_LaLiga_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Action" tvg-name="SuperSport Action" tvg-logo="https://assets.livednow.com/logo/SuperSport-Action.png" group-title="4GBEE|体育", SuperSport Action
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Action_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Blitz" tvg-name="SuperSport Blitz" tvg-logo="https://assets.livednow.com/logo/SuperSport-Blitz.png" group-title="4GBEE|体育", SuperSport Blitz
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Blitz_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Cricket" tvg-name="SuperSport Cricket" tvg-logo="https://assets.livednow.com/logo/SuperSport-Cricket.png" group-title="4GBEE|体育", SuperSport Cricket
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Cricket_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Football" tvg-name="SuperSport Football" tvg-logo="https://assets.livednow.com/logo/SuperSport-Football.png" group-title="4GBEE|体育", SuperSport Football
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Football_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Golf" tvg-name="SuperSport Golf" tvg-logo="https://assets.livednow.com/logo/SuperSport-Golf.png" group-title="4GBEE|体育", SuperSport Golf
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Golf_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Rugby" tvg-name="SuperSport Rugby" tvg-logo="https://assets.livednow.com/logo/SuperSport-Rugby.png" group-title="4GBEE|体育", SuperSport Rugby
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Rugby_Live_TV
+
+#EXTINF:-1 tvg-id="SuperSport-Tennis" tvg-name="SuperSport Tennis" tvg-logo="https://assets.livednow.com/logo/SuperSport-Tennis.png" group-title="4GBEE|体育", SuperSport Tennis
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/SuperSport_Tennis_Live_TV
+
+#EXTINF:-1 tvg-id="Variety-1" tvg-name="Variety 1" tvg-logo="https://assets.livednow.com/logo/Variety-1.png" group-title="4GBEE|体育", Variety 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Variety_1_Live_TV
+
+#EXTINF:-1 tvg-id="Variety-2" tvg-name="Variety 2" tvg-logo="https://assets.livednow.com/logo/Variety-2.png" group-title="4GBEE|体育", Variety 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Variety_2_Live_TV
+
+#EXTINF:-1 tvg-id="Variety-3" tvg-name="Variety 3" tvg-logo="https://assets.livednow.com/logo/Variety-3.png" group-title="4GBEE|体育", Variety 3
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Variety_3_Live_TV
+
+#EXTINF:-1 tvg-id="Variety-4" tvg-name="Variety 4" tvg-logo="https://assets.livednow.com/logo/Variety-4.png" group-title="4GBEE|体育", Variety 4
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Variety_4_Live_TV
+
+#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://assets.livednow.com/logo/Eurosport-1.png" group-title="4GBEE|体育", Eurosport 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Eurosport_1_Live_TV
+
+#EXTINF:-1 tvg-id="Eurosport-2" tvg-name="Eurosport 2" tvg-logo="https://assets.livednow.com/logo/Eurosport-2.png" group-title="4GBEE|体育", Eurosport 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Eurosport_2_Live_TV
+
+#EXTINF:-1 tvg-id="Premier-Sports-1" tvg-name="Premier Sports 1" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-1.png" group-title="4GBEE|体育", Premier Sports 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Premier_Sports_1
+
+#EXTINF:-1 tvg-id="Premier-Sports-2" tvg-name="Premier Sports 2" tvg-logo="https://assets.livednow.com/logo/Premier-Sports-2.png" group-title="4GBEE|体育", Premier Sports 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Premier_Sports_2
+
+#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="4GBEE|体育", Golf Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Golf_Channel_Live_TV
+
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="4GBEE|体育", MLB Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/MLB_Network_Live_TV
+
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="4GBEE|体育", NBA TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/NBA_TV_Live_TV
+
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="4GBEE|体育", NFL Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/NFL_Network_Live_TV
+
+#EXTINF:-1 tvg-id="NFL-REDZONE" tvg-name="NFL Redzone" tvg-logo="https://assets.livednow.com/logo/NFL-REDZONE.png" group-title="4GBEE|体育", NFL Redzone
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/NFL_REDZONE_Live_TV
+
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="4GBEE|体育", NHL Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/NHL_Network_Live_TV
+
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://assets.livednow.com/logo/WWE.png" group-title="4GBEE|体育", WWE
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/WWE_Live_TV
+
+#EXTINF:-1 tvg-id="Willow-Cricket" tvg-name="Willow Cricket" tvg-logo="https://assets.livednow.com/logo/Willow-Cricket.png" group-title="4GBEE|体育", Willow Cricket
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Willow_Cricket_Live_TV
+
+#EXTINF:-1 tvg-id="Willow-Extra" tvg-name="Willow Extra" tvg-logo="https://assets.livednow.com/logo/Willow-Extra.png" group-title="4GBEE|体育", Willow Extra
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Willow_Extra_Live_TV
+
+#EXTINF:-1 tvg-id="World-Fishing-Network" tvg-name="World Fishing Network" tvg-logo="https://assets.livednow.com/logo/World-Fishing-Network.png" group-title="4GBEE|体育", World Fishing Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/World_Fishing_Network_Live_TV
+
+#EXTINF:-1 tvg-id="Fight-Network" tvg-name="Fight Network" tvg-logo="https://assets.livednow.com/logo/Fight-Network.png" group-title="4GBEE|体育", Fight Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Fight_Network_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="4GBEE|体育", ESPN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ESPN_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN 2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="4GBEE|体育", ESPN 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ESPN_2_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPN News" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="4GBEE|体育", ESPN News
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ESPN_News_Live_TV
+
+#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPN U" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="4GBEE|体育", ESPN U
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ESPN_U_Live_TV
+
+#EXTINF:-1 tvg-id="ITV-1" tvg-name="ITV 1" tvg-logo="https://assets.livednow.com/logo/ITV-1.png" group-title="BEES|戏剧", ITV 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ITV_1
+
+#EXTINF:-1 tvg-id="ITV-2" tvg-name="ITV 2" tvg-logo="https://assets.livednow.com/logo/ITV-2.png" group-title="BEES|戏剧", ITV 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ITV_2
+
+#EXTINF:-1 tvg-id="ITV-3" tvg-name="ITV 3" tvg-logo="https://assets.livednow.com/logo/ITV-3.png" group-title="BEES|戏剧", ITV 3
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ITV_3
+
+#EXTINF:-1 tvg-id="ITV-4" tvg-name="ITV 4" tvg-logo="https://assets.livednow.com/logo/ITV-4.png" group-title="BEES|戏剧", ITV 4
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ITV_4
+
+#EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://assets.livednow.com/logo/MUTV.png" group-title="4GBEE|体育", MUTV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/MUTV_Live_TV
+
+#EXTINF:-1 tvg-id="LFC-TV" tvg-name="LFC TV" tvg-logo="https://assets.livednow.com/logo/LFC-TV.png" group-title="4GBEE|体育", LFC TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/LFC_TV_Live_TV
+
+#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="4GBEE|体育", ACC Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/ACC_Network_Live_TV
+
+#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="4GBEE|体育", CBS Sports Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/CBS_Sports_Network_Live_TV
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="BEES|资讯", CNBC
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/CNBC_Live_TV
+
+#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="4GBEE|体育", Fox Sports 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Fox_Sports_1_Live_TV
+
+#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="4GBEE|体育", Fox Sports 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/Fox_Sports_2_Live_TV
+
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX News" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="BEES|资讯", FOX News
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/beesport/FOX_NEWS_Live_TV
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://assets.livednow.com/logo/AE.png" group-title="THETV|综合", A&E
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/ae
+
+#EXTINF:-1 tvg-id="ACC-Network" tvg-name="ACC Network" tvg-logo="https://assets.livednow.com/logo/ACC-Network.png" group-title="THETV|综合", ACC Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/acc-network
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://assets.livednow.com/logo/AMC.png" group-title="THETV|综合", AMC
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/amc
+
+#EXTINF:-1 tvg-id="American-Heroes-Channel" tvg-name="American Heroes Channel" tvg-logo="https://assets.livednow.com/logo/American-Heroes-Channel.png" group-title="THETV|综合", American Heroes Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/american-heroes-channel
+
+#EXTINF:-1 tvg-id="Animal-Planet" tvg-name="Animal Planet" tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png" group-title="THETV|综合", Animal Planet
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/animal-planet
+
+#EXTINF:-1 tvg-id="BBC-America" tvg-name="BBC America" tvg-logo="https://assets.livednow.com/logo/BBC-America.png" group-title="THETV|综合", BBC America
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/bbc-america
+
+#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-World-News.png" group-title="THETV|综合", BBC World News
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/bbc-world-news-hd
+
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-logo="https://assets.livednow.com/logo/BET.png" group-title="THETV|综合", BET
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/bet
+
+#EXTINF:-1 tvg-id="BET-Her" tvg-name="BET Her" tvg-logo="https://assets.livednow.com/logo/BET-Her.png" group-title="THETV|综合", BET Her
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/bet-her
+
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="THETV|综合", Bloomberg TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/bloomberg-tv
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://assets.livednow.com/logo/Boomerang.png" group-title="THETV|综合", Boomerang
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/boomerang
+
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-logo="https://assets.livednow.com/logo/Bravo.png" group-title="THETV|综合", Bravo
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/bravo
+
+#EXTINF:-1 tvg-id="Cartoon-Network" tvg-name="Cartoon Network" tvg-logo="https://assets.livednow.com/logo/Cartoon-Network.png" group-title="THETV|综合", Cartoon Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cartoon-network
+
+#EXTINF:-1 tvg-id="CBS-Sports-Network" tvg-name="CBS Sports Network" tvg-logo="https://assets.livednow.com/logo/CBS-Sports-Network.png" group-title="THETV|综合", CBS Sports Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cbs-sports-network
+
+#EXTINF:-1 tvg-id="Cinemax-West" tvg-name="Cinemax" tvg-logo="https://assets.livednow.com/logo/Cinemax-West.png" group-title="THETV|综合", Cinemax
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cinemax
+
+#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-logo="https://assets.livednow.com/logo/CMT.png" group-title="THETV|综合", CMT
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cmt
+
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://assets.livednow.com/logo/CNBC.png" group-title="THETV|综合", CNBC
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cnbc
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN.png" group-title="THETV|综合", CNN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cnn
+
+#EXTINF:-1 tvg-id="Comedy-Central" tvg-name="Comedy Central" tvg-logo="https://assets.livednow.com/logo/Comedy-Central.png" group-title="THETV|综合", Comedy Central
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/comedy-central
+
+#EXTINF:-1 tvg-id="Cooking-Channel" tvg-name="Cooking Channel" tvg-logo="https://assets.livednow.com/logo/Cooking-Channel.png" group-title="THETV|综合", Cooking Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cooking-channel
+
+#EXTINF:-1 tvg-id="Crime-And-Investigation" tvg-name="Crime & Investigation" tvg-logo="https://assets.livednow.com/logo/Crime-And-Investigation.png" group-title="THETV|综合", Crime & Investigation
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/crime-investigation-hd
+
+#EXTINF:-1 tvg-id="CSPAN" tvg-name="CSPAN" tvg-logo="https://assets.livednow.com/logo/CSPAN.png" group-title="THETV|综合", CSPAN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cspan
+
+#EXTINF:-1 tvg-id="CSPAN-2" tvg-name="CSPAN 2" tvg-logo="https://assets.livednow.com/logo/CSPAN-2.png" group-title="THETV|综合", CSPAN 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/cspan-2
+
+#EXTINF:-1 tvg-id="Destination-America" tvg-name="Destination America" tvg-logo="https://assets.livednow.com/logo/Destination-America.png" group-title="THETV|综合", Destination America
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/destination-america
+
+#EXTINF:-1 tvg-id="Discovery-Channel" tvg-name="Discovery" tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png" group-title="THETV|综合", Discovery
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/discovery
+
+#EXTINF:-1 tvg-id="Discovery-Family-Channel" tvg-name="Discovery Family Channel" tvg-logo="https://assets.livednow.com/logo/Discovery-Family-Channel.png" group-title="THETV|综合", Discovery Family Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/discovery-family-channel
+
+#EXTINF:-1 tvg-id="Discovery-Life" tvg-name="Discovery Life" tvg-logo="https://assets.livednow.com/logo/Discovery-Life.png" group-title="THETV|综合", Discovery Life
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/discovery-life
+
+#EXTINF:-1 tvg-id="Disney-Channel" tvg-name="Disney Channel (East)" tvg-logo="https://assets.livednow.com/logo/Disney-Channel.png" group-title="THETV|综合", Disney Channel (East)
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/disney-channel-east
+
+#EXTINF:-1 tvg-id="Disney-Junior" tvg-name="Disney Junior" tvg-logo="https://assets.livednow.com/logo/Disney-Junior.png" group-title="THETV|综合", Disney Junior
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/disney-junior
+
+#EXTINF:-1 tvg-id="Disney-XD" tvg-name="Disney XD" tvg-logo="https://assets.livednow.com/logo/Disney-XD.png" group-title="THETV|综合", Disney XD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/disney-xd
+
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="https://assets.livednow.com/logo/E.png" group-title="THETV|综合", E!
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/e
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://assets.livednow.com/logo/ESPN.png" group-title="THETV|综合", ESPN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/espn
+
+#EXTINF:-1 tvg-id="ESPN-2" tvg-name="ESPN2" tvg-logo="https://assets.livednow.com/logo/ESPN-2.png" group-title="THETV|综合", ESPN2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/espn2
+
+#EXTINF:-1 tvg-id="ESPN-News" tvg-name="ESPNews" tvg-logo="https://assets.livednow.com/logo/ESPN-News.png" group-title="THETV|综合", ESPNews
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/espnews
+
+#EXTINF:-1 tvg-id="ESPN-U" tvg-name="ESPNU" tvg-logo="https://assets.livednow.com/logo/ESPN-U.png" group-title="THETV|综合", ESPNU
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/espnu
+
+#EXTINF:-1 tvg-id="Food-Network" tvg-name="Food Network" tvg-logo="https://assets.livednow.com/logo/Food-Network.png" group-title="THETV|综合", Food Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/food-network
+
+#EXTINF:-1 tvg-id="Fox-Business-Network" tvg-name="Fox Business Network" tvg-logo="https://assets.livednow.com/logo/Fox-Business-Network.png" group-title="THETV|综合", Fox Business Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fox-business-network
+
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="Fox News Channel" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="THETV|综合", Fox News Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fox-news-channel
+
+#EXTINF:-1 tvg-id="Fox-Sports-1" tvg-name="Fox Sports 1" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-1.png" group-title="THETV|综合", Fox Sports 1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fox-sports-1
+
+#EXTINF:-1 tvg-id="Fox-Sports-2" tvg-name="Fox Sports 2" tvg-logo="https://assets.livednow.com/logo/Fox-Sports-2.png" group-title="THETV|综合", Fox Sports 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fox-sports-2
+
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://assets.livednow.com/logo/Freeform.png" group-title="THETV|综合", Freeform
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/freeform
+
+#EXTINF:-1 tvg-id="Fuse-HD" tvg-name="Fuse HD" tvg-logo="https://assets.livednow.com/logo/Fuse-HD.png" group-title="THETV|综合", Fuse HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fuse-hd
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets.livednow.com/logo/FX.png" group-title="THETV|综合", FX
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fx
+
+#EXTINF:-1 tvg-id="FX-Movie" tvg-name="FX Movie" tvg-logo="https://assets.livednow.com/logo/FX-Movie.png" group-title="THETV|综合", FX Movie
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fx-movie
+
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-logo="https://assets.livednow.com/logo/FXX.png" group-title="THETV|综合", FXX
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fxx
+
+#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://assets.livednow.com/logo/FYI.png" group-title="THETV|综合", FYI
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/fyi
+
+#EXTINF:-1 tvg-id="Golf-Channel" tvg-name="Golf Channel" tvg-logo="https://assets.livednow.com/logo/Golf-Channel.png" group-title="THETV|综合", Golf Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/golf-channel
+
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-logo="https://assets.livednow.com/logo/Hallmark.png" group-title="THETV|综合", Hallmark
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hallmark
+
+#EXTINF:-1 tvg-id="Hallmark-Drama-HD" tvg-name="Hallmark Drama HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Drama-HD.png" group-title="THETV|综合", Hallmark Drama HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hallmark-drama-hd
+
+#EXTINF:-1 tvg-id="Hallmark-Movies-And-Mysteries-HD" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="https://assets.livednow.com/logo/Hallmark-Movies-And-Mysteries-HD.png" group-title="THETV|综合", Hallmark Movies & Mysteries HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hallmark-movies-mysteries-hd
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO East" tvg-logo="https://assets.livednow.com/logo/HBO.png" group-title="THETV|综合", HBO East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hbo-east
+
+#EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2 East" tvg-logo="https://assets.livednow.com/logo/HBO-2.png" group-title="THETV|综合", HBO 2 East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hbo-2-east
+
+#EXTINF:-1 tvg-id="HBO-Comedy-HD" tvg-name="HBO Comedy HD" tvg-logo="https://assets.livednow.com/logo/HBO-Comedy-HD.png" group-title="THETV|综合", HBO Comedy HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hbo-comedy-hd
+
+#EXTINF:-1 tvg-id="HBO-Family-East" tvg-name="HBO Family East" tvg-logo="https://assets.livednow.com/logo/HBO-Family-East.png" group-title="THETV|综合", HBO Family East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hbo-family-east
+
+#EXTINF:-1 tvg-id="HBO-Signature" tvg-name="HBO Signature" tvg-logo="https://assets.livednow.com/logo/HBO-Signature.png" group-title="THETV|综合", HBO Signature
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hbo-signature
+
+#EXTINF:-1 tvg-id="HBO-Zone-HD" tvg-name="HBO Zone HD" tvg-logo="https://assets.livednow.com/logo/HBO-Zone-HD.png" group-title="THETV|综合", HBO Zone HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hbo-zone-hd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://assets.livednow.com/logo/HGTV.png" group-title="THETV|综合", HGTV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hgtv
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://assets.livednow.com/logo/History.png" group-title="THETV|综合", History
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/history
+
+#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" tvg-logo="https://assets.livednow.com/logo/HLN.png" group-title="THETV|综合", HLN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/hln
+
+#EXTINF:-1 tvg-id="IFC" tvg-name="IFC" tvg-logo="https://assets.livednow.com/logo/IFC.png" group-title="THETV|综合", IFC
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/ifc
+
+#EXTINF:-1 tvg-id="Investigation-Discovery" tvg-name="Investigation Discovery" tvg-logo="https://assets.livednow.com/logo/Investigation-Discovery.png" group-title="THETV|综合", Investigation Discovery
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/investigation-discovery
+
+#EXTINF:-1 tvg-id="ION-Television-East-HD" tvg-name="ION Television East HD" tvg-logo="https://assets.livednow.com/logo/ION-Television-East-HD.png" group-title="THETV|综合", ION Television East HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/ion-television-east-hd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://assets.livednow.com/logo/Lifetime.png" group-title="THETV|综合", Lifetime
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/lifetime
+
+#EXTINF:-1 tvg-id="LMN" tvg-name="Lifetime Movies" tvg-logo="https://assets.livednow.com/logo/LMN.png" group-title="THETV|综合", Lifetime Movies
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/lmn
+
+#EXTINF:-1 tvg-id="Logo" tvg-name="Logo" tvg-logo="https://assets.livednow.com/logo/Logo.png" group-title="THETV|综合", Logo
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/logo
+
+#EXTINF:-1 tvg-id="MLB-Network" tvg-name="MLB Network" tvg-logo="https://assets.livednow.com/logo/MLB-Network.png" group-title="THETV|综合", MLB Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/mlb-network
+
+#EXTINF:-1 tvg-id="MoreMAX" tvg-name="More MAX" tvg-logo="https://assets.livednow.com/logo/MoreMAX.png" group-title="THETV|综合", More MAX
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/moremax
+
+#EXTINF:-1 tvg-id="MotorTrend-HD" tvg-name="Motor Trend HD" tvg-logo="https://assets.livednow.com/logo/MotorTrend-HD.png" group-title="THETV|综合", Motor Trend HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/motortrend-hd
+
+#EXTINF:-1 tvg-id="MovieMAX" tvg-name="MovieMAX" tvg-logo="https://assets.livednow.com/logo/MovieMAX.png" group-title="THETV|综合", MovieMAX
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/moviemax
+
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-logo="https://assets.livednow.com/logo/MSNBC.png" group-title="THETV|综合", MSNBC
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/msnbc
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://assets.livednow.com/logo/MTV.png" group-title="THETV|综合", MTV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/mtv
+
+#EXTINF:-1 tvg-id="National-Geographic" tvg-name="National Geographic" tvg-logo="https://assets.livednow.com/logo/National-Geographic.png" group-title="THETV|综合", National Geographic
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/national-geographic
+
+#EXTINF:-1 tvg-id="National-Geographic-Wild" tvg-name="National Geographic Wild" tvg-logo="https://assets.livednow.com/logo/National-Geographic-Wild.png" group-title="THETV|综合", National Geographic Wild
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nat-geo-wild
+
+#EXTINF:-1 tvg-id="NBA-TV" tvg-name="NBA TV" tvg-logo="https://assets.livednow.com/logo/NBA-TV.png" group-title="THETV|综合", NBA TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nba-tv
+
+#EXTINF:-1 tvg-id="NFL-Network" tvg-name="NFL Network" tvg-logo="https://assets.livednow.com/logo/NFL-Network.png" group-title="THETV|综合", NFL Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nfl-network
+
+#EXTINF:-1 tvg-id="NHL-Network" tvg-name="NHL Network" tvg-logo="https://assets.livednow.com/logo/NHL-Network.png" group-title="THETV|综合", NHL Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nhl-network
+
+#EXTINF:-1 tvg-id="Nick-Jr-US" tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr-US.png" group-title="THETV|综合", Nick Jr.
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nick-jr
+
+#EXTINF:-1 tvg-id="Nickelodeon-East" tvg-name="Nickelodeon East" tvg-logo="https://assets.livednow.com/logo/Nickelodeon-East.png" group-title="THETV|综合", Nickelodeon East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nickelodeon-east
+
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://assets.livednow.com/logo/Nicktoons.png" group-title="THETV|综合", Nicktoons
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/nicktoons
+
+#EXTINF:-1 tvg-id="Outdoor-Channel" tvg-name="Outdoor Channel" tvg-logo="https://assets.livednow.com/logo/Outdoor-Channel.png" group-title="THETV|综合", Outdoor Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/outdoor-channel
+
+#EXTINF:-1 tvg-id="OWN" tvg-name="OWN" tvg-logo="https://assets.livednow.com/logo/OWN.png" group-title="THETV|综合", OWN
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/own
+
+#EXTINF:-1 tvg-id="Oxygen-True-Crime" tvg-name="Oxygen True Crime" tvg-logo="https://assets.livednow.com/logo/Oxygen-True-Crime.png" group-title="THETV|综合", Oxygen True Crime
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/oxygen-true-crime
+
+#EXTINF:-1 tvg-id="WNET-New-York" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://assets.livednow.com/logo/WNET-New-York.png" group-title="THETV|综合", PBS 13 (WNET) New York
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/pbs-13-wnet-new-york
+
+#EXTINF:-1 tvg-id="ReelzChannel" tvg-name="ReelzChannel" tvg-logo="https://assets.livednow.com/logo/ReelzChannel.png" group-title="THETV|综合", ReelzChannel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/reelzchannel
+
+#EXTINF:-1 tvg-id="Science" tvg-name="Science" tvg-logo="https://assets.livednow.com/logo/Science.png" group-title="THETV|综合", Science
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/science
+
+#EXTINF:-1 tvg-id="Showtime-Extreme" tvg-name="Showtime Extreme" tvg-logo="https://assets.livednow.com/logo/Showtime-Extreme.png" group-title="THETV|综合", Showtime Extreme
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/showtime-e
+
+#EXTINF:-1 tvg-id="Showtime-2" tvg-name="Showtime 2" tvg-logo="https://assets.livednow.com/logo/Showtime-2.png" group-title="THETV|综合", Showtime 2
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/showtime-2
+
+#EXTINF:-1 tvg-id="STARZ-East" tvg-name="STARZ East" tvg-logo="https://assets.livednow.com/logo/STARZ-East.png" group-title="THETV|综合", STARZ East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/starz-east
+
+#EXTINF:-1 tvg-id="Sundance-TV" tvg-name="Sundance TV" tvg-logo="https://assets.livednow.com/logo/Sundance-TV.png" group-title="THETV|综合", Sundance TV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/sundancetv-hd
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://assets.livednow.com/logo/SYFY.png" group-title="THETV|综合", SYFY
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/syfy
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://assets.livednow.com/logo/TBS.png" group-title="THETV|综合", TBS
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/tbs
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://assets.livednow.com/logo/TCM.png" group-title="THETV|综合", TCM
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/tcm
+
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="TeenNick" tvg-logo="https://assets.livednow.com/logo/TeenNick.png" group-title="THETV|综合", TeenNick
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/teennick
+
+#EXTINF:-1 tvg-id="Telemundo-East" tvg-name="Telemundo East" tvg-logo="https://assets.livednow.com/logo/Telemundo-East.png" group-title="THETV|综合", Telemundo East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/telemundo-east
+
+#EXTINF:-1 tvg-id="Tennis-Channel" tvg-name="Tennis Channel" tvg-logo="https://assets.livednow.com/logo/Tennis-Channel.png" group-title="THETV|综合", Tennis Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/tennis-channel
+
+#EXTINF:-1 tvg-id="WPIX-New-York" tvg-name="The CW (WPIX New York)" tvg-logo="https://assets.livednow.com/logo/WPIX-New-York.png" group-title="THETV|综合", The CW (WPIX New York)
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/the-cw
+
+#EXTINF:-1 tvg-id="The-Movie-Channel-East" tvg-name="The Movie Channel East" tvg-logo="https://assets.livednow.com/logo/The-Movie-Channel-East.png" group-title="THETV|综合", The Movie Channel East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/the-movie-channel-east
+
+#EXTINF:-1 tvg-id="The-Weather-Channel" tvg-name="The Weather Channel" tvg-logo="https://assets.livednow.com/logo/The-Weather-Channel.png" group-title="THETV|综合", The Weather Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/the-weather-channel
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets.livednow.com/logo/TLC.png" group-title="THETV|综合", TLC
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/tlc
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://assets.livednow.com/logo/TNT.png" group-title="THETV|综合", TNT
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/tnt
+
+#EXTINF:-1 tvg-id="Travel-Channel" tvg-name="Travel Channel" tvg-logo="https://assets.livednow.com/logo/Travel-Channel.png" group-title="THETV|综合", Travel Channel
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/travel-channel
+
+#EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-logo="https://assets.livednow.com/logo/truTV.png" group-title="THETV|综合", truTV
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/trutv
+
+#EXTINF:-1 tvg-id="TV-One-HD" tvg-name="TV One HD" tvg-logo="https://assets.livednow.com/logo/TV-One-HD.png" group-title="THETV|综合", TV One HD
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/tv-one-hd
+
+#EXTINF:-1 tvg-id="Universal-Kids" tvg-name="Universal Kids" tvg-logo="https://assets.livednow.com/logo/Universal-Kids.png" group-title="THETV|综合", Universal Kids
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/universal-kids
+
+#EXTINF:-1 tvg-id="Univision-East" tvg-name="Univision East" tvg-logo="https://assets.livednow.com/logo/Univision-East.png" group-title="THETV|综合", Univision East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/univision-east
+
+#EXTINF:-1 tvg-id="USA-Network" tvg-name="USA Network" tvg-logo="https://assets.livednow.com/logo/USA-Network.png" group-title="THETV|综合", USA Network
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/usa-network
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://assets.livednow.com/logo/VH1.png" group-title="THETV|综合", VH1
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/vh1
+
+#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" tvg-logo="https://assets.livednow.com/logo/VICE.png" group-title="THETV|综合", VICE
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/vice
+
+#EXTINF:-1 tvg-id="WABC-New-York-ABC-East" tvg-name="WABC (New York) ABC East" tvg-logo="https://assets.livednow.com/logo/WABC-New-York-ABC-East.png" group-title="THETV|综合", WABC (New York) ABC East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/wabc-new-york-abc-east
+
+#EXTINF:-1 tvg-id="WCBS-New-York-CBS-East" tvg-name="WCBS (New York) CBS East" tvg-logo="https://assets.livednow.com/logo/WCBS-New-York-CBS-East.png" group-title="THETV|综合", WCBS (New York) CBS East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/wcbs-new-york-cbs-east
+
+#EXTINF:-1 tvg-id="WE-tv" tvg-name="WE tv" tvg-logo="https://assets.livednow.com/logo/WE-tv.png" group-title="THETV|综合", WE tv
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/we-tv
+
+#EXTINF:-1 tvg-id="WNBC-New-York-NBC-East" tvg-name="WNBC (New York) NBC East" tvg-logo="https://assets.livednow.com/logo/WNBC-New-York-NBC-East.png" group-title="THETV|综合", WNBC (New York) NBC East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/wnbc-new-york-nbc-east
+
+#EXTINF:-1 tvg-id="WNYW-New-York-FOX-East" tvg-name="WNYW (New York) FOX East" tvg-logo="https://assets.livednow.com/logo/WNYW-New-York-FOX-East.png" group-title="THETV|综合", WNYW (New York) FOX East
+http://liable-donica-wangdang2121-8cc7de6d.koyeb.app/thetv/wnyw-new-york-fox-east
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="臺灣 Taiwan",AXN
+http://45.89.104.154/mlTW3586.php?id=axn_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",CINEMAX
+http://45.89.104.154/mlTW3586.php?id=cinemax_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",EYE戲劇
+http://45.89.104.154/mlTW3586.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",EYE旅遊
+http://45.89.104.154/mlTW3586.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",HBO
+http://45.89.104.154/mlTW3586.php?id=hbohd_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",HBO Family
+http://45.89.104.154/mlTW3586.php?id=fyi_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",好萊塢電影台
+http://45.89.104.154/mlTW3586.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",MTV Live
+http://45.89.104.154/mlTW3586.php?id=mtvhd_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",TLC旅遊生活
+http://45.89.104.154/mlTW3586.php?id=tlc_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",東森新聞
+http://45.89.104.154/mlTW3586.php?id=ettvnews
+#EXTINF:-1 group-title="臺灣 Taiwan",TVBS HD
+http://45.89.104.154/mlTW3586.php?id=tvbs
+#EXTINF:-1 group-title="臺灣 Taiwan",TVBS新聞台
+http://45.89.104.154/mlTW3586.php?id=tvbs_n
+#EXTINF:-1 group-title="臺灣 Taiwan",TVBS歡樂台
+http://45.89.104.154/mlTW3586.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",三立台灣台
+http://45.89.104.154/mlTW3586.php?id=sanlitaiwan
+#EXTINF:-1 group-title="臺灣 Taiwan",三立戲劇台
+http://45.89.104.154/mlTW3586.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",三立綜合台
+http://45.89.104.154/mlTW3586.php?id=sanlizhonghe
+#EXTINF:-1 group-title="臺灣 Taiwan",中天亞洲台
+http://45.89.104.154/mlTW3586.php?id=ctiasia_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",中天娱樂
+http://45.89.104.154/mlTW3586.php?id=ctient
+#EXTINF:-1 group-title="臺灣 Taiwan",中天新聞HD
+http://45.89.104.154/mlTW3586.php?id=ctinews
+#EXTINF:-1 group-title="臺灣 Taiwan",中天綜合
+http://45.89.104.154/mlTW3586.php?id=ctizhonghe
+#EXTINF:-1 group-title="臺灣 Taiwan",亞洲旅遊台
+http://45.89.104.154/mlTW3586.php?id=asiatravel_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",亞洲美食
+http://45.89.104.154/mlTW3586.php?id=afc_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",八大戲劇
+http://45.89.104.154/mlTW3586.php?id=badadrama
+#EXTINF:-1 group-title="臺灣 Taiwan",八大第一
+http://45.89.104.154/mlTW3586.php?id=badafirst
+#EXTINF:-1 group-title="臺灣 Taiwan",八大綜合
+http://45.89.104.154/mlTW3586.php?id=badazhonghe
+#EXTINF:-1 group-title="臺灣 Taiwan",公視
+http://45.89.104.154/mlTW3586.php?id=ctv_taiwan
+#EXTINF:-1 group-title="臺灣 Taiwan",民視
+http://45.89.104.154/mlTW3586.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="臺灣 Taiwan",民視第一台
+http://45.89.104.154/mlTW3586.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",民視台灣台
+http://45.89.104.154/mlTW3586.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",民視新聞台
+http://45.89.104.154/mlTW3586.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="臺灣 Taiwan",台視
+http://45.89.104.154/mlTW3586.php?id=ttv_taiwan
+#EXTINF:-1 group-title="臺灣 Taiwan",台視新聞台
+http://45.89.104.154/mlTW3586.php?id=ttvnews_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",中視
+http://45.89.104.154/mlTW3586.php?id=zhongshihd_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",中視新聞台
+http://45.89.104.154/mlTW3586.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",中視經典
+http://45.89.104.154/mlTW3586.php?id=zhongshi_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",華視
+http://45.89.104.154/mlTW3586.php?id=ctshd_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",華藝綜合
+http://45.89.104.154/mlTW3586.php?id=weishichinese_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",大愛一台
+http://45.89.104.154/mlTW3586.php?id=daai_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",寰宇新聞台
+http://45.89.104.154/mlTW3586.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",寰宇財經台
+http://45.89.104.154/mlTW3586.php?id=huanyutaiwan_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",年代新聞台
+http://45.89.104.154/mlTW3586.php?id=niandainews_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達影劇
+http://45.89.104.154/mlTW3586.php?id=eltayingju_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達體育 1
+http://45.89.104.154/mlTW3586.php?id=eltasport_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達體育 2
+http://45.89.104.154/mlTW3586.php?id=eltasport2_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達體育 3
+http://45.89.104.154/mlTW3586.php?id=eltasport3_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",ELEVEN 1
+http://45.89.104.154/mlTW3586.php?id=golfchannel_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",博斯網球
+http://45.89.104.154/mlTW3586.php?id=bositennis_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",博斯運動1
+http://45.89.104.154/mlTW3586.php?id=bosisport1_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",博斯運動2
+http://45.89.104.154/mlTW3586.php?id=bosisport2_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",博斯高球1
+http://45.89.104.154/mlTW3586.php?id=bosigolf1_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",博斯高球2
+http://45.89.104.154/mlTW3586.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",探索亞洲
+http://45.89.104.154/mlTW3586.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",探索動力
+http://45.89.104.154/mlTW3586.php?id=discoveryturbo_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",國家地理
+http://45.89.104.154/mlTW3586.php?id=natgeohd_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",野生動物
+http://45.89.104.154/mlTW3586.php?id=natgeowild_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",動物星球
+http://45.89.104.154/mlTW3586.php?id=animalplanet_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",時尚
+http://45.89.104.154/mlTW3586.php?id=fashiontv_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",Discovery Asia
+http://45.89.104.154/mlTW3586.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",Discovery HD
+http://45.89.104.154/mlTW3586.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",東森戲劇
+http://45.89.104.154/mlTW3586.php?id=ettvdrama
+#EXTINF:-1 group-title="臺灣 Taiwan",東森洋片
+http://45.89.104.154/mlTW3586.php?id=ettvwestern
+#EXTINF:-1 group-title="臺灣 Taiwan",東森綜合
+http://45.89.104.154/mlTW3586.php?id=ettvzhonghe
+#EXTINF:-1 group-title="臺灣 Taiwan",東森財經新聞
+http://45.89.104.154/mlTW3586.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",東森電影
+http://45.89.104.154/mlTW3586.php?id=ettvmovie
+#EXTINF:-1 group-title="臺灣 Taiwan",緯來日本台
+http://45.89.104.154/mlTW3586.php?id=videolandjapan
+#EXTINF:-1 group-title="臺灣 Taiwan",緯來體育台
+http://45.89.104.154/mlTW3586.php?id=videolandsport
+#EXTINF:-1 group-title="臺灣 Taiwan",美亞電影
+http://45.89.104.154/mlTW3586.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",BBC World News
+http://45.89.104.154/mlTW3586.php?id=bbcnews_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",Bloomberg News
+http://45.89.104.154/mlTW3586.php?id=bloomberg_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",Fox News
+http://45.89.104.154/mlTW3586.php?id=foxnews_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",阿里郎
+http://45.89.104.154/mlTW3586.php?id=arirang_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",CN卡通
+http://45.89.104.154/mlTW3586.php?id=momo1_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",靖天卡通台
+http://45.89.104.154/mlTW3586.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",靖天國際台
+http://45.89.104.154/mlTW3586.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",非凡新聞台
+http://45.89.104.154/mlTW3586.php?id=feifannews_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",龍祥時代
+http://45.89.104.154/mlTW3586.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",龍華偶像
+http://45.89.104.154/mlTW3586.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",龍華戲劇
+http://45.89.104.154/mlTW3586.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",龍華洋片
+http://45.89.104.154/mlTW3586.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",龍華經典
+http://45.89.104.154/mlTW3586.php?id=lunghuajingdian_twn
+#EXTINF:-1 group-title="臺灣 Taiwan",龍華電影
+http://45.89.104.154/mlTW3586.php?id=xingwei_movie
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV1
+http://45.89.104.154/mlTW3586.php?id=TV1
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV1(備用)
+http://45.89.104.154/mlTW3586.php?id=TV1_backup
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV2
+http://45.89.104.154/mlTW3586.php?id=TV2
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV3
+http://45.89.104.154/mlTW3586.php?id=TV3
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV3(備用)
+http://45.89.104.154/mlTW3586.php?id=tv3_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",NTV7
+http://45.89.104.154/mlTW3586.php?id=NTV7
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV8
+http://45.89.104.154/mlTW3586.php?id=TV8
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TV9
+http://45.89.104.154/mlTW3586.php?id=TV9
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Warna
+http://45.89.104.154/mlTW3586.php?id=Warna-O
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Warna(備用)
+http://45.89.104.154/mlTW3586.php?id=Warna
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria
+http://45.89.104.154/mlTW3586.php?id=Ria-0
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria(備用)
+http://45.89.104.154/mlTW3586.php?id=Ria49
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria-3
+http://45.89.104.154/mlTW3586.php?id=Ria_quanjia
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Al-Hijrah
+http://45.89.104.154/mlTW3586.php?id=Alhijrah
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Al-Hijrah(備用)
+http://45.89.104.154/mlTW3586.php?id=Alhijrah_backup
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Awani
+http://45.89.104.154/mlTW3586.php?id=Awani
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Bernama
+http://45.89.104.154/mlTW3586.php?id=Bernama
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Prima
+http://45.89.104.154/mlTW3586.php?id=Prima-0
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Prima(備用)
+http://45.89.104.154/mlTW3586.php?id=Prima49
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Ceria
+http://45.89.104.154/mlTW3586.php?id=Ceria
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Astro MTV
+http://45.89.104.154/mlTW3586.php?id=AstroMTV
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Mecca Live HD
+http://45.89.104.154/mlTW3586.php?id=quran_mido
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Madinah HD
+http://45.89.104.154/mlTW3586.php?id=sunnah_mido
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Oasis
+http://45.89.104.154/mlTW3586.php?id=Oasis
+#EXTINF:-1 group-title="馬來西亞 Malaysia",HBO HD
+http://45.89.104.154/mlTW3586.php?id=Hbo
+#EXTINF:-1 group-title="馬來西亞 Malaysia",HBO Signature
+http://45.89.104.154/mlTW3586.php?id=Hbosignature
+#EXTINF:-1 group-title="馬來西亞 Malaysia",HBO Hits
+http://45.89.104.154/mlTW3586.php?id=Hbohits
+#EXTINF:-1 group-title="馬來西亞 Malaysia",NatGeo Wild HD
+http://45.89.104.154/mlTW3586.php?id=Natgeowild
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Cartoon Network
+http://45.89.104.154/mlTW3586.php?id=Cn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Nickelodeon
+http://45.89.104.154/mlTW3586.php?id=Nickelodeon
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Nick Jr
+http://45.89.104.154/mlTW3586.php?id=Nickjr
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Citra
+http://45.89.104.154/mlTW3586.php?id=Citra
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Sensasi
+http://45.89.104.154/mlTW3586.php?id=Sensasi
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Aura
+http://45.89.104.154/mlTW3586.php?id=Aura
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Rania
+http://45.89.104.154/mlTW3586.php?id=Rania
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Boo
+http://45.89.104.154/mlTW3586.php?id=Boo
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Awesome TV
+http://45.89.104.154/mlTW3586.php?id=Awesome_mega
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Sony HD
+http://45.89.104.154/mlTW3586.php?id=SetOne
+#EXTINF:-1 group-title="馬來西亞 Malaysia",KBS World
+http://45.89.104.154/mlTW3586.php?id=KBS
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TvN
+http://45.89.104.154/mlTW3586.php?id=TVN
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Astro Premier
+http://45.89.104.154/mlTW3586.php?id=Astropremier
+#EXTINF:-1 group-title="馬來西亞 Malaysia",AEC
+http://45.89.104.154/mlTW3586.php?id=AEC
+#EXTINF:-1 group-title="馬來西亞 Malaysia",華麗台 HD
+http://45.89.104.154/mlTW3586.php?id=Wlt
+#EXTINF:-1 group-title="馬來西亞 Malaysia",歡喜台 HD
+http://45.89.104.154/mlTW3586.php?id=Huahee
+#EXTINF:-1 group-title="馬來西亞 Malaysia",歡喜台(備用)
+http://45.89.104.154/mlTW3586.php?id=Huahee_backup
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Astro QJ
+http://45.89.104.154/mlTW3586.php?id=Quanjia
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB Jade
+http://45.89.104.154/mlTW3586.php?id=Tvbjade
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TVBS Asia
+http://45.89.104.154/mlTW3586.php?id=Tvbasia
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB Entertainment
+http://45.89.104.154/mlTW3586.php?id=Tvbentertainment
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB Classic
+http://45.89.104.154/mlTW3586.php?id=Tvbclassic
+#EXTINF:-1 group-title="馬來西亞 Malaysia",AOD
+http://45.89.104.154/mlTW3586.php?id=AodHD
+#EXTINF:-1 group-title="馬來西亞 Malaysia",One
+http://45.89.104.154/mlTW3586.php?id=One_mega
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB 星河台
+http://45.89.104.154/mlTW3586.php?id=Xinhe
+#EXTINF:-1 group-title="馬來西亞 Malaysia",愛奇藝
+http://45.89.104.154/mlTW3586.php?id=Qiyi
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Animal Planet (Eng)
+http://45.89.104.154/mlTW3586.php?id=AnimalPlanet
+#EXTINF:-1 group-title="馬來西亞 Malaysia",tvN Movie
+http://45.89.104.154/mlTW3586.php?id=Tvnmovie
+#EXTINF:-1 group-title="馬來西亞 Malaysia",CNN(備用)
+http://45.89.104.154/mlTW3586.php?id=cnn_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Celestial Classic
+http://45.89.104.154/mlTW3586.php?id=Celestial2
+#EXTINF:-1 group-title="馬來西亞 Malaysia",CNBC
+http://45.89.104.154/mlTW3586.php?id=cnbc_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",RTM Sports HD
+http://45.89.104.154/mlTW3586.php?id=Rtmsport
+#EXTINF:-1 group-title="馬來西亞 Malaysia",TLC
+http://45.89.104.154/mlTW3586.php?id=Tlc
+#EXTINF:-1 group-title="馬來西亞 Malaysia",CNA
+http://45.89.104.154/mlTW3586.php?id=cna
+#EXTINF:-1 group-title="馬來西亞 Malaysia",AFC 亞洲旅遊台
+http://45.89.104.154/mlTW3586.php?id=asiatravel_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",BBC World News
+http://45.89.104.154/mlTW3586.php?id=bbcnews_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Foodnetwork Hd
+http://45.89.104.154/mlTW3586.php?id=Foodnetwork_mega
+#EXTINF:-1 group-title="馬來西亞 Malaysia",HGTV
+http://45.89.104.154/mlTW3586.php?id=HGTV
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Arena
+http://45.89.104.154/mlTW3586.php?id=Arena
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Goshop
+http://45.89.104.154/mlTW3586.php?id=Goshop
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Celestial Movies HD
+http://45.89.104.154/mlTW3586.php?id=Celestial_mega
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Arena 2
+http://45.89.104.154/mlTW3586.php?id=Arena2
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Axn HD
+http://45.89.104.154/mlTW3586.php?id=Axn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Paramount Network
+http://45.89.104.154/mlTW3586.php?id=Paramountnetwork
+#EXTINF:-1 group-title="馬來西亞 Malaysia",BolaArena 1
+http://45.89.104.154/mlTW3586.php?id=Bolaarena1
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Astrol Kplus
+http://45.89.104.154/mlTW3586.php?id=Kplus
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Rock Actions
+http://45.89.104.154/mlTW3586.php?id=Rockaction
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Bloomberg News
+http://45.89.104.154/mlTW3586.php?id=bloomberg_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Al-Jazeera
+http://45.89.104.154/mlTW3586.php?id=aljazeera_twn
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Rock Entertainment
+http://45.89.104.154/mlTW3586.php?id=Rockentertain
+#EXTINF:-1 group-title="馬來西亞 Malaysia",Showcase
+http://45.89.104.154/mlTW3586.php?id=Showcase_mega
+#EXTINF:-1 group-title="馬來西亞 Malaysia",BolaArena 2
+http://45.89.104.154/mlTW3586.php?id=Bolaarena2
+#EXTINF:-1 group-title="新加坡 Singapore",Channel 5
+http://45.89.104.154/mlTW3586.php?id=Channel5HD
+#EXTINF:-1 group-title="新加坡 Singapore",Channel 5(備用)
+http://45.89.104.154/mlTW3586.php?id=Ch5_mega
+#EXTINF:-1 group-title="新加坡 Singapore",Channel 8
+http://45.89.104.154/mlTW3586.php?id=Channel8HD
+#EXTINF:-1 group-title="新加坡 Singapore",Channel 8(備用)
+http://45.89.104.154/mlTW3586.php?id=Ch8_mega
+#EXTINF:-1 group-title="新加坡 Singapore",Suria
+http://45.89.104.154/mlTW3586.php?id=Suria
+#EXTINF:-1 group-title="新加坡 Singapore",Suria(備用)
+http://45.89.104.154/mlTW3586.php?id=Suria_backup
+#EXTINF:-1 group-title="新加坡 Singapore",Channel U
+http://45.89.104.154/mlTW3586.php?id=ChannelU
+#EXTINF:-1 group-title="新加坡 Singapore",Channel U(備用)
+http://45.89.104.154/mlTW3586.php?id=ChU_mega
+#EXTINF:-1 group-title="新加坡 Singapore",Vasantham
+http://45.89.104.154/mlTW3586.php?id=Vasantham
+#EXTINF:-1 group-title="新加坡 Singapore",Vasantham(備用)
+http://45.89.104.154/mlTW3586.php?id=Vasantham_mega
+#EXTINF:-1 group-title="新加坡 Singapore",CNA
+http://45.89.104.154/mlTW3586.php?id=cna
+#EXTINF:-1 group-title="新加坡 Singapore",CNA(備用)
+http://45.89.104.154/mlTW3586.php?id=cna_twn
+#EXTINF:-1 group-title="印尼 Indonesia",TVRI National
+http://45.89.104.154/mlTW3586.php?id=TVRI
+#EXTINF:-1 group-title="印尼 Indonesia",RCTI
+http://45.89.104.154/mlTW3586.php?id=Rcti
+#EXTINF:-1 group-title="印尼 Indonesia",Kompass TV
+http://45.89.104.154/mlTW3586.php?id=Kompass
+#EXTINF:-1 group-title="印尼 Indonesia",Berita Satu
+http://45.89.104.154/mlTW3586.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="印尼 Indonesia",Indosiar HD
+http://45.89.104.154/mlTW3586.php?id=Indosiar
+#EXTINF:-1 group-title="印尼 Indonesia",AnTV
+http://45.89.104.154/mlTW3586.php?id=Antv
+#EXTINF:-1 group-title="印尼 Indonesia",MNC TV
+http://45.89.104.154/mlTW3586.php?id=Mnctv
+#EXTINF:-1 group-title="印尼 Indonesia",Trans 7
+http://45.89.104.154/mlTW3586.php?id=Trans7_eko
+#EXTINF:-1 group-title="印尼 Indonesia",Transtv
+http://45.89.104.154/mlTW3586.php?id=Transtv
+#EXTINF:-1 group-title="印尼 Indonesia",JTV
+http://45.89.104.154/mlTW3586.php?id=JTV_eko
+#EXTINF:-1 group-title="印尼 Indonesia",Metro TV
+http://45.89.104.154/mlTW3586.php?id=metrotv_eko
+#EXTINF:-1 group-title="印尼 Indonesia",Cinemax
+http://45.89.104.154/mlTW3586.php?id=Cinemax
+#EXTINF:-1 group-title="印尼 Indonesia",SCTV
+http://45.89.104.154/mlTW3586.php?id=SCTV
+#EXTINF:-1 group-title="印尼 Indonesia",Tvone
+http://45.89.104.154/mlTW3586.php?id=Tvone
+#EXTINF:-1 group-title="印尼 Indonesia",TVMU
+http://45.89.104.154/mlTW3586.php?id=TVMU_eko
+#EXTINF:-1 group-title="印尼 Indonesia",GTV
+http://45.89.104.154/mlTW3586.php?id=Gtv
+#EXTINF:-1 group-title="印尼 Indonesia",RTV
+http://45.89.104.154/mlTW3586.php?id=Rtv
+#EXTINF:-1 group-title="印尼 Indonesia",Jak TV
+http://45.89.104.154/mlTW3586.php?id=JakTV
+#EXTINF:-1 group-title="印尼 Indonesia",iNews TV
+http://45.89.104.154/mlTW3586.php?id=Inewstv
+#EXTINF:-1 group-title="印尼 Indonesia",Daai TV
+http://45.89.104.154/mlTW3586.php?id=DaaiTV
+#EXTINF:-1 group-title="印尼 Indonesia",Net TV
+http://45.89.104.154/mlTW3586.php?id=NetTV
+#EXTINF:-1 group-title="印尼 Indonesia",Animax
+http://45.89.104.154/mlTW3586.php?id=Animax
+#EXTINF:-1 group-title="印尼 Indonesia",EWTN
+http://45.89.104.154/mlTW3586.php?id=Ewtn
+#EXTINF:-1 group-title="印尼 Indonesia",AlQuran AlKareem
+http://45.89.104.154/mlTW3586.php?id=AlQuran
+#EXTINF:-1 group-title="印尼 Indonesia",Tawaf TV
+http://45.89.104.154/mlTW3586.php?id=TawafTV
+#EXTINF:-1 group-title="印尼 Indonesia",Vision Prime
+http://45.89.104.154/mlTW3586.php?id=VisionPrime
+#EXTINF:-1 group-title="印尼 Indonesia",Muslim TV
+http://45.89.104.154/mlTW3586.php?id=MuslimTV
+#EXTINF:-1 group-title="印尼 Indonesia",Music TV
+http://45.89.104.154/mlTW3586.php?id=MusicTV
+#EXTINF:-1 group-title="印尼 Indonesia",Lifestyle&Fashion
+http://45.89.104.154/mlTW3586.php?id=Lifestyle
+#EXTINF:-1 group-title="印尼 Indonesia",Entertain
+http://45.89.104.154/mlTW3586.php?id=Entertain
+#EXTINF:-1 group-title="印尼 Indonesia",Hits
+http://45.89.104.154/mlTW3586.php?id=Hits
+#EXTINF:-1 group-title="印尼 Indonesia",Warner TV
+http://45.89.104.154/mlTW3586.php?id=WarnerTV
+#EXTINF:-1 group-title="印尼 Indonesia",SCM
+http://45.89.104.154/mlTW3586.php?id=Weishimovie
+#EXTINF:-1 group-title="印尼 Indonesia",Thrill
+http://45.89.104.154/mlTW3586.php?id=Thrill
+#EXTINF:-1 group-title="印尼 Indonesia",Fight Sports
+http://45.89.104.154/mlTW3586.php?id=Fs
+#EXTINF:-1 group-title="印尼 Indonesia",Beinsports 2 HD
+http://45.89.104.154/mlTW3586.php?id=Bein2hd
+#EXTINF:-1 group-title="印尼 Indonesia",Hits Movie
+http://45.89.104.154/mlTW3586.php?id=Hitsmovie
+#EXTINF:-1 group-title="印尼 Indonesia",One
+http://45.89.104.154/mlTW3586.php?id=One_mega
+#EXTINF:-1 group-title="印尼 Indonesia",tvN Movie
+http://45.89.104.154/mlTW3586.php?id=Tvnmovie
+#EXTINF:-1 group-title="印尼 Indonesia",Celestial Movies HD
+http://45.89.104.154/mlTW3586.php?id=Celestialindo
+#EXTINF:-1 group-title="印尼 Indonesia",Rock Actions
+http://45.89.104.154/mlTW3586.php?id=Rockaction
+#EXTINF:-1 group-title="印尼 Indonesia",Rock Entertainment
+http://45.89.104.154/mlTW3586.php?id=Rockentertain
+#EXTINF:-1 group-title="香港 Hongkong",J2(備用)
+http://45.89.104.154/mlTW3586.php?id=j2_hkdavid
+#EXTINF:-1 group-title="香港 Hongkong",J2
+http://45.89.104.154/mlTW3586.php?id=j2_twn
+#EXTINF:-1 group-title="香港 Hongkong",RHK 31
+http://45.89.104.154/mlTW3586.php?id=rhk31_twn
+#EXTINF:-1 group-title="香港 Hongkong",RHK 32
+http://45.89.104.154/mlTW3586.php?id=rhk32_twn
+#EXTINF:-1 group-title="香港 Hongkong",TVB 星河
+http://45.89.104.154/mlTW3586.php?id=tvbxinhe_twn
+#EXTINF:-1 group-title="香港 Hongkong",VIUTV1
+http://45.89.104.154/mlTW3586.php?id=viu1_twn
+#EXTINF:-1 group-title="香港 Hongkong",Viu TV 69
+http://45.89.104.154/mlTW3586.php?id=viutv69_hkdavid
+#EXTINF:-1 group-title="香港 Hongkong",Viu6
+http://45.89.104.154/mlTW3586.php?id=viusix_twn
+#EXTINF:-1 group-title="香港 Hongkong",iNews 新聞台
+http://45.89.104.154/mlTW3586.php?id=inews_twn
+#EXTINF:-1 group-title="香港 Hongkong",無線財經資訊台
+http://45.89.104.154/mlTW3586.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="香港 Hongkong",珍珠台(備用)
+http://45.89.104.154/mlTW3586.php?id=pearl_hkdavid
+#EXTINF:-1 group-title="香港 Hongkong",珍珠台
+http://45.89.104.154/mlTW3586.php?id=pearl_twn
+#EXTINF:-1 group-title="香港 Hongkong",翡翠台(備用)
+http://45.89.104.154/mlTW3586.php?id=jade_mike
+#EXTINF:-1 group-title="香港 Hongkong",翡翠台
+http://45.89.104.154/mlTW3586.php?id=jade_twn
+#EXTINF:-1 group-title="香港 Hongkong",鳳凰衛視
+http://45.89.104.154/mlTW3586.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="香港 Hongkong",鳳凰資訊
+http://45.89.104.154/mlTW3586.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="香港 Hongkong",鳳凰香港
+http://45.89.104.154/mlTW3586.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="中國 China",CCTV-1
+http://45.89.104.154/mlTW3586.php?id=cctv1
+#EXTINF:-1 group-title="中國 China",CCTV-2
+http://45.89.104.154/mlTW3586.php?id=cctv2
+#EXTINF:-1 group-title="中國 China",CCTV-3
+http://45.89.104.154/mlTW3586.php?id=cctv3
+#EXTINF:-1 group-title="中國 China",CCTV-4
+http://45.89.104.154/mlTW3586.php?id=cctv4
+#EXTINF:-1 group-title="中國 China",CCTV-4
+http://45.89.104.154/mlTW3586.php?id=Cctv4
+#EXTINF:-1 group-title="中國 China",CCTV-5
+http://45.89.104.154/mlTW3586.php?id=cctv5
+#EXTINF:-1 group-title="中國 China",CCTV-5+
+http://45.89.104.154/mlTW3586.php?id=cctv5plus
+#EXTINF:-1 group-title="中國 China",CCTV-6
+http://45.89.104.154/mlTW3586.php?id=cctv6
+#EXTINF:-1 group-title="中國 China",CCTV-7
+http://45.89.104.154/mlTW3586.php?id=cctv7
+#EXTINF:-1 group-title="中國 China",CCTV-8
+http://45.89.104.154/mlTW3586.php?id=cctv8hd
+#EXTINF:-1 group-title="中國 China",CCTV-9
+http://45.89.104.154/mlTW3586.php?id=cctv9hd
+#EXTINF:-1 group-title="中國 China",CCTV-10
+http://45.89.104.154/mlTW3586.php?id=cctv10hd
+#EXTINF:-1 group-title="中國 China",CCTV-11
+http://45.89.104.154/mlTW3586.php?id=cctv11
+#EXTINF:-1 group-title="中國 China",CCTV-12
+http://45.89.104.154/mlTW3586.php?id=cctv12
+#EXTINF:-1 group-title="中國 China",CCTV-13
+http://45.89.104.154/mlTW3586.php?id=cctv13
+#EXTINF:-1 group-title="中國 China",CCTV-14
+http://45.89.104.154/mlTW3586.php?id=cctv14
+#EXTINF:-1 group-title="中國 China",CCTV-15
+http://45.89.104.154/mlTW3586.php?id=cctv15
+#EXTINF:-1 group-title="中國 China",CCTV-16
+http://45.89.104.154/mlTW3586.php?id=cctv16
+#EXTINF:-1 group-title="中國 China",CCTV-17
+http://45.89.104.154/mlTW3586.php?id=cctv17
+#EXTINF:-1 group-title="中國 China",湖南衛視
+http://45.89.104.154/mlTW3586.php?id=hunan_twn
+#EXTINF:-1 group-title="中國 China",江蘇衛視
+http://45.89.104.154/mlTW3586.php?id=jiangsu_twn
+#EXTINF:-1 group-title="中國 China",深圳衛視
+http://45.89.104.154/mlTW3586.php?id=shenzhen
+#EXTINF:-1 group-title="中國 China",大灣區衛視
+http://45.89.104.154/mlTW3586.php?id=nanfang_twn
+#EXTINF:-1 group-title="中國 China",廣東衛視
+http://45.89.104.154/mlTW3586.php?id=guangdongweishi_twn
+#EXTINF:-1 group-title="中國 China",北京衛視
+http://45.89.104.154/mlTW3586.php?id=beijing
+#EXTINF:-1 group-title="中國 China",廣東珠江
+http://45.89.104.154/mlTW3586.php?id=zhujiang
+#EXTINF:-1 group-title="中國 China",廣西衛視
+http://45.89.104.154/mlTW3586.php?id=guangxi
+#EXTINF:-1 group-title="中國 China",湖北衛視
+http://45.89.104.154/mlTW3586.php?id=hubei
+#EXTINF:-1 group-title="中國 China",四川衛視
+http://45.89.104.154/mlTW3586.php?id=sichuan_twn
+#EXTINF:-1 group-title="中國 China",鳳凰衛視
+http://45.89.104.154/mlTW3586.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="中國 China",東方衛視
+http://45.89.104.154/mlTW3586.php?id=dongfangweishi_twn
+#EXTINF:-1 group-title="中國 China",CGTN
+http://45.89.104.154/mlTW3586.php?id=CGTN
+#EXTINF:-1 group-title="中國 China",鳳凰資訊
+http://45.89.104.154/mlTW3586.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="體育 Sports",Supersports 1
+http://45.89.104.154/mlTW3586.php?id=Assp1
+#EXTINF:-1 group-title="體育 Sports",Supersports 1(備用)
+http://45.89.104.154/mlTW3586.php?id=go_assp1
+#EXTINF:-1 group-title="體育 Sports",Supersportq 1(備用2)
+http://45.89.104.154/mlTW3586.php?id=Assp1_mega
+#EXTINF:-1 group-title="體育 Sports",Supersports 2
+http://45.89.104.154/mlTW3586.php?id=Assp2
+#EXTINF:-1 group-title="體育 Sports",Supersports 2(備用)
+http://45.89.104.154/mlTW3586.php?id=go_assp2
+#EXTINF:-1 group-title="體育 Sports",Supersports 3
+http://45.89.104.154/mlTW3586.php?id=Assp3
+#EXTINF:-1 group-title="體育 Sports",Supersports 3(備用)
+http://45.89.104.154/mlTW3586.php?id=go_assp3
+#EXTINF:-1 group-title="體育 Sports",Supersports 3(備用2)
+http://45.89.104.154/mlTW3586.php?id=Assp3_mega
+#EXTINF:-1 group-title="體育 Sports",Supersports 4
+http://45.89.104.154/mlTW3586.php?id=Assp4_mega
+#EXTINF:-1 group-title="體育 Sports",Supersports 4(備用)
+http://45.89.104.154/mlTW3586.php?id=go_assp4
+#EXTINF:-1 group-title="體育 Sports",Supersports 5
+http://45.89.104.154/mlTW3586.php?id=go_assp5
+#EXTINF:-1 group-title="體育 Sports",Bein 2HD
+http://45.89.104.154/mlTW3586.php?id=Beinhd
+#EXTINF:-1 group-title="體育 Sports",Beinsports HD
+http://45.89.104.154/mlTW3586.php?id=Besports
+#EXTINF:-1 group-title="體育 Sports",Champion 5 EPL
+http://45.89.104.154/mlTW3586.php?id=Champion5epl
+#EXTINF:-1 group-title="體育 Sports",WWE
+http://45.89.104.154/mlTW3586.php?id=Wwe
+#EXTINF:-1 group-title="體育 Sports",Champion 6 EPL
+http://45.89.104.154/mlTW3586.php?id=Champion6epl
+#EXTINF:-1 group-title="體育 Sports",Fight Sports
+http://45.89.104.154/mlTW3586.php?id=Fs
+#EXTINF:-1 group-title="體育 Sports",UFC Network
+http://45.89.104.154/mlTW3586.php?id=ufc_mega
+#EXTINF:-1 group-title="體育 Sports",NBA TV
+http://45.89.104.154/mlTW3586.php?id=nbatv_twn
+#EXTINF:-1 group-title="體育 Sports",Astro Cricket
+http://45.89.104.154/mlTW3586.php?id=Acricket_mega
+#EXTINF:-1 group-title="體育 Sports",Astro Golf
+http://45.89.104.154/mlTW3586.php?id=Agolf
+#EXTINF:-1 group-title="體育 Sports",TNT Sports 1
+http://45.89.104.154/mlTW3586.php?id=beeone
+#EXTINF:-1 group-title="體育 Sports",TNT Sports 2
+http://45.89.104.154/mlTW3586.php?id=beetwo
+#EXTINF:-1 group-title="體育 Sports",TNT Sports 3
+http://45.89.104.154/mlTW3586.php?id=beethree
+#EXTINF:-1 group-title="體育 Sports",TNT Sports 4
+http://45.89.104.154/mlTW3586.php?id=beefour
+#EXTINF:-1 group-title="體育 Sports",Sony Ten 1
+http://45.89.104.154/mlTW3586.php?id=ten1_raj
+#EXTINF:-1 group-title="體育 Sports",Sony Ten 2
+http://45.89.104.154/mlTW3586.php?id=ten2_raj
+#EXTINF:-1 group-title="體育 Sports",Sony Ten 3
+http://45.89.104.154/mlTW3586.php?id=ten3_raj
+#EXTINF:-1 group-title="體育 Sports",SPOTV 1 HD
+http://45.89.104.154/mlTW3586.php?id=go_spotv
+#EXTINF:-1 group-title="體育 Sports",SPO TV 2
+http://45.89.104.154/mlTW3586.php?id=go_spotv2
+#EXTINF:-1 group-title="體育 Sports",Beinsports 2 HD
+http://45.89.104.154/mlTW3586.php?id=Bein2hd
+#EXTINF:-1 group-title="體育 Sports",Skysports Arena
+http://45.89.104.154/mlTW3586.php?id=tiankongarena
+#EXTINF:-1 group-title="體育 Sports",Skysports F1
+http://45.89.104.154/mlTW3586.php?id=tiankongf1
+#EXTINF:-1 group-title="體育 Sports",Skysports Cricket
+http://45.89.104.154/mlTW3586.php?id=tiankongcricket
+#EXTINF:-1 group-title="體育 Sports",Skysports EPL
+http://45.89.104.154/mlTW3586.php?id=tiankongepl
+#EXTINF:-1 group-title="體育 Sports",Skysports Football
+http://45.89.104.154/mlTW3586.php?id=tiankongfootball
+#EXTINF:-1 group-title="體育 Sports",Skysports Golf
+http://45.89.104.154/mlTW3586.php?id=tiankonggolf
+#EXTINF:-1 group-title="體育 Sports",Skysports Main Event
+http://45.89.104.154/mlTW3586.php?id=tiankongmain
+#EXTINF:-1 group-title="體育 Sports",Skysports News
+http://45.89.104.154/mlTW3586.php?id=tiankongnews
+#EXTINF:-1 group-title="體育 Sports",Skysports NFL
+http://45.89.104.154/mlTW3586.php?id=tiankongnfl
+#EXTINF:-1 group-title="體育 Sports",Skysports Racing
+http://45.89.104.154/mlTW3586.php?id=tiankongracing
+#EXTINF:-1 group-title="體育 Sports",Skysports Mix
+http://45.89.104.154/mlTW3586.php?id=tiankongmix
+#EXTINF:-1 group-title="體育 Sports",CCTV-5
+http://45.89.104.154/mlTW3586.php?id=cctv5
+#EXTINF:-1 group-title="體育 Sports",CCTV-5+
+http://45.89.104.154/mlTW3586.php?id=cctv5plus
+#EXTINF:-1 group-title="體育 Sports",愛爾達體育2台
+http://45.89.104.154/mlTW3586.php?id=eltasport2_twn
+#EXTINF:-1 group-title="體育 Sports",愛爾達體育3台
+http://45.89.104.154/mlTW3586.php?id=eltasport3_twn
+#EXTINF:-1 group-title="體育 Sports",RTM Sports HD
+http://45.89.104.154/mlTW3586.php?id=Rtmsport
+#EXTINF:-1 group-title="體育 Sports",Arena
+http://45.89.104.154/mlTW3586.php?id=Arena
+#EXTINF:-1 group-title="體育 Sports",Arena 2
+http://45.89.104.154/mlTW3586.php?id=Arena2
+#EXTINF:-1 group-title="體育 Sports",BolaArena 1
+http://45.89.104.154/mlTW3586.php?id=Bolaarena1
+#EXTINF:-1 group-title="體育 Sports",Bein 1 Sports
+http://45.89.104.154/mlTW3586.php?id=bein1_mega
+#EXTINF:-1 group-title="體育 Sports",Bein 2 Sports
+http://45.89.104.154/mlTW3586.php?id=bein2_mega
+#EXTINF:-1 group-title="體育 Sports",Bein 3 Sports
+http://45.89.104.154/mlTW3586.php?id=bein3_mega
+#EXTINF:-1 group-title="體育 Sports",Bein 4 Sports
+http://45.89.104.154/mlTW3586.php?id=bein4_mega
+#EXTINF:-1 group-title="體育 Sports",Bein 5 Sports
+http://45.89.104.154/mlTW3586.php?id=bein5_mega
+#EXTINF:-1 group-title="體育 Sports",Bein 6 Sports
+http://45.89.104.154/mlTW3586.php?id=bein6_mega
+#EXTINF:-1 group-title="體育 Sports",Bein 7 Sports
+http://45.89.104.154/mlTW3586.php?id=bein7_mega
+#EXTINF:-1 group-title="體育 Sports",Rugby Pass TV
+http://45.89.104.154/mlTW3586.php?id=Rugbypasstv
+#EXTINF:-1 group-title="體育 Sports",BolaArena 2
+http://45.89.104.154/mlTW3586.php?id=Bolaarena2
+#EXTINF:-1 group-title="印度 Indian",Sun TV HD
+http://45.89.104.154/mlTW3586.php?id=Suntv
+#EXTINF:-1 group-title="印度 Indian",Star Vijay
+http://45.89.104.154/mlTW3586.php?id=Starvijay
+#EXTINF:-1 group-title="印度 Indian",Colors Tamil
+http://45.89.104.154/mlTW3586.php?id=Colorstam_mega
+#EXTINF:-1 group-title="印度 Indian",Sun Music
+http://45.89.104.154/mlTW3586.php?id=Sunmusic
+#EXTINF:-1 group-title="印度 Indian",Astro Sunlife
+http://45.89.104.154/mlTW3586.php?id=Sunlife
+#EXTINF:-1 group-title="印度 Indian",Astro Vaanavil
+http://45.89.104.154/mlTW3586.php?id=Vaanavil
+#EXTINF:-1 group-title="印度 Indian",Zee Tamil
+http://45.89.104.154/mlTW3586.php?id=Zeetamil
+#EXTINF:-1 group-title="印度 Indian",Zee Business
+http://45.89.104.154/mlTW3586.php?id=Zeebusiness
+#EXTINF:-1 group-title="印度 Indian",News 18 Tamil
+http://45.89.104.154/mlTW3586.php?id=news18tamil_raj
+#EXTINF:-1 group-title="印度 Indian",Adithya
+http://45.89.104.154/mlTW3586.php?id=Adithya
+#EXTINF:-1 group-title="印度 Indian",Makkal TV
+http://45.89.104.154/mlTW3586.php?id=Makkaltv
+#EXTINF:-1 group-title="印度 Indian",Zee Action
+http://45.89.104.154/mlTW3586.php?id=Zeeaction
+#EXTINF:-1 group-title="印度 Indian",Astro KTV
+http://45.89.104.154/mlTW3586.php?id=Astroktv
+#EXTINF:-1 group-title="印度 Indian",Zee TV HD
+http://45.89.104.154/mlTW3586.php?id=Zeetvhd
+#EXTINF:-1 group-title="印度 Indian",Zee Cinema HD
+http://45.89.104.154/mlTW3586.php?id=Zeecinemahd
+#EXTINF:-1 group-title="印度 Indian",Color HD
+http://45.89.104.154/mlTW3586.php?id=Colorhd
+#EXTINF:-1 group-title="印度 Indian",Starplus HD
+http://45.89.104.154/mlTW3586.php?id=Starplushd
+#EXTINF:-1 group-title="印度 Indian",Picture HD
+http://45.89.104.154/mlTW3586.php?id=Npicture
+#EXTINF:-1 group-title="印度 Indian",Zee News
+http://45.89.104.154/mlTW3586.php?id=Zeenews
+#EXTINF:-1 group-title="印度 Indian",Asianet
+http://45.89.104.154/mlTW3586.php?id=asianet_raj
+#EXTINF:-1 group-title="印度 Indian",Asianet News
+http://45.89.104.154/mlTW3586.php?id=asianetnews_raj
+#EXTINF:-1 group-title="印度 Indian",Times Now
+http://45.89.104.154/mlTW3586.php?id=timesnow_mega
+#EXTINF:-1 group-title="印度 Indian",BBC Earth Tamil
+http://45.89.104.154/mlTW3586.php?id=bbcearthtam_raj
+#EXTINF:-1 group-title="印度 Indian",Discovery World Tamil
+http://45.89.104.154/mlTW3586.php?id=discoveryworldtam_raj
+#EXTINF:-1 group-title="印度 Indian",History Tamil
+http://45.89.104.154/mlTW3586.php?id=historytam_raj
+#EXTINF:-1 group-title="印度 Indian",NatGeo Tamil
+http://45.89.104.154/mlTW3586.php?id=natgeotamil_raj
+#EXTINF:-1 group-title="印度 Indian",Natgeo Wild Tamil
+http://45.89.104.154/mlTW3586.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="印度 Indian",Discovery Kids Tamil
+http://45.89.104.154/mlTW3586.php?id=discoverykidtamil_raj
+#EXTINF:-1 group-title="印度 Indian",Discovery Tamil
+http://45.89.104.154/mlTW3586.php?id=discoverytamil_raj
+#EXTINF:-1 group-title="印度 Indian",Sony Yay Tamil
+http://45.89.104.154/mlTW3586.php?id=sonyyaytam_raj
+#EXTINF:-1 group-title="印度 Indian",Sun TV India
+http://45.89.104.154/mlTW3586.php?id=suntv_raj
+#EXTINF:-1 group-title="印度 Indian",Starmaa HD
+http://45.89.104.154/mlTW3586.php?id=starmaa_raj
+#EXTINF:-1 group-title="印度 Indian",Starmaa Movies HD
+http://45.89.104.154/mlTW3586.php?id=starmaamovies_raj
+#EXTINF:-1 group-title="印度 Indian",Bollyone
+http://45.89.104.154/mlTW3586.php?id=Bollyone
+#EXTINF:-1 group-title="印度 Indian",Astro Sunmusic
+http://45.89.104.154/mlTW3586.php?id=Sunmusic
+#EXTINF:-1 group-title="印度 Indian",Sony Pix HD
+http://45.89.104.154/mlTW3586.php?id=sonypix_mega
+#EXTINF:-1 group-title="印度 Indian",Vijay Super
+http://45.89.104.154/mlTW3586.php?id=vijaysuper_raj
+#EXTINF:-1 group-title="電影 Movie",AXN
+http://45.89.104.154/mlTW3586.php?id=axn_twn
+#EXTINF:-1 group-title="電影 Movie",Animax
+http://45.89.104.154/mlTW3586.php?id=Animax
+#EXTINF:-1 group-title="電影 Movie",Astrol Kplus
+http://45.89.104.154/mlTW3586.php?id=Kplus
+#EXTINF:-1 group-title="電影 Movie",Axn HD
+http://45.89.104.154/mlTW3586.php?id=Axn
+#EXTINF:-1 group-title="電影 Movie",CCTV-6
+http://45.89.104.154/mlTW3586.php?id=cctv6
+#EXTINF:-1 group-title="電影 Movie",CINEMAX
+http://45.89.104.154/mlTW3586.php?id=cinemax_twn
+#EXTINF:-1 group-title="電影 Movie",Celestial Classic
+http://45.89.104.154/mlTW3586.php?id=Celestial2
+#EXTINF:-1 group-title="電影 Movie",Celestial Movies HD
+http://45.89.104.154/mlTW3586.php?id=Celestialindo
+#EXTINF:-1 group-title="電影 Movie",Cinemax
+http://45.89.104.154/mlTW3586.php?id=Cinemax
+#EXTINF:-1 group-title="電影 Movie",HBO Family
+http://45.89.104.154/mlTW3586.php?id=Hbofamily
+#EXTINF:-1 group-title="電影 Movie",HBO HD
+http://45.89.104.154/mlTW3586.php?id=Hbo
+#EXTINF:-1 group-title="電影 Movie",HBO Hits
+http://45.89.104.154/mlTW3586.php?id=Hbohits
+#EXTINF:-1 group-title="電影 Movie",HBO Signature
+http://45.89.104.154/mlTW3586.php?id=Hbosignature
+#EXTINF:-1 group-title="電影 Movie",HBO_HD
+http://45.89.104.154/mlTW3586.php?id=hbohd_twn
+#EXTINF:-1 group-title="電影 Movie",HBO_HITS
+http://45.89.104.154/mlTW3586.php?id=hbohits_twn
+#EXTINF:-1 group-title="電影 Movie",Hits Movie
+http://45.89.104.154/mlTW3586.php?id=Hitsmovie
+#EXTINF:-1 group-title="電影 Movie",Hits
+http://45.89.104.154/mlTW3586.php?id=Hits
+#EXTINF:-1 group-title="電影 Movie",Hollywood Movies
+http://45.89.104.154/mlTW3586.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="電影 Movie",Movies Now HD
+http://45.89.104.154/mlTW3586.php?id=moviesnow_raj
+#EXTINF:-1 group-title="電影 Movie",One
+http://45.89.104.154/mlTW3586.php?id=One_mega
+#EXTINF:-1 group-title="電影 Movie",Paramount Network
+http://45.89.104.154/mlTW3586.php?id=Paramountnetwork
+#EXTINF:-1 group-title="電影 Movie",Rock Actions
+http://45.89.104.154/mlTW3586.php?id=Rockaction
+#EXTINF:-1 group-title="電影 Movie",Rock Entertainment
+http://45.89.104.154/mlTW3586.php?id=Rockentertain
+#EXTINF:-1 group-title="電影 Movie",SCM
+http://45.89.104.154/mlTW3586.php?id=Weishimovie
+#EXTINF:-1 group-title="電影 Movie",Sony Pix HD
+http://45.89.104.154/mlTW3586.php?id=sonypix_mega
+#EXTINF:-1 group-title="電影 Movie",Star Movies HD
+http://45.89.104.154/mlTW3586.php?id=starmovies_raj
+#EXTINF:-1 group-title="電影 Movie",Thrill
+http://45.89.104.154/mlTW3586.php?id=Thrill
+#EXTINF:-1 group-title="電影 Movie",Warner TV
+http://45.89.104.154/mlTW3586.php?id=WarnerTV
+#EXTINF:-1 group-title="電影 Movie",tvN Movie
+http://45.89.104.154/mlTW3586.php?id=Tvnmovie
+#EXTINF:-1 group-title="電影 Movie",大愛2台
+http://45.89.104.154/mlTW3586.php?id=catchplay_twn
+#EXTINF:-1 group-title="電影 Movie",龍華電影
+http://45.89.104.154/mlTW3586.php?id=xingwei_movie
+#EXTINF:-1 group-title="電影 Movie",東森洋片
+http://45.89.104.154/mlTW3586.php?id=ettvwestern
+#EXTINF:-1 group-title="電影 Movie",東森電影
+http://45.89.104.154/mlTW3586.php?id=ettvmovie
+#EXTINF:-1 group-title="電影 Movie",美亞電影
+http://45.89.104.154/mlTW3586.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="電影 Movie",龍華洋片
+http://45.89.104.154/mlTW3586.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="電影 Movie",龍祥时代
+http://45.89.104.154/mlTW3586.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="紀錄 Documentary",AFC 亞洲旅遊台
+http://45.89.104.154/mlTW3586.php?id=asiatravel_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Animal Planet (Eng)
+http://45.89.104.154/mlTW3586.php?id=AnimalPlanet
+#EXTINF:-1 group-title="紀錄 Documentary",Animal_Planet
+http://45.89.104.154/mlTW3586.php?id=animalplanet_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Asia Travel
+http://45.89.104.154/mlTW3586.php?id=asiatravel_twn
+#EXTINF:-1 group-title="紀錄 Documentary",BBC Earth HD
+http://45.89.104.154/mlTW3586.php?id=bbcearth_twn
+#EXTINF:-1 group-title="紀錄 Documentary",BBC Earth Lifestyle
+http://45.89.104.154/mlTW3586.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="紀錄 Documentary",CI
+http://45.89.104.154/mlTW3586.php?id=ci_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Discovery Asia
+http://45.89.104.154/mlTW3586.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Discovery HD
+http://45.89.104.154/mlTW3586.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Fashion TV
+http://45.89.104.154/mlTW3586.php?id=fashiontv_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Foodnetwork Hd
+http://45.89.104.154/mlTW3586.php?id=Foodnetwork_mega
+#EXTINF:-1 group-title="紀錄 Documentary",HGTV
+http://45.89.104.154/mlTW3586.php?id=HGTV
+#EXTINF:-1 group-title="紀錄 Documentary",History
+http://45.89.104.154/mlTW3586.php?id=History
+#EXTINF:-1 group-title="紀錄 Documentary",MTV Live
+http://45.89.104.154/mlTW3586.php?id=mtvhd_twn
+#EXTINF:-1 group-title="紀錄 Documentary",NatGeo HD
+http://45.89.104.154/mlTW3586.php?id=Natgeo
+#EXTINF:-1 group-title="紀錄 Documentary",NatGeo Wild HD
+http://45.89.104.154/mlTW3586.php?id=Natgeowild
+#EXTINF:-1 group-title="紀錄 Documentary",NatGeo_Wild HD
+http://45.89.104.154/mlTW3586.php?id=natgeowild_twn
+#EXTINF:-1 group-title="紀錄 Documentary",Natgeo_HD
+http://45.89.104.154/mlTW3586.php?id=natgeohd_twn
+#EXTINF:-1 group-title="紀錄 Documentary",TLC
+http://45.89.104.154/mlTW3586.php?id=Tlc
+#EXTINF:-1 group-title="紀錄 Documentary",TLC Asia
+http://45.89.104.154/mlTW3586.php?id=tlc_twn
+#EXTINF:-1 group-title="紀錄 Documentary",亞洲美食
+http://45.89.104.154/mlTW3586.php?id=afc_twn
+#EXTINF:-1 group-title="紀錄 Documentary",美食星球
+http://45.89.104.154/mlTW3586.php?id=foodplanet_twn
+#EXTINF:-1 group-title="新聞 News",ABC News
+http://45.89.104.154/mlTW3586.php?id=abcnews_glo
+#EXTINF:-1 group-title="新聞 News",Al-Jazeera
+http://45.89.104.154/mlTW3586.php?id=aljazeera_twn
+#EXTINF:-1 group-title="新聞 News",BBC World News
+http://45.89.104.154/mlTW3586.php?id=Bbcnews
+#EXTINF:-1 group-title="新聞 News",BBC World News
+http://45.89.104.154/mlTW3586.php?id=bbcnews_twn
+#EXTINF:-1 group-title="新聞 News",Bloomberg News
+http://45.89.104.154/mlTW3586.php?id=bloomberg_twn
+#EXTINF:-1 group-title="新聞 News",CBS HD
+http://45.89.104.154/mlTW3586.php?id=cbshd_glo
+#EXTINF:-1 group-title="新聞 News",CBSN HD
+http://45.89.104.154/mlTW3586.php?id=cbsn_glo
+#EXTINF:-1 group-title="新聞 News",CGTN
+http://45.89.104.154/mlTW3586.php?id=CGTN
+#EXTINF:-1 group-title="新聞 News",CNA
+http://45.89.104.154/mlTW3586.php?id=cna
+#EXTINF:-1 group-title="新聞 News",CNBC
+http://45.89.104.154/mlTW3586.php?id=cnbc_twn
+#EXTINF:-1 group-title="新聞 News",CNN International
+http://45.89.104.154/mlTW3586.php?id=Cnn
+#EXTINF:-1 group-title="新聞 News",CNN(備用)
+http://45.89.104.154/mlTW3586.php?id=cnn_twn
+#EXTINF:-1 group-title="新聞 News",DW (Deutsch)
+http://45.89.104.154/mlTW3586.php?id=dw_twn
+#EXTINF:-1 group-title="新聞 News",Fox News
+http://45.89.104.154/mlTW3586.php?id=foxnews_twn
+#EXTINF:-1 group-title="新聞 News",France 24
+http://45.89.104.154/mlTW3586.php?id=france24_twn
+#EXTINF:-1 group-title="新聞 News",NHK World
+http://45.89.104.154/mlTW3586.php?id=nhkworld_japan
+#EXTINF:-1 group-title="新聞 News",Skynews
+http://45.89.104.154/mlTW3586.php?id=skynews_antik
+#EXTINF:-1 group-title="新聞 News",東森財經新聞
+http://45.89.104.154/mlTW3586.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="兒童 Kids",Animax
+http://45.89.104.154/mlTW3586.php?id=Animax
+#EXTINF:-1 group-title="兒童 Kids",Baby TV Eng
+http://45.89.104.154/mlTW3586.php?id=Babytv
+#EXTINF:-1 group-title="兒童 Kids",Baby TV
+http://45.89.104.154/mlTW3586.php?id=babytv_twn
+#EXTINF:-1 group-title="兒童 Kids",Boomerang Taiwan
+http://45.89.104.154/mlTW3586.php?id=boomerang_twn
+#EXTINF:-1 group-title="兒童 Kids",Boomerang
+http://45.89.104.154/mlTW3586.php?id=Boomerang
+#EXTINF:-1 group-title="兒童 Kids",CBeebies
+http://45.89.104.154/mlTW3586.php?id=Cbeebies
+#EXTINF:-1 group-title="兒童 Kids",Cartoon Network
+http://45.89.104.154/mlTW3586.php?id=Cn
+#EXTINF:-1 group-title="兒童 Kids",Disney Taiwan
+http://45.89.104.154/mlTW3586.php?id=disneytwn_twn
+#EXTINF:-1 group-title="兒童 Kids",Kids TV
+http://45.89.104.154/mlTW3586.php?id=KidsTV
+#EXTINF:-1 group-title="兒童 Kids",MiaoMi
+http://45.89.104.154/mlTW3586.php?id=MiaoMi
+#EXTINF:-1 group-title="兒童 Kids",Momo TV
+http://45.89.104.154/mlTW3586.php?id=momo1_twn
+#EXTINF:-1 group-title="兒童 Kids",Nick Jr
+http://45.89.104.154/mlTW3586.php?id=Nickjr
+#EXTINF:-1 group-title="兒童 Kids",Nickelodeon
+http://45.89.104.154/mlTW3586.php?id=Nickelodeon
+#EXTINF:-1 group-title="兒童 Kids",東森幼幼 Yoyo TV
+http://45.89.104.154/mlTW3586.php?id=yoyo_twn
+#EXTINF:-1 group-title="兒童 Kids",靖天卡通台
+http://45.89.104.154/mlTW3586.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="泰國 Thailand",Amarin
+http://45.89.104.154/mlTW3586.php?id=amarin_pat
+#EXTINF:-1 group-title="泰國 Thailand",Ch 8
+http://45.89.104.154/mlTW3586.php?id=ch8_pat
+#EXTINF:-1 group-title="泰國 Thailand",Channel 3 Thailand
+http://45.89.104.154/mlTW3586.php?id=ch3_pat
+#EXTINF:-1 group-title="泰國 Thailand",Channel 5 Thailand
+http://45.89.104.154/mlTW3586.php?id=ch5_pat
+#EXTINF:-1 group-title="泰國 Thailand",Channel 7 Thailand
+http://45.89.104.154/mlTW3586.php?id=ch7_pat
+#EXTINF:-1 group-title="泰國 Thailand",Gmm Channel
+http://45.89.104.154/mlTW3586.php?id=gmmchannel_pat
+#EXTINF:-1 group-title="泰國 Thailand",GmmOne
+http://45.89.104.154/mlTW3586.php?id=gmmone_pat
+#EXTINF:-1 group-title="泰國 Thailand",MCOT HD Thailand-1
+http://45.89.104.154/mlTW3586.php?id=mcot_pat
+#EXTINF:-1 group-title="泰國 Thailand",Mono
+http://45.89.104.154/mlTW3586.php?id=mono_pat
+#EXTINF:-1 group-title="泰國 Thailand",Nation
+http://45.89.104.154/mlTW3586.php?id=nation_pat
+#EXTINF:-1 group-title="泰國 Thailand",Nbt
+http://45.89.104.154/mlTW3586.php?id=nbt_pat
+#EXTINF:-1 group-title="泰國 Thailand",New
+http://45.89.104.154/mlTW3586.php?id=new_pat
+#EXTINF:-1 group-title="泰國 Thailand",PPTV Thailand1
+http://45.89.104.154/mlTW3586.php?id=pptv_pat
+#EXTINF:-1 group-title="泰國 Thailand",TPTV
+http://45.89.104.154/mlTW3586.php?id=tptv_pat
+#EXTINF:-1 group-title="泰國 Thailand",Thai Thai
+http://45.89.104.154/mlTW3586.php?id=thaithai_pat
+#EXTINF:-1 group-title="泰國 Thailand",Thairath
+http://45.89.104.154/mlTW3586.php?id=thairath_pat
+#EXTINF:-1 group-title="泰國 Thailand",Tnn24
+http://45.89.104.154/mlTW3586.php?id=tnn24_pat
+#EXTINF:-1 group-title="泰國 Thailand",Workpoint
+http://45.89.104.154/mlTW3586.php?id=workpoint_pat
+#EXTINF:-1 group-title="泰國 Thailand",tpbs
+http://45.89.104.154/mlTW3586.php?id=tpbs_pat
+#EXTINF:-1 group-title="英國 United Kingdom",Al-Jazeera
+http://45.89.104.154/mlTW3586.php?id=aljazeera_twn
+#EXTINF:-1 group-title="英國 United Kingdom",Animal Planet (Eng)
+http://45.89.104.154/mlTW3586.php?id=AnimalPlanet
+#EXTINF:-1 group-title="英國 United Kingdom",Axn HD
+http://45.89.104.154/mlTW3586.php?id=Axn
+#EXTINF:-1 group-title="英國 United Kingdom",BBC 1
+http://45.89.104.154/mlTW3586.php?id=bbc1_antik
+#EXTINF:-1 group-title="英國 United Kingdom",BBC 2
+http://45.89.104.154/mlTW3586.php?id=bbc2_antik
+#EXTINF:-1 group-title="英國 United Kingdom",BBC Earth HD
+http://45.89.104.154/mlTW3586.php?id=bbcearth_twn
+#EXTINF:-1 group-title="英國 United Kingdom",BBC Earth Lifestyle
+http://45.89.104.154/mlTW3586.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="英國 United Kingdom",BBC World News
+http://45.89.104.154/mlTW3586.php?id=bbcworldnews_antik
+#EXTINF:-1 group-title="英國 United Kingdom",Bloomberg News
+http://45.89.104.154/mlTW3586.php?id=bloomberg_twn
+#EXTINF:-1 group-title="英國 United Kingdom",Boomerang
+http://45.89.104.154/mlTW3586.php?id=Boomerang
+#EXTINF:-1 group-title="英國 United Kingdom",CBBC
+http://45.89.104.154/mlTW3586.php?id=cbbc_antik
+#EXTINF:-1 group-title="英國 United Kingdom",CBeebies
+http://45.89.104.154/mlTW3586.php?id=Cbeebies
+#EXTINF:-1 group-title="英國 United Kingdom",CGTN
+http://45.89.104.154/mlTW3586.php?id=CGTN
+#EXTINF:-1 group-title="英國 United Kingdom",CNBC
+http://45.89.104.154/mlTW3586.php?id=cnbc_twn
+#EXTINF:-1 group-title="英國 United Kingdom",Channel 4
+http://45.89.104.154/mlTW3586.php?id=channel4_antik
+#EXTINF:-1 group-title="英國 United Kingdom",DW (Deutsch)
+http://45.89.104.154/mlTW3586.php?id=dw_twn
+#EXTINF:-1 group-title="英國 United Kingdom",Euronews
+http://45.89.104.154/mlTW3586.php?id=euronews_antik
+#EXTINF:-1 group-title="英國 United Kingdom",France 24
+http://45.89.104.154/mlTW3586.php?id=france24_twn
+#EXTINF:-1 group-title="英國 United Kingdom",Freesports
+http://45.89.104.154/mlTW3586.php?id=freesports_antik
+#EXTINF:-1 group-title="英國 United Kingdom",HBO HD
+http://45.89.104.154/mlTW3586.php?id=Hbo
+#EXTINF:-1 group-title="英國 United Kingdom",HGTV
+http://45.89.104.154/mlTW3586.php?id=HGTV
+#EXTINF:-1 group-title="英國 United Kingdom",History
+http://45.89.104.154/mlTW3586.php?id=History
+#EXTINF:-1 group-title="英國 United Kingdom",Hits Movie
+http://45.89.104.154/mlTW3586.php?id=Hitsmovie
+#EXTINF:-1 group-title="英國 United Kingdom",Kids TV
+http://45.89.104.154/mlTW3586.php?id=KidsTV
+#EXTINF:-1 group-title="英國 United Kingdom",MTV Live
+http://45.89.104.154/mlTW3586.php?id=mtvhd_twn
+#EXTINF:-1 group-title="英國 United Kingdom",More4
+http://45.89.104.154/mlTW3586.php?id=more4_antik
+#EXTINF:-1 group-title="英國 United Kingdom",NHK World
+http://45.89.104.154/mlTW3586.php?id=nhkworld_japan
+#EXTINF:-1 group-title="英國 United Kingdom",NatGeo HD
+http://45.89.104.154/mlTW3586.php?id=Natgeo
+#EXTINF:-1 group-title="英國 United Kingdom",NatGeo Wild HD
+http://45.89.104.154/mlTW3586.php?id=Natgeowild
+#EXTINF:-1 group-title="英國 United Kingdom",Nick Jr
+http://45.89.104.154/mlTW3586.php?id=Nickjr
+#EXTINF:-1 group-title="英國 United Kingdom",Nickelodeon
+http://45.89.104.154/mlTW3586.php?id=Nickelodeon
+#EXTINF:-1 group-title="英國 United Kingdom",Pick TV
+http://45.89.104.154/mlTW3586.php?id=picktv_antik
+#EXTINF:-1 group-title="英國 United Kingdom",Skynews
+http://45.89.104.154/mlTW3586.php?id=skynews_antik
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports Arena
+http://45.89.104.154/mlTW3586.php?id=tiankongarena
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports Cricket
+http://45.89.104.154/mlTW3586.php?id=tiankongcricket
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports EPL
+http://45.89.104.154/mlTW3586.php?id=tiankongepl
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports F1
+http://45.89.104.154/mlTW3586.php?id=tiankongf1
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports Football
+http://45.89.104.154/mlTW3586.php?id=tiankongfootball
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports Golf
+http://45.89.104.154/mlTW3586.php?id=tiankonggolf
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports Main Event
+http://45.89.104.154/mlTW3586.php?id=tiankongmain
+#EXTINF:-1 group-title="英國 United Kingdom",Skysports News
+http://45.89.104.154/mlTW3586.php?id=tiankongnews
+#EXTINF:-1 group-title="英國 United Kingdom",Star Movies HD
+http://45.89.104.154/mlTW3586.php?id=starmovies_raj
+#EXTINF:-1 group-title="英國 United Kingdom",TLC
+http://45.89.104.154/mlTW3586.php?id=Tlc
+#EXTINF:-1 group-title="英國 United Kingdom",Thrill
+http://45.89.104.154/mlTW3586.php?id=Thrill
+#EXTINF:-1 group-title="英國 United Kingdom",Warner TV
+http://45.89.104.154/mlTW3586.php?id=WarnerTV
+#EXTINF:-1 group-title="英國 United Kingdom",itv 1
+http://45.89.104.154/mlTW3586.php?id=itv1_antik
+#EXTINF:-1 group-title="英國 United Kingdom",itv 2
+http://45.89.104.154/mlTW3586.php?id=itv2_antik
