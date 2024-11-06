@@ -1,104 +1,104 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 group-title="檸檬代理 臺灣",中視 HD
+#EXTINF:-1 group-title="台灣",中視 HD
 http://limon.zapi.eu.org/lm147.php?id=2cc71359-2456-443d-8ddc-d9cf86fd8f39
-#EXTINF:-1 group-title="檸檬代理 臺灣",民視 HD
+#EXTINF:-1 group-title="台灣",民視 HD
 http://limon.zapi.eu.org/lm147.php?id=bba1cd9a-b72b-4d29-a545-384d7de01cf7
-#EXTINF:-1 group-title="檸檬代理 臺灣",民視新聞台
+#EXTINF:-1 group-title="台灣",民視新聞台
 http://limon.zapi.eu.org/lm147.php?id=17cd8809-c459-45c1-a1d0-c075645862d2
-#EXTINF:-1 group-title="檸檬代理 臺灣",台視 HD
+#EXTINF:-1 group-title="台灣",台視 HD
 http://limon.zapi.eu.org/lm147.php?id=fa9c215a-4fbe-48c8-8264-42a72ab6e2b4
-#EXTINF:-1 group-title="檸檬代理 臺灣",台視新聞台
+#EXTINF:-1 group-title="台灣",台視新聞台
 http://limon.zapi.eu.org/lm147.php?id=8153b94d-cbd9-49e8-a105-45a5fed98f84
-#EXTINF:-1 group-title="檸檬代理 臺灣",華視 HD
+#EXTINF:-1 group-title="台灣",華視 HD
 http://limon.zapi.eu.org/lm147.php?id=9e556711-5918-49ec-bdc9-1837e9f4bc48
-#EXTINF:-1 group-title="檸檬代理 臺灣",TVBS新聞台 HD
+#EXTINF:-1 group-title="台灣",TVBS新聞台 HD
 http://limon.zapi.eu.org/lm147.php?id=c772bec8-0cf3-4f31-b9b4-86511166bc99
-#EXTINF:-1 group-title="檸檬代理 臺灣",年代新聞
+#EXTINF:-1 group-title="台灣",年代新聞
 http://limon.zapi.eu.org/lm147.php?id=43e5a720-a239-4f03-9727-711f55e88e89
-#EXTINF:-1 group-title="檸檬代理 臺灣",非凡新聞
+#EXTINF:-1 group-title="台灣",非凡新聞
 http://limon.zapi.eu.org/lm147.php?id=253c4f77-5b43-4793-a186-dd8b88edc903
-#EXTINF:-1 group-title="檸檬代理 臺灣",東森幼幼
+#EXTINF:-1 group-title="台灣",東森幼幼
 http://limon.zapi.eu.org/lm147.php?id=6f0752d1-787f-413d-abe2-f595bb0c55e3
-#EXTINF:-1 group-title="檸檬代理 臺灣",台視綜合
+#EXTINF:-1 group-title="台灣",台視綜合
 http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
-#EXTINF:-1 group-title="檸檬代理 臺灣",龍華偶像
+#EXTINF:-1 group-title="台灣",龍華偶像
 http://limon.zapi.eu.org/lm147.php?id=d6aed7e2-3138-4dd8-90b8-73be504e00c0
-#EXTINF:-1 group-title="檸檬代理 臺灣",龍華戲劇
+#EXTINF:-1 group-title="台灣",龍華戲劇
 http://limon.zapi.eu.org/lm147.php?id=1cddeff8-aa75-47c3-a013-f4f1275eef67
-#EXTINF:-1 group-title="檸檬代理 臺灣",龍華洋片
+#EXTINF:-1 group-title="台灣",龍華洋片
 http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
-#EXTINF:-1 group-title="檸檬代理 臺灣",愛爾達影劇台
+#EXTINF:-1 group-title="台灣",愛爾達影劇台
 http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-#EXTINF:-1 group-title="檸檬代理 臺灣",三立台灣台
+#EXTINF:-1 group-title="台灣",三立台灣台
 http://limon.zapi.eu.org/lm147.php?id=ab7c868d-3788-4bfa-8352-930399e5c78a
-#EXTINF:-1 group-title="檸檬代理 臺灣",三立綜合台 HD
+#EXTINF:-1 group-title="台灣",三立綜合台 HD
 http://limon.zapi.eu.org/lm147.php?id=95db1e0a-0eee-423f-a8e4-b05fef9c21c8
-#EXTINF:-1 group-title="檸檬代理 臺灣",EYETV戲劇 HD
+#EXTINF:-1 group-title="台灣",EYETV戲劇 HD
 http://limon.zapi.eu.org/lm147.php?id=35d20aac-a621-438e-8cf1-8433605954c3
-#EXTINF:-1 group-title="檸檬代理 臺灣",ELTA體育 2 HD
+#EXTINF:-1 group-title="台灣",ELTA體育 2 HD
 http://limon.zapi.eu.org/lm147.php?id=a0c87361-87f0-422f-a9ba-c9d614f7fd8e
-#EXTINF:-1 group-title="檸檬代理 臺灣",ELTA體育 1 HD
+#EXTINF:-1 group-title="台灣",ELTA體育 1 HD
 http://limon.zapi.eu.org/lm147.php?id=c833577a-7377-4930-8da1-1f9571c4d0eb
-#EXTINF:-1 group-title="檸檬代理 臺灣",CN卡通頻道
+#EXTINF:-1 group-title="台灣",CN卡通頻道
 http://limon.zapi.eu.org/lm147.php?id=1ef6144e-d443-4346-be45-788442b24cc3
-#EXTINF:-1 group-title="檸檬代理 臺灣",好萊塢電影台
+#EXTINF:-1 group-title="台灣",好萊塢電影台
 http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="檸檬代理 臺灣",美亞電影台 HD
+#EXTINF:-1 group-title="台灣",美亞電影台 HD
 http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
-#EXTINF:-1 group-title="檸檬代理 臺灣",星衛娛樂台
+#EXTINF:-1 group-title="台灣",星衛娛樂台
 http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="檸檬代理 臺灣",HBO HD
+#EXTINF:-1 group-title="台灣",HBO HD
 http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
-#EXTINF:-1 group-title="檸檬代理 臺灣",HBO HITS HD
+#EXTINF:-1 group-title="台灣",HBO HITS HD
 http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
-#EXTINF:-1 group-title="檸檬代理 臺灣",Hollywood Movies
+#EXTINF:-1 group-title="台灣",Hollywood Movies
 http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="檸檬代理 臺灣",靖天卡通台
+#EXTINF:-1 group-title="台灣",靖天卡通台
 http://limon.zapi.eu.org/lm147.php?id=8c0b6427-06c1-4818-a7ed-b0defb96981d
-#EXTINF:-1 group-title="檸檬代理 臺灣",Hollywood Movies
+#EXTINF:-1 group-title="台灣",Hollywood Movies
 http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="檸檬代理 臺灣",龍華電影
+#EXTINF:-1 group-title="台灣",龍華電影
 http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="檸檬代理 臺灣",美亞電影
+#EXTINF:-1 group-title="台灣",美亞電影
 http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
-#EXTINF:-1 group-title="檸檬代理 臺灣",愛爾達影劇台
+#EXTINF:-1 group-title="台灣",愛爾達影劇台
 http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-#EXTINF:-1 group-title="檸檬代理 臺灣",龍華影劇
+#EXTINF:-1 group-title="台灣",龍華影劇
 http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
-#EXTINF:-1 group-title="檸檬代理 臺灣",星衛娛樂台
+#EXTINF:-1 group-title="台灣",星衛娛樂台
 http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="檸檬代理 臺灣",天映頻道
+#EXTINF:-1 group-title="台灣",天映頻道
 http://limon.zapi.eu.org/lm147.php?id=f451021a-e45f-4088-8c53-913c7945209a
-#EXTINF:-1 group-title="檸檬代理 臺灣",天映頻道
+#EXTINF:-1 group-title="台灣",天映頻道
 http://limon.zapi.eu.org/lm147.php?id=5b9f7e76-2fd9-47b4-8b69-c3f2ea4ac6e4
-#EXTINF:-1 group-title="檸檬代理 臺灣",HBO HD
+#EXTINF:-1 group-title="台灣",HBO HD
 http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
-#EXTINF:-1 group-title="檸檬代理 臺灣",CINEMAX
+#EXTINF:-1 group-title="台灣",CINEMAX
 http://limon.zapi.eu.org/lm147.php?id=6cf1d6f9-8057-4a4e-8eba-cd950c24f19d
-#EXTINF:-1 group-title="檸檬代理 臺灣",AXN HD
+#EXTINF:-1 group-title="台灣",AXN HD
 http://limon.zapi.eu.org/lm147.php?id=f02b3750-6a66-4e0c-adf8-6c8ecd3d7df3
-#EXTINF:-1 group-title="檸檬代理 臺灣",HBO HITS HD
+#EXTINF:-1 group-title="台灣",HBO HITS HD
 http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
-#EXTINF:-1 group-title="檸檬代理 臺灣",HBO RED (Viet)
+#EXTINF:-1 group-title="台灣",HBO RED (Viet)
 http://limon.zapi.eu.org/lm147.php?id=e441e59d-6a74-486f-b3e5-9e3c9d33415d
-#EXTINF:-1 group-title="檸檬代理 臺灣",BBC NEWS
+#EXTINF:-1 group-title="台灣",BBC NEWS
 http://limon.zapi.eu.org/lm147.php?id=4655f3fd-f736-4ecf-b00b-f579d7362898
-#EXTINF:-1 group-title="檸檬代理 臺灣",Sky NEWS
+#EXTINF:-1 group-title="台灣",Sky NEWS
 http://limon.zapi.eu.org/lm147.php?id=d85f3eaa-756a-4c36-a9a7-1091e306a4d1
-#EXTINF:-1 group-title="檸檬代理 臺灣",彭博新聞
+#EXTINF:-1 group-title="台灣",彭博新聞
 http://limon.zapi.eu.org/lm147.php?id=80226b89-27ae-4c01-84a3-48a36a36d7fc
-#EXTINF:-1 group-title="檸檬代理 臺灣",半島電視臺
+#EXTINF:-1 group-title="台灣",半島電視臺
 http://limon.zapi.eu.org/lm147.php?id=751f0f2f-4980-4316-ae7d-4f5c259a0ebb
-#EXTINF:-1 group-title="檸檬代理 臺灣",亞洲新聞台
+#EXTINF:-1 group-title="台灣",亞洲新聞台
 http://limon.zapi.eu.org/lm147.php?id=4da82ff2-1816-4832-a63b-45c7d3b7d4ed
 
 
 
-#EXTINF:-1 group-title="檸檬代理 臺灣",大愛一台
+#EXTINF:-1 group-title="台灣",大愛一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="檸檬代理 臺灣",大愛二台
+#EXTINF:-1 group-title="台灣",大愛二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
@@ -106,91 +106,62 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 group-title="LITV代理",客家頻道LITV
 http://tvbox6.com/tv/tw9.php?id=1
-
 #EXTINF:-1 group-title="LITV代理",原住民LITV
 http://tvbox6.com/tv/tw9.php?id=2
-
 #EXTINF:-1 group-title="LITV代理",MOMO LITV
 http://tvbox6.com/tv/tw9.php?id=3
-
 #EXTINF:-1 group-title="LITV代理",民視第一台 LITV
 http://tvbox6.com/tv/tw9.php?id=4
-
 #EXTINF:-1 group-title="LITV代理",民視台灣台 LITV
 http://tvbox6.com/tv/tw9.php?id=5
-
 #EXTINF:-1 group-title="LITV代理",民視 LITV
 http://tvbox6.com/tv/tw9.php?id=6
-
 #EXTINF:-1 group-title="LITV代理",中視 LITV
 http://tvbox6.com/tv/tw9.php?id=7
-
 #EXTINF:-1 group-title="LITV代理",華視 LITV
 http://tvbox6.com/tv/tw9.php?id=8
-
 #EXTINF:-1 group-title="LITV代理",style LITV
 http://tvbox6.com/tv/tw9.php?id=9
-
 #EXTINF:-1 group-title="LITV代理",亞洲旅遊台 LITV
 http://tvbox6.com/tv/tw9.php?id=10
-
 #EXTINF:-1 group-title="LITV代理",電影頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=11
-
 #EXTINF:-1 group-title="LITV代理",nickelodeon LITV
 http://tvbox6.com/tv/tw9.php?id=12
-
 #EXTINF:-1 group-title="LITV代理",博斯高球1 LITV
 http://tvbox6.com/tv/tw9.php?id=13
-
 #EXTINF:-1 group-title="LITV代理",博斯運動1 LITV
 http://tvbox6.com/tv/tw9.php?id=14
-
 #EXTINF:-1 group-title="LITV代理",博斯無限 LITV
 http://tvbox6.com/tv/tw9.php?id=15
-
 #EXTINF:-1 group-title="LITV代理",博斯網球 LITV
 http://tvbox6.com/tv/tw9.php?id=16
-
 #EXTINF:-1 group-title="LITV代理",靖洋戲劇台 LITV
 http://tvbox6.com/tv/tw9.php?id=17
-
 #EXTINF:-1 group-title="LITV代理",靖洋電影台 LITV
 http://tvbox6.com/tv/tw9.php?id=18
-
 #EXTINF:-1 group-title="LITV代理",龍華電影 LITV
 http://tvbox6.com/tv/tw9.php?id=19
-
 #EXTINF:-1 group-title="LITV代理",東森新聞台 LITV
 http://tvbox6.com/tv/tw9.php?id=20
-
 #EXTINF:-1 group-title="LITV代理",娛樂百分百 LITV
 http://tvbox6.com/tv/tw9.php?id=21
-
 #EXTINF:-1 group-title="LITV代理",nickjr LITV
 http://tvbox6.com/tv/tw9.php?id=22
-
 #EXTINF:-1 group-title="LITV代理",TVBS LITV
 http://tvbox6.com/tv/tw9.php?id=23
-
 #EXTINF:-1 group-title="LITV代理",TVBS歡樂台 LITV
 http://tvbox6.com/tv/tw9.php?id=24
-
 #EXTINF:-1 group-title="LITV代理",MTV LITV
 http://tvbox6.com/tv/tw9.php?id=25
-
 #EXTINF:-1 group-title="LITV代理",居家頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=26
-
 #EXTINF:-1 group-title="LITV代理",歷史頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=27
-
 #EXTINF:-1 group-title="LITV代理",HITS LITV
 http://tvbox6.com/tv/tw9.php?id=28
-
 #EXTINF:-1 group-title="LITV代理",旅遊頻道 LITV
 http://tvbox6.com/tv/tw9.php?id=29
-
 #EXTINF:-1 group-title="LITV代理",CinemaWorld LITV
 http://tvbox6.com/tv/tw9.php?id=30
 
@@ -278,7 +249,6 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv10
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv104
 
 
-
 #EXTINF:-1 group-title="4GTV 電影戲劇",民視影劇台
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv09
 #EXTINF:-1 group-title="4GTV 電影戲劇",中視經典台
@@ -341,10 +311,6 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/236
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/301
 
 
-
-
-
-
 #EXTINF:-1 group-title="4GTV 生活旅遊",民視旅遊台
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv07
 #EXTINF:-1 group-title="4GTV 生活旅遊",ELTA 生活旅遊
@@ -369,11 +335,6 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/139
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/274
 #EXTINF:-1 group-title="4GTV 生活旅遊",幸福空間居家台
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/168
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="4GTV 音樂綜藝",民視綜藝台
@@ -410,8 +371,6 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv006
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv082
 #EXTINF:-1 group-title="4GTV 音樂綜藝",韓國娛樂台
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv016
-
-
 
 
 
@@ -488,12 +447,6 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/287
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/286
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="4GTV 體育",博斯運動一台
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn07
 #EXTINF:-1 group-title="4GTV 體育",博斯運動二台
@@ -520,6 +473,8 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/277
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv101
 #EXTINF:-1 group-title="4GTV 體育",TraceSports
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv077
+
+
 
 
 
@@ -637,7 +592,6 @@ https://b.trydarius.shop/espn2.m3u8
 https://bit.ly/3VpqwET?FRBC4200004XH.m3u8
 #EXTINF:-1 group-title="體育",L'Equipe Live 2 🇫🇷
 https://bit.ly/45pS7ds?FRBC4200005X2.m3u8
-
 
 #EXTINF:-1 group-title="體育",BT Sport 1 UK
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2505/index.m3u8
