@@ -103,6 +103,105 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
 
+#EXTINF:-1 group-title="台灣", 台視HD
+http://125.227.210.55:8158/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 華視HD
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 中視HD
+http://125.227.210.55:8174/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 公視
+http://125.227.210.55:8164/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 民視新聞台
+http://125.227.210.55:8157/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", CNBC
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", BBC NEW
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", CNN NEW
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", DW 德國之音
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TV5 MONDE
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", KBS WORLD
+http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", NHK WORLD
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", arirang KOREA
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", CN卡通频道
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 緯來體育台
+http://125.227.210.55:8155/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TVBS HD
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TVBS歡樂台
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TVBS新聞台
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 三立新聞台
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 三立台灣台
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 三立戲劇台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="台灣", NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="台灣", TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台灣", 中天新聞
+http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="台灣", TVBS新聞台
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="台灣", 年代新聞
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="台灣", AMC電影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="台灣", CINEMAX
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", HBO
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="台灣", HBO HD
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", Discovery Asia
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="台灣", 中天娛樂台
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台灣", 動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="台灣", 緯來日本
+http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="台灣", 緯來綜合
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣", 東森戲劇
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="台灣", 八大戲劇台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="台灣", 八大綜合台
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="台灣", 八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="台灣", 番薯音樂
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
+#EXTINF:-1 group-title="台灣", 音樂欣賞1
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="台灣", 音樂欣賞2
+http://61.221.215.25:8800/hls/58/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="LITV代理",客家頻道LITV
 http://tvbox6.com/tv/tw9.php?id=1
@@ -536,7 +635,6 @@ https://live.hkdvb.com/hls/live/34.m3u8?token=275839252942857
 https://live.hkdvb.com/hls/live/35.m3u8?token=275839252942857
 
 
-
 #EXTINF:-1 group-title="香港",翡翠台
 http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 #EXTINF:-1 group-title="香港",華麗翡翠台
@@ -547,129 +645,6 @@ http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 #EXTINF:-1 group-title="香港",ASTRO AOD
 http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Hoy 78
-http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",千禧經典台
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Now星影台
-http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB 星河台
-http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viutv 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viutv6 96
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",爆谷台
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Animax-HK
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",C+台
-http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ROCK Action
-http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線衛星新聞台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",神州新聞台
-http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 
