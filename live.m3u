@@ -340,6 +340,133 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="台灣",FGM數位電影
+https://litv.zapi.us.kg/?id=4gtv-4gtv011
+#EXTINF:-1 group-title="台灣",AMC電影
+https://litv.zapi.us.kg/?id=4gtv-4gtv017
+#EXTINF:-1 group-title="台灣",CAT電影
+https://litv.zapi.us.kg/?id=4gtv-4gtv076
+#EXTINF:-1 group-title="台灣",東森新聞
+https://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 group-title="台灣",TVBS新聞
+https://litv.zapi.us.kg/?id=4gtv-4gtv072
+#EXTINF:-1 group-title="台灣",TVBS精采
+https://litv.zapi.us.kg/?id=4gtv-4gtv067
+#EXTINF:-1 group-title="台灣",TVBS歡樂
+https://litv.zapi.us.kg/?id=4gtv-4gtv068
+#EXTINF:-1 group-title="台灣",鏡新聞
+https://litv.zapi.us.kg/?id=4gtv-4gtv075
+#EXTINF:-1 group-title="台灣",民視
+https://litv.zapi.us.kg/?id=4gtv-4gtv002
+#EXTINF:-1 group-title="台灣",民視
+https://litv.zapi.us.kg/?id=4gtv-4gtv155
+#EXTINF:-1 group-title="台灣",中視
+https://litv.zapi.us.kg/?id=4gtv-4gtv040
+#EXTINF:-1 group-title="台灣",華視
+https://litv.zapi.us.kg/?id=4gtv-4gtv041
+#EXTINF:-1 group-title="台灣",台視
+https://litv.zapi.us.kg/?id=4gtv-4gtv066
+#EXTINF:-1 group-title="台灣",寰宇新聞台灣台
+https://litv.zapi.us.kg/?id=litv-longturn15
+#EXTINF:-1 group-title="台灣",TVBS HD
+https://litv.zapi.us.kg/?id=4gtv-4gtv073
+#EXTINF:-1 group-title="台灣",民視第一
+https://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 group-title="台灣",台視財經
+https://litv.zapi.us.kg/?id=4gtv-4gtv056
+#EXTINF:-1 group-title="台灣",公視戲劇
+https://litv.zapi.us.kg/?id=4gtv-4gtv042
+#EXTINF:-1 group-title="台灣",台灣戲劇台
+https://litv.zapi.us.kg/?id=litv-longturn22
+#EXTINF:-1 group-title="台灣",國際財經
+https://litv.zapi.us.kg/?id=4gtv-4gtv104
+#EXTINF:-1 group-title="台灣",東森財經
+https://litv.zapi.us.kg/?id=4gtv-4gtv153
+#EXTINF:-1 group-title="台灣",愛爾達娛樂
+https://litv.zapi.us.kg/?id=4gtv-4gtv070
+#EXTINF:-1 group-title="台灣",靖洋戲劇
+https://litv.zapi.us.kg/?id=4gtv-4gtv045
+#EXTINF:-1 group-title="台灣",靖天綜合
+https://litv.zapi.us.kg/?id=4gtv-4gtv046
+#EXTINF:-1 group-title="台灣",靖天日本
+https://litv.zapi.us.kg/?id=4gtv-4gtv047
+#EXTINF:-1 group-title="台灣",靖天歡樂
+https://litv.zapi.us.kg/?id=4gtv-4gtv054
+#EXTINF:-1 group-title="台灣",靖天映畫
+https://litv.zapi.us.kg/?id=4gtv-4gtv055
+#EXTINF:-1 group-title="台灣",靖天戲劇
+https://litv.zapi.us.kg/?id=4gtv-4gtv058
+#EXTINF:-1 group-title="台灣",靖天電影
+https://litv.zapi.us.kg/?id=4gtv-4gtv061
+#EXTINF:-1 group-title="台灣",靖天育樂
+https://litv.zapi.us.kg/?id=4gtv-4gtv062
+#EXTINF:-1 group-title="台灣",靖天國際
+https://litv.zapi.us.kg/?id=4gtv-4gtv063
+#EXTINF:-1 group-title="台灣",靖天資訊
+https://litv.zapi.us.kg/?id=4gtv-4gtv065
+#EXTINF:-1 group-title="台灣",龍華卡通
+https://litv.zapi.us.kg/?id=litv-longturn01
+#EXTINF:-1 group-title="台灣",龍華日韓
+https://litv.zapi.us.kg/?id=litv-longturn11
+#EXTINF:-1 group-title="台灣",龍華偶像
+https://litv.zapi.us.kg/?id=litv-longturn12
+#EXTINF:-1 group-title="台灣",龍華電影
+https://litv.zapi.us.kg/?id=litv-longturn03
+#EXTINF:-1 group-title="台灣",龍華戲劇
+https://litv.zapi.us.kg/?id=litv-longturn18
+#EXTINF:-1 group-title="台灣",龍華經典
+https://litv.zapi.us.kg/?id=litv-longturn21
+#EXTINF:-1 group-title="台灣",國會壹
+https://litv.zapi.us.kg/?id=4gtv-4gtv084
+#EXTINF:-1 group-title="台灣",國會貳
+https://litv.zapi.us.kg/?id=4gtv-4gtv085
+#EXTINF:-1 group-title="台灣",好消息壹
+https://litv.zapi.us.kg/?id=litv-ftv16
+#EXTINF:-1 group-title="台灣",好消息貳
+https://litv.zapi.us.kg/?id=litv-ftv17
+#EXTINF:-1 group-title="台灣",阿里郎
+https://litv.zapi.us.kg/?id=4gtv-4gtv079
+#EXTINF:-1 group-title="台灣",達文西
+https://litv.zapi.us.kg/?id=4gtv-4gtv018
+#EXTINF:-1 group-title="台灣",豬哥亮歌廳
+https://litv.zapi.us.kg/?id=4gtv-4gtv006
+#EXTINF:-1 group-title="台灣",亞洲旅遊
+https://litv.zapi.us.kg/?id=litv-longturn17
+#EXTINF:-1 group-title="台灣",非凡商業
+https://litv.zapi.us.kg/?id=4gtv-4gtv048
+#EXTINF:-1 group-title="台灣",第壹商業
+https://litv.zapi.us.kg/?id=4gtv-4gtv109
+#EXTINF:-1 group-title="台灣",愛放動漫
+https://litv.zapi.us.kg/?id=litv-ftv15
+#EXTINF:-1 group-title="台灣",古典音樂
+https://litv.zapi.us.kg/?id=4gtv-4gtv059
+#EXTINF:-1 group-title="台灣",客家電視
+https://litv.zapi.us.kg/?id=4gtv-4gtv043
+#EXTINF:-1 group-title="台灣",華仁紀實
+https://litv.zapi.us.kg/?id=4gtv-4gtv013
+#EXTINF:-1 group-title="台灣",時尚運動
+https://litv.zapi.us.kg/?id=4gtv-4gtv014
+#EXTINF:-1 group-title="台灣",生活英語
+https://litv.zapi.us.kg/?id=litv-longturn20
+#EXTINF:-1 group-title="台灣",采昌影劇
+https://litv.zapi.us.kg/?id=4gtv-4gtv049
+#EXTINF:-1 group-title="台灣",SMART知識
+https://litv.zapi.us.kg/?id=litv-longturn19
+#EXTINF:-1 group-title="台灣",GLO-Bet
+https://litv.zapi.us.kg/?id=4gtv-4gtv016
+#EXTINF:-1 group-title="台灣",TRACEU
+https://litv.zapi.us.kg/?id=4gtv-4gtv082
+#EXTINF:-1 group-title="台灣",MEZZOl
+https://litv.zapi.us.kg/?id=4gtv-4gtv083
+#EXTINF:-1 group-title="台灣",Ginx_TV
+https://litv.zapi.us.kg/?id=4gtv-4gtv053
+
+
+
+
+
+
 #EXTINF:-1 group-title="4GTV 綜合",民視
 https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv002
 #EXTINF:-1 group-title="4GTV 綜合",民視第一台
@@ -3793,6 +3920,371 @@ http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=WarnerTV&sp=chao
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv1_antik&sp=chaojidianshi
 #EXTINF:-1 group-title="SMTV 英國", itv 2
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=itv2_antik&sp=chaojidianshi
+
+
+
+
+#EXTINF:-1 group-title="LITV",TVBS HD
+https://1234.koyeb.app/litv/4gtv-4gtv073
+#EXTINF:-1 group-title="LITV",TVBS新聞台
+https://1234.koyeb.app/litv/4gtv-4gtv072
+#EXTINF:-1 group-title="LITV",中天新聞
+https://1234.koyeb.app/litv/4gtv-4gtv009
+#EXTINF:-1 group-title="LITV",中天亞洲台
+https://1234.koyeb.app/litv/4gtv-4gtv109
+#EXTINF:-1 group-title="LITV",台視新聞
+https://1234.koyeb.app/litv/4gtv-4gtv051
+#EXTINF:-1 group-title="LITV",華視新聞
+https://1234.koyeb.app/litv/4gtv-4gtv052
+#EXTINF:-1 group-title="LITV",台視財經
+https://1234.koyeb.app/litv/4gtv-4gtv056
+#EXTINF:-1 group-title="LITV",中視新聞
+https://1234.koyeb.app/litv/4gtv-4gtv074
+#EXTINF:-1 group-title="LITV",非凡新聞
+https://1234.koyeb.app/litv/4gtv-4gtv010
+#EXTINF:-1 group-title="LITV",鏡新聞
+https://1234.koyeb.app/litv/4gtv-4gtv075
+#EXTINF:-1 group-title="LITV",東森新聞
+https://1234.koyeb.app/litv/4gtv-4gtv152
+#EXTINF:-1 group-title="LITV",東森財經新聞
+https://1234.koyeb.app/litv/4gtv-4gtv153
+#EXTINF:-1 group-title="LITV",半島新聞
+https://1234.koyeb.app/litv/litv-ftv10
+#EXTINF:-1 group-title="LITV",民視新聞台
+https://1234.koyeb.app/litv/litv-ftv13
+#EXTINF:-1 group-title="LITV",民視台灣台
+https://1234.koyeb.app/litv/4gtv-4gtv001
+#EXTINF:-1 group-title="LITV",寰宇新聞台
+https://1234.koyeb.app/litv/litv-longturn14
+#EXTINF:-1 group-title="LITV",寰宇新聞台灣台
+https://1234.koyeb.app/litv/litv-longturn15
+#EXTINF:-1 group-title="LITV",台視
+https://1234.koyeb.app/litv/4gtv-4gtv066
+#EXTINF:-1 group-title="LITV",民視
+https://1234.koyeb.app/litv/4gtv-4gtv002
+#EXTINF:-1 group-title="LITV",民視
+https://1234.koyeb.app/litv/4gtv-4gtv155
+#EXTINF:-1 group-title="LITV",中視
+https://1234.koyeb.app/litv/4gtv-4gtv040
+#EXTINF:-1 group-title="LITV",華視
+https://1234.koyeb.app/litv/4gtv-4gtv041
+#EXTINF:-1 group-title="LITV",民視台灣台
+https://1234.koyeb.app/litv/4gtv-4gtv156
+#EXTINF:-1 group-title="LITV",影迷數位電影台
+https://1234.koyeb.app/litv/4gtv-4gtv011
+#EXTINF:-1 group-title="LITV",AMC電影台
+https://1234.koyeb.app/litv/4gtv-4gtv017
+#EXTINF:-1 group-title="LITV",CATCHPLAY電影台
+https://1234.koyeb.app/litv/4gtv-4gtv076
+#EXTINF:-1 group-title="LITV",靖天電影台
+https://1234.koyeb.app/litv/4gtv-4gtv061
+#EXTINF:-1 group-title="LITV",龍華電影
+https://1234.koyeb.app/litv/litv-longturn03
+#EXTINF:-1 group-title="LITV",采昌影劇
+https://1234.koyeb.app/litv/4gtv-4gtv049
+#EXTINF:-1 group-title="LITV",民視影劇
+https://1234.koyeb.app/litv/litv-ftv09
+#EXTINF:-1 group-title="LITV",龍華經典
+https://1234.koyeb.app/litv/litv-longturn21
+#EXTINF:-1 group-title="LITV",中視經典
+https://1234.koyeb.app/litv/4gtv-4gtv080
+#EXTINF:-1 group-title="LITV",台灣戲劇台
+https://1234.koyeb.app/litv/litv-longturn22
+#EXTINF:-1 group-title="LITV",靖洋戲劇台
+https://1234.koyeb.app/litv/4gtv-4gtv045
+#EXTINF:-1 group-title="LITV",靖天戲劇台
+https://1234.koyeb.app/litv/4gtv-4gtv058
+#EXTINF:-1 group-title="LITV",公視戲劇
+https://1234.koyeb.app/litv/4gtv-4gtv042
+#EXTINF:-1 group-title="LITV",龍華戲劇
+https://1234.koyeb.app/litv/litv-longturn18
+#EXTINF:-1 group-title="LITV",智林體育台
+https://1234.koyeb.app/litv/4gtv-4gtv101
+#EXTINF:-1 group-title="LITV",時尚運動X
+https://1234.koyeb.app/litv/4gtv-4gtv014
+#EXTINF:-1 group-title="LITV",靖天育樂台
+https://1234.koyeb.app/litv/4gtv-4gtv062
+#EXTINF:-1 group-title="LITV",博斯魅力台
+https://1234.koyeb.app/litv/litv-longturn04
+#EXTINF:-1 group-title="LITV",博斯高球1台
+https://1234.koyeb.app/litv/litv-longturn05
+#EXTINF:-1 group-title="LITV",博斯高球2台
+https://1234.koyeb.app/litv/litv-longturn06
+#EXTINF:-1 group-title="LITV",博斯運動1台
+https://1234.koyeb.app/litv/litv-longturn07
+#EXTINF:-1 group-title="LITV",博斯運動2台
+https://1234.koyeb.app/litv/litv-longturn08
+#EXTINF:-1 group-title="LITV",博斯網球台
+https://1234.koyeb.app/litv/litv-longturn09
+#EXTINF:-1 group-title="LITV",博斯無限1台
+https://1234.koyeb.app/litv/litv-longturn10
+#EXTINF:-1 group-title="LITV",博斯無限2台
+https://1234.koyeb.app/litv/litv-longturn13
+#EXTINF:-1 group-title="LITV",TRACE SPORTS STARS
+https://1234.koyeb.app/litv/4gtv-4gtv077
+#EXTINF:-1 group-title="LITV",視納華仁紀實頻道
+https://1234.koyeb.app/litv/4gtv-4gtv013
+#EXTINF:-1 group-title="LITV",中視菁采
+https://1234.koyeb.app/litv/4gtv-4gtv064
+#EXTINF:-1 group-title="LITV",八大精彩台
+https://1234.koyeb.app/litv/4gtv-4gtv034
+#EXTINF:-1 group-title="LITV",八大綜藝台
+https://1234.koyeb.app/litv/4gtv-4gtv039
+#EXTINF:-1 group-title="LITV",TVBS精采台
+https://1234.koyeb.app/litv/4gtv-4gtv067
+#EXTINF:-1 group-title="LITV",TVBS歡樂台
+https://1234.koyeb.app/litv/4gtv-4gtv068
+#EXTINF:-1 group-title="LITV",靖天歡樂台
+https://1234.koyeb.app/litv/4gtv-4gtv054
+#EXTINF:-1 group-title="LITV",靖天綜合台
+https://1234.koyeb.app/litv/4gtv-4gtv046
+#EXTINF:-1 group-title="LITV",靖天資訊台
+https://1234.koyeb.app/litv/4gtv-4gtv065
+#EXTINF:-1 group-title="LITV",靖天卡通台
+https://1234.koyeb.app/litv/4gtv-4gtv044
+#EXTINF:-1 group-title="LITV",靖天日本台
+https://1234.koyeb.app/litv/4gtv-4gtv047
+#EXTINF:-1 group-title="LITV",靖洋卡通台
+https://1234.koyeb.app/litv/4gtv-4gtv057
+#EXTINF:-1 group-title="LITV",靖天國際台
+https://1234.koyeb.app/litv/4gtv-4gtv063
+#EXTINF:-1 group-title="LITV",靖天映畫
+https://1234.koyeb.app/litv/4gtv-4gtv055
+#EXTINF:-1 group-title="LITV",愛爾達娛樂
+https://1234.koyeb.app/litv/4gtv-4gtv070
+#EXTINF:-1 group-title="LITV",龍華卡通
+https://1234.koyeb.app/litv/litv-longturn01
+#EXTINF:-1 group-title="LITV",龍華日韓
+https://1234.koyeb.app/litv/litv-longturn11
+#EXTINF:-1 group-title="LITV",龍華偶像
+https://1234.koyeb.app/litv/litv-longturn12
+#EXTINF:-1 group-title="LITV",民視綜藝
+https://1234.koyeb.app/litv/4gtv-4gtv004
+#EXTINF:-1 group-title="LITV",民視第一台
+https://1234.koyeb.app/litv/4gtv-4gtv003
+#EXTINF:-1 group-title="LITV",民視旅遊
+https://1234.koyeb.app/litv/litv-ftv07
+#EXTINF:-1 group-title="LITV",亞洲旅遊台
+https://1234.koyeb.app/litv/litv-longturn17
+#EXTINF:-1 group-title="LITV",客家電視台
+https://1234.koyeb.app/litv/4gtv-4gtv043
+#EXTINF:-1 group-title="LITV",愛放動漫
+https://1234.koyeb.app/litv/litv-ftv15
+#EXTINF:-1 group-title="LITV",古典音樂台
+https://1234.koyeb.app/litv/4gtv-4gtv059
+#EXTINF:-1 group-title="LITV",豬哥亮歌廳秀
+https://1234.koyeb.app/litv/4gtv-4gtv006
+#EXTINF:-1 group-title="LITV",Smart知識台
+https://1234.koyeb.app/litv/litv-longturn19
+#EXTINF:-1 group-title="LITV",達文西頻道
+https://1234.koyeb.app/litv/4gtv-4gtv018
+#EXTINF:-1 group-title="LITV",阿里郎
+https://1234.koyeb.app/litv/4gtv-4gtv079
+#EXTINF:-1 group-title="LITV",生活英語台
+https://1234.koyeb.app/litv/litv-longturn20
+#EXTINF:-1 group-title="LITV",國際財經
+https://1234.koyeb.app/litv/4gtv-4gtv104
+#EXTINF:-1 group-title="LITV",美國之音
+https://1234.koyeb.app/litv/litv-ftv03
+#EXTINF:-1 group-title="LITV",好消息
+https://1234.koyeb.app/litv/litv-ftv16
+#EXTINF:-1 group-title="LITV",好消息2台
+https://1234.koyeb.app/litv/litv-ftv17
+#EXTINF:-1 group-title="LITV",非凡商業
+https://1234.koyeb.app/litv/4gtv-4gtv048
+#EXTINF:-1 group-title="LITV",國會頻道1
+https://1234.koyeb.app/litv/4gtv-4gtv084
+#EXTINF:-1 group-title="LITV",國會頻道2
+https://1234.koyeb.app/litv/4gtv-4gtv085
+#EXTINF:-1 group-title="LITV",TRACE URBAN
+https://1234.koyeb.app/litv/4gtv-4gtv082
+#EXTINF:-1 group-title="LITV",MEZZO LIVE
+https://1234.koyeb.app/litv/4gtv-4gtv083
+#EXTINF:-1 group-title="LITV",GLOBETROTTER
+https://1234.koyeb.app/litv/4gtv-4gtv016
+#EXTINF:-1 group-title="LITV",GinxTV
+https://1234.koyeb.app/litv/4gtv-4gtv053
+
+
+
+
+#EXTINF:-1 group-title="ofiii 歐飛",台視
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="ofiii 歐飛",中視
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="ofiii 歐飛",華視
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="ofiii 歐飛",好消息2台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-ftv17
+#EXTINF:-1 group-title="ofiii 歐飛",好消息
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-ftv16
+#EXTINF:-1 group-title="ofiii 歐飛",ELTV生活英語台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn20
+#EXTINF:-1 group-title="ofiii 歐飛",龍華卡通台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn01
+#EXTINF:-1 group-title="ofiii 歐飛",亞洲旅遊台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn17
+#EXTINF:-1 group-title="ofiii 歐飛",Smart知識台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn19
+#EXTINF:-1 group-title="ofiii 歐飛",龍華戲劇台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn18
+#EXTINF:-1 group-title="ofiii 歐飛",台灣戲劇台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn22
+#EXTINF:-1 group-title="ofiii 歐飛",東森購物1台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv102
+#EXTINF:-1 group-title="ofiii 歐飛",龍華偶像台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn12
+#EXTINF:-1 group-title="ofiii 歐飛",龍華日韓台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn11
+#EXTINF:-1 group-title="ofiii 歐飛",東森購物2台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv103
+#EXTINF:-1 group-title="ofiii 歐飛",華視新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="ofiii 歐飛",倪珍播新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=nnews-zh
+#EXTINF:-1 group-title="ofiii 歐飛",三立新聞iNEWS
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=iNEWS
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇財經台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn23
+#EXTINF:-1 group-title="ofiii 歐飛",台視新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="ofiii 歐飛",中視新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="ofiii 歐飛",中天新聞台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇新聞台灣台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn15
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇新聞台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14
+#EXTINF:-1 group-title="ofiii 歐飛",第1商業台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv104
+#EXTINF:-1 group-title="ofiii 歐飛",國會頻道1台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv084
+#EXTINF:-1 group-title="ofiii 歐飛",國會頻道2台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv085
+#EXTINF:-1 group-title="ofiii 歐飛",倪珍英語新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=nnews-en
+#EXTINF:-1 group-title="ofiii 歐飛",龍華經典台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn21
+#EXTINF:-1 group-title="ofiii 歐飛",龍華電影台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn03
+
+
+
+
+
+#EXTINF:-1 group-title="ofiii 歐飛",台視
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="ofiii 歐飛",中視
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="ofiii 歐飛",華視
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="ofiii 歐飛",好消息2台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-ftv17
+#EXTINF:-1 group-title="ofiii 歐飛",好消息
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-ftv16
+#EXTINF:-1 group-title="ofiii 歐飛",ELTV生活英語台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn20
+#EXTINF:-1 group-title="ofiii 歐飛",龍華卡通台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn01
+#EXTINF:-1 group-title="ofiii 歐飛",亞洲旅遊台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn17
+#EXTINF:-1 group-title="ofiii 歐飛",Smart知識台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn19
+#EXTINF:-1 group-title="ofiii 歐飛",龍華戲劇台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn18
+#EXTINF:-1 group-title="ofiii 歐飛",台灣戲劇台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn22
+#EXTINF:-1 group-title="ofiii 歐飛",東森購物1台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv102
+#EXTINF:-1 group-title="ofiii 歐飛",龍華偶像台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn12
+#EXTINF:-1 group-title="ofiii 歐飛",龍華日韓台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn11
+#EXTINF:-1 group-title="ofiii 歐飛",東森購物2台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv103
+#EXTINF:-1 group-title="ofiii 歐飛",華視新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="ofiii 歐飛",倪珍播新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=nnews-zh
+#EXTINF:-1 group-title="ofiii 歐飛",三立新聞iNEWS
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=iNEWS
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇財經台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn23
+#EXTINF:-1 group-title="ofiii 歐飛",台視新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="ofiii 歐飛",中視新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="ofiii 歐飛",中天新聞台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇新聞台灣台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn15
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇新聞台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14
+#EXTINF:-1 group-title="ofiii 歐飛",第1商業台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv104
+#EXTINF:-1 group-title="ofiii 歐飛",國會頻道1台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv084
+#EXTINF:-1 group-title="ofiii 歐飛",國會頻道2台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv085
+#EXTINF:-1 group-title="ofiii 歐飛",倪珍英語新聞
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=nnews-en
+#EXTINF:-1 group-title="ofiii 歐飛",龍華經典台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn21
+#EXTINF:-1 group-title="ofiii 歐飛",龍華電影台
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn03
+
+
+
+
+
+#EXTINF:-1 group-title="ofiii 歐飛",中天新聞
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="ofiii 歐飛",華視
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="ofiii 歐飛",中視
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="ofiii 歐飛",台視新聞
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="ofiii 歐飛",華視新聞
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="ofiii 歐飛",台視
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="ofiii 歐飛",中視新聞
+https://www.567858.xyz/ofiii.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="ofiii 歐飛",龍華卡通
+https://www.567858.xyz/ofiii.php?id=litv-longturn01
+#EXTINF:-1 group-title="ofiii 歐飛",龍華電影
+https://www.567858.xyz/ofiii.php?id=litv-longturn03
+#EXTINF:-1 group-title="ofiii 歐飛",龍華日韓
+https://www.567858.xyz/ofiii.php?id=litv-longturn11
+#EXTINF:-1 group-title="ofiii 歐飛",龍華偶像
+https://www.567858.xyz/ofiii.php?id=litv-longturn12
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇新聞台
+https://www.567858.xyz/ofiii.php?id=litv-longturn14
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇新聞台灣台
+https://www.567858.xyz/ofiii.php?id=litv-longturn15
+#EXTINF:-1 group-title="ofiii 歐飛",亞洲旅遊台
+https://www.567858.xyz/ofiii.php?id=litv-longturn17
+#EXTINF:-1 group-title="ofiii 歐飛",SMART知識台
+https://www.567858.xyz/ofiii.php?id=litv-longturn19
+#EXTINF:-1 group-title="ofiii 歐飛",龍華戲劇
+https://www.567858.xyz/ofiii.php?id=litv-longturn18
+#EXTINF:-1 group-title="ofiii 歐飛",ELTV生活英語台
+https://www.567858.xyz/ofiii.php?id=litv-longturn20
+#EXTINF:-1 group-title="ofiii 歐飛",龍華經典
+https://www.567858.xyz/ofiii.php?id=litv-longturn21
+#EXTINF:-1 group-title="ofiii 歐飛",台灣戲劇台
+https://www.567858.xyz/ofiii.php?id=litv-longturn22
+#EXTINF:-1 group-title="ofiii 歐飛",寰宇財經台
+https://www.567858.xyz/ofiii.php?id=litv-longturn23
+
+
+
+
+
+
+
 
 
 
