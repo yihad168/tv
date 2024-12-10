@@ -571,6 +571,7 @@ https://pixman.mytvsuper.com.mp/mytvsuper/C2
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
+
 #EXTINF:-1 group-title="AKTV", 28 AI 智慧賽馬
 http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", Channel 5 HD
@@ -599,7 +600,7 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 中視
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", 千禧經典台
+#EXTINF:-1 group-title="AKTV", 千禧經典台(HK)
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 娛樂新聞台(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
@@ -607,7 +608,7 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 日本全天新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", 明珠劇集台(北美)
+#EXTINF:-1 group-title="AKTV", 明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -615,11 +616,11 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", 翡翠劇集台(北美)
+#EXTINF:-1 group-title="AKTV", 翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", 翡翠綜合台(北美)
+#EXTINF:-1 group-title="AKTV", 翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
@@ -639,16 +640,28 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", i-Fun 動漫台
+http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", Love Nature HD
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", Now星影台
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", Now爆谷台
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", viutv 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", viutv6 96
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", 無線新聞台(北美)
+#EXTINF:-1 group-title="AKTV", ZooMoo
+http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", 无线新闻台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", Animax-HK
+#EXTINF:-1 group-title="AKTV", 東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", Animax(HK)
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", C+台
-http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", France 24
@@ -659,12 +672,12 @@ http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV", ROCK Action
-http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", ZooMoo
@@ -675,6 +688,11 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV", 無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV", 翡翠台4K
+http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+
+
+
 
 
 
