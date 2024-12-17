@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml,https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -1040,6 +1040,165 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 group-title="台灣", 音樂欣賞2
 http://61.221.215.25:8800/hls/58/index.m3u8
+
+
+
+
+
+#EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://epg.v1.mk/logo/AMC电影台.png" group-title="台灣頻道「🅒」",AMC 電影台
+http://114.33.60.49:8585/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1,tvg-id="AKC狗狗宠物" tvg-name="AKC狗狗宠物" tvg-logo="https://epg.v1.mk/logo/AKC狗狗宠物.png" group-title="台灣頻道「🅒」",寵物頻道
+http://114.33.60.49:8561/http/61.219.99.20:8078/hls/40/80/pettv.m3u8
+#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="台灣頻道「🅒」",緯來育樂HD
+http://114.33.60.49:8562/http/61.219.99.20:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="台灣頻道「🅒」",緯來體育HD
+http://114.33.60.49:8563/http/61.219.99.20:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1,tvg-id="博斯运动一" tvg-name="博斯运动一" tvg-logo="https://epg.v1.mk/logo/博斯运动一.png" group-title="台灣頻道「🅒」",博斯運動一
+http://114.33.60.49:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+#EXTINF:-1,tvg-id="momo综合台" tvg-name="momo综合台" tvg-logo="https://epg.v1.mk/logo/momo综合台.png" group-title="台灣頻道「🅒」",momo綜合台
+http://114.33.60.49:8502/http/61.219.99.20:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1,tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://epg.v1.mk/logo/DAZN1.png" group-title="台灣頻道「🅒」",DAZN 1 HD
+http://114.33.60.49:8566/http/61.219.99.20:8078/hls/25/80/esport.m3u8
+#EXTINF:-1,tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://epg.v1.mk/logo/DAZN2.png" group-title="台灣頻道「🅒」",DAZN 2 HD
+http://114.33.60.49:8567/http/61.219.99.20:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="台灣頻道「🅒」",廈門衛視
+http://114.33.60.49:8568/http/61.219.99.20:8078/hls/42/80/xmtv.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="台灣頻道「🅒」",CCTV4-中央衛視
+http://114.33.60.49:8569/http/61.219.99.20:8078/hls/42/80/cctv4.m3u8
+#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.v1.mk/logo/海峡卫视.png" group-title="台灣頻道「🅒」",海峽衛視
+http://114.33.60.49:8580/http/61.219.99.20:8078/hls/42/80/fjttv.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="台灣頻道「🅒」",浙江衛視
+http://114.33.60.49:8571/http/61.219.99.20:8078/hls/41/80/zhejiang.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="台灣頻道「🅒」",東方衛視
+http://114.33.60.49:8572/http/61.219.99.20:8078/hls/41/80/east.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="台灣頻道「🅒」",湖南衛視
+http://114.33.60.49:8573/http/61.219.99.20:8078/hls/41/80/huana.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="台灣頻道「🅒」",鳯凰衛視資訊
+http://114.33.60.49:8576/http/61.219.99.20:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="台灣頻道「🅒」",鳯凰衛視中文
+http://114.33.60.49:8577/http/61.219.99.20:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="台灣頻道「🅒」",台視HD
+http://114.33.60.49:8501/http/61.219.99.20:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="台灣頻道「🅒」",中視HD
+http://114.33.60.49:8512/http/61.219.99.20:8081/hls/72/814/ch47.m3u8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="台灣頻道「🅒」",華視HD
+http://114.33.60.49:8508/http/61.219.99.20:8081/hls/72/814/ch48.m3u8
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="台灣頻道「🅒」",民視HD
+http://114.33.60.49:8584/http/61.219.99.20:8081/hls/73/815/ch49.m3u8
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="台灣頻道「🅒」",公視
+http://114.33.60.49:8505/http/61.219.99.20:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1,tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://epg.v1.mk/logo/人间卫视.png" group-title="台灣頻道「🅒」",人間衛視
+http://114.33.60.49:8517/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1,tvg-id="大爱电视" tvg-name="大爱电视" tvg-logo="https://epg.v1.mk/logo/大爱电视.png" group-title="台灣頻道「🅒」",大愛電視
+http://114.33.60.49:8579/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1,tvg-id="好消息1台" tvg-name="好消息1台" tvg-logo="https://epg.v1.mk/logo/好消息1台.png" group-title="台灣頻道「🅒」",好消息GOOD TV
+http://114.33.60.49:8586/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+#EXTINF:-1,tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://epg.v1.mk/logo/TRACESPORTSTARS.png" group-title="台灣頻道「🅒」",Trace Sport Stars
+http://114.33.60.49:8509/http/61.219.99.20:8078/hls/112/80/tracesport.m3u8
+#EXTINF:-1,tvg-id="discovery" tvg-name="discovery" tvg-logo="https://epg.v1.mk/logo/discovery.png" group-title="台灣頻道「🅒」",DISCOVERY
+http://114.33.60.49:8510/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1,tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://epg.v1.mk/logo/TLC旅游生活.png" group-title="台灣頻道「🅒」",旅遊生活
+http://114.33.60.49:8503/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="台灣頻道「🅒」",動物星球
+http://114.33.60.49:8574/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1,tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://epg.v1.mk/logo/亚洲旅游.png" group-title="台灣頻道「🅒」",亞洲旅遊
+http://114.33.60.49:8511/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1,tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://epg.v1.mk/logo/MOMO亲子台.png" group-title="台灣頻道「🅒」",MOMO親子台
+http://114.33.60.49:8514/http/61.219.99.20:8081/hls/90/80/momo5max.m3u8
+#EXTINF:-1,tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://epg.v1.mk/logo/东森幼幼.png" group-title="台灣頻道「🅒」",東森幼幼HD
+http://114.33.60.49:8515/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1,tvg-id="深圳龙华" tvg-name="深圳龙华" tvg-logo="https://epg.v1.mk/logo/深圳龙华.png" group-title="台灣頻道「🅒」",龍華卡通台
+http://114.33.60.49:8506/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1,tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://epg.v1.mk/logo/纬来综合.png" group-title="台灣頻道「🅒」",緯來綜合HD
+http://114.33.60.49:8518/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1,tvg-id="八大第一" tvg-name="八大第一" tvg-logo="https://epg.v1.mk/logo/八大第一.png" group-title="台灣頻道「🅒」",八大第一HD
+http://114.33.60.49:8519/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1,tvg-id="八大综合" tvg-name="八大综合" tvg-logo="https://epg.v1.mk/logo/八大综合.png" group-title="台灣頻道「🅒」",八大綜合HD
+http://114.33.60.49:8520/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1,tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://epg.v1.mk/logo/三立台湾.png" group-title="台灣頻道「🅒」",三立台灣HD
+http://114.33.60.49:8521/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1,tvg-id="三立都会" tvg-name="三立都会" tvg-logo="https://epg.v1.mk/logo/三立都会.png" group-title="台灣頻道「🅒」",三立都會HD
+http://114.33.60.49:8522/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1,tvg-id="韩国娱乐台 KMTV" tvg-name="韩国娱乐台 KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐台 KMTV.png" group-title="台灣頻道「🅒」",韓國娛樂台
+http://114.33.60.49:8523/http/61.219.99.20:8067/hls/105/kmtv.m3u8
+#EXTINF:-1,tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://epg.v1.mk/logo/东森综合.png" group-title="台灣頻道「🅒」",東森綜合HD
+http://114.33.60.49:8524/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1,tvg-id="超视34" tvg-name="超视34" tvg-logo="https://epg.v1.mk/logo/超视34.png" group-title="台灣頻道「🅒」",超視HD
+http://114.33.60.49:8525/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1,tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://epg.v1.mk/logo/中天综合.png" group-title="台灣頻道「🅒」",中天綜合HD
+http://114.33.60.49:8526/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1,tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.v1.mk/logo/中天娱乐.png" group-title="台灣頻道「🅒」",中天娛樂HD
+http://114.33.60.49:8527/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1,tvg-id="东风卫视" tvg-name="东风卫视" tvg-logo="https://epg.v1.mk/logo/东风卫视.png" group-title="台灣頻道「🅒」",東風衛視
+http://114.33.60.49:8583/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1,tvg-id="年代MUCH" tvg-name="年代MUCH" tvg-logo="https://epg.v1.mk/logo/年代MUCH.png" group-title="台灣頻道「🅒」",MUCH TV
+http://114.33.60.49:8529/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1,tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://epg.v1.mk/logo/东森戏剧.png" group-title="台灣頻道「🅒」",東森戲劇HD
+http://114.33.60.49:8530/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1,tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://epg.v1.mk/logo/八大戏剧.png" group-title="台灣頻道「🅒」",八大戲劇HD
+http://114.33.60.49:8531/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1,tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐.png" group-title="台灣頻道「🅒」",TVBS歡樂HD
+http://114.33.60.49:8532/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1,tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://epg.v1.mk/logo/纬来戏剧.png" group-title="台灣頻道「🅒」",緯來戲劇
+http://114.33.60.49:8533/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1,tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://epg.v1.mk/logo/龙华戏剧台.png" group-title="台灣頻道「🅒」",龍華戲劇台
+http://114.33.60.49:8528/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+#EXTINF:-1,tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.v1.mk/logo/龙华日韩.png" group-title="台灣頻道「🅒」",龍華日韓劇
+http://114.33.60.49:8536/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.v1.mk/logo/龙华偶像.png" group-title="台灣頻道「🅒」",龍華偶像劇
+http://114.33.60.49:8556/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+#EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="台灣頻道「🅒」",緯來日本HD
+http://114.33.60.49:8537/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1,tvg-id="taiwanplus" tvg-name="taiwanplus" tvg-logo="https://epg.v1.mk/logo/taiwanplus.png" group-title="台灣頻道「🅒」",Taiwan Plus
+http://114.33.60.49:8538/http/61.219.99.20:8081/hls/61/803/ch03.m3u8
+#EXTINF:-1,tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://epg.v1.mk/logo/年代新闻.png" group-title="台灣頻道「🅒」",年代新聞
+http://114.33.60.49:8539/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="台灣頻道「🅒」",東森新聞HD
+http://114.33.60.49:8540/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="台灣頻道「🅒」",中天新聞
+http://114.33.60.49:8541/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.v1.mk/logo/民视新闻.png" group-title="台灣頻道「🅒」",民視新聞
+http://114.33.60.49:8542/http/61.219.99.20:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="台灣頻道「🅒」",三立新聞HD
+http://114.33.60.49:8543/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.v1.mk/logo/TVBS新闻.png" group-title="台灣頻道「🅒」",TVBS新聞HD
+http://114.33.60.49:8587/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="台灣頻道「🅒」",TVBS HD
+http://114.33.60.49:8575/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1,tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="台灣頻道「🅒」",非凡新聞HD
+http://114.33.60.49:8544/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
+#EXTINF:-1,tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://epg.v1.mk/logo/非凡商业.png" group-title="台灣頻道「🅒」",非凡商業HD
+http://114.33.60.49:8545/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
+#EXTINF:-1,tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="台灣頻道「🅒」",東森財經HD
+http://114.33.60.49:8546/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="台灣頻道「🅒」",寰宇新聞
+http://114.33.60.49:8513/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1,tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://epg.v1.mk/logo/壹新闻.png" group-title="台灣頻道「🅒」",壹新聞
+http://114.33.60.49:8548/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.v1.mk/logo/BLOOMBERG.png" group-title="台灣頻道「🅒」",Bloomberg News
+http://114.33.60.49:8551/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="台灣頻道「🅒」",NHK世界HD
+http://114.33.60.49:8552/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="台灣頻道「🅒」",鏡電視新聞台
+http://114.33.60.49:8553/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.v1.mk/logo/好莱坞电影.png" group-title="台灣頻道「🅒」",好萊塢電影HD
+http://114.33.60.49:8554/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1,tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://epg.v1.mk/logo/纬来电影.png" group-title="台灣頻道「🅒」",緯來電影HD
+http://114.33.60.49:8555/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="台灣頻道「🅒」",龍華電影台
+http://114.33.60.49:8560/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+#EXTINF:-1,tvg-id="hbo" tvg-name="hbo" tvg-logo="https://epg.v1.mk/logo/hbo.png" group-title="台灣頻道「🅒」",HBO
+http://114.33.60.49:8557/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="台灣頻道「🅒」",AXN
+http://114.33.60.49:8558/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1,tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://epg.v1.mk/logo/cinemax.png" group-title="台灣頻道「🅒」",CINEMAX HD
+http://114.33.60.49:8559/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+
+
+
+
+
+
 
 
 
