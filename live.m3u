@@ -891,6 +891,11 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="LITV台灣",中天新聞
 https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/4gtv-4gtv009
 #EXTINF:-1 group-title="LITV台灣",中天亞洲台
@@ -1025,7 +1030,203 @@ https://zf.315600.xyz/proxy/http://tvb1.315600.xyz/litv/litv-longturn04
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://json.doube.eu.org/logo/民视.png" group-title="四季TV",民視
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv002,1,10
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://json.doube.eu.org/logo/民视.png" group-title="四季TV",民視
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv155,1,6
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://json.doube.eu.org/logo/民视台湾台.png" group-title="四季TV",民視台灣台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv001,1,6
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://json.doube.eu.org/logo/民视台湾台.png" group-title="四季TV",民視台灣台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv156,1,6
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://json.doube.eu.org/logo/民视第一台.png" group-title="四季TV",民視第一台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv003,1,6
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://json.doube.eu.org/logo/民视新闻台.png" group-title="四季TV",民視新聞台
+https://live.doube.eu.org/live/litv?pid=litv-ftv13,1,7
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://json.doube.eu.org/logo/民视旅游台.png" group-title="四季TV",民視旅遊
+https://live.doube.eu.org/live/litv?pid=litv-ftv07,1,7
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://json.doube.eu.org/logo/民视影剧台.png" group-title="四季TV",民視影劇
+https://live.doube.eu.org/live/litv?pid=litv-ftv09,1,2
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://json.doube.eu.org/logo/民视影剧台.png" group-title="四季TV",民視影劇
+https://live.doube.eu.org/live/litv?pid=litv-ftv09,1,7
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://json.doube.eu.org/logo/民视综艺台.png" group-title="四季TV",民視綜藝
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv004,1,8
+#EXTINF:-1 tvg-id="台湾戏剧台" tvg-name="台湾戏剧台" tvg-logo="https://json.doube.eu.org/logo/台湾戏剧台.png" group-title="四季TV",台灣戲劇台
+https://live.doube.eu.org/live/litv?pid=litv-longturn22,5,2
+#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://json.doube.eu.org/logo/龙华经典台.png" group-title="四季TV",龍華經典
+https://live.doube.eu.org/live/litv?pid=litv-longturn21,5,2
+#EXTINF:-1 tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://json.doube.eu.org/logo/龙华戏剧台.png" group-title="四季TV",龍華戲劇
+https://live.doube.eu.org/live/litv?pid=litv-longturn18,5,6
+#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://json.doube.eu.org/logo/龙华电影台.png" group-title="四季TV",龍華電影
+https://live.doube.eu.org/live/litv?pid=litv-longturn03,5,6
+#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://json.doube.eu.org/logo/龙华日韩台.png" group-title="四季TV",龍華日韓
+https://live.doube.eu.org/live/litv?pid=litv-longturn11,5,2
+#EXTINF:-1 tvg-id="龙华偶像台" tvg-name="龙华偶像台" tvg-logo="https://json.doube.eu.org/logo/龙华偶像台.png" group-title="四季TV",龍華偶像
+https://live.doube.eu.org/live/litv?pid=litv-longturn12,5,2
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://json.doube.eu.org/logo/龙华卡通台.png" group-title="四季TV",龍華卡通
+https://live.doube.eu.org/live/litv?pid=litv-longturn01,4,2
+#EXTINF:-1 tvg-id="龙华卡通台" tvg-name="龙华卡通台" tvg-logo="https://json.doube.eu.org/logo/龙华卡通台.png" group-title="四季TV",龍華卡通
+https://live.doube.eu.org/live/litv?pid=litv-longturn01,4,5
+#EXTINF:-1 tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://json.doube.eu.org/logo/靖天综合台.png" group-title="四季TV",靖天綜合台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv046,1,8
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://json.doube.eu.org/logo/靖天日本台.png" group-title="四季TV",靖天日本台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv047,1,8
+#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://json.doube.eu.org/logo/靖天欢乐台.png" group-title="四季TV",靖天歡樂台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv054,1,8
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://json.doube.eu.org/logo/靖天映画.png" group-title="四季TV",靖天映畫
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv055,1,8
+#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://json.doube.eu.org/logo/靖天电影台.png" group-title="四季TV",靖天電影台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv061,1,7
+#EXTINF:-1 tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://json.doube.eu.org/logo/靖天育乐台.png" group-title="四季TV",靖天育樂台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv062,1,8
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="https://json.doube.eu.org/logo/靖天国际台.png" group-title="四季TV",靖天國際台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv063,1,6
+#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://json.doube.eu.org/logo/靖天戏剧台.png" group-title="四季TV",靖天戲劇台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv058,1,8
+#EXTINF:-1 tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://json.doube.eu.org/logo/靖天资讯台.png" group-title="四季TV",靖天資訊台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv065,1,8
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://json.doube.eu.org/logo/靖天卡通台.png" group-title="四季TV",靖天卡通台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv044,1,8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://json.doube.eu.org/logo/TVBS.png" group-title="四季TV",TVBS
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv073,1,2
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://json.doube.eu.org/logo/TVBS新闻.png" group-title="四季TV",TVBS新聞台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv072,1,2
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://json.doube.eu.org/logo/TVBS精采台.png" group-title="四季TV",TVBS精采台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv067,1,8
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://json.doube.eu.org/logo/TVBS欢乐台.png" group-title="四季TV",TVBS歡樂台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv068,1,7
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://json.doube.eu.org/logo/台视.png" group-title="四季TV",台視
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv066,1,2
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://json.doube.eu.org/logo/台视.png" group-title="四季TV",台視
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv066,1,6
+#EXTINF:-1 tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://json.doube.eu.org/logo/台视财经台.png" group-title="四季TV",台視財經
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv056,1,2
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://json.doube.eu.org/logo/台视新闻台.png" group-title="四季TV",台視新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv051,1,2
+#EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://json.doube.eu.org/logo/台视新闻台.png" group-title="四季TV",台視新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv051,1,6
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://json.doube.eu.org/logo/博斯魅力.png" group-title="四季TV",博斯魅力
+https://live.doube.eu.org/live/litv?pid=litv-longturn04,5,2
+#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://json.doube.eu.org/logo/博斯高球1.png" group-title="四季TV",博斯高球1
+https://live.doube.eu.org/live/litv?pid=litv-longturn05,5,2
+#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="https://json.doube.eu.org/logo/博斯高球2.png" group-title="四季TV",博斯高球2
+https://live.doube.eu.org/live/litv?pid=litv-longturn06,5,2
+#EXTINF:-1 tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://json.doube.eu.org/logo/博斯运动1.png" group-title="四季TV",博斯運動1
+https://live.doube.eu.org/live/litv?pid=litv-longturn07,5,2
+#EXTINF:-1 tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://json.doube.eu.org/logo/博斯运动2.png" group-title="四季TV",博斯運動2
+https://live.doube.eu.org/live/litv?pid=litv-longturn08,5,2
+#EXTINF:-1 tvg-id="博斯网球1" tvg-name="博斯网球1" tvg-logo="https://json.doube.eu.org/logo/博斯网球1.png" group-title="四季TV",博斯網球
+https://live.doube.eu.org/live/litv?pid=litv-longturn09,5,2
+#EXTINF:-1 tvg-id="博斯无限1" tvg-name="博斯无限1" tvg-logo="https://json.doube.eu.org/logo/博斯无限1.png" group-title="四季TV",博斯無限
+https://live.doube.eu.org/live/litv?pid=litv-longturn10,5,2
+#EXTINF:-1 tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://json.doube.eu.org/logo/博斯无限2.png" group-title="四季TV",博斯無限2
+https://live.doube.eu.org/live/litv?pid=litv-longturn13,4,2
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://json.doube.eu.org/logo/中视.png" group-title="四季TV",中视
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv040,1,6
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://json.doube.eu.org/logo/中视菁采台.png" group-title="四季TV",中視菁采
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv064,1,8
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://json.doube.eu.org/logo/中视新闻台.png" group-title="四季TV",中視新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv074,1,2
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://json.doube.eu.org/logo/中视经典台.png" group-title="四季TV",中視經典
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv080,1,6
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://json.doube.eu.org/logo/猪哥亮歌厅秀.png" group-title="四季TV",豬哥亮歌廳秀
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv006,1,9
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://json.doube.eu.org/logo/中天新闻.png" group-title="四季TV",中天新闻
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv009,2,7
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://json.doube.eu.org/logo/中天亚洲.png" group-title="四季TV",中天亞洲台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv109,1,7
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://json.doube.eu.org/logo/非凡新闻.png" group-title="四季TV",非凡新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv010,1,6
+#EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://json.doube.eu.org/logo/非凡商业.png" group-title="四季TV",非凡商業
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv048,1,2
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://json.doube.eu.org/logo/寰宇新闻台.png" group-title="四季TV",寰宇新聞台
+https://live.doube.eu.org/live/litv?pid=litv-longturn14,1,2
+#EXTINF:-1 tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://json.doube.eu.org/logo/寰宇新闻台湾台.png" group-title="四季TV",寰宇新聞台灣台
+https://live.doube.eu.org/live/litv?pid=litv-longturn15,5,6
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://json.doube.eu.org/logo/八大精彩.png" group-title="四季TV",八大精彩台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv034,1,6
+#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺" tvg-logo="https://json.doube.eu.org/logo/八大综艺.png" group-title="四季TV",八大綜藝台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv039,1,7
+#EXTINF:-1 tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://json.doube.eu.org/logo/国会频道1.png" group-title="四季TV",國會頻道1
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv084,1,6
+#EXTINF:-1 tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://json.doube.eu.org/logo/国会频道2.png" group-title="四季TV",國會頻道2
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv085,1,5
+#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://json.doube.eu.org/logo/好消息1.png" group-title="四季TV",好消息1
+https://live.doube.eu.org/live/litv?pid=litv-ftv16,1,2
+#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://json.doube.eu.org/logo/好消息1.png" group-title="四季TV",好消息1
+https://live.doube.eu.org/live/litv?pid=litv-ftv16,1,6
+#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://json.doube.eu.org/logo/好消息2.png" group-title="四季TV",好消息2
+https://live.doube.eu.org/live/litv?pid=litv-ftv17,1,2
+#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://json.doube.eu.org/logo/好消息2.png" group-title="四季TV",好消息2
+https://live.doube.eu.org/live/litv?pid=litv-ftv17,1,6
+#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://json.doube.eu.org/logo/靖洋戏剧台.png" group-title="四季TV",靖洋戲劇台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv045,1,6
+#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://json.doube.eu.org/logo/靖洋卡通台.png" group-title="四季TV",靖洋卡通台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv057,1,8
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://json.doube.eu.org/logo/东森新闻台.png" group-title="四季TV",東森新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv152,1,6
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://json.doube.eu.org/logo/东森财经新闻台.png" group-title="四季TV",東森財經新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv153,1,2
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://json.doube.eu.org/logo/东森财经新闻台.png" group-title="四季TV",東森財經新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv153,1,6
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://json.doube.eu.org/logo/影迷數位電影台.png" group-title="四季TV",影迷數位電影台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv011,1,6
+#EXTINF:-1 tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://json.doube.eu.org/logo/视纳华仁纪实.png" group-title="四季TV",視納華仁紀實頻道
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv013,1,6
+#EXTINF:-1 tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://json.doube.eu.org/logo/时尚运动X.png" group-title="四季TV",時尚運動X
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv014,1,5
+#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://json.doube.eu.org/logo/Globetrotter.png" group-title="四季TV",GLOBETROTTER
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv016,1,6
+#EXTINF:-1 tvg-id="amc电影台" tvg-name="amc电影台" tvg-logo="https://json.doube.eu.org/logo/amc电影台.png" group-title="四季TV",amc電影台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv017,1,6
+#EXTINF:-1 tvg-id="达文西频道" tvg-name="达文西频道" tvg-logo="https://json.doube.eu.org/logo/达文西频道.png" group-title="四季TV",達文西頻道
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv018,1,6
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://json.doube.eu.org/logo/华视.png" group-title="四季TV",華視
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv041,1,6
+#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://json.doube.eu.org/logo/公视戏剧.png" group-title="四季TV",公視戲劇
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv042,1,6
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://json.doube.eu.org/logo/客家电视台.png" group-title="四季TV",客家電視臺
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv043,1,6
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://json.doube.eu.org/logo/采昌影剧台.png" group-title="四季TV",采昌影剧
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv049,1,8
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://json.doube.eu.org/logo/华视新闻.png" group-title="四季TV",華視新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv052,1,2
+#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GINXEsportsTV" tvg-logo="https://json.doube.eu.org/logo/GINXEsportsTV.png" group-title="四季TV",GinxTV
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv053,1,8
+#EXTINF:-1 tvg-id="CLASSICA古典乐" tvg-name="CLASSICA古典乐" tvg-logo="https://json.doube.eu.org/logo/CLASSICA古典乐.png" group-title="四季TV",古典音樂台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv059,1,6
+#EXTINF:-1 tvg-id="ELTV娱乐" tvg-name="ELTV娱乐" tvg-logo="https://json.doube.eu.org/logo/ELTV娱乐.png" group-title="四季TV",愛爾達娛樂
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv070,1,7
+#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜电视新闻台" tvg-logo="https://json.doube.eu.org/logo/镜电视新闻台.png" group-title="四季TV",鏡新聞
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv075,1,6
+#EXTINF:-1 tvg-id="CATCHPLAY电影台" tvg-name="CATCHPLAY电影台" tvg-logo="https://json.doube.eu.org/logo/CATCHPLAY电影台.png" group-title="四季TV",CATCHPLAY電影台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv076,1,2
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TraceSportStars" tvg-logo="https://json.doube.eu.org/logo/TraceSportStars.png" group-title="四季TV",TRACE SPORTS STARS
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv077,1,7
+#EXTINF:-1 tvg-id="ARIRANG" tvg-name="ARIRANG" tvg-logo="https://json.doube.eu.org/logo/ARIRANG.png" group-title="四季TV",阿里郎
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv079,1,2
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TraceUrban" tvg-logo="https://json.doube.eu.org/logo/TraceUrban.png" group-title="四季TV",TRACE URBAN
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv082,1,6
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MezzoLiveHD" tvg-logo="https://json.doube.eu.org/logo/MezzoLiveHD.png" group-title="四季TV",MEZZO LIVE
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv083,1,6
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://json.doube.eu.org/logo/智林体育台.png" group-title="四季TV",智林體育台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv101,1,5
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://json.doube.eu.org/logo/智林体育台.png" group-title="四季TV",智林體育台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv101,1,6
+#EXTINF:-1 tvg-id="第1商业台" tvg-name="第1商业台" tvg-logo="https://json.doube.eu.org/logo/第1商业台.png" group-title="四季TV",第1商業台
+https://live.doube.eu.org/live/litv?pid=4gtv-4gtv104,1,7
+#EXTINF:-1 tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://json.doube.eu.org/logo/美国之音.png" group-title="四季TV",美國之音
+https://live.doube.eu.org/live/litv?pid=litv-ftv03,1,7
+#EXTINF:-1 tvg-id="半岛国际新闻" tvg-name="半岛国际新闻" tvg-logo="https://json.doube.eu.org/logo/半岛国际新闻.png" group-title="四季TV",半島新聞
+https://live.doube.eu.org/live/litv?pid=litv-ftv10,1,7
+#EXTINF:-1 tvg-id="iFun" tvg-name="iFun" tvg-logo="https://json.doube.eu.org/logo/iFun.png" group-title="四季TV",愛放
+https://live.doube.eu.org/live/litv?pid=litv-ftv15,1,7
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://json.doube.eu.org/logo/亚洲旅游台.png" group-title="四季TV",亞洲旅遊台
+https://live.doube.eu.org/live/litv?pid=litv-longturn17,5,2
+#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://json.doube.eu.org/logo/Smart知识台.png" group-title="四季TV",Smart知識台
+https://live.doube.eu.org/live/litv?pid=litv-longturn19,5,6
+#EXTINF:-1 tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://json.doube.eu.org/logo/ELTV生活英语台.png" group-title="四季TV",生活英语台
+https://live.doube.eu.org/live/litv?pid=litv-longturn20,5,6
 
 
 
