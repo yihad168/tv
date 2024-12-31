@@ -4980,7 +4980,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_
 
 
 
-#EXTINF:-1 group-title="2025維也納愛樂新年音樂會",CCTV15
+#EXTINF:-1 group-title="2025維也納愛樂新年音樂會",CCTV-15音樂
 http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
-
-
+#EXTINF:-1 group-title="2025維也納愛樂新年音樂會",CCTV-15
+http://106.53.99.30/dl/bjyd.php?id=11
