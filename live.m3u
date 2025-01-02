@@ -143,10 +143,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 
 
 
-
-
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
 
 #Tokyo1
 #EXTINF:-1 group-title="日本2" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -758,6 +755,158 @@ http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台4K
 http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="台灣",台視HD
+http://dreator800.top/iptv/tw.php?id=1047
+#EXTINF:-1 group-title="台灣",中視HD
+http://dreator800.top/iptv/tw.php?id=1048
+#EXTINF:-1 group-title="台灣",華視HD
+http://dreator800.top/iptv/tw.php?id=1049
+#EXTINF:-1 group-title="台灣",民視HD
+http://dreator800.top/iptv/tw.php?id=1050
+#EXTINF:-1 group-title="台灣",公視
+http://dreator800.top/iptv/tw.php?id=1201
+#EXTINF:-1 group-title="台灣",人間衛視
+http://dreator800.top/iptv/tw.php?id=1198
+#EXTINF:-1 group-title="台灣",大愛電視
+http://dreator800.top/iptv/tw.php?id=1216
+#EXTINF:-1 group-title="台灣",好消息GOOD TV
+http://dreator800.top/iptv/tw.php?id=1669
+#EXTINF:-1 group-title="台灣",Trace Sport Stars
+http://dreator800.top/iptv/tw.php?id=1003
+#EXTINF:-1 group-title="台灣",DISCOVERY
+http://dreator800.top/iptv/tw.php?id=1002
+#EXTINF:-1 group-title="台灣",旅遊生活
+http://dreator800.top/iptv/tw.php?id=1005
+#EXTINF:-1 group-title="台灣",動物星球
+http://dreator800.top/iptv/tw.php?id=1004
+#EXTINF:-1 group-title="台灣",亞洲旅遊
+http://dreator800.top/iptv/tw.php?id=1219
+#EXTINF:-1 group-title="台灣",MOMO親子台
+http://dreator800.top/iptv/tw.php?id=1007
+#EXTINF:-1 group-title="台灣",東森幼幼HD
+http://dreator800.top/iptv/tw.php?id=1008
+#EXTINF:-1 group-title="台灣",龍華卡通台
+http://dreator800.top/iptv/tw.php?id=1670
+#EXTINF:-1 group-title="台灣",緯來綜合HD
+http://dreator800.top/iptv/tw.php?id=1044
+#EXTINF:-1 group-title="台灣",八大第一HD
+http://dreator800.top/iptv/tw.php?id=1043
+#EXTINF:-1 group-title="台灣",八大綜合HD
+http://dreator800.top/iptv/tw.php?id=1019
+#EXTINF:-1 group-title="台灣",三立台灣HD
+http://dreator800.top/iptv/tw.php?id=1021
+#EXTINF:-1 group-title="台灣",三立都會HD
+http://dreator800.top/iptv/tw.php?id=1020
+#EXTINF:-1 group-title="台灣",韓國娛樂台
+http://dreator800.top/iptv/tw.php?id=1024
+#EXTINF:-1 group-title="台灣",東森綜合HD
+http://dreator800.top/iptv/tw.php?id=1041
+#EXTINF:-1 group-title="台灣",超視HD
+http://dreator800.top/iptv/tw.php?id=1180
+#EXTINF:-1 group-title="台灣",中天綜合HD
+http://dreator800.top/iptv/tw.php?id=1022
+#EXTINF:-1 group-title="台灣",中天娛樂HD
+http://dreator800.top/iptv/tw.php?id=1023
+#EXTINF:-1 group-title="台灣",東風衛視
+http://dreator800.top/iptv/tw.php?id=1195
+#EXTINF:-1 group-title="台灣",MUCH TV
+http://dreator800.top/iptv/tw.php?id=1189
+#EXTINF:-1 group-title="台灣",東森戲劇HD
+http://dreator800.top/iptv/tw.php?id=1042
+#EXTINF:-1 group-title="台灣",八大戲劇HD
+http://dreator800.top/iptv/tw.php?id=1057
+#EXTINF:-1 group-title="台灣",TVBS歡樂HD
+http://dreator800.top/iptv/tw.php?id=1018
+#EXTINF:-1 group-title="台灣",緯來戲劇
+http://dreator800.top/iptv/tw.php?id=1186
+#EXTINF:-1 group-title="台灣",龍華戲劇台
+http://dreator800.top/iptv/tw.php?id=1671
+#EXTINF:-1 group-title="台灣",龍華日韓劇
+http://dreator800.top/iptv/tw.php?id=1672
+#EXTINF:-1 group-title="台灣",龍華偶像劇
+http://dreator800.top/iptv/tw.php?id=1673
+#EXTINF:-1 group-title="台灣",緯來日本HD
+http://dreator800.top/iptv/tw.php?id=1026
+#EXTINF:-1 group-title="台灣",Taiwan Plus
+http://dreator800.top/iptv/tw.php?id=1674
+#EXTINF:-1 group-title="台灣",年代新聞
+http://dreator800.top/iptv/tw.php?id=1192
+#EXTINF:-1 group-title="台灣",東森新聞HD
+http://dreator800.top/iptv/tw.php?id=1014
+#EXTINF:-1 group-title="台灣",中天新聞
+http://dreator800.top/iptv/tw.php?id=1675
+#EXTINF:-1 group-title="台灣",民視新聞
+http://dreator800.top/iptv/tw.php?id=1204
+#EXTINF:-1 group-title="台灣",三立新聞HD
+http://dreator800.top/iptv/tw.php?id=1016
+#EXTINF:-1 group-title="台灣",TVBS新聞HD
+http://dreator800.top/iptv/tw.php?id=1052
+#EXTINF:-1 group-title="台灣",TVBS HD
+http://dreator800.top/iptv/tw.php?id=1668
+#EXTINF:-1 group-title="台灣",非凡新聞HD
+http://dreator800.top/iptv/tw.php?id=1013
+#EXTINF:-1 group-title="台灣",非凡商業HD
+http://dreator800.top/iptv/tw.php?id=1012
+#EXTINF:-1 group-title="台灣",東森財經HD
+http://dreator800.top/iptv/tw.php?id=1017
+#EXTINF:-1 group-title="台灣",寰宇新聞
+http://dreator800.top/iptv/tw.php?id=1222
+#EXTINF:-1 group-title="台灣",壹新聞
+http://dreator800.top/iptv/tw.php?id=1676
+#EXTINF:-1 group-title="台灣",Bloomberg News
+http://dreator800.top/iptv/tw.php?id=1066
+#EXTINF:-1 group-title="台灣",NHK世界HD
+http://dreator800.top/iptv/tw.php?id=1027
+#EXTINF:-1 group-title="台灣",鏡電視新聞台
+http://dreator800.top/iptv/tw.php?id=1031
+#EXTINF:-1 group-title="台灣",好萊塢電影HD
+http://dreator800.top/iptv/tw.php?id=1025
+#EXTINF:-1 group-title="台灣",緯來電影HD
+http://dreator800.top/iptv/tw.php?id=1183
+#EXTINF:-1 group-title="台灣",龍華電影台
+http://dreator800.top/iptv/tw.php?id=1677
+#EXTINF:-1 group-title="台灣",HBO
+http://dreator800.top/iptv/tw.php?id=1029
+#EXTINF:-1 group-title="台灣",AXN
+http://dreator800.top/iptv/tw.php?id=1054
+#EXTINF:-1 group-title="台灣",CINEMAX HD
+http://dreator800.top/iptv/tw.php?id=1030
+#EXTINF:-1 group-title="台灣",AMC 電影台
+http://dreator800.top/iptv/tw.php?id=1032
+#EXTINF:-1 group-title="台灣",寵物頻道
+http://dreator800.top/iptv/tw.php?id=1040
+#EXTINF:-1 group-title="台灣",緯來育樂HD
+http://dreator800.top/iptv/tw.php?id=1045
+#EXTINF:-1 group-title="台灣",緯來體育HD
+http://dreator800.top/iptv/tw.php?id=1011
+#EXTINF:-1 group-title="台灣",博斯運動一
+http://dreator800.top/iptv/tw.php?id=1678
+#EXTINF:-1 group-title="台灣",momo綜合台
+http://dreator800.top/iptv/tw.php?id=1225
+#EXTINF:-1 group-title="台灣",DAZN 1
+http://dreator800.top/iptv/tw.php?id=1069
+#EXTINF:-1 group-title="台灣",DAZN 2
+http://dreator800.top/iptv/tw.php?id=1072
+#EXTINF:-1 group-title="台灣",廈門衛視
+http://dreator800.top/iptv/tw.php?id=1033
+#EXTINF:-1 group-title="台灣",CCTV4-中央衛視
+http://dreator800.top/iptv/tw.php?id=1034
+#EXTINF:-1 group-title="台灣",海峽衛視
+http://dreator800.top/iptv/tw.php?id=1035
+#EXTINF:-1 group-title="台灣",浙江衛視
+http://dreator800.top/iptv/tw.php?id=1036
+#EXTINF:-1 group-title="台灣",東方衛視
+http://dreator800.top/iptv/tw.php?id=1037
+#EXTINF:-1 group-title="台灣",湖南衛視
+http://dreator800.top/iptv/tw.php?id=1038
+#EXTINF:-1 group-title="台灣",鳯凰衛視資訊
+http://dreator800.top/iptv/tw.php?id=1666
+#EXTINF:-1 group-title="台灣",鳯凰衛視中文
+http://dreator800.top/iptv/tw.php?id=1213
 
 
 
@@ -4854,20 +5003,5 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tF2RL+xDtbvUGOp+ofvLYA", "kid": "re8AxbqSfQFkKx5vPO3J+w"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=7c92e742f5141be245b29bec89322ad2&ext_start_limit=1735586040&int_start_limit=1735586040&ts=1735586040&c=339313918
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="2025維也納愛樂新年音樂會",CCTV-15 音樂
-http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
-#EXTINF:-1 group-title="2025維也納愛樂新年音樂會",CCTV-15 音樂
-http://106.53.99.30/dl/bjyd.php?id=11
-#EXTINF:-1 group-title="2025維也納愛樂新年音樂會",CCTV-15 音樂
-http://z.b.bkpcp.top/m.php?id=cctv15
-
 
 
