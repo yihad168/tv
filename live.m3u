@@ -205,10 +205,6 @@ http://tv.utako.moe/at-x/index.m3u8
 
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="日本2" ,Donate: https://ko-fi.com/dinhluong
-http://google.com
-#EXTINF:-1 group-title="日本2" ,Test channels are not stable!
-http://google.com
 
 #Tokyo1
 #EXTINF:-1 group-title="日本2" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -759,6 +755,362 @@ http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
 
 
+
+#EXTINF:-1 group-title="台灣",東森新聞 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",TVBS HD (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",TVBS新聞台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",TVBS歡樂台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbshuanle_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",三立台灣台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",三立戲劇台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",三立綜合台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",中天娛樂 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",中天新聞HD (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",中天綜合 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",八大戲劇 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",八大第一 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",八大綜合 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",公視 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",民視 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",民視第一台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",民視台灣台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",民視新聞台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",台視 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttv_taiwan&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",台視新聞台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",中視 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",中視新聞台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",中視經典 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",華視 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
+
+#EXTINF:-1 group-title="台灣",中視 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=2cc71359-2456-443d-8ddc-d9cf86fd8f39
+#EXTINF:-1 group-title="台灣",民視 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=bba1cd9a-b72b-4d29-a545-384d7de01cf7
+#EXTINF:-1 group-title="台灣",民視新聞台 (L)
+http://limon.zapi.eu.org/lm147.php?id=17cd8809-c459-45c1-a1d0-c075645862d2
+#EXTINF:-1 group-title="台灣",台視 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=fa9c215a-4fbe-48c8-8264-42a72ab6e2b4
+#EXTINF:-1 group-title="台灣",台視新聞台 (L)
+http://limon.zapi.eu.org/lm147.php?id=8153b94d-cbd9-49e8-a105-45a5fed98f84
+#EXTINF:-1 group-title="台灣",華視 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=9e556711-5918-49ec-bdc9-1837e9f4bc48
+#EXTINF:-1 group-title="台灣",TVBS新聞台 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=c772bec8-0cf3-4f31-b9b4-86511166bc99
+#EXTINF:-1 group-title="台灣",年代新聞 (L)
+http://limon.zapi.eu.org/lm147.php?id=43e5a720-a239-4f03-9727-711f55e88e89
+#EXTINF:-1 group-title="台灣",非凡新聞 (L)
+http://limon.zapi.eu.org/lm147.php?id=253c4f77-5b43-4793-a186-dd8b88edc903
+#EXTINF:-1 group-title="台灣",信吉 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyutaiwan_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",CN卡通頻道 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",東森幼幼台 (L)
+http://limon.zapi.eu.org/lm147.php?id=6f0752d1-787f-413d-abe2-f595bb0c55e3
+#EXTINF:-1 group-title="台灣",台視綜合 (L)
+http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
+#EXTINF:-1 group-title="台灣",華藝中文台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",DMAX (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeohd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",動物星球 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",時尚 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",DMAX (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍華偶像 (L)
+http://limon.zapi.eu.org/lm147.php?id=d6aed7e2-3138-4dd8-90b8-73be504e00c0
+#EXTINF:-1 group-title="台灣",龍華戲劇 (L)
+http://limon.zapi.eu.org/lm147.php?id=1cddeff8-aa75-47c3-a013-f4f1275eef67
+#EXTINF:-1 group-title="台灣",龍華洋片 (L)
+http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
+#EXTINF:-1 group-title="台灣",愛爾達影劇台 (L)
+http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
+#EXTINF:-1 group-title="台灣",三立台灣台 (L)
+http://limon.zapi.eu.org/lm147.php?id=ab7c868d-3788-4bfa-8352-930399e5c78a
+#EXTINF:-1 group-title="台灣",三立綜合台 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=95db1e0a-0eee-423f-a8e4-b05fef9c21c8
+#EXTINF:-1 group-title="台灣",EYETV戲劇 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=35d20aac-a621-438e-8cf1-8433605954c3
+#EXTINF:-1 group-title="台灣",緯來日本台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",緯來體育台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandsport&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",ELTA體育 2 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=a0c87361-87f0-422f-a9ba-c9d614f7fd8e
+#EXTINF:-1 group-title="台灣",ELTA體育 1 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=c833577a-7377-4930-8da1-1f9571c4d0eb
+#EXTINF:-1 group-title="台灣",愛爾達影劇 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltayingju_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",愛爾達體育1 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",愛爾達體育2 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",愛爾達體育3 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",ELEVEN 1 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",博斯網球 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",博斯運動1 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",博斯運動2 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",博斯高球1 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",EYETV戲劇 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",EYETV旅遊 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",CN卡通頻道 (L)
+http://limon.zapi.eu.org/lm147.php?id=1ef6144e-d443-4346-be45-788442b24cc3
+#EXTINF:-1 group-title="台灣",好萊塢電影台 (L)
+http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
+#EXTINF:-1 group-title="台灣",美亞電影台 HD (L)
+http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
+#EXTINF:-1 group-title="台灣",星衛娛樂台 (L)
+http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
+#EXTINF:-1 group-title="台灣",民視旅遊 (L)
+http://limon.zapi.eu.org/lm147.php?id=b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5
+#EXTINF:-1 group-title="台灣",TLC旅遊生活 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",東森戲劇 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",東森洋片 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",東森綜合 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",東森財經新聞 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",東森電影 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",HBO HD (L)
+http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
+#EXTINF:-1 group-title="台灣",HBO HITS HD (L)
+http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
+#EXTINF:-1 group-title="台灣",HBO HD (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",HBO Family (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",Hollywood Movies (L)
+http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
+#EXTINF:-1 group-title="台灣",靖天卡通台 (L)
+http://limon.zapi.eu.org/lm147.php?id=8c0b6427-06c1-4818-a7ed-b0defb96981d
+#EXTINF:-1 group-title="台灣",Hollywood Movies (L)
+http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
+#EXTINF:-1 group-title="台灣",龍華電影 (L)
+http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
+#EXTINF:-1 group-title="台灣",美亞電影 (L)
+http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
+#EXTINF:-1 group-title="台灣",愛爾達影劇台 (L)
+http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
+#EXTINF:-1 group-title="台灣",龍華影劇 (L)
+http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
+#EXTINF:-1 group-title="台灣",星衛娛樂台 (L)
+http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
+#EXTINF:-1 group-title="台灣",MTV Live (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mtvhd_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",天映頻道 (L)
+http://limon.zapi.eu.org/lm147.php?id=e994b973-bec0-43d6-a02b-55b6bad51bb7
+#EXTINF:-1 group-title="台灣",天映頻道 (L)
+http://limon.zapi.eu.org/lm147.php?id=f451021a-e45f-4088-8c53-913c7945209a
+#EXTINF:-1 group-title="台灣",靖天卡通台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",靖天國際台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",非凡新聞台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍祥時代 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍華偶像 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍華戲劇 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍華洋片 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍華經典 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",龍華電影 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",華麗台 HD (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",歡喜台 HD (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",TVB星河台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",愛奇藝 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Qiyi&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",J2 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",RHK 31 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",RHK 32 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",VIUTV1 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",Viu6 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",iNews新聞台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",珍珠台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",翡翠台 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",鳳凰衛視 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",鳳凰資訊 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixinfo_hd&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",鳳凰香港 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn&sp=chaojidianshi
+
+#EXTINF:-1 group-title="台灣",HBO HD (L)
+http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
+#EXTINF:-1 group-title="台灣",CINEMAX (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",AXN HD (L)
+http://limon.zapi.eu.org/lm147.php?id=f02b3750-6a66-4e0c-adf8-6c8ecd3d7df3
+#EXTINF:-1 group-title="台灣",HBO HITS HD (L)
+http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
+#EXTINF:-1 group-title="台灣",HBO RED (Viet) (L)
+http://limon.zapi.eu.org/lm147.php?id=e441e59d-6a74-486f-b3e5-9e3c9d33415d
+#EXTINF:-1 group-title="台灣",BBC NEWS (L)
+http://limon.zapi.eu.org/lm147.php?id=4655f3fd-f736-4ecf-b00b-f579d7362898
+#EXTINF:-1 group-title="台灣",Sky NEWS (L)
+http://limon.zapi.eu.org/lm147.php?id=d85f3eaa-756a-4c36-a9a7-1091e306a4d1
+#EXTINF:-1 group-title="台灣",彭博新聞 (L)
+http://limon.zapi.eu.org/lm147.php?id=80226b89-27ae-4c01-84a3-48a36a36d7fc
+#EXTINF:-1 group-title="台灣",半島電視台 (L)
+http://limon.zapi.eu.org/lm147.php?id=751f0f2f-4980-4316-ae7d-4f5c259a0ebb
+#EXTINF:-1 group-title="台灣",亞洲新聞台 (L)
+http://limon.zapi.eu.org/lm147.php?id=4da82ff2-1816-4832-a63b-45c7d3b7d4ed
+#EXTINF:-1 group-title="台灣",BBC World News (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",Bloomberg News (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",Fox News (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
+#EXTINF:-1 group-title="台灣",阿里郎 (S)
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn&sp=chaojidianshi
+
+
+#EXTINF:-1 group-title="台灣",大愛一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="台灣",大愛二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="台灣", 台視HD (125)
+http://125.227.210.55:8158/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 華視HD (125)
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 中視HD (125)
+http://125.227.210.55:8174/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 公視 (125)
+http://125.227.210.55:8164/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 民視新聞台 (125)
+http://125.227.210.55:8157/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", CNBC (125)
+http://125.227.210.55:8152/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", BBC NEW (125)
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", CNN NEW (125)
+http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", Bloomberg (125)
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", DW 德國之音 (125)
+http://125.227.210.55:42534/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TV5 MONDE (125)
+http://125.227.210.55:15533/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", KBS WORLD (125)
+http://125.227.210.55:17478/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", NHK WORLD (125)
+http://125.227.210.55:35802/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", arirang KOREA (125)
+http://125.227.210.55:48553/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", CN卡通频道 (125)
+http://125.227.210.55:8167/VideoInput/play.ts
+
+#EXTINF:-1 group-title="台灣", TVBS HD (125)
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TVBS歡樂台 (125)
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", TVBS新聞台 (125)
+http://125.227.210.55:8186/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 三立新聞台 (125)
+http://125.227.210.55:8162/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 三立戲劇台 (61)
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="台灣", NHK WORLD (61)
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="台灣", TVBS NEWS (61)
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="台灣", 中天新聞 (211)
+http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="台灣", TVBS新聞台 (211)
+http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="台灣", 年代新聞 (211)
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="台灣", AMC電影台 (61)
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="台灣", CINEMAX (125)
+http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", HBO (220)
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="台灣", HBO HD (125)
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", Discovery Asia (125)
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣", 探索亞洲 (61)
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="台灣", 中天娛樂台 (61)
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="台灣", 動物星球 (61)
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="台灣", 緯來日本 (211)
+http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="台灣", 緯來綜合 (211)
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣", 東森戲劇 (211)
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="台灣", 八大戲劇台 (61)
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="台灣", 八大綜合台 (61)
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="台灣", 八大第1台 (61)
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="台灣", 番薯音樂 (61)
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
+#EXTINF:-1 group-title="台灣", 音樂欣賞1 (61)
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="台灣", 音樂欣賞2 (61)
+http://61.221.215.25:8800/hls/58/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="台灣",台視HD
 http://dreator800.top/iptv/tw.php?id=1047
 #EXTINF:-1 group-title="台灣",中視HD
@@ -909,361 +1261,6 @@ http://dreator800.top/iptv/tw.php?id=1666
 http://dreator800.top/iptv/tw.php?id=1213
 
 
-
-#EXTINF:-1 group-title="台灣",東森新聞
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",TVBS HD
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",TVBS新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbs_n&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",TVBS歡樂台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tvbshuanle_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",三立台灣台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlitaiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",三立戲劇台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlixiju_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",三立綜合台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=sanlizhonghe&sp=chaojidianshi
-
-#EXTINF:-1 group-title="台灣",中天娛樂
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",中天新聞HD
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",中天綜合
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe&sp=chaojidianshi
-
-#EXTINF:-1 group-title="台灣",八大戲劇
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badadrama&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",八大第一
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badafirst&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",八大綜合
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=badazhonghe&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",公視
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctv_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",民視
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvhd_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",民視第一台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",民視台灣台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvtaiwan_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",民視新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",台視
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttv_taiwan&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",台視新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ttvnews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",中視
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshihd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",中視新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshinews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",中視經典
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=zhongshi_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",華視
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctshd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",中視 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=2cc71359-2456-443d-8ddc-d9cf86fd8f39
-#EXTINF:-1 group-title="台灣",民視 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=bba1cd9a-b72b-4d29-a545-384d7de01cf7
-#EXTINF:-1 group-title="台灣",民視新聞台 (L)
-http://limon.zapi.eu.org/lm147.php?id=17cd8809-c459-45c1-a1d0-c075645862d2
-#EXTINF:-1 group-title="台灣",台視 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=fa9c215a-4fbe-48c8-8264-42a72ab6e2b4
-#EXTINF:-1 group-title="台灣",台視新聞台 (L)
-http://limon.zapi.eu.org/lm147.php?id=8153b94d-cbd9-49e8-a105-45a5fed98f84
-#EXTINF:-1 group-title="台灣",華視 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=9e556711-5918-49ec-bdc9-1837e9f4bc48
-#EXTINF:-1 group-title="台灣",TVBS新聞台 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=c772bec8-0cf3-4f31-b9b4-86511166bc99
-#EXTINF:-1 group-title="台灣",年代新聞 (L)
-http://limon.zapi.eu.org/lm147.php?id=43e5a720-a239-4f03-9727-711f55e88e89
-#EXTINF:-1 group-title="台灣",非凡新聞 (L)
-http://limon.zapi.eu.org/lm147.php?id=253c4f77-5b43-4793-a186-dd8b88edc903
-#EXTINF:-1 group-title="台灣",信吉
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyutaiwan_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",CN卡通
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=momo1_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",東森幼幼台 (L)
-http://limon.zapi.eu.org/lm147.php?id=6f0752d1-787f-413d-abe2-f595bb0c55e3
-#EXTINF:-1 group-title="台灣",台視綜合 (L)
-http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
-#EXTINF:-1 group-title="台灣",華藝綜合
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=weishichinese_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",國家地理
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeohd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",野生動物
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=natgeowild_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",動物星球
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=animalplanet_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",時尚
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fashiontv_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",DMAX
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=discoveryhd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍華偶像 (L)
-http://limon.zapi.eu.org/lm147.php?id=d6aed7e2-3138-4dd8-90b8-73be504e00c0
-#EXTINF:-1 group-title="台灣",龍華戲劇 (L)
-http://limon.zapi.eu.org/lm147.php?id=1cddeff8-aa75-47c3-a013-f4f1275eef67
-#EXTINF:-1 group-title="台灣",龍華洋片 (L)
-http://limon.zapi.eu.org/lm147.php?id=848ebbde-2508-4567-b7b1-a0155c27c2c6
-#EXTINF:-1 group-title="台灣",愛爾達影劇台 (L)
-http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-#EXTINF:-1 group-title="台灣",三立台灣台 (L)
-http://limon.zapi.eu.org/lm147.php?id=ab7c868d-3788-4bfa-8352-930399e5c78a
-#EXTINF:-1 group-title="台灣",三立綜合台 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=95db1e0a-0eee-423f-a8e4-b05fef9c21c8
-#EXTINF:-1 group-title="台灣",EYETV戲劇 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=35d20aac-a621-438e-8cf1-8433605954c3
-#EXTINF:-1 group-title="台灣",緯來日本台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",緯來體育台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandsport&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",ELTA體育 2 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=a0c87361-87f0-422f-a9ba-c9d614f7fd8e
-#EXTINF:-1 group-title="台灣",ELTA體育 1 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=c833577a-7377-4930-8da1-1f9571c4d0eb
-#EXTINF:-1 group-title="台灣",愛爾達影劇
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltayingju_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",愛爾達體育1
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",愛爾達體育2
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport2_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",愛爾達體育3
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eltasport3_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",ELEVEN 1
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=golfchannel_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",博斯網球
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bositennis_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",博斯運動1
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport1_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",博斯運動2
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosisport2_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",博斯高球1
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bosigolf1_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",EYETV戲劇
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",EYETV旅遊
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvtravel_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",CN卡通頻道 (L)
-http://limon.zapi.eu.org/lm147.php?id=1ef6144e-d443-4346-be45-788442b24cc3
-#EXTINF:-1 group-title="台灣",好萊塢電影台 (L)
-http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="台灣",美亞電影台 HD (L)
-http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
-#EXTINF:-1 group-title="台灣",星衛娛樂台 (L)
-http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="台灣",民視旅遊 (L)
-http://limon.zapi.eu.org/lm147.php?id=b9f35b1b-8c3d-45b9-9d5f-97fa2d808ee5
-#EXTINF:-1 group-title="台灣",TLC旅遊生活
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=tlc_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",東森戲劇
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvdrama&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",東森洋片
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",東森綜合
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",東森財經新聞
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvcaijing_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",東森電影
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",HBO HD (L)
-http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
-#EXTINF:-1 group-title="台灣",HBO HITS HD (L)
-http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
-#EXTINF:-1 group-title="台灣",HBO HD
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hbohd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",HBO Family
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=fyi_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",Hollywood Movies (L)
-http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="台灣",靖天卡通台 (L)
-http://limon.zapi.eu.org/lm147.php?id=8c0b6427-06c1-4818-a7ed-b0defb96981d
-#EXTINF:-1 group-title="台灣",Hollywood Movies (L)
-http://limon.zapi.eu.org/lm147.php?id=6995f464-c034-4cf5-9b6a-e94ea4922ced
-#EXTINF:-1 group-title="台灣",龍華電影 (L)
-http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="台灣",美亞電影 (L)
-http://limon.zapi.eu.org/lm147.php?id=ce77a1ce-f273-401d-8e88-1fc4cbab8c80
-#EXTINF:-1 group-title="台灣",愛爾達影劇台 (L)
-http://limon.zapi.eu.org/lm147.php?id=5bd937d8-a211-4be2-8c5c-a0fb8e62b23f
-#EXTINF:-1 group-title="台灣",龍華影劇 (L)
-http://limon.zapi.eu.org/lm147.php?id=6a9addb6-8a4b-420e-b177-7a02c2ed69e1
-#EXTINF:-1 group-title="台灣",星衛娛樂台 (L)
-http://limon.zapi.eu.org/lm147.php?id=e3128db5-6ea6-4713-9b8b-78d23fbfe92a
-#EXTINF:-1 group-title="台灣",MTV Live
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=mtvhd_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",天映頻道 (L)
-http://limon.zapi.eu.org/lm147.php?id=e994b973-bec0-43d6-a02b-55b6bad51bb7
-#EXTINF:-1 group-title="台灣",天映頻道 (L)
-http://limon.zapi.eu.org/lm147.php?id=f451021a-e45f-4088-8c53-913c7945209a
-#EXTINF:-1 group-title="台灣",靖天卡通台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtiancartoon_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",靖天國際台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jingtianintl_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",非凡新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍祥時代
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lungxiangtime_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍華偶像
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍華戲劇
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍華洋片
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍華經典
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuajingdian_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",龍華電影
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=xingwei_movie&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",華麗台 HD
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Wlt&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",歡喜台 HD
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Huahee&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",TVB星河台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",愛奇藝
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Qiyi&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",J2
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=j2_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",RHK 31
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",RHK 32
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",VIUTV1
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",Viu6
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",iNews新聞台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=inews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",珍珠台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=pearl_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",翡翠台
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",鳳凰衛視
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",鳳凰資訊
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixinfo_hd&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",鳳凰香港
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=hkphoenix_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",HBO HD (L)
-http://limon.zapi.eu.org/lm147.php?id=671890da-6087-49e2-8e15-443e33456eb8
-#EXTINF:-1 group-title="台灣",CINEMAX
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",AXN HD (L)
-http://limon.zapi.eu.org/lm147.php?id=f02b3750-6a66-4e0c-adf8-6c8ecd3d7df3
-#EXTINF:-1 group-title="台灣",HBO HITS HD (L)
-http://limon.zapi.eu.org/lm147.php?id=1a89cb28-80af-4fa8-86e2-b1ca69024d0a
-#EXTINF:-1 group-title="台灣",HBO RED (Viet) (L)
-http://limon.zapi.eu.org/lm147.php?id=e441e59d-6a74-486f-b3e5-9e3c9d33415d
-#EXTINF:-1 group-title="台灣",BBC NEWS (L)
-http://limon.zapi.eu.org/lm147.php?id=4655f3fd-f736-4ecf-b00b-f579d7362898
-#EXTINF:-1 group-title="台灣",Sky NEWS (L)
-http://limon.zapi.eu.org/lm147.php?id=d85f3eaa-756a-4c36-a9a7-1091e306a4d1
-#EXTINF:-1 group-title="台灣",彭博新聞 (L)
-http://limon.zapi.eu.org/lm147.php?id=80226b89-27ae-4c01-84a3-48a36a36d7fc
-#EXTINF:-1 group-title="台灣",半島電視台 (L)
-http://limon.zapi.eu.org/lm147.php?id=751f0f2f-4980-4316-ae7d-4f5c259a0ebb
-#EXTINF:-1 group-title="台灣",亞洲新聞台 (L)
-http://limon.zapi.eu.org/lm147.php?id=4da82ff2-1816-4832-a63b-45c7d3b7d4ed
-#EXTINF:-1 group-title="台灣",BBC World News
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bbcnews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",Bloomberg News
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=bloomberg_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",Fox News
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=foxnews_twn&sp=chaojidianshi
-#EXTINF:-1 group-title="台灣",阿里郎
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=arirang_twn&sp=chaojidianshi
-
-
-#EXTINF:-1 group-title="台灣",大愛一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="台灣",大愛二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="台灣", 台視HD (125)
-http://125.227.210.55:8158/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 華視HD (125)
-http://125.227.210.55:8163/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 中視HD (125)
-http://125.227.210.55:8174/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 公視 (125)
-http://125.227.210.55:8164/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 民視新聞台 (125)
-http://125.227.210.55:8157/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", CNBC (125)
-http://125.227.210.55:8152/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", BBC NEW (125)
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", CNN NEW (125)
-http://125.227.210.55:8166/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", Bloomberg (125)
-http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", DW 德國之音 (125)
-http://125.227.210.55:42534/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", TV5 MONDE (125)
-http://125.227.210.55:15533/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", KBS WORLD (125)
-http://125.227.210.55:17478/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", NHK WORLD (125)
-http://125.227.210.55:35802/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", arirang KOREA (125)
-http://125.227.210.55:48553/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", CN卡通频道 (125)
-http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 緯來體育台 (125)
-http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", TVBS HD (125)
-http://125.227.210.55:8188/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", TVBS歡樂台 (125)
-http://125.227.210.55:8187/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", TVBS新聞台 (125)
-http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 三立新聞台 (125)
-http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 三立台灣台 (125)
-http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 三立戲劇台 (61)
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台灣", NHK WORLD (61)
-http://61.221.215.25:8800/hls/51/index.m3u8
-#EXTINF:-1 group-title="台灣", TVBS NEWS (61)
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="台灣", 中天新聞 (211)
-http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="台灣", TVBS新聞台 (211)
-http://211.23.114.106:8533/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="台灣", 年代新聞 (211)
-http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="台灣", AMC電影台 (61)
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="台灣", CINEMAX (125)
-http://125.227.210.55:8151/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", HBO (220)
-http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="台灣", HBO HD (125)
-http://125.227.210.55:8153/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", Discovery Asia (125)
-http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣", 探索亞洲 (61)
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="台灣", 中天娛樂台 (61)
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="台灣", 動物星球 (61)
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="台灣", 緯來日本 (211)
-http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 group-title="台灣", 緯來綜合 (211)
-http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="台灣", 東森戲劇 (211)
-http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 group-title="台灣", 八大戲劇台 (61)
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="台灣", 八大綜合台 (61)
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 group-title="台灣", 八大第1台 (61)
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 group-title="台灣", 番薯音樂 (61)
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
-#EXTINF:-1 group-title="台灣", 音樂欣賞1 (61)
-http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 group-title="台灣", 音樂欣賞2 (61)
-http://61.221.215.25:8800/hls/58/index.m3u8
 
 
 
@@ -1447,62 +1444,6 @@ https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv016
 #EXTINF:-1 group-title="台灣",鏡電視新聞台 (4TV)
 https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv075
 
-
-
-#EXTINF:-1 group-title="台灣",美亞電影台(台)
-https://iptv.vip-tptv.xyz/tv.php?id=1 
-#EXTINF:-1 group-title="台灣",天映頻道
-https://iptv.vip-tptv.xyz/tv.php?id=2 
-#EXTINF:-1 group-title="台灣",緯來電影台
-https://iptv.vip-tptv.xyz/tv.php?id=3 
-#EXTINF:-1 group-title="台灣",東森電影台
-https://iptv.vip-tptv.xyz/tv.php?id=4 
-#EXTINF:-1 group-title="台灣",東森洋片台
-https://iptv.vip-tptv.xyz/tv.php?id=5 
-#EXTINF:-1 group-title="台灣",緯來日本台
-https://iptv.vip-tptv.xyz/tv.php?id=6 
-#EXTINF:-1 group-title="台灣",緯來體育台
-https://iptv.vip-tptv.xyz/tv.php?id=7 
-#EXTINF:-1 group-title="台灣",東森幼幼台
-https://iptv.vip-tptv.xyz/tv.php?id=8 
-#EXTINF:-1 group-title="台灣",愛爾達影劇台
-https://iptv.vip-tptv.xyz/tv.php?id=9 
-#EXTINF:-1 group-title="台灣",i-Fun 動漫台
-https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15 
-#EXTINF:-1 group-title="台灣",愛爾達影劇台
-https://iptv.vip-tptv.xyz/tv.php?id=10
-#EXTINF:-1 group-title="台灣",天映頻道SG
-https://iptv.vip-tptv.xyz/tv.php?id=11 
-#EXTINF:-1 group-title="台灣",Astro QJ
-https://iptv.vip-tptv.xyz/tv.php?id=12
-#EXTINF:-1 group-title="台灣",Astro IQIYI
-https://iptv.vip-tptv.xyz/tv.php?id=13
-#EXTINF:-1 group-title="台灣",TVB星河台 L-HL
-https://iptv.vip-tptv.xyz/tv.php?id=14 
-#EXTINF:-1 group-title="台灣",翡翠台
-https://iptv.vip-tptv.xyz/tv.php?id=16
-#EXTINF:-1 group-title="台灣",Astro AEC
-https://iptv.vip-tptv.xyz/tv.php?id=17
-#EXTINF:-1 group-title="台灣",One SG
-https://iptv.vip-tptv.xyz/tv.php?id=18 
-#EXTINF:-1 group-title="台灣",TVB星河台 HK-HL
-https://iptv.vip-tptv.xyz/tv.php?id=21 
-#EXTINF:-1 group-title="台灣",Astro AOD 511 SG
-https://iptv.vip-tptv.xyz/tv.php?id=22 
-#EXTINF:-1 group-title="台灣",Astro AOD HD SG
-https://iptv.vip-tptv.xyz/tv.php?id=23
-#EXTINF:-1 group-title="台灣",Astro
-https://iptv.vip-tptv.xyz/tv.php?id=24
-#EXTINF:-1 group-title="台灣",Astro Supersports 1
-https://iptv.vip-tptv.xyz/tv.php?id=25 
-#EXTINF:-1 group-title="台灣",Astro Supersports 2
-https://iptv.vip-tptv.xyz/tv.php?id=26 
-#EXTINF:-1 group-title="台灣",Astro Supersports 3
-https://iptv.vip-tptv.xyz/tv.php?id=27 
-#EXTINF:-1 group-title="台灣",Astro Supersports 4
-https://iptv.vip-tptv.xyz/tv.php?id=28 
-#EXTINF:-1 group-title="台灣",Astro Supersports 5
-https://iptv.vip-tptv.xyz/tv.php?id=29 
 
 
 
@@ -2787,6 +2728,7 @@ https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv077
 
 
 
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 
 #EXTINF:-1 group-title="體育",BT Sport 1 UK
@@ -2823,25 +2765,23 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7327/index
 #EXTINF:-1 group-title="體育",NHL NETWORK US
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7328/index.m3u8
 
+
+
+
+
+
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="體育", TNT Sport 𝟙
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="體育", TNT Sport 1
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
-#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="體育", TNT Sport 𝟚
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="體育", TNT Sport 2
 http://kstv.us:8080/live/tH300gvHff/8606073792/47851.ts
-#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="體育", TNT Sport 𝟛
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="體育", TNT Sport 3
 http://kstv.us:8080/live/tH300gvHff/8606073792/47852.ts
-#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="體育", TNT Sport 𝟜
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="體育", TNT Sport 4
 http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
 
 
-
-#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Football.png" group-title="體育", Sky Sports Football
-https://p13.lol/centra_live_a_b/n907iOxHult0/437268.ts
-#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Premier-League.png" group-title="體育", Sky Sports Premier League
-https://p13.lol/centra_live_a_b/n907iOxHult0/793874.ts
-#EXTINF:-1 tvg-id="Sky-Sports-Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="體育", Sky Sports Tennis
-https://p13.lol/centra_live_a_b/n907iOxHult0/2299459.ts
 
 
 
@@ -2855,16 +2795,6 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="體育", TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
-
-
-#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="體育", beIN Sports 1
-https://p13.lol/centra_live_a_b/n907iOxHult0/1860305.ts
-#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="體育", beIN Sports 2
-https://p13.lol/centra_live_a_b/n907iOxHult0/1860306.ts
-#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="體育", beIN Sports 3
-https://p13.lol/centra_live_a_b/n907iOxHult0/1860307.ts
-#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/beinsports.default.png" group-title="體育", beIN Sports 4
-https://p13.lol/centra_live_a_b/n907iOxHult0/1860308.ts
 
 
 
@@ -2925,6 +2855,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 
+
+
+
 #EXTINF:-1 group-title="韓國",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 group-title="韓國",KBS 2
@@ -2953,43 +2886,6 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
 #EXTINF:-1 group-title="韓國",TVN
 https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.service_id=KRBC3200030BO
-#EXTINF:-1 group-title="韓國",KBS1
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC83ODdiMWNmMC9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",KBS2
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC9iN2MyNDJjOC9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",MBC
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC84YzY1NGI5Ni9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",SBS
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC85NmUwM2VkZi9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",JTBC
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC8yMWZhNWZhNy9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",TVN
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC9kZTMwMjI0ZS9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",CBS
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS8zYjhiYmUzNi9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",EBS 1
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS85MjM4NWU5OS9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",EBS 2
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS80ODA3NjEyYi9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",EBS Kids
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS8zM2RmMDI0Yy9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",EBS+1
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC8yZTdiZDI0Ny9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",EBS+2
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC9iNDY1MzA4Yy9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",SBS Plus
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC9lYjk0NTk4My9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",GCN
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS90NnU1YjFxNC9jMjVlZDNkZC9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",Arirang HD
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS9oNmgxczJqNS9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",YTN
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS9tNDlmNmQxYS9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",TVN
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS9rd3pxMXJzZS84d2s3cjNzYy9pbmRleC5tM3U4
-#EXTINF:-1 group-title="韓國",韓國KBS World
-http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS84YzMzZmE5Yi8wNmN0aDAwMy9pbmRleC5tM3U4
-
 
 
 
@@ -3000,6 +2896,7 @@ http://kenneth001.serv00.net/dream.php?m3u8=aHR0cDovL3d3dy52aWFvdi50b3AvbGl2ZS84
 
 
 #EXTM3U url-tvg="http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw"
+
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png",ACC Network
@@ -3260,6 +3157,7 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 https://raw.githubusercontent.com/jsosao/m3u/refs/heads/main/test2.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YDzDuTaVkqdRDe7iDCZ7krNrmR5BFKq9Lx4RcbYRvmGbyWzdIsGbTL5eKlbUybLGxg.png" group-title="SVIP SPORTS",PT: ELEVEN SPORTS 2 FHD
@@ -4936,72 +4834,5 @@ http://215605059607966119.ofxn1112.xyz:80/play/me816121/UMeYUEerfT/966119.ts
 
 
 
-
-#EXTM3U url-tvg="https://mytvsuperepg.860775.xyz/epg.xml" catchup-time="10800" catchup-type="timeshift"   
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=619bf2e5a7f18d06b9d8db04f351942c&ext_start_limit=1735586034&int_start_limit=1735586034&ts=1735586034&c=339313918
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png",無綫新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UVRtHyrwVH8OlhmVtgoyoQ", "kid": "kKC9Adn2y7OYOc2baPwmvA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=afba35d033fbb406ea9cd60c1d31c7dc&ext_start_limit=1735586034&int_start_limit=1735586034&ts=1735586034&c=339313918
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png",明珠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "j5emKd5oCvk6ZSwxArZYmA", "kid": "4E+s3ZE1Te7jGMZ0mTt0wQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=1746f0c2ea4d52dac3278ba423dbec1e&ext_start_limit=1735586035&int_start_limit=1735586035&ts=1735586035&c=339313918
-#EXTINF:-1 tvg-id="TVB plus" tvg-name="TVB plus" tvg-logo="https://img.sky4k.top/TVB_Plus_CheerVisionTV.png",TVB plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XZ2OlX0uRdgYmlb+hmWqqg", "kid": "VmA7Zfodc4O27w5zua5p+g"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=0aca92f3f6b56869ddea15066ba6c42c&ext_start_limit=1735586035&int_start_limit=1735586035&ts=1735586035&c=339313918
-#EXTINF:-1 tvg-id="翡翠台(超高清)" tvg-name="翡翠台(超高清)" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",翡翠台(超高清)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/BRncamwlvxMtX/+dphhvg", "kid": "LARfWtsm05HMQc0B8AQW+g"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=d1a83564c1e6693584021bce11d4e9f4&ext_start_limit=1735586035&int_start_limit=1735586035&ts=1735586035&c=339313918
-#EXTINF:-1 tvg-id="Super Free" tvg-name="Super Free" tvg-logo="https://xiaotan.860775.xyz/mytvsuper.png",Super Free
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FfUVRYzbUQdFL5Q6ERy+iQ", "kid": "Bze3XuiQbAC7e7j2ZtpyoA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=22b6401d7e2238251a5c91dd876580d6&ext_start_limit=1735586036&int_start_limit=1735586036&ts=1735586036&c=339313918
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://xiaotan.860775.xyz/mytvsuper.png",黃金翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XM6VgzVoueMi8XxhOHswbw", "kid": "j+PbGiSWlpSuNEfyZHPrnw"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=f702b060de0fa32f97519592e7f1f245&ext_start_limit=1735586037&int_start_limit=1735586037&ts=1735586037&c=339313918
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png",娛樂新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "olYiDmwr6qgvTKX7pOwflQ", "kid": "b6Dkd1C14vtq35uaCsQxow"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=5c7616761fe68996a8a32ed9f862b8da&ext_start_limit=1735586037&int_start_limit=1735586037&ts=1735586037&c=339313918
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png",鳳凰衛視中文台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6xnH486jTckGReM/mDsVqw", "kid": "e8oHcbqSBe211GfOL98BYg"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=4ee96fa93c7b29de51d91131affd98f5&ext_start_limit=1735586038&int_start_limit=1735586038&ts=1735586038&c=339313918
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png",鳳凰衛視資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7NyAZaRih7+1jp92Xk7sKw", "kid": "g/fTE638CluXi576BCHOJQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=acd7cfb5e15011fe491ecf700b1fcf22&ext_start_limit=1735586039&int_start_limit=1735586039&ts=1735586039&c=339313918
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png",鳳凰衛視香港台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uGhfvs93LmQVRjCCnPMwow", "kid": "zeYuEFbrNhXat6Pv2D9etA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=19c302d84a36fe73bd4c1ceb3b85dcba&ext_start_limit=1735586039&int_start_limit=1735586039&ts=1735586039&c=339313918
-#EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/CCTV1.png",中央電視台綜合頻道 (港澳版)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Li6GArbYNczxDuVqmn2Rog", "kid": "5QsY/ufKt2ufKCLireh3Og"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=1f35b511842d3ef10ba94d9d01e928b1&ext_start_limit=1735586039&int_start_limit=1735586039&ts=1735586039&c=339313918
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://xiaotan.860775.xyz/%E5%89%B5%E4%B8%96%E9%9B%BB%E8%A6%96.png",創世電視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tF2RL+xDtbvUGOp+ofvLYA", "kid": "re8AxbqSfQFkKx5vPO3J+w"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=7c92e742f5141be245b29bec89322ad2&ext_start_limit=1735586040&int_start_limit=1735586040&ts=1735586040&c=339313918
 
 
