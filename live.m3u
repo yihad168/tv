@@ -196,31 +196,6 @@ http://tv.utako.moe/asahi/index.m3u8
 http://tv.utako.moe/fuji/index.m3u8
 #EXTINF:-1 group-title="日本2" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo-test
 http://tv.utako.moe/tvtokyo/index.m3u8
-#EXTINF:-1 group-title="日本2" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-test
-http://tv.utako.moe/mx1/index.m3u8
-#EXTINF:-1 group-title="日本2" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X-test
-http://tv.utako.moe/at-x/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="JP - NHK WORLD HD" tvg-logo="http://go4.pw/JAPAN/MALAYSIA/nhk.png" group-title="日本2",NHK WORLD HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1003472
-#EXTINF:-1 tvg-id="" tvg-name="JP - WWWE HD" tvg-logo="http://go4.pw/JAPAN/tokyo.png" group-title="日本2",WWWE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1003473
-#EXTINF:-1 tvg-id="" tvg-name="JP - NGN3 JAPAN (SP)" tvg-logo="http://go4.pw/JAPAN/japon/NHK-WORLD-JAPAN.png" group-title="日本2",NGN3 JAPAN (SP)
-http://suprino.xyz:80/W8MEP61/2X2H702/427637
-#EXTINF:-1 tvg-id="" tvg-name="JP - QVC JAPAN" tvg-logo="http://go4.pw/JAPAN/qvc.png" group-title="日本2",QVC JAPAN
-http://suprino.xyz:80/W8MEP61/2X2H702/427610
-#EXTINF:-1 tvg-id="" tvg-name="JP - CGNTV JAPAN" tvg-logo="http://go4.pw/JAPAN/japon/jp_CGNTV.png" group-title="日本2",CGNTV JAPAN
-http://suprino.xyz:80/W8MEP61/2X2H702/818042
-#EXTINF:-1 tvg-id="" tvg-name="JP - NHK WORLD PREMIUM" tvg-logo="http://go4.pw/JAPAN/MALAYSIA/nhk.png" group-title="日本2",NHK WORLD PREMIUM
-http://suprino.xyz:80/W8MEP61/2X2H702/1003470
-#EXTINF:-1 tvg-id="" tvg-name="JP - NHK" tvg-logo="http://go4.pw/JAPAN/MALAYSIA/nhk.png" group-title="日本2",NHK
-http://suprino.xyz:80/W8MEP61/2X2H702/1003471
-#EXTINF:-1 tvg-id="" tvg-name="JP - NHK GENERAL TV" tvg-logo="http://go4.pw/JAPAN/MALAYSIA/nhk.png" group-title="日本2",NHK GENERAL TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1003475
-#EXTINF:-1 tvg-id="" tvg-name="JP - NIPPON TV" tvg-logo="http://go4.pw/JAPAN/NIPPON_TV.png" group-title="日本2",NIPPON TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1003476
-
 
 
 
@@ -2135,36 +2110,6 @@ http://60.248.91.20:8000/main
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TW - SKYLINK TELEVISION 2" tvg-logo="http://go4.pw/ASIA/skylink.png" group-title="台灣",SKYLINK TELEVISION 2
-http://suprino.xyz:80/W8MEP61/2X2H702/269920
-#EXTINF:-1 tvg-id="" tvg-name="TW - SKYLINK TELEVISION" tvg-logo="http://go4.pw/ASIA/skylink.png" group-title="台灣",SKYLINK TELEVISION
-http://suprino.xyz:80/W8MEP61/2X2H702/269921
-#EXTINF:-1 tvg-id="" tvg-name="TW - ET NEWS" tvg-logo="http://go4.pw/ASIA/taiwan/ET-NEWS.png" group-title="台灣",ET NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/269923
-#EXTINF:-1 tvg-id="" tvg-name="TW - ET FINANCIAL NEWS" tvg-logo="http://go4.pw/ASIA/taiwan/ET-FINANCIAL-NEWS.png" group-title="台灣",ET FINANCIAL NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/269924
-#EXTINF:-1 tvg-id="" tvg-name="TW - ET DRAMA" tvg-logo="http://go4.pw/ASIA/taiwan/ET-DRAMA.png" group-title="台灣",ET DRAMA
-http://suprino.xyz:80/W8MEP61/2X2H702/269925
-#EXTINF:-1 tvg-id="" tvg-name="TW - ET GLOBAL" tvg-logo="http://go4.pw/ASIA/taiwan/ET-GLOBAL.png" group-title="台灣",ET GLOBAL
-http://suprino.xyz:80/W8MEP61/2X2H702/269926
-#EXTINF:-1 tvg-id="" tvg-name="TW - ET CHINA" tvg-logo="http://go4.pw/ASIA/CHINA-TOUR.png" group-title="台灣",ET CHINA
-http://suprino.xyz:80/W8MEP61/2X2H702/269927
-#EXTINF:-1 tvg-id="" tvg-name="TW - YOYO TV" tvg-logo="http://go4.pw/ASIA/taiwan/YOYO-TV.png" group-title="台灣",YOYO TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269917
-#EXTINF:-1 tvg-id="" tvg-name="TW - TVBS" tvg-logo="http://go4.pw/ASIA/tvbs.png" group-title="台灣",TVBS
-http://suprino.xyz:80/W8MEP61/2X2H702/269918
-#EXTINF:-1 tvg-id="" tvg-name="TW - ICITI" tvg-logo="http://go4.pw/ASIA/iciti.png" group-title="台灣",ICITI
-http://suprino.xyz:80/W8MEP61/2X2H702/269919
-#EXTINF:-1 tvg-id="" tvg-name="TW - USTV" tvg-logo="http://go4.pw/ASIA/taiwan/USTV.png" group-title="台灣",USTV
-http://suprino.xyz:80/W8MEP61/2X2H702/269922
-#EXTINF:-1 tvg-id="" tvg-name="TW - TTV" tvg-logo="http://go4.pw/ASIA/taiwan/TTV.png" group-title="台灣",TTV
-http://suprino.xyz:80/W8MEP61/2X2H702/269928
-#EXTINF:-1 tvg-id="" tvg-name="TW - CTS AMERICA" tvg-logo="http://go4.pw/ASIA/CTS-AMERICA.png" group-title="台灣",CTS AMERICA
-http://suprino.xyz:80/W8MEP61/2X2H702/269929
-#EXTINF:-1 tvg-id="" tvg-name="TW - FORMOSA TV" tvg-logo="http://go4.pw/ASIA/formosa.png" group-title="台灣",FORMOSA TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269931
-
-
 
 
 
@@ -2500,79 +2445,6 @@ https://pixman.mytvsuper.com.mp/litv/litv-longturn18
 https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv016
 #EXTINF:-1 group-title="台灣",鏡電視新聞台 (4TV)
 https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv075
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVB HD" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TVB HD
-http://suprino.xyz:80/W8MEP61/2X2H702/269835
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVB1" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TTVB1
-http://suprino.xyz:80/W8MEP61/2X2H702/269834
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVB2" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TTVB2
-http://suprino.xyz:80/W8MEP61/2X2H702/269833
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVBE" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TTVBE
-http://suprino.xyz:80/W8MEP61/2X2H702/269832
-#EXTINF:-1 tvg-id="" tvg-name="CN - PHOENIX INFONEWS" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-INFONEWS.png" group-title="香港",TPHOENIX INFONEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/269823
-#EXTINF:-1 tvg-id="" tvg-name="CN - PHOENIX NORTH AMERICA CHINESE CHANNEL" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-NORTH-AMERICA-CHINESE-CHANNEL.png" group-title="香港",TPHOENIX NORTH AMERICA CHINESE CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/269822
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVB DRAMA" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TTVB DRAMA
-http://suprino.xyz:80/W8MEP61/2X2H702/269830
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVB PEARL" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TTVB PEARL
-http://suprino.xyz:80/W8MEP61/2X2H702/616461
-#EXTINF:-1 tvg-id="" tvg-name="CN - CGTN-ESPANOL" tvg-logo="http://go4.pw/ASIA/CHINA/CGTN-ESPANOL.png" group-title="香港",TCGTN-ESPANOL
-http://suprino.xyz:80/W8MEP61/2X2H702/269816
-#EXTINF:-1 tvg-id="" tvg-name="CN - CGTN" tvg-logo="http://go4.pw/ASIA/CHINA/CGTN_English.png" group-title="香港",TCGTN
-http://suprino.xyz:80/W8MEP61/2X2H702/269817
-#EXTINF:-1 tvg-id="" tvg-name="CN - CCTV-4" tvg-logo="http://go4.pw/ASIA/CCTV-4.png" group-title="香港",TCCTV-4
-http://suprino.xyz:80/W8MEP61/2X2H702/269826
-#EXTINF:-1 tvg-id="" tvg-name="CN - BEIJING TV" tvg-logo="http://go4.pw/ASIA/BTV.png" group-title="香港",TBEIJING TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269814
-#EXTINF:-1 tvg-id="" tvg-name="CN -  GRT GBA SATELLITE TV" tvg-logo="http://go4.pw/ASIA/CHINA/GRTGBA.png" group-title="香港",T GRT GBA SATELLITE TV
-http://suprino.xyz:80/W8MEP61/2X2H702/855429
-#EXTINF:-1 tvg-id="" tvg-name="CN -  NTD TELEVISION" tvg-logo="http://go4.pw/ASIA/CHINA/NTD.png" group-title="香港",T NTD TELEVISION
-http://suprino.xyz:80/W8MEP61/2X2H702/855431
-#EXTINF:-1 tvg-id="" tvg-name="CN - DRAGON TV" tvg-logo="http://go4.pw/ASIA/CHINA/dragon.jpg" group-title="香港",TDRAGON TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269815
-#EXTINF:-1 tvg-id="" tvg-name="CN - CCTV-OPERA" tvg-logo="http://go4.pw/ASIA/CCTV-4.png" group-title="香港",TCCTV-OPERA
-http://suprino.xyz:80/W8MEP61/2X2H702/269824
-#EXTINF:-1 tvg-id="" tvg-name="CN - CCTV-ENTERTAINMENT" tvg-logo="http://go4.pw/ASIA/CCTV-4.png" group-title="香港",TCCTV-ENTERTAINMENT
-http://suprino.xyz:80/W8MEP61/2X2H702/269825
-#EXTINF:-1 tvg-id="" tvg-name="CN - PACVIA TV" tvg-logo="http://go4.pw/ASIA/pacvia.png" group-title="香港",TPACVIA TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269808
-#EXTINF:-1 tvg-id="" tvg-name="CN - BABYTV MANDARIN" tvg-logo="http://go4.pw/ASIA/CHINA/BABYTV.png" group-title="香港",TBABYTV MANDARIN
-http://suprino.xyz:80/W8MEP61/2X2H702/269827
-#EXTINF:-1 tvg-id="" tvg-name="CN - PHOENIX HONG KONG CHANNEL" tvg-logo="http://go4.pw/ASIA/phoenix.png" group-title="香港",TPHOENIX HONG KONG CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/269828
-#EXTINF:-1 tvg-id="" tvg-name="CN - HUNAN SATELLITE TV" tvg-logo="http://go4.pw/ASIA/CHINA/HNSTV_logo.png" group-title="香港",THUNAN SATELLITE TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269812
-#EXTINF:-1 tvg-id="" tvg-name="CN - FUJIAN STRAITS TV" tvg-logo="http://go4.pw/ASIA/CHINA/FUJTV-logo.png" group-title="香港",TFUJIAN STRAITS TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269806
-#EXTINF:-1 tvg-id="" tvg-name="CN - ANHUI TELEVISION" tvg-logo="http://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png" group-title="香港",TANHUI TELEVISION
-http://suprino.xyz:80/W8MEP61/2X2H702/269810
-#EXTINF:-1 tvg-id="" tvg-name="CN - SHENZHEN TELEVISION" tvg-logo="http://go4.pw/ASIA/shenzhen.png" group-title="香港",TSHENZHEN TELEVISION
-http://suprino.xyz:80/W8MEP61/2X2H702/269811
-#EXTINF:-1 tvg-id="" tvg-name="CN - CHINA MOVIE CHANNEL" tvg-logo="http://go4.pw/ASIA/CHINA-MOVIE.png" group-title="香港",TCHINA MOVIE CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/269813
-#EXTINF:-1 tvg-id="" tvg-name="CN - GUANGDONG SOUTHERN TV" tvg-logo="http://go4.pw/ASIA/TVS.png" group-title="香港",TGUANGDONG SOUTHERN TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269819
-#EXTINF:-1 tvg-id="" tvg-name="CN - GREAT WALL ELITE" tvg-logo="http://go4.pw/ASIA/CHINA/great-wall-elite.png" group-title="香港",TGREAT WALL ELITE
-http://suprino.xyz:80/W8MEP61/2X2H702/269821
-#EXTINF:-1 tvg-id="" tvg-name="CN -  LA CHAINE DU CINEMA CHINOIS" tvg-logo="http://go4.pw/ASIA/CHINA/china-movie.png" group-title="香港",T LA CHAINE DU CINEMA CHINOIS
-http://suprino.xyz:80/W8MEP61/2X2H702/855430
-#EXTINF:-1 tvg-id="" tvg-name="CN - ZHEJIANG TV" tvg-logo="http://go4.pw/ASIA/CHANNEL-2.png" group-title="香港",TZHEJIANG TV
-http://suprino.xyz:80/W8MEP61/2X2H702/269818
-#EXTINF:-1 tvg-id="" tvg-name="CN - JIANGSU INTERNATIONAL CHANNEL" tvg-logo="http://go4.pw/ASIA/JSBC.png" group-title="香港",TJIANGSU INTERNATIONAL CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/269807
-#EXTINF:-1 tvg-id="" tvg-name="CN - TVB CHINESE" tvg-logo="http://go4.pw/ASIA/TV-3.png" group-title="香港",TTVB CHINESE
-http://suprino.xyz:80/W8MEP61/2X2H702/269829
-
 
 
 
@@ -5494,19 +5366,19 @@ http://suprino.xyz:80/W8MEP61/2X2H702/1052690
 http://suprino.xyz:80/W8MEP61/2X2H702/1052691
 #EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="MALAYSIA",CBEEBIES
 http://suprino.xyz:80/W8MEP61/2X2H702/1052698
-#EXTINF:-1 tvg-id="" tvg-name="MLY - WE TV" tvg-logo="http://go4.pw/AMERICA/USA/WETV.png" group-title="AS | MALAYSIA",MLY - WE TV
+#EXTINF:-1 tvg-id="" tvg-name="MLY - WE TV" tvg-logo="http://go4.pw/AMERICA/USA/WETV.png" group-title="MALAYSIA",MLY - WE TV
 http://suprino.xyz:80/W8MEP61/2X2H702/1084431
-#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES" tvg-logo="http://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="AS | MALAYSIA",MLY - SURYA MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES" tvg-logo="http://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="MALAYSIA",MLY - SURYA MOVIES
 http://suprino.xyz:80/W8MEP61/2X2H702/1084432
-#EXTINF:-1 tvg-id="" tvg-name="MLY - RAJ MUSIC" tvg-logo="http://go4.pw/ASIA/RAJM.png" group-title="AS | MALAYSIA",MLY - RAJ MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="MLY - RAJ MUSIC" tvg-logo="http://go4.pw/ASIA/RAJM.png" group-title="MALAYSIA",MLY - RAJ MUSIC
 http://suprino.xyz:80/W8MEP61/2X2H702/1084433
-#EXTINF:-1 tvg-id="" tvg-name="MLY - KAIRALI PEOPLE TV" tvg-logo="http://go4.pw/ASIA/KAIRALI.png" group-title="AS | MALAYSIA",MLY - KAIRALI PEOPLE TV
+#EXTINF:-1 tvg-id="" tvg-name="MLY - KAIRALI PEOPLE TV" tvg-logo="http://go4.pw/ASIA/KAIRALI.png" group-title="MALAYSIA",MLY - KAIRALI PEOPLE TV
 http://suprino.xyz:80/W8MEP61/2X2H702/1084434
-#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES" tvg-logo="http://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="AS | MALAYSIA",MLY - SURYA MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES" tvg-logo="http://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="MALAYSIA",MLY - SURYA MOVIES
 http://suprino.xyz:80/W8MEP61/2X2H702/1084435
-#EXTINF:-1 tvg-id="" tvg-name="MLY - MAZAVIL MANORAMA HD" tvg-logo="http://go4.pw/ASIA/MANORAMA.png" group-title="AS | MALAYSIA",MLY - MAZAVIL MANORAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="MLY - MAZAVIL MANORAMA HD" tvg-logo="http://go4.pw/ASIA/MANORAMA.png" group-title="MALAYSIA",MLY - MAZAVIL MANORAMA HD
 http://suprino.xyz:80/W8MEP61/2X2H702/1084437
-#EXTINF:-1 tvg-id="" tvg-name="MLY - FLOWERS TV" tvg-logo="http://go4.pw/ASIA/FLOWERS.png" group-title="AS | MALAYSIA",MLY - FLOWERS TV
+#EXTINF:-1 tvg-id="" tvg-name="MLY - FLOWERS TV" tvg-logo="http://go4.pw/ASIA/FLOWERS.png" group-title="MALAYSIA",MLY - FLOWERS TV
 http://suprino.xyz:80/W8MEP61/2X2H702/1084440
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA (not 24/7)" tvg-logo="http://go4.pw/ASIA/astroria.png" group-title="MALAYSIA",ASTRO RIA (not 24/7)
 http://suprino.xyz:80/W8MEP61/2X2H702/1119956
@@ -5665,9 +5537,9 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="美國",Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels" group-title="美國",CMT East
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="美國" group-title="美國",CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels" group-title="美國",CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="美國" group-title="美國",CNBC
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="美國",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
@@ -5689,7 +5561,7 @@ http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="美國",DisneyXD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels" group-title="美國",E! Entertainment Television
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="美國" group-title="美國",E! Entertainment Television
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.us" tvg-name="EPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="美國",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -5881,5 +5753,4 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 https://raw.githubusercontent.com/jsosao/m3u/refs/heads/main/test2.m3u8
-
 
