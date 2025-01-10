@@ -4224,6 +4224,155 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=9415
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 1 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 1 HD
+http://extraott.com:80/live/9976612136/9725477748/710948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 2 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 2 HD
+http://extraott.com:80/live/9976612136/9725477748/710947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 3 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 3 HD
+http://extraott.com:80/live/9976612136/9725477748/710946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 4 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 4 HD
+http://extraott.com:80/live/9976612136/9725477748/710945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 5 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 5 HD
+http://extraott.com:80/live/9976612136/9725477748/710944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 6 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 6 HD
+http://extraott.com:80/live/9976612136/9725477748/710943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 7 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 7 HD
+http://extraott.com:80/live/9976612136/9725477748/710942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 8 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 8 HD
+http://extraott.com:80/live/9976612136/9725477748/710941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 9 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 9 HD
+http://extraott.com:80/live/9976612136/9725477748/710940.m3u8
+#EXTINF:-1 tvg-id="skysportselect.nz" tvg-name="NZ| SKY SPORTS SELECT FHD" tvg-logo="" group-title="體育",SKY SPORTS SELECT FHD
+http://extraott.com:80/live/9976612136/9725477748/83011.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="https://lo1.in/uk/eursp1.png" group-title="體育",UK EUROSPORT 1 HD
+http://extraott.com:80/live/9976612136/9725477748/153720.m3u8
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="https://lo1.in/uk/eursp2.png" group-title="體育",UK EUROSPORT 2 HD
+http://extraott.com:80/live/9976612136/9725477748/153721.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| EUROSPORT 1 SD" tvg-logo="https://lo1.in/uk/eursp1.png" group-title="體育",UK EUROSPORT 1 SD
+http://extraott.com:80/live/9976612136/9725477748/191416.m3u8
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| EUROSPORT 2 SD" tvg-logo="https://lo1.in/uk/eursp2.png" group-title="體育",UK EUROSPORT 2 SD
+http://extraott.com:80/live/9976612136/9725477748/191417.m3u8
+
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK| MUTV HD" tvg-logo="https://lo1.in/uk/mut.png" group-title="體育",UK MUTV HD
+http://extraott.com:80/live/9976612136/9725477748/153729.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US| FOX SPORTS 1 HD" tvg-logo="https://lo1.in/us/fxs1.png" group-title="體育",US FOX SPORTS 1 HD
+http://extraott.com:80/live/9976612136/9725477748/181440.m3u8
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US| FOX SPORTS 2 HD" tvg-logo="https://lo1.in/us/fxs2.png" group-title="體育",US FOX SPORTS 2 HD
+http://extraott.com:80/live/9976612136/9725477748/181441.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA TV  FHD" tvg-logo="https://lo1.in/us/nba.png" group-title="體育",US NBA TV FHD
+http://extraott.com:80/live/9976612136/9725477748/378820.m3u8
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US| NBC SPORTS NETWORK HD" tvg-logo="https://lo1.in/us/nbcsp.png" group-title="體育",US NBC SPORTS NETWORK HD
+http://extraott.com:80/live/9976612136/9725477748/181690.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US| ESPN 1 HD" tvg-logo="https://lo1.in/us/esp1.png" group-title="體育",US ESPN 1 HD
+http://extraott.com:80/live/9976612136/9725477748/181387.m3u8
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US| ESPN 2 HD" tvg-logo="https://lo1.in/us/esp2.png" group-title="體育",US ESPN 2 HD
+http://extraott.com:80/live/9976612136/9725477748/181514.m3u8
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US| ESPN NEWS HD" tvg-logo="https://lo1.in/us/espn.png" group-title="體育",US ESPN NEWS HD
+http://extraott.com:80/live/9976612136/9725477748/181384.m3u8
+
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA| NBA TV HD " tvg-logo="https://lo1.in/ca/nbatv.png" group-title="體育",CA NBA TV HD 
+http://extraott.com:80/live/9976612136/9725477748/175804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA| MLB NETWORK " tvg-logo="https://lo1.in/ca/mlbnw.png" group-title="體育",CA MLB NETWORK 
+http://extraott.com:80/live/9976612136/9725477748/175770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA| RIDE TV HD " tvg-logo="https://lo1.in/ca/ridect.png" group-title="體育",CA RIDE TV HD 
+http://extraott.com:80/live/9976612136/9725477748/175879.m3u8
+
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU| ESPN 1 HD" tvg-logo="https://lo1.in/aust/espn1.png" group-title="體育",AU ESPN 1 HD
+http://extraott.com:80/live/9976612136/9725477748/400254620.m3u8
+#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="AU| ESPN 2 HD" tvg-logo="https://lo1.in/aust/espn2.png" group-title="體育",AU ESPN 2 HD
+http://extraott.com:80/live/9976612136/9725477748/400254619.m3u8
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/aust/bs1.png" group-title="體育",AU BEIN SPORTS 1 HD
+http://extraott.com:80/live/9976612136/9725477748/355734.m3u8
+#EXTINF:-1 tvg-id="beinsports2hd.au" tvg-name="AU| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/aust/bs2.png" group-title="體育",AU BEIN SPORTS 2 HD
+http://extraott.com:80/live/9976612136/9725477748/400200340.m3u8
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="AU| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/aust/bs3.png" group-title="體育",AU BEIN SPORTS 3 HD
+http://extraott.com:80/live/9976612136/9725477748/355737.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV VSUPER SPORT PREMIER LEAGUE HD
+http://extraott.com:80/live/9976612136/9725477748/159892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT LALIGA HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT LALIGA HD
+http://extraott.com:80/live/9976612136/9725477748/159894.m3u8
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV| SUPER SPORT FOOTBALL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT FOOTBALL HD
+http://extraott.com:80/live/9976612136/9725477748/186875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT FOOTBALL PLUS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT FOOTBALL PLUS HD
+http://extraott.com:80/live/9976612136/9725477748/400415390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT PSL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT PSL HD
+http://extraott.com:80/live/9976612136/9725477748/159893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT TENNIS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT TENNIS HD
+http://extraott.com:80/live/9976612136/9725477748/159890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT GOLF HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT GOLF HD
+http://extraott.com:80/live/9976612136/9725477748/159887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 1 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 1 HD
+http://extraott.com:80/live/9976612136/9725477748/159883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 2 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 2 HD
+http://extraott.com:80/live/9976612136/9725477748/159884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 3 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 3 HD
+http://extraott.com:80/live/9976612136/9725477748/186870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 4 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 4 HD
+http://extraott.com:80/live/9976612136/9725477748/186869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT CRICKET HD" tvg-logo="https://lo1.in/af/sprspcrick.png" group-title="體育",DSTV SUPER SPORT CRICKET HD
+http://extraott.com:80/live/9976612136/9725477748/117926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT RUGBY HD
+http://extraott.com:80/live/9976612136/9725477748/159889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD [BK1]" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT RUGBY HD [BK1]
+http://extraott.com:80/live/9976612136/9725477748/35401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD [BK2]" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT RUGBY HD [BK2]
+http://extraott.com:80/live/9976612136/9725477748/35400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT MOTORSPORT HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT MOTORSPORT HD
+http://extraott.com:80/live/9976612136/9725477748/159888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT MAXIMO 1 HD" tvg-logo="https://lo1.in/af/sprspmaximo.png" group-title="體育",DSTV SUPER SPORT MAXIMO 1 HD
+http://extraott.com:80/live/9976612136/9725477748/159896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT ACTION HD" tvg-logo="https://lo1.in/af/sprspact.png" group-title="體育",DSTV SUPER SPORT ACTION HD
+http://extraott.com:80/live/9976612136/9725477748/117927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT GRANDSTAND HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT GRANDSTAND HD
+http://extraott.com:80/live/9976612136/9725477748/159891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| Super Sport Blitz HD" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="體育",DSTV Super Sport Blitz HD
+http://extraott.com:80/live/9976612136/9725477748/110613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT PLAY HD" tvg-logo="https://lo1.in/dstv/strpl.png" group-title="體育",DSTV SUPER SPORT PLAY HD
+http://extraott.com:80/live/9976612136/9725477748/186873.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT HD
+http://extraott.com:80/live/9976612136/9725477748/186884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 2 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 2 HD
+http://extraott.com:80/live/9976612136/9725477748/186883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 3 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 3 HD
+http://extraott.com:80/live/9976612136/9725477748/186882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 5 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 5 HD
+http://extraott.com:80/live/9976612136/9725477748/186880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 6 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 6 HD
+http://extraott.com:80/live/9976612136/9725477748/186879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 7 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 7 HD
+http://extraott.com:80/live/9976612136/9725477748/186878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 8 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 8 HD
+http://extraott.com:80/live/9976612136/9725477748/186877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| GINX ESPORTS TV HD" tvg-logo="https://lo1.in/nor/ginesp.png" group-title="體育",DSTV GINX ESPORTS TV HD
+http://extraott.com:80/live/9976612136/9725477748/186840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| ESPN HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="體育",DSTV ESPN HD
+http://extraott.com:80/live/9976612136/9725477748/186855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| ESPN 2 HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="體育",DSTV ESPN 2 HD
+http://extraott.com:80/live/9976612136/9725477748/7229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| WWE CHANNEL HD" tvg-logo="https://lo1.in/af/wwesprslm.png" group-title="體育",DSTV WWE CHANNEL HD
+http://extraott.com:80/live/9976612136/9725477748/186845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSTV| RACING 240 HD" tvg-logo="https://lo1.in/dstv/rcine.png" group-title="體育",DSTV RACING 240 HD
+http://extraott.com:80/live/9976612136/9725477748/186794.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="EN - (NO MATCH)" tvg-logo="http://go4.pw/EUROPE/UK/UK.png" group-title="歐洲冠軍聯賽",Channel 1
@@ -5411,16 +5560,72 @@ http://suprino.xyz:80/W8MEP61/2X2H702/1119956
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA BOLA 1" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="MALAYSIA",ASTRO ARENA BOLA 1
 http://suprino.xyz:80/W8MEP61/2X2H702/1131941
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA BOLA 2" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="MALAYSIA",ASTRO ARENA BOLA 2
+http://suprino.xyz:80/W8MEP61/2X2H702/1131942
 
 
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="arirangtv.kr" tvg-name="KP| ARIRANG HD" tvg-logo="https://lo1.in/kor/ari.png" group-title="韓國",ARIRANG HD
+http://extraott.com:80/live/9976612136/9725477748/191051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| BBS TV HD" tvg-logo="https://lo1.in/kor/bbs.png" group-title="韓國",BBS TV HD
+http://extraott.com:80/live/9976612136/9725477748/380179.m3u8
+#EXTINF:-1 tvg-id="cgtn.kr" tvg-name="KP| CGNTV HD" tvg-logo="https://lo1.in/kor/cg.png" group-title="韓國",CGNTV HD
+http://extraott.com:80/live/9976612136/9725477748/191058.m3u8
+#EXTINF:-1 tvg-id="ctschristiantv.kr" tvg-name="KP| CTS HD" tvg-logo="https://lo1.in/kor/cts.png" group-title="韓國",CTS HD
+http://extraott.com:80/live/9976612136/9725477748/380183.m3u8
+#EXTINF:-1 tvg-id="ebs.kr" tvg-name="KP| EBS E HD" tvg-logo="https://lo1.in/kor/ebs4.png" group-title="韓國",EBS E HD
+http://extraott.com:80/live/9976612136/9725477748/380184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| EBS1  HD" tvg-logo="https://lo1.in/kor/ebs2.png" group-title="韓國",EBS1  HD
+http://extraott.com:80/live/9976612136/9725477748/380190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| EBS2  HD" tvg-logo="https://lo1.in/kor/ebs3.png" group-title="韓國",EBS2  HD
+http://extraott.com:80/live/9976612136/9725477748/380191.m3u8
+#EXTINF:-1 tvg-id="ebsplus1.kr" tvg-name="KP| EBS+1 HD" tvg-logo="https://lo1.in/kor/ebs.png" group-title="韓國",EBS+1 HD
+http://extraott.com:80/live/9976612136/9725477748/380187.m3u8
+#EXTINF:-1 tvg-id="ebsplus2.kr" tvg-name="KP| EBS+2  HD" tvg-logo="https://lo1.in/kor/ebs1.png" group-title="韓國",EBS+2  HD
+http://extraott.com:80/live/9976612136/9725477748/380189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| GCN HD" tvg-logo="https://lo1.in/kor/gc.png" group-title="韓國",GCN HD
+http://extraott.com:80/live/9976612136/9725477748/380193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| GUGBANG TV HD" tvg-logo="https://lo1.in/kor/gu.png" group-title="韓國",GUGBANG TV HD
+http://extraott.com:80/live/9976612136/9725477748/191062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| KBS WORLD 24 HD" tvg-logo="https://lo1.in/kor/kb5.png" group-title="韓國",KBS WORLD 24 HD
+http://extraott.com:80/live/9976612136/9725477748/380200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| KCTV CH05 HD" tvg-logo="https://lo1.in/kor/kc.png" group-title="韓國",KCTV CH05 HD
+http://extraott.com:80/live/9976612136/9725477748/380201.m3u8
+#EXTINF:-1 tvg-id="ktv.kr" tvg-name="KP| KTV" tvg-logo="https://lo1.in/kor/kt.png" group-title="韓國",KTV
+http://extraott.com:80/live/9976612136/9725477748/380177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| LOTTE HOM ESHOPPING HD" tvg-logo="https://lo1.in/kor/lo.png" group-title="韓國",LOTTE HOM ESHOPPING HD
+http://extraott.com:80/live/9976612136/9725477748/380203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| NBS KOREA AGRICULTURAL BROADCASTING HD" tvg-logo="https://lo1.in/kor/nb.png" group-title="韓國",NBS KOREA AGRICULTURAL BROADCASTING HD
+http://extraott.com:80/live/9976612136/9725477748/191070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| TVWORKNET HD" tvg-logo="https://lo1.in/kor/tw.png" group-title="韓國",TVWORKNET HD
+http://extraott.com:80/live/9976612136/9725477748/191076.m3u8
+#EXTINF:-1 tvg-id="ytnscience.kr" tvg-name="KP| YTN SCIENCE HD" tvg-logo="https://lo1.in/kor/yts.png" group-title="韓國",YTN SCIENCE HD
+http://extraott.com:80/live/9976612136/9725477748/191078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| EBS KIDS  HD" tvg-logo="https://lo1.in/kor/ebsk.png" group-title="韓國",EBS KIDS  HD
+http://extraott.com:80/live/9976612136/9725477748/380188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| K+ HD" tvg-logo="https://lo1.in/kor/k.png" group-title="韓國",K+ HD
+http://extraott.com:80/live/9976612136/9725477748/191063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| KCTV CH21 HD" tvg-logo="https://lo1.in/kor/kc1.png" group-title="韓國",KCTV CH21 HD
+http://extraott.com:80/live/9976612136/9725477748/191065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| SBS INTERNATIONAL HD" tvg-logo="https://lo1.in/kor/ss.png" group-title="韓國",SBS INTERNATIONAL HD
+http://extraott.com:80/live/9976612136/9725477748/191072.m3u8
+#EXTINF:-1 tvg-id="sbsplus.kr" tvg-name="KP| SBS PLUS HD" tvg-logo="https://lo1.in/kor/sbp.png" group-title="韓國",SBS PLUS HD
+http://extraott.com:80/live/9976612136/9725477748/191073.m3u8
+#EXTINF:-1 tvg-id="kbsw.kr" tvg-name="KP| KBS WORLD TV" tvg-logo="https://lo1.in/kor/kb6.png" group-title="韓國",KBS WORLD TV
+http://extraott.com:80/live/9976612136/9725477748/380173.m3u8
+#EXTINF:-1 tvg-id="fishingtv.kr" tvg-name="KP| FISHING TV HD" tvg-logo="https://lo1.in/kor/fis.png" group-title="韓國",FISHING TV HD
+http://extraott.com:80/live/9976612136/9725477748/191081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| TVN" tvg-logo="https://lo1.in/kor/flg.png" group-title="韓國",TVN
+http://extraott.com:80/live/9976612136/9725477748/473547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| TAN" tvg-logo="https://lo1.in/kor/flg.png" group-title="韓國",TAN
+http://extraott.com:80/live/9976612136/9725477748/473548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| EBS" tvg-logo="https://lo1.in/kor/flg.png" group-title="韓國",EBS
+http://extraott.com:80/live/9976612136/9725477748/473550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| MBN" tvg-logo="https://lo1.in/kor/flg.png" group-title="韓國",MBN
+http://extraott.com:80/live/9976612136/9725477748/473551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KP| MBC" tvg-logo="https://lo1.in/kor/flg.png" group-title="韓國",MBC
+http://extraott.com:80/live/9976612136/9725477748/473552.m3u8
 
 
 
