@@ -4222,6 +4222,71 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=9415
 
 
 
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS ESPN HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79483
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79486
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1261564
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79485
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 3 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79484
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 4 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1002857
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 5 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1004549
+
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-MAIN-EVENTS.png" group-title="體育",UK| SKY SPORTS MAIN EVENTS HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83450
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-PL.png" group-title="體育",UK| SKY SPORTS PL HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83447
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-FOOTBAL.png" group-title="體育",UK| SKY SPORTS FOOTBALL HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83452
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-NEWS.png" group-title="體育",UK| SKY SPORTS NEWS HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83448
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ACTION.png" group-title="體育",UK|SKY SPORTS ACTION HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83456
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ARENA.png" group-title="體育",UK| SKY SPORTS ARENA HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83455
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-CRICKET.png" group-title="體育",UK| SKY SPORTS CRICKET HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83454
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-F1.png" group-title="體育",UK| SKY SPORTS F1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83453
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-MIX.png" group-title="體育",UK| SKY SPORTS MIX HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83449
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-RACING.png" group-title="體育",UK| SKY SPORTS RACING HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83446
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-GOLF.png" group-title="體育",UK| SKY SPORTS GOLF HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83451
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BT-BOX-OFFICE.png" group-title="體育",UK| BT BOX OFFICE HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1019934
+#EXTINF:-1 tvg-id="" tvg-name="UK| DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAZN-1.png" group-title="體育",UK| DAZN 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1221178
+#EXTINF:-1 tvg-id="" tvg-name="UK| MANCHESTER UNITED HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/MANCHESTER-UNITED.png" group-title="體育",UK| MANCHESTER UNITED HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=725954
+#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/CHELSEA.png" group-title="體育",UK| CHELSEA TV HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45327
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/LFC.png" group-title="體育",UK| LFC TV FHD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=910647
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV" tvg-logo="http://logo.protv.cc/picons/logos/UK/LFC.png" group-title="體育",UK| LFC TV
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45268
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/MUTV.png" group-title="體育",UK| MUTV FHD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45324
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/EUROSPORT-1.png" group-title="體育",UK| EUROSPORT 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=547746
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/EUROSPORT-2.png" group-title="體育",UK| EUROSPORT 2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=547747
+#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="UK| PREMIER SPORT LALIGA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/PREMIER-SPORT-LALIGA.png" group-title="體育",UK| PREMIER SPORT LALIGA TV HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=163610
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| VIAPLAY SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="體育",UK| VIAPLAY SPORTS 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45235
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| VIAPLAY SPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="體育",UK| VIAPLAY SPORT 2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=163608
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 1 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 1 HD
