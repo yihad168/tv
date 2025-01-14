@@ -559,6 +559,8 @@ https://pixman.mytvsuper.com.mp/mytvsuper/C2
 
 
 
+
+
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml"
 
 #EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視 31" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="香港",RTHK TV 31
@@ -597,7 +599,11 @@ https://live.hkdvb.com/hls/live/89.m3u8?token=263664245636508
 https://live.hkdvb.com/hls/live/200.m3u8?token=263664245636508
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="香港",Golden Chinese Drama
 https://live.hkdvb.com/hls/live/90.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="PCCW",Now News
+#EXTINF:-1 tvg-id="559" tvg-name="PopC" group-title="香港" tvg-id="559" tvg-logo="https://assets.livednow.com/logo/PopC.png",PopC
+https://live.hkdvb.com/hls/live/206.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="香港",美亞電影台
+https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="香港",Now News
 https://live.hkdvb.com/hls/live/332.m3u8?token=263664245636508
 #EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="香港",Now Sports Premier League 1
 https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
@@ -609,10 +615,6 @@ https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
 https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
 #EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-642.png" group-title="香港",Now Sports 642
 https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
-
-
-
-
 
 
 
