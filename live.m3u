@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://live.fanmingming.com/e.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml,http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -8,7 +8,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV1 (720P)",日本テレビ (720p Willfon)
+#EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",group-title="DTV1 (720P)",日本テレビ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV1 (720P)",TBSテレビ (720p Willfon)
@@ -140,6 +140,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 tvg-id="スカイA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="CS1 (720p)",スカイA (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
 
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
@@ -1426,7 +1428,6 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 
-#EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="大陸央視", CCTV 1
@@ -2057,7 +2058,7 @@ http://kenneth001.serv00.net/litv.php?id=4gtv-4gtv158
 
 
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/myzzzzzz/tv/master/zzz.xml"
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://raw.githubusercontent.com/myzzzzzz/tv/master/zzz.xml"
 
 #EXTINF:-1 tvg-id="310" tvg-name="民視台灣台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/ftv_tw.png" group-title="四季",民視台灣台
 https://haoyunlai.serv00.net/litv.php?id=4gtv-4gtv001
@@ -2235,7 +2236,6 @@ https://haoyunlai.serv00.net/litv.php?id=litv-longturn20
 https://haoyunlai.serv00.net/litv.php?id=litv-longturn21
 #EXTINF:-1 tvg-id="505" tvg-name="台灣戲劇台" tvg-logo="http://192.168.6.3/tv/TVlogo/img/litv-longturn22.png" group-title="四季",台灣戲劇台
 https://haoyunlai.serv00.net/litv.php?id=litv-longturn22
-
 
 
 
