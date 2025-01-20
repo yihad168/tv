@@ -143,104 +143,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 
 
 
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
-
-
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml"
-
-#EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視 31" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="香港",RTHK TV 31
-https://live.hkdvb.com/hls/live/31.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視 32" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK32.png" group-title="香港",RTHK TV 32
-https://live.hkdvb.com/hls/live/32.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="香港",RTHK TV 33
-https://live.hkdvb.com/hls/live/33.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-34" tvg-name="港台電視 34" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港",RTHK TV 34
-https://live.hkdvb.com/hls/live/34.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-35" tvg-name="港台電視 35" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港",RTHK TV 35
-https://live.hkdvb.com/hls/live/35.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="香港",HOY International Business Channel
-https://live.hkdvb.com/hls/live/76.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://assets.livednow.com/logo/HOYTV.png" group-title="香港",HOY TV
-https://live.hkdvb.com/hls/live/77.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" group-title="香港",HOY Infotainment
-https://live.hkdvb.com/hls/live/78.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",TVB Jade
-https://live.hkdvb.com/hls/live/81.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",TVB Plus
-https://live.hkdvb.com/hls/live/82.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港",TVB News Channel
-https://live.hkdvb.com/hls/live/83.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港",TVB Pearl
-https://live.hkdvb.com/hls/live/84.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="香港",Phoenix Hong Kong Channel
-https://live.hkdvb.com/hls/live/85.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="香港",ViuTVsix
-https://live.hkdvb.com/hls/live/96.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="香港",ViuTV
-https://live.hkdvb.com/hls/live/99.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="557" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="香港",Chinese Drama
-https://live.hkdvb.com/hls/live/89.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="香港",Classic Movies
-https://live.hkdvb.com/hls/live/200.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="香港",Golden Chinese Drama
-https://live.hkdvb.com/hls/live/90.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="559" tvg-name="PopC" group-title="香港" tvg-id="559" tvg-logo="https://assets.livednow.com/logo/PopC.png",PopC
-https://live.hkdvb.com/hls/live/206.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="香港",美亞電影台
-https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="香港",Now News
-https://live.hkdvb.com/hls/live/332.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="香港",Now Sports Premier League 1
-https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-prime-hk.png" group-title="香港",Now Sports Prime
-https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-2-hk.png" group-title="香港",Now Sports 2
-https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-641.png" group-title="香港",Now Sports 641
-https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-642.png" group-title="香港",Now Sports 642
-https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
-
-#EXTINF:-1 group-title="香港",翡翠台4K
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
-#EXTINF:-1 group-title="香港",TVB翡翠
-http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1 group-title="香港",TVB星河
-http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
-#EXTINF:-1 group-title="香港",TVB J1
-http://cdn3.132.us.kg/live/j1/stream.m3u8
-#EXTINF:-1 group-title="香港",TVB PLUS
-http://cdn.132.us.kg/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="香港",無線新聞
-http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1 group-title="香港",無線翡翠
-http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1 group-title="香港",無線翡翠
-http://cdn2.1689.us.kg/live/?id=gdfct
-#EXTINF:-1 group-title="香港",無線華麗
-http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-#EXTINF:-1 group-title="香港",鳳凰資訊
-http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="香港",鳳凰中文
-http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="香港",HOY TV
-http://cdn.132.us.kg/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="香港",澳視澳門
-http://cdn.132.us.kg/live/asam/stream.m3u8
-#EXTINF:-1 group-title="香港",澳視衛星
-http://cdn.132.us.kg/live/as/stream.m3u8
-#EXTINF:-1 group-title="香港",廣東珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 group-title="香港",廣東體育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
-#EXTINF:-1 group-title="香港",重溫經典
-http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-
-
-
-
-
 
 
 #EXTM3U
@@ -1293,21 +1195,114 @@ http://zkbvzkj.megahdtv.xyz/live/1103581436/4099381829/28287.m3u8
 
 
 
+#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml" tvg-shift=0 m3uautoload=1
+
+
+#EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視 31" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="香港",RTHK TV 31
+https://live.hkdvb.com/hls/live/31.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視 32" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK32.png" group-title="香港",RTHK TV 32
+https://live.hkdvb.com/hls/live/32.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="香港",RTHK TV 33
+https://live.hkdvb.com/hls/live/33.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="港台電視-34" tvg-name="港台電視 34" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港",RTHK TV 34
+https://live.hkdvb.com/hls/live/34.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="港台電視-35" tvg-name="港台電視 35" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港",RTHK TV 35
+https://live.hkdvb.com/hls/live/35.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="香港",HOY International Business Channel
+https://live.hkdvb.com/hls/live/76.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://assets.livednow.com/logo/HOYTV.png" group-title="香港",HOY TV
+https://live.hkdvb.com/hls/live/77.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" group-title="香港",HOY Infotainment
+https://live.hkdvb.com/hls/live/78.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",TVB Jade
+https://live.hkdvb.com/hls/live/81.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",TVB Plus
+https://live.hkdvb.com/hls/live/82.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港",TVB News Channel
+https://live.hkdvb.com/hls/live/83.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港",TVB Pearl
+https://live.hkdvb.com/hls/live/84.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="香港",Phoenix Hong Kong Channel
+https://live.hkdvb.com/hls/live/85.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="香港",ViuTVsix
+https://live.hkdvb.com/hls/live/96.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="香港",ViuTV
+https://live.hkdvb.com/hls/live/99.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="557" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="香港",Chinese Drama
+https://live.hkdvb.com/hls/live/89.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="香港",Classic Movies
+https://live.hkdvb.com/hls/live/200.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="香港",Golden Chinese Drama
+https://live.hkdvb.com/hls/live/90.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="559" tvg-name="PopC" group-title="香港" tvg-id="559" tvg-logo="https://assets.livednow.com/logo/PopC.png",PopC
+https://live.hkdvb.com/hls/live/206.m3u8?token=263664245636508
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="香港",美亞電影台
+https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="香港",Now News
+https://live.hkdvb.com/hls/live/332.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="香港",Now Sports Premier League 1
+https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-prime-hk.png" group-title="香港",Now Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-2-hk.png" group-title="香港",Now Sports 2
+https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-641.png" group-title="香港",Now Sports 641
+https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
+#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-642.png" group-title="香港",Now Sports 642
+https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
+
+#EXTINF:-1 group-title="香港",翡翠台4K
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="香港",TVB翡翠
+http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="香港",TVB星河
+http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+#EXTINF:-1 group-title="香港",TVB J1
+http://cdn3.132.us.kg/live/j1/stream.m3u8
+#EXTINF:-1 group-title="香港",TVB PLUS
+http://cdn.132.us.kg/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="香港",無線新聞
+http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+#EXTINF:-1 group-title="香港",無線翡翠
+http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+#EXTINF:-1 group-title="香港",無線翡翠
+http://cdn2.1689.us.kg/live/?id=gdfct
+#EXTINF:-1 group-title="香港",無線華麗
+http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+#EXTINF:-1 group-title="香港",鳳凰資訊
+http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="香港",鳳凰中文
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="香港",HOY TV
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="香港",澳視澳門
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 group-title="香港",澳視衛星
+http://cdn.132.us.kg/live/as/stream.m3u8
+#EXTINF:-1 group-title="香港",廣東珠江
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="香港",廣東體育
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="香港",重溫經典
+http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+
+
+#EXTINF:-1 group-title="香港",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="香港",鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="香港",美亞電影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 
 
 
 
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
 
-
-
-
-
-
-
-#EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 group-title="AKTV",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台
@@ -1428,10 +1423,7 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 
-
-
-
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="大陸央視", CCTV 1
 http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1644,7 +1636,6 @@ http://125.227.210.55:35802/VideoInput/play.ts
 http://125.227.210.55:48553/VideoInput/play.ts
 #EXTINF:-1 group-title="台灣", CN卡通频道 (125)
 http://125.227.210.55:8167/VideoInput/play.ts
-
 #EXTINF:-1 group-title="台灣", TVBS HD (125)
 http://125.227.210.55:8188/VideoInput/play.ts
 #EXTINF:-1 group-title="台灣", TVBS歡樂台 (125)
@@ -1659,7 +1650,6 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://61.221.215.25:8800/hls/51/index.m3u8
 #EXTINF:-1 group-title="台灣", TVBS NEWS (61)
 http://61.221.215.25:8800/hls/9/index.m3u8
-
 #EXTINF:-1 group-title="台灣", 探索亞洲 (61)
 http://61.221.215.25:8800/hls/50/index.m3u8
 #EXTINF:-1 group-title="台灣", 中天娛樂台 (61)
@@ -1700,18 +1690,15 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 group-title="台灣", 音樂欣賞2 (61)
 http://61.221.215.25:8800/hls/58/index.m3u8
-
+#EXTINF:-1 group-title="台灣", 探索頻道 (61)
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="台灣", 中華小當家 (61)
+http://61.221.215.25:8800/hls/40/index.m3u8
 
 #EXTINF:-1 group-title="台灣", 番薯音樂 (61)
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="台灣", 番薯音樂 (61)
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-
-
-#EXTINF:-1 group-title="台灣", 探索頻道 (61)
-http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1 group-title="台灣", 中華小當家 (61)
-http://61.221.215.25:8800/hls/40/index.m3u8
 
 #EXTINF:-1 group-title="台灣", 半島新聞
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1734,6 +1721,139 @@ http://220.133.220.232:8541/http/220.130.214.23:8088/hls/63/805/ch10.m3u8
 http://220.133.220.232:8543/http/220.130.214.23:8088/hls/85/80/FtvNews4max.m3u8
 #EXTINF:-1 group-title="台灣",三立新聞HD (220)
 http://220.133.220.232:8544/http/220.130.214.23:8088/hls/65/807/ch18.m3u8
+
+
+#EXTINF:-1 group-title="台灣",台視 (220)
+http://220.133.220.232:8502/http/220.130.214.23:8088/hls/86/80/Ttv4max.m3u8
+#EXTINF:-1 group-title="台灣",中視 (220)
+http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="台灣",華視 (220)
+http://220.133.220.232:8504/http/220.130.214.23:8088/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="台灣",民視 (220)
+http://220.133.220.232:8505/http/220.130.214.23:8088/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="台灣",公視 (220)
+http://220.133.220.232:8506/http/220.130.214.23:8088/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="台灣",人間衛視 (220)
+http://220.133.220.232:8507/http/220.130.214.23:8088/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="台灣",大愛電視 (220)
+http://220.133.220.232:8508/http/220.130.214.23:8088/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="台灣",好消息GOOD TV (220)
+http://220.133.220.232:8509/http/220.130.214.23:8088/hls/74/816/ch53.m3u8
+#EXTINF:-1 group-title="台灣",Trace Sport Stars (220)
+http://220.133.220.232:8510/http/220.130.214.23:8092/upload/212/TraceS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣",DISCOVERY (220)
+http://220.133.220.232:8511/http/220.130.214.23:8088/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="台灣",旅遊生活 (220)
+http://220.133.220.232:8512/http/220.130.214.23:8088/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="台灣",動物星球 (220)
+http://220.133.220.232:8513/http/220.130.214.23:8088/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="台灣",亞洲旅遊 (220)
+http://220.133.220.232:8514/http/220.130.214.23:8088/hls/76/818/ch61.m3u8
+#EXTINF:-1 group-title="台灣",MOMO親子台 (220)
+http://220.133.220.232:8535/http/220.130.87.218:8081/hls/90/80/momo4max.m3u8
+#EXTINF:-1 group-title="台灣",東森幼幼HD (220)
+http://220.133.220.232:8516/http/220.130.214.23:8088/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="台灣",龍華卡通台 (220)
+http://220.133.220.232:8521/http/220.130.87.218:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1 group-title="台灣",緯來綜合HD (220)
+http://220.133.220.232:8519/http/220.130.214.23:8088/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="台灣",八大第一HD (220)
+http://220.133.220.232:8520/http/220.130.214.23:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣",八大綜合HD (220)
+http://220.133.220.232:8501/http/220.130.214.23:8088/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="台灣",三立台灣HD (220)
+http://220.133.220.232:8522/http/220.130.214.23:8088/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="台灣",三立都會HD (220)
+http://220.133.220.232:8523/http/220.130.214.23:8088/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台灣",韓國娛樂台 (220)
+http://220.133.220.232:8524/http/220.130.214.23:8092/upload/116/KMTV_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣",東森綜合HD (220)
+http://220.133.220.232:8525/http/220.130.214.23:8088/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="台灣",超視HD (220)
+http://220.133.220.232:8526/http/220.130.214.23:8088/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="台灣",中天綜合HD (220)
+http://220.133.220.232:8527/http/220.130.214.23:8088/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="台灣",中天娛樂HD (220)
+http://220.133.220.232:8528/http/220.130.214.23:8088/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="台灣",東風衛視 (220)
+http://220.133.220.232:8529/http/220.130.214.23:8088/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="台灣",MUCH TV (220)
+http://220.133.220.232:8530/http/220.130.214.23:8088/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="台灣",東森戲劇HD (220)
+http://220.133.220.232:8531/http/220.130.87.218:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="台灣",八大戲劇HD (220)
+http://220.133.220.232:8532/http/220.130.87.218:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="台灣",TVBS歡樂HD (220)
+http://220.133.220.232:8533/http/220.130.87.218:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 group-title="台灣",緯來戲劇 (220)
+http://220.133.220.232:8534/http/220.130.87.218:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="台灣",龍華戲劇台 (220)
+http://220.133.220.232:8579/http/220.130.87.218:8068/hls/13/80/cstv13.m3u8
+#EXTINF:-1 group-title="台灣",龍華日韓劇 (220)
+http://220.133.220.232:8581/http/220.130.87.218:8068/hls/12/80/cstv12.m3u8
+#EXTINF:-1 group-title="台灣",龍華偶像劇 (220)
+http://220.133.220.232:8582/http/220.130.87.218:8068/hls/11/80/cstv11.m3u8
+#EXTINF:-1 group-title="台灣",緯來日本HD (220)
+http://220.133.220.232:8538/http/220.130.214.23:8088/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="台灣",Taiwan Plus (220)
+http://220.133.220.232:8539/http/220.130.214.23:8088/hls/87/80/PtsTaiwanPlus4max.m3u8
+#EXTINF:-1 group-title="台灣",非凡商業HD (220)
+http://220.133.220.232:8546/http/220.130.214.23:8088/hls/74/816/ch56.m3u8
+#EXTINF:-1 group-title="台灣",東森財經HD (220)
+http://220.133.220.232:8547/http/220.130.214.23:8088/hls/63/805/ch11.m3u8
+#EXTINF:-1 group-title="台灣",Bloomberg News (220)
+http://220.133.220.232:8552/http/220.130.87.218:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1 group-title="台灣",NHK世界HD (220)
+http://220.133.220.232:8553/http/220.130.214.23:8088/hls/62/804/ch06.m3u8
+#EXTINF:-1 group-title="台灣",鏡電視新聞台 (220)
+http://220.133.220.232:8554/http/220.130.214.23:8092/upload/114/MNEWS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣",好萊塢電影HD (220)
+http://220.133.220.232:8555/http/220.130.214.23:8088/hls/74/816/ch55.m3u8
+#EXTINF:-1 group-title="台灣",緯來電影HD (220)
+http://220.133.220.232:8556/http/220.130.214.23:8088/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="台灣",龍華電影台 (220)
+http://220.133.220.232:8583/http/220.130.87.218:8068/hls/10/80/cstv10.m3u8
+#EXTINF:-1 group-title="台灣",HBO (220)
+http://220.133.220.232:8558/http/220.130.214.23:8088/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="台灣",AXN (220)
+http://220.133.220.232:8559/http/220.130.214.23:8088/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="台灣",CINEMAX HD (220)
+http://220.133.220.232:8560/http/220.130.214.23:8088/hls/71/813/ch42.m3u8
+#EXTINF:-1 group-title="台灣",AMC 電影台 (220)
+http://220.133.220.232:8561/http/220.130.214.23:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣",寵物頻道 (220)
+http://220.133.220.232:8562/http/220.130.214.23:8078/hls/40/80/pettv.m3u8
+#EXTINF:-1 group-title="台灣",緯來育樂HD (220)
+http://220.133.220.232:8563/http/220.130.214.23:8088/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="台灣",緯來體育HD (220)
+http://220.133.220.232:8564/http/220.130.214.23:8088/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="台灣",博斯運動一 (220)
+http://220.133.220.232:8584/http/220.130.87.218:8068/hls/15/80/cstv15.m3u8
+#EXTINF:-1 group-title="台灣",momo綜合台 (220)
+http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="台灣",DAZN 1 (220)
+http://220.133.220.232:8567/http/220.130.87.218:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="台灣",DAZN 2 (220)
+http://220.133.220.232:8568/http/220.130.87.218:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="台灣",廈門衛視 (220)
+http://220.133.220.232:8569/http/220.130.87.218:8078/hls/42/80/xmtv.m3u8
+#EXTINF:-1 group-title="台灣",CCTV4-中央衛視 (220)
+http://220.133.220.232:8570/http/220.130.87.218:8078/hls/42/80/cctv4.m3u8
+#EXTINF:-1 group-title="台灣",海峽衛視 (220)
+http://220.133.220.232:8571/http/220.130.87.218:8078/hls/42/80/fjttv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2082,11 +2202,7 @@ https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv158
 
 
 
-
-
-
-
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
 
 #EXTINF:-1 group-title="體育",BT Sport 1 UK
@@ -2127,8 +2243,43 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7328/index
 
 
 
+#EXTINF:-1 tvg-id="ESPNUS.us" tvg-name="ESPN 1 US" tvg-logo="" group-title="體育",ESPN 1 US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/552
+#EXTINF:-1 tvg-id="ESPN2US.us" tvg-name="ESPN 2 US" tvg-logo="" group-title="體育",ESPN 2 US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7787
+#EXTINF:-1 tvg-id="ESPNUS.us" tvg-name="ESPN HD US" tvg-logo="" group-title="體育",ESPN HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/544
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus US" tvg-logo="" group-title="體育",Fox Soccer Plus US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7785
+#EXTINF:-1 tvg-id="FOX Sports 1 US" tvg-name="Fox Sports 1 HD US" tvg-logo="" group-title="體育",Fox Sports 1 HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/553
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 US" tvg-logo="" group-title="體育",Fox Sports 1 US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7786
+#EXTINF:-1 tvg-id="FOX Sports 2 US" tvg-name="Fox Sports 2 FHD US" tvg-logo="" group-title="體育",Fox Sports 2 FHD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/554
+#EXTINF:-1 tvg-id="FOX Sports 2 US" tvg-name="Fox Sports 2 HD US" tvg-logo="" group-title="體育",Fox Sports 2 HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7759
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports College Central HD US" tvg-logo="" group-title="體育",Fox Sports College Central HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7756
+#EXTINF:-1 tvg-id="FOX Sports 1 US" tvg-name="Fox Sports HD US" tvg-logo="" group-title="體育",Fox Sports HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7760
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB HD US" tvg-logo="" group-title="體育",MLB HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/573
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="" group-title="體育",MLB Network HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7701
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network US" tvg-logo="" group-title="體育",MLB Network US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/574
+#EXTINF:-1 tvg-id="NBA TV US" tvg-name="NBA HD US" tvg-logo="" group-title="體育",NBA HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/533
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf Channel HD US" tvg-logo="" group-title="體育",NBC Golf Channel HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/6146
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf HD US" tvg-logo="" group-title="體育",NBC Golf HD US
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7743
 
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+
+
+#EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="體育", TNT Sport 1
 http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
@@ -2138,6 +2289,7 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47851.ts
 http://kstv.us:8080/live/tH300gvHff/8606073792/47852.ts
 #EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="體育", TNT Sport 4
 http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
+
 
 #EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Z2ISWIjlaDb3NwBCt-WVS95MJgCjkcf24nCCKRdFuonb1x0nmLemtRp&s=10" group-title="體育", TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
@@ -2161,10 +2313,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/348298
 http://suprino.xyz:80/W8MEP61/2X2H702/17279
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK-TNT SPORTS 3 HD" tvg-logo="http://go4.pw/UK/bt-3.png" group-title="體育",TNT SPORTS 3 HD
 http://suprino.xyz:80/W8MEP61/2X2H702/348299
-
-
-
-
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK - EUROSPORTS 1 FHD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="體育",EUROSPORTS 1 FHD
 http://suprino.xyz:80/W8MEP61/2X2H702/17274
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK - EUROSPORTS 1 HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="體育",EUROSPORTS 1 HD
@@ -2177,6 +2325,14 @@ http://suprino.xyz:80/W8MEP61/2X2H702/17273
 http://suprino.xyz:80/W8MEP61/2X2H702/348272
 #EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK - EUROSPORTS 2 SD" tvg-logo="http://go4.pw/UK/eursp2.png" group-title="體育",EUROSPORTS 2 SD
 http://suprino.xyz:80/W8MEP61/2X2H702/348274
+
+
+
+#EXTINF:-1 tvg-id="Eurosport 1 ex-Yu" tvg-name="EuroSport 1 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="體育",EuroSport 1 ex-Yu
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/594
+#EXTINF:-1 tvg-id="Eurosport 2 ex-Yu" tvg-name="EuroSport 2 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="體育",EuroSport 2 ex-Yu
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/593
+
 
 
 
@@ -2197,8 +2353,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/748435
 http://suprino.xyz:80/W8MEP61/2X2H702/748436
 #EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 8" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 8
 http://suprino.xyz:80/W8MEP61/2X2H702/748437
-
-
 #EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS+ HD" tvg-logo="http://go4.pw/UK/SKY_SPORTS+.png" group-title="體育",UK - SKY SPORTS+ HD
 http://suprino.xyz:80/W8MEP61/2X2H702/973139
 #EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://go4.pw/UK/skyprl.png" group-title="體育",UK - SKY SPORTS PREMIER LEAGUE HD
@@ -2223,7 +2377,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/348309
 http://suprino.xyz:80/W8MEP61/2X2H702/348313
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK - SKY SPORTS NEWS HD" tvg-logo="http://go4.pw/UK/skyns.png" group-title="體育",UK - SKY SPORTS NEWS HD
 http://suprino.xyz:80/W8MEP61/2X2H702/17283
-
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT GOLF HD
 http://suprino.xyz:80/W8MEP61/2X2H702/348281
 #EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT BLITZ HD
@@ -2252,7 +2405,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/348291
 http://suprino.xyz:80/W8MEP61/2X2H702/348293
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-title="體育",HUB SPORTS 1 HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941573
 #EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-title="體育",HUB SPORTS 2 HD
@@ -2276,10 +2428,6 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=9415
 #EXTINF:-1 tvg-id="" tvg-name="SG| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA_TV.png" group-title="體育",NBA TV HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941562
 
-
-
-
-
 #EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS ESPN HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79483
 #EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 1 HD
@@ -2294,196 +2442,6 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=7948
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1002857
 #EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 5 HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1004549
-
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-MAIN-EVENTS.png" group-title="體育",UK| SKY SPORTS MAIN EVENTS HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83450
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-PL.png" group-title="體育",UK| SKY SPORTS PL HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83447
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-FOOTBAL.png" group-title="體育",UK| SKY SPORTS FOOTBALL HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83452
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-NEWS.png" group-title="體育",UK| SKY SPORTS NEWS HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83448
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ACTION.png" group-title="體育",UK|SKY SPORTS ACTION HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83456
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-ARENA.png" group-title="體育",UK| SKY SPORTS ARENA HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83455
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-CRICKET.png" group-title="體育",UK| SKY SPORTS CRICKET HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83454
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-F1.png" group-title="體育",UK| SKY SPORTS F1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83453
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-MIX.png" group-title="體育",UK| SKY SPORTS MIX HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83449
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-RACING.png" group-title="體育",UK| SKY SPORTS RACING HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83446
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SKY-SPORTS-GOLF.png" group-title="體育",UK| SKY SPORTS GOLF HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=83451
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT BOX OFFICE HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/BT-BOX-OFFICE.png" group-title="體育",UK| BT BOX OFFICE HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1019934
-#EXTINF:-1 tvg-id="" tvg-name="UK| DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/DAZN-1.png" group-title="體育",UK| DAZN 1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1221178
-#EXTINF:-1 tvg-id="" tvg-name="UK| MANCHESTER UNITED HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/MANCHESTER-UNITED.png" group-title="體育",UK| MANCHESTER UNITED HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=725954
-#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/CHELSEA.png" group-title="體育",UK| CHELSEA TV HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45327
-#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/LFC.png" group-title="體育",UK| LFC TV FHD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=910647
-#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV" tvg-logo="http://logo.protv.cc/picons/logos/UK/LFC.png" group-title="體育",UK| LFC TV
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45268
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV FHD" tvg-logo="http://logo.protv.cc/picons/logos/UK/MUTV.png" group-title="體育",UK| MUTV FHD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45324
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/EUROSPORT-1.png" group-title="體育",UK| EUROSPORT 1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=547746
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/EUROSPORT-2.png" group-title="體育",UK| EUROSPORT 2 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=547747
-#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="UK| PREMIER SPORT LALIGA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/PREMIER-SPORT-LALIGA.png" group-title="體育",UK| PREMIER SPORT LALIGA TV HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=163610
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| VIAPLAY SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="體育",UK| VIAPLAY SPORTS 1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=45235
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| VIAPLAY SPORT 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/POLAND/VIAPLAY.png" group-title="體育",UK| VIAPLAY SPORT 2 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=163608
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 1 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 1 HD
-http://extraott.com:80/live/9976612136/9725477748/710948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 2 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 2 HD
-http://extraott.com:80/live/9976612136/9725477748/710947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 3 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 3 HD
-http://extraott.com:80/live/9976612136/9725477748/710946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 4 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 4 HD
-http://extraott.com:80/live/9976612136/9725477748/710945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 5 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 5 HD
-http://extraott.com:80/live/9976612136/9725477748/710944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 6 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 6 HD
-http://extraott.com:80/live/9976612136/9725477748/710943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 7 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 7 HD
-http://extraott.com:80/live/9976612136/9725477748/710942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 8 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 8 HD
-http://extraott.com:80/live/9976612136/9725477748/710941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 9 HD" tvg-logo="https://lo1.in/ger/skysph.png" group-title="體育",SKY SPORT 9 HD
-http://extraott.com:80/live/9976612136/9725477748/710940.m3u8
-#EXTINF:-1 tvg-id="skysportselect.nz" tvg-name="NZ| SKY SPORTS SELECT FHD" tvg-logo="" group-title="體育",SKY SPORTS SELECT FHD
-http://extraott.com:80/live/9976612136/9725477748/83011.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="https://lo1.in/uk/eursp1.png" group-title="體育",UK EUROSPORT 1 HD
-http://extraott.com:80/live/9976612136/9725477748/153720.m3u8
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="https://lo1.in/uk/eursp2.png" group-title="體育",UK EUROSPORT 2 HD
-http://extraott.com:80/live/9976612136/9725477748/153721.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK| EUROSPORT 1 SD" tvg-logo="https://lo1.in/uk/eursp1.png" group-title="體育",UK EUROSPORT 1 SD
-http://extraott.com:80/live/9976612136/9725477748/191416.m3u8
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK| EUROSPORT 2 SD" tvg-logo="https://lo1.in/uk/eursp2.png" group-title="體育",UK EUROSPORT 2 SD
-http://extraott.com:80/live/9976612136/9725477748/191417.m3u8
-
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK| MUTV HD" tvg-logo="https://lo1.in/uk/mut.png" group-title="體育",UK MUTV HD
-http://extraott.com:80/live/9976612136/9725477748/153729.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US| FOX SPORTS 1 HD" tvg-logo="https://lo1.in/us/fxs1.png" group-title="體育",US FOX SPORTS 1 HD
-http://extraott.com:80/live/9976612136/9725477748/181440.m3u8
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US| FOX SPORTS 2 HD" tvg-logo="https://lo1.in/us/fxs2.png" group-title="體育",US FOX SPORTS 2 HD
-http://extraott.com:80/live/9976612136/9725477748/181441.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="US| NBA TV  FHD" tvg-logo="https://lo1.in/us/nba.png" group-title="體育",US NBA TV FHD
-http://extraott.com:80/live/9976612136/9725477748/378820.m3u8
-#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US| NBC SPORTS NETWORK HD" tvg-logo="https://lo1.in/us/nbcsp.png" group-title="體育",US NBC SPORTS NETWORK HD
-http://extraott.com:80/live/9976612136/9725477748/181690.m3u8
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US| ESPN 1 HD" tvg-logo="https://lo1.in/us/esp1.png" group-title="體育",US ESPN 1 HD
-http://extraott.com:80/live/9976612136/9725477748/181387.m3u8
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US| ESPN 2 HD" tvg-logo="https://lo1.in/us/esp2.png" group-title="體育",US ESPN 2 HD
-http://extraott.com:80/live/9976612136/9725477748/181514.m3u8
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US| ESPN NEWS HD" tvg-logo="https://lo1.in/us/espn.png" group-title="體育",US ESPN NEWS HD
-http://extraott.com:80/live/9976612136/9725477748/181384.m3u8
-
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA| NBA TV HD " tvg-logo="https://lo1.in/ca/nbatv.png" group-title="體育",CA NBA TV HD 
-http://extraott.com:80/live/9976612136/9725477748/175804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA| MLB NETWORK " tvg-logo="https://lo1.in/ca/mlbnw.png" group-title="體育",CA MLB NETWORK 
-http://extraott.com:80/live/9976612136/9725477748/175770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA| RIDE TV HD " tvg-logo="https://lo1.in/ca/ridect.png" group-title="體育",CA RIDE TV HD 
-http://extraott.com:80/live/9976612136/9725477748/175879.m3u8
-
-#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU| ESPN 1 HD" tvg-logo="https://lo1.in/aust/espn1.png" group-title="體育",AU ESPN 1 HD
-http://extraott.com:80/live/9976612136/9725477748/400254620.m3u8
-#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="AU| ESPN 2 HD" tvg-logo="https://lo1.in/aust/espn2.png" group-title="體育",AU ESPN 2 HD
-http://extraott.com:80/live/9976612136/9725477748/400254619.m3u8
-#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/aust/bs1.png" group-title="體育",AU BEIN SPORTS 1 HD
-http://extraott.com:80/live/9976612136/9725477748/355734.m3u8
-#EXTINF:-1 tvg-id="beinsports2hd.au" tvg-name="AU| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/aust/bs2.png" group-title="體育",AU BEIN SPORTS 2 HD
-http://extraott.com:80/live/9976612136/9725477748/400200340.m3u8
-#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="AU| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/aust/bs3.png" group-title="體育",AU BEIN SPORTS 3 HD
-http://extraott.com:80/live/9976612136/9725477748/355737.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV VSUPER SPORT PREMIER LEAGUE HD
-http://extraott.com:80/live/9976612136/9725477748/159892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT LALIGA HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT LALIGA HD
-http://extraott.com:80/live/9976612136/9725477748/159894.m3u8
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV| SUPER SPORT FOOTBALL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT FOOTBALL HD
-http://extraott.com:80/live/9976612136/9725477748/186875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT FOOTBALL PLUS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT FOOTBALL PLUS HD
-http://extraott.com:80/live/9976612136/9725477748/400415390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT PSL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT PSL HD
-http://extraott.com:80/live/9976612136/9725477748/159893.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT TENNIS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT TENNIS HD
-http://extraott.com:80/live/9976612136/9725477748/159890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT GOLF HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT GOLF HD
-http://extraott.com:80/live/9976612136/9725477748/159887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 1 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 1 HD
-http://extraott.com:80/live/9976612136/9725477748/159883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 2 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 2 HD
-http://extraott.com:80/live/9976612136/9725477748/159884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 3 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 3 HD
-http://extraott.com:80/live/9976612136/9725477748/186870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT VARIETY 4 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT VARIETY 4 HD
-http://extraott.com:80/live/9976612136/9725477748/186869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT CRICKET HD" tvg-logo="https://lo1.in/af/sprspcrick.png" group-title="體育",DSTV SUPER SPORT CRICKET HD
-http://extraott.com:80/live/9976612136/9725477748/117926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT RUGBY HD
-http://extraott.com:80/live/9976612136/9725477748/159889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD [BK1]" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT RUGBY HD [BK1]
-http://extraott.com:80/live/9976612136/9725477748/35401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT RUGBY HD [BK2]" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT RUGBY HD [BK2]
-http://extraott.com:80/live/9976612136/9725477748/35400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT MOTORSPORT HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT MOTORSPORT HD
-http://extraott.com:80/live/9976612136/9725477748/159888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT MAXIMO 1 HD" tvg-logo="https://lo1.in/af/sprspmaximo.png" group-title="體育",DSTV SUPER SPORT MAXIMO 1 HD
-http://extraott.com:80/live/9976612136/9725477748/159896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT ACTION HD" tvg-logo="https://lo1.in/af/sprspact.png" group-title="體育",DSTV SUPER SPORT ACTION HD
-http://extraott.com:80/live/9976612136/9725477748/117927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT GRANDSTAND HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="體育",DSTV SUPER SPORT GRANDSTAND HD
-http://extraott.com:80/live/9976612136/9725477748/159891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| Super Sport Blitz HD" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="體育",DSTV Super Sport Blitz HD
-http://extraott.com:80/live/9976612136/9725477748/110613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT PLAY HD" tvg-logo="https://lo1.in/dstv/strpl.png" group-title="體育",DSTV SUPER SPORT PLAY HD
-http://extraott.com:80/live/9976612136/9725477748/186873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT HD
-http://extraott.com:80/live/9976612136/9725477748/186884.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 2 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 2 HD
-http://extraott.com:80/live/9976612136/9725477748/186883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 3 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 3 HD
-http://extraott.com:80/live/9976612136/9725477748/186882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 5 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 5 HD
-http://extraott.com:80/live/9976612136/9725477748/186880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 6 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 6 HD
-http://extraott.com:80/live/9976612136/9725477748/186879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 7 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 7 HD
-http://extraott.com:80/live/9976612136/9725477748/186878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| SUPER SPORT OTT 8 HD" tvg-logo="https://lo1.in/dstv/sprsp.jpg" group-title="體育",DSTV SUPER SPORT OTT 8 HD
-http://extraott.com:80/live/9976612136/9725477748/186877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| GINX ESPORTS TV HD" tvg-logo="https://lo1.in/nor/ginesp.png" group-title="體育",DSTV GINX ESPORTS TV HD
-http://extraott.com:80/live/9976612136/9725477748/186840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| ESPN HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="體育",DSTV ESPN HD
-http://extraott.com:80/live/9976612136/9725477748/186855.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| ESPN 2 HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="體育",DSTV ESPN 2 HD
-http://extraott.com:80/live/9976612136/9725477748/7229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| WWE CHANNEL HD" tvg-logo="https://lo1.in/af/wwesprslm.png" group-title="體育",DSTV WWE CHANNEL HD
-http://extraott.com:80/live/9976612136/9725477748/186845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSTV| RACING 240 HD" tvg-logo="https://lo1.in/dstv/rcine.png" group-title="體育",DSTV RACING 240 HD
-http://extraott.com:80/live/9976612136/9725477748/186794.m3u8
-
-
-
-
 
 
 
@@ -2662,22 +2620,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/1125008
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="MALAYSIA",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV2
@@ -2729,9 +2671,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA FHD" tvg-logo="http://go4.pw/ASIA/Australia.png" group-title="MALAYSIA",ABC AUSTRALIA FHD
 http://suprino.xyz:80/W8MEP61/2X2H702/1052364
 #EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA HD" tvg-logo="http://go4.pw/ASIA/Australia.png" group-title="MALAYSIA",ABC AUSTRALIA HD
@@ -2758,6 +2697,10 @@ http://suprino.xyz:80/W8MEP61/2X2H702/955660
 http://suprino.xyz:80/W8MEP61/2X2H702/955661
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 2 HD" tvg-logo=" http://go4.pw/ASIA/astro2.png" group-title="MALAYSIA",ASTRO SUPERSPORT 2 HD
 http://suprino.xyz:80/W8MEP61/2X2H702/955663
+
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY: ASTRO SUPERSPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MALAYSIA",ASTRO SUPERSPORT 3 FHD
+http://215605059607826377.ofxn1112.xyz:80/play/me816121/UMeYUEerfT/826377.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 4 HD" tvg-logo=" http://go4.pw/ASIA/astro4.png" group-title="MALAYSIA",ASTRO SUPERSPORT 4 HD
 http://suprino.xyz:80/W8MEP61/2X2H702/955665
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET HD" tvg-logo="http://go4.pw/astro_logo.png" group-title="MALAYSIA",ASTRO CRICKET HD
@@ -3583,7 +3526,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/69161
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 group-title="韓國",KBS 2
 http://mytv.dothome.co.kr/ch/public/3.php
-
 #EXTINF:-1 group-title="韓國",KBS News D
 http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 group-title="韓國",KBS Drama
@@ -3598,7 +3540,6 @@ http://mytv.dothome.co.kr/ch/catv/5.php
 http://mytv.dothome.co.kr/ch/catv/6.php
 #EXTINF:-1 group-title="韓國",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-
 #EXTINF:-1 group-title="韓國",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 
@@ -3613,7 +3554,6 @@ http://mytv.dothome.co.kr/ch/catv/92.php
 
 #EXTINF:-1 group-title="韓國",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="韓國",TVN
 https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.service_id=KRBC3200030BO
 #EXTINF:-1 group-title="韓國",KBC|SBS
@@ -3638,6 +3578,10 @@ https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
 #EXTINF:-1 group-title="韓國",TVN asia
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+
+
+
 
 
 
@@ -4286,6 +4230,507 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="Bics MoveOnJoy US", YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="E4 Extra UK" tvg-name="E4 Extra UK" tvg-logo="" group-title="United Kingdom",E4 Extra UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/113641
+#EXTINF:-1 tvg-id="Magic UK" tvg-name="Magic TV UK" tvg-logo="" group-title="United Kingdom",Magic TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/113640
+#EXTINF:-1 tvg-id="3e UK" tvg-name="Virgin two HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin two HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1790
+#EXTINF:-1 tvg-id="4Music UK" tvg-name="4Music UK" tvg-logo="http://tugapt.com/picons/4musicuk.png" group-title="United Kingdom",4Music UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1936
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4Seven UK" tvg-logo="http://tugapt.com/picons/4sevenuk.png" group-title="United Kingdom",4Seven UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1937
+#EXTINF:-1 tvg-id="5STAR UK" tvg-name="5Star UK" tvg-logo="http://tugapt.com/picons/5staruk.png" group-title="United Kingdom",5Star UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1963
+#EXTINF:-1 tvg-id="5USA UK" tvg-name="5USA UK" tvg-logo="http://tugapt.com/picons/5usauk.png" group-title="United Kingdom",5USA UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1964
+#EXTINF:-1 tvg-id="AMC from BT UK" tvg-name="AMC From BT UK" tvg-logo="http://tugapt.com/picons/amcfrombtuk.png" group-title="United Kingdom",AMC From BT UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1892
+#EXTINF:-1 tvg-id="at the races UK" tvg-name="S Sports Racing FHD UK" tvg-logo="http://tugapt.com/picons/attheracesuk.png" group-title="United Kingdom",S Sports Racing FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1801
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi UK" tvg-logo="http://tugapt.com/picons/alibiuk.png" group-title="United Kingdom",Alibi UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1916
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1878
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://tugapt.com/picons/animalplanetuk.png" group-title="United Kingdom",Animal Planet UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1879
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four HD UK" tvg-logo="http://tugapt.com/picons/bbcfourhduk.png" group-title="United Kingdom",BBC Four HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1990
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK" tvg-logo="http://tugapt.com/picons/bbcfouruk.png" group-title="United Kingdom",BBC Four UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1989
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News HD UK" tvg-logo="http://tugapt.com/picons/bbcnewshduk.png" group-title="United Kingdom",BBC News HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1777
+#EXTINF:-1 tvg-id="Talk TV UK" tvg-name="TalkTV UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/talk-tv-uk.png?raw=true" group-title="United Kingdom",TalkTV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/105929
+#EXTINF:-1 tvg-id="BBC One CI UK" tvg-name="BBC One Channel Islands UK" tvg-logo="http://tugapt.com/picons/bbconechannelislandsuk.png" group-title="United Kingdom",BBC One Channel Islands UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1776
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="http://tugapt.com/picons/bbconehduk.png" group-title="United Kingdom",BBC One HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1998
+#EXTINF:-1 tvg-id="BBC One NI HD UK" tvg-name="BBC One Northern Ireland UK" tvg-logo="http://tugapt.com/picons/bbconenorthernirelanduk.png" group-title="United Kingdom",BBC One Northern Ireland UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2000
+#EXTINF:-1 tvg-id="BBC One Oxford UK" tvg-name="BBC One Oxford UK" tvg-logo="http://tugapt.com/picons/bbconeoxforduk.png" group-title="United Kingdom",BBC One Oxford UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1775
+#EXTINF:-1 tvg-id="BBC One Scot UK" tvg-name="BBC One Scotland UK" tvg-logo="http://tugapt.com/picons/bbconescotlanduk.png" group-title="United Kingdom",BBC One Scotland UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1786
+#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One UK" tvg-logo="http://tugapt.com/picons/bbconeuk.png" group-title="United Kingdom",BBC One UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1997
+#EXTINF:-1 tvg-id="BBC One Wales UK" tvg-name="BBC One Wales UK" tvg-logo="http://tugapt.com/picons/bbconewalesuk.png" group-title="United Kingdom",BBC One Wales UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2002
+#EXTINF:-1 tvg-id="BBC One Yorks UK" tvg-name="BBC One Yorks UK" tvg-logo="http://tugapt.com/picons/bbconeyorksuk.png" group-title="United Kingdom",BBC One Yorks UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1774
+#EXTINF:-1 tvg-id="BBC Parliament UK" tvg-name="BBC Parliament UK" tvg-logo="http://tugapt.com/picons/bbcparliamentuk.png" group-title="United Kingdom",BBC Parliament UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2003
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two HD UK" tvg-logo="http://tugapt.com/picons/bbctwohduk.png" group-title="United Kingdom",BBC Two HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1995
+#EXTINF:-1 tvg-id="BBC Two Scotland UK" tvg-name="BBC Two Scotland UK" tvg-logo="http://tugapt.com/picons/bbctwoscotlanduk.png" group-title="United Kingdom",BBC Two Scotland UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2004
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="http://tugapt.com/picons/bbctwouk.png" group-title="United Kingdom",BBC Two UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1994
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="http://tugapt.com/picons/bbcworldnewsuk.png" group-title="United Kingdom",BBC World News UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2006
+#EXTINF:-1 tvg-id="BET UK" tvg-name="BET UK" tvg-logo="http://tugapt.com/picons/betuk.png" group-title="United Kingdom",BET UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1961
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/369
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/370
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="TNT Sports 1 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 1 FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/5716
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/367
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/368
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="TNT Sports 2 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 2 FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/5715
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/365
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/366
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="TNT Sports 3 FHD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 3 FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/5714
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports5_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 5 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1818
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 6 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports6_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 6 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1817
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 7 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports7_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 7 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1816
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 8 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports8_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 8 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1815
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 9 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports9_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 9 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1814
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="TNT Sports 4 HD UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 4 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1743
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="TNT Sports 4 UK" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports4_Logo_White_RGB_Logo.png" group-title="United Kingdom",TNT Sports 4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1819
+#EXTINF:-1 tvg-id="Baby TV UK" tvg-name="Baby TV UK" tvg-logo="http://tugapt.com/picons/babytvuk.png" group-title="United Kingdom",Baby TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1852
+#EXTINF:-1 tvg-id="Blaze UK" tvg-name="Blaze UK" tvg-logo="http://tugapt.com/picons/blazeuk.png" group-title="United Kingdom",Blaze UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1787
+#EXTINF:-1 tvg-id="Bloomberg TV UK" tvg-name="Bloomberg TV UK" tvg-logo="http://tugapt.com/picons/bloombergtvuk.png" group-title="United Kingdom",Bloomberg TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1770
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang +1 UK" tvg-logo="http://tugapt.com/picons/boomerangplus1uk.png" group-title="United Kingdom",Boomerang +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1769
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang UK" tvg-logo="http://tugapt.com/picons/boomeranguk.png" group-title="United Kingdom",Boomerang UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1862
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="http://tugapt.com/picons/boxhitsuk.png" group-title="United Kingdom",Box Hits UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1768
+#EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="http://tugapt.com/picons/cbbchduk.png" group-title="United Kingdom",CBBC HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1993
+#EXTINF:-1 tvg-id="CBS Action UK" tvg-name="CBS Justice UK" tvg-logo="http://tugapt.com/picons/cbsactionuk.png" group-title="United Kingdom",CBS Justice UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1909
+#EXTINF:-1 tvg-id="CBS Drama UK" tvg-name="RealityXtra UK" tvg-logo="http://tugapt.com/picons/cbsdramauk.png" group-title="United Kingdom",RealityXtra UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1908
+#EXTINF:-1 tvg-id="CBS Reality UK" tvg-name="CBS Reality UK" tvg-logo="http://tugapt.com/picons/cbsrealityuk.png" group-title="United Kingdom",CBS Reality UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1910
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies HD UK" tvg-logo="http://tugapt.com/picons/cbeebieshduk.png" group-title="United Kingdom",CBeebies HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1741
+#EXTINF:-1 tvg-id="CITV UK" tvg-name="CITV UK" tvg-logo="http://tugapt.com/picons/citvuk.png" group-title="United Kingdom",CITV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1740
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN UK" tvg-logo="http://tugapt.com/picons/cnnuk.png" group-title="United Kingdom",CNN UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1764
+#EXTINF:-1 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network UK" tvg-logo="http://tugapt.com/picons/cartoonnetworkuk.png" group-title="United Kingdom",Cartoon Network UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1857
+#EXTINF:-1 tvg-id="Cartoonito UK" tvg-name="Cartoonito UK" tvg-logo="http://tugapt.com/picons/cartoonitouk.png" group-title="United Kingdom",Cartoonito UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1865
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge +1 UK" tvg-logo="http://tugapt.com/picons/challengeuk.png" group-title="United Kingdom",Challenge +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1944
+#EXTINF:-1 tvg-id="Challenge UK" tvg-name="Challenge UK" tvg-logo="http://tugapt.com/picons/challengeuk.png" group-title="United Kingdom",Challenge UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1782
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 HD UK" tvg-logo="http://tugapt.com/picons/channel4hduk.png" group-title="United Kingdom",Channel 4 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1970
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://tugapt.com/picons/channel4uk.png" group-title="United Kingdom",Channel 4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1972
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 HD UK" tvg-logo="http://tugapt.com/picons/channel5hduk.png" group-title="United Kingdom",Channel 5 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1967
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://tugapt.com/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1968
+#EXTINF:-1 tvg-id="Chart Show TV UK" tvg-name="Trace Urban UK" tvg-logo="http://tugapt.com/picons/chartshowtvuk.png" group-title="United Kingdom",Trace Urban UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1765
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra +1 UK" tvg-logo="http://tugapt.com/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1894
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra UK" tvg-logo="http://tugapt.com/picons/comedycentralextrauk.png" group-title="United Kingdom",Comedy Central Extra UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1895
+#EXTINF:-1 tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://tugapt.com/picons/comedycentraluk.png" group-title="United Kingdom",Comedy Central UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1896
+#EXTINF:-1 tvg-id="CrimeplusInvestigation UK" tvg-name="Crime+Investigation +1 UK" tvg-logo="http://tugapt.com/picons/crimeplusinvestigationuk.png" group-title="United Kingdom",Crime+Investigation +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1880
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX +1 UK" tvg-logo="http://tugapt.com/picons/dmaxuk.png" group-title="United Kingdom",DMAX +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1876
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://tugapt.com/picons/dmaxuk.png" group-title="United Kingdom",DMAX UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1877
+#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave UK" tvg-logo="http://tugapt.com/picons/daveuk.png" group-title="United Kingdom",Dave UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1911
+#EXTINF:-1 tvg-id="Dave ja vu UK" tvg-name="Dave ja vu UK" tvg-logo="http://tugapt.com/picons/davejavuuk.png" group-title="United Kingdom",Dave ja vu UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1788
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel UK" tvg-logo="http://tugapt.com/picons/discoverychanneluk.png" group-title="United Kingdom",Discovery Channel UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1886
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History +1 UK" tvg-logo="http://tugapt.com/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1872
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://tugapt.com/picons/discoveryhistoryuk.png" group-title="United Kingdom",Discovery History UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1873
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science +1 UK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1874
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://tugapt.com/picons/discoveryscienceuk.png" group-title="United Kingdom",Discovery Science UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1875
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://tugapt.com/picons/discoveryturbouk.png" group-title="United Kingdom",Discovery Turbo UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1884
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel +1 UK" tvg-logo="http://tugapt.com/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1843
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel UK" tvg-logo="http://tugapt.com/picons/disneychanneluk.png" group-title="United Kingdom",Disney Channel UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1844
+#EXTINF:-1 tvg-id="Drama UK" tvg-name="Drama UK" tvg-logo="http://tugapt.com/picons/dramauk.png" group-title="United Kingdom",Drama UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1863
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://tugapt.com/picons/euk.png" group-title="United Kingdom",E! UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1934
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 +1 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1965
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://tugapt.com/picons/e4uk.png" group-title="United Kingdom",E4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1966
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden +1 UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1946
+#EXTINF:-1 tvg-id="Eden UK" tvg-name="Eden UK" tvg-logo="http://tugapt.com/picons/edenuk.png" group-title="United Kingdom",Eden UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1935
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://tugapt.com/picons/eurosport1hduk.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1812
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1811
+#EXTINF:-1 tvg-id="FOX News UK" tvg-name="FOX News UK" tvg-logo="http://tugapt.com/picons/foxnewsuk.png" group-title="United Kingdom",FOX News UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1760
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://tugapt.com/picons/film4uk.png" group-title="United Kingdom",Film4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1830
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network +1 UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1941
+#EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1942
+#EXTINF:-1 tvg-id="" tvg-name="World Of FreeSports HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" group-title="United Kingdom VIP",World Of FreeSports HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/50437
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX eSports TV UK" tvg-logo="http://tugapt.com/picons/ginxesportstvuk.png" group-title="United Kingdom",GINX eSports TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1758
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD +1 UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1947
+#EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1915
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="Sky History 2 UK" tvg-logo="http://tugapt.com/picons/h2uk.png" group-title="United Kingdom",Sky History 2 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1871
+#EXTINF:-1 tvg-id="Hillsong UK" tvg-name="TBN UK" tvg-logo="http://tugapt.com/picons/hillsongchanneluk.png" group-title="United Kingdom",TBN UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1757
+#EXTINF:-1 tvg-id="History UK" tvg-name="History +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/history-channel-plus-uk.png?raw=true" group-title="United Kingdom",History +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1866
+#EXTINF:-1 tvg-id="History UK" tvg-name="History UK" tvg-logo="http://tugapt.com/picons/historyuk.png" group-title="United Kingdom",History UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1867
+#EXTINF:-1 tvg-id="Home UK" tvg-name="HGTV +1 UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",HGTV +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1869
+#EXTINF:-1 tvg-id="Home UK" tvg-name="Home UK" tvg-logo="http://tugapt.com/picons/homeuk.png" group-title="United Kingdom",Home UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1870
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel +1 UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1926
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://tugapt.com/picons/horrorchanneluk.png" group-title="United Kingdom",Horror Channel UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1825
+#EXTINF:-1 tvg-id="ITV Channel UK" tvg-name="ITV +1 UK" tvg-logo="http://tugapt.com/picons/itvplus1uk.png" group-title="United Kingdom",ITV +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1984
+#EXTINF:-1 tvg-id="ITV HD UK" tvg-name="ITV 1 UK" tvg-logo="http://tugapt.com/picons/itvuk.png" group-title="United Kingdom",ITV 1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1985
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 +1 UK" tvg-logo="http://tugapt.com/picons/itv2plus1uk.png" group-title="United Kingdom",ITV2 +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1981
+#EXTINF:-1 tvg-id="ITV2 HD UK" tvg-name="ITV2 HD UK" tvg-logo="http://tugapt.com/picons/itv2hduk.png" group-title="United Kingdom",ITV2 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1983
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV2 UK" tvg-logo="http://tugapt.com/picons/itv2uk.png" group-title="United Kingdom",ITV2 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1982
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 +1 UK" tvg-logo="http://tugapt.com/picons/itv3plus1uk.png" group-title="United Kingdom",ITV3 +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1978
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV3 UK" tvg-logo="http://tugapt.com/picons/itv3uk.png" group-title="United Kingdom",ITV3 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1979
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 +1 UK" tvg-logo="http://tugapt.com/picons/itv4plus1uk.png" group-title="United Kingdom",ITV4 +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1975
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV4 UK" tvg-logo="http://tugapt.com/picons/itv4uk.png" group-title="United Kingdom",ITV4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1976
+#EXTINF:-1 tvg-id="ITVBe UK" tvg-name="ITVBe +1 UK" tvg-logo="http://tugapt.com/picons/itvbeplus1uk.png" group-title="United Kingdom",ITVBe +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1974
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Investigation Discovery UK" tvg-logo="http://tugapt.com/picons/investigationdiscoveryuk.png" group-title="United Kingdom",Investigation Discovery UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1883
+#EXTINF:-1 tvg-id="KISS UK" tvg-name="KISS UK" tvg-logo="http://tugapt.com/picons/kissuk.png" group-title="United Kingdom",KISS UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1929
+#EXTINF:-1 tvg-id="Kix UK" tvg-name="Pop Max UK" tvg-logo="http://tugapt.com/picons/kixuk.png" group-title="United Kingdom",Pop Max UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1756
+#EXTINF:-1 tvg-id="LFC TV UK" tvg-name="LFC TV UK" tvg-logo="http://tugapt.com/picons/lfctvuk.png" group-title="United Kingdom",LFC TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1802
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV +1 UK" tvg-logo="http://tugapt.com/picons/mtvuk.png" group-title="United Kingdom",MTV +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1834
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="Rap 2K Music TV UK" tvg-logo="http://tugapt.com/picons/mtv90suk.png" group-title="United Kingdom",Rap 2K Music TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1754
+#EXTINF:-1 tvg-id="MTV Base UK" tvg-name="MTV Base UK" tvg-logo="http://tugapt.com/picons/mtvbaseuk.png" group-title="United Kingdom",MTV Base UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1836
+#EXTINF:-1 tvg-id="MTV 90s UK" tvg-name="MTV Classic UK" tvg-logo="http://tugapt.com/picons/mtvclassicuk.png" group-title="United Kingdom",MTV Classic UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1837
+#EXTINF:-1 tvg-id="MTV Dance UK" tvg-name="MTV Dance UK" tvg-logo="http://tugapt.com/picons/mtvdanceuk.png" group-title="United Kingdom",MTV Dance UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1838
+#EXTINF:-1 tvg-id="MTV Hits UK" tvg-name="MTV Hits UK" tvg-logo="http://tugapt.com/picons/mtvhitsuk.png" group-title="United Kingdom",MTV Hits UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1839
+#EXTINF:-1 tvg-id="MTV Music UK" tvg-name="MTV Music UK" tvg-logo="http://tugapt.com/picons/mtvmusicuk.png" group-title="United Kingdom",MTV Music UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1840
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTV UK" tvg-logo="http://tugapt.com/picons/mtvuk.png" group-title="United Kingdom",MTV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1835
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MU TV HD UK" tvg-logo="http://tugapt.com/picons/mutvhduk.png" group-title="United Kingdom",MU TV HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1797
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV HD UK" tvg-logo="http://tugapt.com/picons/mutvhduk.png" group-title="United Kingdom",MUTV HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1810
+#EXTINF:-1 tvg-id="MUTV UK" tvg-name="MUTV UK" tvg-logo="http://tugapt.com/picons/mutvuk.png" group-title="United Kingdom",MUTV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1809
+#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="http://tugapt.com/picons/more4uk.png" group-title="United Kingdom",More4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1930
+#EXTINF:-1 tvg-id="Motors TV UK" tvg-name="Motors TV HD UK" tvg-logo="http://tugapt.com/picons/motorstvuk.png" group-title="United Kingdom",Motors TV HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1891
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://tugapt.com/picons/natgeowilduk.png" group-title="United Kingdom",Nat Geo Wild UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1889
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. +1 UK" tvg-logo="http://tugapt.com/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1849
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Peppa UK" tvg-logo="http://tugapt.com/picons/nickjrpeppauk.png" group-title="United Kingdom",Nick Jr. Peppa UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1753
+#EXTINF:-1 tvg-id="Nick Jr. Too UK" tvg-name="Nick Jr. Too UK" tvg-logo="http://tugapt.com/picons/nickjrtoouk.png" group-title="United Kingdom",Nick Jr. Too UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1848
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://tugapt.com/picons/nickjruk.png" group-title="United Kingdom",Nick Jr. UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1850
+#EXTINF:-1 tvg-id="NickToons UK" tvg-name="NickToons UK" tvg-logo="http://tugapt.com/picons/nicktoonsuk.png" group-title="United Kingdom",NickToons UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1864
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon +1 UK" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1858
+#EXTINF:-1 tvg-id="Nickelodeon UK" tvg-name="Nickelodeon UK" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="United Kingdom",Nickelodeon UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1859
+#EXTINF:-1 tvg-id="PBS America UK" tvg-name="PBS America UK" tvg-logo="http://tugapt.com/picons/pbsamericauk.png" group-title="United Kingdom",PBS America UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1791
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP +1 UK" tvg-logo="http://tugapt.com/picons/popuk.png" group-title="United Kingdom",POP +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1751
+#EXTINF:-1 tvg-id="POP UK" tvg-name="POP UK" tvg-logo="http://tugapt.com/picons/popuk.png" group-title="United Kingdom",POP UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1752
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick +1 UK" tvg-logo="http://tugapt.com/picons/pickuk.png" group-title="United Kingdom",Pick +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1951
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick UK" tvg-logo="http://tugapt.com/picons/pickuk.png" group-title="United Kingdom",Pick UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1853
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports HD UK" tvg-logo="http://tugapt.com/picons/premiersportshduk.png" group-title="United Kingdom",Premier Sports HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1807
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports 1 UK" tvg-logo="http://tugapt.com/picons/premiersportsuk.png" group-title="United Kingdom",Premier Sports 1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1808
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED +1 UK" tvg-logo="http://tugapt.com/picons/questreduk.png" group-title="United Kingdom",QUEST RED +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1749
+#EXTINF:-1 tvg-id="QUEST RED UK" tvg-name="QUEST RED UK" tvg-logo="http://tugapt.com/picons/questreduk.png" group-title="United Kingdom",QUEST RED UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1750
+#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="http://tugapt.com/picons/questuk.png" group-title="United Kingdom",QUEST UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1890
+#EXTINF:-1 tvg-id="RTE Jr UK" tvg-name="RTÉ Jr UK" tvg-logo="http://tugapt.com/picons/rtejruk.png" group-title="United Kingdom",RTÉ Jr UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1854
+#EXTINF:-1 tvg-id="RTE News Now UK" tvg-name="RTÉ News Now UK" tvg-logo="http://tugapt.com/picons/rtenewsnowuk.png" group-title="United Kingdom",RTÉ News Now UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1748
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One HD UK" tvg-logo="http://tugapt.com/picons/rteonehduk.png" group-title="United Kingdom",RTÉ One HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1933
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTÉ One UK" tvg-logo="http://tugapt.com/picons/rteoneuk.png" group-title="United Kingdom",RTÉ One UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1856
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two HD UK" tvg-logo="http://tugapt.com/picons/rtetwohduk.png" group-title="United Kingdom",RTÉ Two HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1932
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTÉ Two UK" tvg-logo="http://tugapt.com/picons/rtetwouk.png" group-title="United Kingdom",RTÉ Two UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1855
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://tugapt.com/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1800
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="S Crime UK" tvg-logo="http://tugapt.com/picons/reallivesuk.png" group-title="United Kingdom",S Crime UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1952
+#EXTINF:-1 tvg-id="Real Lives UK" tvg-name="Real Lives UK" tvg-logo="http://tugapt.com/picons/reallivesuk.png" group-title="United Kingdom",Real Lives UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1939
+#EXTINF:-1 tvg-id="Really UK" tvg-name="Really UK" tvg-logo="http://tugapt.com/picons/reallyuk.png" group-title="United Kingdom",Really UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1940
+#EXTINF:-1 tvg-id="S4C UK" tvg-name="S4C UK" tvg-logo="http://tugapt.com/picons/s4cuk.png" group-title="United Kingdom",S4C UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1931
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="S 1 HD UK" tvg-logo="http://tugapt.com/picons/sky1hduk.png" group-title="United Kingdom",S 1 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1920
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="S 1 UK" tvg-logo="http://tugapt.com/picons/sky1uk.png" group-title="United Kingdom",S 1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1919
+#EXTINF:-1 tvg-id="Sky 2 UK" tvg-name="Sky 2 UK" tvg-logo="http://tugapt.com/picons/sky2uk.png" group-title="United Kingdom",Sky 2 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1918
+#EXTINF:-1 tvg-id="Sky Arts UK" tvg-name="S Arts UK" tvg-logo="http://tugapt.com/picons/skyartsuk.png" group-title="United Kingdom",S Arts UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1917
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="S Atlantic +1 UK" tvg-logo="http://tugapt.com/picons/skyatlanticplus1uk.png" group-title="United Kingdom",S Atlantic +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1921
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="S Atlantic UK" tvg-logo="http://tugapt.com/picons/skyatlanticuk.png" group-title="United Kingdom",S Atlantic UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1922
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Cinema Action & Adventure HD UK" tvg-logo="http://tugapt.com/picons/skycinemaactionandadventurehduk.png" group-title="United Kingdom",Sky Cinema Action & Adventure HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/351
+#EXTINF:-1 tvg-id="Sky Movies Action Adventure UK" tvg-name="Sky Cinema Action & Adventure UK" tvg-logo="http://tugapt.com/picons/skycinemaactionandadventureuk.png" group-title="United Kingdom",Sky Cinema Action & Adventure UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/352
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Cinema Comedy HD UK" tvg-logo="http://tugapt.com/picons/skycinemacomedyhduk.png" group-title="United Kingdom",Sky Cinema Comedy HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/349
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Cinema Comedy UK" tvg-logo="http://tugapt.com/picons/skycinemacomedyuk.png" group-title="United Kingdom",Sky Cinema Comedy UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/350
+#EXTINF:-1 tvg-id="Sky Movies Crime Thriller UK" tvg-name="S Cinema Crime & Thriller UK" tvg-logo="http://tugapt.com/picons/skycinemacrimeandthrilleruk.png" group-title="United Kingdom",S Cinema Crime & Thriller UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/348
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-name="S Cinema Drama & Romance UK" tvg-logo="http://tugapt.com/picons/skycinemadramaandromanceuk.png" group-title="United Kingdom",S Cinema Drama & Romance UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/345
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Cinema Family HD UK" tvg-logo="http://tugapt.com/picons/skycinemafamilyhduk.png" group-title="United Kingdom",Sky Cinema Family HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/343
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Cinema Family UK" tvg-logo="http://tugapt.com/picons/skycinemafamilyuk.png" group-title="United Kingdom",Sky Cinema Family UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/344
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="S Cinema Greats UK" tvg-logo="http://tugapt.com/picons/skycinemagreatsuk.png" group-title="United Kingdom",S Cinema Greats UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/342
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="S Cinema Premiere +1 UK" tvg-logo="http://tugapt.com/picons/skycinemapremiereplus1uk.png" group-title="United Kingdom",S Cinema Premiere +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1824
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="S Cinema Premiere UK" tvg-logo="http://tugapt.com/picons/skycinemapremiereuk.png" group-title="United Kingdom",S Cinema Premiere UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/341
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-name="Sky Cinema Sci-Fi & Horror UK" tvg-logo="http://tugapt.com/picons/skycinemascifiandhorroruk.png" group-title="United Kingdom",Sky Cinema Sci-Fi & Horror UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/340
+#EXTINF:-1 tvg-id="Sky Cinema Select UK" tvg-name="Sky Cinema Select UK" tvg-logo="http://tugapt.com/picons/skycinemaselectuk.png" group-title="United Kingdom",Sky Cinema Select UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/339
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="Sky Living UK" tvg-logo="http://tugapt.com/picons/skylivinguk.png" group-title="United Kingdom",Sky Living UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1924
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="S News UK" tvg-logo="http://tugapt.com/picons/skynewsuk.png" group-title="United Kingdom",S News UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1925
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports Action HD UK" tvg-logo="http://tugapt.com/picons/skysports3hduk.png" group-title="United Kingdom",Sky Sports Action HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/333
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports Action UK" tvg-logo="http://tugapt.com/picons/skysports3uk.png" group-title="United Kingdom",Sky Sports Action UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/374
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="S Sports Arena HD UK" tvg-logo="http://tugapt.com/picons/skysportsarenahduk.png" group-title="United Kingdom",S Sports Arena HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/6201
+#EXTINF:-1 tvg-id="Sky Sports Arena HD UK" tvg-name="S Sports Arena UK" tvg-logo="http://tugapt.com/picons/skysportsarenauk.png" group-title="United Kingdom",S Sports Arena UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/6200
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="S Sports Cricket HD UK" tvg-logo="http://tugapt.com/picons/skysports2hduk.png" group-title="United Kingdom",S Sports Cricket HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/334
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports Cricket UK" tvg-logo="http://tugapt.com/picons/skysports2uk.png" group-title="United Kingdom",Sky Sports Cricket UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/375
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://tugapt.com/picons/skysportsf1hduk.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/371
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="S Sports F1 UK" tvg-logo="http://tugapt.com/picons/skysportsf1uk.png" group-title="United Kingdom",S Sports F1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/337
+#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="Sky Sports Football HD UK" tvg-logo="http://tugapt.com/picons/skysportsfootballhduk.png" group-title="United Kingdom",Sky Sports Football HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/6204
+#EXTINF:-1 tvg-id="Sky Sports Football HD UK" tvg-name="Sky Sports Football UK" tvg-logo="http://tugapt.com/picons/skysportsfootballuk.png" group-title="United Kingdom",Sky Sports Football UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/6203
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://tugapt.com/picons/skysports4hduk.png" group-title="United Kingdom",Sky Sports Golf HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/332
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports Golf UK" tvg-logo="http://tugapt.com/picons/skysports4uk.png" group-title="United Kingdom",Sky Sports Golf UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/373
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="S Sports Main Event HD UK" tvg-logo="http://tugapt.com/picons/skysports1hduk.png" group-title="United Kingdom",S Sports Main Event HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/335
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports Main Event UK" tvg-logo="http://tugapt.com/picons/skysports1uk.png" group-title="United Kingdom",Sky Sports Main Event UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/376
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="S Sports Mix HD UK" tvg-logo="http://tugapt.com/picons/skysportsmixhduk.png" group-title="United Kingdom",S Sports Mix HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1821
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HQ UK" tvg-logo="http://tugapt.com/picons/skysportsnewshquk.png" group-title="United Kingdom",Sky Sports News HQ UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/336
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="S Sports Premier League HD UK" tvg-logo="http://tugapt.com/picons/skysports5hduk.png" group-title="United Kingdom",S Sports Premier League HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/331
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports Premier League UK" tvg-logo="http://tugapt.com/picons/skysports5uk.png" group-title="United Kingdom",Sky Sports Premier League UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/372
+#EXTINF:-1 tvg-id="Sony UK" tvg-name="GREAT! tv UK" tvg-logo="http://tugapt.com/picons/sonyuk.png" group-title="United Kingdom",GREAT! tv UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1943
+#EXTINF:-1 tvg-id="Starz TV UK" tvg-name="Starz TV UK" tvg-logo="http://tugapt.com/picons/starztvuk.png" group-title="United Kingdom",Starz TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1746
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy +1 UK" tvg-logo="http://tugapt.com/picons/syfyuk.png" group-title="United Kingdom",Syfy +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1899
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="Syfy UK" tvg-logo="http://tugapt.com/picons/syfyuk.png" group-title="United Kingdom",Syfy UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1900
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM +1 UK" tvg-logo="http://tugapt.com/picons/tcmuk.png" group-title="United Kingdom",TCM +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1954
+#EXTINF:-1 tvg-id="TCM UK" tvg-name="TCM UK" tvg-logo="http://tugapt.com/picons/tcmuk.png" group-title="United Kingdom",TCM UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1955
+#EXTINF:-1 tvg-id="TG4 UK" tvg-name="TG4 UK" tvg-logo="http://tugapt.com/picons/tg4uk.png" group-title="United Kingdom",TG4 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1793
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC +1 UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/tlc-plus-uk.png?raw=true" group-title="United Kingdom",TLC +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1902
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="http://tugapt.com/picons/tlcuk.png" group-title="United Kingdom",TLC UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1903
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry HD UK" tvg-logo="https://logodix.com/logo/330403.png" group-title="United Kingdom",Tom And Jerry HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/10560
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 +1 UK" tvg-logo="http://tugapt.com/picons/tv3plus1uk.png" group-title="United Kingdom",TV3 +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1957
+#EXTINF:-1 tvg-id="TV3 UK" tvg-name="TV3 UK" tvg-logo="http://tugapt.com/picons/tv3uk.png" group-title="United Kingdom",TV3 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1958
+#EXTINF:-1 tvg-id="The Box UK" tvg-name="The Box UK" tvg-logo="http://tugapt.com/picons/theboxuk.png" group-title="United Kingdom",The Box UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1745
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop +1 UK" tvg-logo="http://tugapt.com/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1860
+#EXTINF:-1 tvg-id="Tiny Pop UK" tvg-name="Tiny Pop UK" tvg-logo="http://tugapt.com/picons/tinypopuk.png" group-title="United Kingdom",Tiny Pop UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1861
+#EXTINF:-1 tvg-id="UTV UK" tvg-name="UTV HD UK" tvg-logo="http://tugapt.com/picons/utvuk.png" group-title="United Kingdom",UTV HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1959
+#EXTINF:-1 tvg-id="VH1 UK" tvg-name="VH1 UK" tvg-logo="http://tugapt.com/picons/vh1uk.png" group-title="United Kingdom",VH1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1841
+#EXTINF:-1 tvg-id="" tvg-name="Viceland UK" tvg-logo="http://tugapt.com/picons/vicelanduk.png" group-title="United Kingdom",Viceland UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1953
+#EXTINF:-1 tvg-id="W UK" tvg-name="W +1 UK" tvg-logo="http://tugapt.com/picons/wuk.png" group-title="United Kingdom",W +1 UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1904
+#EXTINF:-1 tvg-id="W UK" tvg-name="W UK" tvg-logo="http://tugapt.com/picons/wuk.png" group-title="United Kingdom",W UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1905
+#EXTINF:-1 tvg-id="YESTERDAY UK" tvg-name="YESTERDAY UK" tvg-logo="http://tugapt.com/picons/yesterdayuk.png" group-title="United Kingdom",YESTERDAY UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1906
+#EXTINF:-1 tvg-id="tru TV UK" tvg-name="tru TV UK" tvg-logo="http://tugapt.com/picons/trutvuk.png" group-title="United Kingdom",tru TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1956
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png?raw=true" group-title="United Kingdom",Virgin Media One UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75511
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png?raw=true" group-title="United Kingdom",Virgin Media Two UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75512
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png?raw=true" group-title="United Kingdom",Virgin Media Three UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75514
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV FHD UK" tvg-logo="https://banner2.cleanpng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg" group-title="United Kingdom",Red Bull TV FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75515
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV UK" tvg-logo="http://tugapt.com/picons/ducktvnl.png" group-title="United Kingdom",Duck TV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75516
+#EXTINF:-1 tvg-id="SSS Witness UK" tvg-name="Sky Witness HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-witness-uk.png?raw=true" group-title="United Kingdom",Sky Witness HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75517
+#EXTINF:-1 tvg-id="" tvg-name="British Muslim UK" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/5/5485.1445606492.png" group-title="United Kingdom",British Muslim UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75518
+#EXTINF:-1 tvg-id="London Live UK" tvg-name="London Live UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/london-live-uk.png?raw=true" group-title="United Kingdom",London Live UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75519
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Women FHD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-cinema-superheroes-hz-uk.png?raw=true" group-title="United Kingdom",Sky Cinema Women FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75521
+#EXTINF:-1 tvg-id="" tvg-name="Horse &amp; Country UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/horse-and-country-uk.png?raw=true" group-title="United Kingdom",Horse &amp; Country UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75522
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports UK" tvg-logo="https://cdn.imgbin.com/11/9/23/imgbin-setanta-sports-logo-television-brand-geography-history-armenian-U8vxbrYFGSShKhnRHaCP7Z607.jpg" group-title="United Kingdom",Setanta Sports UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/75523
+#EXTINF:-1 tvg-id="NOW 80s UK" tvg-name="Now 80s UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/now-80s-uk.png?raw=true" group-title="United Kingdom",Now 80s UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/78219
+#EXTINF:-1 tvg-id="SSS Comedy UK" tvg-name="Sky Comedy HD UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sky-comedy-de.png" group-title="United Kingdom",Sky Comedy HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/78291
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFESTYLE UK" tvg-logo="https://thumbnail.imgbin.com/25/12/19/imgbin-bbc-lifestyle-bbc-entertainment-television-channel-bbc-hausa-a4sWKSBPEF0aFVQh0jtVSP6cA_t.jpg" group-title="United Kingdom",BBC LIFESTYLE UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/79820
+#EXTINF:-1 tvg-id="Clubland TV UK" tvg-name="Clubland VIP UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/clubland-uk.png?raw=true" group-title="United Kingdom VIP",Clubland VIP UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/80957
+#EXTINF:-1 tvg-id="Clubland TV UK" tvg-name="Club MTV UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/mtv-club-uk.png?raw=true" group-title="United Kingdom",Club MTV UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/82755
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network FHD UK" tvg-logo="http://tugapt.com/picons/fightnetworkpt.png" group-title="United Kingdom",Fight Network FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/83532
+#EXTINF:-1 tvg-id="" tvg-name="Revelation UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/revelation-tv-uk.png?raw=true" group-title="United Kingdom",Revelation UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/89940
+#EXTINF:-1 tvg-id="SSS Nature UK" tvg-name="Sky NATURE HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-nature-uk.png?raw=true" group-title="United Kingdom",Sky NATURE HD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/89975
+#EXTINF:-1 tvg-id="SSS Documentaries UK" tvg-name="Sky DOCUMENTARIES FHD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-documentaries-uk.png?raw=true" group-title="United Kingdom",Sky DOCUMENTARIES FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/89976
+#EXTINF:-1 tvg-id="MTV UK" tvg-name="MTA 2 FHD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Mta2_al_taeni.jpg" group-title="United Kingdom",MTA 2 FHD UK
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/90059
 
 
 
