@@ -1195,6 +1195,7 @@ http://zkbvzkj.megahdtv.xyz/live/1103581436/4099381829/28287.m3u8
 
 
 
+
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTM3U url-tvg="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml" tvg-shift=0 m3uautoload=1
@@ -1847,12 +1848,186 @@ http://220.133.220.232:8571/http/220.130.87.218:8078/hls/42/80/fjttv.m3u8
 
 
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="台灣",民視台灣台
+http://tv543.cc/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 group-title="台灣",民視
+http://tv543.cc/litv.php?id=4gtv-4gtv002
+#EXTINF:-1 group-title="台灣",民視第一台
+http://tv543.cc/litv.php?id=4gtv-4gtv003
+#EXTINF:-1 group-title="台灣",民視綜藝
+http://tv543.cc/litv.php?id=4gtv-4gtv004
+#EXTINF:-1 group-title="台灣",豬哥亮歌廳秀
+http://tv543.cc/litv.php?id=4gtv-4gtv006
+#EXTINF:-1 group-title="台灣",中天新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="台灣",非凡新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv010
+#EXTINF:-1 group-title="台灣",影迷數位電影台
+http://tv543.cc/litv.php?id=4gtv-4gtv011
+#EXTINF:-1 group-title="台灣",視納華仁紀實頻道
+http://tv543.cc/litv.php?id=4gtv-4gtv013
+#EXTINF:-1 group-title="台灣",時尚運動X
+http://tv543.cc/litv.php?id=4gtv-4gtv014
+#EXTINF:-1 group-title="台灣",GLOBETROTTER
+http://tv543.cc/litv.php?id=4gtv-4gtv016
+#EXTINF:-1 group-title="台灣",amc電影台
+http://tv543.cc/litv.php?id=4gtv-4gtv017
+#EXTINF:-1 group-title="台灣",達文西頻道
+http://tv543.cc/litv.php?id=4gtv-4gtv018
+#EXTINF:-1 group-title="台灣",八大精彩台
+http://tv543.cc/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 group-title="台灣",八大綜藝台
+http://tv543.cc/litv.php?id=4gtv-4gtv039
+#EXTINF:-1 group-title="台灣",中視
+http://tv543.cc/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="台灣",華視
+http://tv543.cc/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="台灣",公視戲劇
+http://tv543.cc/litv.php?id=4gtv-4gtv042
+#EXTINF:-1 group-title="台灣",客家電視台
+http://tv543.cc/litv.php?id=4gtv-4gtv043
+#EXTINF:-1 group-title="台灣",靖天卡通台
+http://tv543.cc/litv.php?id=4gtv-4gtv044
+#EXTINF:-1 group-title="台灣",靖洋戲劇台
+http://tv543.cc/litv.php?id=4gtv-4gtv045
+#EXTINF:-1 group-title="台灣",靖天綜合台
+http://tv543.cc/litv.php?id=4gtv-4gtv046
+#EXTINF:-1 group-title="台灣",靖天日本台
+http://tv543.cc/litv.php?id=4gtv-4gtv047
+#EXTINF:-1 group-title="台灣",非凡商業
+http://tv543.cc/litv.php?id=4gtv-4gtv048
+#EXTINF:-1 group-title="台灣",采昌影劇
+http://tv543.cc/litv.php?id=4gtv-4gtv049
+#EXTINF:-1 group-title="台灣",台視新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="台灣",華視新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="台灣",GinxTV
+http://tv543.cc/litv.php?id=4gtv-4gtv053
+#EXTINF:-1 group-title="台灣",靖天歡樂台
+http://tv543.cc/litv.php?id=4gtv-4gtv054
+#EXTINF:-1 group-title="台灣",靖天映畫
+http://tv543.cc/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 group-title="台灣",台視財經
+http://tv543.cc/litv.php?id=4gtv-4gtv056
+#EXTINF:-1 group-title="台灣",靖洋卡通台
+http://tv543.cc/litv.php?id=4gtv-4gtv057
+#EXTINF:-1 group-title="台灣",靖天戲劇台
+http://tv543.cc/litv.php?id=4gtv-4gtv058
+#EXTINF:-1 group-title="台灣",古典音樂台
+http://tv543.cc/litv.php?id=4gtv-4gtv059
+#EXTINF:-1 group-title="台灣",靖天電影台
+http://tv543.cc/litv.php?id=4gtv-4gtv061
+#EXTINF:-1 group-title="台灣",靖天育樂台
+http://tv543.cc/litv.php?id=4gtv-4gtv062
+#EXTINF:-1 group-title="台灣",靖天國際台
+http://tv543.cc/litv.php?id=4gtv-4gtv063
+#EXTINF:-1 group-title="台灣",中視菁采
+http://tv543.cc/litv.php?id=4gtv-4gtv064
+#EXTINF:-1 group-title="台灣",靖天資訊台
+http://tv543.cc/litv.php?id=4gtv-4gtv065
+#EXTINF:-1 group-title="台灣",台視
+http://tv543.cc/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="台灣",tvbs精采台
+http://tv543.cc/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 group-title="台灣",tvbs歡樂台
+http://tv543.cc/litv.php?id=4gtv-4gtv068
+#EXTINF:-1 group-title="台灣",愛爾達娛樂
+http://tv543.cc/litv.php?id=4gtv-4gtv070
+#EXTINF:-1 group-title="台灣",tvbs新聞台
+http://tv543.cc/litv.php?id=4gtv-4gtv072
+#EXTINF:-1 group-title="台灣",tvbs
+http://tv543.cc/litv.php?id=4gtv-4gtv073
+#EXTINF:-1 group-title="台灣",中視新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="台灣",鏡新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv075
+#EXTINF:-1 group-title="台灣",CATCHPLAY電影台
+http://tv543.cc/litv.php?id=4gtv-4gtv076
+#EXTINF:-1 group-title="台灣",TRACE SPORTS STAR
+http://tv543.cc/litv.php?id=4gtv-4gtv077
+#EXTINF:-1 group-title="台灣",阿里郎
+http://tv543.cc/litv.php?id=4gtv-4gtv079
+#EXTINF:-1 group-title="台灣",中視經典
+http://tv543.cc/litv.php?id=4gtv-4gtv080
+#EXTINF:-1 group-title="台灣",TRACE URBAN
+http://tv543.cc/litv.php?id=4gtv-4gtv082
+#EXTINF:-1 group-title="台灣",MEZZO LIVE
+http://tv543.cc/litv.php?id=4gtv-4gtv083
+#EXTINF:-1 group-title="台灣",國會頻道1
+http://tv543.cc/litv.php?id=4gtv-4gtv084
+#EXTINF:-1 group-title="台灣",國會頻道2
+http://tv543.cc/litv.php?id=4gtv-4gtv085
+#EXTINF:-1 group-title="台灣",智林體育台
+http://tv543.cc/litv.php?id=4gtv-4gtv101
+#EXTINF:-1 group-title="台灣",國際財經
+http://tv543.cc/litv.php?id=4gtv-4gtv104
+#EXTINF:-1 group-title="台灣",第1商業台
+http://tv543.cc/litv.php?id=4gtv-4gtv109
+#EXTINF:-1 group-title="台灣",東森新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="台灣",東森財經新聞
+http://tv543.cc/litv.php?id=4gtv-4gtv153
+#EXTINF:-1 group-title="台灣",民視
+http://tv543.cc/litv.php?id=4gtv-4gtv155
+#EXTINF:-1 group-title="台灣",民視台灣台
+http://tv543.cc/litv.php?id=4gtv-4gtv156
+#EXTINF:-1 group-title="台灣",美國之音
+http://tv543.cc/litv.php?id=litv-ftv03
+#EXTINF:-1 group-title="台灣",民視旅遊
+http://tv543.cc/litv.php?id=litv-ftv07
+#EXTINF:-1 group-title="台灣",民視影劇
+http://tv543.cc/litv.php?id=litv-ftv09
+#EXTINF:-1 group-title="台灣",半島新聞
+http://tv543.cc/litv.php?id=litv-ftv10
+#EXTINF:-1 group-title="台灣",民視新聞台
+http://tv543.cc/litv.php?id=litv-ftv13
+#EXTINF:-1 group-title="台灣",愛放動漫
+http://tv543.cc/litv.php?id=litv-ftv15
+#EXTINF:-1 group-title="台灣",好訊息
+http://tv543.cc/litv.php?id=litv-ftv16
+#EXTINF:-1 group-title="台灣",好訊息2台
+http://tv543.cc/litv.php?id=litv-ftv17
+#EXTINF:-1 group-title="台灣",龍華卡通
+http://tv543.cc/litv.php?id=litv-longturn01
+#EXTINF:-1 group-title="台灣",龍華電影
+http://tv543.cc/litv.php?id=litv-longturn03
+#EXTINF:-1 group-title="台灣",博斯魅力
+http://tv543.cc/litv.php?id=litv-longturn04
+#EXTINF:-1 group-title="台灣",博斯高球1
+http://tv543.cc/litv.php?id=litv-longturn05
+#EXTINF:-1 group-title="台灣",博斯高球2
+http://tv543.cc/litv.php?id=litv-longturn06
+#EXTINF:-1 group-title="台灣",博斯運動1
+http://tv543.cc/litv.php?id=litv-longturn07
+#EXTINF:-1 group-title="台灣",博斯運動2
+http://tv543.cc/litv.php?id=litv-longturn08
+#EXTINF:-1 group-title="台灣",博斯網球
+http://tv543.cc/litv.php?id=litv-longturn09
+#EXTINF:-1 group-title="台灣",博斯無限
+http://tv543.cc/litv.php?id=litv-longturn10
+#EXTINF:-1 group-title="台灣",龍華日韓
+http://tv543.cc/litv.php?id=litv-longturn11
+#EXTINF:-1 group-title="台灣",龍華偶像
+http://tv543.cc/litv.php?id=litv-longturn12
+#EXTINF:-1 group-title="台灣",博斯無限2
+http://tv543.cc/litv.php?id=litv-longturn13
+#EXTINF:-1 group-title="台灣",寰宇新聞台
+http://tv543.cc/litv.php?id=litv-longturn14
+#EXTINF:-1 group-title="台灣",寰宇新聞台灣台
+http://tv543.cc/litv.php?id=litv-longturn15
+#EXTINF:-1 group-title="台灣",亞洲旅遊台
+http://tv543.cc/litv.php?id=litv-longturn17
+#EXTINF:-1 group-title="台灣",龍華戲劇
+http://tv543.cc/litv.php?id=litv-longturn18
+#EXTINF:-1 group-title="台灣",Smart知識台
+http://tv543.cc/litv.php?id=litv-longturn19
+#EXTINF:-1 group-title="台灣",生活英語台
+http://tv543.cc/litv.php?id=litv-longturn20
+#EXTINF:-1 group-title="台灣",龍華經典
+http://tv543.cc/litv.php?id=litv-longturn21
+#EXTINF:-1 group-title="台灣",台灣戲劇台
+http://tv543.cc/litv.php?id=litv-longturn22
 
 
 
@@ -2614,6 +2789,316 @@ http://suprino.xyz:80/W8MEP61/2X2H702/1125006
 http://suprino.xyz:80/W8MEP61/2X2H702/1125007
 #EXTINF:-1 tvg-id="" tvg-name="VIP - NICK MUSIC" tvg-logo="http://go4.pw/EUROPE/FRANCE/NICK MUSIC.png" group-title="音樂頻道",NICK MUSIC
 http://suprino.xyz:80/W8MEP61/2X2H702/1125008
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="4GTV 綜合",民視
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv002
+#EXTINF:-1 group-title="4GTV 綜合",民視第一台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv003
+#EXTINF:-1 group-title="4GTV 綜合",民視台灣台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv001
+#EXTINF:-1 group-title="4GTV 綜合",中視
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv040
+#EXTINF:-1 group-title="4GTV 綜合",中視菁采台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv064
+#EXTINF:-1 group-title="4GTV 綜合",中天亞洲台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv109
+#EXTINF:-1 group-title="4GTV 綜合",華視
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv041
+#EXTINF:-1 group-title="4GTV 綜合",靖天綜合台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv046
+#EXTINF:-1 group-title="4GTV 綜合",靖天國際台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv063
+#EXTINF:-1 group-title="4GTV 綜合",靖天日本台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv047
+#EXTINF:-1 group-title="4GTV 綜合",三立綜合台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/169
+#EXTINF:-1 group-title="4GTV 綜合",台視
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv066
+#EXTINF:-1 group-title="4GTV 綜合",Arirang TV
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv079
+#EXTINF:-1 group-title="4GTV 綜合",Bloomberg TV
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/283
+
+
+#EXTINF:-1 group-title="4GTV 新聞財經",民視新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13
+#EXTINF:-1 group-title="4GTV 新聞財經",中視新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074
+#EXTINF:-1 group-title="4GTV 新聞財經",中天新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv009
+#EXTINF:-1 group-title="4GTV 新聞財經",華視新聞
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052
+#EXTINF:-1 group-title="4GTV 新聞財經",靖天資訊台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv065
+#EXTINF:-1 group-title="4GTV 新聞財經",寰宇新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn14
+#EXTINF:-1 group-title="4GTV 新聞財經",寰宇新聞台灣台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn15
+#EXTINF:-1 group-title="4GTV 新聞財經",寰宇財經台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn23
+#EXTINF:-1 group-title="4GTV 新聞財經",TVBS 新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072
+#EXTINF:-1 group-title="4GTV 新聞財經",三立 iNEWS
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/229
+#EXTINF:-1 group-title="4GTV 新聞財經",台視新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv051
+#EXTINF:-1 group-title="4GTV 新聞財經",台視財經台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv056
+#EXTINF:-1 group-title="4GTV 新聞財經",東森新聞
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv152
+#EXTINF:-1 group-title="4GTV 新聞財經",東森財經新聞
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153
+#EXTINF:-1 group-title="4GTV 新聞財經",非凡新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv010
+#EXTINF:-1 group-title="4GTV 新聞財經",非凡商業台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv048
+#EXTINF:-1 group-title="4GTV 新聞財經",鏡電視新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv075
+#EXTINF:-1 group-title="4GTV 新聞財經",CNBC Asia 財經台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/235
+#EXTINF:-1 group-title="4GTV 新聞財經",VOA 美國之音
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv03
+#EXTINF:-1 group-title="4GTV 新聞財經",DW德國之聲
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/226
+#EXTINF:-1 group-title="4GTV 新聞財經",SBN 全球財經台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/224
+#EXTINF:-1 group-title="4GTV 新聞財經",半島國際新聞台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv10
+#EXTINF:-1 group-title="4GTV 新聞財經",第1商業台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv104
+
+
+#EXTINF:-1 group-title="4GTV 電影戲劇",民視影劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv09
+#EXTINF:-1 group-title="4GTV 電影戲劇",中視經典台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv080
+#EXTINF:-1 group-title="4GTV 電影戲劇",靖天戲劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv058
+#EXTINF:-1 group-title="4GTV 電影戲劇",靖天電影台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv061
+#EXTINF:-1 group-title="4GTV 電影戲劇",龍華偶像台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn12
+#EXTINF:-1 group-title="4GTV 電影戲劇",龍華戲劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn18
+#EXTINF:-1 group-title="4GTV 電影戲劇",龍華經典台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn21
+#EXTINF:-1 group-title="4GTV 電影戲劇",龍華電影台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn03
+#EXTINF:-1 group-title="4GTV 電影戲劇",靖洋戲劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv045
+#EXTINF:-1 group-title="4GTV 電影戲劇",TVBS 台劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/285
+#EXTINF:-1 group-title="4GTV 電影戲劇",影迷數位紀實台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/212
+#EXTINF:-1 group-title="4GTV 電影戲劇",影迷數位電影台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv011
+#EXTINF:-1 group-title="4GTV 電影戲劇",AMC 電影台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv017
+#EXTINF:-1 group-title="4GTV 電影戲劇",CatchPlay 電影台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv076
+#EXTINF:-1 group-title="4GTV 電影戲劇",My Cinema Europe HD 我的歐洲電影
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/176
+#EXTINF:-1 group-title="4GTV 電影戲劇",公視戲劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv042
+#EXTINF:-1 group-title="4GTV 電影戲劇",采昌影劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv049
+#EXTINF:-1 group-title="4GTV 電影戲劇",台灣戲劇台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn22
+#EXTINF:-1 group-title="4GTV 電影戲劇",戲劇免費看 1台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/270
+#EXTINF:-1 group-title="4GTV 電影戲劇",戲劇免費看 2台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/244
+#EXTINF:-1 group-title="4GTV 電影戲劇",經典電影台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/201
+#EXTINF:-1 group-title="4GTV 電影戲劇",電影免費看 2台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/245
+#EXTINF:-1 group-title="4GTV 電影戲劇",電影原聲台 CMusic
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/218
+#EXTINF:-1 group-title="4GTV 電影戲劇",花系列 經典劇場
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/279
+#EXTINF:-1 group-title="4GTV 電影戲劇",CinemaWorld
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/225
+#EXTINF:-1 group-title="4GTV 電影戲劇",HITS 頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/186
+#EXTINF:-1 group-title="4GTV 電影戲劇",Rock Action
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/180
+#EXTINF:-1 group-title="4GTV 電影戲劇",Rock Entertainment
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/275
+#EXTINF:-1 group-title="4GTV 電影戲劇",金光布袋戲
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/236
+#EXTINF:-1 group-title="4GTV 電影戲劇",霹靂布袋戲
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/301
+
+
+#EXTINF:-1 group-title="4GTV 生活旅遊",民視旅遊台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv07
+#EXTINF:-1 group-title="4GTV 生活旅遊",ELTA 生活旅遊
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/237
+#EXTINF:-1 group-title="4GTV 生活旅遊",ELTV 生活英語
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn20
+#EXTINF:-1 group-title="4GTV 生活旅遊",亞洲旅遊台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn17
+#EXTINF:-1 group-title="4GTV 生活旅遊",Global Trekker
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/252
+#EXTINF:-1 group-title="4GTV 生活旅遊",LUXE TV
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/175
+#EXTINF:-1 group-title="4GTV 生活旅遊",Pet Club TV
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/182
+#EXTINF:-1 group-title="4GTV 生活旅遊",TV5MONDE Style
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/178
+#EXTINF:-1 group-title="4GTV 生活旅遊",車迷 TV
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/160
+#EXTINF:-1 group-title="4GTV 生活旅遊",Love Nature
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/139
+#EXTINF:-1 group-title="4GTV 生活旅遊",Fun 探索娛樂台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/274
+#EXTINF:-1 group-title="4GTV 生活旅遊",幸福空間居家台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/168
+
+
+#EXTINF:-1 group-title="4GTV 音樂綜藝",民視綜藝台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv004
+#EXTINF:-1 group-title="4GTV 音樂綜藝",靖天育樂台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv062
+#EXTINF:-1 group-title="4GTV 音樂綜藝",靖天歡樂台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv054
+#EXTINF:-1 group-title="4GTV 音樂綜藝",龍華日韓台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn11
+#EXTINF:-1 group-title="4GTV 音樂綜藝",TVBS 綜藝台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/284
+#EXTINF:-1 group-title="4GTV 音樂綜藝",TVBS 歡樂台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv068
+#EXTINF:-1 group-title="4GTV 音樂綜藝",TVBS 精采台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv067
+#EXTINF:-1 group-title="4GTV 音樂綜藝",八大精彩台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv034
+#EXTINF:-1 group-title="4GTV 音樂綜藝",八大綜藝台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv039
+#EXTINF:-1 group-title="4GTV 音樂綜藝",ELTA 娛樂台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv070
+#EXTINF:-1 group-title="4GTV 音樂綜藝",Classica 古典樂
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv059
+#EXTINF:-1 group-title="4GTV 音樂綜藝",Lifetime 娛樂頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/217
+#EXTINF:-1 group-title="4GTV 音樂綜藝",MTV Live HD 音樂頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/213
+#EXTINF:-1 group-title="4GTV 音樂綜藝",Mezzo Live
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv083
+#EXTINF:-1 group-title="4GTV 音樂綜藝",豬哥亮歌廳秀
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv006
+#EXTINF:-1 group-title="4GTV 音樂綜藝",Trace Urban
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv082
+#EXTINF:-1 group-title="4GTV 音樂綜藝",韓國娛樂台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv016
+
+
+#EXTINF:-1 group-title="4GTV 少兒",靖天映畫台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv055
+#EXTINF:-1 group-title="4GTV 少兒",靖天卡通台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv044
+#EXTINF:-1 group-title="4GTV 少兒",龍華卡通台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn01
+#EXTINF:-1 group-title="4GTV 少兒",靖洋卡通 Nice Bingo
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv057
+#EXTINF:-1 group-title="4GTV 少兒",DreamWorks 夢工廠動畫
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/282
+#EXTINF:-1 group-title="4GTV 少兒",Nickelodeon
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/185
+#EXTINF:-1 group-title="4GTV 少兒",Nick Jr. 兒童頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/219
+#EXTINF:-1 group-title="4GTV 少兒",i-Fun 動漫台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv15
+#EXTINF:-1 group-title="4GTV 少兒",兒童卡通台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/269
+#EXTINF:-1 group-title="4GTV 少兒",精選動漫台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/204
+#EXTINF:-1 group-title="4GTV 少兒",經典卡通台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/202
+#EXTINF:-1 group-title="4GTV 少兒",達文西頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv018
+#EXTINF:-1 group-title="4GTV 少兒",超人力霸王整套看
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/278
+#EXTINF:-1 group-title="4GTV 少兒",MOMO 親子台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/231
+#EXTINF:-1 group-title="4GTV 少兒",LiveABC 互動英語台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/188
+
+
+#EXTINF:-1 group-title="4GTV 其他",TVBS
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv073
+#EXTINF:-1 group-title="4GTV 其他",History 歷史頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/214
+#EXTINF:-1 group-title="4GTV 其他",CI 罪案偵查頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/215
+#EXTINF:-1 group-title="4GTV 其他",Smart 知識台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn19
+#EXTINF:-1 group-title="4GTV 其他",視納華仁紀實頻道
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv013
+#EXTINF:-1 group-title="4GTV 其他",原住民族電視台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/273
+#EXTINF:-1 group-title="4GTV 其他",客家電視台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv043
+#EXTINF:-1 group-title="4GTV 其他",滾動力 Rollor
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/249
+#EXTINF:-1 group-title="4GTV 其他",好消息
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv16
+#EXTINF:-1 group-title="4GTV 其他",好消息2台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv17
+#EXTINF:-1 group-title="4GTV 其他",大愛電視
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/209
+#EXTINF:-1 group-title="4GTV 其他",大愛電視2
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/230
+#EXTINF:-1 group-title="4GTV 其他",人間衛視
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/210
+#EXTINF:-1 group-title="4GTV 其他",國會頻道1
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv084
+#EXTINF:-1 group-title="4GTV 其他",國會頻道2
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv085
+#EXTINF:-1 group-title="4GTV 其他",東森購物一台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/173
+#EXTINF:-1 group-title="4GTV 其他",東森購物二台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/174
+#EXTINF:-1 group-title="4GTV 其他",東森購物三台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/287
+#EXTINF:-1 group-title="4GTV 其他",東森購物四台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/286
+
+#EXTINF:-1 group-title="4GTV 體育",博斯運動一台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn07
+#EXTINF:-1 group-title="4GTV 體育",博斯運動二台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn08
+#EXTINF:-1 group-title="4GTV 體育",博斯無限台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn10
+#EXTINF:-1 group-title="4GTV 體育",博斯無限二台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn13
+#EXTINF:-1 group-title="4GTV 體育",博斯網球台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn09
+#EXTINF:-1 group-title="4GTV 體育",博斯高球台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn05
+#EXTINF:-1 group-title="4GTV 體育",博斯高球二台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn06
+#EXTINF:-1 group-title="4GTV 體育",博斯魅力台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn04
+#EXTINF:-1 group-title="4GTV 體育",GINX Esports TV
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv053
+#EXTINF:-1 group-title="4GTV 體育",TechStorm
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/181
+#EXTINF:-1 group-title="4GTV 體育",時尚運動X
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/277
+#EXTINF:-1 group-title="4GTV 體育",智林體育台
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv101
+#EXTINF:-1 group-title="4GTV 體育",TraceSports
+https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv077
+
+
+
+
 
 
 
