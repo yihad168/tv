@@ -145,6 +145,64 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 
 
 
+#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#Tokyo1
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
+Http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="DTV1 (720P)" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#BS1
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+http://vthanh.utako.moe/BS11/index.m3u8
+#BS2
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K-test
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV-test
+http://luong.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1-test
+http://luong.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2-test
+http://luong.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3-test
+http://luong.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="BS1 (720P)" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4-test
+http://luong.utako.moe/js4/index.m3u8
+#CS1
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#CS2
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="space_shower" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV-test
+http://luong.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="Pigoo.jp" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo-test (NSFW)
+http://luong.utako.moe/pigoo/index.m3u8
+#Test
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Low Latency test)
+http://luong.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X-test
+http://luong.utako.moe/at-x/index.m3u8
+
+
+
+
 #EXTM3U
 
 
@@ -1298,6 +1356,117 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 
+#EXTINF:-1 group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="香港",翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="香港",翡翠台北美版(TVB J1)
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="香港",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+#EXTINF:-1 group-title="香港",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="香港",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="香港",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="香港",VIUTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 group-title="香港",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="香港",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="香港",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="香港",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="香港",鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="香港",鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="香港",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="香港",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="香港",美亞電影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="香港",重溫經典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="香港",廣東珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 group-title="香港",廣東體育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+#EXTINF:-1 group-title="香港",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="香港",澳視衛星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+
+
+
+
+
+#EXTINF:-1 group-title="香港",RHK 31
+http://jp1.jdiptv.cc/live/rthk31.m3u8?kdstime=1737027675&kdssign=5873a4573de087125ea66ef0cbca5dd6
+#EXTINF:-1 group-title="香港",RHK 32
+http://jp1.jdiptv.cc/live/rthk32.m3u8?kdstime=1737027727&kdssign=bb3e9c468e19028f61e4be9f3bf811ac
+#EXTINF:-1 group-title="香港",TVB Plus
+http://co-sg3.jdiptv.cc/live/tvbj2.m3u8?kdstime=1737424642&kdssign=f8ebd3537d6d7d59745bc518519d79f9
+#EXTINF:-1 group-title="香港",TVB Plus
+http://co-sg3.jdiptv.cc/live/tvbj2.m3u8?kdstime=1737454624&kdssign=459ec5c62ca6f96b1aaff4978e5c7490
+#EXTINF:-1 group-title="香港",翡翠台
+http://co-sg1.jdiptv.cc/live/jade.m3u8?kdstime=1737422816&kdssign=eea2b030dcf6ab6673c56756a195ea51
+#EXTINF:-1 group-title="香港",翡翠台
+http://co-sg2.jdiptv.cc/live/jade.m3u8?kdstime=1737424202&kdssign=aa99d617144780fd26fef18f22d1877a
+#EXTINF:-1 group-title="香港",翡翠台
+http://co-sg3.jdiptv.cc/live/jadea2.m3u8?kdstime=1737424210&kdssign=d1727d9fb169d55b37ae4ea1ba05582f
+#EXTINF:-1 group-title="香港",無線新聞台
+http://co-sg2.jdiptv.cc/live/tvbxw.m3u8?kdstime=1737425194&kdssign=6f693df9396436b3b6bb3b5cb06592df
+#EXTINF:-1 group-title="香港",無線新聞台
+http://194.233.78.81/live/tvbxw.m3u8?kdstime=1737454695&kdssign=8b364628c5392112ee29c1548204f133
+#EXTINF:-1 group-title="香港",美亞電影台
+http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737427301&kdssign=914b9e09524a473917ea7746c9b1a6cc
+#EXTINF:-1 group-title="香港",美亞電影台
+http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737454766&kdssign=73b9e9004cea38594c616a2dd5cec4d1
+#EXTINF:-1 group-title="香港",黃金翡翠台
+http://co-sg2.jdiptv.cc/live/hjfct.m3u8?kdstime=1737026825&kdssign=3777aba4a8f5f16ffd30dce146dbded0
+#EXTINF:-1 group-title="香港",黃金翡翠台
+http://194.233.78.81/live/hjfct.m3u8?kdstime=1737454860&kdssign=71d21aaba5e96459b9aa33374748146c
+#EXTINF:-1 group-title="香港",TVB經典台
+http://co-sg1.jdiptv.cc/live/tvbjd.m3u8?kdstime=1737425033&kdssign=c8c7ca2428a05542153d22ac9b9a9715
+#EXTINF:-1 group-title="香港",TVB星河台
+http://fr-us3.jdiptv.cc/live/tvbxh.m3u8?kdstime=1737424888&kdssign=defe74e1b0fc78ea3acc15bc547d1bc3
+#EXTINF:-1 group-title="香港",TVB星河台
+http://209.141.40.39/live/tvbxh.m3u8?kdstime=1737454914&kdssign=b9b2de8d6f92d26b3c1db4dfa438a0ce
+#EXTINF:-1 group-title="香港",TVB娛樂新聞台
+http://fr-us3.jdiptv.cc/live/tvbyl.m3u8?kdstime=1737425307&kdssign=b3097de92b6e42452cc3bf552be068ca
+#EXTINF:-1 group-title="香港",TVB娛樂新聞台
+http://fr-us3.jdiptv.cc/live/tvbyl.m3u8?kdstime=1737454990&kdssign=b8bfcadfcdd8a6d2bcce784a98dd1d65
+#EXTINF:-1 group-title="香港",天映頻道
+http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
+#EXTINF:-1 group-title="香港",華語劇台
+http://194.233.78.81/live/hyjt.m3u8?kdstime=1737442338&kdssign=2fd3eb13da893b415e1e958c61d504bd
+#EXTINF:-1 group-title="香港",華語劇台
+http://194.233.78.81/live/hyjt.m3u8?kdstime=1737454444&kdssign=8d0d263b24ea710988e64ce0cd5099ce
+#EXTINF:-1 group-title="香港",亞洲劇台
+http://194.233.78.81/live/yzjt.m3u8?kdstime=1737455041&kdssign=dc0955ea3a627f52d5088b646e75b939
+#EXTINF:-1 group-title="香港",亞洲劇台
+http://194.233.78.81/live/yzjt.m3u8?kdstime=1737455087&kdssign=3902452a8000bf3cb094855a48e9bf4f
+#EXTINF:-1 group-title="香港",HOY資訊台
+http://cl-hk1.jdiptv.cc/live/hoy78.m3u8?kdstime=1737442281&kdssign=0d63691ef83c2d5e42386f7eaf49c839
+#EXTINF:-1 group-title="香港",HOY TV
+http://cl-hk1.jdiptv.cc/live/hoy77.m3u8?kdstime=1737442226&kdssign=d588e7cf6c8e36c0dcc833454bb975a3
+#EXTINF:-1 group-title="香港",viutv
+http://fr-us1.jdiptv.cc/live/viutv.m3u8?kdstime=1737028215&kdssign=e5e41e5ebf9fe10523b75a39ba339024
+#EXTINF:-1 group-title="香港",viutv6
+http://cc-us3.jdiptv.cc/live/viu6.m3u8?kdstime=1737028264&kdssign=aa64e836c3b1eb56436c2bf7bdc72a6f
+#EXTINF:-1 group-title="香港",Thrill
+http://co-sg3.jdiptv.cc/live/thrill.m3u8?kdstime=1737026148&kdssign=74c93cc9788fde5cc64a183856f75088
+#EXTINF:-1 group-title="香港",PopC
+http://co-sg1.jdiptv.cc/live/popc.m3u8?kdstime=1737425642&kdssign=3f3e60bfdc73551cd8509d36c0746aef
+
+
 
 
 
@@ -2379,6 +2548,11 @@ https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv158
 
 #EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
+
+
+
+#EXTINF:-1 group-title="體育",CCTV5+
+http://112.15.228.206:80/PLTV/88888888/224/3221231459/1.m3u8
 
 #EXTINF:-1 group-title="體育",BT Sport 1 UK
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2505/index.m3u8
