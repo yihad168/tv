@@ -1251,66 +1251,80 @@ http://zkbvzkj.megahdtv.xyz/live/1103581436/4099381829/28287.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="#### SG ENTERTAINMENT ####" tvg-logo="" group-title="SINGAPORE",#### SG ENTERTAINMENT ####
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941694
+#EXTINF:-1 tvg-id="" tvg-name="SG| CNA HD" tvg-logo="http://logo.protv.cc/picons/logos/CNA.jpg" group-title="SINGAPORE",SG| CNA HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941688
+#EXTINF:-1 tvg-id="" tvg-name="SG| LIVE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE+.png" group-title="SINGAPORE",SG| LIVE+ HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941680
+#EXTINF:-1 tvg-id="" tvg-name="SG| LIVE 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE-TV.jpeg" group-title="SINGAPORE",SG| LIVE 2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941679
+#EXTINF:-1 tvg-id="" tvg-name="SG| LIVE 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE-TV.jpeg" group-title="SINGAPORE",SG| LIVE 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941678
+#EXTINF:-1 tvg-id="" tvg-name="#### SG ASIAN+ ####" tvg-logo="" group-title="SINGAPORE",#### SG ASIAN+ ####
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941644
+#EXTINF:-1 tvg-id="" tvg-name="SG| KBS WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="SINGAPORE",SG| KBS WORLD HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941631
+#EXTINF:-1 tvg-id="" tvg-name="SG| SCM HD" tvg-logo="http://logo.protv.cc/picons/logos/SCM-.jpeg" group-title="SINGAPORE",SG| SCM HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941625
+#EXTINF:-1 tvg-id="" tvg-name="SG| CELESTIAL MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="SINGAPORE",SG| CELESTIAL MOVIES HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941618
+#EXTINF:-1 tvg-id="" tvg-name="SG| CHANNEL U HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-U.png" group-title="SINGAPORE",SG| CHANNEL U HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941617
+#EXTINF:-1 tvg-id="" tvg-name="SG| CHANNEL 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-8.jpg" group-title="SINGAPORE",SG| CHANNEL 8 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941616
+#EXTINF:-1 tvg-id="" tvg-name="SG| CHANNEL 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-5.png" group-title="SINGAPORE",SG| CHANNEL 5 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941615
+#EXTINF:-1 tvg-id="" tvg-name="#### SG MALAYSIA ####" tvg-logo="" group-title="SINGAPORE",#### SG MALAYSIA ####
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941613
+#EXTINF:-1 tvg-id="" tvg-name="SG| KBS WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="SINGAPORE",SG| KBS WORLD HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941604
+#EXTINF:-1 tvg-id="" tvg-name="#### SG INDIA+ ####" tvg-logo="" group-title="SINGAPORE",#### SG INDIA+ ####
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941600
+#EXTINF:-1 tvg-id="" tvg-name="SG| VASANTHAM HD" tvg-logo="http://logo.protv.cc/picons/logos/VASANTHAM-TV.jpeg" group-title="SINGAPORE",SG| VASANTHAM HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941588
+#EXTINF:-1 tvg-id="" tvg-name="#### SG FILIPINO+ ####" tvg-logo="" group-title="SINGAPORE",#### SG FILIPINO+ ####
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941583
+#EXTINF:-1 tvg-id="" tvg-name="SG| GMA LIFE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/Gma_life_tv.png" group-title="SINGAPORE",SG| GMA LIFE TV HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941579
+#EXTINF:-1 tvg-id="" tvg-name="SG| SURIA HD" tvg-logo="http://logo.protv.cc/picons/logos/SURIA-TV.png" group-title="SINGAPORE",SG| SURIA HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941575
+#EXTINF:-1 tvg-id="" tvg-name="#### SG SPORTS+ ####" tvg-logo="" group-title="SINGAPORE",#### SG SPORTS+ ####
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941574
+#EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-title="SINGAPORE",SG| HUB SPORTS 1 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941573
+#EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-title="SINGAPORE",SG| HUB SPORTS 2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941572
+#EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-3.png" group-title="SINGAPORE",SG| HUB SPORTS 3 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941571
+#EXTINF:-1 tvg-id="" tvg-name="SG| PREMIER SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/premiersports.png" group-title="SINGAPORE",SG| PREMIER SPORTS HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941570
+#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN--SPORTS-SNGAPOR.png" group-title="SINGAPORE",SG| BEIN SPORTS HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941569
+#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-NP.png" group-title="SINGAPORE",SG| BEIN SPORTS 2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941568
+#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-NP.jpg" group-title="SINGAPORE",SG| BEIN SPORTS 3 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941567
+#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="SINGAPORE",SG| BEIN SPORTS 4 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941566
+#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="SINGAPORE",SG| BEIN SPORTS 5 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941565
+#EXTINF:-1 tvg-id="" tvg-name="SG| SPOTV HD" tvg-logo="http://logo.protv.cc/picons/logos/SPOTV.png" group-title="SINGAPORE",SG| SPOTV HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941564
+#EXTINF:-1 tvg-id="" tvg-name="SG| SPOTV2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPOTV-2.jpeg" group-title="SINGAPORE",SG| SPOTV2 HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941563
+#EXTINF:-1 tvg-id="" tvg-name="SG| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA_TV.png" group-title="SINGAPORE",SG| NBA TV HD
+http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941562
 
 
 
-#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
-#EXTM3U url-tvg="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml" tvg-shift=0 m3uautoload=1
 
 
-#EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視 31" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK31.png" group-title="香港",RTHK TV 31
-https://live.hkdvb.com/hls/live/31.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視 32" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK32.png" group-title="香港",RTHK TV 32
-https://live.hkdvb.com/hls/live/32.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-33" tvg-name="港台電視 33" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK33.png" group-title="香港",RTHK TV 33
-https://live.hkdvb.com/hls/live/33.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-34" tvg-name="港台電視 34" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK34.png" group-title="香港",RTHK TV 34
-https://live.hkdvb.com/hls/live/34.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="港台電視-35" tvg-name="港台電視 35" tvg-logo="http://ghp.ci/https://raw.githubusercontent.com/dextermo01/HH004015/main/logo/RTHK35.png" group-title="香港",RTHK TV 35
-https://live.hkdvb.com/hls/live/35.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="HOY-國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://assets.livednow.com/logo/HOY-國際財經台.png" group-title="香港",HOY International Business Channel
-https://live.hkdvb.com/hls/live/76.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOY TV" tvg-logo="https://assets.livednow.com/logo/HOYTV.png" group-title="香港",HOY TV
-https://live.hkdvb.com/hls/live/77.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" group-title="香港",HOY Infotainment
-https://live.hkdvb.com/hls/live/78.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港",TVB Jade
-https://live.hkdvb.com/hls/live/81.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港",TVB Plus
-https://live.hkdvb.com/hls/live/82.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="香港",TVB News Channel
-https://live.hkdvb.com/hls/live/83.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港",TVB Pearl
-https://live.hkdvb.com/hls/live/84.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://assets.livednow.com/logo/凤凰卫视香港.png" group-title="香港",Phoenix Hong Kong Channel
-https://live.hkdvb.com/hls/live/85.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="香港",ViuTVsix
-https://live.hkdvb.com/hls/live/96.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="香港",ViuTV
-https://live.hkdvb.com/hls/live/99.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="557" tvg-name="华语剧台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="香港",Chinese Drama
-https://live.hkdvb.com/hls/live/89.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="香港",Classic Movies
-https://live.hkdvb.com/hls/live/200.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="香港",Golden Chinese Drama
-https://live.hkdvb.com/hls/live/90.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="559" tvg-name="PopC" group-title="香港" tvg-id="559" tvg-logo="https://assets.livednow.com/logo/PopC.png",PopC
-https://live.hkdvb.com/hls/live/206.m3u8?token=263664245636508
-#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="香港",美亞電影台
-https://live.hkdvb.com/hls/live/201.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="香港",Now News
-https://live.hkdvb.com/hls/live/332.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-premier-league-1-hk.png" group-title="香港",Now Sports Premier League 1
-https://live.hkdvb.com/hls/live/621.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-prime-hk.png" group-title="香港",Now Sports Prime
-https://live.hkdvb.com/hls/live/630.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/tv-logo/tv-logos/raw/main/countries/hong-kong/now-sports-2-hk.png" group-title="香港",Now Sports 2
-https://live.hkdvb.com/hls/live/632.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-641.png" group-title="香港",Now Sports 641
-https://live.hkdvb.com/hls/live/641.m3u8?token=263664245636508
-#EXTINF:-1 tvg-logo="https://github.site/dextermo01/HH004015/raw/main/logo/Now-Sports-642.png" group-title="香港",Now Sports 642
-https://live.hkdvb.com/hls/live/642.m3u8?token=263664245636508
+
+
+
+
 
 #EXTINF:-1 group-title="香港",翡翠台4K
 http://cdn.132.us.kg/live/fct4k/stream.m3u8
@@ -1470,125 +1484,7 @@ http://co-sg1.jdiptv.cc/live/popc.m3u8?kdstime=1737425642&kdssign=3f3e60bfdc7355
 
 
 
-#EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
-
-#EXTINF:-1 group-title="AKTV",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠台
-http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",鳳凰中文
-http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線新聞台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",鳳凰資訊
-http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線新聞台
-http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",美亞電影台(HK)
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",明珠台
-http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",東森新聞
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",鳳凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠綜合台(北美)
-http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",千禧經典台(HK)
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠劇集台(北美)
-http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",PopC
-http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",明珠劇集台(北美)
-http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viutv 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viutv6 96
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Animax(HK)
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線衛星新聞台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",i-Fun 動漫台
-,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK東京総合
-http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature HD
-http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro iQIYI
-http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro Xing He
-http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro AEC
-http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",緯來體育台
-http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 
@@ -2545,6 +2441,190 @@ https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv158
 
 
 
+#EXTM3U
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="台灣立視",民視台灣台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv001
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台灣立視",民視
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv002
+#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png" group-title="台灣立視",民視第一台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv003
+#EXTINF:-1,tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://epg.112114.xyz/logo/民视综艺台.png" group-title="台灣立視",民視綜藝
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv004
+#EXTINF:-1,tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.112114.xyz/logo/猪哥亮歌厅秀.png" group-title="台灣立視",豬哥亮歌廳秀
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv006
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="台灣立視",中天新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv009
+#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="台灣立視",非凡新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv010
+#EXTINF:-1,tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影台.png" group-title="台灣立視",影迷數位電影台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv011
+#EXTINF:-1,tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://epg.112114.xyz/logo/視納華仁紀實頻道.png" group-title="台灣立視",視納華仁紀實頻道
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv013
+#EXTINF:-1,tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.112114.xyz/logo/时尚运动X.png" group-title="台灣立視",時尚運動X
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv014
+#EXTINF:-1,tvg-id="GLOBETROTTER" tvg-name="GLOBETROTTER" tvg-logo="https://epg.112114.xyz/logo/GLOBETROTTER.png" group-title="台灣立視",GLOBETROTTER
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv016
+#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="台灣立視",amc電影台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv017
+#EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.112114.xyz/logo/八大精彩台.png" group-title="台灣立視",八大精彩台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv034
+#EXTINF:-1,tvg-id="八大综艺台" tvg-name="八大综艺台" tvg-logo="https://epg.112114.xyz/logo/八大综艺台.png" group-title="台灣立視",八大綜藝台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv039
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="台灣立視",中視
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv040
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台灣立視",華視
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv041
+#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="台灣立視",公視戲劇
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv042
+#EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.112114.xyz/logo/客家电视台.png" group-title="台灣立視",客家電視台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv043
+#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="台灣立視",靖天卡通台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv044
+#EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/靖洋戏剧台.png" group-title="台灣立視",靖洋戲劇台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv045
+#EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.112114.xyz/logo/靖天综合台.png" group-title="台灣立視",靖天綜合台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv046
+#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="台灣立視",靖天日本台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv047
+#EXTINF:-1,tvg-id="非凡商业台" tvg-name="非凡商业台" tvg-logo="https://epg.112114.xyz/logo/非凡商业台.png" group-title="台灣立視",非凡商業
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv048
+#EXTINF:-1,tvg-id="采昌影剧" tvg-name="采昌影剧" tvg-logo="https://epg.112114.xyz/logo/采昌影剧.png" group-title="台灣立視",采昌影劇
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv049
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="台灣立視",台視新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv051
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="台灣立視",華視新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv052
+#EXTINF:-1,tvg-id="GinxTV" tvg-name="GinxTV" tvg-logo="https://epg.112114.xyz/logo/GINXTV.png" group-title="台灣立視",GinxTV
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv053
+#EXTINF:-1,tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://epg.112114.xyz/logo/靖天欢乐台.png" group-title="台灣立視",靖天歡樂台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv054
+#EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.112114.xyz/logo/靖天映画.png" group-title="台灣立視",靖天映畫
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv055
+#EXTINF:-1,tvg-id="台视财经台" tvg-name="台视财经台" tvg-logo="https://epg.112114.xyz/logo/台视财经台.png" group-title="台灣立視",台視財經
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv056
+#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通台.png" group-title="台灣立視",靖洋卡通台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv057
+#EXTINF:-1,tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://epg.112114.xyz/logo/靖天戏剧台.png" group-title="台灣立視",靖天戲劇台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv058
+#EXTINF:-1,tvg-id="古典音乐台" tvg-name="古典音乐台" tvg-logo="https://epg.112114.xyz/logo/古典音乐台.png" group-title="台灣立視",古典音樂台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv059
+#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.112114.xyz/logo/靖天电影台.png" group-title="台灣立視",靖天電影台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv061
+#EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.112114.xyz/logo/靖天育乐台.png" group-title="台灣立視",靖天育樂台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv062
+#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="台灣立視",靖天國際台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv063
+#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.112114.xyz/logo/中视菁采台.png" group-title="台灣立視",中視菁采
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv064
+#EXTINF:-1,tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://epg.112114.xyz/logo/靖天资讯台.png" group-title="台灣立視",靖天資訊台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv065
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="台灣立視",台視
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv066
+#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="台灣立視",TVBS精采台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv067
+#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="台灣立視",TVBS歡樂台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv068
+#EXTINF:-1,tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.112114.xyz/logo/爱尔达娱乐台.png" group-title="台灣立視",愛爾達娛樂
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv070
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="台灣立視",TVBS新聞台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv072
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台灣立視",TVBS
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv073
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="台灣立視",中視新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv074
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="台灣立視",鏡新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv075
+#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY电影.png" group-title="台灣立視",CATCHPLAY電影台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv076
+#EXTINF:-1,tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://epg.112114.xyz/logo/TRACESPORTS.png" group-title="台灣立視",TRACE SPORTS STARS
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv077
+#EXTINF:-1,tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://epg.112114.xyz/logo/阿里郎.png" group-title="台灣立視",阿里郎
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv079
+#EXTINF:-1,tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/中视经典.png" group-title="台灣立視",中視經典
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv080
+#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="台灣立視",TRACE URBAN
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv082
+#EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.112114.xyz/logo/MEZZOLIVEHD.png" group-title="台灣立視",MEZZO LIVE
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv083
+#EXTINF:-1,tvg-id="国会频道1" tvg-name="国会频道1" tvg-logo="https://epg.112114.xyz/logo/国会频道1.png" group-title="台灣立視",國會頻道1
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv084
+#EXTINF:-1,tvg-id="国会频道2" tvg-name="国会频道2" tvg-logo="https://epg.112114.xyz/logo/国会频道2.png" group-title="台灣立視",國會頻道2
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv085
+#EXTINF:-1,tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://epg.112114.xyz/logo/智林体育.png" group-title="台灣立視",智林體育台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv101
+#EXTINF:-1,tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://epg.112114.xyz/logo/香港国际财经台.png" group-title="台灣立視",國際財經
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv104
+#EXTINF:-1,tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://epg.112114.xyz/logo/第1商業台.png" group-title="台灣立視",第1商業台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv109
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台灣立視",東森新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv152
+#EXTINF:-1,tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png" group-title="台灣立視",東森財經新聞
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv153
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台灣立視",民視
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv155
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="台灣立視",民視台灣台
+http://vcstiok.serv00.net/litv1.php?id=4gtv-4gtv156
+#EXTINF:-1,tvg-id="美国之音" tvg-name="美国之音" tvg-logo="https://epg.112114.xyz/logo/美国之音.png" group-title="台灣立視",美國之音
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv03
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台灣立視",民視旅遊
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv07
+#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台灣立視",民視影劇
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv09
+#EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="台灣立視",半島新聞
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv10
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="台灣立視",民視新聞台
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv13
+#EXTINF:-1,tvg-id="爱放动漫" tvg-name="爱放动漫" tvg-logo="https://epg.112114.xyz/logo/爱放动漫.png" group-title="台灣立視",愛放動漫
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv15
+#EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="台灣立視",好消息
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv16
+#EXTINF:-1,tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://epg.112114.xyz/logo/好消息2台.png" group-title="台灣立視",好消息2台
+http://vcstiok.serv00.net/litv1.php?id=litv-ftv17
+#EXTINF:-1,tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="https://epg.112114.xyz/logo/龙华卡通.png" group-title="台灣立視",龍華卡通
+http://vcstiok.serv00.net/litv1.php?id=http://vcstiok.serv00.net/litv1.php?id=litv-longturn01
+#EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" group-title="台灣立視",龍華電影
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn03
+#EXTINF:-1,tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png" group-title="台灣立視",博斯魅力
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn04
+#EXTINF:-1,tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="台灣立視",博斯高球1
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn05
+#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="台灣立視",博斯高球2
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn06
+#EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="台灣立視",博斯運動1
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn07
+#EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="台灣立視",博斯運動2
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn08
+#EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.112114.xyz/logo/博斯网球台.png" group-title="台灣立視",博斯網球
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn09
+#EXTINF:-1,tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://epg.112114.xyz/logo/博斯无限二台.png" group-title="台灣立視",博斯無限
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn10
+#EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.112114.xyz/logo/龙华日韩台.png" group-title="台灣立視",龍華日韓
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn11
+#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="台灣立視",龍華偶像
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn12
+#EXTINF:-1,tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://epg.112114.xyz/logo/博斯无限2.png" group-title="台灣立視",博斯無限2
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn13
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台灣立視",寰宇新聞台
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn14
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台灣立視",寰宇新聞台灣台
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn15
+#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="台灣立視",亞洲旅遊台
+http://vcstiok.serv00.net/litv1.php?id=http://vcstiok.serv00.net/litv1.php?id=litv-longturn17
+#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="台灣立視",龍華戲劇
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn18
+#EXTINF:-1,tvg-id="SMART知识" tvg-name="SMART知识" tvg-logo="https://epg.112114.xyz/logo/SMART知识.png" group-title="台灣立視",Smart知識台
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn19
+#EXTINF:-1,tvg-id="生活英语台" tvg-name="生活英语台" tvg-logo="https://epg.112114.xyz/logo/生活英语台.png" group-title="台灣立視",生活英語台
+http://vcstiok.serv00.net/litv1.php?id=http://vcstiok.serv00.net/litv1.php?id=litv-longturn20
+#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="台灣立視",龍華經典
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn21
+#EXTINF:-1,tvg-id="台湾戏剧" tvg-name="台湾戏剧" tvg-logo="https://epg.112114.xyz/logo/台湾戏剧.png" group-title="台灣立視",台灣戲劇台
+http://vcstiok.serv00.net/litv1.php?id=litv-longturn22
+
+
+
+
+
 
 #EXTM3U url-tvg="https://assets.livednow.com/epg.xml" tvg-shift=0 m3uautoload=1
 
@@ -2589,6 +2669,34 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7327/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7328/index.m3u8
 
 
+
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="體育", TNT Sport 𝟙
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="體育", TNT Sport 𝟚
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="體育", TNT Sport 𝟛
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="體育", TNT Sport 𝟜
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports FOOTBALL" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png" group-title="體育", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="Sky-Sports-Premier-League" tvg-name="Sky Sports PREMIER LEAGUE" tvg-logo="https://static.quickgrow.net/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg" group-title="體育", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://docdog.top/logo/countries/canada/tsn1.png" group-title="體育", TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-logo="https://docdog.top/logo/countries/canada/tsn2.png" group-title="體育", TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN 3" tvg-logo="https://docdog.top/logo/countries/canada/tsn3.png" group-title="體育", TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-logo="https://docdog.top/logo/countries/canada/tsn4.png" group-title="體育", TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://docdog.top/logo/countries/canada/tsn5.png" group-title="體育", TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
 
 
 
@@ -2754,49 +2862,12 @@ http://suprino.xyz:80/W8MEP61/2X2H702/348291
 http://suprino.xyz:80/W8MEP61/2X2H702/348293
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-title="體育",HUB SPORTS 1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941573
-#EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-title="體育",HUB SPORTS 2 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941572
-#EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-3.png" group-title="體育",HUB SPORTS 3 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941571
-#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN--SPORTS-SNGAPOR.png" group-title="體育",BEIN SPORTS HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941569
-#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-NP.png" group-title="體育",BEIN SPORTS 2 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941568
-#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-NP.jpg" group-title="體育",BEIN SPORTS 3 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941567
-#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="體育",BEIN SPORTS 4 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941566
-#EXTINF:-1 tvg-id="" tvg-name="SG| BEIN SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="體育",BEIN SPORTS 5 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941565
-#EXTINF:-1 tvg-id="" tvg-name="SG| SPOTV HD" tvg-logo="http://logo.protv.cc/picons/logos/SPOTV.png" group-title="體育",SPOTV HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941564
-#EXTINF:-1 tvg-id="" tvg-name="SG| SPOTV2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPOTV-2.jpeg" group-title="體育",SPOTV2 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941563
-#EXTINF:-1 tvg-id="" tvg-name="SG| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA_TV.png" group-title="體育",NBA TV HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:D8:33:BC&stream=941562
-
-#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS ESPN HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79483
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79486
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 1 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1261564
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 2 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79485
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 3 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=79484
-#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 4 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1002857
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/TNT-SPOR.png" group-title="體育",UK TNT SPORTS 5 HD
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:DD:19:D6&stream=1004549
 
 
 
 
-
-
+#EXTINF:-1 group-title="音樂頻道",First Music Channel HD
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC 90S" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC 90S
 http://suprino.xyz:80/W8MEP61/2X2H702/1124927
