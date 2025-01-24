@@ -197,9 +197,6 @@ http://luong.utako.moe/pigoo/index.m3u8
 #Test
 #EXTINF:-1 group-title="CS1 (720p)" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Low Latency test)
 http://luong.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
-#EXTINF:-1 group-title="CS1 (720p)" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X-test
-http://luong.utako.moe/at-x/index.m3u8
-
 
 
 
@@ -1251,9 +1248,8 @@ http://zkbvzkj.megahdtv.xyz/live/1103581436/4099381829/28287.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="#### SG ENTERTAINMENT ####" tvg-logo="" group-title="SINGAPORE",#### SG ENTERTAINMENT ####
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941694
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SG| CNA HD" tvg-logo="http://logo.protv.cc/picons/logos/CNA.jpg" group-title="SINGAPORE",SG| CNA HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941688
 #EXTINF:-1 tvg-id="" tvg-name="SG| LIVE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE+.png" group-title="SINGAPORE",SG| LIVE+ HD
@@ -1262,8 +1258,8 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=9416
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941679
 #EXTINF:-1 tvg-id="" tvg-name="SG| LIVE 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE-TV.jpeg" group-title="SINGAPORE",SG| LIVE 1 HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941678
-#EXTINF:-1 tvg-id="" tvg-name="#### SG ASIAN+ ####" tvg-logo="" group-title="SINGAPORE",#### SG ASIAN+ ####
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941644
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SG| KBS WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="SINGAPORE",SG| KBS WORLD HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941631
 #EXTINF:-1 tvg-id="" tvg-name="SG| SCM HD" tvg-logo="http://logo.protv.cc/picons/logos/SCM-.jpeg" group-title="SINGAPORE",SG| SCM HD
@@ -1276,22 +1272,18 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=9416
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941616
 #EXTINF:-1 tvg-id="" tvg-name="SG| CHANNEL 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-5.png" group-title="SINGAPORE",SG| CHANNEL 5 HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941615
-#EXTINF:-1 tvg-id="" tvg-name="#### SG MALAYSIA ####" tvg-logo="" group-title="SINGAPORE",#### SG MALAYSIA ####
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941613
+
 #EXTINF:-1 tvg-id="" tvg-name="SG| KBS WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="SINGAPORE",SG| KBS WORLD HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941604
-#EXTINF:-1 tvg-id="" tvg-name="#### SG INDIA+ ####" tvg-logo="" group-title="SINGAPORE",#### SG INDIA+ ####
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941600
+
 #EXTINF:-1 tvg-id="" tvg-name="SG| VASANTHAM HD" tvg-logo="http://logo.protv.cc/picons/logos/VASANTHAM-TV.jpeg" group-title="SINGAPORE",SG| VASANTHAM HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941588
-#EXTINF:-1 tvg-id="" tvg-name="#### SG FILIPINO+ ####" tvg-logo="" group-title="SINGAPORE",#### SG FILIPINO+ ####
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941583
+
 #EXTINF:-1 tvg-id="" tvg-name="SG| GMA LIFE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/Gma_life_tv.png" group-title="SINGAPORE",SG| GMA LIFE TV HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941579
 #EXTINF:-1 tvg-id="" tvg-name="SG| SURIA HD" tvg-logo="http://logo.protv.cc/picons/logos/SURIA-TV.png" group-title="SINGAPORE",SG| SURIA HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941575
-#EXTINF:-1 tvg-id="" tvg-name="#### SG SPORTS+ ####" tvg-logo="" group-title="SINGAPORE",#### SG SPORTS+ ####
-http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941574
+
 #EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-title="SINGAPORE",SG| HUB SPORTS 1 HD
 http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=941573
 #EXTINF:-1 tvg-id="" tvg-name="SG| HUB SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-title="SINGAPORE",SG| HUB SPORTS 2 HD
@@ -1532,6 +1524,186 @@ http://z.b.bkpcp.top/m.php?id=cctv4m
 
 
 
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="台灣", 民視台灣台
+http://4gtv.031966.xyz/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="台灣", 民視第一台
+http://4gtv.031966.xyz/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="台灣", 民視綜藝台
+http://4gtv.031966.xyz/?id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="台灣", 豬哥亮歌廳秀
+http://4gtv.031966.xyz/?id=4gtv-4gtv006
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台灣", 中天新聞台
+http://4gtv.031966.xyz/?id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="4gtv-4gtv010" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="台灣", 非凡新聞台
+http://4gtv.031966.xyz/?id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="台灣", 影迷數位電影台
+http://4gtv.031966.xyz/?id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="台灣", 視納華仁紀實頻道
+http://4gtv.031966.xyz/?id=4gtv-4gtv013
+#EXTINF:-1 tvg-id="4gtv-4gtv014" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="台灣", 時尚運動X
+http://4gtv.031966.xyz/?id=4gtv-4gtv014
+#EXTINF:-1 tvg-id="4gtv-4gtv018" tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="台灣", 達文西頻道
+http://4gtv.031966.xyz/?id=4gtv-4gtv018
+#EXTINF:-1 tvg-id="4gtv-4gtv034" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="台灣", 八大精彩台
+http://4gtv.031966.xyz/?id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="4gtv-4gtv039" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="台灣", 八大綜藝台
+http://4gtv.031966.xyz/?id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="台灣", 中視
+http://4gtv.031966.xyz/?id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣", 華視
+http://4gtv.031966.xyz/?id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="4gtv-4gtv042" tvg-name="公視戲劇" tvg-logo="https://assets.livednow.com/logo/公視戲劇.png" group-title="台灣", 公視戲劇
+http://4gtv.031966.xyz/?id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="4gtv-4gtv043" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="台灣", 客家電視台
+http://4gtv.031966.xyz/?id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="台灣", 靖天卡通台
+http://4gtv.031966.xyz/?id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="4gtv-4gtv045" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="台灣", 靖洋戲劇台
+http://4gtv.031966.xyz/?id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="台灣", 靖天綜合台
+http://4gtv.031966.xyz/?id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="台灣", 靖天日本台
+http://4gtv.031966.xyz/?id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="台灣", 非凡商業台
+http://4gtv.031966.xyz/?id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="台灣", 采昌影劇台
+http://4gtv.031966.xyz/?id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://assets.livednow.com/logo/台視新聞.png" group-title="台灣", 台視新聞
+http://4gtv.031966.xyz/?id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="台灣", 華視新聞
+http://4gtv.031966.xyz/?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX Esports TV.png" group-title="台灣", GINX Esports TV
+http://4gtv.031966.xyz/?id=4gtv-4gtv053
+#EXTINF:-1 tvg-id="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/Nice TV靖天歡樂台.png" group-title="台灣", Nice TV靖天歡樂台
+http://4gtv.031966.xyz/?id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://assets.livednow.com/logo/靖天映畫.png" group-title="台灣", 靖天映畫
+http://4gtv.031966.xyz/?id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://assets.livednow.com/logo/台視財經.png" group-title="台灣", 台視財經
+http://4gtv.031966.xyz/?id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通Nice Bingo.png" group-title="台灣", 靖洋卡通Nice Bingo
+http://4gtv.031966.xyz/?id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="台灣", 靖天戲劇台
+http://4gtv.031966.xyz/?id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://assets.livednow.com/logo/CLASSICA 古典樂.png" group-title="台灣", CLASSICA 古典樂
+http://4gtv.031966.xyz/?id=4gtv-4gtv059
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="台灣", 靖天電影台
+http://4gtv.031966.xyz/?id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="台灣", 靖天育樂台
+http://4gtv.031966.xyz/?id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://assets.livednow.com/logo/KLT-靖天國際台.png" group-title="台灣", KLT-靖天國際台
+http://4gtv.031966.xyz/?id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="台灣", 中視菁采台
+http://4gtv.031966.xyz/?id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="台灣", 靖天資訊台
+http://4gtv.031966.xyz/?id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣", 台視
+http://4gtv.031966.xyz/?id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://assets.livednow.com/logo/TVBS精采台.png" group-title="台灣", TVBS精采台
+http://4gtv.031966.xyz/?id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS歡樂台.png" group-title="台灣", TVBS歡樂台
+http://4gtv.031966.xyz/?id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://assets.livednow.com/logo/愛爾達娛樂台.png" group-title="台灣", 愛爾達娛樂台
+http://4gtv.031966.xyz/?id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://assets.livednow.com/logo/TVBS新聞.png" group-title="台灣", TVBS新聞
+http://4gtv.031966.xyz/?id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣", TVBS
+http://4gtv.031966.xyz/?id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://assets.livednow.com/logo/中視新聞.png" group-title="台灣", 中視新聞
+http://4gtv.031966.xyz/?id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://assets.livednow.com/logo/CATCHPLAY電影台.png" group-title="台灣", CATCHPLAY電影台
+http://4gtv.031966.xyz/?id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://assets.livednow.com/logo/TRACE Sport Stars.png" group-title="台灣", TRACE Sport Stars
+http://4gtv.031966.xyz/?id=4gtv-4gtv077
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/ARIRANG阿里郎頻道.png" group-title="台灣", ARIRANG阿里郎頻道
+http://4gtv.031966.xyz/?id=4gtv-4gtv079
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="台灣", 中視經典台
+http://4gtv.031966.xyz/?id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://assets.livednow.com/logo/TRACE Urban.png" group-title="台灣", TRACE Urban
+http://4gtv.031966.xyz/?id=4gtv-4gtv082
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo Live HD.png" group-title="台灣", Mezzo Live HD
+http://4gtv.031966.xyz/?id=4gtv-4gtv083
+#EXTINF:-1 tvg-id="國會頻道1台" tvg-name="國會頻道1台" tvg-logo="https://assets.livednow.com/logo/國會頻道1台.png" group-title="台灣", 國會頻道1台
+http://4gtv.031966.xyz/?id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="國會頻道2台" tvg-name="國會頻道2台" tvg-logo="https://assets.livednow.com/logo/國會頻道2台.png" group-title="台灣", 國會頻道2台
+http://4gtv.031966.xyz/?id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="台灣", 智林體育台
+http://4gtv.031966.xyz/?id=4gtv-4gtv101
+#EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://assets.livednow.com/logo/東森購物1台.png" group-title="台灣", 東森購物1台
+http://4gtv.031966.xyz/?id=4gtv-4gtv102
+#EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://assets.livednow.com/logo/東森購物2台.png" group-title="台灣", 東森購物2台
+http://4gtv.031966.xyz/?id=4gtv-4gtv103
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://assets.livednow.com/logo/第1商業台.png" group-title="台灣", 第1商業台
+http://4gtv.031966.xyz/?id=4gtv-4gtv104
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="台灣", 中天亞洲台
+http://4gtv.031966.xyz/?id=4gtv-4gtv109
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://assets.livednow.com/logo/東森新聞台.png" group-title="台灣", 東森新聞台
+http://4gtv.031966.xyz/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://assets.livednow.com/logo/東森財經新聞台.png" group-title="台灣", 東森財經新聞台
+http://4gtv.031966.xyz/?id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台灣", 民視
+http://4gtv.031966.xyz/?id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://assets.livednow.com/logo/VOA美國之音.png" group-title="台灣", VOA美國之音
+http://4gtv.031966.xyz/?id=litv-ftv03
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="台灣", 民視旅遊台
+http://4gtv.031966.xyz/?id=litv-ftv07
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="台灣", 民視影劇台
+http://4gtv.031966.xyz/?id=litv-ftv09
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="台灣", 半島國際新聞台
+http://4gtv.031966.xyz/?id=litv-ftv10
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台灣", 民視新聞台
+http://4gtv.031966.xyz/?id=litv-ftv13
+#EXTINF:-1 tvg-id="i-Fun動漫台" tvg-name="i-Fun動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun動漫台.png" group-title="台灣", i-Fun動漫台
+http://4gtv.031966.xyz/?id=litv-ftv15
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="台灣", 好消息
+http://4gtv.031966.xyz/?id=litv-ftv16
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="台灣", 好消息2台
+http://4gtv.031966.xyz/?id=litv-ftv17
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="台灣", 龍華卡通台
+http://4gtv.031966.xyz/?id=litv-longturn01
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="台灣", 龍華電影台
+http://4gtv.031966.xyz/?id=litv-longturn03
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="台灣", 博斯魅力台
+http://4gtv.031966.xyz/?id=litv-longturn04
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="台灣", 博斯高球台
+http://4gtv.031966.xyz/?id=litv-longturn05
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="台灣", 博斯高球二台
+http://4gtv.031966.xyz/?id=litv-longturn06
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="台灣", 博斯運動一台
+http://4gtv.031966.xyz/?id=litv-longturn07
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="台灣", 博斯運動二台
+http://4gtv.031966.xyz/?id=litv-longturn08
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="台灣", 博斯網球台
+http://4gtv.031966.xyz/?id=litv-longturn09
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="台灣", 博斯無限台
+http://4gtv.031966.xyz/?id=litv-longturn10
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="台灣", 龍華日韓台
+http://4gtv.031966.xyz/?id=litv-longturn11
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="台灣", 龍華偶像台
+http://4gtv.031966.xyz/?id=litv-longturn12
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="台灣", 博斯無限二台
+http://4gtv.031966.xyz/?id=litv-longturn13
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="台灣", 寰宇新聞台
+http://4gtv.031966.xyz/?id=litv-longturn14
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="台灣", 寰宇新聞台灣台
+http://4gtv.031966.xyz/?id=litv-longturn15
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="台灣", 亞洲旅遊台
+http://4gtv.031966.xyz/?id=litv-longturn17
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="台灣", 龍華戲劇台
+http://4gtv.031966.xyz/?id=litv-longturn18
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart知識台.png" group-title="台灣", Smart知識台
+http://4gtv.031966.xyz/?id=litv-longturn19
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://assets.livednow.com/logo/ELTV生活英語台.png" group-title="台灣", ELTV生活英語台
+http://4gtv.031966.xyz/?id=litv-longturn20
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="台灣", 龍華經典台
+http://4gtv.031966.xyz/?id=litv-longturn21
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="台灣", 台灣戲劇台
+http://4gtv.031966.xyz/?id=litv-longturn22
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="台灣", 寰宇財經台
+http://4gtv.031966.xyz/?id=litv-longturn23
+
+
 
 
 
@@ -1668,6 +1840,155 @@ http://limon.zapi.eu.org/lm147.php?id=4da82ff2-1816-4832-a63b-45c7d3b7d4ed
 
 
 
+#EXTINF:-1 group-title="台灣",臺灣戲劇台 (JD)
+http://cc-us3.jdiptv.cc/live/twxj.m3u8?kdstime=1737437982&kdssign=09f088e9512a3315fa6f4f36fade1d9a
+#EXTINF:-1 group-title="台灣",HITS電影台 (JD)
+http://cc-us3.jdiptv.cc/live/hits.m3u8?kdstime=1737438493&kdssign=727a172f52bbfcd4c272b687d16c09d7
+#EXTINF:-1 group-title="台灣",HITS電影台 (JD)
+http://cc-us3.jdiptv.cc/live/hits.m3u8?kdstime=1737449198&kdssign=2a9c3966f537d656b719f303b735bd4f
+#EXTINF:-1 group-title="台灣",三立國際台 (JD)
+http://ar-ca2.jdiptv.cc/live/slgj.m3u8?kdstime=1737435859&kdssign=85c691b2600a6139ab7bc7a4b1628136
+#EXTINF:-1 group-title="台灣",三立國際台 (JD)
+http://ar-ca2.jdiptv.cc/live/slgj.m3u8?kdstime=1737449807&kdssign=7ee1ebc151efe1ff1fc8eb375dafdd82
+#EXTINF:-1 group-title="台灣",三立戲劇台 (JD)
+http://cc-us2.jdiptv.cc/live/slxj.m3u8?kdstime=1737435955&kdssign=c56054b740a1d70528488d981441c195
+#EXTINF:-1 group-title="台灣",三立戲劇台 (JD)
+http://cc-us2.jdiptv.cc/live/slxj.m3u8?kdstime=1737449877&kdssign=8a7d24a08c5a560658ae78057e698591
+#EXTINF:-1 group-title="台灣",中天新聞HD (JD)
+http://cl-hk1.jdiptv.cc/live/ztxw.m3u8?kdstime=1737444744&kdssign=3d4c909b7b5bfba534b948df6253907d
+#EXTINF:-1 group-title="台灣",中天綜合 (JD)
+http://fr-us4.jdiptv.cc/live/ztzh.m3u8?kdstime=1737433341&kdssign=e836767ada6db599f7f35ea3567579bd
+#EXTINF:-1 group-title="台灣",中天綜合 (JD)
+http://fr-us4.jdiptv.cc/live/ztzh.m3u8?kdstime=1737444617&kdssign=8bd18293ce82f467d9f32e02938b5a8c
+#EXTINF:-1 group-title="台灣",中天綜合 (JD)
+http://fr-us4.jdiptv.cc/live/ztzh.m3u8?kdstime=1737448909&kdssign=c3902783fff12cf92a7182033223fd40
+#EXTINF:-1 group-title="台灣",八大戲劇台 (JD)
+http://fr-us4.jdiptv.cc/live/bdxj.m3u8?kdstime=1737436464&kdssign=dc44e93766c4f4f14cf85d3badc5e6a7
+#EXTINF:-1 group-title="台灣",八大戲劇台 (JD)
+http://fr-us4.jdiptv.cc/live/bdxj.m3u8?kdstime=1737449047&kdssign=aa8e55280775014c94d577e0f06a3e9c
+#EXTINF:-1 group-title="台灣",八大第一台 (JD)
+http://fr-us4.jdiptv.cc/live/bddy.m3u8?kdstime=1737436390&kdssign=66c0dd477220058e28b7e24ba0beef3a
+#EXTINF:-1 group-title="台灣",八大第一台 (JD)
+http://fr-us4.jdiptv.cc/live/bddy.m3u8?kdstime=1737448991&kdssign=251829f3eff2421af20b73f14d39eed7
+#EXTINF:-1 group-title="台灣",八大綜合台 (JD)
+http://fr-us4.jdiptv.cc/live/bdzh.m3u8?kdstime=1737436501&kdssign=d335218b2040d993a263e2271fbfaa2a
+#EXTINF:-1 group-title="台灣",八大綜合台 (JD)
+http://fr-us4.jdiptv.cc/live/bdzh.m3u8?kdstime=1737449115&kdssign=e0b5b608ac4b40e95db28dcc7b0cc0ab
+#EXTINF:-1 group-title="台灣",公視台語台 (JD)
+http://al-us3.jdiptv.cc/live/gs2.m3u8?kdstime=1737437351&kdssign=ada7085569ee45aa27c0e89582b9d0df
+#EXTINF:-1 group-title="台灣",公視台語台 (JD)
+http://al-us3.jdiptv.cc/live/gs2.m3u8?kdstime=1737449964&kdssign=d3722fe8d57ebd8f129ae1f949c4510f
+#EXTINF:-1 group-title="台灣",小公視 (JD)
+http://al-hk1.jdiptv.cc/live/gs3.m3u8?kdstime=1737437454&kdssign=6848ae31dedb97d3c245da8a8e1ee0c3
+#EXTINF:-1 group-title="台灣",小公視 (JD)
+http://al-hk1.jdiptv.cc/live/gs3.m3u8?kdstime=1737450012&kdssign=f7e8e8c38ddf2adb472ffe6784f897fc
+#EXTINF:-1 group-title="台灣",民視第一台 (JD)
+http://fr-us1.jdiptv.cc/live/ftvdy.m3u8?kdstime=1737435428&kdssign=582e15b4c00d9051adcacdfa335938e2
+#EXTINF:-1 group-title="台灣",民視第一台 (JD)
+http://fr-us1.jdiptv.cc/live/ftvdy.m3u8?kdstime=1737450104&kdssign=76f5e02ab7b24b9be5dfb780175d73f9
+#EXTINF:-1 group-title="台灣",民視影劇台 (JD)
+http://ar-ca2.jdiptv.cc/live/ftvyj.m3u8?kdstime=1737435546&kdssign=3b5ed6b82a9532d1cd947c484af31d5e
+#EXTINF:-1 group-title="台灣",民視影劇台 (JD)
+http://ar-ca2.jdiptv.cc/live/ftvyj.m3u8?kdstime=1737450165&kdssign=55a89e0f4354ba4f9fdfb77997f0bc06
+#EXTINF:-1 group-title="台灣",寰宇新聞臺灣台 (JD)
+http://cc-us2.jdiptv.cc/live/hyxwtw.m3u8?kdstime=1737436331&kdssign=4fea213392532a3ff947a823b2083525
+#EXTINF:-1 group-title="台灣",寰宇新聞臺灣台 (JD)
+http://cc-us2.jdiptv.cc/live/hyxwtw.m3u8?kdstime=1737450266&kdssign=c2a4f98121528ef283300d1304c8b9ed
+#EXTINF:-1 group-title="台灣",年代新聞台 (JD)
+http://cc-us2.jdiptv.cc/live/ndxw.m3u8?kdstime=1737436605&kdssign=6d0dbe04ae00744dce7d84b07f6a57f3
+#EXTINF:-1 group-title="台灣",年代新聞台 (JD)
+http://cc-us2.jdiptv.cc/live/ndxw.m3u8?kdstime=1737450325&kdssign=7135dd6ae6501bdee732f59acfc9a9a1
+#EXTINF:-1 group-title="台灣",年代MUCH (JD)
+http://co-sg2.jdiptv.cc/live/ndmuch.m3u8?kdstime=1737436680&kdssign=14ecbe6eaf2d584972d55d5ae8ab9d9d
+#EXTINF:-1 group-title="台灣",年代MUCH (JD)
+http://co-sg2.jdiptv.cc/live/ndmuch.m3u8?kdstime=1737450373&kdssign=aec1fab77656ab0e2d3d99d0491c8151
+#EXTINF:-1 group-title="台灣",愛爾達影劇 (JD)
+http://ar-ca1.jdiptv.cc/live/eltayj.m3u8?kdstime=1737437301&kdssign=86db1665258e60f856fd98b152b28e48
+#EXTINF:-1 group-title="台灣",愛爾達影劇 (JD)
+http://ar-ca1.jdiptv.cc/live/eltayj.m3u8?kdstime=1737450447&kdssign=54f2e85a6c9aaee749b9533d574b2884
+#EXTINF:-1 group-title="台灣",愛爾達綜合 (JD)
+http://fr-us2.jdiptv.cc/live/eltazh.m3u8?kdstime=1737437196&kdssign=f4cdb388114b9889aa36ce7464593966
+#EXTINF:-1 group-title="台灣",愛爾達綜合 (JD)
+http://fr-us2.jdiptv.cc/live/eltazh.m3u8?kdstime=1737450520&kdssign=9e89785304008e22c6b315886b139070
+#EXTINF:-1 group-title="台灣",東森戲劇 (JD)
+http://fr-us3.jdiptv.cc/live/dsxj.m3u8?kdstime=1737433477&kdssign=ea8de49756c27442ab419fa65042576a
+#EXTINF:-1 group-title="台灣",東森戲劇 (JD)
+http://fr-us3.jdiptv.cc/live/dsxj.m3u8?kdstime=1737433477&kdssign=ea8de49756c27442ab419fa65042576a
+#EXTINF:-1 group-title="台灣",東森洋片 (JD)
+http://fr-us3.jdiptv.cc/live/dsyp.m3u8?kdstime=1737433549&kdssign=c35e87dabf6b3dc85f2e7075d50743af
+#EXTINF:-1 group-title="台灣",東森洋片 (JD)
+http://fr-us3.jdiptv.cc/live/dsyp.m3u8?kdstime=1737450591&kdssign=8acb9ce5578a14aa858c4f595a3fdc01
+#EXTINF:-1 group-title="台灣",東森綜合 (JD)
+http://fr-us2.jdiptv.cc/live/dszh.m3u8?kdstime=1737433589&kdssign=50d644e980236aa6a096bef38715485f
+#EXTINF:-1 group-title="台灣",東森綜合 (JD)
+http://fr-us2.jdiptv.cc/live/dszh.m3u8?kdstime=1737450639&kdssign=5f52d8d15e58143b4541b11640d849fa
+#EXTINF:-1 group-title="台灣",東森亞洲新聞 (JD)
+http://fr-us1.jdiptv.cc/live/dsyzxw.m3u8?kdstime=1737446207&kdssign=908d56f765afd29b7ad865b4cbf20339
+#EXTINF:-1 group-title="台灣",東森亞洲新聞 (JD)
+http://fr-us1.jdiptv.cc/live/dsyzxw.m3u8?kdstime=1737433623&kdssign=a8655d28a0194f5fb950d899bf16aafe
+#EXTINF:-1 group-title="台灣",東森電影 (JD)
+http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737433427&kdssign=416985ca059a814ad31f35a12b0217cc
+#EXTINF:-1 group-title="台灣",東森電影 (JD)
+http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737450697&kdssign=d8fe96622d0887ad8766910568845af3
+#EXTINF:-1 group-title="台灣",緯來戲劇 (JD)
+http://jp1.jdiptv.cc/live/wlxj.m3u8?kdstime=1737436865&kdssign=18b6513b4f444e8aee58d454db62f510
+#EXTINF:-1 group-title="台灣",緯來戲劇 (JD)
+http://jp1.jdiptv.cc/live/wlxj.m3u8?kdstime=1737450807&kdssign=822dd7aabbb4e8aecd2cc1c42810a57a
+#EXTINF:-1 group-title="台灣",緯來綜合 (JD)
+http://jp1.jdiptv.cc/live/wlzh.m3u8?kdstime=1737436908&kdssign=811741a96b5b65ceaae201f2a4f69c02
+#EXTINF:-1 group-title="台灣",緯來綜合 (JD)
+http://jp1.jdiptv.cc/live/wlzh.m3u8?kdstime=1737450922&kdssign=a76a647d60dda88d7a2486479a955fb5
+#EXTINF:-1 group-title="台灣",非凡新聞台 (JD)
+http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737433680&kdssign=916861d6844d49d9893d2f5a1a2fcaf1
+#EXTINF:-1 group-title="台灣",非凡新聞台 (JD)
+http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737451033&kdssign=ace6ecbd266473242a51a7e8c32fb4a3
+#EXTINF:-1 group-title="台灣",龍華偶像 (JD)
+http://fr-us1.jdiptv.cc/live/lhox.m3u8?kdstime=1737437084&kdssign=5038c63b8a2c2886302b1ba74bea7766
+#EXTINF:-1 group-title="台灣",龍華偶像 (JD)
+http://fr-us1.jdiptv.cc/live/lhox.m3u8?kdstime=1737451197&kdssign=bb6729071bce68768638902d7598c622
+#EXTINF:-1 group-title="台灣",龍祥電影 (JD)
+http://fr-us2.jdiptv.cc/live/lxsdgj.m3u8?kdstime=1737437873&kdssign=ac6ecdbfbdf23f09f91457ed539a69c3
+#EXTINF:-1 group-title="台灣",AMC (JD)
+http://fr-us4.jdiptv.cc/live/amcdy.m3u8?kdstime=1737438189&kdssign=ba106d5713450bcde1def7ac0daf66f4
+#EXTINF:-1 group-title="台灣",AMC (JD)
+http://fr-us4.jdiptv.cc/live/amcdy.m3u8?kdstime=1737449420&kdssign=31a9c6a861a9a6f9337278fe81269c9b
+#EXTINF:-1 group-title="台灣",AXN (JD)
+http://al-hk1.jdiptv.cc/live/axn.m3u8?kdstime=1737438301&kdssign=a4da22b7352b348691e3dadb0744e440
+#EXTINF:-1 group-title="台灣",AXN (JD)
+http://al-hk1.jdiptv.cc/live/axn.m3u8?kdstime=1737449335&kdssign=7f8a849db9f43e5fefa7af1af431549e
+#EXTINF:-1 group-title="台灣",霹靂台 (JD)
+http://fr-us3.jdiptv.cc/live/pili.m3u8?kdstime=1737437510&kdssign=92e3f477cf61baae9faab10f25a0a8f8
+#EXTINF:-1 group-title="台灣",霹靂台 (JD)
+http://fr-us3.jdiptv.cc/live/pili.m3u8?kdstime=1737437510&kdssign=92e3f477cf61baae9faab10f25a0a8f8
+#EXTINF:-1 group-title="台灣",TVBS台劇台 (JD)
+http://cc-us3.jdiptv.cc/live/tvbstj.m3u8?kdstime=1737433802&kdssign=ae052a78d7843fff79f0b060e8def45e
+#EXTINF:-1 group-title="台灣",TVBS台劇台 (JD)
+http://cc-us3.jdiptv.cc/live/tvbstj.m3u8?kdstime=1737451599&kdssign=cd57300b395b2a2540391b8fe21238c8
+#EXTINF:-1 group-title="台灣",TVBS亞洲台 (JD)
+http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737433860&kdssign=5296fd9bfefcfa44bf13f477f80bfe92
+#EXTINF:-1 group-title="台灣",TVBS亞洲台 (JD)
+http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737451648&kdssign=b486cdd371a70b689ef7d1c67df172b4
+#EXTINF:-1 group-title="台灣",TVBS亞洲台 (JD)
+http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737030712&kdssign=081aaee108c1103adb025326342d5388
+#EXTINF:-1 group-title="台灣",TVBS綜藝台 (JD)
+http://cc-us3.jdiptv.cc/live/tvbszy.m3u8?kdstime=1737433918&kdssign=d1865a1d7633a9c95a535cecad7acc3a
+#EXTINF:-1 group-title="台灣",TVBS綜藝台 (JD)
+http://cc-us3.jdiptv.cc/live/tvbszy.m3u8?kdstime=1737030784&kdssign=d9e69b09eabfab19a4e715bae03c0678
+#EXTINF:-1 group-title="台灣",壹新聞 (JD)
+http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737436537&kdssign=b3caa780c3dc3130438bc98da0eeab52
+#EXTINF:-1 group-title="台灣",壹新聞 (JD)
+http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737451397&kdssign=de36328e85c87a8a6964db682d94aa85
+#EXTINF:-1 group-title="台灣",非凡新聞 (JD)
+http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737447338&kdssign=3fa949dddc08e3a958eab243b7088ff5
+#EXTINF:-1 group-title="台灣",靖天國際台 (JD)
+http://cc-us1.jdiptv.cc/live/jtgj.m3u8?kdstime=1737436962&kdssign=492b53f776061efe7ddbcc3715f97c64
+#EXTINF:-1 group-title="台灣",靖天國際台 (JD)
+http://cc-us1.jdiptv.cc/live/jtgj.m3u8?kdstime=1737451524&kdssign=14eeb92efeb20e1077d68c6999d5d9c9
+
+
+
+
+
 #EXTINF:-1 group-title="台灣",大愛一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台灣",大愛二台
@@ -1773,144 +2094,6 @@ http://60.248.91.20:8000/main
 
 
 
-#EXTINF:-1 group-title="台灣",中天新聞 (220)
-http://220.133.220.232:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="台灣",TVBS新聞HD (220)
-http://220.133.220.232:8575/http/220.130.214.23:8088/hls/75/817/ch59.m3u8
-#EXTINF:-1 group-title="台灣",TVBS HD (220)
-http://220.133.220.232:8576/http/220.130.214.23:8088/hls/75/817/ch58.m3u8
-#EXTINF:-1 group-title="台灣",寰宇新聞 (220)
-http://220.133.220.232:8548/http/220.130.214.23:8088/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="台灣",東森新聞HD (220)
-http://220.133.220.232:8541/http/220.130.214.23:8088/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="台灣",民視新聞 (220)
-http://220.133.220.232:8543/http/220.130.214.23:8088/hls/85/80/FtvNews4max.m3u8
-#EXTINF:-1 group-title="台灣",三立新聞HD (220)
-http://220.133.220.232:8544/http/220.130.214.23:8088/hls/65/807/ch18.m3u8
-
-
-#EXTINF:-1 group-title="台灣",台視 (220)
-http://220.133.220.232:8502/http/220.130.214.23:8088/hls/86/80/Ttv4max.m3u8
-#EXTINF:-1 group-title="台灣",中視 (220)
-http://220.133.220.232:8503/http/220.130.214.23:8088/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="台灣",華視 (220)
-http://220.133.220.232:8504/http/220.130.214.23:8088/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="台灣",民視 (220)
-http://220.133.220.232:8505/http/220.130.214.23:8088/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="台灣",公視 (220)
-http://220.133.220.232:8506/http/220.130.214.23:8088/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="台灣",人間衛視 (220)
-http://220.133.220.232:8507/http/220.130.214.23:8088/hls/69/811/ch36.m3u8
-#EXTINF:-1 group-title="台灣",大愛電視 (220)
-http://220.133.220.232:8508/http/220.130.214.23:8088/hls/73/815/ch52.m3u8
-#EXTINF:-1 group-title="台灣",好消息GOOD TV (220)
-http://220.133.220.232:8509/http/220.130.214.23:8088/hls/74/816/ch53.m3u8
-#EXTINF:-1 group-title="台灣",Trace Sport Stars (220)
-http://220.133.220.232:8510/http/220.130.214.23:8092/upload/212/TraceS_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣",DISCOVERY (220)
-http://220.133.220.232:8511/http/220.130.214.23:8088/hls/71/813/ch44.m3u8
-#EXTINF:-1 group-title="台灣",旅遊生活 (220)
-http://220.133.220.232:8512/http/220.130.214.23:8088/hls/70/812/ch38.m3u8
-#EXTINF:-1 group-title="台灣",動物星球 (220)
-http://220.133.220.232:8513/http/220.130.214.23:8088/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="台灣",亞洲旅遊 (220)
-http://220.133.220.232:8514/http/220.130.214.23:8088/hls/76/818/ch61.m3u8
-#EXTINF:-1 group-title="台灣",MOMO親子台 (220)
-http://220.133.220.232:8535/http/220.130.87.218:8081/hls/90/80/momo4max.m3u8
-#EXTINF:-1 group-title="台灣",東森幼幼HD (220)
-http://220.133.220.232:8516/http/220.130.214.23:8088/hls/63/805/ch09.m3u8
-#EXTINF:-1 group-title="台灣",龍華卡通台 (220)
-http://220.133.220.232:8521/http/220.130.87.218:8068/hls/14/80/cstv14.m3u8
-#EXTINF:-1 group-title="台灣",緯來綜合HD (220)
-http://220.133.220.232:8519/http/220.130.214.23:8088/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="台灣",八大第一HD (220)
-http://220.133.220.232:8520/http/220.130.214.23:8088/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="台灣",八大綜合HD (220)
-http://220.133.220.232:8501/http/220.130.214.23:8088/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="台灣",三立台灣HD (220)
-http://220.133.220.232:8522/http/220.130.214.23:8088/hls/65/807/ch20.m3u8
-#EXTINF:-1 group-title="台灣",三立都會HD (220)
-http://220.133.220.232:8523/http/220.130.214.23:8088/hls/65/807/ch19.m3u8
-#EXTINF:-1 group-title="台灣",韓國娛樂台 (220)
-http://220.133.220.232:8524/http/220.130.214.23:8092/upload/116/KMTV_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣",東森綜合HD (220)
-http://220.133.220.232:8525/http/220.130.214.23:8088/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="台灣",超視HD (220)
-http://220.133.220.232:8526/http/220.130.214.23:8088/hls/64/806/ch14.m3u8
-#EXTINF:-1 group-title="台灣",中天綜合HD (220)
-http://220.133.220.232:8527/http/220.130.214.23:8088/hls/67/809/ch25.m3u8
-#EXTINF:-1 group-title="台灣",中天娛樂HD (220)
-http://220.133.220.232:8528/http/220.130.214.23:8088/hls/67/809/ch26.m3u8
-#EXTINF:-1 group-title="台灣",東風衛視 (220)
-http://220.133.220.232:8529/http/220.130.214.23:8088/hls/68/810/ch31.m3u8
-#EXTINF:-1 group-title="台灣",MUCH TV (220)
-http://220.133.220.232:8530/http/220.130.214.23:8088/hls/72/814/ch45.m3u8
-#EXTINF:-1 group-title="台灣",東森戲劇HD (220)
-http://220.133.220.232:8531/http/220.130.87.218:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 group-title="台灣",八大戲劇HD (220)
-http://220.133.220.232:8532/http/220.130.87.218:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="台灣",TVBS歡樂HD (220)
-http://220.133.220.232:8533/http/220.130.87.218:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 group-title="台灣",緯來戲劇 (220)
-http://220.133.220.232:8534/http/220.130.87.218:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="台灣",龍華戲劇台 (220)
-http://220.133.220.232:8579/http/220.130.87.218:8068/hls/13/80/cstv13.m3u8
-#EXTINF:-1 group-title="台灣",龍華日韓劇 (220)
-http://220.133.220.232:8581/http/220.130.87.218:8068/hls/12/80/cstv12.m3u8
-#EXTINF:-1 group-title="台灣",龍華偶像劇 (220)
-http://220.133.220.232:8582/http/220.130.87.218:8068/hls/11/80/cstv11.m3u8
-#EXTINF:-1 group-title="台灣",緯來日本HD (220)
-http://220.133.220.232:8538/http/220.130.214.23:8088/hls/69/811/ch34.m3u8
-#EXTINF:-1 group-title="台灣",Taiwan Plus (220)
-http://220.133.220.232:8539/http/220.130.214.23:8088/hls/87/80/PtsTaiwanPlus4max.m3u8
-#EXTINF:-1 group-title="台灣",非凡商業HD (220)
-http://220.133.220.232:8546/http/220.130.214.23:8088/hls/74/816/ch56.m3u8
-#EXTINF:-1 group-title="台灣",東森財經HD (220)
-http://220.133.220.232:8547/http/220.130.214.23:8088/hls/63/805/ch11.m3u8
-#EXTINF:-1 group-title="台灣",Bloomberg News (220)
-http://220.133.220.232:8552/http/220.130.87.218:8078/hls/43/80/bloomber.m3u8
-#EXTINF:-1 group-title="台灣",NHK世界HD (220)
-http://220.133.220.232:8553/http/220.130.214.23:8088/hls/62/804/ch06.m3u8
-#EXTINF:-1 group-title="台灣",鏡電視新聞台 (220)
-http://220.133.220.232:8554/http/220.130.214.23:8092/upload/114/MNEWS_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣",好萊塢電影HD (220)
-http://220.133.220.232:8555/http/220.130.214.23:8088/hls/74/816/ch55.m3u8
-#EXTINF:-1 group-title="台灣",緯來電影HD (220)
-http://220.133.220.232:8556/http/220.130.214.23:8088/hls/69/811/ch35.m3u8
-#EXTINF:-1 group-title="台灣",龍華電影台 (220)
-http://220.133.220.232:8583/http/220.130.87.218:8068/hls/10/80/cstv10.m3u8
-#EXTINF:-1 group-title="台灣",HBO (220)
-http://220.133.220.232:8558/http/220.130.214.23:8088/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="台灣",AXN (220)
-http://220.133.220.232:8559/http/220.130.214.23:8088/hls/71/813/ch43.m3u8
-#EXTINF:-1 group-title="台灣",CINEMAX HD (220)
-http://220.133.220.232:8560/http/220.130.214.23:8088/hls/71/813/ch42.m3u8
-#EXTINF:-1 group-title="台灣",AMC 電影台 (220)
-http://220.133.220.232:8561/http/220.130.214.23:8092/upload/115/AMC_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣",寵物頻道 (220)
-http://220.133.220.232:8562/http/220.130.214.23:8078/hls/40/80/pettv.m3u8
-#EXTINF:-1 group-title="台灣",緯來育樂HD (220)
-http://220.133.220.232:8563/http/220.130.214.23:8088/hls/68/810/ch30.m3u8
-#EXTINF:-1 group-title="台灣",緯來體育HD (220)
-http://220.133.220.232:8564/http/220.130.214.23:8088/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="台灣",博斯運動一 (220)
-http://220.133.220.232:8584/http/220.130.87.218:8068/hls/15/80/cstv15.m3u8
-#EXTINF:-1 group-title="台灣",momo綜合台 (220)
-http://220.133.220.232:8566/http/220.130.214.23:8088/hls/76/818/momo_max.m3u8
-#EXTINF:-1 group-title="台灣",DAZN 1 (220)
-http://220.133.220.232:8567/http/220.130.87.218:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 group-title="台灣",DAZN 2 (220)
-http://220.133.220.232:8568/http/220.130.87.218:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 group-title="台灣",廈門衛視 (220)
-http://220.133.220.232:8569/http/220.130.87.218:8078/hls/42/80/xmtv.m3u8
-#EXTINF:-1 group-title="台灣",CCTV4-中央衛視 (220)
-http://220.133.220.232:8570/http/220.130.87.218:8078/hls/42/80/cctv4.m3u8
-#EXTINF:-1 group-title="台灣",海峽衛視 (220)
-http://220.133.220.232:8571/http/220.130.87.218:8078/hls/42/80/fjttv.m3u8
-
-
-
-
 
 
 #EXTINF:-1 group-title="台灣",民視台灣台
@@ -1995,13 +2178,13 @@ http://tv543.cc/litv.php?id=4gtv-4gtv065
 http://tv543.cc/litv.php?id=4gtv-4gtv066
 #EXTINF:-1 group-title="台灣",tvbs精采台
 http://tv543.cc/litv.php?id=4gtv-4gtv067
-#EXTINF:-1 group-title="台灣",tvbs歡樂台
+#EXTINF:-1 group-title="台灣",TVBS歡樂台
 http://tv543.cc/litv.php?id=4gtv-4gtv068
 #EXTINF:-1 group-title="台灣",愛爾達娛樂
 http://tv543.cc/litv.php?id=4gtv-4gtv070
-#EXTINF:-1 group-title="台灣",tvbs新聞台
+#EXTINF:-1 group-title="台灣",TVBS新聞台
 http://tv543.cc/litv.php?id=4gtv-4gtv072
-#EXTINF:-1 group-title="台灣",tvbs
+#EXTINF:-1 group-title="台灣",TVBS
 http://tv543.cc/litv.php?id=4gtv-4gtv073
 #EXTINF:-1 group-title="台灣",中視新聞
 http://tv543.cc/litv.php?id=4gtv-4gtv074
@@ -2059,23 +2242,23 @@ http://tv543.cc/litv.php?id=litv-longturn01
 http://tv543.cc/litv.php?id=litv-longturn03
 #EXTINF:-1 group-title="台灣",博斯魅力
 http://tv543.cc/litv.php?id=litv-longturn04
-#EXTINF:-1 group-title="台灣",博斯高球1
+#EXTINF:-1 group-title="台灣",博斯高球1台
 http://tv543.cc/litv.php?id=litv-longturn05
-#EXTINF:-1 group-title="台灣",博斯高球2
+#EXTINF:-1 group-title="台灣",博斯高球2台
 http://tv543.cc/litv.php?id=litv-longturn06
-#EXTINF:-1 group-title="台灣",博斯運動1
+#EXTINF:-1 group-title="台灣",博斯運動1台
 http://tv543.cc/litv.php?id=litv-longturn07
-#EXTINF:-1 group-title="台灣",博斯運動2
+#EXTINF:-1 group-title="台灣",博斯運動2台
 http://tv543.cc/litv.php?id=litv-longturn08
-#EXTINF:-1 group-title="台灣",博斯網球
+#EXTINF:-1 group-title="台灣",博斯網球台
 http://tv543.cc/litv.php?id=litv-longturn09
-#EXTINF:-1 group-title="台灣",博斯無限
+#EXTINF:-1 group-title="台灣",博斯無限1台
 http://tv543.cc/litv.php?id=litv-longturn10
 #EXTINF:-1 group-title="台灣",龍華日韓
 http://tv543.cc/litv.php?id=litv-longturn11
 #EXTINF:-1 group-title="台灣",龍華偶像
 http://tv543.cc/litv.php?id=litv-longturn12
-#EXTINF:-1 group-title="台灣",博斯無限2
+#EXTINF:-1 group-title="台灣",博斯無限2台
 http://tv543.cc/litv.php?id=litv-longturn13
 #EXTINF:-1 group-title="台灣",寰宇新聞台
 http://tv543.cc/litv.php?id=litv-longturn14
@@ -2277,7 +2460,7 @@ https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv013
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv014
 #EXTINF:-1 group-title="LITV立視",Globetrotter 環遊旅行家
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv016
-#EXTINF:-1 group-title="LITV立視",AMC 最愛電影
+#EXTINF:-1 group-title="LITV立視",AMC最愛電影
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
 #EXTINF:-1 group-title="LITV立視",達文西頻道
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv018
@@ -2586,13 +2769,13 @@ http://vcstiok.serv00.net/litv1.php?id=http://vcstiok.serv00.net/litv1.php?id=li
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn03
 #EXTINF:-1,tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png" group-title="台灣立視",博斯魅力
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn04
-#EXTINF:-1,tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="台灣立視",博斯高球1
+#EXTINF:-1,tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="台灣立視",博斯高球1台
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn05
-#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="台灣立視",博斯高球2
+#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="台灣立視",博斯高球2台
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn06
-#EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="台灣立視",博斯運動1
+#EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="台灣立視",博斯運動1台
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn07
-#EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="台灣立視",博斯運動2
+#EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="台灣立視",博斯運動2台
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn08
 #EXTINF:-1,tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://epg.112114.xyz/logo/博斯网球台.png" group-title="台灣立視",博斯網球
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn09
@@ -2602,7 +2785,7 @@ http://vcstiok.serv00.net/litv1.php?id=litv-longturn10
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn11
 #EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="台灣立視",龍華偶像
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn12
-#EXTINF:-1,tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://epg.112114.xyz/logo/博斯无限2.png" group-title="台灣立視",博斯無限2
+#EXTINF:-1,tvg-id="博斯无限2" tvg-name="博斯无限2" tvg-logo="https://epg.112114.xyz/logo/博斯无限2.png" group-title="台灣立視",博斯無限2台
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn13
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="台灣立視",寰宇新聞台
 http://vcstiok.serv00.net/litv1.php?id=litv-longturn14
@@ -2631,8 +2814,6 @@ http://vcstiok.serv00.net/litv1.php?id=litv-longturn22
 
 
 
-#EXTINF:-1 group-title="體育",CCTV5+
-http://112.15.228.206:80/PLTV/88888888/224/3221231459/1.m3u8
 
 #EXTINF:-1 group-title="體育",BT Sport 1 UK
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2505/index.m3u8
@@ -3041,315 +3222,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/1125008
 
 
 
-#EXTINF:-1 group-title="4GTV 綜合",民視
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv002
-#EXTINF:-1 group-title="4GTV 綜合",民視第一台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv003
-#EXTINF:-1 group-title="4GTV 綜合",民視台灣台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv001
-#EXTINF:-1 group-title="4GTV 綜合",中視
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv040
-#EXTINF:-1 group-title="4GTV 綜合",中視菁采台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv064
-#EXTINF:-1 group-title="4GTV 綜合",中天亞洲台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv109
-#EXTINF:-1 group-title="4GTV 綜合",華視
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv041
-#EXTINF:-1 group-title="4GTV 綜合",靖天綜合台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv046
-#EXTINF:-1 group-title="4GTV 綜合",靖天國際台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv063
-#EXTINF:-1 group-title="4GTV 綜合",靖天日本台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv047
-#EXTINF:-1 group-title="4GTV 綜合",三立綜合台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/169
-#EXTINF:-1 group-title="4GTV 綜合",台視
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv066
-#EXTINF:-1 group-title="4GTV 綜合",Arirang TV
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv079
-#EXTINF:-1 group-title="4GTV 綜合",Bloomberg TV
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/283
-
-
-#EXTINF:-1 group-title="4GTV 新聞財經",民視新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv13
-#EXTINF:-1 group-title="4GTV 新聞財經",中視新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv074
-#EXTINF:-1 group-title="4GTV 新聞財經",中天新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="4GTV 新聞財經",華視新聞
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv052
-#EXTINF:-1 group-title="4GTV 新聞財經",靖天資訊台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv065
-#EXTINF:-1 group-title="4GTV 新聞財經",寰宇新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn14
-#EXTINF:-1 group-title="4GTV 新聞財經",寰宇新聞台灣台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn15
-#EXTINF:-1 group-title="4GTV 新聞財經",寰宇財經台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn23
-#EXTINF:-1 group-title="4GTV 新聞財經",TVBS 新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv072
-#EXTINF:-1 group-title="4GTV 新聞財經",三立 iNEWS
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/229
-#EXTINF:-1 group-title="4GTV 新聞財經",台視新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv051
-#EXTINF:-1 group-title="4GTV 新聞財經",台視財經台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv056
-#EXTINF:-1 group-title="4GTV 新聞財經",東森新聞
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv152
-#EXTINF:-1 group-title="4GTV 新聞財經",東森財經新聞
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv153
-#EXTINF:-1 group-title="4GTV 新聞財經",非凡新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv010
-#EXTINF:-1 group-title="4GTV 新聞財經",非凡商業台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv048
-#EXTINF:-1 group-title="4GTV 新聞財經",鏡電視新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv075
-#EXTINF:-1 group-title="4GTV 新聞財經",CNBC Asia 財經台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/235
-#EXTINF:-1 group-title="4GTV 新聞財經",VOA 美國之音
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv03
-#EXTINF:-1 group-title="4GTV 新聞財經",DW德國之聲
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/226
-#EXTINF:-1 group-title="4GTV 新聞財經",SBN 全球財經台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/224
-#EXTINF:-1 group-title="4GTV 新聞財經",半島國際新聞台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv10
-#EXTINF:-1 group-title="4GTV 新聞財經",第1商業台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv104
-
-
-#EXTINF:-1 group-title="4GTV 電影戲劇",民視影劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv09
-#EXTINF:-1 group-title="4GTV 電影戲劇",中視經典台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv080
-#EXTINF:-1 group-title="4GTV 電影戲劇",靖天戲劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv058
-#EXTINF:-1 group-title="4GTV 電影戲劇",靖天電影台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv061
-#EXTINF:-1 group-title="4GTV 電影戲劇",龍華偶像台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn12
-#EXTINF:-1 group-title="4GTV 電影戲劇",龍華戲劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn18
-#EXTINF:-1 group-title="4GTV 電影戲劇",龍華經典台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn21
-#EXTINF:-1 group-title="4GTV 電影戲劇",龍華電影台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn03
-#EXTINF:-1 group-title="4GTV 電影戲劇",靖洋戲劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv045
-#EXTINF:-1 group-title="4GTV 電影戲劇",TVBS 台劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/285
-#EXTINF:-1 group-title="4GTV 電影戲劇",影迷數位紀實台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/212
-#EXTINF:-1 group-title="4GTV 電影戲劇",影迷數位電影台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv011
-#EXTINF:-1 group-title="4GTV 電影戲劇",AMC 電影台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv017
-#EXTINF:-1 group-title="4GTV 電影戲劇",CatchPlay 電影台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv076
-#EXTINF:-1 group-title="4GTV 電影戲劇",My Cinema Europe HD 我的歐洲電影
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/176
-#EXTINF:-1 group-title="4GTV 電影戲劇",公視戲劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv042
-#EXTINF:-1 group-title="4GTV 電影戲劇",采昌影劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv049
-#EXTINF:-1 group-title="4GTV 電影戲劇",台灣戲劇台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn22
-#EXTINF:-1 group-title="4GTV 電影戲劇",戲劇免費看 1台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/270
-#EXTINF:-1 group-title="4GTV 電影戲劇",戲劇免費看 2台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/244
-#EXTINF:-1 group-title="4GTV 電影戲劇",經典電影台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/201
-#EXTINF:-1 group-title="4GTV 電影戲劇",電影免費看 2台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/245
-#EXTINF:-1 group-title="4GTV 電影戲劇",電影原聲台 CMusic
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/218
-#EXTINF:-1 group-title="4GTV 電影戲劇",花系列 經典劇場
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/279
-#EXTINF:-1 group-title="4GTV 電影戲劇",CinemaWorld
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/225
-#EXTINF:-1 group-title="4GTV 電影戲劇",HITS 頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/186
-#EXTINF:-1 group-title="4GTV 電影戲劇",Rock Action
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/180
-#EXTINF:-1 group-title="4GTV 電影戲劇",Rock Entertainment
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/275
-#EXTINF:-1 group-title="4GTV 電影戲劇",金光布袋戲
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/236
-#EXTINF:-1 group-title="4GTV 電影戲劇",霹靂布袋戲
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/301
-
-
-#EXTINF:-1 group-title="4GTV 生活旅遊",民視旅遊台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv07
-#EXTINF:-1 group-title="4GTV 生活旅遊",ELTA 生活旅遊
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/237
-#EXTINF:-1 group-title="4GTV 生活旅遊",ELTV 生活英語
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn20
-#EXTINF:-1 group-title="4GTV 生活旅遊",亞洲旅遊台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn17
-#EXTINF:-1 group-title="4GTV 生活旅遊",Global Trekker
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/252
-#EXTINF:-1 group-title="4GTV 生活旅遊",LUXE TV
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/175
-#EXTINF:-1 group-title="4GTV 生活旅遊",Pet Club TV
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/182
-#EXTINF:-1 group-title="4GTV 生活旅遊",TV5MONDE Style
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/178
-#EXTINF:-1 group-title="4GTV 生活旅遊",車迷 TV
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/160
-#EXTINF:-1 group-title="4GTV 生活旅遊",Love Nature
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/139
-#EXTINF:-1 group-title="4GTV 生活旅遊",Fun 探索娛樂台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/274
-#EXTINF:-1 group-title="4GTV 生活旅遊",幸福空間居家台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/168
-
-
-#EXTINF:-1 group-title="4GTV 音樂綜藝",民視綜藝台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv004
-#EXTINF:-1 group-title="4GTV 音樂綜藝",靖天育樂台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv062
-#EXTINF:-1 group-title="4GTV 音樂綜藝",靖天歡樂台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv054
-#EXTINF:-1 group-title="4GTV 音樂綜藝",龍華日韓台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn11
-#EXTINF:-1 group-title="4GTV 音樂綜藝",TVBS 綜藝台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/284
-#EXTINF:-1 group-title="4GTV 音樂綜藝",TVBS 歡樂台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv068
-#EXTINF:-1 group-title="4GTV 音樂綜藝",TVBS 精采台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv067
-#EXTINF:-1 group-title="4GTV 音樂綜藝",八大精彩台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv034
-#EXTINF:-1 group-title="4GTV 音樂綜藝",八大綜藝台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv039
-#EXTINF:-1 group-title="4GTV 音樂綜藝",ELTA 娛樂台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv070
-#EXTINF:-1 group-title="4GTV 音樂綜藝",Classica 古典樂
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv059
-#EXTINF:-1 group-title="4GTV 音樂綜藝",Lifetime 娛樂頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/217
-#EXTINF:-1 group-title="4GTV 音樂綜藝",MTV Live HD 音樂頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/213
-#EXTINF:-1 group-title="4GTV 音樂綜藝",Mezzo Live
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv083
-#EXTINF:-1 group-title="4GTV 音樂綜藝",豬哥亮歌廳秀
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv006
-#EXTINF:-1 group-title="4GTV 音樂綜藝",Trace Urban
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv082
-#EXTINF:-1 group-title="4GTV 音樂綜藝",韓國娛樂台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv016
-
-
-#EXTINF:-1 group-title="4GTV 少兒",靖天映畫台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv055
-#EXTINF:-1 group-title="4GTV 少兒",靖天卡通台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv044
-#EXTINF:-1 group-title="4GTV 少兒",龍華卡通台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn01
-#EXTINF:-1 group-title="4GTV 少兒",靖洋卡通 Nice Bingo
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv057
-#EXTINF:-1 group-title="4GTV 少兒",DreamWorks 夢工廠動畫
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/282
-#EXTINF:-1 group-title="4GTV 少兒",Nickelodeon
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/185
-#EXTINF:-1 group-title="4GTV 少兒",Nick Jr. 兒童頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/219
-#EXTINF:-1 group-title="4GTV 少兒",i-Fun 動漫台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv15
-#EXTINF:-1 group-title="4GTV 少兒",兒童卡通台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/269
-#EXTINF:-1 group-title="4GTV 少兒",精選動漫台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/204
-#EXTINF:-1 group-title="4GTV 少兒",經典卡通台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/202
-#EXTINF:-1 group-title="4GTV 少兒",達文西頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv018
-#EXTINF:-1 group-title="4GTV 少兒",超人力霸王整套看
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/278
-#EXTINF:-1 group-title="4GTV 少兒",MOMO 親子台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/231
-#EXTINF:-1 group-title="4GTV 少兒",LiveABC 互動英語台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/188
-
-
-#EXTINF:-1 group-title="4GTV 其他",TVBS
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv073
-#EXTINF:-1 group-title="4GTV 其他",History 歷史頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/214
-#EXTINF:-1 group-title="4GTV 其他",CI 罪案偵查頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/215
-#EXTINF:-1 group-title="4GTV 其他",Smart 知識台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn19
-#EXTINF:-1 group-title="4GTV 其他",視納華仁紀實頻道
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv013
-#EXTINF:-1 group-title="4GTV 其他",原住民族電視台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/273
-#EXTINF:-1 group-title="4GTV 其他",客家電視台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv043
-#EXTINF:-1 group-title="4GTV 其他",滾動力 Rollor
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/249
-#EXTINF:-1 group-title="4GTV 其他",好消息
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv16
-#EXTINF:-1 group-title="4GTV 其他",好消息2台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-ftv17
-#EXTINF:-1 group-title="4GTV 其他",大愛電視
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/209
-#EXTINF:-1 group-title="4GTV 其他",大愛電視2
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/230
-#EXTINF:-1 group-title="4GTV 其他",人間衛視
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/210
-#EXTINF:-1 group-title="4GTV 其他",國會頻道1
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv084
-#EXTINF:-1 group-title="4GTV 其他",國會頻道2
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv085
-#EXTINF:-1 group-title="4GTV 其他",東森購物一台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/173
-#EXTINF:-1 group-title="4GTV 其他",東森購物二台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/174
-#EXTINF:-1 group-title="4GTV 其他",東森購物三台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/287
-#EXTINF:-1 group-title="4GTV 其他",東森購物四台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/286
-
-#EXTINF:-1 group-title="4GTV 體育",博斯運動一台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn07
-#EXTINF:-1 group-title="4GTV 體育",博斯運動二台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn08
-#EXTINF:-1 group-title="4GTV 體育",博斯無限台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn10
-#EXTINF:-1 group-title="4GTV 體育",博斯無限二台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn13
-#EXTINF:-1 group-title="4GTV 體育",博斯網球台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn09
-#EXTINF:-1 group-title="4GTV 體育",博斯高球台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn05
-#EXTINF:-1 group-title="4GTV 體育",博斯高球二台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn06
-#EXTINF:-1 group-title="4GTV 體育",博斯魅力台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/litv-longturn04
-#EXTINF:-1 group-title="4GTV 體育",GINX Esports TV
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv053
-#EXTINF:-1 group-title="4GTV 體育",TechStorm
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/181
-#EXTINF:-1 group-title="4GTV 體育",時尚運動X
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/4gtv/277
-#EXTINF:-1 group-title="4GTV 體育",智林體育台
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv101
-#EXTINF:-1 group-title="4GTV 體育",TraceSports
-https://distant-dita-bobyang03-1e6eec5a.koyeb.app/litv/4gtv-4gtv077
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="MALAYSIA",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 #EXTINF:-1 group-title="MALAYSIA",TV2
@@ -3427,10 +3299,6 @@ http://suprino.xyz:80/W8MEP61/2X2H702/955660
 http://suprino.xyz:80/W8MEP61/2X2H702/955661
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 2 HD" tvg-logo=" http://go4.pw/ASIA/astro2.png" group-title="MALAYSIA",ASTRO SUPERSPORT 2 HD
 http://suprino.xyz:80/W8MEP61/2X2H702/955663
-
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY: ASTRO SUPERSPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MALAYSIA",ASTRO SUPERSPORT 3 FHD
-http://215605059607826377.ofxn1112.xyz:80/play/me816121/UMeYUEerfT/826377.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 4 HD" tvg-logo=" http://go4.pw/ASIA/astro4.png" group-title="MALAYSIA",ASTRO SUPERSPORT 4 HD
 http://suprino.xyz:80/W8MEP61/2X2H702/955665
 #EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET HD" tvg-logo="http://go4.pw/astro_logo.png" group-title="MALAYSIA",ASTRO CRICKET HD
@@ -4593,371 +4461,371 @@ https://raw.githubusercontent.com/jsosao/m3u/refs/heads/main/test2.m3u8
 
 
 
-#EXTINF:-1 group-title="Bics MoveOnJoy US", US: ABC EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",US: ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ABC EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ABC EAST
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ACC NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ACC NETWORK
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", AMC NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", American Heroes Channel
+#EXTINF:-1 group-title="Bics MoveOnJoy US",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", Animal Planet
+#EXTINF:-1 group-title="Bics MoveOnJoy US",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", Antenna
+#EXTINF:-1 group-title="Bics MoveOnJoy US",Antenna
 http://fl3.moveonjoy.com/Antenna/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", Aspire
+#EXTINF:-1 group-title="Bics MoveOnJoy US",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BBC AMERICA
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BBC AMERICA
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BBC WORLD NEWS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BBC WORLD NEWS
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BEIN SPORTS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BEIN SPORTS
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BET EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BET EAST
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BET GOSPEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BET GOSPEL
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BET HER
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BET HER
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BET JAMS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BET JAMS
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BET SOUL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BET SOUL
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BIG TEN NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BIG TEN NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BLOOMBERG
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BLOOMBERG
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BOOMERANG
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BOOMERANG
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BOUNCE TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BOUNCE TV
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BRAVO
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BRAVO
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", BUZZR
+#EXTINF:-1 group-title="Bics MoveOnJoy US",BUZZR
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", C SPAN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",C SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CARTOON NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CARTOON NETWORK
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CBS EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CBS EAST
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CBS SPORTS NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CBS SPORTS NETWORK
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CINEMAX
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CINEMAX
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CINEMAX EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CINEMAX EAST
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CINEMAX WEST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CINEMAX WEST
 http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CINEMAX MOREMAX
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CINEMAX MOREMAX
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CLEO TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CLEO TV
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CMT
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CNBC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CNN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CNN INTERNACIONAL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CNN INTERNACIONAL
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", COMEDY CENTRAL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",COMEDY CENTRAL
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", COMEDY TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",COMEDY TV
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", COMET
+#EXTINF:-1 group-title="Bics MoveOnJoy US",COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", COOKING CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",COOKING CHANNEL
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", COURT TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",COURT TV
 http://fl3.moveonjoy.com/COURT_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", COZI TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CRIME AND INVESTIGATION NET
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CRIME AND INVESTIGATION NET
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CRAVE 1
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CRAVE 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CRAVE 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CRAVE 2
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CRAVE 3
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CRAVE 3
 http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CRAVE 4
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CRAVE 4
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", CURIOSITY STREAM
+#EXTINF:-1 group-title="Bics MoveOnJoy US",CURIOSITY STREAM
 http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DESTINATION AMERICA
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DESTINATION AMERICA
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISCOVERY CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISCOVERY CHANNEL
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISCOVERY FAMILY CHANNEL
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISCOVERY LIFE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISCOVERY LIFE
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISCOVERY SCIENCE
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISNEY CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISNEY CHANNEL
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISNEY JR
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DISNEY XD
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DISNEY XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", DIY
+#EXTINF:-1 group-title="Bics MoveOnJoy US",DIY
 http://fl2.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", E!
+#EXTINF:-1 group-title="Bics MoveOnJoy US",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", EPIX
+#EXTINF:-1 group-title="Bics MoveOnJoy US",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", EPIX 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", EPIX DRIVE IN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",EPIX DRIVE IN
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", EPIX HITS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",EPIX HITS
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ESPN
 http://fl2.moveonjoy.com/ESPN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN NEWS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ESPN NEWS
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ESPN U
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOOD NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOOD NETWORK
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOX EAST
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX BUSSINESS NET
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOX BUSSINESS NET
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX NEWS CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOX NEWS CHANNEL
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SPORTS 1
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SPORTS 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOX SPORTS 2
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FOX SOUL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FREE FORM
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FREE FORM
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FUSE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FUSE
 http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FX
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FX MOVIE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FX MOVIE
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FXX
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", FYI
+#EXTINF:-1 group-title="Bics MoveOnJoy US",FYI
 http://fl5.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", GAME SHOW NET
+#EXTINF:-1 group-title="Bics MoveOnJoy US",GAME SHOW NET
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", GET TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",GET TV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", GOLF CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",GOLF CHANNEL
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", GRIT TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",GRIT TV
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HALLMARK CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HALLMARK CHANNEL
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HALLMARK DRAMA
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HALLMARK DRAMA
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HBO
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HBO
 http://fl5.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HBO 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HBO 2
 http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HBO COMEDY
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HBO COMEDY
 http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HBO FAMILY
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HBO FAMILY
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HBO ZONE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HBO ZONE
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HGTV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HGTV
 http://fl5.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HLN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", HSN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",HSN
 http://fl2.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", INSP
+#EXTINF:-1 group-title="Bics MoveOnJoy US",INSP
 http://fl2.moveonjoy.com/INSP/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ID
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ID
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ION TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ION TV
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ION PLUS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", LIFETIME
+#EXTINF:-1 group-title="Bics MoveOnJoy US",LIFETIME
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", LIFETIME MOVIE NET
+#EXTINF:-1 group-title="Bics MoveOnJoy US",LIFETIME MOVIE NET
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", LOGO
+#EXTINF:-1 group-title="Bics MoveOnJoy US",LOGO
 http://fl3.moveonjoy.com/Logo/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", LONGHORN NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",LONGHORN NETWORK
 http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", LMAV TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",LMAV TV
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", ME TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",ME TV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MILITARY HISTORY
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MILITARY HISTORY
 http://fl3.moveonjoy.com/Military_History/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MLB NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MLB NETWORK
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MOTOR TREND
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MOTOR TREND
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MSG
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MSNBC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MTV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MTV 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MTV 2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MTV CLASSIC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MTV CLASSIC
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MTV LIVE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MTV LIVE
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", MTV U
+#EXTINF:-1 group-title="Bics MoveOnJoy US",MTV U
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NAT GEO
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NAT GEO
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NAT GEO WILD
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NAT GEO WILD
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NBA TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NBC EAST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NBC EAST
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NBC SPORT NET
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NBC SPORT NET
 http://fl2.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NEWS NATION
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NEWS NATION
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NEWS Y
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NEWS Y
 http://fl3.moveonjoy.com/Newsy/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NFL NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NFL NETWORK
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NHL NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NHL NETWORK
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NICKELODEON
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NICKELODEON
 http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NICK JR
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NICK JR
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NICK MUSIC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NICK MUSIC
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", NICKTOONS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",NICKTOONS
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TEEN NICK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TEEN NICK
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8 
-#EXTINF:-1 group-title="Bics MoveOnJoy US", OUTDOOR CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",OUTDOOR CHANNEL
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", OUTSIDE TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",OUTSIDE TV
 http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", OVATION
+#EXTINF:-1 group-title="Bics MoveOnJoy US",OVATION
 http://fl3.moveonjoy.com/Ovation/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", OWN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",OWN
 http://fl2.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", OXYGEN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",OXYGEN
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", OUTER MAX
+#EXTINF:-1 group-title="Bics MoveOnJoy US",OUTER MAX
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", PAC 12 [STOPPED BROADCASTING]
+#EXTINF:-1 group-title="Bics MoveOnJoy US",PAC 12 [STOPPED BROADCASTING]
 http://fl3.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", PARAMOUNT NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", POP TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",POP TV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", PURSUIT CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",PURSUIT CHANNEL
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", QVC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",QVC
 http://fl2.moveonjoy.com/QVC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", REELZ
+#EXTINF:-1 group-title="Bics MoveOnJoy US",REELZ
 http://fl2.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", REVOLT
+#EXTINF:-1 group-title="Bics MoveOnJoy US",REVOLT
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SEC NETWORK [Not Working]
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SEC NETWORK [Not Working]
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8 
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SHOWTIME
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SHOWTIME
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SHOWTIME 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SHOWTIME 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SHOWTIME EXTREME
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SHOWTIME EXTREME
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SHOWTIME NEXT
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SHOWTIME NEXT
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SHOWTIME WOMEN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SHOWTIME WOMEN
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SHOWTIME WEST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SHOWTIME WEST
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SMITHSONIAN CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SMITHSONIAN CHANNEL
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SONY MOVIE CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SONY MOVIE CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STADIUM
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STADIUM
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ
 http://fl5.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ COMEDY
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ COMEDY
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ EDGE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ EDGE
 http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ ENCORE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ ENCORE
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ ENCORE ACTION
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ ENCORE ACTION
 http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ ENCORE CLASSIC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ ENCORE CLASSIC
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ ENCORE WESTERNS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ ENCORE WESTERNS
 http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", STARZ WEST
+#EXTINF:-1 group-title="Bics MoveOnJoy US",STARZ WEST
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SUNDANCE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SUNDANCE
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", SYFY
+#EXTINF:-1 group-title="Bics MoveOnJoy US",SYFY
 http://fl5.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TBS
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TCM
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TCM
 http://fl2.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TENNIS CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", THE WEATHER CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",THE WEATHER CHANNEL
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TLC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TLC
 http://fl5.moveonjoy.com/TLC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TNT
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TNT
 http://fl5.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TRAVEL CHANNEL
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TRAVEL CHANNEL
 http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TRU TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TRU TV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TSN 1
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TSN 2
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TSN 3
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TSN 4
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TSN 5
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TV LAND
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TV LAND
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TV ONE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TV ONE
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", TVG
+#EXTINF:-1 group-title="Bics MoveOnJoy US",TVG
 http://fl2.moveonjoy.com/TVG/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", UFC
+#EXTINF:-1 group-title="Bics MoveOnJoy US",UFC
 http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", USA NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",USA NETWORK
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", VH1 
+#EXTINF:-1 group-title="Bics MoveOnJoy US",VH1 
 http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", VICELAND
+#EXTINF:-1 group-title="Bics MoveOnJoy US",VICELAND
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", WE TV
+#EXTINF:-1 group-title="Bics MoveOnJoy US",WE TV
 http://fl2.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", WGN
+#EXTINF:-1 group-title="Bics MoveOnJoy US",WGN
 http://fl2.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", WWE
+#EXTINF:-1 group-title="Bics MoveOnJoy US",WWE
 http://fl2.moveonjoy.com/WWE/index.m3u8
-#EXTINF:-1 group-title="Bics MoveOnJoy US", YES NETWORK
+#EXTINF:-1 group-title="Bics MoveOnJoy US",YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
