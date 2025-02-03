@@ -1316,6 +1316,72 @@ http://protv.fun:80/play/live.php?extension=ts&mac=00:1A:79:12:BC:80&stream=9415
 
 
 
+#EXTINF:-1 group-title="香港",RHK 31 (JD)
+http://jp1.jdiptv.cc/live/rthk31.m3u8?kdstime=1737027675&kdssign=5873a4573de087125ea66ef0cbca5dd6
+#EXTINF:-1 group-title="香港",RHK 32 (JD)
+http://jp1.jdiptv.cc/live/rthk32.m3u8?kdstime=1737027727&kdssign=bb3e9c468e19028f61e4be9f3bf811ac
+#EXTINF:-1 group-title="香港",TVB Plus (JD)
+http://co-sg3.jdiptv.cc/live/tvbj2.m3u8?kdstime=1737424642&kdssign=f8ebd3537d6d7d59745bc518519d79f9
+#EXTINF:-1 group-title="香港",TVB Plus (JD)
+http://co-sg3.jdiptv.cc/live/tvbj2.m3u8?kdstime=1737454624&kdssign=459ec5c62ca6f96b1aaff4978e5c7490
+#EXTINF:-1 group-title="香港",翡翠台 (JD)
+http://co-sg1.jdiptv.cc/live/jade.m3u8?kdstime=1737422816&kdssign=eea2b030dcf6ab6673c56756a195ea51
+#EXTINF:-1 group-title="香港",翡翠台 (JD)
+http://co-sg2.jdiptv.cc/live/jade.m3u8?kdstime=1737424202&kdssign=aa99d617144780fd26fef18f22d1877a
+#EXTINF:-1 group-title="香港",翡翠台 (JD)
+http://co-sg3.jdiptv.cc/live/jadea2.m3u8?kdstime=1737424210&kdssign=d1727d9fb169d55b37ae4ea1ba05582f
+#EXTINF:-1 group-title="香港",無線新聞台 (JD)
+http://co-sg2.jdiptv.cc/live/tvbxw.m3u8?kdstime=1737425194&kdssign=6f693df9396436b3b6bb3b5cb06592df
+#EXTINF:-1 group-title="香港",無線新聞台 (JD)
+http://194.233.78.81/live/tvbxw.m3u8?kdstime=1737454695&kdssign=8b364628c5392112ee29c1548204f133
+#EXTINF:-1 group-title="香港",美亞電影台 (JD)
+http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737427301&kdssign=914b9e09524a473917ea7746c9b1a6cc
+#EXTINF:-1 group-title="香港",美亞電影台 (JD)
+http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737454766&kdssign=73b9e9004cea38594c616a2dd5cec4d1
+#EXTINF:-1 group-title="香港",黃金翡翠台 (JD)
+http://co-sg2.jdiptv.cc/live/hjfct.m3u8?kdstime=1737026825&kdssign=3777aba4a8f5f16ffd30dce146dbded0
+#EXTINF:-1 group-title="香港",黃金翡翠台 (JD)
+http://194.233.78.81/live/hjfct.m3u8?kdstime=1737454860&kdssign=71d21aaba5e96459b9aa33374748146c
+#EXTINF:-1 group-title="香港",TVB經典台 (JD)
+http://co-sg1.jdiptv.cc/live/tvbjd.m3u8?kdstime=1737425033&kdssign=c8c7ca2428a05542153d22ac9b9a9715
+#EXTINF:-1 group-title="香港",TVB星河台 (JD)
+http://fr-us3.jdiptv.cc/live/tvbxh.m3u8?kdstime=1737424888&kdssign=defe74e1b0fc78ea3acc15bc547d1bc3
+#EXTINF:-1 group-title="香港",TVB星河台 (JD)
+http://209.141.40.39/live/tvbxh.m3u8?kdstime=1737454914&kdssign=b9b2de8d6f92d26b3c1db4dfa438a0ce
+#EXTINF:-1 group-title="香港",TVB娛樂新聞台 (JD)
+http://fr-us3.jdiptv.cc/live/tvbyl.m3u8?kdstime=1737425307&kdssign=b3097de92b6e42452cc3bf552be068ca
+#EXTINF:-1 group-title="香港",TVB娛樂新聞台 (JD)
+http://fr-us3.jdiptv.cc/live/tvbyl.m3u8?kdstime=1737454990&kdssign=b8bfcadfcdd8a6d2bcce784a98dd1d65
+#EXTINF:-1 group-title="香港",天映頻道 (JD)
+http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
+#EXTINF:-1 group-title="香港",華語劇台 (JD)
+http://194.233.78.81/live/hyjt.m3u8?kdstime=1737442338&kdssign=2fd3eb13da893b415e1e958c61d504bd
+#EXTINF:-1 group-title="香港",華語劇台 (JD)
+http://194.233.78.81/live/hyjt.m3u8?kdstime=1737454444&kdssign=8d0d263b24ea710988e64ce0cd5099ce
+#EXTINF:-1 group-title="香港",亞洲劇台 (JD)
+http://194.233.78.81/live/yzjt.m3u8?kdstime=1737455041&kdssign=dc0955ea3a627f52d5088b646e75b939
+#EXTINF:-1 group-title="香港",亞洲劇台 (JD)
+http://194.233.78.81/live/yzjt.m3u8?kdstime=1737455087&kdssign=3902452a8000bf3cb094855a48e9bf4f
+#EXTINF:-1 group-title="香港",HOY資訊台 (JD)
+http://cl-hk1.jdiptv.cc/live/hoy78.m3u8?kdstime=1737442281&kdssign=0d63691ef83c2d5e42386f7eaf49c839
+#EXTINF:-1 group-title="香港",HOY TV (JD)
+http://cl-hk1.jdiptv.cc/live/hoy77.m3u8?kdstime=1737442226&kdssign=d588e7cf6c8e36c0dcc833454bb975a3
+#EXTINF:-1 group-title="香港",viutv (JD)
+http://fr-us1.jdiptv.cc/live/viutv.m3u8?kdstime=1737028215&kdssign=e5e41e5ebf9fe10523b75a39ba339024
+#EXTINF:-1 group-title="香港",viutv6 (JD)
+http://cc-us3.jdiptv.cc/live/viu6.m3u8?kdstime=1737028264&kdssign=aa64e836c3b1eb56436c2bf7bdc72a6f
+#EXTINF:-1 group-title="香港",Thrill (JD)
+http://co-sg3.jdiptv.cc/live/thrill.m3u8?kdstime=1737026148&kdssign=74c93cc9788fde5cc64a183856f75088
+#EXTINF:-1 group-title="香港",PopC (JD)
+http://co-sg1.jdiptv.cc/live/popc.m3u8?kdstime=1737425642&kdssign=3f3e60bfdc73551cd8509d36c0746aef
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="香港",翡翠台4K
@@ -1408,72 +1474,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="香港",澳視衛星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-
-
-
-
-
-#EXTINF:-1 group-title="香港",RHK 31
-http://jp1.jdiptv.cc/live/rthk31.m3u8?kdstime=1737027675&kdssign=5873a4573de087125ea66ef0cbca5dd6
-#EXTINF:-1 group-title="香港",RHK 32
-http://jp1.jdiptv.cc/live/rthk32.m3u8?kdstime=1737027727&kdssign=bb3e9c468e19028f61e4be9f3bf811ac
-#EXTINF:-1 group-title="香港",TVB Plus
-http://co-sg3.jdiptv.cc/live/tvbj2.m3u8?kdstime=1737424642&kdssign=f8ebd3537d6d7d59745bc518519d79f9
-#EXTINF:-1 group-title="香港",TVB Plus
-http://co-sg3.jdiptv.cc/live/tvbj2.m3u8?kdstime=1737454624&kdssign=459ec5c62ca6f96b1aaff4978e5c7490
-#EXTINF:-1 group-title="香港",翡翠台
-http://co-sg1.jdiptv.cc/live/jade.m3u8?kdstime=1737422816&kdssign=eea2b030dcf6ab6673c56756a195ea51
-#EXTINF:-1 group-title="香港",翡翠台
-http://co-sg2.jdiptv.cc/live/jade.m3u8?kdstime=1737424202&kdssign=aa99d617144780fd26fef18f22d1877a
-#EXTINF:-1 group-title="香港",翡翠台
-http://co-sg3.jdiptv.cc/live/jadea2.m3u8?kdstime=1737424210&kdssign=d1727d9fb169d55b37ae4ea1ba05582f
-#EXTINF:-1 group-title="香港",無線新聞台
-http://co-sg2.jdiptv.cc/live/tvbxw.m3u8?kdstime=1737425194&kdssign=6f693df9396436b3b6bb3b5cb06592df
-#EXTINF:-1 group-title="香港",無線新聞台
-http://194.233.78.81/live/tvbxw.m3u8?kdstime=1737454695&kdssign=8b364628c5392112ee29c1548204f133
-#EXTINF:-1 group-title="香港",美亞電影台
-http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737427301&kdssign=914b9e09524a473917ea7746c9b1a6cc
-#EXTINF:-1 group-title="香港",美亞電影台
-http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8?kdstime=1737454766&kdssign=73b9e9004cea38594c616a2dd5cec4d1
-#EXTINF:-1 group-title="香港",黃金翡翠台
-http://co-sg2.jdiptv.cc/live/hjfct.m3u8?kdstime=1737026825&kdssign=3777aba4a8f5f16ffd30dce146dbded0
-#EXTINF:-1 group-title="香港",黃金翡翠台
-http://194.233.78.81/live/hjfct.m3u8?kdstime=1737454860&kdssign=71d21aaba5e96459b9aa33374748146c
-#EXTINF:-1 group-title="香港",TVB經典台
-http://co-sg1.jdiptv.cc/live/tvbjd.m3u8?kdstime=1737425033&kdssign=c8c7ca2428a05542153d22ac9b9a9715
-#EXTINF:-1 group-title="香港",TVB星河台
-http://fr-us3.jdiptv.cc/live/tvbxh.m3u8?kdstime=1737424888&kdssign=defe74e1b0fc78ea3acc15bc547d1bc3
-#EXTINF:-1 group-title="香港",TVB星河台
-http://209.141.40.39/live/tvbxh.m3u8?kdstime=1737454914&kdssign=b9b2de8d6f92d26b3c1db4dfa438a0ce
-#EXTINF:-1 group-title="香港",TVB娛樂新聞台
-http://fr-us3.jdiptv.cc/live/tvbyl.m3u8?kdstime=1737425307&kdssign=b3097de92b6e42452cc3bf552be068ca
-#EXTINF:-1 group-title="香港",TVB娛樂新聞台
-http://fr-us3.jdiptv.cc/live/tvbyl.m3u8?kdstime=1737454990&kdssign=b8bfcadfcdd8a6d2bcce784a98dd1d65
-#EXTINF:-1 group-title="香港",天映頻道
-http://fr-us3.jdiptv.cc/live/typd.m3u8?kdstime=1737425765&kdssign=23a03f6052544c7d5d29cd4b99778c49
-#EXTINF:-1 group-title="香港",華語劇台
-http://194.233.78.81/live/hyjt.m3u8?kdstime=1737442338&kdssign=2fd3eb13da893b415e1e958c61d504bd
-#EXTINF:-1 group-title="香港",華語劇台
-http://194.233.78.81/live/hyjt.m3u8?kdstime=1737454444&kdssign=8d0d263b24ea710988e64ce0cd5099ce
-#EXTINF:-1 group-title="香港",亞洲劇台
-http://194.233.78.81/live/yzjt.m3u8?kdstime=1737455041&kdssign=dc0955ea3a627f52d5088b646e75b939
-#EXTINF:-1 group-title="香港",亞洲劇台
-http://194.233.78.81/live/yzjt.m3u8?kdstime=1737455087&kdssign=3902452a8000bf3cb094855a48e9bf4f
-#EXTINF:-1 group-title="香港",HOY資訊台
-http://cl-hk1.jdiptv.cc/live/hoy78.m3u8?kdstime=1737442281&kdssign=0d63691ef83c2d5e42386f7eaf49c839
-#EXTINF:-1 group-title="香港",HOY TV
-http://cl-hk1.jdiptv.cc/live/hoy77.m3u8?kdstime=1737442226&kdssign=d588e7cf6c8e36c0dcc833454bb975a3
-#EXTINF:-1 group-title="香港",viutv
-http://fr-us1.jdiptv.cc/live/viutv.m3u8?kdstime=1737028215&kdssign=e5e41e5ebf9fe10523b75a39ba339024
-#EXTINF:-1 group-title="香港",viutv6
-http://cc-us3.jdiptv.cc/live/viu6.m3u8?kdstime=1737028264&kdssign=aa64e836c3b1eb56436c2bf7bdc72a6f
-#EXTINF:-1 group-title="香港",Thrill
-http://co-sg3.jdiptv.cc/live/thrill.m3u8?kdstime=1737026148&kdssign=74c93cc9788fde5cc64a183856f75088
-#EXTINF:-1 group-title="香港",PopC
-http://co-sg1.jdiptv.cc/live/popc.m3u8?kdstime=1737425642&kdssign=3f3e60bfdc73551cd8509d36c0746aef
-
-
-
 
 
 
@@ -1985,187 +1985,185 @@ http://60.248.91.20:8000/main
 
 
 
-
-
-#EXTINF:-1 group-title="台灣",民視台灣台
+#EXTINF:-1 group-title="台灣",民視台灣台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv001
-#EXTINF:-1 group-title="台灣",民視
+#EXTINF:-1 group-title="台灣",民視 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv002
-#EXTINF:-1 group-title="台灣",民視第一台
+#EXTINF:-1 group-title="台灣",民視第一台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv003
-#EXTINF:-1 group-title="台灣",民視綜藝
+#EXTINF:-1 group-title="台灣",民視綜藝 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv004
-#EXTINF:-1 group-title="台灣",豬哥亮歌廳秀
+#EXTINF:-1 group-title="台灣",豬哥亮歌廳秀 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv006
-#EXTINF:-1 group-title="台灣",中天新聞
+#EXTINF:-1 group-title="台灣",中天新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv009
-#EXTINF:-1 group-title="台灣",非凡新聞
+#EXTINF:-1 group-title="台灣",非凡新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv010
-#EXTINF:-1 group-title="台灣",影迷數位電影台
+#EXTINF:-1 group-title="台灣",影迷數位電影台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv011
-#EXTINF:-1 group-title="台灣",視納華仁紀實頻道
+#EXTINF:-1 group-title="台灣",視納華仁紀實頻道 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv013
-#EXTINF:-1 group-title="台灣",時尚運動X
+#EXTINF:-1 group-title="台灣",時尚運動X (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv014
-#EXTINF:-1 group-title="台灣",GLOBETROTTER
+#EXTINF:-1 group-title="台灣",GLOBETROTTER (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv016
-#EXTINF:-1 group-title="台灣",amc電影台
+#EXTINF:-1 group-title="台灣",amc電影台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv017
-#EXTINF:-1 group-title="台灣",達文西頻道
+#EXTINF:-1 group-title="台灣",達文西頻道 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv018
-#EXTINF:-1 group-title="台灣",八大精彩台
+#EXTINF:-1 group-title="台灣",八大精彩台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv034
-#EXTINF:-1 group-title="台灣",八大綜藝台
+#EXTINF:-1 group-title="台灣",八大綜藝台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv039
-#EXTINF:-1 group-title="台灣",中視
+#EXTINF:-1 group-title="台灣",中視 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="台灣",華視
+#EXTINF:-1 group-title="台灣",華視 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv041
-#EXTINF:-1 group-title="台灣",公視戲劇
+#EXTINF:-1 group-title="台灣",公視戲劇 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv042
-#EXTINF:-1 group-title="台灣",客家電視台
+#EXTINF:-1 group-title="台灣",客家電視台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv043
-#EXTINF:-1 group-title="台灣",靖天卡通台
+#EXTINF:-1 group-title="台灣",靖天卡通台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv044
-#EXTINF:-1 group-title="台灣",靖洋戲劇台
+#EXTINF:-1 group-title="台灣",靖洋戲劇台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv045
-#EXTINF:-1 group-title="台灣",靖天綜合台
+#EXTINF:-1 group-title="台灣",靖天綜合台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv046
-#EXTINF:-1 group-title="台灣",靖天日本台
+#EXTINF:-1 group-title="台灣",靖天日本台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv047
-#EXTINF:-1 group-title="台灣",非凡商業
+#EXTINF:-1 group-title="台灣",非凡商業 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv048
-#EXTINF:-1 group-title="台灣",采昌影劇
+#EXTINF:-1 group-title="台灣",采昌影劇 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv049
-#EXTINF:-1 group-title="台灣",台視新聞
+#EXTINF:-1 group-title="台灣",台視新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv051
-#EXTINF:-1 group-title="台灣",華視新聞
+#EXTINF:-1 group-title="台灣",華視新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv052
-#EXTINF:-1 group-title="台灣",GinxTV
+#EXTINF:-1 group-title="台灣",GinxTV (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv053
-#EXTINF:-1 group-title="台灣",靖天歡樂台
+#EXTINF:-1 group-title="台灣",靖天歡樂台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv054
-#EXTINF:-1 group-title="台灣",靖天映畫
+#EXTINF:-1 group-title="台灣",靖天映畫 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv055
-#EXTINF:-1 group-title="台灣",台視財經
+#EXTINF:-1 group-title="台灣",台視財經 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv056
-#EXTINF:-1 group-title="台灣",靖洋卡通台
+#EXTINF:-1 group-title="台灣",靖洋卡通台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv057
-#EXTINF:-1 group-title="台灣",靖天戲劇台
+#EXTINF:-1 group-title="台灣",靖天戲劇台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv058
-#EXTINF:-1 group-title="台灣",古典音樂台
+#EXTINF:-1 group-title="台灣",古典音樂台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv059
-#EXTINF:-1 group-title="台灣",靖天電影台
+#EXTINF:-1 group-title="台灣",靖天電影台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv061
-#EXTINF:-1 group-title="台灣",靖天育樂台
+#EXTINF:-1 group-title="台灣",靖天育樂台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv062
-#EXTINF:-1 group-title="台灣",靖天國際台
+#EXTINF:-1 group-title="台灣",靖天國際台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv063
-#EXTINF:-1 group-title="台灣",中視菁采
+#EXTINF:-1 group-title="台灣",中視菁采 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv064
-#EXTINF:-1 group-title="台灣",靖天資訊台
+#EXTINF:-1 group-title="台灣",靖天資訊台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv065
-#EXTINF:-1 group-title="台灣",台視
+#EXTINF:-1 group-title="台灣",台視 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv066
-#EXTINF:-1 group-title="台灣",tvbs精采台
+#EXTINF:-1 group-title="台灣",tvbs精采台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv067
-#EXTINF:-1 group-title="台灣",TVBS歡樂台
+#EXTINF:-1 group-title="台灣",TVBS歡樂台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv068
-#EXTINF:-1 group-title="台灣",愛爾達娛樂
+#EXTINF:-1 group-title="台灣",愛爾達娛樂 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv070
-#EXTINF:-1 group-title="台灣",TVBS新聞台
+#EXTINF:-1 group-title="台灣",TVBS新聞台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv072
-#EXTINF:-1 group-title="台灣",TVBS
+#EXTINF:-1 group-title="台灣",TVBS (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv073
-#EXTINF:-1 group-title="台灣",中視新聞
+#EXTINF:-1 group-title="台灣",中視新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv074
-#EXTINF:-1 group-title="台灣",鏡新聞
+#EXTINF:-1 group-title="台灣",鏡新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv075
-#EXTINF:-1 group-title="台灣",CATCHPLAY電影台
+#EXTINF:-1 group-title="台灣",CATCHPLAY電影台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv076
-#EXTINF:-1 group-title="台灣",TRACE SPORTS STAR
+#EXTINF:-1 group-title="台灣",TRACE SPORTS STAR (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv077
-#EXTINF:-1 group-title="台灣",阿里郎
+#EXTINF:-1 group-title="台灣",阿里郎 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv079
-#EXTINF:-1 group-title="台灣",中視經典
+#EXTINF:-1 group-title="台灣",中視經典 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv080
-#EXTINF:-1 group-title="台灣",TRACE URBAN
+#EXTINF:-1 group-title="台灣",TRACE URBAN (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv082
-#EXTINF:-1 group-title="台灣",MEZZO LIVE
+#EXTINF:-1 group-title="台灣",MEZZO LIVE (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv083
-#EXTINF:-1 group-title="台灣",國會頻道1
+#EXTINF:-1 group-title="台灣",國會頻道1 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv084
-#EXTINF:-1 group-title="台灣",國會頻道2
+#EXTINF:-1 group-title="台灣",國會頻道2 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv085
-#EXTINF:-1 group-title="台灣",智林體育台
+#EXTINF:-1 group-title="台灣",智林體育台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv101
-#EXTINF:-1 group-title="台灣",國際財經
+#EXTINF:-1 group-title="台灣",國際財經 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv104
-#EXTINF:-1 group-title="台灣",第1商業台
+#EXTINF:-1 group-title="台灣",第1商業台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv109
-#EXTINF:-1 group-title="台灣",東森新聞
+#EXTINF:-1 group-title="台灣",東森新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv152
-#EXTINF:-1 group-title="台灣",東森財經新聞
+#EXTINF:-1 group-title="台灣",東森財經新聞 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv153
-#EXTINF:-1 group-title="台灣",民視
+#EXTINF:-1 group-title="台灣",民視 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv155
-#EXTINF:-1 group-title="台灣",民視台灣台
+#EXTINF:-1 group-title="台灣",民視台灣台 (4G)
 http://tv543.cc/litv.php?id=4gtv-4gtv156
-#EXTINF:-1 group-title="台灣",美國之音
+#EXTINF:-1 group-title="台灣",美國之音 (4G)
 http://tv543.cc/litv.php?id=litv-ftv03
-#EXTINF:-1 group-title="台灣",民視旅遊
+#EXTINF:-1 group-title="台灣",民視旅遊 (4G)
 http://tv543.cc/litv.php?id=litv-ftv07
-#EXTINF:-1 group-title="台灣",民視影劇
+#EXTINF:-1 group-title="台灣",民視影劇 (4G)
 http://tv543.cc/litv.php?id=litv-ftv09
-#EXTINF:-1 group-title="台灣",半島新聞
+#EXTINF:-1 group-title="台灣",半島新聞 (4G)
 http://tv543.cc/litv.php?id=litv-ftv10
-#EXTINF:-1 group-title="台灣",民視新聞台
+#EXTINF:-1 group-title="台灣",民視新聞台 (4G)
 http://tv543.cc/litv.php?id=litv-ftv13
-#EXTINF:-1 group-title="台灣",愛放動漫
+#EXTINF:-1 group-title="台灣",愛放動漫 (4G)
 http://tv543.cc/litv.php?id=litv-ftv15
-#EXTINF:-1 group-title="台灣",好訊息
+#EXTINF:-1 group-title="台灣",好訊息 (4G)
 http://tv543.cc/litv.php?id=litv-ftv16
-#EXTINF:-1 group-title="台灣",好訊息2台
+#EXTINF:-1 group-title="台灣",好訊息2台 (4G)
 http://tv543.cc/litv.php?id=litv-ftv17
-#EXTINF:-1 group-title="台灣",龍華卡通
+#EXTINF:-1 group-title="台灣",龍華卡通 (4G)
 http://tv543.cc/litv.php?id=litv-longturn01
-#EXTINF:-1 group-title="台灣",龍華電影
+#EXTINF:-1 group-title="台灣",龍華電影 (4G)
 http://tv543.cc/litv.php?id=litv-longturn03
-#EXTINF:-1 group-title="台灣",博斯魅力
+#EXTINF:-1 group-title="台灣",博斯魅力 (4G)
 http://tv543.cc/litv.php?id=litv-longturn04
-#EXTINF:-1 group-title="台灣",博斯高球1台
+#EXTINF:-1 group-title="台灣",博斯高球1台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn05
-#EXTINF:-1 group-title="台灣",博斯高球2台
+#EXTINF:-1 group-title="台灣",博斯高球2台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn06
-#EXTINF:-1 group-title="台灣",博斯運動1台
+#EXTINF:-1 group-title="台灣",博斯運動1台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn07
-#EXTINF:-1 group-title="台灣",博斯運動2台
+#EXTINF:-1 group-title="台灣",博斯運動2台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn08
-#EXTINF:-1 group-title="台灣",博斯網球台
+#EXTINF:-1 group-title="台灣",博斯網球台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn09
-#EXTINF:-1 group-title="台灣",博斯無限1台
+#EXTINF:-1 group-title="台灣",博斯無限1台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn10
-#EXTINF:-1 group-title="台灣",龍華日韓
+#EXTINF:-1 group-title="台灣",龍華日韓 (4G)
 http://tv543.cc/litv.php?id=litv-longturn11
-#EXTINF:-1 group-title="台灣",龍華偶像
+#EXTINF:-1 group-title="台灣",龍華偶像 (4G)
 http://tv543.cc/litv.php?id=litv-longturn12
-#EXTINF:-1 group-title="台灣",博斯無限2台
+#EXTINF:-1 group-title="台灣",博斯無限2台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn13
-#EXTINF:-1 group-title="台灣",寰宇新聞台
+#EXTINF:-1 group-title="台灣",寰宇新聞台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn14
-#EXTINF:-1 group-title="台灣",寰宇新聞台灣台
+#EXTINF:-1 group-title="台灣",寰宇新聞台灣台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn15
-#EXTINF:-1 group-title="台灣",亞洲旅遊台
+#EXTINF:-1 group-title="台灣",亞洲旅遊台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn17
-#EXTINF:-1 group-title="台灣",龍華戲劇
+#EXTINF:-1 group-title="台灣",龍華戲劇 (4G)
 http://tv543.cc/litv.php?id=litv-longturn18
-#EXTINF:-1 group-title="台灣",Smart知識台
+#EXTINF:-1 group-title="台灣",Smart知識台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn19
-#EXTINF:-1 group-title="台灣",生活英語台
+#EXTINF:-1 group-title="台灣",生活英語台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn20
-#EXTINF:-1 group-title="台灣",龍華經典
+#EXTINF:-1 group-title="台灣",龍華經典 (4G)
 http://tv543.cc/litv.php?id=litv-longturn21
-#EXTINF:-1 group-title="台灣",台灣戲劇台
+#EXTINF:-1 group-title="台灣",台灣戲劇台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn22
 
 
@@ -2358,9 +2356,6 @@ http://4gtv.031966.xyz/?id=litv-longturn23
 
 
 
-
-
-
 #EXTINF:-1 group-title="酒店",台視HD
 http://dreator800.top/iptv/tw.php?id=1047
 #EXTINF:-1 group-title="酒店",中視HD
@@ -2477,7 +2472,7 @@ http://dreator800.top/iptv/tw.php?id=1029
 http://dreator800.top/iptv/tw.php?id=1054
 #EXTINF:-1 group-title="酒店",CINEMAX HD
 http://dreator800.top/iptv/tw.php?id=1030
-#EXTINF:-1 group-title="酒店",AMC電影台
+#EXTINF:-1 group-title="酒店",AMC 電影台
 http://dreator800.top/iptv/tw.php?id=1032
 #EXTINF:-1 group-title="酒店",寵物頻道
 http://dreator800.top/iptv/tw.php?id=1040
@@ -2509,6 +2504,7 @@ http://dreator800.top/iptv/tw.php?id=1038
 http://dreator800.top/iptv/tw.php?id=1666
 #EXTINF:-1 group-title="酒店",鳯凰衛視中文
 http://dreator800.top/iptv/tw.php?id=1213
+
 
 
 
@@ -3019,280 +3015,12 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 
 
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK-TNT SPORTS 1 HD" tvg-logo="http://go4.pw/UK/bt-1.png" group-title="體育",TNT SPORTS 1 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348297
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK-TNT SPORTS 2 HD" tvg-logo="http://go4.pw/UK/bt-2.png" group-title="體育",TNT SPORTS 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/17280
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK-TNT SPORTS 2 HD" tvg-logo="http://go4.pw/UK/bt-2.png" group-title="體育",TNT SPORTS 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348298
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK-TNT SPORTS 3 HD" tvg-logo="http://go4.pw/UK/bt-3.png" group-title="體育",TNT SPORTS 3 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/17279
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK-TNT SPORTS 3 HD" tvg-logo="http://go4.pw/UK/bt-3.png" group-title="體育",TNT SPORTS 3 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348299
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK - EUROSPORTS 1 FHD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="體育",EUROSPORTS 1 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/17274
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK - EUROSPORTS 1 HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="體育",EUROSPORTS 1 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348271
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK - EUROSPORTS 1 SD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="體育",EUROSPORTS 1 SD
-http://suprino.xyz:80/W8MEP61/2X2H702/348273
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK - EUROSPORTS 2 FHD" tvg-logo="http://go4.pw/UK/eursp2.png" group-title="體育",EUROSPORTS 2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/17273
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK - EUROSPORTS 2 HD" tvg-logo="http://go4.pw/UK/eursp2.png" group-title="體育",EUROSPORTS 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348272
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK - EUROSPORTS 2 SD" tvg-logo="http://go4.pw/UK/eursp2.png" group-title="體育",EUROSPORTS 2 SD
-http://suprino.xyz:80/W8MEP61/2X2H702/348274
-
 
 
 #EXTINF:-1 tvg-id="Eurosport 1 ex-Yu" tvg-name="EuroSport 1 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="體育",EuroSport 1 ex-Yu
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/594
 #EXTINF:-1 tvg-id="Eurosport 2 ex-Yu" tvg-name="EuroSport 2 ex-Yu" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="體育",EuroSport 2 ex-Yu
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/593
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 1" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 1
-http://suprino.xyz:80/W8MEP61/2X2H702/748430
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 2" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 2
-http://suprino.xyz:80/W8MEP61/2X2H702/748431
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 3" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 3
-http://suprino.xyz:80/W8MEP61/2X2H702/748432
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 4" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 4
-http://suprino.xyz:80/W8MEP61/2X2H702/748433
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 5" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 5
-http://suprino.xyz:80/W8MEP61/2X2H702/748434
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 6" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 6
-http://suprino.xyz:80/W8MEP61/2X2H702/748435
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 7" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 7
-http://suprino.xyz:80/W8MEP61/2X2H702/748436
-#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 8" tvg-logo="http://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="體育",NOW HK PREMIER SPORTS 8
-http://suprino.xyz:80/W8MEP61/2X2H702/748437
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS+ HD" tvg-logo="http://go4.pw/UK/SKY_SPORTS+.png" group-title="體育",UK - SKY SPORTS+ HD
-http://suprino.xyz:80/W8MEP61/2X2H702/973139
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://go4.pw/UK/skyprl.png" group-title="體育",UK - SKY SPORTS PREMIER LEAGUE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/365044
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS MAIN EVENT HD " tvg-logo="http://go4.pw/UK/skyspmnev.png" group-title="體育",UK - SKY SPORTS MAIN EVENT HD 
-http://suprino.xyz:80/W8MEP61/2X2H702/365037
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS FOOTBALL HD" tvg-logo="http://go4.pw/UK/skyspfb.png" group-title="體育",UK - SKY SPORTS FOOTBALL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/365035
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS TENNIS HD" tvg-logo="http://go4.pw/UK/skyspns.png" group-title="體育",UK - SKY SPORTS TENNIS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/664452
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK - SKY SPORTS F1 HD" tvg-logo="http://go4.pw/UK/SKYF1.png" group-title="體育",UK - SKY SPORTS F1 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348305
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK - SKY SPORTS RACING HD" tvg-logo="http://go4.pw/UK/skyspsr.png" group-title="體育",UK - SKY SPORTS RACING HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348311
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK - SKY SPORTS CRICKET HD" tvg-logo="http://go4.pw/UK/CRICKET.png" group-title="體育",UK - SKY SPORTS CRICKET HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348307
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK - SKY SPORTS GOLF HD" tvg-logo="http://go4.pw/UK/skyspgl.png" group-title="體育",UK - SKY SPORTS GOLF HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348304
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK - SKY SPORTS ARENA HD" tvg-logo="http://go4.pw/UK/skysparn.png" group-title="體育",UK - SKY SPORTS ARENA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348309
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK - SKY SPORTS MIX HD" tvg-logo="http://go4.pw/UK/skyspmi.png" group-title="體育",UK - SKY SPORTS MIX HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348313
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK - SKY SPORTS NEWS HD" tvg-logo="http://go4.pw/UK/skyns.png" group-title="體育",UK - SKY SPORTS NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/17283
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT GOLF HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348281
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT BLITZ HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348282
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT LA LIGA HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT LA LIGA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348283
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT PREMIER LEAGUE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348284
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT FOOTBALL HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT FOOTBALL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348285
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 1 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT VARIETY 1 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348292
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 2 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT VARIETY 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348288
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 3 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT VARIETY 3 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348287
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 4 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT VARIETY 4 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348286
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT CRICKET HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT CRICKET HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348289
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT RUGBY HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT RUGBY HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348290
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT TENNIS HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT TENNIS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348291
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MOTOSPORT HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="體育",UK - SUPERSPORT MOTOSPORT HD
-http://suprino.xyz:80/W8MEP61/2X2H702/348293
-
-
-
-
-
-
-#EXTINF:-1 group-title="音樂頻道",First Music Channel HD
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC 90S" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC 90S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124927
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC ALTERNATIVE" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC ALTERNATIVE
-http://suprino.xyz:80/W8MEP61/2X2H702/1124928
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC BRITISH HITS" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC BRITISH HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124929
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC DANCE/ EDM" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC DANCE/ EDM
-http://suprino.xyz:80/W8MEP61/2X2H702/1124930
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC HIP-HOP AND R&B" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC HIP-HOP AND R&B
-http://suprino.xyz:80/W8MEP61/2X2H702/1124931
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC HIT LIST" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC HIT LIST
-http://suprino.xyz:80/W8MEP61/2X2H702/1124932
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC INDIE" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC INDIE
-http://suprino.xyz:80/W8MEP61/2X2H702/1124933
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC KIDZ ONLY!" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC KIDZ ONLY!
-http://suprino.xyz:80/W8MEP61/2X2H702/1124934
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC METAL" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC METAL
-http://suprino.xyz:80/W8MEP61/2X2H702/1124935
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC MEXICANA" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC MEXICANA
-http://suprino.xyz:80/W8MEP61/2X2H702/1124936
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC POP & COUNTRY" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC POP & COUNTRY
-http://suprino.xyz:80/W8MEP61/2X2H702/1124937
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC POP HITS" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC POP HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124938
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC POP LATINO" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC POP LATINO
-http://suprino.xyz:80/W8MEP61/2X2H702/1124939
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC R&B" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC R&B
-http://suprino.xyz:80/W8MEP61/2X2H702/1124940
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC R&B SOUL" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC R&B SOUL
-http://suprino.xyz:80/W8MEP61/2X2H702/1124941
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC RAP 2K" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC RAP 2K
-http://suprino.xyz:80/W8MEP61/2X2H702/1124942
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC ROCK" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC ROCK
-http://suprino.xyz:80/W8MEP61/2X2H702/1124943
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC TEEN BEATS" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC TEEN BEATS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124944
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC THROWBACK JAMZ" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC THROWBACK JAMZ
-http://suprino.xyz:80/W8MEP61/2X2H702/1124945
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC KIDZ ONLY!" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC KIDZ ONLY.png" group-title="音樂頻道",MC KIDZ ONLY!
-http://suprino.xyz:80/W8MEP61/2X2H702/1124946
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC TODDLER TUNES" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC TODDLER TUNES
-http://suprino.xyz:80/W8MEP61/2X2H702/1124947
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC Y2K" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC Y2K
-http://suprino.xyz:80/W8MEP61/2X2H702/1124948
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC TROPICALES" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC TROPICALES
-http://suprino.xyz:80/W8MEP61/2X2H702/1124949
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC R&B 2K" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC R&B 2K
-http://suprino.xyz:80/W8MEP61/2X2H702/1124950
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC CHOICE MAX" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC CHOICE MAX
-http://suprino.xyz:80/W8MEP61/2X2H702/1124951
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC RAP" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC RAP
-http://suprino.xyz:80/W8MEP61/2X2H702/1124952
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC MUSICA URBANA" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC MUSICA URBANA
-http://suprino.xyz:80/W8MEP61/2X2H702/1124953
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC 80S" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC 80S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124954
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC YOUTH HITS" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC YOUTH HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124955
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MC MUSIC COUNTRY HITS" tvg-logo="http://go4.pw/EUROPE/FRANCE/MC MUSIC.png" group-title="音樂頻道",MC MUSIC COUNTRY HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124956
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO COUNTRY" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO COUNTRY.png" group-title="音樂頻道",VEVO COUNTRY
-http://suprino.xyz:80/W8MEP61/2X2H702/1124957
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO 2K" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO 2K.png" group-title="音樂頻道",VEVO 2K
-http://suprino.xyz:80/W8MEP61/2X2H702/1124958
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO '90S" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO90S.png" group-title="音樂頻道",VEVO '90S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124959
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO '80S" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO80S.png" group-title="音樂頻道",VEVO '80S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124960
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO '70S" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO70S.png" group-title="音樂頻道",VEVO '70S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124961
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO R&B" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO RB.png" group-title="音樂頻道",VEVO R&B
-http://suprino.xyz:80/W8MEP61/2X2H702/1124962
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO HIP-HOP" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO HIP-HOP.png" group-title="音樂頻道",VEVO HIP-HOP
-http://suprino.xyz:80/W8MEP61/2X2H702/1124963
-#EXTINF:-1 tvg-id="" tvg-name="VIP - VEVO POP" tvg-logo="http://go4.pw/EUROPE/FRANCE/VEVO POP.png" group-title="音樂頻道",VEVO POP
-http://suprino.xyz:80/W8MEP61/2X2H702/1124964
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE R&B CLASSIC JAMS" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE R&B CLASSIC JAMS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124965
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE COUNTRY TODAY" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE COUNTRY TODAY
-http://suprino.xyz:80/W8MEP61/2X2H702/1124966
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE COUNTRY FINEST" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE COUNTRY FINEST
-http://suprino.xyz:80/W8MEP61/2X2H702/1124967
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE HIP HOP EVOLUTION" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE HIP HOP EVOLUTION
-http://suprino.xyz:80/W8MEP61/2X2H702/1124968
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE 80S FLASHBACK" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE 80S FLASHBACK
-http://suprino.xyz:80/W8MEP61/2X2H702/1124969
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE 60S & 70S GROOVE" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE 60S & 70S GROOVE
-http://suprino.xyz:80/W8MEP61/2X2H702/1124970
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE RAP GAME" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE RAP GAME
-http://suprino.xyz:80/W8MEP61/2X2H702/1124971
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE R&B FEELS" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE R&B FEELS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124972
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE ROCK ON" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE ROCK ON
-http://suprino.xyz:80/W8MEP61/2X2H702/1124973
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE 90S THROWBACK" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE 90S THROWBACK
-http://suprino.xyz:80/W8MEP61/2X2H702/1124974
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE HITS" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124975
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE JUST CHILL" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE JUST CHILL
-http://suprino.xyz:80/W8MEP61/2X2H702/1124976
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE ICONS" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE ICONS
-http://suprino.xyz:80/W8MEP61/2X2H702/1124977
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE NUEVO LATINO" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE NUEVO LATINO
-http://suprino.xyz:80/W8MEP61/2X2H702/1124978
-#EXTINF:-1 tvg-id="" tvg-name="VIP - XITE SEASONAL" tvg-logo="http://go4.pw/EUROPE/FRANCE/XITE.png" group-title="音樂頻道",XITE SEASONAL
-http://suprino.xyz:80/W8MEP61/2X2H702/1124979
-#EXTINF:-1 tvg-id="" tvg-name="VIP - STINGRAY HIT LIST" tvg-logo="http://go4.pw/EUROPE/FRANCE/STINGRAY HIT LIST.png" group-title="音樂頻道",STINGRAY HIT LIST
-http://suprino.xyz:80/W8MEP61/2X2H702/1124980
-#EXTINF:-1 tvg-id="" tvg-name="VIP - STINGRAY ROCK ALTERNATIVE" tvg-logo="http://go4.pw/EUROPE/FRANCE/STINGRAY ROCK ALTERNATIVE.png" group-title="音樂頻道",STINGRAY ROCK ALTERNATIVE
-http://suprino.xyz:80/W8MEP61/2X2H702/1124981
-#EXTINF:-1 tvg-id="" tvg-name="VIP - STINGRAY CLASSIC ROCK" tvg-logo="http://go4.pw/EUROPE/FRANCE/STINGRAY CLASSIC ROCK.png" group-title="音樂頻道",STINGRAY CLASSIC ROCK
-http://suprino.xyz:80/W8MEP61/2X2H702/1124982
-#EXTINF:-1 tvg-id="" tvg-name="VIP - STINGRAY REMEMBER THE 80S" tvg-logo="http://go4.pw/EUROPE/FRANCE/STINGRAY REMEMBER THE 80S.png" group-title="音樂頻道",STINGRAY REMEMBER THE 80S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124983
-#EXTINF:-1 tvg-id="" tvg-name="VIP - STINGRAY FLASHBACK 70S" tvg-logo="http://go4.pw/EUROPE/FRANCE/STINGRAY FLASHBACK 70S.png" group-title="音樂頻道",STINGRAY FLASHBACK 70S
-http://suprino.xyz:80/W8MEP61/2X2H702/1124984
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE MIZKI" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE MIZKI.png" group-title="音樂頻道",TRACE MIZKI
-http://suprino.xyz:80/W8MEP61/2X2H702/1124985
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE KITOKO" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE KITOKO.png" group-title="音樂頻道",TRACE KITOKO
-http://suprino.xyz:80/W8MEP61/2X2H702/1124986
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE TOCA" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE TOCA.png" group-title="音樂頻道",TRACE TOCA
-http://suprino.xyz:80/W8MEP61/2X2H702/1124987
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE GOSPEL" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE GOSPEL.png" group-title="音樂頻道",TRACE GOSPEL
-http://suprino.xyz:80/W8MEP61/2X2H702/1124988
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE NAIJA" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE NAIJA.png" group-title="音樂頻道",TRACE NAIJA
-http://suprino.xyz:80/W8MEP61/2X2H702/1124989
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE TROPICAL" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE TROPICAL.png" group-title="音樂頻道",TRACE TROPICAL
-http://suprino.xyz:80/W8MEP61/2X2H702/1124990
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TRACE JAMA" tvg-logo="http://go4.pw/EUROPE/FRANCE/TRACE JAMA.png" group-title="音樂頻道",TRACE JAMA
-http://suprino.xyz:80/W8MEP61/2X2H702/1124991
-#EXTINF:-1 tvg-id="" tvg-name="VIP - AFRO MUSIC" tvg-logo="http://go4.pw/EUROPE/FRANCE/AFRO MUSIC.png" group-title="音樂頻道",AFRO MUSIC
-http://suprino.xyz:80/W8MEP61/2X2H702/1124992
-#EXTINF:-1 tvg-id="" tvg-name="VIP - DIGITAL BLACK MUSIC" tvg-logo="http://go4.pw/EUROPE/FRANCE/DIGITAL BLACK MUSIC.png" group-title="音樂頻道",DIGITAL BLACK MUSIC
-http://suprino.xyz:80/W8MEP61/2X2H702/1124993
-#EXTINF:-1 tvg-id="" tvg-name="VIP - BBLACK AFRICA" tvg-logo="http://go4.pw/EUROPE/FRANCE/BBLACK AFRICA.png" group-title="音樂頻道",BBLACK AFRICA
-http://suprino.xyz:80/W8MEP61/2X2H702/1124994
-#EXTINF:-1 tvg-id="" tvg-name="VIP - BBLACK CARRABEAN" tvg-logo="http://go4.pw/EUROPE/FRANCE/BBLACK CARRABEAN.png" group-title="音樂頻道",BBLACK CARRABEAN
-http://suprino.xyz:80/W8MEP61/2X2H702/1124995
-#EXTINF:-1 tvg-id="" tvg-name="VIP - BBLACK CLASSIK" tvg-logo="http://go4.pw/EUROPE/FRANCE/BBLACK CLASSIK.png" group-title="音樂頻道",BBLACK CLASSIK
-http://suprino.xyz:80/W8MEP61/2X2H702/1124996
-#EXTINF:-1 tvg-id="" tvg-name="VIP - TVM3" tvg-logo="http://go4.pw/EUROPE/FRANCE/TVM3.png" group-title="音樂頻道",TVM3
-http://suprino.xyz:80/W8MEP61/2X2H702/1124997
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MUSIC TV" tvg-logo="http://go4.pw/EUROPE/FRANCE/MUSIC TV.png" group-title="音樂頻道",MUSIC TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1124998
-#EXTINF:-1 tvg-id="" tvg-name="VIP - AFRO MUSIC POP" tvg-logo="http://go4.pw/EUROPE/FRANCE/AFRO MUSIC POP.png" group-title="音樂頻道",AFRO MUSIC POP
-http://suprino.xyz:80/W8MEP61/2X2H702/1124999
-#EXTINF:-1 tvg-id="" tvg-name="VIP - URBAN TV" tvg-logo="http://go4.pw/EUROPE/FRANCE/URBAN TV.png" group-title="音樂頻道",URBAN TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1125000
-#EXTINF:-1 tvg-id="" tvg-name="VIP - GOSPEL CHANNEL" tvg-logo="http://go4.pw/EUROPE/FRANCE/GOSPEL CHANNEL.png" group-title="音樂頻道",GOSPEL CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/1125001
-#EXTINF:-1 tvg-id="" tvg-name="VIP - RAVE TV" tvg-logo="http://go4.pw/EUROPE/FRANCE/RAVE TV.png" group-title="音樂頻道",RAVE TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1125002
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MTV" tvg-logo="http://go4.pw/EUROPE/FRANCE/MTV.png" group-title="音樂頻道",MTV
-http://suprino.xyz:80/W8MEP61/2X2H702/1125003
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MTV LIVE" tvg-logo="http://go4.pw/EUROPE/FRANCE/MTV LIVE.png" group-title="音樂頻道",MTV LIVE
-http://suprino.xyz:80/W8MEP61/2X2H702/1125004
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MTV HITS" tvg-logo="http://go4.pw/EUROPE/FRANCE/MTV HITS.png" group-title="音樂頻道",MTV HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1125005
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MTV 80'S" tvg-logo="http://go4.pw/EUROPE/FRANCE/MTV 80.png" group-title="音樂頻道",MTV 80'S
-http://suprino.xyz:80/W8MEP61/2X2H702/1125006
-#EXTINF:-1 tvg-id="" tvg-name="VIP - MTV 90'S" tvg-logo="http://go4.pw/EUROPE/FRANCE/MTV 90.png" group-title="音樂頻道",MTV 90'S
-http://suprino.xyz:80/W8MEP61/2X2H702/1125007
-#EXTINF:-1 tvg-id="" tvg-name="VIP - NICK MUSIC" tvg-logo="http://go4.pw/EUROPE/FRANCE/NICK MUSIC.png" group-title="音樂頻道",NICK MUSIC
-http://suprino.xyz:80/W8MEP61/2X2H702/1125008
 
 
 
@@ -3351,849 +3079,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA FHD" tvg-logo="http://go4.pw/ASIA/Australia.png" group-title="MALAYSIA",ABC AUSTRALIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052364
-#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA HD" tvg-logo="http://go4.pw/ASIA/Australia.png" group-title="MALAYSIA",ABC AUSTRALIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052365
-#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA" tvg-logo="http://go4.pw/ASIA/Australia.png" group-title="MALAYSIA",ABC AUSTRALIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052363
-#EXTINF:-1 tvg-id="" tvg-name="MY - AL-HIJRAH FHD" tvg-logo="http://go4.pw/ASIA/Hijrah.png" group-title="MALAYSIA",AL-HIJRAH FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052368
-#EXTINF:-1 tvg-id="" tvg-name="MY - AL-HIJRAH HD" tvg-logo="http://go4.pw/ASIA/Hijrah.png" group-title="MALAYSIA",AL-HIJRAH HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052369
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIMAL PLANET FHD" tvg-logo="http://go4.pw/EUROPE/GERMANY/AnimalPlanet.png" group-title="MALAYSIA",ANIMAL PLANET FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052370
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASIAN FOOD NETWORK FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="MALAYSIA",ASIAN FOOD NETWORK FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052371
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/AXN.png" group-title="MALAYSIA",AXN FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052415
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN HD" tvg-logo="http://go4.pw/germany/axnw.png" group-title="MALAYSIA",AXN HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052416
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN" tvg-logo="http://go4.pw/EUROPE/SPAIN/AXN.png" group-title="MALAYSIA",AXN
-http://suprino.xyz:80/W8MEP61/2X2H702/1052414
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT UHD" tvg-logo=" http://go4.pw/ASIA/astro1.png" group-title="MALAYSIA",ASTRO SUPERSPORT UHD
-http://suprino.xyz:80/W8MEP61/2X2H702/955660
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 1 HD" tvg-logo=" http://go4.pw/ASIA/astro1.png" group-title="MALAYSIA",ASTRO SUPERSPORT 1 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/955661
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 2 HD" tvg-logo=" http://go4.pw/ASIA/astro2.png" group-title="MALAYSIA",ASTRO SUPERSPORT 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/955663
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SUPERSPORT 4 HD" tvg-logo=" http://go4.pw/ASIA/astro4.png" group-title="MALAYSIA",ASTRO SUPERSPORT 4 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/955665
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET HD" tvg-logo="http://go4.pw/astro_logo.png" group-title="MALAYSIA",ASTRO CRICKET HD
-http://suprino.xyz:80/W8MEP61/2X2H702/446226
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png" group-title="MALAYSIA",ASTRO ARENA 2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052373
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA 2 HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png" group-title="MALAYSIA",ASTRO ARENA 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052374
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA 2" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png" group-title="MALAYSIA",ASTRO ARENA 2
-http://suprino.xyz:80/W8MEP61/2X2H702/957703
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="MALAYSIA",ASTRO ARENA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052375
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA HD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="MALAYSIA",ASTRO ARENA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052376
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AURA FHD" tvg-logo="http://go4.pw/ASIA/AURA.png" group-title="MALAYSIA",ASTRO AURA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052379
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AURA HD" tvg-logo="http://go4.pw/ASIA/AURA.png" group-title="MALAYSIA",ASTRO AURA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052380
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AURA" tvg-logo="http://go4.pw/ASIA/AURA.png" group-title="MALAYSIA",ASTRO AURA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052377
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AWANI FHD" tvg-logo="http://go4.pw/ASIA/Awani.png" group-title="MALAYSIA",ASTRO AWANI FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052382
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AWANI HD" tvg-logo="http://go4.pw/ASIA/Awani.png" group-title="MALAYSIA",ASTRO AWANI HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052383
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AWANI" tvg-logo="http://go4.pw/ASIA/Awani.png" group-title="MALAYSIA",ASTRO AWANI
-http://suprino.xyz:80/W8MEP61/2X2H702/1052381
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BOO FHD" tvg-logo="http://go4.pw/ASIA/BOO.png" group-title="MALAYSIA",ASTRO BOO FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052385
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BOO HD" tvg-logo="http://go4.pw/ASIA/BOO.png" group-title="MALAYSIA",ASTRO BOO HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052387
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BOO" tvg-logo="http://go4.pw/ASIA/BOO.png" group-title="MALAYSIA",ASTRO BOO
-http://suprino.xyz:80/W8MEP61/2X2H702/1052384
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CERIA FHD" tvg-logo="http://go4.pw/ASIA/Citra.png" group-title="MALAYSIA",ASTRO CERIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052389
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CERIA HD" tvg-logo="http://go4.pw/ASIA/Citra.png" group-title="MALAYSIA",ASTRO CERIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052390
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CERIA" tvg-logo="http://go4.pw/ASIA/Citra.png" group-title="MALAYSIA",ASTRO CERIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052388
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET FHD" tvg-logo="http://go4.pw/ASIA/CRICKET.png" group-title="MALAYSIA",ASTRO CRICKET FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052393
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET HD" tvg-logo="http://go4.pw/ASIA/CRICKET.png" group-title="MALAYSIA",ASTRO CRICKET HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052394
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET" tvg-logo="http://go4.pw/ASIA/CRICKET.png" group-title="MALAYSIA",ASTRO CRICKET
-http://suprino.xyz:80/W8MEP61/2X2H702/1052392
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO HUA HEE DAI FHD" tvg-logo="http://go4.pw/ASIA/Dai.png" group-title="MALAYSIA",ASTRO HUA HEE DAI FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052396
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO HUA HEE DAI HD" tvg-logo="http://go4.pw/ASIA/Dai.png" group-title="MALAYSIA",ASTRO HUA HEE DAI HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052397
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO HUA HEE DAI" tvg-logo="http://go4.pw/ASIA/Dai.png" group-title="MALAYSIA",ASTRO HUA HEE DAI
-http://suprino.xyz:80/W8MEP61/2X2H702/1052395
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO AWANI FHD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="MALAYSIA",ASTRO AWANI FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/408665
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PRIMA FHD" tvg-logo="https://lo1.in/MALAY/astroprim.png" group-title="MALAYSIA",ASTRO PRIMA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/408670
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS FHD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",ASTRO OASIS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/408671
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS HD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",ASTRO OASIS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/408672
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS FHD" tvg-logo="http://go4.pw/ASIA/Oasis.png" group-title="MALAYSIA",ASTRO OASIS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052399
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS HD" tvg-logo="http://go4.pw/ASIA/Oasis.png" group-title="MALAYSIA",ASTRO OASIS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052400
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER FHD" tvg-logo="http://go4.pw/ASIA/PREMIER.png" group-title="MALAYSIA",ASTRO PREMIER FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052402
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER HD" tvg-logo="http://go4.pw/ASIA/PREMIER.png" group-title="MALAYSIA",ASTRO PREMIER HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052403
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS" tvg-logo="http://go4.pw/ASIA/Oasis.png" group-title="MALAYSIA",ASTRO OASIS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052398
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RANIA FHD" tvg-logo="http://go4.pw/ASIA/rania.png" group-title="MALAYSIA",ASTRO RANIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052405
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RANIA HD" tvg-logo="http://go4.pw/ASIA/rania.png" group-title="MALAYSIA",ASTRO RANIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052406
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER" tvg-logo="http://go4.pw/ASIA/PREMIER.png" group-title="MALAYSIA",ASTRO PREMIER
-http://suprino.xyz:80/W8MEP61/2X2H702/1052401
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VAANAVIL FHD" tvg-logo="http://go4.pw/ASIA/Vaanavil.png" group-title="MALAYSIA",ASTRO VAANAVIL FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052409
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VAANAVIL HD" tvg-logo="http://go4.pw/ASIA/Vaanavil.png" group-title="MALAYSIA",ASTRO VAANAVIL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052410
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VELLITHIRAI FHD" tvg-logo="http://go4.pw/ASIA/VELLITHIRAI.png" group-title="MALAYSIA",ASTRO VELLITHIRAI FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052412
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VELLITHIRAI HD" tvg-logo="http://go4.pw/ASIA/VELLITHIRAI.png" group-title="MALAYSIA",ASTRO VELLITHIRAI HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052413
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VELLITHIRAI" tvg-logo="http://go4.pw/ASIA/VELLITHIRAI.png" group-title="MALAYSIA",ASTRO VELLITHIRAI
-http://suprino.xyz:80/W8MEP61/2X2H702/1052411
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO TUTOR TV SMK HD" tvg-logo="http://go4.pw/ASIA/SMK.png" group-title="MALAYSIA",ASTRO TUTOR TV SMK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052407
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RANIA" tvg-logo="http://go4.pw/ASIA/rania.png" group-title="MALAYSIA",ASTRO RANIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052404
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CITRA" tvg-logo="http://go4.pw/ASIA/Citra.png" group-title="MALAYSIA",ASTRO CITRA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052391
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VAANAVIL" tvg-logo="http://go4.pw/ASIA/Vaanavil.png" group-title="MALAYSIA",ASTRO VAANAVIL
-http://suprino.xyz:80/W8MEP61/2X2H702/1052408
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="MALAYSIA",ASTRO ARENA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052372
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="MALAYSIA",BBC WORLD NEWS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/957700
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="MALAYSIA",BBC WORLD NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/957698
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC EARTH FHD" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="MALAYSIA",BBC EARTH FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052418
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC EARTH HD" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="MALAYSIA",BBC EARTH HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052419
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC EARTH" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="MALAYSIA",BBC EARTH
-http://suprino.xyz:80/W8MEP61/2X2H702/1052417
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC LIFESTYLE" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="MALAYSIA",BBC LIFESTYLE
-http://suprino.xyz:80/W8MEP61/2X2H702/1052420
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC LIFESTYLE FHD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="MALAYSIA",BBC LIFESTYLE FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052421
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC LIFESTYLE HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="MALAYSIA",BBC LIFESTYLE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052422
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS FHD" tvg-logo="http://go4.pw/ASIA/beein.png" group-title="MALAYSIA",BEIN SPORTS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052431
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS HD" tvg-logo="http://go4.pw/ASIA/beein.png" group-title="MALAYSIA",BEIN SPORTS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052432
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS" tvg-logo="http://go4.pw/ASIA/beein.png" group-title="MALAYSIA",BEIN SPORTS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052423
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 2 FHD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="MALAYSIA",BEIN SPORTS 2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052425
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 2 HD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="MALAYSIA",BEIN SPORTS 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052426
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 2" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="MALAYSIA",BEIN SPORTS 2
-http://suprino.xyz:80/W8MEP61/2X2H702/1052424
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 3 FHD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" group-title="MALAYSIA",BEIN SPORTS 3 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052429
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 3 HD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" group-title="MALAYSIA",BEIN SPORTS 3 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052430
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 3" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" group-title="MALAYSIA",BEIN SPORTS 3
-http://suprino.xyz:80/W8MEP61/2X2H702/1052428
-#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG FHD" tvg-logo="http://go4.pw/AFRICA/BLOOMBREG.png" group-title="MALAYSIA",BLOOMBERG FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052434
-#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG HD" tvg-logo="http://go4.pw/AFRICA/BLOOMBREG.png" group-title="MALAYSIA",BLOOMBERG HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052435
-#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG" tvg-logo="http://go4.pw/AFRICA/BLOOMBREG.png" group-title="MALAYSIA",BLOOMBERG
-http://suprino.xyz:80/W8MEP61/2X2H702/1052433
-#EXTINF:-1 tvg-id="" tvg-name="MY - CARTOON NETWORK FHD" tvg-logo="http://go4.pw/EUROPE/UK/CARTOONNETWORK-1.png" group-title="MALAYSIA",CARTOON NETWORK FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052436
-#EXTINF:-1 tvg-id="" tvg-name="MY - CARTOON NETWORK HD" tvg-logo="http://go4.pw/EUROPE/UK/CARTOONNETWORK-1.png" group-title="MALAYSIA",CARTOON NETWORK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052437
-#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES FHD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="MALAYSIA",CBEEBIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052439
-#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="MALAYSIA",CBEEBIES HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052440
-#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="MALAYSIA",CBEEBIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052438
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL MOVIES FHD" tvg-logo="http://go4.pw/ASIA/fra.png" group-title="MALAYSIA",CELESTIAL MOVIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052447
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL MOVIES HD" tvg-logo="http://go4.pw/ASIA/fra.png" group-title="MALAYSIA",CELESTIAL MOVIES HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052448
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL MOVIES" tvg-logo="http://go4.pw/ASIA/fra.png" group-title="MALAYSIA",CELESTIAL MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052445
-#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="MALAYSIA",CGTN FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052449
-#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="MALAYSIA",CGTN HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052450
-#EXTINF:-1 tvg-id="" tvg-name="MY - CINEMAX FHD" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MALAYSIA",CINEMAX FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052451
-#EXTINF:-1 tvg-id="" tvg-name="MY - CINEMAX HD" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MALAYSIA",CINEMAX HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052452
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNA FHD" tvg-logo="http://go4.pw/SINGAPORE/CNA.png" group-title="MALAYSIA",CNA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052454
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNA HD" tvg-logo="http://go4.pw/SINGAPORE/CNA.png" group-title="MALAYSIA",CNA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052455
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNA" tvg-logo="http://go4.pw/SINGAPORE/CNA.png" group-title="MALAYSIA",CNA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052453
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC ASIA FHD" tvg-logo="http://go4.pw/ASIA/Asia.png" group-title="MALAYSIA",CNBC ASIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052458
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC ASIA HD" tvg-logo="http://go4.pw/ASIA/Asia.png" group-title="MALAYSIA",CNBC ASIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052459
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC ASIA" tvg-logo="http://go4.pw/ASIA/Asia.png" group-title="MALAYSIA",CNBC ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052456
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="MALAYSIA",CCTV4 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052442
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="MALAYSIA",CCTV4 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052443
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="MALAYSIA",CCTV4
-http://suprino.xyz:80/W8MEP61/2X2H702/1052441
-#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="MALAYSIA",CCTV4
-http://suprino.xyz:80/W8MEP61/2X2H702/957712
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNN FHD" tvg-logo="http://go4.pw/USA/CNN.png" group-title="MALAYSIA",CNN FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052461
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNN HD" tvg-logo="http://go4.pw/USA/CNN.png" group-title="MALAYSIA",CNN HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052462
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HINDI FHD" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS HINDI FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052464
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HINDI HD" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS HINDI HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052466
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HINDI" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS HINDI
-http://suprino.xyz:80/W8MEP61/2X2H702/1052463
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL FHD" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS TAMIL FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052468
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL HD" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS TAMIL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052470
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS TAMIL
-http://suprino.xyz:80/W8MEP61/2X2H702/1052467
-#EXTINF:-1 tvg-id="" tvg-name="MY - CRIME & INVESTIGATION FHD" tvg-logo="http://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="MALAYSIA",CRIME & INVESTIGATION FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052471
-#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA FHD" tvg-logo="http://go4.pw/ASIA/CTI.png" group-title="MALAYSIA",CTI ASIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052473
-#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA HD" tvg-logo="http://go4.pw/ASIA/CTI.png" group-title="MALAYSIA",CTI ASIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052474
-#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA" tvg-logo="http://go4.pw/ASIA/CTI.png" group-title="MALAYSIA",CTI ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052472
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY ASIA FHD" tvg-logo="http://go4.pw/ASIA/DISCOVERY.png" group-title="MALAYSIA",DISCOVERY ASIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052475
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY CHANNEL FHD" tvg-logo="http://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="MALAYSIA",DISCOVERY CHANNEL FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052477
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY CHANNEL HD" tvg-logo="http://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="MALAYSIA",DISCOVERY CHANNEL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052478
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY ASIA HD" tvg-logo="http://go4.pw/ASIA/DISCOVERY.png" group-title="MALAYSIA",DISCOVERY ASIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052476
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX FHD" tvg-logo="http://go4.pw/germany/20.png" group-title="MALAYSIA",DMAX FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052479
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX HD" tvg-logo="http://go4.pw/germany/20.png" group-title="MALAYSIA",DMAX HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052480
-#EXTINF:-1 tvg-id="" tvg-name="MY - DREAMWORKS FHD" tvg-logo="http://go4.pw/AFRICA/DREAMWORKS.png" group-title="MALAYSIA",DREAMWORKS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052482
-#EXTINF:-1 tvg-id="" tvg-name="MY - DREAMWORKS HD" tvg-logo="http://go4.pw/AFRICA/DREAMWORKS.png" group-title="MALAYSIA",DREAMWORKS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052483
-#EXTINF:-1 tvg-id="" tvg-name="MY - DREAMWORKS" tvg-logo="http://go4.pw/AFRICA/DREAMWORKS.png" group-title="MALAYSIA",DREAMWORKS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052481
-#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORTS FHD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="MALAYSIA",EUROSPORTS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052487
-#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORTS HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="MALAYSIA",EUROSPORTS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052488
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NETWORK FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="MALAYSIA",FOOD NETWORK FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052490
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="MALAYSIA",FOOD NETWORK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052491
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NETWORK" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="MALAYSIA",FOOD NETWORK
-http://suprino.xyz:80/W8MEP61/2X2H702/1052489
-#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE 24 ENGLISH HD" tvg-logo="http://go4.pw/AFRICA/CANAL+/France24.png" group-title="MALAYSIA",FRANCE 24 ENGLISH HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052494
-#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE 24 ENGLISH" tvg-logo="http://go4.pw/AFRICA/CANAL+/France24.png" group-title="MALAYSIA",FRANCE 24 ENGLISH
-http://suprino.xyz:80/W8MEP61/2X2H702/1052492
-#EXTINF:-1 tvg-id="" tvg-name="MY - GLOBAL TREKKER FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="MALAYSIA",GLOBAL TREKKER FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052495
-#EXTINF:-1 tvg-id="" tvg-name="MY - GLOBAL TREKKER HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="MALAYSIA",GLOBAL TREKKER HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052496
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL FHD" tvg-logo="http://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="MALAYSIA",GOLF CHANNEL FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052498
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="http://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="MALAYSIA",GOLF CHANNEL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052499
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL" tvg-logo="http://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="MALAYSIA",GOLF CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/1052497
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FAMILY FHD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="MALAYSIA",HBO FAMILY FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052503
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FAMILY HD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="MALAYSIA",HBO FAMILY HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052504
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FHD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="MALAYSIA",HBO FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052505
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="MALAYSIA",HBO HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052507
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="MALAYSIA",HBO HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052508
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="MALAYSIA",HBO
-http://suprino.xyz:80/W8MEP61/2X2H702/1052501
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="MALAYSIA",HBO
-http://suprino.xyz:80/W8MEP61/2X2H702/1052502
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HITS FHD" tvg-logo="http://go4.pw/AMERICA/USA/HBO.png" group-title="MALAYSIA",HBO HITS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052512
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HITS HD" tvg-logo="http://go4.pw/AMERICA/USA/HBO.png" group-title="MALAYSIA",HBO HITS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052513
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HITS" tvg-logo="http://go4.pw/AMERICA/USA/HBO.png" group-title="MALAYSIA",HBO HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052511
-#EXTINF:-1 tvg-id="" tvg-name="MY - HGTV FHD" tvg-logo="http://go4.pw/germany/HGTV.png" group-title="MALAYSIA",HGTV FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052514
-#EXTINF:-1 tvg-id="" tvg-name="MY - HGTV HD" tvg-logo="http://go4.pw/germany/HGTV.png" group-title="MALAYSIA",HGTV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052515
-#EXTINF:-1 tvg-id="" tvg-name="MY - HISTORY FHD" tvg-logo="http://go4.pw/ALBANIA/15.png" group-title="MALAYSIA",HISTORY FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052516
-#EXTINF:-1 tvg-id="" tvg-name="MY - HISTORY HD" tvg-logo="http://go4.pw/ALBANIA/15.png" group-title="MALAYSIA",HISTORY HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052517
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS FHD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="MALAYSIA",HITS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052519
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="MALAYSIA",HITS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052520
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="MALAYSIA",HITS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052518
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES FHD" tvg-logo="http://go4.pw/PHILIPINES/HITS_Movies.png" group-title="MALAYSIA",HITS MOVIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052522
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES HD" tvg-logo="http://go4.pw/PHILIPINES/HITS_Movies.png" group-title="MALAYSIA",HITS MOVIES HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052523
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES" tvg-logo="http://go4.pw/PHILIPINES/HITS_Movies.png" group-title="MALAYSIA",HITS MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052521
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS NOW FHD" tvg-logo="http://go4.pw/ASIA/HITS.png" group-title="MALAYSIA",HITS NOW FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052525
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS NOW HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="MALAYSIA",HITS NOW HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052526
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS NOW" tvg-logo="http://go4.pw/ASIA/HITS.png" group-title="MALAYSIA",HITS NOW
-http://suprino.xyz:80/W8MEP61/2X2H702/1052524
-#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI FHD" tvg-logo="http://go4.pw/ASIA/iQIYI.png" group-title="MALAYSIA",iQIYI FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052529
-#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="http://go4.pw/ASIA/iQIYI.png" group-title="MALAYSIA",iQIYI HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052530
-#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI" tvg-logo="http://go4.pw/ASIA/iQIYI.png" group-title="MALAYSIA",iQIYI
-http://suprino.xyz:80/W8MEP61/2X2H702/1052527
-#EXTINF:-1 tvg-id="" tvg-name="MY - JAZEERA ENGLISH FHD" tvg-logo="http://go4.pw/Mexico/aljazera.png" group-title="MALAYSIA",JAZEERA ENGLISH FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052533
-#EXTINF:-1 tvg-id="" tvg-name="MY - JAZEERA ENGLISH HD" tvg-logo="http://go4.pw/Mexico/aljazera.png" group-title="MALAYSIA",JAZEERA ENGLISH HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052534
-#EXTINF:-1 tvg-id="" tvg-name="MY - JAZEERA ENGLISH" tvg-logo="http://go4.pw/Mexico/aljazera.png" group-title="MALAYSIA",JAZEERA ENGLISH
-http://suprino.xyz:80/W8MEP61/2X2H702/1052531
-#EXTINF:-1 tvg-id="" tvg-name="MY - K PLUS FHD" tvg-logo="http://go4.pw/ASIA/PLUS.png" group-title="MALAYSIA",K PLUS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052536
-#EXTINF:-1 tvg-id="" tvg-name="MY - K PLUS HD" tvg-logo="http://go4.pw/ASIA/PLUS.png" group-title="MALAYSIA",K PLUS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052537
-#EXTINF:-1 tvg-id="" tvg-name="MY - K PLUS" tvg-logo="http://go4.pw/ASIA/PLUS.png" group-title="MALAYSIA",K PLUS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052535
-#EXTINF:-1 tvg-id="" tvg-name="MY - KBS WORLD FHD" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="MALAYSIA",KBS WORLD FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052539
-#EXTINF:-1 tvg-id="" tvg-name="MY - KBS WORLD HD" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="MALAYSIA",KBS WORLD HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052541
-#EXTINF:-1 tvg-id="" tvg-name="MY - KBS WORLD" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="MALAYSIA",KBS WORLD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052538
-#EXTINF:-1 tvg-id="" tvg-name="MY - KTV FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="MALAYSIA",KTV FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052543
-#EXTINF:-1 tvg-id="" tvg-name="MY - KTV HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="MALAYSIA",KTV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052544
-#EXTINF:-1 tvg-id="" tvg-name="MY - KTV" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="MALAYSIA",KTV
-http://suprino.xyz:80/W8MEP61/2X2H702/1052542
-#EXTINF:-1 tvg-id="" tvg-name="MY - LIFETIME FHD" tvg-logo="http://go4.pw/PHILIPINES/Lifetime.png" group-title="MALAYSIA",LIFETIME FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052546
-#EXTINF:-1 tvg-id="" tvg-name="MY - LIFETIME HD" tvg-logo="http://go4.pw/PHILIPINES/Lifetime.png" group-title="MALAYSIA",LIFETIME HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052547
-#EXTINF:-1 tvg-id="" tvg-name="MY - LIFETIME" tvg-logo="http://go4.pw/PHILIPINES/Lifetime.png" group-title="MALAYSIA",LIFETIME
-http://suprino.xyz:80/W8MEP61/2X2H702/1052545
-#EXTINF:-1 tvg-id="" tvg-name="MY - LOVE NATURE FHD" tvg-logo="http://go4.pw/CANADA/lovenature.png" group-title="MALAYSIA",LOVE NATURE FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052552
-#EXTINF:-1 tvg-id="" tvg-name="MY - LOVE NATURE HD" tvg-logo="http://go4.pw/CANADA/lovenature.png" group-title="MALAYSIA",LOVE NATURE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052553
-#EXTINF:-1 tvg-id="" tvg-name="MY - LOVE NATURE" tvg-logo="http://go4.pw/CANADA/lovenature.png" group-title="MALAYSIA",LOVE NATURE
-http://suprino.xyz:80/W8MEP61/2X2H702/1052551
-#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KIDS FHD" tvg-logo="http://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="MALAYSIA",MOONBUG KIDS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052555
-#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KIDS HD" tvg-logo="http://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="MALAYSIA",MOONBUG KIDS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052556
-#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KIDS" tvg-logo="http://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="MALAYSIA",MOONBUG KIDS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052554
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV ASIA FHD" tvg-logo="http://go4.pw/PHILIPINES/MTV_Asia.png" group-title="MALAYSIA",MTV ASIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052558
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV ASIA HD" tvg-logo="http://go4.pw/PHILIPINES/MTV_Asia.png" group-title="MALAYSIA",MTV ASIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052559
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV ASIA" tvg-logo="http://go4.pw/PHILIPINES/MTV_Asia.png" group-title="MALAYSIA",MTV ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052557
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO FHD" tvg-logo="http://go4.pw/AFRICA/CANAL+/nationalgeographic.png" group-title="MALAYSIA",NAT GEO FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052560
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO HD" tvg-logo="http://go4.pw/AFRICA/CANAL+/nationalgeographic.png" group-title="MALAYSIA",NAT GEO HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052561
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO WILD FHD" tvg-logo="http://go4.pw/AFRICA/CANAL+/NATGEOWILD.png" group-title="MALAYSIA",NAT GEO WILD FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052562
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO WILD HD" tvg-logo="http://go4.pw/AFRICA/CANAL+/NATGEOWILD.png" group-title="MALAYSIA",NAT GEO WILD HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052563
-#EXTINF:-1 tvg-id="" tvg-name="MY - NHK WORLD PREMIUM FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="MALAYSIA",NHK WORLD PREMIUM FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052564
-#EXTINF:-1 tvg-id="" tvg-name="MY - NHK WORLD PREMIUM HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="MALAYSIA",NHK WORLD PREMIUM HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052565
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR FHD" tvg-logo="http://go4.pw/USA/SD/6.png" group-title="MALAYSIA",NICK JR FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052567
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR HD" tvg-logo="http://go4.pw/USA/SD/6.png" group-title="MALAYSIA",NICK JR HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052568
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR" tvg-logo="http://go4.pw/USA/SD/6.png" group-title="MALAYSIA",NICK JR
-http://suprino.xyz:80/W8MEP61/2X2H702/1052566
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICKELEDEON FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="MALAYSIA",NICKELEDEON FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052570
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICKELEDEON" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="MALAYSIA",NICKELEDEON
-http://suprino.xyz:80/W8MEP61/2X2H702/1052569
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE TV FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="MALAYSIA",ONE TV FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052572
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE TV HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="MALAYSIA",ONE TV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052573
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE TV" tvg-logo="http://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="MALAYSIA",ONE TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1052571
-#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX CHINESE CHANNEL FHD" tvg-logo=" http://go4.pw/ASIA/phnex.png" group-title="MALAYSIA",PHOENIX CHINESE CHANNEL FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052574
-#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX CHINESE CHANNEL HD" tvg-logo=" http://go4.pw/ASIA/phnex.png" group-title="MALAYSIA",PHOENIX CHINESE CHANNEL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052575
-#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX INFO NEWS FHD" tvg-logo=" http://go4.pw/ASIA/phnex.png" group-title="MALAYSIA",PHOENIX INFO NEWS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052577
-#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX INFO NEWS HD" tvg-logo=" http://go4.pw/ASIA/phnex.png" group-title="MALAYSIA",PHOENIX INFO NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052578
-#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX INFO NEWS" tvg-logo=" http://go4.pw/ASIA/phnex.png" group-title="MALAYSIA",PHOENIX INFO NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052576
-#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS FHD" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="MALAYSIA",PREMIER SPORTS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052580
-#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS HD" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="MALAYSIA",PREMIER SPORTS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052581
-#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="MALAYSIA",PREMIER SPORTS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052579
-#EXTINF:-1 tvg-id="" tvg-name="MY - SHOWCASE MOVIES FHD" tvg-logo="http://go4.pw/USA/SD/24.png" group-title="MALAYSIA",SHOWCASE MOVIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052583
-#EXTINF:-1 tvg-id="" tvg-name="MY - SHOWCASE MOVIES HD" tvg-logo="http://go4.pw/USA/SD/24.png" group-title="MALAYSIA",SHOWCASE MOVIES HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052584
-#EXTINF:-1 tvg-id="" tvg-name="MY - SHOWCASE MOVIES" tvg-logo="http://go4.pw/USA/SD/24.png" group-title="MALAYSIA",SHOWCASE MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052582
-#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS FHD" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="MALAYSIA",SKY NEWS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052586
-#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS HD" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="MALAYSIA",SKY NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052587
-#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="MALAYSIA",SKY NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052585
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV HD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052592
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV
-http://suprino.xyz:80/W8MEP61/2X2H702/1052588
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="MALAYSIA",SPOTV 2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052590
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052591
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="MALAYSIA",SPOTV 2
-http://suprino.xyz:80/W8MEP61/2X2H702/1052589
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV STADIA FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV STADIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052594
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV STADIA HD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV STADIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052595
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV STADIA" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV STADIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052593
-#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY FHD" tvg-logo="http://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="MALAYSIA",STAR VIJAY FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052597
-#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY HD" tvg-logo="http://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="MALAYSIA",STAR VIJAY HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052598
-#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY" tvg-logo="http://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="MALAYSIA",STAR VIJAY
-http://suprino.xyz:80/W8MEP61/2X2H702/1052596
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN LIFE FHD" tvg-logo="http://go4.pw/ASIA/TAMIL/sun-life.png" group-title="MALAYSIA",SUN LIFE FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052600
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN LIFE HD" tvg-logo="http://go4.pw/ASIA/TAMIL/sun-life.png" group-title="MALAYSIA",SUN LIFE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052601
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN LIFE" tvg-logo="http://go4.pw/ASIA/TAMIL/sun-life.png" group-title="MALAYSIA",SUN LIFE
-http://suprino.xyz:80/W8MEP61/2X2H702/1052599
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC FHD" tvg-logo="http://go4.pw/ASIA/INDIA/MUSIC.png" group-title="MALAYSIA",SUN MUSIC FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052603
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC HD" tvg-logo="http://go4.pw/ASIA/INDIA/MUSIC.png" group-title="MALAYSIA",SUN MUSIC HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052604
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC" tvg-logo="http://go4.pw/ASIA/INDIA/MUSIC.png" group-title="MALAYSIA",SUN MUSIC
-http://suprino.xyz:80/W8MEP61/2X2H702/1052602
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN NEWS FHD" tvg-logo="http://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="MALAYSIA",SUN NEWS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052606
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN NEWS HD" tvg-logo="http://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="MALAYSIA",SUN NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052607
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN NEWS" tvg-logo="http://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="MALAYSIA",SUN NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052605
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV FHD" tvg-logo="http://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="MALAYSIA",SUN TV FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052610
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV HD" tvg-logo="http://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="MALAYSIA",SUN TV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052611
-#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV" tvg-logo="http://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="MALAYSIA",SUN TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1052608
-#EXTINF:-1 tvg-id="" tvg-name="MY - TA-DAA! FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TA-DAA!.png" group-title="MALAYSIA",TA-DAA! FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052612
-#EXTINF:-1 tvg-id="" tvg-name="MY - TLC FHD" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="MALAYSIA",TLC FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052613
-#EXTINF:-1 tvg-id="" tvg-name="MY - TLC HD" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="MALAYSIA",TLC HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052614
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV SMK FHD" tvg-logo="http://go4.pw/ASIA/SMK.png" group-title="MALAYSIA",TUTOR TV SMK FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052616
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV SMK HD" tvg-logo="http://go4.pw/ASIA/SMK.png" group-title="MALAYSIA",TUTOR TV SMK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052617
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV SMK" tvg-logo="http://go4.pw/ASIA/SMK.png" group-title="MALAYSIA",TUTOR TV SMK
-http://suprino.xyz:80/W8MEP61/2X2H702/1052615
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV OKEY FHD" tvg-logo="http://go4.pw/ASIA/OKEY.png" group-title="MALAYSIA",TV OKEY FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052620
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV OKEY HD" tvg-logo="http://go4.pw/ASIA/OKEY.png" group-title="MALAYSIA",TV OKEY HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052621
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV OKEY" tvg-logo="http://go4.pw/ASIA/OKEY.png" group-title="MALAYSIA",TV OKEY
-http://suprino.xyz:80/W8MEP61/2X2H702/1052619
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="MALAYSIA",TV1 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052623
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1 HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="MALAYSIA",TV1 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052624
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="MALAYSIA",TV1
-http://suprino.xyz:80/W8MEP61/2X2H702/1052622
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2 FHD" tvg-logo="http://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="MALAYSIA",TV2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052626
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2 HD" tvg-logo="http://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="MALAYSIA",TV2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052627
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2" tvg-logo="http://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="MALAYSIA",TV2
-http://suprino.xyz:80/W8MEP61/2X2H702/1052625
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV3" tvg-logo="http://go4.pw/SPAIN/TV3%20CATALAN.png" group-title="MALAYSIA",TV3
-http://suprino.xyz:80/W8MEP61/2X2H702/1052628
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV9" tvg-logo="http://go4.pw/INDONESIA/TV9.png" group-title="MALAYSIA",TV9
-http://suprino.xyz:80/W8MEP61/2X2H702/1052629
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB CLASSIC FHD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB CLASSIC FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052631
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB CLASSIC HD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB CLASSIC HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052632
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB CLASSIC" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB CLASSIC
-http://suprino.xyz:80/W8MEP61/2X2H702/1052630
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB ENTERTAINMENT NEWS" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB ENTERTAINMENT NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052633
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB ENTERTAINMENT NEWS FHD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB ENTERTAINMENT NEWS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052634
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB ENTERTAINMENT NEWS HD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB ENTERTAINMENT NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052635
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE FHD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB JADE FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052637
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE HD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB JADE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052638
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB JADE
-http://suprino.xyz:80/W8MEP61/2X2H702/1052636
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE FHD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB XING HE FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052640
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE HD" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB XING HE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052641
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB XING HE" tvg-logo="http://go4.pw/ASIA/TVB.png" group-title="MALAYSIA",TVB XING HE
-http://suprino.xyz:80/W8MEP61/2X2H702/1052639
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA FHD" tvg-logo="http://go4.pw/ASIA/tvbs.png" group-title="MALAYSIA",TVBS ASIA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052643
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="http://go4.pw/ASIA/tvbs.png" group-title="MALAYSIA",TVBS ASIA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052644
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA" tvg-logo="http://go4.pw/ASIA/tvbs.png" group-title="MALAYSIA",TVBS ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052642
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN FHD" tvg-logo="http://go4.pw/ASIA/TVN.png" group-title="MALAYSIA",TVN FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052646
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN HD" tvg-logo="http://go4.pw/ASIA/TVN.png" group-title="MALAYSIA",TVN HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052648
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN" tvg-logo="http://go4.pw/ASIA/TVN.png" group-title="MALAYSIA",TVN
-http://suprino.xyz:80/W8MEP61/2X2H702/1052645
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN MOVIES FHD" tvg-logo="http://go4.pw/ASIA/tvmovies.png" group-title="MALAYSIA",TVN MOVIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052650
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN MOVIES HD" tvg-logo="http://go4.pw/ASIA/tvmovies.png" group-title="MALAYSIA",TVN MOVIES HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052651
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN MOVIES" tvg-logo="http://go4.pw/ASIA/tvmovies.png" group-title="MALAYSIA",TVN MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052649
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVS SARAWAK FHD" tvg-logo="http://go4.pw/ASIA/TVS.png" group-title="MALAYSIA",TVS SARAWAK FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052653
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVS SARAWAK HD" tvg-logo="http://go4.pw/ASIA/TVS.png" group-title="MALAYSIA",TVS SARAWAK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052654
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVS SARAWAK" tvg-logo="http://go4.pw/ASIA/TVS.png" group-title="MALAYSIA",TVS SARAWAK
-http://suprino.xyz:80/W8MEP61/2X2H702/1052652
-#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT FHD" tvg-logo="http://go4.pw/ASIA/Sport.png" group-title="MALAYSIA",W-SPORT FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052656
-#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT HD" tvg-logo="http://go4.pw/ASIA/Sport.png" group-title="MALAYSIA",W-SPORT HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052657
-#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT" tvg-logo="http://go4.pw/ASIA/Sport.png" group-title="MALAYSIA",W-SPORT
-http://suprino.xyz:80/W8MEP61/2X2H702/1052655
-#EXTINF:-1 tvg-id="" tvg-name="MY - WARNER TV FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png" group-title="MALAYSIA",WARNER TV FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052659
-#EXTINF:-1 tvg-id="" tvg-name="MY - WARNER TV HD" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png" group-title="MALAYSIA",WARNER TV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052660
-#EXTINF:-1 tvg-id="" tvg-name="MY - WARNER TV" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png" group-title="MALAYSIA",WARNER TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1052658
-#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK FHD" tvg-logo="http://go4.pw/AMERICA/USA/WWE.png" group-title="MALAYSIA",WWE NETWORK FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052662
-#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK HD" tvg-logo="http://go4.pw/AMERICA/USA/WWE.png" group-title="MALAYSIA",WWE NETWORK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052663
-#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK" tvg-logo="http://go4.pw/AMERICA/USA/WWE.png" group-title="MALAYSIA",WWE NETWORK
-http://suprino.xyz:80/W8MEP61/2X2H702/1052661
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA FHD" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="MALAYSIA",ZEE CINEMA FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052665
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA HD" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="MALAYSIA",ZEE CINEMA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052666
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE TAMIL FHD" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="MALAYSIA",ZEE TAMIL FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052668
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE TAMIL HD" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="MALAYSIA",ZEE TAMIL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052669
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE TAMIL" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="MALAYSIA",ZEE TAMIL
-http://suprino.xyz:80/W8MEP61/2X2H702/1052667
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL MOVIES FHD" tvg-logo="http://go4.pw/ASIA/fra.png" group-title="MALAYSIA",CELESTIAL MOVIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052704
-#EXTINF:-1 tvg-id="" tvg-name="MY - DREAMWORKS FHD" tvg-logo="http://go4.pw/AFRICA/DREAMWORKS.png" group-title="MALAYSIA",DREAMWORKS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052705
-#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KID FHD" tvg-logo="https://images.pluto.tv/channels/6239cfd6530d0100086a9930/colorLogoPNG.png" group-title="MALAYSIA",MOONBUG KID FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052706
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR FHD" tvg-logo="http://go4.pw/AMERICA/BRASIL/NICK-JRHD-1.png" group-title="MALAYSIA",NICK JR FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052707
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE FHD" tvg-logo="http://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="MALAYSIA",ONE FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052708
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 1 FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="MALAYSIA",SPOTV 1 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052709
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV OKEY FHD" tvg-logo="http://go4.pw/ASIA/OKEY.png" group-title="MALAYSIA",TV OKEY FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052710
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="MALAYSIA",TV1 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052711
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2 FHD" tvg-logo="http://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="MALAYSIA",TV2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052712
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV9 HD+" tvg-logo="http://go4.pw/INDONESIA/TV9.png" group-title="MALAYSIA",TV9 HD+
-http://suprino.xyz:80/W8MEP61/2X2H702/1052670
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV9 [BK] HD+" tvg-logo="http://go4.pw/INDONESIA/TV9.png" group-title="MALAYSIA",TV9 [BK] HD+
-http://suprino.xyz:80/W8MEP61/2X2H702/1052671
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO OASIS FHD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="MALAYSIA",ASTRO OASIS FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052699
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/AXN.png" group-title="MALAYSIA",AXN FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052701
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN 2 FHD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="MALAYSIA",BEIN 2 FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052702
-#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES FHD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="MALAYSIA",CBEEBIES FHD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052703
-#EXTINF:-1 tvg-id="" tvg-name="MY - CRIME & INVESTIGATION HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/CRIME_INVESTIGATION.png" group-title="MALAYSIA",CRIME & INVESTIGATION HD
-http://suprino.xyz:80/W8MEP61/2X2H702/957697
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASIAN FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="MALAYSIA",ASIAN FOOD NETWORK HD
-http://suprino.xyz:80/W8MEP61/2X2H702/957699
-#EXTINF:-1 tvg-id="" tvg-name="MY - DW ENGLISH HD" tvg-logo="http://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="MALAYSIA",DW ENGLISH HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052485
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV3 [BK] HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="MALAYSIA",TV3 [BK] HD
-http://suprino.xyz:80/W8MEP61/2X2H702/408664
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICKELEDEON HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="MALAYSIA",NICKELEDEON HD
-http://suprino.xyz:80/W8MEP61/2X2H702/957707
-#EXTINF:-1 tvg-id="" tvg-name="MY - TA-DAA! HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TA-DAA!.png" group-title="MALAYSIA",TA-DAA! HD
-http://suprino.xyz:80/W8MEP61/2X2H702/957705
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="MALAYSIA",SPOTV 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/957706
-#EXTINF:-1 tvg-id="" tvg-name="MY - ONE HD" tvg-logo="http://go4.pw/KURDISH/one hd.png" group-title="MALAYSIA",ONE HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052672
-#EXTINF:-1 tvg-id="" tvg-name="MY - BLUE ANT EXTREME HD- BLUE ANT EXTREME HD" tvg-logo="http://go4.pw/ASIA/arr.png" group-title="MALAYSIA",BLUE ANT EXTREME HD- BLUE ANT EXTREME HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052675
-#EXTINF:-1 tvg-id="" tvg-name="MY - SONY MAX HD" tvg-logo="http://go4.pw/ASIA/INDIA/SONYMAX.png" group-title="MALAYSIA",SONY MAX HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052678
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA HD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="MALAYSIA",ASTRO ARENA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052679
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPORTS SPO TV HD" tvg-logo="http://go4.pw/ASIA/SPO.png" group-title="MALAYSIA",SPORTS SPO TV HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052681
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPORTS SPO TV 2 HD" tvg-logo="http://go4.pw/ASIA/SPO.png" group-title="MALAYSIA",SPORTS SPO TV 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052682
-#EXTINF:-1 tvg-id="" tvg-name="MY - RTM SPORTS HD+" tvg-logo="http://go4.pw/ASIA/RTM.png" group-title="MALAYSIA",RTM SPORTS HD+
-http://suprino.xyz:80/W8MEP61/2X2H702/1052683
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS HD" tvg-logo="http://go4.pw/ASIA/beein.png" group-title="MALAYSIA",BEIN SPORTS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052684
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 2 HD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_2.png" group-title="MALAYSIA",BEIN SPORTS 2 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052685
-#EXTINF:-1 tvg-id="" tvg-name="MY - BEIN SPORTS 3 HD" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png" group-title="MALAYSIA",BEIN SPORTS 3 HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052686
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="http://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="MALAYSIA",GOLF CHANNEL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052687
-#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS HD" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="MALAYSIA",PREMIER SPORTS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052688
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL MOVIES HD" tvg-logo="http://go4.pw/ASIA/fra.png" group-title="MALAYSIA",CELESTIAL MOVIES HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052692
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HD" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052693
-#EXTINF:-1 tvg-id="" tvg-name="MY - AXN HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/AXN.png" group-title="MALAYSIA",AXN HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052694
-#EXTINF:-1 tvg-id="" tvg-name="MY - TRAVEL CHANNEL HD" tvg-logo="http://go4.pw/AMERICA/USA/THETRAVELCHANNEL.png" group-title="MALAYSIA",TRAVEL CHANNEL HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052695
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX HD" tvg-logo="http://go4.pw/germany/20.png" group-title="MALAYSIA",DMAX HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052696
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIPLUS HD+" tvg-logo="http://go4.pw/ASIA/ANIPLUS.png" group-title="MALAYSIA",ANIPLUS HD+
-http://suprino.xyz:80/W8MEP61/2X2H702/1052697
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNN HD" tvg-logo="http://go4.pw/USA/CNN.png" group-title="MALAYSIA",CNN HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052673
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC NEWS HD" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_NEWS.png" group-title="MALAYSIA",BBC NEWS HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1052674
-#EXTINF:-1 tvg-id="" tvg-name="MY - DW ENGLISH" tvg-logo="http://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="MALAYSIA",DW ENGLISH
-http://suprino.xyz:80/W8MEP61/2X2H702/1052484
-#EXTINF:-1 tvg-id="" tvg-name="MY - CHANNEL NEWS ASIA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/Channel_NewsAsia.png" group-title="MALAYSIA",CHANNEL NEWS ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/260559
-#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE24" tvg-logo="http://go4.pw/ASIA/MALAYSIA/FRANCE24.png" group-title="MALAYSIA",FRANCE24
-http://suprino.xyz:80/W8MEP61/2X2H702/260551
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL CLASSIC MOVIES" tvg-logo="http://go4.pw/ASIA/Celestial.png" group-title="MALAYSIA",CELESTIAL CLASSIC MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052444
-#EXTINF:-1 tvg-id="" tvg-name="MY - DW" tvg-logo="http://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="MALAYSIA",DW
-http://suprino.xyz:80/W8MEP61/2X2H702/260553
-#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="MALAYSIA",SKY NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/260554
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS" tvg-logo="http://go4.pw/ASIA/MALAYSIA/BBC-WORLD-NEWS.png" group-title="MALAYSIA",BBC WORLD NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/260556
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV1" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="MALAYSIA",TV1
-http://suprino.xyz:80/W8MEP61/2X2H702/260558
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV2" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV2.png" group-title="MALAYSIA",TV2
-http://suprino.xyz:80/W8MEP61/2X2H702/260557
-#EXTINF:-1 tvg-id="" tvg-name="MY - TV ALHIJRAH" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TV-ALHIJRAH.png" group-title="MALAYSIA",TV ALHIJRAH
-http://suprino.xyz:80/W8MEP61/2X2H702/260535
-#EXTINF:-1 tvg-id="" tvg-name="MY - CHANNEL NEWSASIA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/Channel_NewsAsia.png" group-title="MALAYSIA",CHANNEL NEWSASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/69232
-#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL" tvg-logo="http://go4.pw/ASIA/INDIA/COLORS.png" group-title="MALAYSIA",COLORS TAMIL
-http://suprino.xyz:80/W8MEP61/2X2H702/260544
-#EXTINF:-1 tvg-id="" tvg-name="MY - COMEDY CENTRAL" tvg-logo="http://go4.pw/ASIA/MALAYSIA/comedy.png" group-title="MALAYSIA",COMEDY CENTRAL
-http://suprino.xyz:80/W8MEP61/2X2H702/260545
-#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ABC-AUSTRALIA.png" group-title="MALAYSIA",ABC AUSTRALIA
-http://suprino.xyz:80/W8MEP61/2X2H702/260537
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TVN.png" group-title="MALAYSIA",TVN
-http://suprino.xyz:80/W8MEP61/2X2H702/260547
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVN MOVIES" tvg-logo="http://go4.pw/ASIA/tvmovies.png" group-title="MALAYSIA",TVN MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/260550
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICK JR" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NICK-JR.png" group-title="MALAYSIA",NICK JR
-http://suprino.xyz:80/W8MEP61/2X2H702/260541
-#EXTINF:-1 tvg-id="" tvg-name="MY - MTV ASIA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/MTV-ASIA.png" group-title="MALAYSIA",MTV ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/260543
-#EXTINF:-1 tvg-id="" tvg-name="MY - ANIMAL PLANET" tvg-logo="http://go4.pw/ASIA/MALAYSIA/animal_planet.png" group-title="MALAYSIA",ANIMAL PLANET
-http://suprino.xyz:80/W8MEP61/2X2H702/957701
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASIAN FOOD NETWORK" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="MALAYSIA",ASIAN FOOD NETWORK
-http://suprino.xyz:80/W8MEP61/2X2H702/957702
-#EXTINF:-1 tvg-id="" tvg-name="MY - ADITHYA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/Adithya.png" group-title="MALAYSIA",ADITHYA
-http://suprino.xyz:80/W8MEP61/2X2H702/957704
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO TUTOR TV SMK" tvg-logo="http://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="MALAYSIA",ASTRO TUTOR TV SMK
-http://suprino.xyz:80/W8MEP61/2X2H702/957708
-#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS" tvg-logo="http://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="MALAYSIA",BBC WORLD NEWS
-http://suprino.xyz:80/W8MEP61/2X2H702/957709
-#EXTINF:-1 tvg-id="" tvg-name="MY - BERNAMA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/BERNAMA.png" group-title="MALAYSIA",BERNAMA
-http://suprino.xyz:80/W8MEP61/2X2H702/957710
-#EXTINF:-1 tvg-id="" tvg-name="MY - CARTOON NETWORK" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="MALAYSIA",CARTOON NETWORK
-http://suprino.xyz:80/W8MEP61/2X2H702/957711
-#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="MALAYSIA",CGTN
-http://suprino.xyz:80/W8MEP61/2X2H702/957713
-#EXTINF:-1 tvg-id="" tvg-name="MY - CINEMAX" tvg-logo="http://go4.pw/ASIA/MALAYSIA/cinemax.png" group-title="MALAYSIA",CINEMAX
-http://suprino.xyz:80/W8MEP61/2X2H702/957714
-#EXTINF:-1 tvg-id="" tvg-name="MY - CRIME & INVESTIGATION" tvg-logo="http://go4.pw/ASIA/MALAYSIA/CRIME_INVESTIGATION.png" group-title="MALAYSIA",CRIME & INVESTIGATION
-http://suprino.xyz:80/W8MEP61/2X2H702/957715
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY ASIA" tvg-logo="http://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="MALAYSIA",DISCOVERY ASIA
-http://suprino.xyz:80/W8MEP61/2X2H702/957716
-#EXTINF:-1 tvg-id="" tvg-name="MY - DISCOVERY CHANNEL" tvg-logo="http://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="MALAYSIA",DISCOVERY CHANNEL
-http://suprino.xyz:80/W8MEP61/2X2H702/957717
-#EXTINF:-1 tvg-id="" tvg-name="MY - DMAX" tvg-logo="http://go4.pw/germany/20.png" group-title="MALAYSIA",DMAX
-http://suprino.xyz:80/W8MEP61/2X2H702/957718
-#EXTINF:-1 tvg-id="" tvg-name="MY - DREAMWORKS" tvg-logo="http://go4.pw/ASIA/MALAYSIA/DREAMWORKS.png" group-title="MALAYSIA",DREAMWORKS
-http://suprino.xyz:80/W8MEP61/2X2H702/957719
-#EXTINF:-1 tvg-id="" tvg-name="MY - FOOD NETWORK" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="MALAYSIA",FOOD NETWORK
-http://suprino.xyz:80/W8MEP61/2X2H702/957720
-#EXTINF:-1 tvg-id="" tvg-name="MY - GLOBAL TREKKER" tvg-logo="http://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="MALAYSIA",GLOBAL TREKKER
-http://suprino.xyz:80/W8MEP61/2X2H702/957721
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FAMILY" tvg-logo="http://go4.pw/ASIA/MALAYSIA/hbo_family.png" group-title="MALAYSIA",HBO FAMILY
-http://suprino.xyz:80/W8MEP61/2X2H702/957722
-#EXTINF:-1 tvg-id="" tvg-name="MY - HGTV" tvg-logo="http://go4.pw/ASIA/MALAYSIA/hgtv.png" group-title="MALAYSIA",HGTV
-http://suprino.xyz:80/W8MEP61/2X2H702/957723
-#EXTINF:-1 tvg-id="" tvg-name="MY - HISTORY" tvg-logo="http://go4.pw/ASIA/MALAYSIA/his.png" group-title="MALAYSIA",HISTORY
-http://suprino.xyz:80/W8MEP61/2X2H702/957724
-#EXTINF:-1 tvg-id="" tvg-name="MY - KTV" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="MALAYSIA",KTV
-http://suprino.xyz:80/W8MEP61/2X2H702/957725
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NAT_GEO.png" group-title="MALAYSIA",NAT GEO
-http://suprino.xyz:80/W8MEP61/2X2H702/957726
-#EXTINF:-1 tvg-id="" tvg-name="MY - NAT GEO WILD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NAT_GEO_WILD.png" group-title="MALAYSIA",NAT GEO WILD
-http://suprino.xyz:80/W8MEP61/2X2H702/957727
-#EXTINF:-1 tvg-id="" tvg-name="MY - NHK WORLD PREMIUM" tvg-logo="http://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="MALAYSIA",NHK WORLD PREMIUM
-http://suprino.xyz:80/W8MEP61/2X2H702/957728
-#EXTINF:-1 tvg-id="" tvg-name="MY - NICKELEDEON" tvg-logo="http://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="MALAYSIA",NICKELEDEON
-http://suprino.xyz:80/W8MEP61/2X2H702/957729
-#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX" tvg-logo=" http://go4.pw/ASIA/phnex.png" group-title="MALAYSIA",PHOENIX
-http://suprino.xyz:80/W8MEP61/2X2H702/957731
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="MALAYSIA",SPOTV 2
-http://suprino.xyz:80/W8MEP61/2X2H702/957732
-#EXTINF:-1 tvg-id="" tvg-name="MY - TA-DAA!" tvg-logo="http://go4.pw/ASIA/MALAYSIA/TA-DAA!.png" group-title="MALAYSIA",TA-DAA!
-http://suprino.xyz:80/W8MEP61/2X2H702/957733
-#EXTINF:-1 tvg-id="" tvg-name="MY - TLC" tvg-logo="http://go4.pw/ASIA/MALAYSIA/tlc.png" group-title="MALAYSIA",TLC
-http://suprino.xyz:80/W8MEP61/2X2H702/957734
-#EXTINF:-1 tvg-id="" tvg-name="MY - TUTOR TV SMK" tvg-logo="http://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="MALAYSIA",TUTOR TV SMK
-http://suprino.xyz:80/W8MEP61/2X2H702/957735
-#EXTINF:-1 tvg-id="" tvg-name="MY - 8TV" tvg-logo="http://go4.pw/EXYU/8tv.png" group-title="MALAYSIA",8TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1052362
-#EXTINF:-1 tvg-id="" tvg-name="MY - ADITHYA" tvg-logo="http://go4.pw/ASIA/INDIA/ADITHYA-TV.jpg" group-title="MALAYSIA",ADITHYA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052366
-#EXTINF:-1 tvg-id="" tvg-name="MY - AL-HIJRAH" tvg-logo="http://go4.pw/ASIA/Hijrah.png" group-title="MALAYSIA",AL-HIJRAH
-http://suprino.xyz:80/W8MEP61/2X2H702/1052367
-#EXTINF:-1 tvg-id="" tvg-name="MY - CNN" tvg-logo="http://go4.pw/USA/CNN.png" group-title="MALAYSIA",CNN
-http://suprino.xyz:80/W8MEP61/2X2H702/1052460
-#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORTS" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="MALAYSIA",EUROSPORTS
-http://suprino.xyz:80/W8MEP61/2X2H702/1052486
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="MALAYSIA",ZEE CINEMA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052664
-#EXTINF:-1 tvg-id="" tvg-name="MY - HARVEST TV ARABIA" tvg-logo="http://go4.pw/ASIA/ARABIA.png" group-title="MALAYSIA",HARVEST TV ARABIA
-http://suprino.xyz:80/W8MEP61/2X2H702/1052677
-#EXTINF:-1 tvg-id="" tvg-name="MY - SONY TEN 1" tvg-logo="http://go4.pw/ASIA/TEN.png" group-title="MALAYSIA",SONY TEN 1
-http://suprino.xyz:80/W8MEP61/2X2H702/1052689
-#EXTINF:-1 tvg-id="" tvg-name="MY - SONY TEN 2" tvg-logo="http://go4.pw/ASIA/TEN2.png" group-title="MALAYSIA",SONY TEN 2
-http://suprino.xyz:80/W8MEP61/2X2H702/1052690
-#EXTINF:-1 tvg-id="" tvg-name="MY - SONY TEN 3" tvg-logo="http://go4.pw/ASIA/TEN3.png" group-title="MALAYSIA",SONY TEN 3
-http://suprino.xyz:80/W8MEP61/2X2H702/1052691
-#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="MALAYSIA",CBEEBIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1052698
-#EXTINF:-1 tvg-id="" tvg-name="MLY - WE TV" tvg-logo="http://go4.pw/AMERICA/USA/WETV.png" group-title="MALAYSIA",MLY - WE TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1084431
-#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES" tvg-logo="http://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="MALAYSIA",MLY - SURYA MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1084432
-#EXTINF:-1 tvg-id="" tvg-name="MLY - RAJ MUSIC" tvg-logo="http://go4.pw/ASIA/RAJM.png" group-title="MALAYSIA",MLY - RAJ MUSIC
-http://suprino.xyz:80/W8MEP61/2X2H702/1084433
-#EXTINF:-1 tvg-id="" tvg-name="MLY - KAIRALI PEOPLE TV" tvg-logo="http://go4.pw/ASIA/KAIRALI.png" group-title="MALAYSIA",MLY - KAIRALI PEOPLE TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1084434
-#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES" tvg-logo="http://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="MALAYSIA",MLY - SURYA MOVIES
-http://suprino.xyz:80/W8MEP61/2X2H702/1084435
-#EXTINF:-1 tvg-id="" tvg-name="MLY - MAZAVIL MANORAMA HD" tvg-logo="http://go4.pw/ASIA/MANORAMA.png" group-title="MALAYSIA",MLY - MAZAVIL MANORAMA HD
-http://suprino.xyz:80/W8MEP61/2X2H702/1084437
-#EXTINF:-1 tvg-id="" tvg-name="MLY - FLOWERS TV" tvg-logo="http://go4.pw/ASIA/FLOWERS.png" group-title="MALAYSIA",MLY - FLOWERS TV
-http://suprino.xyz:80/W8MEP61/2X2H702/1084440
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA (not 24/7)" tvg-logo="http://go4.pw/ASIA/astroria.png" group-title="MALAYSIA",ASTRO RIA (not 24/7)
-http://suprino.xyz:80/W8MEP61/2X2H702/1119956
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA BOLA 1" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="MALAYSIA",ASTRO ARENA BOLA 1
-http://suprino.xyz:80/W8MEP61/2X2H702/1131941
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA BOLA 2" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="MALAYSIA",ASTRO ARENA BOLA 2
-http://suprino.xyz:80/W8MEP61/2X2H702/1131942
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="KR - ARIRANG KOREA" tvg-logo="http://go4.pw/ASIA/ARIRANG KOREA.png" group-title="韓國",KR-ARIRANG KOREA
-http://suprino.xyz:80/W8MEP61/2X2H702/977679
-#EXTINF:-1 tvg-id="" tvg-name="KR - SBS" tvg-logo="http://go4.pw/ASIA/SBS.png" group-title="韓國",KR-SBS
-http://suprino.xyz:80/W8MEP61/2X2H702/977680
-#EXTINF:-1 tvg-id="" tvg-name="KR - SBS PLUS" tvg-logo="http://go4.pw/ASIA/SBS PLUS.png" group-title="韓國",KR-SBS PLUS
-http://suprino.xyz:80/W8MEP61/2X2H702/977681
-#EXTINF:-1 tvg-id="" tvg-name="KR - YTN" tvg-logo="http://go4.pw/ASIA/YTN.png" group-title="韓國",KR-YTN
-http://suprino.xyz:80/W8MEP61/2X2H702/977682
-#EXTINF:-1 tvg-id="" tvg-name="KR - MBC" tvg-logo="http://go4.pw/ASIA/MBC.png" group-title="韓國",KR-MBC
-http://suprino.xyz:80/W8MEP61/2X2H702/977683
-#EXTINF:-1 tvg-id="" tvg-name="KR - MBN" tvg-logo="http://go4.pw/ASIA/MBN.png" group-title="韓國",KR-MBN
-http://suprino.xyz:80/W8MEP61/2X2H702/977684
-#EXTINF:-1 tvg-id="" tvg-name="KR - EBS" tvg-logo="http://go4.pw/ASIA/EBS.png" group-title="韓國",KR-EBS
-http://suprino.xyz:80/W8MEP61/2X2H702/977685
-#EXTINF:-1 tvg-id="" tvg-name="KR - TAN" tvg-logo="http://go4.pw/ASIA/TAN.png" group-title="韓國",KR-TAN
-http://suprino.xyz:80/W8MEP61/2X2H702/977686
-#EXTINF:-1 tvg-id="" tvg-name="KR - CTS" tvg-logo="http://go4.pw/ASIA/CTS.png" group-title="韓國",KR-CTS
-http://suprino.xyz:80/W8MEP61/2X2H702/977687
-#EXTINF:-1 tvg-id="" tvg-name="KR - TVN" tvg-logo="http://go4.pw/ASIA/TVN.png" group-title="韓國",KR-TVN
-http://suprino.xyz:80/W8MEP61/2X2H702/977688
-#EXTINF:-1 tvg-id="" tvg-name="KR - ARIRANG" tvg-logo="http://go4.pw/ASIA/ARIRANG.png" group-title="韓國",KR-ARIRANG
-http://suprino.xyz:80/W8MEP61/2X2H702/977689
-#EXTINF:-1 tvg-id="" tvg-name="KR - KBS WORLD" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="韓國",KR-KBS WORLD
-http://suprino.xyz:80/W8MEP61/2X2H702/977690
-#EXTINF:-1 tvg-id="" tvg-name="SK - EBS PLUS 2" tvg-logo="http://go4.pw/ASIA/ebs2pls.png" group-title="韓國",SK-EBS PLUS 2
-http://suprino.xyz:80/W8MEP61/2X2H702/69154
-#EXTINF:-1 tvg-id="" tvg-name="SK - EBS PLUS 1" tvg-logo="http://go4.pw/ASIA/KOREA/EBS-PLUS-1.png" group-title="韓國",SK-EBS PLUS 1
-http://suprino.xyz:80/W8MEP61/2X2H702/69155
-#EXTINF:-1 tvg-id="" tvg-name="SK - EBS ENGLISH" tvg-logo="http://go4.pw/ASIA/KOREA/ebsenglish.png" group-title="韓國",SK-EBS ENGLISH
-http://suprino.xyz:80/W8MEP61/2X2H702/69156
-#EXTINF:-1 tvg-id="" tvg-name="SK - EBS 2" tvg-logo="http://go4.pw/ASIA/ebs2.png" group-title="韓國",SK-EBS 2
-http://suprino.xyz:80/W8MEP61/2X2H702/69158
-#EXTINF:-1 tvg-id="" tvg-name="SK - EBS KIDS" tvg-logo="http://go4.pw/ASIA/ebskids.png" group-title="韓國",SK-EBS KIDS
-http://suprino.xyz:80/W8MEP61/2X2H702/69162
-#EXTINF:-1 tvg-id="" tvg-name="SK - ARIRANG" tvg-logo="http://go4.pw/ASIA/ARIRANG.png" group-title="韓國",SK-ARIRANG
-http://suprino.xyz:80/W8MEP61/2X2H702/69161
 
 
 
