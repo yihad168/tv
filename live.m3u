@@ -4364,6 +4364,29 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/90059
 
 
 
+#EXTINF:-1 group-title="MUSIC",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",BE@TTV
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 group-title="MUSIC",Global TV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Huila TV
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 group-title="MUSIC",IQ Channel
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 group-title="MUSIC",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",CMC
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Farra Play
+http://159.203.148.226/live/farra.m3u8
+
+
+
 #EXTINF:-1 tvg-id="132889" tvg-name="MUSIC ★ TRACE MIZKI" tvg-logo="http://lg.mygolden.xyz:8080/logo/AFRICA/SOUTH-AFRICA/Trace_Mziki.png" group-title="MUSIC",TRACE MIZKI
 http://secure-line.top:80/X69K33Q6/961100/132889
 #EXTINF:-1 tvg-id="132891" tvg-name="MUSIC ★ TRACE KITOKO" tvg-logo="http://lg.mygolden.xyz:8080/logo/AFRICA/SOUTH-AFRICA/TRACE.png" group-title="MUSIC",TRACE KITOKO
