@@ -3821,7 +3821,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/830543
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830544
 #EXTINF:-1 tvg-id="" tvg-name="ID - SET ONE HD" tvg-logo="http://go4.pw/INDONESIA/set_one.png" group-title="印尼",SET ONE HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830547
-#EXTINF:-1 tvg-id="" tvg-name="ID- RCTI HD" tvg-logo="http://go4.pw/INDONESIA/rcti.png" group-title="AS | INDONESIA",ID- RCTI HD
+#EXTINF:-1 tvg-id="" tvg-name="ID- RCTI HD" tvg-logo="http://go4.pw/INDONESIA/rcti.png" group-title="INDONESIA",RCTI HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830548
 #EXTINF:-1 tvg-id="" tvg-name="ID - NET TV HD" tvg-logo="http://go4.pw/INDONESIA/net_tv.png" group-title="印尼",NET TV HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830551
@@ -5116,8 +5116,6 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1830
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1941
 #EXTINF:-1 tvg-id="Food Network UK" tvg-name="Food Network UK" tvg-logo="http://tugapt.com/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1942
-#EXTINF:-1 tvg-id="" tvg-name="World Of FreeSports HD UK" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/free-sports-uk.png?raw=true" group-title="United Kingdom VIP",World Of FreeSports HD UK
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/50437
 #EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="GINX eSports TV UK" tvg-logo="http://tugapt.com/picons/ginxesportstvuk.png" group-title="United Kingdom",GINX eSports TV UK
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1758
 #EXTINF:-1 tvg-id="GOLD UK" tvg-name="GOLD +1 UK" tvg-logo="http://tugapt.com/picons/golduk.png" group-title="United Kingdom",GOLD +1 UK
