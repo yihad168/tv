@@ -4497,8 +4497,46 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 
 
 
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="韓國", JTBC 1
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="韓國", mNet Korea
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/2UfQSCF.png" group-title="韓國", tvN Korea
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/2UfQUEg.png" group-title="韓國", tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 
+#EXTINF:-1 tvg-name="KR: OCN KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/OCN_logo.jpg" group-title="韓國", OCN
+http://iptv12k.com:35461/654321/123456/3223
+#EXTINF:-1 tvg-name="KR: OCN movies KR" tvg-logo="https://pbs.twimg.com/media/EOdyIaPU8AA_GZG.jpg" group-title="韓國", OCN movies
+http://iptv12k.com:35461/654321/123456/3222
+#EXTINF:-1 tvg-name="KR: CHANNEL A KR" tvg-logo="http://www.mediatoday.co.kr/news/photo/201905/148294_229174_2317.jpg" group-title="韓國", CHANNEL A
+http://iptv12k.com:35461/654321/123456/3226
+#EXTINF:-1 tvg-name="KR: mbn KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoYoQO%2FbtqwMcJoV7x%2FVD2ZTToHdnCcm06wHKnbkk%2Fimg.jpg" group-title="韓國", MBN TV Korea
+http://iptv12k.com:35461/654321/123456/3230
+#EXTINF:-1 tvg-name="KR: YTN KR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-tv-7088.jpg" group-title="韓國", YTN
+http://iptv12k.com:35461/654321/123456/3224
+#EXTINF:-1 tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="韓國", SPOTV Korea
+http://iptv12k.com:35461/654321/123456/3215
+#EXTINF:-1 tvg-name="KR: spotv2 KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="韓國", SPOTV2 Korea
+http://iptv12k.com:35461/654321/123456/3228
+#EXTINF:-1 tvg-name="KR: MBC스포츠 KR" tvg-logo="https://blog.kakaocdn.net/dn/bmqjWS/btqDOIVjuIM/gNBvNgoLbnUASicgqyHyy0/img.jpg" group-title="韓國", MBC Sports+
+http://iptv12k.com:35461/654321/123456/3219
 
+#EXTINF:-1 tvg-name="JTBC골프 KR" tvg-logo="http://image.jtbcgolf.joins.com/main/jtbcgolf_og_800x400.png" group-title="韓國", JTBC GOLF
+http://iptv12k.com:35461/654321/123456/3205
+#EXTINF:-1 tvg-name="MBCDRAMAHD" tvg-logo="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FxC8tauk2Y5mR88Mfy3TAwpRbBozyFNQFkdJrEojjwDVBs1498542930503compressflag.jpg&thumbnail=650x2147483647&quality=80&type=jpg" group-title="韓國", MBC DRAMA
+http://iptv12k.com:35461/654321/123456/3220
+#EXTINF:-1 tvg-name="KR: 연합뉴스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="韓國", Yonhap News TV
+http://iptv12k.com:35461/654321/123456/3209
+#EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://blog.kakaocdn.net/dn/bYZCX2/btqDVU80MkK/inuPxMtGkulA0zC9p1gbs0/img.jpg" group-title="韓國", SBS GOLF
+http://iptv12k.com:35461/654321/123456/3206
+#EXTINF:-1 tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="韓國", SBS SPORTS
+http://iptv12k.com:35461/654321/123456/3207
+#EXTINF:-1 tvg-name="KR: SBS plus KR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="韓國", SBS PLUS (SBS+)
+http://iptv12k.com:35461/654321/123456/3211
+#EXTINF:-1 tvg-name="CTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPNqWqf0aGKlrggH2WeoSw2GCWlGU1cVllg&s" group-title="韓國", CTS TV
+http://iptv12k.com:35461/654321/123456/3218
 
 
 
@@ -5148,7 +5186,164 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="美國",ACC NETWORK
+http://212.102.60.231/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",AMC NETWORK
+http://212.102.60.231/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",BET EAST
+http://212.102.60.231/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="美國",BET HER
+http://212.102.60.231/BET_HER/index.m3u8
+#EXTINF:-1 group-title="美國",BRAVO
+http://212.102.60.231/BRAVO/index.m3u8
+#EXTINF:-1 group-title="美國",CBS SPORTS NETWORK
+http://212.102.60.231/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",CINEMAX
+http://212.102.60.231/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="美國",DISCOVERY LIFE
+http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="美國",DISNEY CHANNEL
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="美國",DISNEY JR
+http://212.102.60.231/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="美國",DISNEY XD
+http://212.102.60.231/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="美國",ESPN2
+http://212.102.60.231/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="美國",ESPN NEWS
+http://212.102.60.231/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="美國",ESPN U
+http://212.102.60.231/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="美國",TENNIS CHANNEL
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="美國",FOOD NETWORK
+http://212.102.60.231/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",FUSE
+http://212.102.60.231/FUSE/index.m3u8
+#EXTINF:-1 group-title="美國",FYI
+http://212.102.60.231/FYI/index.m3u8
+#EXTINF:-1 group-title="美國",GAME SHOW NETWORK
+http://212.102.60.231/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",GET TV
+http://212.102.60.231/GET_TV/index.m3u8
+#EXTINF:-1 group-title="美國",GOLF CHANNEL
+http://212.102.60.231/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="美國",GRIT TV
+http://212.102.60.231/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="美國",HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="美國",HBO 2
+http://212.102.60.231/HBO_2/index.m3u8
+#EXTINF:-1 group-title="美國",HBO COMEDY
+http://212.102.60.231/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="美國",HBO FAMILY
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="美國",MTV U
+http://212.102.60.231/MTV_U/index.m3u8
+#EXTINF:-1 group-title="美國",nick jr.
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="美國",NICK MUSIC
+http://212.102.60.231/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="美國",MTV LIVE
+http://212.102.60.231/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="美國",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="美國",MTV2
+http://212.102.60.231/MTV_2/index.m3u8
+#EXTINF:-1 group-title="美國",MTV CLASSIC
+http://212.102.60.231/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="美國",HGTV
+http://212.102.60.231/HGTV/index.m3u8
+#EXTINF:-1 group-title="美國",INVESTIGATION DISCOVERY
+http://212.102.60.231/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="美國",LIFETIME
+http://212.102.60.231/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="美國",MGM+
+http://212.102.60.231/EPIX/index.m3u8
+#EXTINF:-1 group-title="美國",MGM+ Drive-In
+http://212.102.60.231/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="美國",MGM+ Hits
+http://212.102.60.231/EPIX_2/index.m3u8
+#EXTINF:-1 group-title="美國",MGM+ Marquee
+http://212.102.60.231/EPIX_HITS/index.m3u8
+#EXTINF:-1 group-title="美國",MOTOR TREND
+http://212.102.60.231/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="美國",MTV
+http://212.102.60.231/MTV/index.m3u8
+#EXTINF:-1 group-title="美國",NEWS NATION
+http://212.102.60.231/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="美國",NFL NETWORK
+http://212.102.60.231/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",OWN
+http://212.102.60.231/OWN/index.m3u8
+#EXTINF:-1 group-title="美國",OXYGEN
+http://212.102.60.231/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="美國",PARAMOUNT NETWORK
+http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",SHOWTIME
+http://212.102.60.231/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="美國",SHOWTIME 2
+http://212.102.60.231/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="美國",SHOWTIME EXTREME
+http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="美國",SHOWTIME WOMEN
+,http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="美國",SHOWTIME NEXT
+http://212.102.60.231/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ
+http://212.102.60.231/STARZ/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ COMEDY
+http://212.102.60.231/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ EDGE
+http://212.102.60.231/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ ENCORE
+http://212.102.60.231/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ ENCORE ACTION
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ ENCORE CLASSIC
+http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="美國",STARZ ENCORE WESTERNS
+http://212.102.60.231/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 group-title="美國",SYFY
+http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:-1 group-title="美國",THE WEATHER CHANNEL
+http://212.102.60.231/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="美國",TLC
+http://212.102.60.231/TLC/index.m3u8
+#EXTINF:-1 group-title="美國",TNT
+http://212.102.60.231/TNT/index.m3u8
+#EXTINF:-1 group-title="美國",TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 group-title="美國",TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 group-title="美國",TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 group-title="美國",TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 group-title="美國",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 group-title="美國",TV ONE
+http://212.102.60.231/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="美國",VH1
+http://212.102.60.231/VH1/index.m3u8
+#EXTINF:-1 group-title="美國",WWE
+http://212.102.60.231/WWE/index.m3u8
+#EXTINF:-1 group-title="美國",YES NETWORK
+http://212.102.60.231/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="美國",HBO
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 group-title="美國",HBO 2
+http://212.102.60.231/HBO_2/index.m3u8
+#EXTINF:-1 group-title="美國",HBO FAMILY
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="美國",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="美國",Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="美國",nick jr.
+http://212.102.60.231/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="美國",TNT
+http://212.102.60.231/TNT/index.m3u8
 
 
 
@@ -6303,6 +6498,15 @@ https://v.cdnlz12.com/20250131/18178_7f6917bd/2000k/hls/mixed.m3u8
 https://play.xluuss.com/play/mbkAO0Je/index.m3u8
 #EXTINF:-1 group-title="2025賀歲檔電影",熊出沒•重啟未來
 https://c1.7bbffvip.com/video/xiongchumeizhongqiweilai/tc/index.m3u8
+
+
+#EXTINF:-1 group-title="2025賀歲檔電影",漫威影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
+
+#EXTINF:-1 group-title="2025賀歲檔電影",特辑电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+
+
 
 
 #EXTM3U
