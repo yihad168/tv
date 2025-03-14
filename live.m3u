@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -231,7 +231,7 @@ http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=2
 http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=1682
 #EXTINF:-1 group-title="NEWS CHANNEL",ABC (KABC),NBC (KNBC)
 http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=1836
-#EXTINF:-1 group-title="NEWS CHANNEL",ABC (KABC),PBS (KCET - LOS ANGELES)
+#EXTINF:-1 group-title="NEWS CHANNEL",ABC (KABC),PBS (KCET-LOS ANGELES)
 http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=2260
 #EXTINF:-1 group-title="NEWS CHANNEL",ABC (KABC),SPECTRUM NEWS LOS ANGELES
 http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=999
@@ -307,7 +307,6 @@ http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=3
 http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=836
 #EXTINF:-1 group-title="NEWS CHANNEL",TVG2
 http://krooztv.live:80/play/live.php?extension=ts&mac=00:1a:79:7f:be:d1&stream=835
-
 #EXTINF:-1 group-title="NEWS CHANNEL",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
@@ -321,12 +320,10 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="香港",TVB無線功夫
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
-
 #EXTINF:-1 group-title="香港",香港_C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 group-title="香港",香港_C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
 #EXTINF:-1 group-title="香港",RHK 31 (JD)
 http://jp1.jdiptv.cc/live/rthk31.m3u8?kdstime=1737027675&kdssign=5873a4573de087125ea66ef0cbca5dd6
 #EXTINF:-1 group-title="香港",RHK 32 (JD)
@@ -339,8 +336,6 @@ https://rthktv33-live.akamaized.net:443/hls/live/2101641/RTHKTV33/stream03/strea
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="香港",香港35台
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
-
 
 #EXTINF:-1 group-title="香港",翡翠台4K
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
@@ -422,8 +417,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 
 
-#EXTINF:-1 group-title="台灣",HBO
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+
+
 
 #EXTINF:-1 group-title="台灣",八度空間
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
@@ -447,8 +442,6 @@ https://cdn8.163189.xyz/live/lhox/stream.m3u8
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 group-title="台灣",龍華戲劇
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-
-
 
 
 #EXTINF:-1 group-title="台灣",民視 (116)
@@ -475,14 +468,10 @@ http://116.93.98.236:8080/sat/tv731.flv
 http://116.93.98.236:8080/sat/tv741.flv
 
 
-
-
 #EXTINF:-1 group-title="台灣",大愛一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台灣",大愛二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
-
 
 #EXTINF:-1 group-title="台灣", 緯來體育台 (116)
 http://116.93.98.236:8080/sat/tv721.flv
@@ -490,9 +479,6 @@ http://116.93.98.236:8080/sat/tv721.flv
 http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 group-title="台灣", DAZN二台 (60)
 http://60.248.77.83/sat/tv741.flv
-
-
-
 
 #EXTINF:-1 group-title="台灣", 台視HD (125)
 http://125.227.210.55:8158/VideoInput/play.ts
@@ -585,16 +571,290 @@ http://61.221.215.25:8800/hls/58/index.m3u8
 http://61.221.215.25:8800/hls/1/index.m3u8
 #EXTINF:-1 group-title="台灣", 中華小當家 (61)
 http://61.221.215.25:8800/hls/40/index.m3u8
-
 #EXTINF:-1 group-title="台灣", 番薯音樂 (61)
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="台灣", 番薯音樂 (61)
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-
 #EXTINF:-1 group-title="台灣", 半島新聞
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="台灣", 天良综合台
-http://60.248.91.20:8000/main
+
+
+
+#EXTINF:-1 group-title="台灣",公視(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
+#EXTINF:-1 group-title="台灣",台視(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ttv_taiwan
+#EXTINF:-1 group-title="台灣",中視(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=zhongshihd_twn
+#EXTINF:-1 group-title="台灣",民視(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="台灣",華視(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctshd_twn
+#EXTINF:-1 group-title="台灣",大愛2台(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=catchplay_twn
+#EXTINF:-1 group-title="台灣",TVBS(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs
+#EXTINF:-1 group-title="台灣",TVBS新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
+#EXTINF:-1 group-title="台灣",TVBS歡樂(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="台灣",年代新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=niandainews_twn
+#EXTINF:-1 group-title="台灣",中天新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+#EXTINF:-1 group-title="台灣",中天娛樂(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+#EXTINF:-1 group-title="台灣",中天綜合(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+#EXTINF:-1 group-title="台灣",中天亞洲(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ctiasia_twn
+#EXTINF:-1 group-title="台灣",台視新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ttvnews_twn
+#EXTINF:-1 group-title="台灣",台視綜合(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ttvzhonghe_twn
+#EXTINF:-1 group-title="台灣",中視經典(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=zhongshi_twn
+#EXTINF:-1 group-title="台灣",中視新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="台灣",非凡新聞(S)
+http://https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+#EXTINF:-1 group-title="台灣",民視新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="台灣",民視臺灣(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="台灣",八大第一(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
+#EXTINF:-1 group-title="台灣",八大綜合(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
+#EXTINF:-1 group-title="台灣",八大戲劇(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=badadrama
+#EXTINF:-1 group-title="台灣",八大娛樂(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=badaentertain
+#EXTINF:-1 group-title="台灣",三立臺灣(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+#EXTINF:-1 group-title="台灣",三立綜合(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
+#EXTINF:-1 group-title="台灣",三立戲劇(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="台灣",三立新聞(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
+#EXTINF:-1 group-title="台灣",東森綜合(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+#EXTINF:-1 group-title="台灣",東森超視(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvsuper
+#EXTINF:-1 group-title="台灣",東森戲劇(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+#EXTINF:-1 group-title="台灣",東森財經(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="台灣",東森電影(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+#EXTINF:-1 group-title="台灣",東森洋片(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
+#EXTINF:-1 group-title="台灣",東森幼幼(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=yoyo_twn
+#EXTINF:-1 group-title="台灣",龍華洋片(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="台灣",龍詳時代(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="台灣",龍華戲劇(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="台灣",龍華偶像(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="台灣",龍華卡通(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="台灣",靖天卡通(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="台灣",靖天國際(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="台灣",探索亞洲(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="台灣",衛視中文(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=weishichinese_twn
+#EXTINF:-1 group-title="台灣",衛視電影(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=weishimovie_twn
+#EXTINF:-1 group-title="台灣",美亞電影(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="台灣",星衛電影(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+#EXTINF:-1 group-title="台灣",旅遊生活(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=tlc_twn
+#EXTINF:-1 group-title="台灣",亞洲旅遊(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=asiatravel_twn
+#EXTINF:-1 group-title="台灣",亞洲美食(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=afc_twn
+#EXTINF:-1 group-title="台灣",美食星球(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=foodplanet_twn
+#EXTINF:-1 group-title="台灣",動物星球(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=AnimalPlanet
+#EXTINF:-1 group-title="台灣",動物星球1(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=animalplanet_twn
+#EXTINF:-1 group-title="台灣",博斯網球(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=bositennis_twn
+#EXTINF:-1 group-title="台灣",博斯運動1(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=bosisport1_twn
+#EXTINF:-1 group-title="台灣",博斯高球2(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="台灣",博斯運動2(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=bosisport2_twn
+#EXTINF:-1 group-title="台灣",國家地理(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=natgeohd_twn
+#EXTINF:-1 group-title="台灣",野生動物(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=natgeowild_twn
+#EXTINF:-1 group-title="台灣",地理野生(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="台灣",EYETV戲劇(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="台灣",EYETV旅遊
+https://haoyunlai.serv00.net/Smartv-1.php?id=?id=eyetvtravel_twn
+#EXTINF:-1 group-title="台灣",好萊塢電影(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="台灣",愛爾達體育1(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport1_twn
+#EXTINF:-1 group-title="台灣",愛爾達體育2(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport2_twn
+#EXTINF:-1 group-title="台灣",愛爾達體育3(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=eltasport3_twn
+#EXTINF:-1 group-title="台灣",GOODTV真理(S)
+https://haoyunlai.serv00.net/Smartv-1.php?id=good2_twn
+
+#EXTINF:-1 group-title="台灣",Asia Travel
+https://haoyunlai.serv00.net/Smartv-1.php?id=asiatravel_twn
+#EXTINF:-1 group-title="台灣",MTV Live
+https://haoyunlai.serv00.net/Smartv-1.php?id=mtvhd_twn
+#EXTINF:-1 group-title="台灣",Animal Planet (Eng)
+https://haoyunlai.serv00.net/Smartv-1.php?id=AnimalPlanet
+#EXTINF:-1 group-title="台灣",Animal_Planet
+https://haoyunlai.serv00.net/Smartv-1.php?id=animalplanet_twn
+#EXTINF:-1 group-title="台灣",Discovery Asia
+https://haoyunlai.serv00.net/Smartv-1.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="台灣",Discovery HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="台灣",BBC Earth HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=bbcearth_twn
+#EXTINF:-1 group-title="台灣",BBC Earth Lifestyle
+https://haoyunlai.serv00.net/Smartv-1.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="台灣",Fox News
+https://haoyunlai.serv00.net/Smartv-1.php?id=foxnews_twn
+#EXTINF:-1 group-title="台灣",France 24
+https://haoyunlai.serv00.net/Smartv-1.php?id=france24_twn
+#EXTINF:-1 group-title="台灣",DW (Deutsch)
+https://haoyunlai.serv00.net/Smartv-1.php?id=dw_twn
+#EXTINF:-1 group-title="台灣",CNA
+https://haoyunlai.serv00.net/Smartv-1.php?id=cna
+#EXTINF:-1 group-title="台灣",CNBC
+https://haoyunlai.serv00.net/Smartv-1.php?id=cnbc_twn
+#EXTINF:-1 group-title="台灣",CNN
+https://haoyunlai.serv00.net/Smartv-1.php?id=cnn_twn
+#EXTINF:-1 group-title="台灣",CNN International
+https://haoyunlai.serv00.net/Smartv-1.php?id=Cnn
+#EXTINF:-1 group-title="台灣",BBC World News
+https://haoyunlai.serv00.net/Smartv-1.php?id=bbcnews_twn
+#EXTINF:-1 group-title="台灣",BBC World News
+https://haoyunlai.serv00.net/Smartv-1.php?id=Bbcnews
+#EXTINF:-1 group-title="台灣",Bloomberg News
+https://haoyunlai.serv00.net/Smartv-1.php?id=bloomberg_twn
+#EXTINF:-1 group-title="台灣",Al-Jazeera
+https://haoyunlai.serv00.net/Smartv-1.php?id=aljazeera_twn
+#EXTINF:-1 group-title="台灣",NHK World
+https://haoyunlai.serv00.net/Smartv-1.php?id=nhkworld_japan
+#EXTINF:-1 group-title="台灣",Warner TV
+https://haoyunlai.serv00.net/Smartv-1.php?id=WarnerTV
+#EXTINF:-1 group-title="台灣",Wild HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=Natgeowild
+#EXTINF:-1 group-title="台灣",Workpoint
+https://haoyunlai.serv00.net/Smartv-1.php?id=workpoint_pat
+#EXTINF:-1 group-title="台灣",ABC News
+https://haoyunlai.serv00.net/Smartv-1.php?id=abcnews_glo
+#EXTINF:-1 group-title="台灣",Actions
+https://haoyunlai.serv00.net/Smartv-1.php?id=Rockaction
+#EXTINF:-1 group-title="台灣",,Rock Entertainment
+https://haoyunlai.serv00.net/Smartv-1.php?id=Rockentertain
+
+
+
+#EXTINF:-1 group-title="台灣",Cinema HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=Zeecinemahd
+#EXTINF:-1 group-title="台灣",Cinemax
+https://haoyunlai.serv00.net/Smartv-1.php?id=Cinemax
+#EXTINF:-1 group-title="台灣",Cinemax
+https://haoyunlai.serv00.net/Smartv-1.php?id=cinemax_twn
+
+#EXTINF:-1 group-title="台灣",HBO Family
+https://haoyunlai.serv00.net/Smartv-1.php?id=Hbofamily
+#EXTINF:-1 group-title="台灣",HBO HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=Hbo
+#EXTINF:-1 group-title="台灣",HBO Hits HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=Hbohits
+#EXTINF:-1 group-title="台灣",HBO Signature
+https://haoyunlai.serv00.net/Smartv-1.php?id=Hbosignature
+#EXTINF:-1 group-title="台灣",HBO_HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=hbohd_twn
+#EXTINF:-1 group-title="台灣",HBO_HITS
+https://haoyunlai.serv00.net/Smartv-1.php?id=hbohits_twn
+#EXTINF:-1 group-title="台灣",HGTV
+https://haoyunlai.serv00.net/Smartv-1.php?id=HGTV
+#EXTINF:-1 group-title="台灣",History
+https://haoyunlai.serv00.net/Smartv-1.php?id=History
+#EXTINF:-1 group-title="台灣",Hits
+https://haoyunlai.serv00.net/Smartv-1.php?id=Hits
+#EXTINF:-1 group-title="台灣",Hits Movie
+https://haoyunlai.serv00.net/Smartv-1.php?id=Hitsmovie
+#EXTINF:-1 group-title="台灣",Hollywood Movies
+https://haoyunlai.serv00.net/Smartv-1.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="台灣",Axn HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=Axn
+#EXTINF:-1 group-title="台灣",AXN Taiwan
+https://haoyunlai.serv00.net/Smartv-1.php?id=axn_twn
+#EXTINF:-1 group-title="台灣",Animax
+https://haoyunlai.serv00.net/Smartv-1.php?id=Animax
+#EXTINF:-1 group-title="台灣",Astrol Kplus
+https://haoyunlai.serv00.net/Smartv-1.php?id=Kplus
+
+#EXTINF:-1 group-title="台灣",Dreamworks
+https://haoyunlai.serv00.net/Smartv-1.php?id=Dreamworks
+#EXTINF:-1 group-title="台灣",KBS World
+https://haoyunlai.serv00.net/Smartv-1.php?id=KBS
+
+#EXTINF:-1 group-title="台灣",Supersports 1
+https://haoyunlai.serv00.net/Smartv-1.php?id=Assp1
+#EXTINF:-1 group-title="台灣",Supersports 2
+https://haoyunlai.serv00.net/Smartv-1.php?id=Assp2
+#EXTINF:-1 group-title="台灣",Supersports 2 backup
+https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp2
+#EXTINF:-1 group-title="台灣",Supersports 3
+https://haoyunlai.serv00.net/Smartv-1.php?id=Assp3
+#EXTINF:-1 group-title="台灣",Supersports 3 backup
+https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp3
+#EXTINF:-1 group-title="台灣",Supersports 3 backup2
+https://haoyunlai.serv00.net/Smartv-1.php?id=Assp3_mega
+#EXTINF:-1 group-title="台灣",Supersports 4
+https://haoyunlai.serv00.net/Smartv-1.php?id=Assp4_mega
+#EXTINF:-1 group-title="台灣",Supersports 4 backup
+https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp4
+#EXTINF:-1 group-title="台灣",Supersports 5
+https://haoyunlai.serv00.net/Smartv-1.php?id=go_assp5
+#EXTINF:-1 group-title="台灣",SPOTV 1 HD
+https://haoyunlai.serv00.net/Smartv-1.php?id=go_spotv
+#EXTINF:-1 group-title="台灣",SPOTV 2
+https://haoyunlai.serv00.net/Smartv-1.php?id=go_spotv2
+#EXTINF:-1 group-title="台灣",NBA TV
+https://haoyunlai.serv00.net/Smartv-1.php?id=nbatv_twn
+#EXTINF:-1 group-title="台灣",Arena
+https://haoyunlai.serv00.net/Smartv-1.php?id=Arena
+#EXTINF:-1 group-title="台灣",Arena 2
+https://haoyunlai.serv00.net/Smartv-1.php?id=Arena2
+#EXTINF:-1 group-title="台灣",tvN
+https://haoyunlai.serv00.net/Smartv-1.php?id=TVN
+#EXTINF:-1 group-title="台灣",tvN Movie
+https://haoyunlai.serv00.net/Smartv-1.php?id=Tvnmovie
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="台灣",民視台灣台 (4G)
@@ -778,61 +1038,6 @@ http://tv543.cc/litv.php?id=litv-longturn21
 #EXTINF:-1 group-title="台灣",台灣戲劇台 (4G)
 http://tv543.cc/litv.php?id=litv-longturn22
 
-
-
-
-#EXTINF:-1 group-title="NOW專區",HBO
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now 爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now爆谷星影台
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now直播台
-https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now新聞台
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now財經台
-https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 英超1台
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 英超2台
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 英超3台
-https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 英超4台
-https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 英超5台
-https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 英超6台
-https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 2
-https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 3
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 4
-https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 5
-https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 6
-https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 7
-https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
-#EXTINF:-1 group-title="NOW專區",beIN SPORTS 1
-https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
-#EXTINF:-1 group-title="NOW專區",beIN SPORTS 2
-https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 641
-https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
-#EXTINF:-1 group-title="NOW專區",NBATV
-https://dko29we9nm1rd.cloudfront.net/hls/CH642/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 651
-https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports 652
-https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Premier Sports
-https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
-#EXTINF:-1 group-title="NOW專區",Now Sports PLUS
-https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
 
 
 
@@ -1137,57 +1342,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
 
 
 
-#EXTINF:-1 group-title="MALAYSIA",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Okey Tv
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",DidikTv KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",BERNAMA
-https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TVS
-https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Astro Awani
-https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Dunia Sinema
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Tv Alhijrah
-https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA",CartoonNetwork
-https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA", DRAMA HEBAT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
-#EXTINF:-1 group-title="MALAYSIA", FILEM MANTAP
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd 
-#EXTINF:-1 group-title="MALAYSIA", LAWAK SENTRAL
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-#EXTINF:-1 group-title="MALAYSIA", DRAMA HOTSPOT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-#EXTINF:-1 group-title="MALAYSIA", TRAVEL & TASTE
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd 
-
-
-
-
 
 
 
@@ -1224,6 +1378,19 @@ http://mytv.dothome.co.kr/ch/catv/91.php
 #EXTINF:-1 group-title="韓國",CJONSTYLE+
 http://mytv.dothome.co.kr/ch/catv/92.php
 
+#EXTINF:-1 group-title="韓國",JCN TV
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+
+#EXTINF:-1 group-title="韓國",MBC Daejeon
+https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="韓國",MBC Jeju
+https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 group-title="韓國",MBC Ulsan
+https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
+#EXTINF:-1 group-title="韓國",MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="韓國",TVN
 https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.service_id=KRBC3200030BO
 #EXTINF:-1 group-title="韓國",KBC|SBS
@@ -1248,106 +1415,6 @@ https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
 
 
-
-#EXTINF:-1 group-title="韓國",頻道2 KBS 1
-http://dqy12.org/hls/1/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道3 KBS 2
-http://dqy12.org/hls/2/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道4 SBS
-http://dqy12.org/hls/3/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道5 MBC
-http://dqy12.org/hls/4/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道7 OBS
-http://dqy12.org/hls/6/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道8 Channel A
-http://dqy12.org/hls/7/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道9 JTBC
-http://dqy12.org/hls/8/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道10 MBN
-http://dqy12.org/hls/9/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道11 TV CHOSUN
-http://dqy12.org/hls/10/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道12 TVN
-http://dqy12.org/hls/11/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道13 TVN STORY
-http://dqy12.org/hls/12/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道14
-http://dqy12.org/hls/13/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道15 YTN
-http://dqy12.org/hls/14/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道16 KBS JOY
-http://dqy12.org/hls/15/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道17 SBS PLUS
-http://dqy12.org/hls/16/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道18 KBS DRAMA
-http://dqy12.org/hls/17/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道19 MNET
-http://dqy12.org/hls/18/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道20 MBC DRAMA
-http://dqy12.org/hls/19/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道21 CNTV
-http://dqy12.org/hls/20/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道22 OLFE
-http://dqy12.org/hls/21/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道23 OCN
-http://dqy12.org/hls/22/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道24 OCN MOVIES
-http://dqy12.org/hls/23/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道25 OCN MOVIES2
-http://dqy12.org/hls/24/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道26 CATCH ON 1
-http://dqy12.org/hls/25/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道27 SCREEN
-http://dqy12.org/hls/26/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道28 
-http://dqy12.org/hls/27/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道29 THE MOVIES
-http://dqy12.org/hls/28/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道30 INET
-http://dqy12.org/hls/29/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道31 CHW
-http://dqy12.org/hls/30/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道32 
-http://dqy12.org/hls/31/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道33 K
-http://dqy12.org/hls/32/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道34 圍棋
-http://dqy12.org/hls/33/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道35
-http://dqy12.org/hls/34/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道36 SPOTV2
-http://dqy12.org/hls/35/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道37 SKY SPORTS
-http://dqy12.org/hls/36/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道38 KBSN SPORTS
-http://dqy12.org/hls/37/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道39 SBS SPORTS
-http://dqy12.org/hls/38/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道40 MBC SPORTS
-http://dqy12.org/hls/39/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道41 JTBC GOLF
-http://dqy12.org/hls/40/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道42 SBS GOLF
-http://dqy12.org/hls/41/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道43 IB SPORTS
-http://dqy12.org/hls/42/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道44 BILLIARDS TV
-http://dqy12.org/hls/43/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道45 FIGHT
-http://dqy12.org/hls/44/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道46 TVN SPORTS
-http://dqy12.org/hls/45/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道47 SPOTV PRIME
-http://dqy12.org/hls/46/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道48 SPOTV PRIME 2
-http://dqy12.org/hls/47/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道49 CBS
-http://dqy12.org/hls/48/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道50 GTV
-http://dqy12.org/hls/49/index.m3u8
-#EXTINF:-1 group-title="韓國",頻道51 KBS JOY
-http://dqy12.org/hls/50/index.m3u8
-  
 
 
 
@@ -1612,163 +1679,163 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
-#EXTINF:-1 group-title="美國",ACC NETWORK
+#EXTINF:-1 group-title="美國2",ACC NETWORK
 http://212.102.60.231/ACC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",AMC NETWORK
+#EXTINF:-1 group-title="美國2",AMC NETWORK
 http://212.102.60.231/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",BET EAST
+#EXTINF:-1 group-title="美國2",BET EAST
 http://212.102.60.231/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="美國",BET HER
+#EXTINF:-1 group-title="美國2",BET HER
 http://212.102.60.231/BET_HER/index.m3u8
-#EXTINF:-1 group-title="美國",BRAVO
+#EXTINF:-1 group-title="美國2",BRAVO
 http://212.102.60.231/BRAVO/index.m3u8
-#EXTINF:-1 group-title="美國",CBS SPORTS NETWORK
+#EXTINF:-1 group-title="美國2",CBS SPORTS NETWORK
 http://212.102.60.231/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",CINEMAX
+#EXTINF:-1 group-title="美國2",CINEMAX
 http://212.102.60.231/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="美國",DISCOVERY LIFE
+#EXTINF:-1 group-title="美國2",DISCOVERY LIFE
 http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="美國",DISNEY CHANNEL
+#EXTINF:-1 group-title="美國2",DISNEY CHANNEL
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="美國",DISNEY JR
+#EXTINF:-1 group-title="美國2",DISNEY JR
 http://212.102.60.231/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="美國",DISNEY XD
+#EXTINF:-1 group-title="美國2",DISNEY XD
 http://212.102.60.231/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="美國",ESPN2
+#EXTINF:-1 group-title="美國2",ESPN2
 http://212.102.60.231/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="美國",ESPN NEWS
+#EXTINF:-1 group-title="美國2",ESPN NEWS
 http://212.102.60.231/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="美國",ESPN U
+#EXTINF:-1 group-title="美國2",ESPN U
 http://212.102.60.231/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="美國",TENNIS CHANNEL
+#EXTINF:-1 group-title="美國2",TENNIS CHANNEL
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="美國",FOOD NETWORK
+#EXTINF:-1 group-title="美國2",FOOD NETWORK
 http://212.102.60.231/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",FUSE
+#EXTINF:-1 group-title="美國2",FUSE
 http://212.102.60.231/FUSE/index.m3u8
-#EXTINF:-1 group-title="美國",FYI
+#EXTINF:-1 group-title="美國2",FYI
 http://212.102.60.231/FYI/index.m3u8
-#EXTINF:-1 group-title="美國",GAME SHOW NETWORK
+#EXTINF:-1 group-title="美國2",GAME SHOW NETWORK
 http://212.102.60.231/GAME_SHOW_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",GET TV
+#EXTINF:-1 group-title="美國2",GET TV
 http://212.102.60.231/GET_TV/index.m3u8
-#EXTINF:-1 group-title="美國",GOLF CHANNEL
+#EXTINF:-1 group-title="美國2",GOLF CHANNEL
 http://212.102.60.231/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="美國",GRIT TV
+#EXTINF:-1 group-title="美國2",GRIT TV
 http://212.102.60.231/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="美國",HBO
+#EXTINF:-1 group-title="美國2",HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 group-title="美國",HBO 2
+#EXTINF:-1 group-title="美國2",HBO 2
 http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 group-title="美國",HBO COMEDY
+#EXTINF:-1 group-title="美國2",HBO COMEDY
 http://212.102.60.231/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="美國",HBO FAMILY
+#EXTINF:-1 group-title="美國2",HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="美國",MTV U
+#EXTINF:-1 group-title="美國2",MTV U
 http://212.102.60.231/MTV_U/index.m3u8
-#EXTINF:-1 group-title="美國",nick jr.
+#EXTINF:-1 group-title="美國2",nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="美國",NICK MUSIC
+#EXTINF:-1 group-title="美國2",NICK MUSIC
 http://212.102.60.231/NICK_MUSIC/index.m3u8
-#EXTINF:-1 group-title="美國",MTV LIVE
+#EXTINF:-1 group-title="美國2",MTV LIVE
 http://212.102.60.231/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="美國",NBA TV
+#EXTINF:-1 group-title="美國2",NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="美國",MTV2
+#EXTINF:-1 group-title="美國2",MTV2
 http://212.102.60.231/MTV_2/index.m3u8
-#EXTINF:-1 group-title="美國",MTV CLASSIC
+#EXTINF:-1 group-title="美國2",MTV CLASSIC
 http://212.102.60.231/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="美國",HGTV
+#EXTINF:-1 group-title="美國2",HGTV
 http://212.102.60.231/HGTV/index.m3u8
-#EXTINF:-1 group-title="美國",INVESTIGATION DISCOVERY
+#EXTINF:-1 group-title="美國2",INVESTIGATION DISCOVERY
 http://212.102.60.231/INVESTIGATION_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="美國",LIFETIME
+#EXTINF:-1 group-title="美國2",LIFETIME
 http://212.102.60.231/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="美國",MGM+
+#EXTINF:-1 group-title="美國2",MGM+
 http://212.102.60.231/EPIX/index.m3u8
-#EXTINF:-1 group-title="美國",MGM+ Drive-In
+#EXTINF:-1 group-title="美國2",MGM+ Drive-In
 http://212.102.60.231/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 group-title="美國",MGM+ Hits
+#EXTINF:-1 group-title="美國2",MGM+ Hits
 http://212.102.60.231/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="美國",MGM+ Marquee
+#EXTINF:-1 group-title="美國2",MGM+ Marquee
 http://212.102.60.231/EPIX_HITS/index.m3u8
-#EXTINF:-1 group-title="美國",MOTOR TREND
+#EXTINF:-1 group-title="美國2",MOTOR TREND
 http://212.102.60.231/MOTOR_TREND/index.m3u8
-#EXTINF:-1 group-title="美國",MTV
+#EXTINF:-1 group-title="美國2",MTV
 http://212.102.60.231/MTV/index.m3u8
-#EXTINF:-1 group-title="美國",NEWS NATION
+#EXTINF:-1 group-title="美國2",NEWS NATION
 http://212.102.60.231/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="美國",NFL NETWORK
+#EXTINF:-1 group-title="美國2",NFL NETWORK
 http://212.102.60.231/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",OWN
+#EXTINF:-1 group-title="美國2",OWN
 http://212.102.60.231/OWN/index.m3u8
-#EXTINF:-1 group-title="美國",OXYGEN
+#EXTINF:-1 group-title="美國2",OXYGEN
 http://212.102.60.231/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="美國",PARAMOUNT NETWORK
+#EXTINF:-1 group-title="美國2",PARAMOUNT NETWORK
 http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",SHOWTIME
+#EXTINF:-1 group-title="美國2",SHOWTIME
 http://212.102.60.231/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="美國",SHOWTIME 2
+#EXTINF:-1 group-title="美國2",SHOWTIME 2
 http://212.102.60.231/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="美國",SHOWTIME EXTREME
+#EXTINF:-1 group-title="美國2",SHOWTIME EXTREME
 http://212.102.60.231/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="美國",SHOWTIME WOMEN
+#EXTINF:-1 group-title="美國2",SHOWTIME WOMEN
 ,http://212.102.60.231/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="美國",SHOWTIME NEXT
+#EXTINF:-1 group-title="美國2",SHOWTIME NEXT
 http://212.102.60.231/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ
+#EXTINF:-1 group-title="美國2",STARZ
 http://212.102.60.231/STARZ/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ COMEDY
+#EXTINF:-1 group-title="美國2",STARZ COMEDY
 http://212.102.60.231/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ EDGE
+#EXTINF:-1 group-title="美國2",STARZ EDGE
 http://212.102.60.231/STARZ_EDGE/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ ENCORE
+#EXTINF:-1 group-title="美國2",STARZ ENCORE
 http://212.102.60.231/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ ENCORE ACTION
+#EXTINF:-1 group-title="美國2",STARZ ENCORE ACTION
 http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ ENCORE CLASSIC
+#EXTINF:-1 group-title="美國2",STARZ ENCORE CLASSIC
 http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="美國",STARZ ENCORE WESTERNS
+#EXTINF:-1 group-title="美國2",STARZ ENCORE WESTERNS
 http://212.102.60.231/STARZ_ENCORE_WESTERNS/index.m3u8
-#EXTINF:-1 group-title="美國",SYFY
+#EXTINF:-1 group-title="美國2",SYFY
 http://212.102.60.231/SYFY/index.m3u8
-#EXTINF:-1 group-title="美國",THE WEATHER CHANNEL
+#EXTINF:-1 group-title="美國2",THE WEATHER CHANNEL
 http://212.102.60.231/THE_WEATHER_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="美國",TLC
+#EXTINF:-1 group-title="美國2",TLC
 http://212.102.60.231/TLC/index.m3u8
-#EXTINF:-1 group-title="美國",TNT
+#EXTINF:-1 group-title="美國2",TNT
 http://212.102.60.231/TNT/index.m3u8
-#EXTINF:-1 group-title="美國",TSN 1
+#EXTINF:-1 group-title="美國2",TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 group-title="美國",TSN 2
+#EXTINF:-1 group-title="美國2",TSN 2
 http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 group-title="美國",TSN 3
+#EXTINF:-1 group-title="美國2",TSN 3
 http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 group-title="美國",TSN 4
+#EXTINF:-1 group-title="美國2",TSN 4
 http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="美國",TSN 5
+#EXTINF:-1 group-title="美國2",TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 group-title="美國",TV ONE
+#EXTINF:-1 group-title="美國2",TV ONE
 http://212.102.60.231/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="美國",VH1
+#EXTINF:-1 group-title="美國2",VH1
 http://212.102.60.231/VH1/index.m3u8
-#EXTINF:-1 group-title="美國",WWE
+#EXTINF:-1 group-title="美國2",WWE
 http://212.102.60.231/WWE/index.m3u8
-#EXTINF:-1 group-title="美國",YES NETWORK
+#EXTINF:-1 group-title="美國2",YES NETWORK
 http://212.102.60.231/YES_NETWORK/index.m3u8
-#EXTINF:-1 group-title="美國",HBO
+#EXTINF:-1 group-title="美國2",HBO
 http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 group-title="美國",HBO 2
+#EXTINF:-1 group-title="美國2",HBO 2
 http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 group-title="美國",HBO FAMILY
+#EXTINF:-1 group-title="美國2",HBO FAMILY
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="美國",NBA TV
+#EXTINF:-1 group-title="美國2",NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="美國",Lifetime
+#EXTINF:-1 group-title="美國2",Lifetime
 http://212.102.60.231/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="美國",nick jr.
+#EXTINF:-1 group-title="美國2",nick jr.
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="美國",TNT
+#EXTINF:-1 group-title="美國2",TNT
 http://212.102.60.231/TNT/index.m3u8
 
 
@@ -2148,6 +2215,10 @@ http://fl2.moveonjoy.com/WGN/index.m3u8
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:-1 group-title="Bics MoveOnJoy US",YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+
+
+
 
 
 
@@ -2654,58 +2725,287 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/90059
 
 
 
-#EXTINF:-1 group-title="MUSIC",88 Stereo
+#EXTINF:-1 group-title="音樂頻道",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",BE@TTV
+#EXTINF:-1 group-title="音樂頻道",BE@TTV
 https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 group-title="MUSIC",Global TV
+#EXTINF:-1 group-title="音樂頻道",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",IQ Channel
+#EXTINF:-1 group-title="音樂頻道",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Kronehit
+#EXTINF:-1 group-title="音樂頻道",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Cantina TV
+#EXTINF:-1 group-title="音樂頻道",Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",CMC
+#EXTINF:-1 group-title="音樂頻道",CMC
 https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Farra Play
+#EXTINF:-1 group-title="音樂頻道",Farra Play
 http://159.203.148.226/live/farra.m3u8
 
 
 
+http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/6217/index.m3u
 
-http://iuhqittr.otttv.pw/iptv/TH7AMEND7RFRKH77776RQDDT/31560/index.m3u8
-
-#EXTINF:-1 group-title="MUSIC",MTV 80s
+#EXTINF:-1 group-title="音樂頻道",MTV 80s
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/31558/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV 90s
+#EXTINF:-1 group-title="音樂頻道",MTV 90s
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV 00s
+#EXTINF:-1 group-title="音樂頻道",MTV 00s
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/31559/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV Live
+#EXTINF:-1 group-title="音樂頻道",MTV Live
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/221/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV Classic
+#EXTINF:-1 group-title="音樂頻道",MTV Classic
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/142/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV Hits
+#EXTINF:-1 group-title="音樂頻道",MTV Hits
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/153/index.m3u8
-#EXTINF:-1 group-title="MUSIC",Club MTV
+#EXTINF:-1 group-title="音樂頻道",Club MTV
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/558/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV Music
+#EXTINF:-1 group-title="音樂頻道",MTV Music
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/19192/index.m3u8
-#EXTINF:-1 group-title="MUSIC",MTV India
+#EXTINF:-1 group-title="音樂頻道",MTV India
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/6582/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="NOW 70s" tvg-name="Now 70's" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/now-70s-uk.png" group-title="MUSIC",Now 70's
+#EXTINF:-1 tvg-id="NOW 70s" tvg-name="Now 70's" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/now-70s-uk.png" group-title="音樂頻道",Now 70's
 http://5startv.xyz:8080/Carolyns/Tampalady/116991
-#EXTINF:-1 tvg-id="NOW 80s" tvg-name="Now 80's" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/now-80s-uk.png" group-title="MUSIC",Now 80's
+#EXTINF:-1 tvg-id="NOW 80s" tvg-name="Now 80's" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/now-80s-uk.png" group-title="音樂頻道",Now 80's
 http://5startv.xyz:8080/Carolyns/Tampalady/116992
-#EXTINF:-1 tvg-id="NOW 90s" tvg-name="Now 90's" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/now-90s-uk.png" group-title="MUSIC",Now 90's
+#EXTINF:-1 tvg-id="NOW 90s" tvg-name="Now 90's" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/now-90s-uk.png" group-title="音樂頻道",Now 90's
 http://5startv.xyz:8080/Carolyns/Tampalady/116993
 
 
 
+#EXTINF:-1 group-title="音樂頻道",MTV Live HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/221/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV Live HD orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9009/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/142/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9258/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV 80s
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/724/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV 90s
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/1038/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV Hits
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/153/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV Hits orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9172/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV Biggest Pop HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15018/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MTV Block Party HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15019/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Club MTV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/558/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge Deluxe HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/236/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge Deluxe HD orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9012/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge Classic orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9259/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/122/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge TV orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9253/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge Hits
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/711/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Bridge Rock
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17043/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MCM Top Russia
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/836/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",1HD Music Television orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9001/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",C-Music HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2028/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Europa Plus TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/115/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Europa Plus TV orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9257/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",AIVA TV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2442/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",ТНТ Music orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9178/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Music Box Russia orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9168/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",RU TV orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9179/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Clubbing TV HD RU
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2395/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",М1 HD UA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6334/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",M1 HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15016/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",М2 HD UA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6335/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",M2 HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15017/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",EU Music HD UA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15276/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",EU MUSIC UA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15277/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",EU Music
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/925/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",4ever Music HD UA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15278/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",4ever Music
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/970/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Sky Select UK
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2474/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",AIVA TV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18033/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",POWER HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2297/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",UTV HD RO
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7036/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",UTV RO
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7017/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",UTV MD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2471/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Tezaur MD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2472/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",1 Music Channel RO
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6963/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Zona M MD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2470/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",NRG 91
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7223/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Vostok TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/1054/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Mezzo Live HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/208/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Mezzo Live HD orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9014/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Mezzo orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9170/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Mezzo
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/707/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Classical Harmony
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/1037/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Viva HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10063/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",4 Fun TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10069/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Deejay TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10070/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Music Top HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10072/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Biz music HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10074/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Trace Urban HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15107/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",RETRO TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14169/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Retro Dance 90s
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10064/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Krone hit HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10065/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Baraza Music HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10077/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Mix m tv hd
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10068/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Spirit Tv HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10073/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",UZ Klip New HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/13067/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MM Rock HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/13015/index.m3u8
+EXTINF:-1 group-title="音樂頻道",Eurodance 90
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14148/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Music Box Gold
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14149/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VB Dance Hits of 90s
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14154/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VB Russian Dance Hits of 90s
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14156/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",FreshTV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14146/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",HITV FHD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14165/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",WOW!TV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14168/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",KBC-Second HIT
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11082/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",KBC-НАШ ROCK
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11089/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Z! Musiс HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14138/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Z! Rock HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14139/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Yosso TV Music Hits
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14179/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",MM World Hits HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/13023/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Ritsa TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7224/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",SKY HIGH CONCERT HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14241/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",SKY HIGH DANCE UHD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14250/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",SKY HIGH CLASSIC HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15104/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",iConcerts HD orig
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9056/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Hot Country HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15001/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Pop Adult HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15002/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Hit List HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15003/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Qello TV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15004/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Hip Hop/R&B HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15005/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Soul Storm STORM HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15006/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Greatest Hits HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15007/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Exitos Del Momento HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15008/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Classic Rock HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15012/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Flashback 70S HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15013/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Alternative HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15014/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Remember The 80S HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15015/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Stingray Karaoke HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15011/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",V2BEAT HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15020/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",C4K360
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15233/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VF Music
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15516/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VF Rock
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/15517/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VF Metal
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17033/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VF Rap
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17034/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VB Best Live Performances
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16003/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",InRating TV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16020/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",LoveIsRadio.by
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16015/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Muzzik Zz 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16044/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VB Romantic and Ballads
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16014/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",KLI Music HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16079/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",KLI Hit 90
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16081/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",Song TV HD AM
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17032/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",M6Music HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17045/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",HIT Music
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17047/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",CONTACT music hd
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17051/index.m3u8
+#EXTINF:-1 group-title="音樂頻道",VB Modern Talking and Co
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/17052/index.m3u8
 
 
 
@@ -2714,6 +3014,9 @@ http://5startv.xyz:8080/Carolyns/Tampalady/116993
 
 
 
+
+#EXTINF:-1 group-title="NBA",NBA TV HD US
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/7226/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA TV USA" tvg-name="NBA TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="NBA",NBA TV
 http://5startv.xyz:8080/Carolyns/Tampalady/9547
@@ -2750,6 +3053,10 @@ http://5startv.xyz:8080/Carolyns/Tampalady/110627
 http://5startv.xyz:8080/Carolyns/Tampalady/110628
 #EXTINF:-1 tvg-id="" tvg-name="NBA 15:" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-league-pass-us.png" group-title="NBA",NBA 15
 http://5startv.xyz:8080/Carolyns/Tampalady/110629
+
+
+
+
 
 
 
@@ -3149,169 +3456,6 @@ https://video.mytvsuper.xyz/live/cf84a5e7f4028a8e7f2931f6190305d5c3b76f0aa0d0d86
 
 
 
-#EXTINF:-1 group-title="食譜頻道",米飯8種神仙做法
-https://vd2.bdstatic.com/mda-qcg131ixp7n2b6g4/720p_frame30/h264_cae_acd/1710637153135042962/mda-qcg131ixp7n2b6g4.mp4
-#EXTINF:-1 group-title="食譜頻道",米飯8道花式做法
-https://vd3.bdstatic.com/mda-qcd0v5uhzddmt7tv/720p_frame30/h264_cae_acd/1710377548774148185/mda-qcd0v5uhzddmt7tv.mp4
-#EXTINF:-1 group-title="食譜頻道",早餐12種做法
-https://vd2.bdstatic.com/mda-qhmchriravpm16hr/720p_frame30/h264_cae_acd/1724317969961142800/mda-qhmchriravpm16hr.mp4
-#EXTINF:-1 group-title="食譜頻道",早餐5種做法
-https://vd3.bdstatic.com/mda-qir7wx8nj0ut8uup/720p/mv_cae264_backtrack_720p_normal/1729149657292208298/mda-qir7wx8nj0ut8uup.mp4
-#EXTINF:-1 group-title="食譜頻道",早餐10種做法
-https://vd4.bdstatic.com/mda-qjh7csqx9bwei7py/sc/cae_h264/1729265801939805597/mda-qjh7csqx9bwei7py.mp4
-#EXTINF:-1 group-title="食譜頻道",征服胃口的10道小炒菜
-https://vd3.bdstatic.com/mda-qk5dp2q1g86r6xa6/720p/mv_cae264_backtrack_720p_normal/1730886307368420865/mda-qk5dp2q1g86r6xa6.mp4
-#EXTINF:-1 group-title="食譜頻道",征服胃口的8道小炒菜
-https://vd2.bdstatic.com/mda-qk47tz6kt8902q3j/720p/mv_cae264_backtrack_720p_normal/1730882863840036809/mda-qk47tz6kt8902q3j.mp4
-#EXTINF:-1 group-title="食譜頻道",特色家常10道菜
-https://vd4.bdstatic.com/mda-qjde2q42rue8u30x/720p/mv_cae264_backtrack_720p_normal/1728901200489793099/mda-qjde2q42rue8u30x.mp4
-#EXTINF:-1 group-title="食譜頻道",經典家常10道菜
-https://vd2.bdstatic.com/mda-qjf76vd3tmt6itdr/720p/mv_cae264_backtrack_720p_normal/1729116886152120996/mda-qjf76vd3tmt6itdr.mp4
-#EXTINF:-1 group-title="食譜頻道",招待貴客有面子10道菜
-https://vd2.bdstatic.com/mda-qjamk3ww02swvtvg/540p/mv_cae264_backtrack_540p_normal/1728771745779332069/mda-qjamk3ww02swvtvg.mp4
-#EXTINF:-1 group-title="食譜頻道",10道特色美食
-https://vd4.bdstatic.com/mda-qmfe62jv0kwan2dx/720p/mv_cae264_backtrack_720p_normal/1734344111633378494/mda-qmfe62jv0kwan2dx.mp4
-#EXTINF:-1 group-title="食譜頻道",10道花樣美食
-https://vd2.bdstatic.com/mda-qk8pmh5hqykz4iz5/720p/mv_cae264_backtrack_720p_normal/1731232285199870579/mda-qk8pmh5hqykz4iz5.mp4
-#EXTINF:-1 group-title="食譜頻道",10種魚肉做法
-https://vd2.bdstatic.com/mda-qjn7bbt6815rt1s3/720p/mv_cae264_backtrack_720p_normal/1729660528703116890/mda-qjn7bbt6815rt1s3.mp4
-#EXTINF:-1 group-title="食譜頻道",10種排骨做法
-https://vd4.bdstatic.com/mda-pmfn65eymaf93yr8/720p_frame30/h264_cae_acd/1702742800698571456/mda-pmfn65eymaf93yr8.mp4
-#EXTINF:-1 group-title="食譜頻道",15道經典素菜1
-https://vd2.bdstatic.com/mda-qmmf7ahg73eu3v8y/720p/mv_cae264_backtrack_720p_normal/1734905402677117865/mda-qmmf7ahg73eu3v8y.mp4
-#EXTINF:-1 group-title="食譜頻道",15道經典素菜2
-https://vd2.bdstatic.com/mda-qdjg4ky2avn57njf/720p_frame30/h264_cae_acd/1713614482052348110/mda-qdjg4ky2avn57njf.mp4
-#EXTINF:-1 group-title="食譜頻道",東坡肘子
-https://vd3.bdstatic.com/mda-jj4j1ftrb23g9bm0/sc/mda-jj4j1ftrb23g9bm0.mp4
-#EXTINF:-1 group-title="食譜頻道",燉紅燒肉
-https://vd3.bdstatic.com/mda-jmij2puznds3zjwj/sc/mda-jmij2puznds3zjwj.mp4
-#EXTINF:-1 group-title="食譜頻道",炒豬蹄
-https://vd3.bdstatic.com/mda-jjhrpfzyggfw57uc/sc/mda-jjhrpfzyggfw57uc.mp4
-#EXTINF:-1 group-title="食譜頻道",花開富貴肉
-https://vd3.bdstatic.com/mda-ja2y1x2u279g55u9/sc/mda-ja2y1x2u279g55u9.mp4
-#EXTINF:-1 group-title="食譜頻道",醬骨頭
-https://vd3.bdstatic.com/mda-jese0pwy3mu3xbhz/sc/mda-jese0pwy3mu3xbhz.mp4
-#EXTINF:-1 group-title="食譜頻道",五花肉燒大骨
-https://vd3.bdstatic.com/mda-jf5i4t7mpjrcuryt/sc/mda-jf5i4t7mpjrcuryt.mp4
-#EXTINF:-1 group-title="食譜頻道",小炒肉
-https://vd3.bdstatic.com/mda-jmixjt8fwxqrx6u1/v1-cae/sc/mda-jmixjt8fwxqrx6u1.mp4
-#EXTINF:-1 group-title="食譜頻道",回鍋肉
-https://vd3.bdstatic.com/mda-jc2jm7fszzb4upua/sc/mda-jc2jm7fszzb4upua.mp4
-#EXTINF:-1 group-title="食譜頻道",啫啫排骨煲
-https://vd3.bdstatic.com/mda-jjvqdp5hjm0q1dtm/sc/mda-jjvqdp5hjm0q1dtm.mp4
-#EXTINF:-1 group-title="食譜頻道",粉蒸排骨
-https://vd3.bdstatic.com/mda-jkamnfkg36i24817/sc/mda-jkamnfkg36i24817.mp4
-#EXTINF:-1 group-title="食譜頻道",燉牛腩
-https://vd3.bdstatic.com/mda-jktu3wf8fbu8ju9t/sc/mda-jktu3wf8fbu8ju9t.mp4
-#EXTINF:-1 group-title="食譜頻道",臺式紅燒牛腩
-https://vd3.bdstatic.com/mda-jcr0fg77zxdzwrmt/sc/mda-jcr0fg77zxdzwrmt.mp4
-#EXTINF:-1 group-title="食譜頻道",小炒牛肉
-https://vd3.bdstatic.com/mda-je6wgqnr3awjn4nm/sc/mda-je6wgqnr3awjn4nm.mp4
-#EXTINF:-1 group-title="食譜頻道",水煮牛肉
-https://vd3.bdstatic.com/mda-jgbxc66hzx0h03mi/sc/mda-jgbxc66hzx0h03mi.mp4
-#EXTINF:-1 group-title="食譜頻道",小炒香菜牛肉
-https://vd3.bdstatic.com/mda-jdfy12szm0wczqet/sc/mda-jdfy12szm0wczqet.mp4
-#EXTINF:-1 group-title="食譜頻道",蜜汁蒜香煎雞胸
-https://vd3.bdstatic.com/mda-jeneb5mbmk26atj9/sc/mda-jeneb5mbmk26atj9.mp4
-#EXTINF:-1 group-title="食譜頻道",照燒雞腿
-https://vd4.bdstatic.com/mda-qj7cgwta5yktv3yc/sc/cae_h264/1728380355391475922/mda-qj7cgwta5yktv3yc.mp4
-#EXTINF:-1 group-title="食譜頻道",乾鍋雞翅
-https://vd3.bdstatic.com/mda-mbqmby5fizzk0nfq/cae_h264_nowatermark/1614238365/mda-mbqmby5fizzk0nfq.mp4
-#EXTINF:-1 group-title="食譜頻道",辣子雞丁
-https://vd3.bdstatic.com/mda-jigxget85fft8hn9/sc/mda-jigxget85fft8hn9.mp4
-#EXTINF:-1 group-title="食譜頻道",辣子雞
-https://vd3.bdstatic.com/mda-jjcfgxhu1y0nim45/sc/mda-jjcfgxhu1y0nim45.mp4
-#EXTINF:-1 group-title="食譜頻道",口水雞
-https://vd3.bdstatic.com/mda-jk2rmqb9d9ygawaw/sc/mda-jk2rmqb9d9ygawaw.mp4
-#EXTINF:-1 group-title="食譜頻道",蒸雞
-https://vd3.bdstatic.com/mda-jb0iknwis2xnsiq7/sc/mda-jb0iknwis2xnsiq7.mp4
-#EXTINF:-1 group-title="食譜頻道",生爆甲魚
-https://vd3.bdstatic.com/mda-ka7n7gm2wjgvsx88/sc/mda-ka7n7gm2wjgvsx88.mp4
-#EXTINF:-1 group-title="食譜頻道",乾鍋帶魚
-https://vd3.bdstatic.com/mda-jccfjr2wk92ev39d/sc/mda-jccfjr2wk92ev39d.mp4
-#EXTINF:-1 group-title="食譜頻道",蔥燒帶魚
-https://vd3.bdstatic.com/mda-ka8pbfq07hy0th3w/sc/mda-ka8pbfq07hy0th3w.mp4
-#EXTINF:-1 group-title="食譜頻道",清蒸鱖魚
-https://vd3.bdstatic.com/mda-jgdja3fxcyb5u5ew/sc/mda-jgdja3fxcyb5u5ew.mp4
-#EXTINF:-1 group-title="食譜頻道",清蒸魚
-https://vd3.bdstatic.com/mda-jjwqmp78hhuiadcg/sc/mda-jjwqmp78hhuiadcg.mp4
-#EXTINF:-1 group-title="食譜頻道",花開富貴魚
-https://vd3.bdstatic.com/mda-jagts67hpws0np8v/sc/mda-jagts67hpws0np8v.mp4
-#EXTINF:-1 group-title="食譜頻道",沸騰魚
-https://vd3.bdstatic.com/mda-jftf7v5aitvrarai/sc/mda-jftf7v5aitvrarai.mp4
-#EXTINF:-1 group-title="食譜頻道",香煎草魚
-https://vd3.bdstatic.com/mda-jjmq4gwety1b1vwf/sc/mda-jjmq4gwety1b1vwf.mp4
-#EXTINF:-1 group-title="食譜頻道",蒜香魚片
-https://vd3.bdstatic.com/mda-qf09ssv85hr907ss/720p/h264/1717224900256381139/mda-qf09ssv85hr907ss.mp4
-#EXTINF:-1 group-title="食譜頻道",砂鍋鱸魚
-https://vd2.bdstatic.com/mda-qj109imjmf876e45/sc/cae_h264/1727827971326185108/mda-qj109imjmf876e45.mp4
-#EXTINF:-1 group-title="食譜頻道",口水魚
-https://vd3.bdstatic.com/mda-jfsed4bwzhzs5mki/sc/mda-jfsed4bwzhzs5mki.mp4
-#EXTINF:-1 group-title="食譜頻道",酸菜魚
-https://vd3.bdstatic.com/mda-jjvrd7pugaugdeyb/sc/mda-jjvrd7pugaugdeyb.mp4
-#EXTINF:-1 group-title="食譜頻道",魚頭泡餅
-https://vd3.bdstatic.com/mda-jh6nsgq82u0v7q95/sc/mda-jh6nsgq82u0v7q95.mp4
-#EXTINF:-1 group-title="食譜頻道",白灼檸檬蝦
-https://vd3.bdstatic.com/mda-jcef6n7225n0wvcw/sc/mda-jcef6n7225n0wvcw.mp4
-#EXTINF:-1 group-title="食譜頻道",蘑菇酒燒青口貝
-https://vd3.bdstatic.com/mda-jcfxfwwnmwyrknwk/sc/mda-jcfxfwwnmwyrknwk.mp4
-#EXTINF:-1 group-title="食譜頻道",排檔辣炒蜆子皇
-https://vd3.bdstatic.com/mda-jcbqrt9frcqa3sgi/sc/mda-jcbqrt9frcqa3sgi.mp4
-#EXTINF:-1 group-title="食譜頻道",豆豉炒花甲
-https://vd3.bdstatic.com/mda-jk0r4c98m03mp9kw/sc/mda-jk0r4c98m03mp9kw.mp4
-#EXTINF:-1 group-title="食譜頻道",撈汁花甲
-https://vd3.bdstatic.com/mda-jgnj85jx9gcnv5ca/sc/mda-jgnj85jx9gcnv5ca.mp4
-#EXTINF:-1 group-title="食譜頻道",小魚吃蝦米
-https://vd3.bdstatic.com/mda-jm2mi0c9rjqmq0rq/sc/mda-jm2mi0c9rjqmq0rq.mp4
-#EXTINF:-1 group-title="食譜頻道",豬肉雞蛋燜腐竹
-https://vd3.bdstatic.com/mda-jjhgubh597xbndc0/sc/mda-jjhgubh597xbndc0.mp4
-#EXTINF:-1 group-title="食譜頻道",螞蟻上樹
-https://vd3.bdstatic.com/mda-jdnm6vyr8mr52e8d/sc/mda-jdnm6vyr8mr52e8d.mp4
-#EXTINF:-1 group-title="食譜頻道",茶香蝦仁滑蛋
-https://vd3.bdstatic.com/mda-jepdfbxf1zi2cuyj/sc/mda-jepdfbxf1zi2cuyj.mp4
-#EXTINF:-1 group-title="食譜頻道",乾煸四季豆
-https://vd3.bdstatic.com/mda-jhm33jyyaytkvbrf/sc/mda-jhm33jyyaytkvbrf.mp4
-#EXTINF:-1 group-title="食譜頻道",香辣藕片
-https://vd3.bdstatic.com/mda-jhnwa6i0dqn086we/sc/mda-jhnwa6i0dqn086we.mp4
-#EXTINF:-1 group-title="食譜頻道",蒜蓉金針菇
-https://vd3.bdstatic.com/mda-jhpviscevfkypzus/sc/mda-jhpviscevfkypzus.mp4
-#EXTINF:-1 group-title="食譜頻道",蛋黃焗南瓜
-https://vd3.bdstatic.com/mda-jhru6rb3dqk6adtb/sc/mda-jhru6rb3dqk6adtb.mp4
-#EXTINF:-1 group-title="食譜頻道",口水茄子
-https://vd3.bdstatic.com/mda-jg2m78h2yz7pgyc4/sc/mda-jg2m78h2yz7pgyc4.mp4
-#EXTINF:-1 group-title="食譜頻道",蒜蓉茄子
-https://vd3.bdstatic.com/mda-jhuzpquuxg885aqi/sc/mda-jhuzpquuxg885aqi.mp4
-#EXTINF:-1 group-title="食譜頻道",風味涼拌土豆片
-https://vd3.bdstatic.com/mda-jdtm0ws1ckpykki8/sc/mda-jdtm0ws1ckpykki8.mp4
-#EXTINF:-1 group-title="食譜頻道",家常豆腐
-https://vd3.bdstatic.com/mda-jdvyti1539x3cidp/sc/mda-jdvyti1539x3cidp.mp4
-#EXTINF:-1 group-title="食譜頻道",鍋塌香椿豆腐
-https://vd3.bdstatic.com/mda-jcpustuq9au9t7yu/sc/mda-jcpustuq9au9t7yu.mp4
-#EXTINF:-1 group-title="食譜頻道",烤豆腐
-https://vd3.bdstatic.com/mda-jk6vj6ru04mztq8f/sc/mda-jk6vj6ru04mztq8f.mp4
-#EXTINF:-1 group-title="食譜頻道",農家蒸豆腐
-https://vd3.bdstatic.com/mda-jb8vimj8dqcv0ddk/sc/mda-jb8vimj8dqcv0ddk.mp4
-#EXTINF:-1 group-title="食譜頻道",秘制豆腐
-,https://vd3.bdstatic.com/mda-jk3ru4bdd7m5yhrp/sc/mda-jk3ru4bdd7m5yhrp.mp4
-#EXTINF:-1 group-title="食譜頻道",豬血炒韭菜
-https://vd3.bdstatic.com/mda-kk4q9jhyv6myujcb/v1-cae/sc/mda-kk4q9jhyv6myujcb.mp4
-#EXTINF:-1 group-title="食譜頻道",酒鬼花生
-https://vd3.bdstatic.com/mda-jm7t0i4rvgfg0ia4/sc/mda-jm7t0i4rvgfg0ia4.mp4
-#EXTINF:-1 group-title="食譜頻道",宮保松花蛋
-https://vd3.bdstatic.com/mda-jdkk212bkwzjg044/sc/mda-jdkk212bkwzjg044.mp4
-#EXTINF:-1 group-title="食譜頻道",乾鍋杏鮑菇
-https://vd3.bdstatic.com/mda-ka3bgp3y9pnaxfdt/sc/mda-ka3bgp3y9pnaxfdt.mp4
-#EXTINF:-1 group-title="食譜頻道",平菇炒雞蛋
-https://vd3.bdstatic.com/mda-jmnbdrqmvyjmeyqs/v1-cae/sc/mda-jmnbdrqmvyjmeyqs.mp4
-#EXTINF:-1 group-title="食譜頻道",濕炒牛河
-https://vd3.bdstatic.com/mda-jgekbcvjk7mwtkae/sc/mda-jgekbcvjk7mwtkae.mp4
-#EXTINF:-1 group-title="食譜頻道",金針菇豆腐蛋花湯
-https://vd3.bdstatic.com/mda-jg1ccbqk185isyua/sc/mda-jg1ccbqk185isyua.mp4
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="香港頻道「免梯」", 通知:如果卡顿请挂海外任意梯子使用
@@ -3641,6 +3785,10 @@ https://video.mytvsuper.xyz/live/09a960fa93b20826396e7c06873763648512ef03937858b
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="香港「限安卓1」", 通知:请挂海外任意梯子使用
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港「限安卓1」", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3937,6 +4085,17 @@ https://video.mytvsuper.xyz/live/6d1cd1b43a7db13a79fc0607b3e471f7bc073da062369ef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 https://video.mytvsuper.xyz/live/cf84a5e7f4028a8e7f2931f6190305d5c3b76f0aa0d0d86bab9cc50f349388f3.m3u8?token=395626593195248
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="香港「限安卓2」", 通知:请挂海外任意梯子使用
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港「限安卓2」", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4240,180 +4399,180 @@ https://video.mytvsuper.xyz/live/b5f8b41cb96ee5fc2d397c6647cade917054168ed3817dd
 
 
 
-#EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="台灣頻道3"", 通知:请挂台湾节点使用
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台灣頻道3"", 民視
+#EXTINF:-1 tvg-id="通知" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="台灣頻道3", 通知:请挂台湾节点使用
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台灣頻道3", 民視
 https://video.mytvsuper.xyz/live/0ca64805528cabd56ace317b9a7ebe8e35d6f640b2f97dd648e67dd44298c09d.php?token=395626593195248
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="台灣頻道3"", 民視第一台
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="台灣頻道3", 民視第一台
 https://video.mytvsuper.xyz/live/a9dfa07cfd53fb6941de3d6c75f5e53be22b0d6d84e4d389e7df0b46fcfad62e.php?token=395626593195248
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台灣頻道3"", 民視新聞台
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台灣頻道3", 民視新聞台
 https://video.mytvsuper.xyz/live/e54059c5663ec43cccc89faa145b84201aba13b520f60ca962d950defef08a48.php?token=395626593195248
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="台灣頻道3"", 民視台灣台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="台灣頻道3", 民視台灣台
 https://video.mytvsuper.xyz/live/7d14ac25a2c1c1e87a99a2a91f18fb4385663ba956fff7c37242c3d8886bcc87.php?token=395626593195248
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="台灣頻道3"", 民視影劇台
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="台灣頻道3", 民視影劇台
 https://video.mytvsuper.xyz/live/d7b7ec9d21df22f2d99213ca954aff21807b91108c0112512e650fd68f2818d6.php?token=395626593195248
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="台灣頻道3"", 民視旅遊台
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="台灣頻道3", 民視旅遊台
 https://video.mytvsuper.xyz/live/365c37b273eb38f95344953c7b8e243a261da5914cfe5cc38f3ccc2da98e1334.php?token=395626593195248
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="台灣頻道3"", 民視綜藝台
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="台灣頻道3", 民視綜藝台
 https://video.mytvsuper.xyz/live/7deabf8a9a9abb83bc13e222f21fe79266703f1de88eea56d644051192314288.php?token=395626593195248
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="台灣頻道3"", 中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="台灣頻道3", 中視
 https://video.mytvsuper.xyz/live/d845a95082987fad41f89e56a2795008d5f5b60dbb5068f6f468103c68e34abc.php?token=395626593195248
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="台灣頻道3"", 中視新聞台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="台灣頻道3", 中視新聞台
 https://video.mytvsuper.xyz/live/77e6fb018e2ba480868cc24a74b1da9a92de0c47b7a94cc61f0dce4590723029.php?token=395626593195248
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="台灣頻道3"", 中視經典台
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="台灣頻道3", 中視經典台
 https://video.mytvsuper.xyz/live/296832771e10a257f0c8e7533cbe93b2caf30d2d6b686fc315fb01b0d3720d0f.php?token=395626593195248
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="台灣頻道3"", 中視菁采台
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="台灣頻道3", 中視菁采台
 https://video.mytvsuper.xyz/live/fc700a509347388ab944866895660a663d4c4d16d1aaad53fde54b30ad060ec1.php?token=395626593195248
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台灣頻道3"", 中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台灣頻道3", 中天新聞台
 https://video.mytvsuper.xyz/live/ede0c5fece8b58798df44417adfb3df984f518ef4590c7f447c7aeb22e97c00f.php?token=395626593195248
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="台灣頻道3"", 中天亞洲台
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="台灣頻道3", 中天亞洲台
 https://video.mytvsuper.xyz/live/7c2844fec25c993c4283fe4b1802b473ddeb07ac34e0e1875f8b6c1b89cb1d48.php?token=395626593195248
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣頻道3"", 華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="台灣頻道3", 華視
 https://video.mytvsuper.xyz/live/c0658d4897f5593eed4e0c366ae53270ee2676f4e2bb3a61b51bd69c40bdf51f.php?token=395626593195248
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="台灣頻道3"", 華視新聞
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="台灣頻道3", 華視新聞
 https://video.mytvsuper.xyz/live/424933ee399c714fe755453a51b5f95014ac637b8c070d15111a2e07900ca093.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="台灣頻道3"", 靖天綜合台
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="台灣頻道3", 靖天綜合台
 https://video.mytvsuper.xyz/live/89a3d77de0ccf38ef8d3fa0caad799abc98ccd9cec16472873dbea8e98aaf669.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="台灣頻道3"", 靖天國際台
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="台灣頻道3", 靖天國際台
 https://video.mytvsuper.xyz/live/5b87d7ab5a73c36fedf339cc9be9f894e706fa180db4235ba070e71ec5a2968c.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="台灣頻道3"", 靖天戲劇台
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="台灣頻道3", 靖天戲劇台
 https://video.mytvsuper.xyz/live/f96e044a6d53fa6f8d33ac7d6807910acc8141c6dde67d802b8af963804a8efe.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="台灣頻道3"", 靖天日本台
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="台灣頻道3", 靖天日本台
 https://video.mytvsuper.xyz/live/10d49d90e902bdc5a72a889b0821765150edf9af29dde40d3149ad70728764a7.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="台灣頻道3"", 靖天映畫台
+#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="台灣頻道3", 靖天映畫台
 https://video.mytvsuper.xyz/live/2b5dd36abdc8760ea3a7ce6113b2fcf41e4d6663d20535dea43ea18939bd7aa7.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="台灣頻道3"", 靖天卡通台
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="台灣頻道3", 靖天卡通台
 https://video.mytvsuper.xyz/live/43a4a712a7f01cfc153f3ee8c16ed44b709e7b2e4178aa08e509372cb0c66cc0.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="台灣頻道3"", 靖天育樂台
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="台灣頻道3", 靖天育樂台
 https://video.mytvsuper.xyz/live/a00dcdde6cc90806f4f3076c7cc2aae7bb59e346405bff024e2e0c9eacda914b.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="台灣頻道3"", 靖天資訊台
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="台灣頻道3", 靖天資訊台
 https://video.mytvsuper.xyz/live/b9cae14222edadeb47354349f01b836a8bf11b97ba3abadb7fb4f46b2e1c07b9.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="台灣頻道3"", 靖天電影台
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="台灣頻道3", 靖天電影台
 https://video.mytvsuper.xyz/live/010e315255308e1fb706059d30498c0f7b91e935b0bbaa2c984eb95f98e96f43.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="台灣頻道3"", 靖天歡樂台
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="台灣頻道3", 靖天歡樂台
 https://video.mytvsuper.xyz/live/cb09d054f3bcc1bae0f6db3b160bd944ef137b81f2127942446edf4da4583e21.php?token=395626593195248
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="台灣頻道3"", 龍華偶像台
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="台灣頻道3", 龍華偶像台
 https://video.mytvsuper.xyz/live/81d1685b48f8eab63a782de57046bec6dcfbc258216a994544e245cf25c667a4.php?token=395626593195248
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="台灣頻道3"", 龍華卡通台
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="台灣頻道3", 龍華卡通台
 https://video.mytvsuper.xyz/live/58cedd10802222eed17a74f677a27287b5b7487b9419488b34dc391efef9ea4c.php?token=395626593195248
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="台灣頻道3"", 龍華戲劇台
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="台灣頻道3", 龍華戲劇台
 https://video.mytvsuper.xyz/live/e400c500130de580a9a4e72e9ce182a3aab22ec619ea214ef42626b5262f8cb8.php?token=395626593195248
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="台灣頻道3"", 龍華日韓台
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="台灣頻道3", 龍華日韓台
 https://video.mytvsuper.xyz/live/fd264a1a9bcca43533b1bc9e2f36d47f644dd674888ec088cfc48f36283cb392.php?token=395626593195248
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="台灣頻道3"", 龍華經典台
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="台灣頻道3", 龍華經典台
 https://video.mytvsuper.xyz/live/6fc507aa193ae60838d600abbb3d396daa52d1e635a3a53b8681b8a30201d9cd.php?token=395626593195248
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="台灣頻道3"", 龍華電影台
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="台灣頻道3", 龍華電影台
 https://video.mytvsuper.xyz/live/34650538636defcce29cb1d1582b7c0f60b94d62872f1c1ca668fbda7419f76f.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="台灣頻道3"", 靖洋戲劇台
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="台灣頻道3", 靖洋戲劇台
 https://video.mytvsuper.xyz/live/a040e6556031e909007442fbf83ea472d098c22907bf0f0b8fa2e07f3ce92e2a.php?token=395626593195248
-#EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="台灣頻道3"", 靖洋卡通 Nice Bingo
+#EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="台灣頻道3", 靖洋卡通 Nice Bingo
 https://video.mytvsuper.xyz/live/6e1f9fcb22046033aaf87dc1a9f54022e955a96e842e8f7d8117e0132f8b243a.php?token=395626593195248
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="台灣頻道3"", 寰宇新聞台
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="台灣頻道3", 寰宇新聞台
 https://video.mytvsuper.xyz/live/d247a6982be21f66246db8b40565043cdf40b8e6626810a61bd54b7fbe7e2213.php?token=395626593195248
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="台灣頻道3"", 寰宇新聞台灣台
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="台灣頻道3", 寰宇新聞台灣台
 https://video.mytvsuper.xyz/live/56dcfb0ccff0354324ed23aed2fa08344e37666d1e8a8ef870bad165d0d440e1.php?token=395626593195248
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="台灣頻道3"", 寰宇財經台
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="台灣頻道3", 寰宇財經台
 https://video.mytvsuper.xyz/live/026c11ad5ae6e68e6a01d6a864524be2bf1634f06d9482024ad1f21b51b5889a.php?token=395626593195248
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣頻道3"", TVBS
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台灣頻道3", TVBS
 https://video.mytvsuper.xyz/live/af626737cc042f23556fc37cb6101929c93b86896a2116ed7ff5abf5ede5ad38.php?token=395626593195248
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣頻道3"", TVBS 新聞台
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台灣頻道3", TVBS 新聞台
 https://video.mytvsuper.xyz/live/25d12cc87caa95922a33e669f0ed18c38fc2262f54adf0ccaabeb22599d82723.php?token=395626593195248
-#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="台灣頻道3"", TVBS 歡樂台
+#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="台灣頻道3", TVBS 歡樂台
 https://video.mytvsuper.xyz/live/ea524a6b689307d63b18c166f107a9ab65a252ce5c3a3a614e246a1920040b3f.php?token=395626593195248
-#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="台灣頻道3"", TVBS 精采台
+#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="台灣頻道3", TVBS 精采台
 https://video.mytvsuper.xyz/live/77337fa64028bdbfff5777c936f5cf03936a056b485e203b36f91b4c0efe8f3d.php?token=395626593195248
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="台灣頻道3"", 八大精彩台
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="台灣頻道3", 八大精彩台
 https://video.mytvsuper.xyz/live/1521942008bd20d41abec776a2e0f042b4adaf859ea0620673f50665ca514c8a.php?token=395626593195248
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="台灣頻道3"", 八大綜藝台
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="台灣頻道3", 八大綜藝台
 https://video.mytvsuper.xyz/live/7a7a6b58b0072cb42b2371685c3ce7e3c5673d4052066ce0ab83641baf0ddea4.php?token=395626593195248
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣頻道3"", 台視
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="台灣頻道3", 台視
 https://video.mytvsuper.xyz/live/4f48f678376de80a768e3422c3ce720c7003a5eb70b271880f6b07404eaf2d43.php?token=395626593195248
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="台灣頻道3"", 台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="台灣頻道3", 台視新聞台
 https://video.mytvsuper.xyz/live/44cf4ec8cddf846f214553ce65ee4bcb90c1989327ef765e9fdcdae09ebd0b10.php?token=395626593195248
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="台灣頻道3"", 台視財經台
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="台灣頻道3", 台視財經台
 https://video.mytvsuper.xyz/live/6ebe296b26cd7efd157524cb218eb273fc42fa41596deec8b194b3646b0fb780.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="台灣頻道3"", 博斯運動一台
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="台灣頻道3", 博斯運動一台
 https://video.mytvsuper.xyz/live/30179d8b53b26beb41debf0424be25f5d5b4c35adeb39d5fc258acb232c95374.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="台灣頻道3"", 博斯運動二台
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="台灣頻道3", 博斯運動二台
 https://video.mytvsuper.xyz/live/1d35e12a0a4f82a0239208df84e6aaae8b13978eb75665130b65251d70fcf8d8.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="台灣頻道3"", 博斯無限台
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="台灣頻道3", 博斯無限台
 https://video.mytvsuper.xyz/live/5d0f0d9aeadefdee2d5c2ad16295b112031baed6b3b1909d9aa5a77264fcab62.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="台灣頻道3"", 博斯無限二台
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="台灣頻道3", 博斯無限二台
 https://video.mytvsuper.xyz/live/4981c2872fe72641f06106e9eb4436bd5fd4bd836c6dbd6efc90df3252cee67a.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="台灣頻道3"", 博斯網球台
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="台灣頻道3", 博斯網球台
 https://video.mytvsuper.xyz/live/b88cc60cbe5ecf3de9ac580c62112d7d71cbb1d9e9fb101ec9080cd9fd86fd5e.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="台灣頻道3"", 博斯高球台
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="台灣頻道3", 博斯高球台
 https://video.mytvsuper.xyz/live/0ac3b0c6640e5e25c4a3c1705eddb3f5d5b8b4ac90d5116ce133df51982c577f.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="台灣頻道3"", 博斯高球二台
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="台灣頻道3", 博斯高球二台
 https://video.mytvsuper.xyz/live/bc984852cd0045550dbed394df0f0b08edf59b2efa127b91a98fa035ebcbd898.php?token=395626593195248
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="台灣頻道3"", 博斯魅力台
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="台灣頻道3", 博斯魅力台
 https://video.mytvsuper.xyz/live/469e4ef8743dc5e6897c6968103cfc10a1dc00df78a91959043c489e30b5dff2.php?token=395626593195248
-#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="台灣頻道3"", ELTA 娛樂台
+#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="台灣頻道3", ELTA 娛樂台
 https://video.mytvsuper.xyz/live/d6e40f568359dcd4e600dcf5ca65b832551eacb96f63d71054635399cd1b1578.php?token=395626593195248
-#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="台灣頻道3"", ELTV 生活英語
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="台灣頻道3", ELTV 生活英語
 https://video.mytvsuper.xyz/live/b691474d77a0f94308802e34383450c9d57a3904cc3d2cef4df6661378ebd7de.php?token=395626593195248
-#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="台灣頻道3"", 東森新聞
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="台灣頻道3", 東森新聞
 https://video.mytvsuper.xyz/live/923ce9a676f7b9cc1247ff60c1fce451ce8f4958653305f848fffbd15360e416.php?token=395626593195248
-#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="台灣頻道3"", 東森財經新聞
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="台灣頻道3", 東森財經新聞
 https://video.mytvsuper.xyz/live/91c89a4dfc3db45174273db8a6af11f6266d8acffd8b469e50b21917fa590ec8.php?token=395626593195248
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="台灣頻道3"", 非凡新聞台
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="台灣頻道3", 非凡新聞台
 https://video.mytvsuper.xyz/live/a4def55baefcff644cdefac44b71b2376117be2d23f4e5506592f2685d886373.php?token=395626593195248
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="台灣頻道3"", 非凡商業台
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="台灣頻道3", 非凡商業台
 https://video.mytvsuper.xyz/live/661b77a4c3f384bfc3b42a0d83fa8419228d7eb80242b774ee6a979ebb561e95.php?token=395626593195248
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="台灣頻道3"", 鏡電視新聞台
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="台灣頻道3", 鏡電視新聞台
 https://video.mytvsuper.xyz/live/c6a50c8a9dd40daec42229c9833103b4a764b4fe9660bbbdc9e3b3247e940ed0.php?token=395626593195248
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="台灣頻道3"", 亞洲旅遊台
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="台灣頻道3", 亞洲旅遊台
 https://video.mytvsuper.xyz/live/6a00a142a2497d06c5ab2efca631a9dcc34e4491d211cc6f8e366f444e43be08.php?token=395626593195248
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="台灣頻道3"", GINX Esports TV
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="台灣頻道3", GINX Esports TV
 https://video.mytvsuper.xyz/live/1833f73c56076712726577708c2b57be5cef97dd659fa76c997e3742c4ba00f4.php?token=395626593195248
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="台灣頻道3"", 智林體育台
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="台灣頻道3", 智林體育台
 https://video.mytvsuper.xyz/live/8fb149aec4037d80e15a58d089a332337c8e807ae9a1fd5d1979193edca572c6.php?token=395626593195248
-#EXTINF:-1 tvg-id="TraceSports" tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="台灣頻道3"", TraceSports
+#EXTINF:-1 tvg-id="TraceSports" tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="台灣頻道3", TraceSports
 https://video.mytvsuper.xyz/live/eb6d9b7ddfb58bdce5424eda8c3c3b7749297f23a193fd64281e312ccc477d00.php?token=395626593195248
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="台灣頻道3"", 影迷數位電影台
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="台灣頻道3", 影迷數位電影台
 https://video.mytvsuper.xyz/live/7b264d9a6d68e86d8c67ad79f2fa3b9914edcbe1076be26f9b049198a959ec64.php?token=395626593195248
-#EXTINF:-1 tvg-id="AMC電影台" tvg-name="AMC 電影台" tvg-logo="https://assets.livednow.com/logo/AMC電影台.png" group-title="台灣頻道3"", AMC 電影台
+#EXTINF:-1 tvg-id="AMC電影台" tvg-name="AMC 電影台" tvg-logo="https://assets.livednow.com/logo/AMC電影台.png" group-title="台灣頻道3", AMC 電影台
 https://video.mytvsuper.xyz/live/4ed59ce9070d2a9f950b28fda46561f9f42ea46aa029a79bc0c75ab89d50b579.php?token=395626593195248
-#EXTINF:-1 tvg-id="CatchPlay-電影台" tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay-電影台.png" group-title="台灣頻道3"", CatchPlay 電影台
+#EXTINF:-1 tvg-id="CatchPlay-電影台" tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay-電影台.png" group-title="台灣頻道3", CatchPlay 電影台
 https://video.mytvsuper.xyz/live/3648a601e8107f59eed5de8fa4834d355c82c4ab9e88f50a77c5021f39833e2b.php?token=395626593195248
-#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="台灣頻道3"", 公視戲劇台
+#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="台灣頻道3", 公視戲劇台
 https://video.mytvsuper.xyz/live/2b292a036f0b5de5b893d160a39f1a43f77e71404d989059ea7207426806d735.php?token=395626593195248
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="台灣頻道3"", 采昌影劇台
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="台灣頻道3", 采昌影劇台
 https://video.mytvsuper.xyz/live/52cbc4c50f7d77b82ff5ba659d91b371ce4df9628cea1909c5ce14dbd109fcf8.php?token=395626593195248
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="台灣頻道3"", 台灣戲劇台
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="台灣頻道3", 台灣戲劇台
 https://video.mytvsuper.xyz/live/496bf627018c6c570f41737b2e02984952c5af2240a2d4e1abbf184ea3e646af.php?token=395626593195248
-#EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="台灣頻道3"", i-Fun 動漫台
+#EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="台灣頻道3", i-Fun 動漫台
 https://video.mytvsuper.xyz/live/28088ba2bbcb7759813659c75a7e19adc6fd8ff1f792e19b63c0751bd24f864c.php?token=395626593195248
-#EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="台灣頻道3"", Classica 古典樂
+#EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="台灣頻道3", Classica 古典樂
 https://video.mytvsuper.xyz/live/4262fff591f0ca8635008b26697bd43e30a6a494bbc1b9c13c12cab38daf2e11.php?token=395626593195248
-#EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="台灣頻道3"", Mezzo Live
+#EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="台灣頻道3", Mezzo Live
 https://video.mytvsuper.xyz/live/cbbc0ac5393c941c569c51be4dca75f0548d2d4f7d20e79284a6dba332c2a11c.php?token=395626593195248
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="台灣頻道3"", 豬哥亮歌廳秀
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="台灣頻道3", 豬哥亮歌廳秀
 https://video.mytvsuper.xyz/live/005904c91fc3dae41609ea1e61d0caa172b1df773c2f20d66d7e56cd3b98cb59.php?token=395626593195248
-#EXTINF:-1 tvg-id="Trace-Urban" tvg-name="Trace Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="台灣頻道3"", Trace Urban
+#EXTINF:-1 tvg-id="Trace-Urban" tvg-name="Trace Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="台灣頻道3", Trace Urban
 https://video.mytvsuper.xyz/live/ce474e0b4417342149b938f033dabefc2f1fbc672dfc30041388f157d02d93ec.php?token=395626593195248
-#EXTINF:-1 tvg-id="韓國娛樂台" tvg-name="韓國娛樂台" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="台灣頻道3"", 韓國娛樂台
+#EXTINF:-1 tvg-id="韓國娛樂台" tvg-name="韓國娛樂台" tvg-logo="https://assets.livednow.com/logo/韓國娛樂台.png" group-title="台灣頻道3", 韓國娛樂台
 https://video.mytvsuper.xyz/live/a453f888547778fa3bb63369d295d92fd8b63950aefdecae96042ad03eb6f04a.php?token=395626593195248
-#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="台灣頻道3"", Arirang TV
+#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="台灣頻道3", Arirang TV
 https://video.mytvsuper.xyz/live/65fe80eadb198f66b47149322717b8c4c8670cbe97fedbbe530759c33b65b047.php?token=395626593195248
-#EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="台灣頻道3"", VOA 美國之音
+#EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="台灣頻道3", VOA 美國之音
 https://video.mytvsuper.xyz/live/19887f425dd886a3ed520b508cbb5cc3206799cacaaf1721d4ab2afd440cf239.php?token=395626593195248
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="台灣頻道3"", 半島國際新聞台
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="台灣頻道3", 半島國際新聞台
 https://video.mytvsuper.xyz/live/1521046a40f7371ed18edf43242645d31ce9554a1bb48a686d6700419342d54c.php?token=395626593195248
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="台灣頻道3"", 第1商業台
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="台灣頻道3", 第1商業台
 https://video.mytvsuper.xyz/live/fc4af31130acbfe62e8053ccd11f25c20b99c16da503e1e6173f5ed30c494989.php?token=395626593195248
-#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="台灣頻道3"", Smart 知識台
+#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="台灣頻道3", Smart 知識台
 https://video.mytvsuper.xyz/live/ff188a0fcb46e02de62065cd178ea8ad5e3eb8ab5a7b8962181d9c214adbd358.php?token=395626593195248
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="台灣頻道3"", 視納華仁紀實頻道
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="台灣頻道3", 視納華仁紀實頻道
 https://video.mytvsuper.xyz/live/988c73011095940d74f290f7b9b7460dd7ef2acae1e359e52b59d529ac8c400f.php?token=395626593195248
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="台灣頻道3"", 客家電視台
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="台灣頻道3", 客家電視台
 https://video.mytvsuper.xyz/live/99c6653d89a11dcfea1a7077bd86c2b440b23f63d1a5a5526487d91eb9b145fa.php?token=395626593195248
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="台灣頻道3"", 好消息
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="台灣頻道3", 好消息
 https://video.mytvsuper.xyz/live/d2c45add8a562a7765452f3e28f598df191822b53933568ed0f0b1a6b08bed60.php?token=395626593195248
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="台灣頻道3"", 好消息2台
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="台灣頻道3", 好消息2台
 https://video.mytvsuper.xyz/live/a82c0d1ebdfecd397fc9a6684c0561e7884e7680550912e76084a5a46b6209a6.php?token=395626593195248
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="台灣頻道3"", 國會頻道1
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="台灣頻道3", 國會頻道1
 https://video.mytvsuper.xyz/live/3326d2424da5a9065f2a288fb007f40adb96518e17ac8dcb81eef2112bd13871.php?token=395626593195248
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="台灣頻道3"", 國會頻道2
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="台灣頻道3", 國會頻道2
 https://video.mytvsuper.xyz/live/95f5049f53b0d229b0c3d59763fe06498752817bee821b2f2b1ebd21e6ab73b8.php?token=395626593195248
 
 
@@ -4723,6 +4882,11 @@ https://video.mytvsuper.xyz/live/4d45f819e587aa2eac5e4266bb977d9ed7c81495f8291f9
 
 
 
+********************************************************************************************************************
+
+
+
+https://f004.backblazeb2.com/file/20232023/2025.txt
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
@@ -7301,4 +7465,165 @@ yJpYXQiOjE3NDEzMDEzOTEsImlzcyI6IlZSIiwiZXhwIjoxNzQxMzg2NjAwLCJ3bXZlciI6Mywid21pZ
 
 
 
+
+
+
+#EXTINF:-1 group-title="食譜頻道",米飯8種神仙做法
+https://vd2.bdstatic.com/mda-qcg131ixp7n2b6g4/720p_frame30/h264_cae_acd/1710637153135042962/mda-qcg131ixp7n2b6g4.mp4
+#EXTINF:-1 group-title="食譜頻道",米飯8道花式做法
+https://vd3.bdstatic.com/mda-qcd0v5uhzddmt7tv/720p_frame30/h264_cae_acd/1710377548774148185/mda-qcd0v5uhzddmt7tv.mp4
+#EXTINF:-1 group-title="食譜頻道",早餐12種做法
+https://vd2.bdstatic.com/mda-qhmchriravpm16hr/720p_frame30/h264_cae_acd/1724317969961142800/mda-qhmchriravpm16hr.mp4
+#EXTINF:-1 group-title="食譜頻道",早餐5種做法
+https://vd3.bdstatic.com/mda-qir7wx8nj0ut8uup/720p/mv_cae264_backtrack_720p_normal/1729149657292208298/mda-qir7wx8nj0ut8uup.mp4
+#EXTINF:-1 group-title="食譜頻道",早餐10種做法
+https://vd4.bdstatic.com/mda-qjh7csqx9bwei7py/sc/cae_h264/1729265801939805597/mda-qjh7csqx9bwei7py.mp4
+#EXTINF:-1 group-title="食譜頻道",征服胃口的10道小炒菜
+https://vd3.bdstatic.com/mda-qk5dp2q1g86r6xa6/720p/mv_cae264_backtrack_720p_normal/1730886307368420865/mda-qk5dp2q1g86r6xa6.mp4
+#EXTINF:-1 group-title="食譜頻道",征服胃口的8道小炒菜
+https://vd2.bdstatic.com/mda-qk47tz6kt8902q3j/720p/mv_cae264_backtrack_720p_normal/1730882863840036809/mda-qk47tz6kt8902q3j.mp4
+#EXTINF:-1 group-title="食譜頻道",特色家常10道菜
+https://vd4.bdstatic.com/mda-qjde2q42rue8u30x/720p/mv_cae264_backtrack_720p_normal/1728901200489793099/mda-qjde2q42rue8u30x.mp4
+#EXTINF:-1 group-title="食譜頻道",經典家常10道菜
+https://vd2.bdstatic.com/mda-qjf76vd3tmt6itdr/720p/mv_cae264_backtrack_720p_normal/1729116886152120996/mda-qjf76vd3tmt6itdr.mp4
+#EXTINF:-1 group-title="食譜頻道",招待貴客有面子10道菜
+https://vd2.bdstatic.com/mda-qjamk3ww02swvtvg/540p/mv_cae264_backtrack_540p_normal/1728771745779332069/mda-qjamk3ww02swvtvg.mp4
+#EXTINF:-1 group-title="食譜頻道",10道特色美食
+https://vd4.bdstatic.com/mda-qmfe62jv0kwan2dx/720p/mv_cae264_backtrack_720p_normal/1734344111633378494/mda-qmfe62jv0kwan2dx.mp4
+#EXTINF:-1 group-title="食譜頻道",10道花樣美食
+https://vd2.bdstatic.com/mda-qk8pmh5hqykz4iz5/720p/mv_cae264_backtrack_720p_normal/1731232285199870579/mda-qk8pmh5hqykz4iz5.mp4
+#EXTINF:-1 group-title="食譜頻道",10種魚肉做法
+https://vd2.bdstatic.com/mda-qjn7bbt6815rt1s3/720p/mv_cae264_backtrack_720p_normal/1729660528703116890/mda-qjn7bbt6815rt1s3.mp4
+#EXTINF:-1 group-title="食譜頻道",10種排骨做法
+https://vd4.bdstatic.com/mda-pmfn65eymaf93yr8/720p_frame30/h264_cae_acd/1702742800698571456/mda-pmfn65eymaf93yr8.mp4
+#EXTINF:-1 group-title="食譜頻道",15道經典素菜1
+https://vd2.bdstatic.com/mda-qmmf7ahg73eu3v8y/720p/mv_cae264_backtrack_720p_normal/1734905402677117865/mda-qmmf7ahg73eu3v8y.mp4
+#EXTINF:-1 group-title="食譜頻道",15道經典素菜2
+https://vd2.bdstatic.com/mda-qdjg4ky2avn57njf/720p_frame30/h264_cae_acd/1713614482052348110/mda-qdjg4ky2avn57njf.mp4
+#EXTINF:-1 group-title="食譜頻道",東坡肘子
+https://vd3.bdstatic.com/mda-jj4j1ftrb23g9bm0/sc/mda-jj4j1ftrb23g9bm0.mp4
+#EXTINF:-1 group-title="食譜頻道",燉紅燒肉
+https://vd3.bdstatic.com/mda-jmij2puznds3zjwj/sc/mda-jmij2puznds3zjwj.mp4
+#EXTINF:-1 group-title="食譜頻道",炒豬蹄
+https://vd3.bdstatic.com/mda-jjhrpfzyggfw57uc/sc/mda-jjhrpfzyggfw57uc.mp4
+#EXTINF:-1 group-title="食譜頻道",花開富貴肉
+https://vd3.bdstatic.com/mda-ja2y1x2u279g55u9/sc/mda-ja2y1x2u279g55u9.mp4
+#EXTINF:-1 group-title="食譜頻道",醬骨頭
+https://vd3.bdstatic.com/mda-jese0pwy3mu3xbhz/sc/mda-jese0pwy3mu3xbhz.mp4
+#EXTINF:-1 group-title="食譜頻道",五花肉燒大骨
+https://vd3.bdstatic.com/mda-jf5i4t7mpjrcuryt/sc/mda-jf5i4t7mpjrcuryt.mp4
+#EXTINF:-1 group-title="食譜頻道",小炒肉
+https://vd3.bdstatic.com/mda-jmixjt8fwxqrx6u1/v1-cae/sc/mda-jmixjt8fwxqrx6u1.mp4
+#EXTINF:-1 group-title="食譜頻道",回鍋肉
+https://vd3.bdstatic.com/mda-jc2jm7fszzb4upua/sc/mda-jc2jm7fszzb4upua.mp4
+#EXTINF:-1 group-title="食譜頻道",啫啫排骨煲
+https://vd3.bdstatic.com/mda-jjvqdp5hjm0q1dtm/sc/mda-jjvqdp5hjm0q1dtm.mp4
+#EXTINF:-1 group-title="食譜頻道",粉蒸排骨
+https://vd3.bdstatic.com/mda-jkamnfkg36i24817/sc/mda-jkamnfkg36i24817.mp4
+#EXTINF:-1 group-title="食譜頻道",燉牛腩
+https://vd3.bdstatic.com/mda-jktu3wf8fbu8ju9t/sc/mda-jktu3wf8fbu8ju9t.mp4
+#EXTINF:-1 group-title="食譜頻道",臺式紅燒牛腩
+https://vd3.bdstatic.com/mda-jcr0fg77zxdzwrmt/sc/mda-jcr0fg77zxdzwrmt.mp4
+#EXTINF:-1 group-title="食譜頻道",小炒牛肉
+https://vd3.bdstatic.com/mda-je6wgqnr3awjn4nm/sc/mda-je6wgqnr3awjn4nm.mp4
+#EXTINF:-1 group-title="食譜頻道",水煮牛肉
+https://vd3.bdstatic.com/mda-jgbxc66hzx0h03mi/sc/mda-jgbxc66hzx0h03mi.mp4
+#EXTINF:-1 group-title="食譜頻道",小炒香菜牛肉
+https://vd3.bdstatic.com/mda-jdfy12szm0wczqet/sc/mda-jdfy12szm0wczqet.mp4
+#EXTINF:-1 group-title="食譜頻道",蜜汁蒜香煎雞胸
+https://vd3.bdstatic.com/mda-jeneb5mbmk26atj9/sc/mda-jeneb5mbmk26atj9.mp4
+#EXTINF:-1 group-title="食譜頻道",照燒雞腿
+https://vd4.bdstatic.com/mda-qj7cgwta5yktv3yc/sc/cae_h264/1728380355391475922/mda-qj7cgwta5yktv3yc.mp4
+#EXTINF:-1 group-title="食譜頻道",乾鍋雞翅
+https://vd3.bdstatic.com/mda-mbqmby5fizzk0nfq/cae_h264_nowatermark/1614238365/mda-mbqmby5fizzk0nfq.mp4
+#EXTINF:-1 group-title="食譜頻道",辣子雞丁
+https://vd3.bdstatic.com/mda-jigxget85fft8hn9/sc/mda-jigxget85fft8hn9.mp4
+#EXTINF:-1 group-title="食譜頻道",辣子雞
+https://vd3.bdstatic.com/mda-jjcfgxhu1y0nim45/sc/mda-jjcfgxhu1y0nim45.mp4
+#EXTINF:-1 group-title="食譜頻道",口水雞
+https://vd3.bdstatic.com/mda-jk2rmqb9d9ygawaw/sc/mda-jk2rmqb9d9ygawaw.mp4
+#EXTINF:-1 group-title="食譜頻道",蒸雞
+https://vd3.bdstatic.com/mda-jb0iknwis2xnsiq7/sc/mda-jb0iknwis2xnsiq7.mp4
+#EXTINF:-1 group-title="食譜頻道",生爆甲魚
+https://vd3.bdstatic.com/mda-ka7n7gm2wjgvsx88/sc/mda-ka7n7gm2wjgvsx88.mp4
+#EXTINF:-1 group-title="食譜頻道",乾鍋帶魚
+https://vd3.bdstatic.com/mda-jccfjr2wk92ev39d/sc/mda-jccfjr2wk92ev39d.mp4
+#EXTINF:-1 group-title="食譜頻道",蔥燒帶魚
+https://vd3.bdstatic.com/mda-ka8pbfq07hy0th3w/sc/mda-ka8pbfq07hy0th3w.mp4
+#EXTINF:-1 group-title="食譜頻道",清蒸鱖魚
+https://vd3.bdstatic.com/mda-jgdja3fxcyb5u5ew/sc/mda-jgdja3fxcyb5u5ew.mp4
+#EXTINF:-1 group-title="食譜頻道",清蒸魚
+https://vd3.bdstatic.com/mda-jjwqmp78hhuiadcg/sc/mda-jjwqmp78hhuiadcg.mp4
+#EXTINF:-1 group-title="食譜頻道",花開富貴魚
+https://vd3.bdstatic.com/mda-jagts67hpws0np8v/sc/mda-jagts67hpws0np8v.mp4
+#EXTINF:-1 group-title="食譜頻道",沸騰魚
+https://vd3.bdstatic.com/mda-jftf7v5aitvrarai/sc/mda-jftf7v5aitvrarai.mp4
+#EXTINF:-1 group-title="食譜頻道",香煎草魚
+https://vd3.bdstatic.com/mda-jjmq4gwety1b1vwf/sc/mda-jjmq4gwety1b1vwf.mp4
+#EXTINF:-1 group-title="食譜頻道",蒜香魚片
+https://vd3.bdstatic.com/mda-qf09ssv85hr907ss/720p/h264/1717224900256381139/mda-qf09ssv85hr907ss.mp4
+#EXTINF:-1 group-title="食譜頻道",砂鍋鱸魚
+https://vd2.bdstatic.com/mda-qj109imjmf876e45/sc/cae_h264/1727827971326185108/mda-qj109imjmf876e45.mp4
+#EXTINF:-1 group-title="食譜頻道",口水魚
+https://vd3.bdstatic.com/mda-jfsed4bwzhzs5mki/sc/mda-jfsed4bwzhzs5mki.mp4
+#EXTINF:-1 group-title="食譜頻道",酸菜魚
+https://vd3.bdstatic.com/mda-jjvrd7pugaugdeyb/sc/mda-jjvrd7pugaugdeyb.mp4
+#EXTINF:-1 group-title="食譜頻道",魚頭泡餅
+https://vd3.bdstatic.com/mda-jh6nsgq82u0v7q95/sc/mda-jh6nsgq82u0v7q95.mp4
+#EXTINF:-1 group-title="食譜頻道",白灼檸檬蝦
+https://vd3.bdstatic.com/mda-jcef6n7225n0wvcw/sc/mda-jcef6n7225n0wvcw.mp4
+#EXTINF:-1 group-title="食譜頻道",蘑菇酒燒青口貝
+https://vd3.bdstatic.com/mda-jcfxfwwnmwyrknwk/sc/mda-jcfxfwwnmwyrknwk.mp4
+#EXTINF:-1 group-title="食譜頻道",排檔辣炒蜆子皇
+https://vd3.bdstatic.com/mda-jcbqrt9frcqa3sgi/sc/mda-jcbqrt9frcqa3sgi.mp4
+#EXTINF:-1 group-title="食譜頻道",豆豉炒花甲
+https://vd3.bdstatic.com/mda-jk0r4c98m03mp9kw/sc/mda-jk0r4c98m03mp9kw.mp4
+#EXTINF:-1 group-title="食譜頻道",撈汁花甲
+https://vd3.bdstatic.com/mda-jgnj85jx9gcnv5ca/sc/mda-jgnj85jx9gcnv5ca.mp4
+#EXTINF:-1 group-title="食譜頻道",小魚吃蝦米
+https://vd3.bdstatic.com/mda-jm2mi0c9rjqmq0rq/sc/mda-jm2mi0c9rjqmq0rq.mp4
+#EXTINF:-1 group-title="食譜頻道",豬肉雞蛋燜腐竹
+https://vd3.bdstatic.com/mda-jjhgubh597xbndc0/sc/mda-jjhgubh597xbndc0.mp4
+#EXTINF:-1 group-title="食譜頻道",螞蟻上樹
+https://vd3.bdstatic.com/mda-jdnm6vyr8mr52e8d/sc/mda-jdnm6vyr8mr52e8d.mp4
+#EXTINF:-1 group-title="食譜頻道",茶香蝦仁滑蛋
+https://vd3.bdstatic.com/mda-jepdfbxf1zi2cuyj/sc/mda-jepdfbxf1zi2cuyj.mp4
+#EXTINF:-1 group-title="食譜頻道",乾煸四季豆
+https://vd3.bdstatic.com/mda-jhm33jyyaytkvbrf/sc/mda-jhm33jyyaytkvbrf.mp4
+#EXTINF:-1 group-title="食譜頻道",香辣藕片
+https://vd3.bdstatic.com/mda-jhnwa6i0dqn086we/sc/mda-jhnwa6i0dqn086we.mp4
+#EXTINF:-1 group-title="食譜頻道",蒜蓉金針菇
+https://vd3.bdstatic.com/mda-jhpviscevfkypzus/sc/mda-jhpviscevfkypzus.mp4
+#EXTINF:-1 group-title="食譜頻道",蛋黃焗南瓜
+https://vd3.bdstatic.com/mda-jhru6rb3dqk6adtb/sc/mda-jhru6rb3dqk6adtb.mp4
+#EXTINF:-1 group-title="食譜頻道",口水茄子
+https://vd3.bdstatic.com/mda-jg2m78h2yz7pgyc4/sc/mda-jg2m78h2yz7pgyc4.mp4
+#EXTINF:-1 group-title="食譜頻道",蒜蓉茄子
+https://vd3.bdstatic.com/mda-jhuzpquuxg885aqi/sc/mda-jhuzpquuxg885aqi.mp4
+#EXTINF:-1 group-title="食譜頻道",風味涼拌土豆片
+https://vd3.bdstatic.com/mda-jdtm0ws1ckpykki8/sc/mda-jdtm0ws1ckpykki8.mp4
+#EXTINF:-1 group-title="食譜頻道",家常豆腐
+https://vd3.bdstatic.com/mda-jdvyti1539x3cidp/sc/mda-jdvyti1539x3cidp.mp4
+#EXTINF:-1 group-title="食譜頻道",鍋塌香椿豆腐
+https://vd3.bdstatic.com/mda-jcpustuq9au9t7yu/sc/mda-jcpustuq9au9t7yu.mp4
+#EXTINF:-1 group-title="食譜頻道",烤豆腐
+https://vd3.bdstatic.com/mda-jk6vj6ru04mztq8f/sc/mda-jk6vj6ru04mztq8f.mp4
+#EXTINF:-1 group-title="食譜頻道",農家蒸豆腐
+https://vd3.bdstatic.com/mda-jb8vimj8dqcv0ddk/sc/mda-jb8vimj8dqcv0ddk.mp4
+#EXTINF:-1 group-title="食譜頻道",秘制豆腐
+,https://vd3.bdstatic.com/mda-jk3ru4bdd7m5yhrp/sc/mda-jk3ru4bdd7m5yhrp.mp4
+#EXTINF:-1 group-title="食譜頻道",豬血炒韭菜
+https://vd3.bdstatic.com/mda-kk4q9jhyv6myujcb/v1-cae/sc/mda-kk4q9jhyv6myujcb.mp4
+#EXTINF:-1 group-title="食譜頻道",酒鬼花生
+https://vd3.bdstatic.com/mda-jm7t0i4rvgfg0ia4/sc/mda-jm7t0i4rvgfg0ia4.mp4
+#EXTINF:-1 group-title="食譜頻道",宮保松花蛋
+https://vd3.bdstatic.com/mda-jdkk212bkwzjg044/sc/mda-jdkk212bkwzjg044.mp4
+#EXTINF:-1 group-title="食譜頻道",乾鍋杏鮑菇
+https://vd3.bdstatic.com/mda-ka3bgp3y9pnaxfdt/sc/mda-ka3bgp3y9pnaxfdt.mp4
+#EXTINF:-1 group-title="食譜頻道",平菇炒雞蛋
+https://vd3.bdstatic.com/mda-jmnbdrqmvyjmeyqs/v1-cae/sc/mda-jmnbdrqmvyjmeyqs.mp4
+#EXTINF:-1 group-title="食譜頻道",濕炒牛河
+https://vd3.bdstatic.com/mda-jgekbcvjk7mwtkae/sc/mda-jgekbcvjk7mwtkae.mp4
+#EXTINF:-1 group-title="食譜頻道",金針菇豆腐蛋花湯
+https://vd3.bdstatic.com/mda-jg1ccbqk185isyua/sc/mda-jg1ccbqk185isyua.mp4
 
