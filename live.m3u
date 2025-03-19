@@ -915,12 +915,21 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="台灣", 番薯音樂 (61)
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
-#EXTINF:-1 group-title="台灣", 半島新聞
+
+
+#EXTINF:-1 group-title="台灣",GOODTV卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+
+#EXTINF:-1 group-title="台灣",半島新聞
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="台灣", 天良综合台
+#EXTINF:-1 group-title="台灣",天良综合台
 http://60.248.91.20:8000/main
 #EXTINF:-1 group-title="台灣",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="台灣",新加坡中文
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+
 
 
 
@@ -1234,8 +1243,6 @@ http://tv543.cc/litv.php?id=litv-longturn22
 
 4gtv,#genre#
 
-
-
 #EXTINF:-1 group-title="四季線上",靖天國際台
 http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
 #EXTINF:-1 group-title="四季線上",亞洲旅遊台
@@ -1520,7 +1527,7 @@ http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 #EXTINF:-1 group-title="香港",鳳凰資訊 (cdn)
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="香港",TVB J1 (cdn)
-,http://cdn3.163189.xyz/live/j1/stream.m3u8
+http://cdn3.163189.xyz/live/j1/stream.m3u8
 #EXTINF:-1 group-title="香港",翡翠台 (cdn)
 https://cdn3.163189.xyz/live/fct/stream.m3u8
 #EXTINF:-1 group-title="香港",翡翠台 (cdn)
@@ -1704,6 +1711,14 @@ http://php.jdshipin.com/smt.php?id=Quanjia
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="香港",八度空間 (smt)
 http://php.jdshipin.com/smt.php?id=TV8
+
+#EXTINF:-1 group-title="香港",RTHK-33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港",RTHK-34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="香港",RTHK-35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
 
 
 
