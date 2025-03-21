@@ -933,6 +933,17 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://37.27.111.214:8080/live/15/hls.m3u8
 
 
+#EXTINF:-1 group-title="台灣",POPC
+http://j.s.bkpcp.top/js/popc
+#EXTINF:-1 group-title="台灣",東森電影
+http://j.s.bkpcp.top/js/dsdy
+#EXTINF:-1 group-title="台灣",龍祥時代
+http://j.s.bkpcp.top/js/lxsd
+#EXTINF:-1 group-title="台灣",龍華電影
+http://j.s.bkpcp.top/js/lhdy
+#EXTINF:-1 group-title="台灣",緯來電影
+http://j.s.bkpcp.top/js/wldy
+
 
 
 #EXTINF:-1 group-title="台灣",八度空間
@@ -960,237 +971,9 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
 
 
+https://aktv.space/live.m3u
 
-
-
-
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-
-#EXTINF:-1 group-title="台灣2" tvg-logo="",TVBS HD
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv073
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/TVBS1.png",TVBS新聞台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv072
-#EXTINF:-1 group-title="台灣2" tvg-logo="",中天新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv009
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CTI4.png",中天亞洲台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv109
-#EXTINF:-1 group-title="台灣2" tvg-logo="",台視新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv051
-#EXTINF:-1 group-title="台灣2" tvg-logo="",華視新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv052
-#EXTINF:-1 group-title="台灣2" tvg-logo="",台視財經
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv056
-#EXTINF:-1 group-title="台灣2" tvg-logo="",中視新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv074
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Unique1.png",非凡新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv010
-#EXTINF:-1 group-title="台灣2" tvg-logo="",鏡新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv075
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/EBC6.png",東森新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv152
-#EXTINF:-1 group-title="台灣2" tvg-logo="",東森財經新聞
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv153
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/AlJazeera.png",半島新聞
-http://666.iptv543.com:8080/litv.php?id=litv-ftv10
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/FTV1.png",民視新聞台
-http://666.iptv543.com:8080/litv.php?id=litv-ftv13
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/FTV3.png",民視台灣台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv001
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Global2.png",寰宇新聞台
-http://666.iptv543.com:8080/litv.php?id=litv-longturn14
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Global3.png",寰宇新聞台灣台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv156
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Global4.png",寰宇財經台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv158
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/TTV.png",台視
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv066
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/FTV.png",民視
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv002
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/FTV.png",民視
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv155
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CTV.png",中視
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/CTS.png",華視
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv041
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)八大戲劇
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)三立戲劇
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)中華小當家
-http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)AMC電影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)鳳凰資訊
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)緯來精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)49號
-http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)探索亞洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)動物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",(大街)八大綜合
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 group-title="台灣2" tvg-logo="",三立台灣台
-http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Videoland7.png",緯來體育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="台灣2" tvg-logo="",緯來日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="台灣2" tvg-logo="",緯來育樂
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 group-title="台灣2" tvg-logo="",東森超視
-rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 group-title="台灣2" tvg-logo="",MoMo綜合
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 group-title="台灣2" tvg-logo="",ELEVEN體育1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 group-title="台灣2" tvg-logo="",ELEVEN體育2
-rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 group-title="台灣2" tvg-logo="",ELEVEN體育3
-rtmp://f13h.mine.nu/sat/tv751
-#EXTINF:-1 group-title="台灣2" tvg-logo="",影迷數位電影台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv011
-#EXTINF:-1 group-title="台灣2" tvg-logo="",AMC電影台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv017
-#EXTINF:-1 group-title="台灣2" tvg-logo="",CATCHPLAY電影台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv076
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV9.png",靖天電影台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv061
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/LTV1.png",龍華電影
-http://666.iptv543.com:8080/litv.php?id=litv-longturn03
-#EXTINF:-1 group-title="台灣2" tvg-logo="",采昌影劇
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv049
-#EXTINF:-1 group-title="台灣2" tvg-logo="",民視影劇
-http://666.iptv543.com:8080/litv.php?id=litv-ftv09
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/LTV7.png",龍華經典
-http://666.iptv543.com:8080/litv.php?id=litv-longturn21
-#EXTINF:-1 group-title="台灣2" tvg-logo="",中視經典
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv080
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Taiwanxiju.png",台灣戲劇台
-http://666.iptv543.com:8080/litv.php?id=litv-longturn22
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/jy2.png",靖洋戲劇台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv045
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV8.png",靖天戲劇台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv058
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/PTS3.png",公視戲劇
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv042
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/LTV4.png",龍華戲劇
-http://666.iptv543.com:8080/litv.php?id=litv-longturn18
-#EXTINF:-1 group-title="台灣2" tvg-logo="",智林體育台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv101
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/ssydX.png",時尚運動X
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv014
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV5.png",靖天育樂台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv062
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/sportcast6.png",博斯魅力
-http://666.iptv543.com:8080/litv.php?id=litv-longturn04
-#EXTINF:-1 group-title="台灣2" tvg-logo="",博斯高球1
-http://666.iptv543.com:8080/litv.php?id=litv-longturn05
-#EXTINF:-1 group-title="台灣2" tvg-logo="",博斯高球2
-http://666.iptv543.com:8080/litv.php?id=litv-longturn06
-#EXTINF:-1 group-title="台灣2" tvg-logo="",博斯運動1
-http://666.iptv543.com:8080/litv.php?id=litv-longturn07
-#EXTINF:-1 group-title="台灣2" tvg-logo="",博斯運動2
-http://666.iptv543.com:8080/litv.php?id=litv-longturn08
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/sportcast5.png",博斯網球
-http://666.iptv543.com:8080/litv.php?id=litv-longturn09
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/sportcast7.png",博斯無限1
-http://666.iptv543.com:8080/litv.php?id=litv-longturn10
-#EXTINF:-1 group-title="台灣2" tvg-logo="",博斯無限2
-http://666.iptv543.com:8080/litv.php?id=litv-longturn13
-#EXTINF:-1 group-title="台灣2" tvg-logo="",TRACE SPORTS STARS
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv077
-#EXTINF:-1 group-title="台灣2" tvg-logo="",視納華仁紀實頻道
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv013
-#EXTINF:-1 group-title="台灣2" tvg-logo="",中視菁采
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv064
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GTV5.png",八大精彩台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv034
-#EXTINF:-1 group-title="台灣2" tvg-logo="",八大綜藝台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv039
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/TVBS3.png",TVBS精采台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv067
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/TVBS2.png",TVBS歡樂台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv068
-#EXTINF:-1 group-title="台灣2" tvg-logo="",靖天歡樂台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv054
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV1.png",靖天綜合台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv046
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV2.png",靖天資訊台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv065
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV7.png",靖天卡通台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv044
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV6.png",靖天日本台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv047
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/jy1.png",靖洋卡通台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv057
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/GoldenTV10.png",靖天國際台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv063
-#EXTINF:-1 group-title="台灣2" tvg-logo="",靖天映畫
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv055
-#EXTINF:-1 group-title="台灣2" tvg-logo="",愛爾達娛樂
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv070
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/LTV9.png",龍華卡通
-http://666.iptv543.com:8080/litv.php?id=litv-longturn01
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/LTV5.png",龍華日韓
-http://666.iptv543.com:8080/litv.php?id=litv-longturn11
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/LTV6.png",龍華偶像
-http://666.iptv543.com:8080/litv.php?id=litv-longturn12
-#EXTINF:-1 group-title="台灣2" tvg-logo="",民視綜藝
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv004
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/FTV2.png",民視第一台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv003
-#EXTINF:-1 group-title="台灣2" tvg-logo="",民視旅遊
-http://666.iptv543.com:8080/litv.php?id=litv-ftv07
-#EXTINF:-1 group-title="台灣2" tvg-logo="",客家電視台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv043
-#EXTINF:-1 group-title="台灣2" tvg-logo="",愛放動漫
-http://666.iptv543.com:8080/litv.php?id=litv-ftv15
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/classical.png",古典音樂台
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv059
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/FTV7.png",豬哥亮歌廳秀
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv006
-#EXTINF:-1 group-title="台灣2" tvg-logo="",Smart知識台
-http://666.iptv543.com:8080/litv.php?id=litv-longturn19
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/DaVinci.png",達文西頻道
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv018
-#EXTINF:-1 group-title="台灣2" tvg-logo="",阿里郎Arirang
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv079
-#EXTINF:-1 group-title="台灣2" tvg-logo="",生活英語台
-http://666.iptv543.com:8080/litv.php?id=litv-longturn20
-#EXTINF:-1 group-title="台灣2" tvg-logo="",國際財經
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv104
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/VOATV.png",美國之音
-http://666.iptv543.com:8080/litv.php?id=litv-ftv03
-#EXTINF:-1 group-title="台灣2" tvg-logo="",好消息
-http://666.iptv543.com:8080/litv.php?id=litv-ftv16
-#EXTINF:-1 group-title="台灣2" tvg-logo="",好消息2台
-http://666.iptv543.com:8080/litv.php?id=litv-ftv17
-#EXTINF:-1 group-title="台灣2" tvg-logo="https://www.iptv-search.com/static/channellogo/img/Unique2.png",非凡商業
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv048
-#EXTINF:-1 group-title="台灣2" tvg-logo="",國會頻道1
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv084
-#EXTINF:-1 group-title="台灣2" tvg-logo="",國會頻道2
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv085
-#EXTINF:-1 group-title="台灣2" tvg-logo="",TRACE URBAN
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv082
-#EXTINF:-1 group-title="台灣2" tvg-logo="",MEZZO LIVE
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv083
-#EXTINF:-1 group-title="台灣2" tvg-logo="",GLOBETROTTER
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv016
-#EXTINF:-1 group-title="台灣2" tvg-logo="",GinxTV
-http://666.iptv543.com:8080/litv.php?id=4gtv-4gtv05
-
-
-
-
-
-
-AKTV,#genre#
+#EXTM3U
 #EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
 http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Channel 5 HD
@@ -1217,7 +1000,7 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",寰宇新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",明珠劇集台(北美)
+#EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",明珠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
@@ -1225,13 +1008,13 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",美亞電影台(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠劇集台(北美)
+#EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",翡翠台 4K
 http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠綜合台(北美)
+#EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",鳳凰中文
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
@@ -1245,13 +1028,13 @@ http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Love Nature HD
 http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",無線新聞台(北美)
+#EXTINF:-1 group-title="AKTV",无线新闻台(北美)
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",東森新聞
 http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Animax(HK)
 http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-D#EXTINF:-1 group-title="AKTV",DW
+#EXTINF:-1 group-title="AKTV",DW
 http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",France 24
 http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
@@ -1279,10 +1062,6 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",無線衛星新聞台
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Asian Action
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro AEC
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/astroaec/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Celestial Movies
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",CINEMAWORLD
@@ -1297,77 +1076,50 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Sukan
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Sukan[備]
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",TV9
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",TVB Jade
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",TVB Xing He
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-U#EXTINF:-1 group-title="AKTV",nifi Sport
+#EXTINF:-1 group-title="AKTV",Unifi Sport
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",曼聯電視頻道
 http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",amc電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",HITS頻道
-http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVBS精采台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",三立綜合台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",ELTV生活英語台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",三立新聞iNEWS
+http://aktv_stream1.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",中視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",中視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",倪珍英語新聞
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",台視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",台視新聞
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",愛爾達娛樂台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",東森新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",民視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",民視台灣台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",民視新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",民視綜藝台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",龍華偶像台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",龍華日韓台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龍華經典台
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",龍華電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",測試台
-http://aktv_stream1.m16tv.cfd/stream/test/null/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Astro Football
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Astro IQIYI
 http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro 歡喜台
+#EXTINF:-1 group-title="AKTV",Astro 欢喜台
 http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",C+
-http://aktv_stream1.m16tv.cfd/stream/tuntun/c/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature 4K
-http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Red Bull Sports
-http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",NTV NEWS 24
 http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-
 
 
 
@@ -1684,6 +1436,20 @@ https://muzzik-live.morescreens.com/mts-7/576p/chunklist.m3u8
 https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 #EXTINF:-1 group-title="音樂頻道", Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT SPORTS 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="體育頻道", TNT Sport 𝟙
+http://kstv.us:8080/live/tH300gvHff/8606073792/47850.ts
+#EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT SPORTS 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="體育頻道", TNT Sport 𝟚
+http://kstv.us:8080/live/tH300gvHff/8606073792/47851.ts
+#EXTINF:-1 tvg-id="TNT-Sports-3" tvg-name="TNT SPORTS 3" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-3.png" group-title="體育頻道", TNT Sport 𝟛
+http://kstv.us:8080/live/tH300gvHff/8606073792/47852.ts
+#EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="體育頻道", TNT Sport 𝟜
+http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
 
 
 
