@@ -971,6 +971,120 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
 
 
+
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" tvg-name="東森新聞台" group-title="台灣",東森新聞台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" tvg-name="TVBS新聞台" group-title="台灣",TVBS新聞台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" tvg-name="中天新聞台" group-title="台灣",中天新聞台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" tvg-name="八大精彩台" group-title="台灣",八大精彩台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" tvg-name="TVBS歡樂台" group-title="台灣",TVBS歡樂台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv068
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" tvg-name="中視菁采台" group-title="台灣",中視菁采台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv064
+#EXTINF:-1 tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png" tvg-name="東森電影台" group-title="台灣",東森電影台
+https://iptv.vip-tptv.xyz/tv.php?id=4
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" tvg-name="靖天戲劇台" group-title="台灣",靖天戲劇台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" tvg-name="靖天映畫" group-title="台灣",靖天映畫
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" tvg-name="靖天電影台" group-title="台灣",靖天電影台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" tvg-name="靖天歡樂台" group-title="台灣",靖天歡樂台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv054
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn12_mobile.png" tvg-name="龍華偶像" group-title="台灣",龍華偶像
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn12
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn01_mobile.png" tvg-name="龍華動畫" group-title="台灣",龍華動畫
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn01
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn18_mobile.png" tvg-name="龍華戲劇" group-title="台灣",龍華戲劇
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn18
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn11_mobile.png" tvg-name="龍華日韓台" group-title="台灣",龍華日韓台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn11
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn03_mobile.png" tvg-name="龍華電影" group-title="台灣",龍華電影
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn03
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" tvg-name="公視" group-title="台灣",公視
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" tvg-name="公視" group-title="台灣",公視
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv042
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" tvg-name="采昌影劇台" group-title="台灣",采昌影劇台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv049
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn04_mobile.png" tvg-name="博斯魅力網" group-title="台灣",博斯魅力網
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn04
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn06_mobile.png" tvg-name="博斯高球2台" group-title="台灣",博斯高球2台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn06
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn08_mobile.png" tvg-name="博斯運動二台" group-title="台灣",博斯運動二台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn08
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" tvg-name="博斯網球台" group-title="台灣",博斯網球台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn09
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" tvg-name="靖天卡通台" group-title="台灣",靖天卡通台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv044
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/非凡商業台.png" tvg-name="非凡商業台" group-title="台灣",非凡商業台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/台視財經台.png" tvg-name="台視財經台" group-title="台灣",台視財經台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" tvg-name="靖天日本台" group-title="台灣",靖天日本台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" tvg-name="靖天資訊台" group-title="台灣",靖天資訊台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" tvg-name="TVBS精采台" group-title="台灣",TVBS精采台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" tvg-name="靖天綜合台" group-title="台灣",靖天綜合台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv046
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" tvg-name="靖天育樂台" group-title="台灣",靖天育樂台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv062
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" tvg-name="三立綜合台" group-title="台灣",三立綜合台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv006
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" tvg-name="華視新聞" group-title="台灣",華視新聞
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" tvg-name="台視新聞台" group-title="台灣",台視新聞台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv051
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" tvg-name="東森財經新聞台" group-title="台灣",東森財經新聞台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" tvg-name="靖天國際" group-title="台灣",靖天國際
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv063
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" tvg-name="中視" group-title="台灣",中視
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" tvg-name="華視" group-title="台灣",華視
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv080_mobile.png" tvg-name="中視經典" group-title="台灣",中視經典
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv080
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv080_mobile.png" tvg-name="中視經典" group-title="台灣",中視經典
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="台灣",台視
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" tvg-name="寰宇新聞臺灣台" group-title="台灣",寰宇新聞臺灣台
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn15
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/gtv-live.jpg" tvg-name="八大綜合台" group-title="台灣",八大綜合台
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" tvg-name="龍華經典" group-title="台灣",龍華經典
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://aktv.space/live.m3u
 
 #EXTM3U
@@ -1341,6 +1455,64 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 
 
 
+#EXTINF:-1 group-title="香港",HBO
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
+#EXTINF:-1 group-title="香港",Now 爆谷台
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
+#EXTINF:-1 group-title="香港",Now爆谷星影台
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
+#EXTINF:-1 group-title="香港",Now直播台
+https://dko29we9nm1rd.cloudfront.net/hls/CH331/index.m3u8
+#EXTINF:-1 group-title="香港",Now新聞台
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
+#EXTINF:-1 group-title="香港",Now財經台
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 英超1台
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 英超2台
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 英超3台
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 英超4台
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 英超5台
+https://dko29we9nm1rd.cloudfront.net/hls/CH625/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 英超6台
+https://dko29we9nm1rd.cloudfront.net/hls/CH626/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH632/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 3
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 4
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 5
+https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 6
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 7
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
+#EXTINF:-1 group-title="香港",beIN SPORTS 1
+https://dko29we9nm1rd.cloudfront.net/hls/CH638/index.m3u8
+#EXTINF:-1 group-title="香港",beIN SPORTS 2
+https://dko29we9nm1rd.cloudfront.net/hls/CH639/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 641
+https://dko29we9nm1rd.cloudfront.net/hls/CH641/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 651
+https://dko29we9nm1rd.cloudfront.net/hls/CH651/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports 652
+https://dko29we9nm1rd.cloudfront.net/hls/CH652/index.m3u8
+#EXTINF:-1 group-title="香港",Premier Sports
+https://dko29we9nm1rd.cloudfront.net/hls/CH679/index.m3u8
+#EXTINF:-1 group-title="香港",Now Sports PLUS
+https://dko29we9nm1rd.cloudfront.net/hls/CH680/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="馬來西亞",RTM TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 group-title="馬來西亞",RTM TV2
@@ -1626,4 +1798,205 @@ https://live.metshop.top/huya/11352903
 https://live.metshop.top/huya/21059596
 #EXTINF:-1 group-title="輪播影院",怪獸系列
 https://live.metshop.top/huya/21059554
+
+#EXTINF:-1 group-title="輪播影院",康熙王朝
+http://live.nctv.top/huya.php?id=11352940
+
+
+
+
+	
+
+#EXTINF:-1 group-title="輪播影院",周星馳國語
+https://fmbox.cc/huya.php?id=11342412
+
+#EXTINF:-1 group-title="輪播影院",周星馳粵語
+https://fmbox.cc/huya.php?id=11336587
+
+#EXTINF:-1 group-title="輪播影院",李連傑
+https://fmbox.cc/huya.php?id=11342390
+
+#EXTINF:-1 group-title="輪播影院",林正英電影
+https://fmbox.cc/huya.php?id=11342421
+
+#EXTINF:-1 group-title="輪播影院",周潤發電影
+https://fmbox.cc/huya.php?id=11342387
+
+#EXTINF:-1 group-title="輪播影院",成龍電影
+https://fmbox.cc/huya.php?id=11342386
+
+#EXTINF:-1 group-title="輪播影院",洪金寶
+https://fmbox.cc/huya.php?id=11279251
+
+#EXTINF:-1 group-title="輪播影院",梁家輝
+https://fmbox.cc/huya.php?id=11342429
+
+#EXTINF:-1 group-title="輪播影院",許冠英
+https://fmbox.cc/huya.php?id=11601972
+
+#EXTINF:-1 group-title="輪播影院",劉德華
+https://fmbox.cc/huya.php?id=11342424
+
+#EXTINF:-1 group-title="輪播影院",斯坦森
+https://fmbox.cc/huya.php?id=21059588
+
+#EXTINF:-1 group-title="輪播影院",王晶電影
+https://fmbox.cc/huya.php?id=11602058
+
+#EXTINF:-1 group-title="輪播影院",沈騰電影
+https://fmbox.cc/huya.php?id=11601968
+
+#EXTINF:-1 group-title="輪播影院",黃渤電影
+https://fmbox.cc/huya.php?id=11352876
+
+#EXTINF:-1 group-title="輪播影院",光頭強森
+https://fmbox.cc/huya.php?id=21059581
+
+#EXTINF:-1 group-title="輪播影院",漫威電影
+https://fmbox.cc/huya.php?id=11602034
+
+#EXTINF:-1 group-title="輪播影院",宇宙威龍
+https://fmbox.cc/huya.php?id=11342428
+
+#EXTINF:-1 group-title="輪播影院",怪獸電影
+https://fmbox.cc/huya.php?id=21059577
+
+#EXTINF:-1 group-title="輪播影院",武俠電影
+https://fmbox.cc/huya.php?id=11342427
+
+#EXTINF:-1 group-title="輪播影院",警匪電影
+https://fmbox.cc/huya.php?id=11352886
+
+#EXTINF:-1 group-title="輪播影院",罪犯電影
+https://fmbox.cc/huya.php?id=11352962
+
+#EXTINF:-1 group-title="輪播影院",槍戰電影
+https://fmbox.cc/huya.php?id=21059579
+
+#EXTINF:-1 group-title="輪播影院",賽車電影
+https://fmbox.cc/huya.php?id=11279247
+
+#EXTINF:-1 group-title="輪播影院",推薦電影
+https://fmbox.cc/huya.php?id=11602041
+
+#EXTINF:-1 group-title="輪播影院",熱血電影
+https://fmbox.cc/huya.php?id=11352934
+
+#EXTINF:-1 group-title="輪播影院",盜墓電影
+https://fmbox.cc/huya.php?id=21059552
+
+#EXTINF:-1 group-title="輪播影院",賀歲電影
+https://fmbox.cc/huya.php?id=11601971
+
+#EXTINF:-1 group-title="輪播影院",玄幻電影
+https://fmbox.cc/huya.php?id=11342414
+
+#EXTINF:-1 group-title="輪播影院",諜戰電影
+https://fmbox.cc/huya.php?id=21059585
+
+#EXTINF:-1 group-title="輪播影院",喜劇電影
+https://fmbox.cc/huya.php?id=11352877
+
+#EXTINF:-1 group-title="輪播影院",港片電影
+https://fmbox.cc/huya.php?id=11602043
+
+#EXTINF:-1 group-title="輪播影院",國產電影
+https://fmbox.cc/huya.php?id=11352973
+
+#EXTINF:-1 group-title="輪播影院",八點檔
+https://fmbox.cc/huya.php?id=880261
+
+#EXTINF:-1 group-title="輪播影院",賀歲片
+https://fmbox.cc/huya.php?id=11601986
+
+#EXTINF:-1 group-title="輪播影院",功夫片
+https://fmbox.cc/huya.php?id=11352941
+
+#EXTINF:-1 group-title="輪播影院",黑幫片
+https://fmbox.cc/huya.php?id=11336719
+
+#EXTINF:-1 group-title="輪播影院",喪屍片
+https://fmbox.cc/huya.php?id=21059578
+
+#EXTINF:-1 group-title="輪播影院",災難片
+https://fmbox.cc/huya.php?id=11602075
+
+#EXTINF:-1 group-title="輪播影院",諜戰片
+https://fmbox.cc/huya.php?id=21059587
+
+#EXTINF:-1 group-title="輪播影院",戰爭片
+https://fmbox.cc/huya.php?id=21059574
+
+#EXTINF:-1 group-title="輪播影院",犯罪片
+https://fmbox.cc/huya.php?id=11352974
+
+#EXTINF:-1 group-title="輪播影院",古裝片
+https://fmbox.cc/huya.php?id=11336590
+
+#EXTINF:-1 group-title="輪播影院",高分動作
+https://fmbox.cc/huya.php?id=11352884
+
+#EXTINF:-1 group-title="輪播影院",動作電影
+https://fmbox.cc/huya.php?id=11602077
+
+#EXTINF:-1 group-title="輪播影院",搞笑喜劇
+https://fmbox.cc/huya.php?id=11342423
+
+#EXTINF:-1 group-title="輪播影院",喜劇專場
+https://fmbox.cc/huya.php?id=11602044
+
+#EXTINF:-1 group-title="輪播影院",歡笑影院
+https://fmbox.cc/huya.php?id=11352894
+
+#EXTINF:-1 group-title="輪播影院",不擠影院
+https://fmbox.cc/huya.php?id=11352897
+
+#EXTINF:-1 group-title="輪播影院",國產懸疑
+https://fmbox.cc/huya.php?id=11342395
+
+#EXTINF:-1 group-title="輪播影院",快意江湖
+https://fmbox.cc/huya.php?id=11342435
+
+#EXTINF:-1 group-title="輪播影院",黑幫鬥爭
+https://fmbox.cc/huya.php?id=11342419
+
+#EXTINF:-1 group-title="輪播影院",古墓系列
+https://fmbox.cc/huya.php?id=11352913
+
+#EXTINF:-1 group-title="輪播影院",嫣然影廳
+https://fmbox.cc/huya.php?id=11601977
+
+#EXTINF:-1 group-title="輪播影院",女神系列
+https://fmbox.cc/huya.php?id=11336571
+
+#EXTINF:-1 group-title="輪播影院",經典女神
+https://fmbox.cc/huya.php?id=11352909
+
+#EXTINF:-1 group-title="輪播影院",許氏三傑
+https://fmbox.cc/huya.php?id=11602033
+
+#EXTINF:-1 group-title="輪播影院",經典港片
+https://fmbox.cc/huya.php?id=11352965
+
+#EXTINF:-1 group-title="輪播影院",鏢行天下
+https://fmbox.cc/huya.php?id=11352969
+
+#EXTINF:-1 group-title="輪播影院",喜樂影院
+https://fmbox.cc/huya.php?id=21059580
+
+#EXTINF:-1 group-title="輪播影院",蘑菇影廳
+https://fmbox.cc/huya.php?id=11601981
+
+#EXTINF:-1 group-title="輪播影院",搞笑恐怖
+https://fmbox.cc/huya.php?id=11601960
+
+#EXTINF:-1 group-title="輪播影院",死神系列
+https://fmbox.cc/huya.php?id=11352903
+
+#EXTINF:-1 group-title="輪播影院",怪獸系列
+https://fmbox.cc/huya.php?id=21059554
+
+	
+
+
 
