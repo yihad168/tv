@@ -1978,7 +1978,11 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="音樂頻道",New K-Pop
+https://newidco-newkid-1-eu.plex.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="音樂頻道",YG TV
+https://newidco-ygtv-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="音樂頻道", MTV 80s
 http://chencai80088.ottclub.xyz/iptv/GM676ZPU74CU7Q/31558/index.m3u8
@@ -2023,6 +2027,69 @@ https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ290.png" group-title="音樂頻道",Vevo '70s
+https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJWcT.png" group-title="音樂頻道",Vevo '80s
+https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/02/pAIJ30H.png" group-title="音樂頻道",Vevo '90s
+https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXcIf.png" group-title="音樂頻道",Vevo 2K
+https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXRJS.png" group-title="音樂頻道",Vevo Pop
+https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音樂頻道",Vevo Hip-Hop
+https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIXWRg.png" group-title="音樂頻道",Vevo Country
+https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s21.ax1x.com/2024/12/03/pAIzR7n.png" group-title="音樂頻道",Vevo Retro Rock
+https://amg00056-vevotv-vevoretrorock-ono-yv23d.amagi.tv/playlist/amg00056-vevotv-vevoretrorock-ono/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音樂頻道",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音樂頻道",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="音樂頻道",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="音樂頻道",Xite Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="音樂頻道",XITE Rock x Metal
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="音樂頻道",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="音樂頻道",MTV2
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg" group-title="音樂頻道",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/220px-MTV_Live_2021_logo.svg.png" group-title="音樂頻道",MTV Live (United States)
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="mtvU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" group-title="音樂頻道",mtvU
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/BET_Jams_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230922123529" group-title="音樂頻道",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="音樂頻道",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="體育頻道",CCTV5
+https://mytv.cdn.com.mp/cctv5/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="體育頻道",CCTV5+
+https://mytv.cdn.com.mp/cctv5plus/index.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="體育頻道",廣電翡翠台
+https://mytv.cdn.com.mp/gdfeicuitai/index.m3u8
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="體育頻道",新視覺
+https://mytv.cdn.com.mp/gdxinshijue/index.m3u8
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="體育頻道",魅力足球
+https://mytv.cdn.com.mp/gdmeilizuqiu/index.m3u8
 
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
