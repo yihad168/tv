@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml,http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml,http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #MAIN DTV1 (720p)
 
@@ -912,181 +912,181 @@ https://qq01xp.serv00.net/litv.php?id=litv-longturn22
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="四季", 民視台灣台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv001
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv001
 #EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="四季", 民視第一台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv003
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="四季", 民視綜藝台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv004
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv004
 #EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="四季", 豬哥亮歌廳秀
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv006
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv006
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="四季", 中天新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv009
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="4gtv-4gtv010" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="四季", 非凡新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="四季", 影迷數位電影台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv011
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv011
 #EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="四季", 視納華仁紀實頻道
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv013
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv013
 #EXTINF:-1 tvg-id="4gtv-4gtv014" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="四季", 時尚運動X
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv014
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv014
 #EXTINF:-1 tvg-id="4gtv-4gtv018" tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="四季", 達文西頻道
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv018
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv018
 #EXTINF:-1 tvg-id="4gtv-4gtv034" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="四季", 八大精彩台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv034
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
 #EXTINF:-1 tvg-id="4gtv-4gtv039" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="四季", 八大綜藝台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv039
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
 #EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="四季", 中視
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv040
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv040
 #EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="四季", 華視
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv041
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv041
 #EXTINF:-1 tvg-id="4gtv-4gtv042" tvg-name="公視戲劇" tvg-logo="https://assets.livednow.com/logo/公視戲劇.png" group-title="四季", 公視戲劇
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv042
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv042
 #EXTINF:-1 tvg-id="4gtv-4gtv043" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="四季", 客家電視台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv043
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv043
 #EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="四季", 靖天卡通台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv044
 #EXTINF:-1 tvg-id="4gtv-4gtv045" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="四季", 靖洋戲劇台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv045
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv045
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="四季", 靖天綜合台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv046
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv046
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="四季", 靖天日本台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv047
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="四季", 非凡商業台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv048
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="四季", 采昌影劇台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv049
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv049
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://assets.livednow.com/logo/台視新聞.png" group-title="四季", 台視新聞
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv051
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="四季", 華視新聞
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv052
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv052
 #EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX Esports TV.png" group-title="四季", GINX Esports TV
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv053
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 #EXTINF:-1 tvg-id="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/Nice TV靖天歡樂台.png" group-title="四季", Nice TV靖天歡樂台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv054
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv054
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://assets.livednow.com/logo/靖天映畫.png" group-title="四季", 靖天映畫
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv055
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055
 #EXTINF:-1 tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://assets.livednow.com/logo/台視財經.png" group-title="四季", 台視財經
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv056
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv056
 #EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通Nice Bingo.png" group-title="四季", 靖洋卡通Nice Bingo
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv057
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv057
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="四季", 靖天戲劇台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv058
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv058
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://assets.livednow.com/logo/CLASSICA 古典樂.png" group-title="四季", CLASSICA 古典樂
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv059
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv059
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="四季", 靖天電影台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv061
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv061
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="四季", 靖天育樂台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv062
 #EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://assets.livednow.com/logo/KLT-靖天國際台.png" group-title="四季", KLT-靖天國際台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv063
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="四季", 中視菁采台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv064
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv064
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="四季", 靖天資訊台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv065
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="四季", 台視
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv066
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://assets.livednow.com/logo/TVBS精采台.png" group-title="四季", TVBS精采台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv067
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv067
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS歡樂台.png" group-title="四季", TVBS歡樂台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv068
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv068
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://assets.livednow.com/logo/愛爾達娛樂台.png" group-title="四季", 愛爾達娛樂台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv070
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv070
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://assets.livednow.com/logo/TVBS新聞.png" group-title="四季", TVBS新聞
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="四季", TVBS
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv073
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://assets.livednow.com/logo/中視新聞.png" group-title="四季", 中視新聞
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv074
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" tvg-logo="https://assets.livednow.com/logo/CATCHPLAY電影台.png" group-title="四季", CATCHPLAY電影台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv076
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv076
 #EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://assets.livednow.com/logo/TRACE Sport Stars.png" group-title="四季", TRACE Sport Stars
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv077
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv077
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/ARIRANG阿里郎頻道.png" group-title="四季", ARIRANG阿里郎頻道
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv079
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv079
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="四季", 中視經典台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv080
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv080
 #EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://assets.livednow.com/logo/TRACE Urban.png" group-title="四季", TRACE Urban
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv082
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv082
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo Live HD.png" group-title="四季", Mezzo Live HD
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv083
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv083
 #EXTINF:-1 tvg-id="國會頻道1台" tvg-name="國會頻道1台" tvg-logo="https://assets.livednow.com/logo/國會頻道1台.png" group-title="四季", 國會頻道1台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv084
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2台" tvg-name="國會頻道2台" tvg-logo="https://assets.livednow.com/logo/國會頻道2台.png" group-title="四季", 國會頻道2台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv085
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv085
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="四季", 智林體育台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv101
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv101
 #EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://assets.livednow.com/logo/東森購物1台.png" group-title="四季", 東森購物1台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv102
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv102
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://assets.livednow.com/logo/東森購物2台.png" group-title="四季", 東森購物2台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv103
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv103
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://assets.livednow.com/logo/第1商業台.png" group-title="四季", 第1商業台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv104
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv104
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="四季", 中天亞洲台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv109
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv109
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://assets.livednow.com/logo/東森新聞台.png" group-title="四季", 東森新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://assets.livednow.com/logo/東森財經新聞台.png" group-title="四季", 東森財經新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="四季", 民視
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv155
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv155
 #EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://assets.livednow.com/logo/VOA美國之音.png" group-title="四季", VOA美國之音
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv03
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv03
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="四季", 民視旅遊台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv07
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv07
 #EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="四季", 民視影劇台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv09
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv09
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="四季", 半島國際新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv10
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv10
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="四季", 民視新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13
 #EXTINF:-1 tvg-id="i-Fun動漫台" tvg-name="i-Fun動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun動漫台.png" group-title="四季", i-Fun動漫台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv15
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="四季", 好消息
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv16
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv16
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="四季", 好消息2台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv17
+https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv17
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="四季", 龍華卡通台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn01
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn01
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="四季", 龍華電影台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn03
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn03
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="四季", 博斯魅力台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn04
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn04
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="四季", 博斯高球台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn05
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn05
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="四季", 博斯高球二台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn06
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn06
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="四季", 博斯運動一台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn07
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn07
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="四季", 博斯運動二台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn08
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn08
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="四季", 博斯網球台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn09
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn09
 #EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="四季", 博斯無限台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn10
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn10
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="四季", 龍華日韓台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn11
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn11
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="四季", 龍華偶像台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn12
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn12
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="四季", 博斯無限二台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn13
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn13
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="四季", 寰宇新聞台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn14
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="四季", 寰宇新聞台灣台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn15
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn15
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="四季", 亞洲旅遊台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn17
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="四季", 龍華戲劇台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn18
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn18
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart知識台.png" group-title="四季", Smart知識台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn19
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn19
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://assets.livednow.com/logo/ELTV生活英語台.png" group-title="四季", ELTV生活英語台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn20
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn20
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="四季", 龍華經典台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn21
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21
 #EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="四季", 台灣戲劇台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn22
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn22
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="四季", 寰宇財經台
-http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn23
+https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn23
 
 
 
@@ -1311,6 +1311,21 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="台灣",新加坡中文
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="台灣",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/abc-australian-broadcasting-corporation2950.jpg" group-title="台灣", ABC (Australian Broadcast Corporation)
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png" group-title="台灣",BBC World News (GB)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="台灣", HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="台灣",電影輪播
 http://37.27.111.214:8080/live/15/hls.m3u8
 
@@ -1445,21 +1460,6 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn15
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" tvg-name="龍華經典" group-title="台灣",龍華經典
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1624,6 +1624,20 @@ http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="香港",翡翠台
+http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8 (v2h)
+#EXTINF:-1 group-title="香港",TVB無線華麗
+http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8 (v2h)
+#EXTINF:-1 group-title="香港",TVB無線功夫
+http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8 (v2h)
+#EXTINF:-1 group-title="香港",TVB星河
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8 (v2h)
+#EXTINF:-1 group-title="香港",TVB星河台
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8 (v2h)
+
+
 #EXTINF:-1 group-title="香港",TVB PLUS (cdn)
 http://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1 group-title="香港",鳳凰中文 (cdn)
@@ -1650,6 +1664,8 @@ https://cdn3.163189.xyz/live/fct/stream.m3u8
 https://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="香港",明珠台 (cdn)
 https://cdn5.163189.xyz/live/mzt/stream.m3u8
+
+
 
 
 
@@ -2103,9 +2119,34 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/47852.ts
 #EXTINF:-1 tvg-id="TNT-Sports-4" tvg-name="TNT SPORTS 4" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-4.png" group-title="體育頻道", TNT Sport 𝟜
 http://kstv.us:8080/live/tH300gvHff/8606073792/47853.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="體育頻道",UK | TNT Sports 1
+http://ky-iptv.com:80/MsLady2024/2024MsLady/1846762.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="體育頻道",UK | TNT Sports 2
+http://ky-iptv.com:80/MsLady2024/2024MsLady/1846763.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="體育頻道",UK | TNT Sports 3
+http://ky-iptv.com:80/MsLady2024/2024MsLady/1846764.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="體育頻道",UK | TNT Sports 4
+http://ky-iptv.com:80/MsLady2024/2024MsLady/1846765.ts
 
 
-
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="體育頻道",TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="體育頻道",TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN3" tvg-logo="https://i.ibb.co/z5RJ9Rj/TSN3.png" group-title="體育頻道",TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN4" tvg-logo="https://i.ibb.co/5KtsP33/TSN4.png" group-title="體育頻道",TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="體育頻道",TSN5
+https://a1xs.vip/6000005
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://pixvid.org/images/2025/02/07/SportsNet_Ontario.png" group-title="體育頻道",Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_One.png" group-title="體育頻道",Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://pixvid.org/images/2025/02/07/SportsNet_World.png" group-title="體育頻道",Sportsnet World FHD
+https://a1xs.vip/6000013
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="體育頻道",US | Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
 
 
 
@@ -2290,196 +2331,6 @@ http://live.nctv.top/huya.php?id=11352940
 
 
 
-	
-
-#EXTINF:-1 group-title="輪播影院",周星馳國語
-https://fmbox.cc/huya.php?id=11342412
-
-#EXTINF:-1 group-title="輪播影院",周星馳粵語
-https://fmbox.cc/huya.php?id=11336587
-
-#EXTINF:-1 group-title="輪播影院",李連傑
-https://fmbox.cc/huya.php?id=11342390
-
-#EXTINF:-1 group-title="輪播影院",林正英電影
-https://fmbox.cc/huya.php?id=11342421
-
-#EXTINF:-1 group-title="輪播影院",周潤發電影
-https://fmbox.cc/huya.php?id=11342387
-
-#EXTINF:-1 group-title="輪播影院",成龍電影
-https://fmbox.cc/huya.php?id=11342386
-
-#EXTINF:-1 group-title="輪播影院",洪金寶
-https://fmbox.cc/huya.php?id=11279251
-
-#EXTINF:-1 group-title="輪播影院",梁家輝
-https://fmbox.cc/huya.php?id=11342429
-
-#EXTINF:-1 group-title="輪播影院",許冠英
-https://fmbox.cc/huya.php?id=11601972
-
-#EXTINF:-1 group-title="輪播影院",劉德華
-https://fmbox.cc/huya.php?id=11342424
-
-#EXTINF:-1 group-title="輪播影院",斯坦森
-https://fmbox.cc/huya.php?id=21059588
-
-#EXTINF:-1 group-title="輪播影院",王晶電影
-https://fmbox.cc/huya.php?id=11602058
-
-#EXTINF:-1 group-title="輪播影院",沈騰電影
-https://fmbox.cc/huya.php?id=11601968
-
-#EXTINF:-1 group-title="輪播影院",黃渤電影
-https://fmbox.cc/huya.php?id=11352876
-
-#EXTINF:-1 group-title="輪播影院",光頭強森
-https://fmbox.cc/huya.php?id=21059581
-
-#EXTINF:-1 group-title="輪播影院",漫威電影
-https://fmbox.cc/huya.php?id=11602034
-
-#EXTINF:-1 group-title="輪播影院",宇宙威龍
-https://fmbox.cc/huya.php?id=11342428
-
-#EXTINF:-1 group-title="輪播影院",怪獸電影
-https://fmbox.cc/huya.php?id=21059577
-
-#EXTINF:-1 group-title="輪播影院",武俠電影
-https://fmbox.cc/huya.php?id=11342427
-
-#EXTINF:-1 group-title="輪播影院",警匪電影
-https://fmbox.cc/huya.php?id=11352886
-
-#EXTINF:-1 group-title="輪播影院",罪犯電影
-https://fmbox.cc/huya.php?id=11352962
-
-#EXTINF:-1 group-title="輪播影院",槍戰電影
-https://fmbox.cc/huya.php?id=21059579
-
-#EXTINF:-1 group-title="輪播影院",賽車電影
-https://fmbox.cc/huya.php?id=11279247
-
-#EXTINF:-1 group-title="輪播影院",推薦電影
-https://fmbox.cc/huya.php?id=11602041
-
-#EXTINF:-1 group-title="輪播影院",熱血電影
-https://fmbox.cc/huya.php?id=11352934
-
-#EXTINF:-1 group-title="輪播影院",盜墓電影
-https://fmbox.cc/huya.php?id=21059552
-
-#EXTINF:-1 group-title="輪播影院",賀歲電影
-https://fmbox.cc/huya.php?id=11601971
-
-#EXTINF:-1 group-title="輪播影院",玄幻電影
-https://fmbox.cc/huya.php?id=11342414
-
-#EXTINF:-1 group-title="輪播影院",諜戰電影
-https://fmbox.cc/huya.php?id=21059585
-
-#EXTINF:-1 group-title="輪播影院",喜劇電影
-https://fmbox.cc/huya.php?id=11352877
-
-#EXTINF:-1 group-title="輪播影院",港片電影
-https://fmbox.cc/huya.php?id=11602043
-
-#EXTINF:-1 group-title="輪播影院",國產電影
-https://fmbox.cc/huya.php?id=11352973
-
-#EXTINF:-1 group-title="輪播影院",八點檔
-https://fmbox.cc/huya.php?id=880261
-
-#EXTINF:-1 group-title="輪播影院",賀歲片
-https://fmbox.cc/huya.php?id=11601986
-
-#EXTINF:-1 group-title="輪播影院",功夫片
-https://fmbox.cc/huya.php?id=11352941
-
-#EXTINF:-1 group-title="輪播影院",黑幫片
-https://fmbox.cc/huya.php?id=11336719
-
-#EXTINF:-1 group-title="輪播影院",喪屍片
-https://fmbox.cc/huya.php?id=21059578
-
-#EXTINF:-1 group-title="輪播影院",災難片
-https://fmbox.cc/huya.php?id=11602075
-
-#EXTINF:-1 group-title="輪播影院",諜戰片
-https://fmbox.cc/huya.php?id=21059587
-
-#EXTINF:-1 group-title="輪播影院",戰爭片
-https://fmbox.cc/huya.php?id=21059574
-
-#EXTINF:-1 group-title="輪播影院",犯罪片
-https://fmbox.cc/huya.php?id=11352974
-
-#EXTINF:-1 group-title="輪播影院",古裝片
-https://fmbox.cc/huya.php?id=11336590
-
-#EXTINF:-1 group-title="輪播影院",高分動作
-https://fmbox.cc/huya.php?id=11352884
-
-#EXTINF:-1 group-title="輪播影院",動作電影
-https://fmbox.cc/huya.php?id=11602077
-
-#EXTINF:-1 group-title="輪播影院",搞笑喜劇
-https://fmbox.cc/huya.php?id=11342423
-
-#EXTINF:-1 group-title="輪播影院",喜劇專場
-https://fmbox.cc/huya.php?id=11602044
-
-#EXTINF:-1 group-title="輪播影院",歡笑影院
-https://fmbox.cc/huya.php?id=11352894
-
-#EXTINF:-1 group-title="輪播影院",不擠影院
-https://fmbox.cc/huya.php?id=11352897
-
-#EXTINF:-1 group-title="輪播影院",國產懸疑
-https://fmbox.cc/huya.php?id=11342395
-
-#EXTINF:-1 group-title="輪播影院",快意江湖
-https://fmbox.cc/huya.php?id=11342435
-
-#EXTINF:-1 group-title="輪播影院",黑幫鬥爭
-https://fmbox.cc/huya.php?id=11342419
-
-#EXTINF:-1 group-title="輪播影院",古墓系列
-https://fmbox.cc/huya.php?id=11352913
-
-#EXTINF:-1 group-title="輪播影院",嫣然影廳
-https://fmbox.cc/huya.php?id=11601977
-
-#EXTINF:-1 group-title="輪播影院",女神系列
-https://fmbox.cc/huya.php?id=11336571
-
-#EXTINF:-1 group-title="輪播影院",經典女神
-https://fmbox.cc/huya.php?id=11352909
-
-#EXTINF:-1 group-title="輪播影院",許氏三傑
-https://fmbox.cc/huya.php?id=11602033
-
-#EXTINF:-1 group-title="輪播影院",經典港片
-https://fmbox.cc/huya.php?id=11352965
-
-#EXTINF:-1 group-title="輪播影院",鏢行天下
-https://fmbox.cc/huya.php?id=11352969
-
-#EXTINF:-1 group-title="輪播影院",喜樂影院
-https://fmbox.cc/huya.php?id=21059580
-
-#EXTINF:-1 group-title="輪播影院",蘑菇影廳
-https://fmbox.cc/huya.php?id=11601981
-
-#EXTINF:-1 group-title="輪播影院",搞笑恐怖
-https://fmbox.cc/huya.php?id=11601960
-
-#EXTINF:-1 group-title="輪播影院",死神系列
-https://fmbox.cc/huya.php?id=11352903
-
-#EXTINF:-1 group-title="輪播影院",怪獸系列
-https://fmbox.cc/huya.php?id=21059554
 
 	
 
@@ -2871,6 +2722,264 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 MoveOnJoyTV USA Network 📺📡
 
+
+
+
+https://raw.githubusercontent.com/SakuraiJunior/CAS34/refs/heads/main/Cabacho_cable
+
+#EXTM3U
+#EXTINF:-1 group-title="Cabacho cable",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",BBC World News HD
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",BET Her
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Big Ten
+Network http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Bravo
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",CNN
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",CSPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Crime and Investigation
+http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Destination
+American http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Disney Channel
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Disney Junior
+http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Disney XD
+http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",E!
+http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",ESPN
+http://fl2.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",ESPN2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Food Network
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Fox Business
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Fox News
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",FoxSports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",FoxSports 2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Freeform
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Fuse HD
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",FX
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",FX Movie
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",FYI
+http://fl5.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Golf Channel
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Hallmark Channel
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Hallmark Drama
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HBO
+http://fl5.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HBO Comedy
+http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HBO 2
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HBO Family
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HBO Zone
+http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HGTV
+http://fl5.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Investigation
+Discovery http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",ION Television
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Lifetime
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Lifetime
+Movie http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Natgeo
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Natgeo Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",News Nation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Nick Jr.
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Nickelodeon
+http://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Nicktoons
+http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",OWN
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Reelz Channel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",STARZ
+http://212.102.60.231/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Showtime
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Sundance Channel
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",SyFy
+http://fl5.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",TBS
+http://fl2.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",TCM
+http://fl2.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8 
+#EXTINF:-1 group-title="Cabacho cable",The Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",TLC
+http://fl5.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",TNT
+http://fl5.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",Travel Channel
+http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",TruTV
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",TV One
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",VH1
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",VICE
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",WE tv
+http://fl2.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",WABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",WNBC
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",WCBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="Cabacho cable",WFOX
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab16hd/KenhCoBan",VTVcab 16 - On Football HD
+https://truyenhinh.click/vtvcab16
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab3hd/KenhCoBan",VTVcab 3 - On Sports
+http://truyenhinh.click/vtvcab3
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",VTVcab 23 - Golf Channel
+https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="越南" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://truyenhinh.click/vtvcab18
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab6hd/KenhCoBan",VTVcab 6 - On Sports +
+https://truyenhinh.click/vtvcab6
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab1hd/KenhCoBan",VTVcab 1 - Vie Giải Trí HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab2hd/KenhCoBan",VTVcab 2 - Phim Việt HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab10hd/KenhCoBan",VTVcab10 - On Cine HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab19hd/KenhCoBan",VTVcab19 – Vie Dramas
+https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab8hd/KenhCoBan",VTVcab 8 Bibi SD
+https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab21hd/KenhCoBan",VTVcab 21- Cartoon Kids HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab4hd/KenhCoBan",Vtvcab 4 – On Movies
+https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab5hd/KenhCoBan",VTVcab 5 - E Channel HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab12hd/KenhCoBan",VTVcab 12 - StyleTV HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab15hd/KenhCoBan",VTVcab15 – On Music
+https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab17hd/KenhCoBan",Vtvcab17 – Trending TV
+https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab20hd/KenhCoBan",VTVcab 20 - V Family HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab22hd/KenhCoBan",VTVcab 22 - Life TV HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab9hd/KenhCoBan",VTVcab 9 - InfoTV HD
+https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab13hd/KenhCoBan",VTVcab13-On Homeshopping
+https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="越南" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab7hd/KenhCoBan",O2TV
+https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="越南" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
+https://truyenhinh.click/kcinehd
+#EXTINF:-1 tvg-id="kaction" group-title="越南" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/01/03/16/1704275031605/a72d5eab8255_640_360.png", K+ACTION HD
+https://truyenhinh.click/kactionhd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="越南" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png", K+SPORT1 HD
+https://truyenhinh.click/ksport1hd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="越南" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
+https://truyenhinh.click/ksport2hd
+#EXTINF:-1 tvg-id="kkidshd" group-title="越南" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
+https://truyenhinh.click/kkidshd
+
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="越南",TVB Jade International
+https://truyenhinh.click/TVBJadeIntl
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="越南",TVB News International
+https://truyenhinh.click/TVBNewsIntl
 
 
 
