@@ -257,6 +257,72 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="中國咪咕",CCTV1
+http://107.174.52.32/itv.php?id=CCTV1
+#EXTINF:-1 group-title="中國咪咕",CCTV2
+http://107.174.52.32/itv.php?id=CCTV2
+#EXTINF:-1 group-title="中國咪咕",CCTV3
+http://107.174.52.32/itv.php?id=CCTV3
+#EXTINF:-1 group-title="中國咪咕",CCTV4
+http://107.174.52.32/itv.php?id=CCTV4
+#EXTINF:-1 group-title="中國咪咕",CCTV5
+http://107.174.52.32/itv.php?id=CCTV5
+#EXTINF:-1 group-title="中國咪咕",CCTV5+
+http://107.174.52.32/itv.php?id=CCTV5+
+#EXTINF:-1 group-title="中國咪咕",CCTV6
+http://107.174.52.32/itv.php?id=CCTV6
+#EXTINF:-1 group-title="中國咪咕",CCTV7
+http://107.174.52.32/itv.php?id=CCTV7
+#EXTINF:-1 group-title="中國咪咕",CCTV8
+http://107.174.52.32/itv.php?id=CCTV8
+#EXTINF:-1 group-title="中國咪咕",CCTV9
+http://107.174.52.32/itv.php?id=CCTV9
+#EXTINF:-1 group-title="中國咪咕",CCTV10
+http://107.174.52.32/itv.php?id=CCTV10
+#EXTINF:-1 group-title="中國咪咕",CCTV11
+http://107.174.52.32/itv.php?id=CCTV11
+#EXTINF:-1 group-title="中國咪咕",CCTV12
+http://107.174.52.32/itv.php?id=CCTV12
+#EXTINF:-1 group-title="中國咪咕",CCTV13
+http://107.174.52.32/itv.php?id=CCTV13
+#EXTINF:-1 group-title="中國咪咕",CCTV14
+http://107.174.52.32/itv.php?id=CCTV14
+#EXTINF:-1 group-title="中國咪咕",CCTV15
+http://107.174.52.32/itv.php?id=CCTV15
+#EXTINF:-1 group-title="中國咪咕",CCTV16
+http://107.174.52.32/itv.php?id=CCTV16
+#EXTINF:-1 group-title="中國咪咕",CCTV17
+http://107.174.52.32/itv.php?id=CCTV17
+#EXTINF:-1 group-title="中國咪咕",湖南衛視
+http://107.174.52.32/itv.php?id=湖南衛視
+#EXTINF:-1 group-title="中國咪咕",浙江衛視
+http://107.174.52.32/itv.php?id=浙江衛視
+#EXTINF:-1 group-title="中國咪咕",江蘇衛視
+http://107.174.52.32/itv.php?id=江蘇衛視
+#EXTINF:-1 group-title="中國咪咕",廣東衛視
+http://107.174.52.32/itv.php?id=廣東衛視
+#EXTINF:-1 group-title="中國咪咕",東方衛視
+http://107.174.52.32/itv.php?id=東方衛視
+#EXTINF:-1 group-title="中國咪咕",東南衛視
+http://107.174.52.32/itv.php?id=東南衛視
+#EXTINF:-1 group-title="中國咪咕",遼寧衛視
+http://107.174.52.32/itv.php?id=遼寧衛視
+#EXTINF:-1 group-title="中國咪咕",深圳衛視
+http://107.174.52.32/itv.php?id=深圳衛視
+#EXTINF:-1 group-title="中國咪咕",天津衛視
+http://107.174.52.32/itv.php?id=天津衛視
+#EXTINF:-1 group-title="中國咪咕",安徽衛視
+http://107.174.52.32/itv.php?id=安徽衛視
+#EXTINF:-1 group-title="中國咪咕",河北衛視
+http://107.174.52.32/itv.php?id=河北衛視
+#EXTINF:-1 group-title="中國咪咕",重慶衛視
+http://107.174.52.32/itv.php?id=重慶衛視
+#EXTINF:-1 group-title="中國咪咕",吉林衛視
+http://107.174.52.32/itv.php?id=吉林衛視
+#EXTINF:-1 group-title="中國咪咕",黑龍江衛視
+http://107.174.52.32/itv.php?id=黑龍江衛視
+
 #EXTM3U
 #EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
 http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
@@ -408,7 +474,7 @@ http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",Astro 欢喜台
 http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",FOX Sports 1 US
+#EXTINF:-1 group-title="AKTV",YES network
 http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",MTV LIVE US
 http://aktv-stream.m16tv.cfd/stream/tuntun/mtvliveus/AKTV.m3u8
@@ -421,70 +487,4 @@ http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
 #EXTINF:-1 group-title="AKTV",viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-
-
-#EXTINF:-1 group-title="中國咪咕",CCTV1
-http://107.174.52.32/itv.php?id=CCTV1
-#EXTINF:-1 group-title="中國咪咕",CCTV2
-http://107.174.52.32/itv.php?id=CCTV2
-#EXTINF:-1 group-title="中國咪咕",CCTV3
-http://107.174.52.32/itv.php?id=CCTV3
-#EXTINF:-1 group-title="中國咪咕",CCTV4
-http://107.174.52.32/itv.php?id=CCTV4
-#EXTINF:-1 group-title="中國咪咕",CCTV5
-http://107.174.52.32/itv.php?id=CCTV5
-#EXTINF:-1 group-title="中國咪咕",CCTV5+
-http://107.174.52.32/itv.php?id=CCTV5+
-#EXTINF:-1 group-title="中國咪咕",CCTV6
-http://107.174.52.32/itv.php?id=CCTV6
-#EXTINF:-1 group-title="中國咪咕",CCTV7
-http://107.174.52.32/itv.php?id=CCTV7
-#EXTINF:-1 group-title="中國咪咕",CCTV8
-http://107.174.52.32/itv.php?id=CCTV8
-#EXTINF:-1 group-title="中國咪咕",CCTV9
-http://107.174.52.32/itv.php?id=CCTV9
-#EXTINF:-1 group-title="中國咪咕",CCTV10
-http://107.174.52.32/itv.php?id=CCTV10
-#EXTINF:-1 group-title="中國咪咕",CCTV11
-http://107.174.52.32/itv.php?id=CCTV11
-#EXTINF:-1 group-title="中國咪咕",CCTV12
-http://107.174.52.32/itv.php?id=CCTV12
-#EXTINF:-1 group-title="中國咪咕",CCTV13
-http://107.174.52.32/itv.php?id=CCTV13
-#EXTINF:-1 group-title="中國咪咕",CCTV14
-http://107.174.52.32/itv.php?id=CCTV14
-#EXTINF:-1 group-title="中國咪咕",CCTV15
-http://107.174.52.32/itv.php?id=CCTV15
-#EXTINF:-1 group-title="中國咪咕",CCTV16
-http://107.174.52.32/itv.php?id=CCTV16
-#EXTINF:-1 group-title="中國咪咕",CCTV17
-http://107.174.52.32/itv.php?id=CCTV17
-#EXTINF:-1 group-title="中國咪咕",湖南衛視
-http://107.174.52.32/itv.php?id=湖南衛視
-#EXTINF:-1 group-title="中國咪咕",浙江衛視
-http://107.174.52.32/itv.php?id=浙江衛視
-#EXTINF:-1 group-title="中國咪咕",江蘇衛視
-http://107.174.52.32/itv.php?id=江蘇衛視
-#EXTINF:-1 group-title="中國咪咕",廣東衛視
-http://107.174.52.32/itv.php?id=廣東衛視
-#EXTINF:-1 group-title="中國咪咕",東方衛視
-http://107.174.52.32/itv.php?id=東方衛視
-#EXTINF:-1 group-title="中國咪咕",東南衛視
-http://107.174.52.32/itv.php?id=東南衛視
-#EXTINF:-1 group-title="中國咪咕",遼寧衛視
-http://107.174.52.32/itv.php?id=遼寧衛視
-#EXTINF:-1 group-title="中國咪咕",深圳衛視
-http://107.174.52.32/itv.php?id=深圳衛視
-#EXTINF:-1 group-title="中國咪咕",天津衛視
-http://107.174.52.32/itv.php?id=天津衛視
-#EXTINF:-1 group-title="中國咪咕",安徽衛視
-http://107.174.52.32/itv.php?id=安徽衛視
-#EXTINF:-1 group-title="中國咪咕",河北衛視
-http://107.174.52.32/itv.php?id=河北衛視
-#EXTINF:-1 group-title="中國咪咕",重慶衛視
-http://107.174.52.32/itv.php?id=重慶衛視
-#EXTINF:-1 group-title="中國咪咕",吉林衛視
-http://107.174.52.32/itv.php?id=吉林衛視
-#EXTINF:-1 group-title="中國咪咕",黑龍江衛視
-http://107.174.52.32/itv.php?id=黑龍江衛視
 
