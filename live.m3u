@@ -7306,5 +7306,124 @@ https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
 
 
 
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gOhE6yllcA5xbiLGu25l09IHBy9.jpg" tvg-name="X戰警" group-title="2000",X戰警
+https://api.heimuer.app/play/36b574fda494410fadc61e141642925f.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bIgHDHZNL3Uba9rXbMwlbYAmV2i.jpg" tvg-name="X戰警2" group-title="2003",X戰警2
+https://api.heimuer.app/play/32279e72d4a2434c9282d85c6b43e1d3.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6zNIYOmAgEfK0BWiJ9faqYlfUv2.jpg" tvg-name="X戰警：天啟" group-title="2016",X戰警：天啟
+https://api.heimuer.app/play/208a54d902674488bf5309ec3f892775.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tHKsPug3ykp4NNNQHPcyyRT2pOa.jpg" tvg-name="X戰警：最後戰役" group-title="2006",X戰警：最後戰役
+https://api.heimuer.app/play/4f8cdaabebe542048cd31ae6bbb92bd8.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pzgglbFb1Tyota0G0th6OG2x89i.jpg" tvg-name="X戰警：未來昔日" group-title="2014",X戰警：未來昔日
+https://api.heimuer.app/play/426b3f23f9204a0b9108ebfd53ddeaa8.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/coAoJYCrdD0EtZM024DpWEaSirp.jpg" tvg-name="X戰警：第一戰" group-title="2011",X戰警：第一戰
+https://api.heimuer.app/play/324997b50ae14c2092585fb78b1ad2e7.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sjmLm2t2asY5RcCtVouhzK62LuR.jpg" tvg-name="X戰警：金鋼狼" group-title="2009",X戰警：金鋼狼
+https://api.heimuer.app/play/f761be314367494e9ca1f109c4c4a320.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sIWUZRGnNXmPl7zX5IqjwjfBYKY.jpg" tvg-name="X戰警：黑鳳凰" group-title="2019",X戰警：黑鳳凰
+https://api.heimuer.app/play/1b236428522345a396a1683d19dfe0f1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8CIlKZRWA6LjudZ87mw8DUcni7m.jpg" tvg-name="奇異博士" group-title="2016",奇異博士
+https://api.heimuer.app/play/e571ea733e9c435dbecf07cfbc6d00ee.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x4IpU9xSyG1TR9kf0w2vyS6zlmr.jpg" tvg-name="尚氣與十環傳奇" group-title="2021",尚氣與十環傳奇
+https://v.gsuus.com/play/7e575vZb/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xCOFfuGNCLPmYkoKvtHQuKhQlXE.jpg" tvg-name="復仇者聯盟" group-title="2012",復仇者聯盟
+https://api.heimuer.app/play/7f65d3c0abea4a79932ad9f25ce59ea0.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vnqTgYrnS9dnq9y6gzpR69vsiNu.jpg" tvg-name="復仇者聯盟2：奧創紀元" group-title="2015",復仇者聯盟2：奧創紀元
+https://api.heimuer.app/play/3e37fa71ab38405386109af3a8828401.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oK7IP8Yx4pTgZSFE8RD74pwlJtW.jpg" tvg-name="復仇者聯盟：無限之戰" group-title="2018",復仇者聯盟：無限之戰
+https://api.heimuer.app/play/4a59a9e9252e461d938f3bff0087dcbd.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fXgoEedB0k5TgaYrBqbY3eZ3DAI.jpg" tvg-name="復仇者聯盟：終局之戰" group-title="2019",復仇者聯盟：終局之戰
+https://api.heimuer.app/play/e9b2376923544d9982cf9f6c88fe3ed9.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wWzGAWmdX7IL1mOYyhiYKso0FrI.jpg" tvg-name="惡棍英雄：死侍" group-title="2016",惡棍英雄：死侍
+https://api.heimuer.app/play/df2252ba94b149abaeca0c0b7c86f5f8.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2taB1JipSAqHTzySTYRIErva5yF.jpg" tvg-name="惡靈戰警" group-title="2007",惡靈戰警
+https://api.heimuer.app/play/7ac2ab509ca244d0aa848831c06c900a.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c45b22nDGdQtDilq7HnvNH052zi.jpg" tvg-name="星際異攻隊" group-title="2014",星際異攻隊
+https://api.heimuer.app/play/12c51487da8b4a02b72744f33a15ac43.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iZrNmGAxk6Njd1Vtn06K3l2DG1N.jpg" tvg-name="星際異攻隊 聖誕特別篇" group-title="2022",星際異攻隊 聖誕特別篇
+https://api.heimuer.app/play/7b4514bcd8f640709d868dc3d29fd56b.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wTLVbBmU0pX6qe5yog8LK4hY1oB.jpg" tvg-name="星際異攻隊2" group-title="2017",星際異攻隊2
+https://api.heimuer.app/play/5f17348f047a4648bfe4060af01c9d01.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jMT8lBFvumcwSszkMJ31ebSop5U.jpg" tvg-name="星際異攻隊3" group-title="2023",星際異攻隊3
+https://v3.tlkqc.com/wjv3/202405/07/JMhKPYK1xt75/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bayuSjvXdjBnSrakIpDCIJ905R9.jpg" tvg-name="暗夜狼人" group-title="2022",暗夜狼人
+https://api.heimuer.app/play/8f77525688e746e086488bda0e431831.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w1uOUl1vmLkZHSVSd2kC2YRf57E.jpg" tvg-name="死侍2" group-title="2018",死侍2
+https://api.heimuer.app/play/21da348947ea426ea73a49b8c1962d05.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wjVZAMWgfPfn2ALtLkUJY88ZySm.jpg" tvg-name="死侍與金鋼狼" group-title="2024",死侍與金鋼狼
+https://v10.tlkqc.com/wjv10/202407/28/JXAEZtg1dS82/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xazhHxoSlNIh4GczfxzgRcXxIAU.jpg" tvg-name="永恆族" group-title="2021",永恆族
+https://api.heimuer.app/play/13e4f48372c648a0b3d1d39d206eed42.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7teeGNoJxnXgD323YPoEGQO4hri.jpg" tvg-name="無敵浩克" group-title="2008",無敵浩克
+https://api.heimuer.app/play/76903273e36746d3af61d65e4866d447.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wdwK7nkdlKAClskXgbjvXoRIB4o.jpg" tvg-name="猛毒" group-title="2018",猛毒
+https://api.heimuer.app/play/4a99b0b1392840ab96029d17a199c21a.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKyv2X2ZCrjhx9fr74PhzOGC4d2.jpg" tvg-name="猛毒最終章：最後一舞" group-title="2024",猛毒最終章：最後一舞
+https://m3u8.hmrvideo.com/play/5be93f59ce0d4c3e864085867df1d26a.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7tLUyK2wI4TWJ9HQKoNAXoL3QIg.jpg" tvg-name="獵人克萊文" group-title="2024",獵人克萊文
+https://v5.tlkqc.com/wjv5/202412/15/HrvsVn0tez77/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ozXvopXv1TiOTls8zb09dBmu9dt.jpg" tvg-name="王者萬歲" group-title="2014",王者萬歲
+https://play.modujx16.com/20240922/9MTfmifs/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ccvSJdcMsb6Wi1JRDrgkZKa9vpr.jpg" tvg-name="綠巨人浩克" group-title="2003",綠巨人浩克
+https://api.heimuer.app/play/c70bf3af4c634dcebc32093002e56b8f.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iSBCI0dosMBU85Ksc4g6kdOgQYZ.jpg" tvg-name="美國隊長" group-title="2011",美國隊長
+https://api.heimuer.app/play/07c8a693bbaa4a9b864ccbc5b3a88abb.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9559qINSm9ef3e2YHwOSfgwOaRD.jpg" tvg-name="美國隊長2：酷寒戰士" group-title="2014",美國隊長2：酷寒戰士
+https://api.heimuer.app/play/c5f804b9dee844b490bbc76efb5ee65f.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pR9I3b3GlTAsMm8ZI4UBi4d81Rb.jpg" tvg-name="美國隊長3：英雄內戰" group-title="2016",美國隊長3：英雄內戰
+https://api.heimuer.app/play/055eef9a1bad4c0294c7599ecd81cbef.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/psHIF8qX6g2RfxBHGKmAWenlPo8.jpg" tvg-name="美國隊長：無畏新世界" group-title="2025",美國隊長：無畏新世界
+https://v11.tlkqc.com/wjv11/202502/14/NdD6CQj4u183/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1PCbXfJSmrzn7hT6TiCqEnMXphy.jpg" tvg-name="蜘蛛人" group-title="2002",蜘蛛人
+https://api.heimuer.app/play/22fd8309549749bfa00772b06884efba.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqGq0oAfMdDqlVLUHfwXQpdXqMp.jpg" tvg-name="蜘蛛人2" group-title="2004",蜘蛛人2
+https://api.heimuer.app/play/cc7270eec73446d2a35009ba254836a2.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r475OTZndh5dhVPZK7rcRoEzdE7.jpg" tvg-name="蜘蛛人3" group-title="2007",蜘蛛人3
+https://api.heimuer.app/play/d6c64565bda54d6d9e71341dff7ad7bf.m3u8
+#EXTINF:-1 tvg-logo="https://www.movieffm.net/wp-content/uploads/2017/07/蜘蛛人5：返校日-Spider-Man-Homecoming_Movieffm免費電影線上看-185x278.jpg" tvg-name="蜘蛛人5：返校日" group-title="2017",蜘蛛人5：返校日
+https://api.heimuer.app/play/0128be75ee9e4da3ac47684499f5e80a.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/trwRKA0X5AogKNH6HepVePyj4Dm.jpg" tvg-name="蜘蛛人驚奇再起 2：電光之戰" group-title="2014",蜘蛛人驚奇再起 2：電光之戰
+https://api.heimuer.app/play/b2d85bf938aa49b18d9359502cb5c38e.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fm3fiiKCTJip2UAn78XJ8Avo49i.jpg" tvg-name="蜘蛛人：無家日" group-title="2021",蜘蛛人：無家日
+https://api.heimuer.app/play/d12f5459cc3c453daa781c29399ea349.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iBkhkeCow6viMRn12FSPjpMHwYs.jpg" tvg-name="蜘蛛人：離家日" group-title="2019",蜘蛛人：離家日
+https://api.heimuer.app/play/48ef16f2d22c4f6bb4ba544a99a616ee.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6DyaLGqrgzoTDCxoOJCaqkWnwKH.jpg" tvg-name="蜘蛛人：驚奇再起" group-title="2012",蜘蛛人：驚奇再起
+https://api.heimuer.app/play/de8b8d26784541bdaf76d19be2c164d9.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vX6F4dv9AavdVbLE0C6N3mwLqnw.jpg" tvg-name="蜘蛛夫人" group-title="2024",蜘蛛夫人
+https://api.heimuer.app/play/2dfaddd5d8254e94914c00779152a1a4.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2DvCGnl4MUFeWWw660P7fJPEVag.jpg" tvg-name="蟻人" group-title="2015",蟻人
+https://api.heimuer.app/play/81c0ac05439a45ff8ed51f567226a1f9.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/unPR23Fhg7D5Dgp03kb6HvwmZtB.jpg" tvg-name="蟻人與黃蜂女" group-title="2018",蟻人與黃蜂女
+https://api.heimuer.app/play/a593ff0a9da347859aed9247593d2485.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8puhf8k4uA0zcBA8MEQ6OdNeYn3.jpg" tvg-name="變種人" group-title="2020",變種人
+https://ikcdn01.ikzybf.com/20221008/eP842cKX/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5GZrq4e3SXYrdTpCBzvu1W3kVnN.jpg" tvg-name="金鋼狼：武士之戰" group-title="2013",金鋼狼：武士之戰
+https://api.heimuer.app/play/2311976b433a4b5fb3dad06f0185bd0b.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qU3aDPWKYWrWIjpt5H8Eyiwyk8h.jpg" tvg-name="鋼鐵人" group-title="2008",鋼鐵人
+https://api.heimuer.app/play/9d757798c61441baa7ff73d24fb47b9c.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rMD95uJO8y49ICfOtRKlT0DH0OP.jpg" tvg-name="鋼鐵人2" group-title="2010",鋼鐵人2
+https://api.heimuer.app/play/75f50898f67d4f5b885edb56c1a44780.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/asLADIVrvaDw5D3jynVBY7sAg0E.jpg" tvg-name="鋼鐵人3" group-title="2013",鋼鐵人3
+https://api.heimuer.app/play/6118fb35cb2348e692de938dda3f877c.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9oEYTuAszZ3bAm6HsC9Ce9bfvRE.jpg" tvg-name="雷神索爾" group-title="2011",雷神索爾
+https://api.heimuer.app/play/5915d60c109b4dd99750b7846eaad22a.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hcE3W9QWPX84PU1fUEeVSZWj85b.jpg" tvg-name="雷神索爾 3：諸神黃昏" group-title="2017",雷神索爾 3：諸神黃昏
+https://api.heimuer.app/play/f1f859db07ff4eb59717e9f47b7f20e8.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p5IU1EmZwqJBhcx8LICBdpjrT4.jpg" tvg-name="雷神索爾2：黑暗世界" group-title="2013",雷神索爾2：黑暗世界
+https://api.heimuer.app/play/7c0879b6815848e8be39ea46591cfe7d.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/akxMVW4vX0CtDcxz4T9dGIRB2C1.jpg" tvg-name="雷神索爾：愛與雷霆" group-title="2022",雷神索爾：愛與雷霆
+https://ukzy.ukubf3.com/20220908/QZHuYvPm/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dfkPx9scDnzUhYqxzgr5RVn5rIy.jpg" tvg-name="驚奇隊長" group-title="2019",驚奇隊長
+https://api.heimuer.app/play/3aee9815f4a4464f8733f1c84e990232.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3b8VyzOHZKBTnbLGR7PriCV1C06.jpg" tvg-name="驚奇隊長2" group-title="2023",驚奇隊長2
+https://api.heimuer.app/play/aad0ca35873045df94148df7b69bdbcb.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wZxIikqnxLx2peKdhQPcuK4ofV7.jpg" tvg-name="黑寡婦" group-title="2021",黑寡婦
+https://ikcdn01.ikzybf.com/20221009/vVxpbr4q/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6u3aQmsLzyVJxI4T0OtPsMm2f4c.jpg" tvg-name="黑豹" group-title="2018",黑豹
+https://api.heimuer.app/play/28f4ec5f9d8d4ec79730557ae868705b.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kWZVSvphubLXC8LzwxiBmVAjGXV.jpg" tvg-name="黑豹2：瓦干達萬歲" group-title="2022",黑豹2：瓦干達萬歲
+https://v1.tlkqc.com/wjv1/202308/19/nRBdPN6pGu2/video/index.m3u8
 
 
