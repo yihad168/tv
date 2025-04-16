@@ -827,8 +827,8 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",1212pp
+http://kenneth001.serv00.net/1212pp.php
 
 
 http://aktv.top/live.m3u
