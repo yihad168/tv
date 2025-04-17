@@ -565,10 +565,202 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730895689/ei/6
 #EXTINF:-1group-title="Youtube live" tvg-logo="",Anileap アニリープ (youtube live)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730849146/ei/GlUqZ7TGHpmDi9oPu83ssQI/ip/92.205.5.93/id/4FBW3mkdKOs.19/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324825/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVOKw3ZoQ_7fg2yWTk2x8xKB0sUEryMPVnd3sSSkuVvHS863b03fFpXRL4M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCI3tatxdbBbdBxTBAVUtVxLHXfJeDCVfrP_gIXC-hzwCIQCkviGU4pcttianU3J9Q36ngJ7_iScu1qsIMnCGk4_4GQ%3D%3D/file/index.m3u8
 
+*********************************************************************************************************
+
+
+LOS ANGELES CHANNEL,#genre# 
+
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",ABC (KABC)
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1239
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",CBS (KCAL)
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1514
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",CBS (KCBS)
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1404
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",CBSN LOS ANGELES
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1051
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",CW (KTLA 5)
+,http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=2031
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",FOX (KTTV)
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1682
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",NBC (KNBC)
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1836
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",PBS (KCET - LOS ANGELES)
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=2260
+#EXTINF:-1 group-title="KROOZTV-LOS ANGELES CHANNEL",SPECTRUM NEWS LOS ANGELES
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=999
 
 
 
 
+
+CHINESE CHANNEL,#genre#
+
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",CCTC-4
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=705863
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",CCTC-4 EUROPE
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=62809
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",CCTC-4 EUROPE
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=689761
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",CCTC-4 AMERICA
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=303900
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",FAIRCHILD TV 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=3887
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",FAIRCHILD TV WEST
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=3885
+#EXTINF:-1 group-title="KROOZTV-CHINESE CHANNEL",FAIRCHILD TV EAST
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=3886
+
+
+
+
+NEWS CHANNEL,#genre#
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",ABC NEWS LIVE
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1067
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",AFRICA NEWS
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=704425
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",AL JAZEERA ENG
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=276572
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",BBC WORLD NEWS
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1065
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",BLOOMBERG
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1062
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CBC NEWS CANADA
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=3848
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CBS NEWS 24/7
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1057
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CGTN NEWS
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1046
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CNA
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=705854
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CNBC
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1043
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CNBC WORLD
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1042
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CNN
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1041
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",CNN INTERNATIONAL
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1040
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",DEUTSCHE WELLE
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=7835
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",EURONEWS
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277192
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",FOX BUSINESS NETWORK
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1039
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",FOX NEWS CHANNEL
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1038
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",FOX LIVE NOW
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=993
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",FOX WEATHER
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=994
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",FRANCE 24
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1037
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",MSNBC
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1034
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",NBC NEWS NOW
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=992
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",RTE NEWS
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277185
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",RUSSIA TODAY
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=1021
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",SKY NEWS
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277190
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",THE WEATHER CHANNEL FHD 1080
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=369
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",TVG
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=836
+#EXTINF:-1 group-title="KROOZTV-NEWS CHANNEL",TVG2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=835
+
+
+
+SPORTS CHANNEL,#genre#
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715574
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715573
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 3
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715572
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 4
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715571
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 5
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715570
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 6
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715569
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 7
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715568
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS EPL 8
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715567
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715566
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715565
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 3
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715564
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 4
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715563
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 5
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715562
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 6
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715561
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS 7
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715560
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",NOW SPORTS PRIME
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=715559
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",TRUE PREMIER FOOTBALL 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=663774
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",TRUE PREMIER FOOTBALL 2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=663771
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",TRUE PREMIER FOOTBALL 3
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=663767
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",TRUE PREMIER FOOTBALL 4
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=663765
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",TRUE BEIN SPORTS 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=663722
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",TRUE BEIN SPORTS 2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=663721
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707929
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707928
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 3
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707927
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 4
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707926
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 5
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707925
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 6
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707924
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 7
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707923
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 8
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707922
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS 9
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707921
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS EN 1
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707920
+#EXTINF:-1 group-title="KROOZTV-SPORTS CHANNEL",BEIN SPORTS EN 2
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=707918
+
+
+
+MUSIC CHANNEL,#genre#
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",NOW 80s
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277158
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",NOW 90s
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277159
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",MTV CLASSIC 80s
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277162
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",MTV CLASSIC 90s
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277163
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",MTV NOW
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277161
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",MUSIC VOX TV
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=277168
+#EXTINF:-1 group-title="KROOZTV-MUSIC CHANNEL",iCONCERT
+http://krooztv.live:80/play/live.php?extension=ts&mac=00:1A:79:D1:04:17&stream=689427
+
+
+*********************************************************************************************************
 
 #EXTM3U url-tvg="http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw"
 
