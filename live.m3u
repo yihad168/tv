@@ -28,68 +28,26 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi)
 http://vthanh.utako.moe/NHK_G/index.m3u8 
 
-#EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi TEST)
-http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8 
-
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi)
 http://vthanh.utako.moe/NHK_E/index.m3u8 
-
-#EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi TEST)
-http://tv.utako.moe/nhke/index.m3u8 
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi)
 http://vthanh.utako.moe/Nippon_TV/index.m3u8 
 
-#EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi TEST)
-http://tv.utako.moe/ntv/index.m3u8 
-
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi)
 http://vthanh.utako.moe/TBS/index.m3u8 
-
-#EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi TEST)
-http://tv.utako.moe/tbs/index.m3u8 
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi)
 http://vthanh.utako.moe/Fuji_TV/index.m3u8 
 
-#EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi TEST)
-http://tv.utako.moe/fuji/index.m3u8 
-
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi)
 http://vthanh.utako.moe/TV_Asahi/index.m3u8 
-
-#EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi TEST)
-http://tv.utako.moe/asahi/index.m3u8 
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8 
 
-#EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi TEST)
-http://tv.utako.moe/tvtokyo/index.m3u8 
-
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi)
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8 
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (vthanhtivi TEST)
-http://tv.utako.moe/mx1/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＴＯＫＹＯ　ＭＸ２.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2 (vthanhtivi TEST)
-http://tv.utako.moe/mx2_testsignal/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="chiba_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Chiba_TV_logo.jpg",千葉テレビ  (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/chibatv/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/250px-Tvk_logo.svg.png", テレビ神奈川 (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/tvk/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tss_logo.svg/1920px-Tss_logo.svg.png", テレビ新広島 (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/tss/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="uxtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/200px-Niigata_UX_logo.svg.png", uxtv (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/ux21/index.m3u8
-
-#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="teletama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png", Teletama (vthanhtivi TEST)
-http://r3jx.djtmewibu.com/tvs/index.m3u8
 
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="ＭＢＳ毎日放送・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
 http://luong.utako.moe/mbs/index.m3u8
@@ -291,7 +249,25 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&b
 #EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (vthanhtivi)
 http://vthanh.utako.moe/NHK_BS/index.m3u8 
 
-#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BS11イレブン.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11  
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
+http://luong.utako.moe/bsp4k/index.m3u8
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="ＢＳ日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
+http://luong.utako.moe/bsntv/index.m3u8
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="ＢＳ朝日.jp" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
+http://luong.utako.moe/bsasahi/index.m3u8
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="ＢＳ-ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
+http://luong.utako.moe/bstbs/index.m3u8
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="ＢＳテレ東.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
+http://luong.utako.moe/bstvtokyo/index.m3u8
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="ＢＳフジ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
+http://luong.utako.moe/bsfuji/index.m3u8
+
+#EXTINF:-1 group-title="BS3 (vthanhtivi)" tvg-id="BS11イレブン.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 http://vthanh.utako.moe/BS11/index.m3u8
 
 #EXTINF:-1 tvg-id="BSアニマックス.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS3 (vthanhtivi)",BSアニマックス (vthanhtivi)
@@ -381,13 +357,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 #EXTINF:-1 group-title="CS1 (720p)" tvg-id=" TBSチャンネル1　最新ドラマ・音楽・映画 .jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBSチャンネル1 最新ドラマ・音楽・映画  (vthanhtivi TEST)
-https://luong.utako.moe/tbsch1/index.m3u8  
+https://luong.utako.moe/tbsch1/index.m3u8 
 
 #EXTINF:-1 group-title="CS1 (720p)" tvg-id=" TBSチャンネル2　名作ドラマ・スポーツ・アニメ .jp" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBSチャンネル2 名作ドラマ・スポーツ・アニメ  (vthanhtivi TEST)
-https://luong.utako.moe/tbsch2/index.m3u8 
+https://luong.utako.moe/tbsch2/index.m3u8
 
 #EXTINF:-1 group-title="CS1 (720p)" tvg-id="音楽・ライブ！　スペースシャワーＴＶ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg", スペースシャワーTV   (vthanhtivi TEST)
 http://luong.utako.moe/spaceshower/index.m3u8  
+
+#EXTINF:-1 group-title="CS1 (720p)" tvg-id="ミュージック・ジャパンTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 
 #CS2 (vthanhtivi)
 
@@ -565,7 +544,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730895689/ei/6
 #EXTINF:-1group-title="Youtube live" tvg-logo="",Anileap アニリープ (youtube live)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730849146/ei/GlUqZ7TGHpmDi9oPu83ssQI/ip/92.205.5.93/id/4FBW3mkdKOs.19/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324825/txs/51324825%2C51324826%2C51324827%2C51324828/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAVOKw3ZoQ_7fg2yWTk2x8xKB0sUEryMPVnd3sSSkuVvHS863b03fFpXRL4M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCI3tatxdbBbdBxTBAVUtVxLHXfJeDCVfrP_gIXC-hzwCIQCkviGU4pcttianU3J9Q36ngJ7_iScu1qsIMnCGk4_4GQ%3D%3D/file/index.m3u8
 
+
+
+
+
 *********************************************************************************************************
+
+
+
 
 
 LOS ANGELES CHANNEL,#genre# 
@@ -1024,6 +1010,174 @@ http://kenneth001.serv00.net/1212pp.php
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",porn
 http://kenneth001.serv00.net/porn.php
 
+
+***************************************************************************
+
+
+#EXTINF:-1 tvg-id="755409" tvg-name="F1-TV Pro" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏎F1-賽事🏎",F1-TV Pro {有比赛才有画面}
+https://v4-681c4e93f62c2089d39b368c6a1858bd.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8782226.m3u8?auth_info=fxCkyD2XXvWKxH9Wz6FUWTE0ETE2nxMsbrqOSLyK%2FVg%3D.69777178706d7643785756454a4f7830&user_session_id=a165c37e7258f1c991a2cb28fe6ca8c0&edge_slice=true&sub_m3u8=true
+#EXTINF:-1 tvg-id="755409" tvg-name="F1-TV Pro" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏎F1-賽事🏎",F1-TV Pro {有比赛才有画面}
+https://v4-4189b4b42431826a3b9f8009cbaba21a.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8781902.m3u8?sub_m3u8=true&auth_info=oK4FCf9IeZhYy6dzEHeg8RYI1kOIrv0RWVJjP8FObPY%3D.65705941546643733331387176636633&edge_slice=true&user_session_id=1eff74c815ba83221ed39195f53b0ee8
+#EXTINF:-1 tvg-id="755409" tvg-name="F1-TV Pro" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏎F1-賽事🏎",F1-TV Pro
+http://nocable.cc:8080//OURTV/OURTV@4806/125947
+#EXTINF:-1 tvg-id="755409" tvg-name="F1-TV Pro" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="🏎F1-賽事🏎",F1-TV Pro
+http://fortv.cc:8080//Gizvid153@giz.com/1234@4321/125947
+
+#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="🏎F1-賽事🏎",Sky Sport F1
+http://nocable.cc:8080//OURTV/OURTV@4806/35244
+#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="🏎F1-賽事🏎",Sky Sport F1
+http://fortv.cc:8080//Gizvid153@giz.com/1234@4321/35244
+#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="🏎F1-賽事🏎",Sky Sport F1
+http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001372
+#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://logo.doube.eu.org/beesport/SKY_SPORTS_F1.png" group-title="🏎F1-賽事🏎",Sky Sport F1
+http://doubleclicktv.live//70376812/52663544/706099
+#EXTINF:-1 tvg-id="755409" tvg-name="SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="🏎F1-賽事🏎",DAZN F1
+http://norhrgr.top:8080/7171715430370162/a270731d8ac9/57486
+
+
+#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-賽事🏎",Sky Sport F1 4K {有比赛才有画面}
+https://pullhw.zhaoyangyang.cn/live/8782066.m3u8?auth_info=ZfICBUqY7uNX5o0gDjpxXqoZ6Ax%2BeeWN5v63jdONhDA%3D.384746684a5167346e69615a756e4456
+#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-賽事🏎",Sky Sport F1 4K
+http://doubleclicktv.live//70376812/52663544/706094
+#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-賽事🏎",Sky Sport F1 4K
+http://vocotv.pro:8080/IPTV123/IPTV123/620667
+#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-賽事🏎",Sky Sport F1 4K
+http://vocotv.pro:8080/IPTV123/IPTV123/706094
+#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-賽事🏎",Sky Sport F1 4K
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="778247" tvg-name="Sky Sport F1 4K" tvg-logo="https://i.imgur.com/FmLJRIq.png" group-title="🏎F1-賽事🏎",Sky Sport F1 4K
+http://nocable.cc:8080//OURTV/OURTV@4806/35244
+
+
+#EXTINF:-1 tvg-id="336" tvg-name="SPORTS: GOLF CHANNEL" tvg-logo="https://golf.com/wp-content/uploads/2022/03/golf-channel-logo.jpg" group-title="⛳️高爾夫賽事⛳️",US| GOLF CHANNEL 60fps
+http://doubleclicktv.live/70376812/52663544/897
+#EXTINF:-1 tvg-id="897" tvg-name="USA Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="⛳️高爾夫賽事⛳️",USA Golf Channel
+http://doubleclicktv.live/70376812/52663544/897
+#EXTINF:-1 tvg-id="268965" tvg-name="USA Golf UHD" tvg-logo="https://logo.iptveditor.com/golf.png" group-title="⛳️高爾夫賽事⛳️",USA Golf UHD
+http://doubleclicktv.live/70376812/52663544/268965
+#EXTINF:-1 tvg-id="3733" tvg-name="CA GOLF" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo.png" group-title="⛳️高爾夫賽事⛳️",CA GOLF
+http://doubleclicktv.live/70376812/52663544/3733
+#EXTINF:-1 tvg-id="276921" tvg-name="UK: Sky Sports Golf FHD 50fps" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="⛳️高爾夫賽事⛳️",UK: Sky Sports Golf FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276921
+#EXTINF:-1 tvg-id="276920" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="⛳️高爾夫賽事⛳️",UK: Sky Sports Golf HD
+http://doubleclicktv.live/70376812/52663544/276920
+#EXTINF:-1 tvg-id="276826" tvg-name="UK: Sky Sports Golf FHD HEVC 25fps" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="⛳️高爾夫賽事⛳️",UK: Sky Sports Golf FHD HEVC 25fps
+http://doubleclicktv.live/70376812/52663544/276826
+#EXTINF:-1 tvg-id="279611" tvg-name="ZA|SS Golf" group-title="⛳️高爾夫賽事⛳️",ZA|SS Golf
+http://doubleclicktv.live/70376812/52663544/279611
+
+
+#EXTINF:-1 tvg-id="841" tvg-name="USA Tennis Channel" tvg-logo="https://logo.iptveditor.com/tennischannel.png" group-title="🎾網球賽事🎾",USA Tennis Channel
+http://doubleclicktv.live/70376812/52663544/841
+#EXTINF:-1 tvg-id="328632" tvg-name="USA Tennis Channel  2" tvg-logo="https://s9.gifyu.com/images/SUr1P.png" group-title="🎾網球賽事🎾",USA Tennis Channel  2
+http://doubleclicktv.live/70376812/52663544/328632
+#EXTINF:-1 tvg-id="318045" tvg-name="UK: Sky Sports Tennis FHD 50fps" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="🎾網球賽事🎾",UK: Sky Sports Tennis FHD 50fps
+http://doubleclicktv.live/70376812/52663544/318045
+#EXTINF:-1 tvg-id="318044" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="🎾網球賽事🎾",UK: Sky Sports Tennis HD
+http://doubleclicktv.live/70376812/52663544/318044
+#EXTINF:-1 tvg-id="279610" tvg-name="ZA|SS Tennis" group-title="🎾網球賽事🎾",ZA|SS Tennis
+http://doubleclicktv.live/70376812/52663544/279610
+
+
+
+#EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="PREMIUM MUSIC",M.net UHD
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+#EXTINF:-176 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="PREMIUM MUSIC",Kpop TV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4451",NEW KPOP
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+#EXTINF:-1 channel-id="US39000038W" tvg-id="US39000038W" tvg-chno="4445" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" group-title="PREMIUM MUSIC", K-POP by CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4388",Vevo '70s
+https://jmp2.uk/sam-USBD300011KQ.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4391",Vevo '80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4394",Vevo '90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4400",Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240520T212904SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4397",Vevo 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240520T212906SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4415",Vevo Country
+https://jmp2.uk/sam-USBC3600001RQ.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4421",Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+#EXTINF:-183 tvg-logo="https://i.imgur.com/owUXUih.png" group-title="PREMIUM MUSIC",Vevo True School Hip-Hop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4409",Vevo Hip-Hop
+https://jmp2.uk/sam-USBC3600002EK.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240520T212912SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4406",Vevo Latino
+https://jmp2.uk/sam-USBC3600015GF.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4418",Vevo Pop
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240520T212916SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4412",Vevo R&B
+https://jmp2.uk/sam-USBC3900009K5.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240520T212918SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4403",Vevo Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB320000647" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4313",XITE 80s Flashback
+https://jmp2.uk/sam-USBB320000647.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4318",XITE 90s Throwback
+https://jmp2.uk/sam-USBB3200007AK.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4310",XITE Celebrates
+https://jmp2.uk/sam-USBD350003932.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4333",XITE Classic Country
+https://jmp2.uk/sam-USBD3300011UT.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300006O3" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4328",XITE Country Today
+https://jmp2.uk/sam-USBD3300006O3.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240716T002643SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4323",XITE Hits
+https://jmp2.uk/sam-USBD3300004RH.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300005EX" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4358",XITE Icons
+https://jmp2.uk/sam-USBD3300005EX.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300003JZ" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4363",XITE Just Chill
+https://jmp2.uk/sam-USBB2300003JZ.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240520T212941SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4338",XITE Nuevo Latino
+https://jmp2.uk/sam-USBD3300007PB.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4368",XITE Only Love
+https://jmp2.uk/sam-USBD3300008DG.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD330000948" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4348",XITE R&B Classic Jams
+https://jmp2.uk/sam-USBD330000948.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4353",XITE Rock x Metal
+https://jmp2.uk/sam-USBB2300004KV.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240520T212947SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4343",XITE Siempre Latino
+https://jmp2.uk/sam-USBD3300010L9.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000180U" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240826T191200SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4476",Stingray Classic Rock
+https://jmp2.uk/sam-USBD35000180U.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350002623" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20240520T212826SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4462",Stingray Classica
+https://jmp2.uk/sam-USBD350002623.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500025GS" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4456",Stingray DJAZZ
+https://jmp2.uk/sam-USBD3500025GS.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500011J3" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240520T212830SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4468",Stingray Easy Listening
+https://jmp2.uk/sam-USBD3500011J3.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20240520T212832SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4470",Stingray Flashback 70s
+https://jmp2.uk/sam-USBD3500008IJ.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240611T050259SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4482",Stingray Greatest Hits
+https://jmp2.uk/sam-USBD3500022DN.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500010MT" tvg-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20240520T212836SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4478",Stingray Hip Hop
+https://jmp2.uk/sam-USBD3500010MT.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300021KV" tvg-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20240826T191205SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4480",Stingray Hot Country
+https://jmp2.uk/sam-USBD3300021KV.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000149S" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20240826T191209SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4474",Stingray Nothin' But 90s
+https://jmp2.uk/sam-USBD35000149S.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300022QK" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20240611T050303SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4472",Stingray Remember the 80s
+https://jmp2.uk/sam-USBD3300022QK.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240520T212846SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4466",Stingray Romance Latino
+https://jmp2.uk/sam-USBD3500017CE.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000128A" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240520T212848SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4460",Stingray Smooth Jazz
+https://jmp2.uk/sam-USBD35000128A.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500016NH" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4454",Stingray Today's K-Pop
+https://jmp2.uk/sam-USBD3500016NH.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4464",Stingray Today's Latin Pop
+https://jmp2.uk/sam-USBD3500009Y3.m3u8
+
+
+
+
+
+
+***************************************************************************
 
 
 
