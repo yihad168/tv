@@ -1233,10 +1233,13 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",1212pp
+#EXTINF:-1 group-title="美國",1212pp
 http://kenneth001.serv00.net/1212pp.php
-#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",porn
+#EXTINF:-1 group-title="美國",porn
 http://kenneth001.serv00.net/porn.php
+#EXTINF:-1 group-title="美國",限制级电影
+http://cdn.adultiptv.net/blonde.m3u8?streamType=liv
+
 
 
 ***************************************************************************
