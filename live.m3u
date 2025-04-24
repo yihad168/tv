@@ -550,6 +550,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730849146/ei/G
 
 *********************************************************************************************************
 
+
+
+
+#EXTINF:-1 group-title="台灣",哪吒2高清
+http://c1.7bbffvip.com/video/nazhazhimotongnaohai/%E4%BF%AE%E5%A4%8D%E7%89%88/index.m3u8
+
+
 #EXTINF:-1 group-title="台灣",鳳凰資訊
 http://122.117.71.103:8573/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 #EXTINF:-1 group-title="台灣",鳳凰中文
