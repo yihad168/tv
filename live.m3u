@@ -70,52 +70,54 @@ http://luong.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 http://luong.utako.moe/suntv/index.m3u8
 
+
+
 #DTV3 (primehome)
 
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV3 (primehome)",NHK総合 東京 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7
 
 #EXTINF:-1 tvg-id="ＮＨＫＥテレ１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="DTV3 (primehome)",NHK教育 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7
 
 #EXTINF:-1 tvg-id="日テレ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="DTV3 (primehome)",日本テレビ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7
 
 #EXTINF:-1 tvg-id="ＴＢＳ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1280px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="DTV3 (primehome)",TBSテレビ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7
 
 #EXTINF:-1 tvg-id="フジテレビ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="DTV3 (primehome)",フジテレビ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=7
 
 #EXTINF:-1 tvg-id="テレビ朝日.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="DTV3 (primehome)",テレビ朝日 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7
 
 #EXTINF:-1 tvg-id="テレビ東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="DTV3 (primehome)",テレビ東京 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="ＴＯＫＹＯ　ＭＸ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="ＮＨＫ総合１・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="ＭＢＳ毎日放送・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS毎日放送 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="ＡＢＣテレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png", ABC朝日放送 (primehome)  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="関西テレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", カンテレ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="よみうりテレビ・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="テレビ大阪・大阪.jp" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪 (primehome)  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=7
 
 #EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", サンテレビ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7
 
 #BS1 (720p)
 
@@ -179,70 +181,70 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:2
 #BS2 (primehome)
 
 #EXTINF:-1 tvg-id="ＮＨＫ.ＢＳ１.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="BS2 (primehome)",NHK BS (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=7
 
 #EXTINF:-1 tvg-id="NHK.BS4K.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="BS2 (primehome)",NHK BSP4K (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=7
 
 #EXTINF:-1 tvg-id="ＢＳ日テレ.jp" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS2 (primehome)",BS日テレ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=7
 
 #EXTINF:-1 tvg-id="ＢＳ朝日.jp" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png" group-title="BS2 (primehome)",BS朝日 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=7
 
 #EXTINF:-1 tvg-id="ＢＳ-ＴＢＳ.jp" tvg-logo="https://pbs.twimg.com/profile_images/1260862250295812096/a6-UyLc__400x400.jpg" group-title="BS2 (primehome)",BS-TBS (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=7
 
 #EXTINF:-1 tvg-id="ＢＳテレ東.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png" group-title="BS2 (primehome)",BSテレ東 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=7
 
 #EXTINF:-1 tvg-id="ＢＳフジ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BS_FUJI_Logo.jpg" group-title="BS2 (primehome)",BSフジ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=7
 
 #EXTINF:-1 tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png" group-title="BS2 (primehome)",WOWOWプライム (primehome) 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=7
 
 #EXTINF:-1 tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="BS2 (primehome)",WOWOWライブ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
 
 #EXTINF:-1 tvg-id="ＷＯＷＯＷシネマ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="BS2 (primehome)",WOWOWシネマ (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=7
 
 #EXTINF:-1 tvg-id="スター・チャンネル1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Star_Channel-Japan.svg/2560px-Star_Channel-Japan.svg.png" group-title="BS2 (primehome)",スターチャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=7
 
 #EXTINF:-1 tvg-id="BSアニマックス.jp" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BS2 (primehome)",BSアニマックス (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=7
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="グリーンチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png", グリーン チャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7
 
 #EXTINF:-1 tvg-id="BS釣りビジョン.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS2 (primehome)",釣りビジョン (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=7
 
 #EXTINF:-1 tvg-id="J.SPORTS.1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (primehome)",JSPORTS 1 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=7
 
 #EXTINF:-1 tvg-id="J.SPORTS.2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (primehome)",JSPORTS 2 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=7
 
 #EXTINF:-1 tvg-id="J.SPORTS.3.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (primehome)",JSPORTS 3 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=7
 
 #EXTINF:-1 tvg-id="J.SPORTS.4.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS2 (primehome)",JSPORTS 4 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=7
 
 #EXTINF:-1 tvg-id="BS日本映画専門チャンネル.jp" tvg-logo="https://i.postimg.cc/ydDMrbTZ/Nihon-Eiga-Senmon-Channel.jpg" group-title="BS2 (primehome)",日本映画専門チャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=7
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="ディズニー・チャンネル.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png", ディズニーチャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=7
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="BS11イレブン.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://vthanh.utako.moe/BS11/index.m3u8 
 
 #EXTINF:-1 group-title="BS2 (primehome)" tvg-id="BS松竹東急.jp" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/l6kArOPkx3rCe-BY5PGk5Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS松竹東急 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=7
 
 #BS3 (vthanhtivi)
 
@@ -382,93 +384,93 @@ http://luong.utako.moe/at-x/index.m3u8
 #CS3 (primehome)
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="旅チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png", 旅チャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ミュージック・ジャパンTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png", Music JapanTV  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ホームドラマチャンネル　韓流・時代劇・国内ドラマ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="東映チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="衛星劇場.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ムービープラス.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="スカイA.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイA (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="GAORA.SPORTS.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="日テレジータス.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ゴルフネットワーク.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png", ゴルフネットワーク (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="TAKARAZUKA.SKY.STAGE.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/takarazuka_sky_stage.png", 宝塚歌劇専門チャンネル  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="時代劇専門チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",時代劇専門チャンネル  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ファミリー劇場.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", ファミリー劇場 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=7
 
 #EXTINF:-1 tvg-id="チャンネル銀河　歴史ドラマ・サスペンス・日本のうた.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png" group-title="CS3 (primehome)",チャンネル銀河 (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=7
 
 #EXTINF:-1 tvg-id="歌謡ポップスチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" group-title="CS3 (primehome)",歌謡ポップスチャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="MONDO.TV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png", MONDO TV (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="フジテレビＮＥＸＴ.ライブ・プレミアム.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png", フジテレビNEXT  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="女性チャンネル♪LaLa.TV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png", LaLaTV (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV Japan  (primehome)    
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="音楽・ライブ！　スペースシャワーＴＶ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png", スペースシャワーTV (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="キッズステーション.テレビアニメ･劇場版･ＯＶＡ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=7
 
 #EXTINF:-1 tvg-id="カートゥーン.ネットワーク.海外アニメ国内アニメ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="CS3 (primehome)",Cartoon Network (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ディズニージュニア.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", ディズニージュニア  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="アニマルプラネット.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png", アニマルプラネット
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ヒストリーチャンネル.日本・世界の歴史＆エンタメ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", ヒストリーチャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ディスカバリーチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", ディスカバリーチャンネル (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=7
 
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ナショナル.ジオグラフィック.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/320px-National_Geographic_Channel.svg.png", ナショナル ジオグラフィック (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7
 
 #NEWS
 
 #EXTINF:-1 tvg-id="CNNj.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" group-title="NEWS",CNN J
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=7
 
 #EXTINF:-1 tvg-id="ＢＢＣニュース.jp" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/bbcworldnews.png" group-title="NEWS",BBC NEWS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=7
 
 #EXTINF:-1 tvg-id="日テレNEWS24.jp" tvg-logo="https://about.smartnews.com/wp-content/uploads/2015/07/nnews_icon_512x512.png" group-title="NEWS",日テレNEWS24 (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -480,7 +482,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-id="TBS.NEWS.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png", TBSニュース
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=7
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fWH4f28p/Weathernews-logo-svg.png" group-title="NEWS",ウェザーニュース
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
@@ -785,6 +787,255 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="台灣",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
+
+
+
+#EXTINF:-1 group-title="USA",MLB Network
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="USA",A&E
+https://v5.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",AMC-Eastern Feed
+https://v16.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Altitude Sports Denver
+https://v2.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",American Heroes Channel
+https://v1.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Animal Planet US-East
+https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",BBC News-North America
+https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Big Ten Network
+https://v14.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",BRAVO USA-Eastern Feed
+https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",C-SPAN
+https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",C-SPAN 2
+https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CBSLA (KCBS) Los Angeles
+https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CBSNY (WCBS) New York
+https://v3.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CMT US-Eastern Feed
+https://v3.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CNBC USA
+https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CW (WDCW) District of Columbia
+https://v4.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CARTOON NETWORK USA-Eastern Feed
+https://v5.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Chicago Sports Network
+https://v2.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CINEMAX-Eastern Feed
+https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",COMEDY CENTRAL (US)-Eastern Feed
+https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Crime + Investigation USA
+https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Destination America
+https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",DISCOVERY FAMILY CHANNEL
+https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",DISNEY CHANNEL-Eastern Feed
+https://v15.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Disney JR USA-East
+https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Disney XD USA-Eastern Feed
+https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",E! Entertainment Television USA-Eastern Feed
+https://v13.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",ESPN
+https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FOX (KTTV) Los Angeles
+https://v13.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FOXNY
+https://v3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FX Movie Channel
+https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FX Networks East Coast
+https://v12.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FXX USA-Eastern
+https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FYI USA-Eastern
+https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Indiana
+https://v8.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Detroit
+https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Florida
+https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Great Lakes
+https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN North
+https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Ohio
+https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Oklahoma
+https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN SoCal
+https://v3.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Network South Carolinas
+https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Network South Tennessee
+https://v13.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN West
+https://v14.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FanDuel SN Wisconsin
+https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Southeast North Carolina
+https://v8.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Southeast South Carolina
+https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Southeast Tennessee Nashville
+https://v17.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Sun
+https://v1.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fanduel Sports Tennessee East
+https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",FOOD NETWORK USA-Eastern Feed
+https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fox Business
+https://v1.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Fox Sports 2
+https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",GAME SHOW NETWORK East
+https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO-Eastern Feed
+https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO 2-Eastern Feed
+https://v16.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO Comedy HD-East
+https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO Family-Eastern Feed
+https://v13.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO Signature (HBO 3)-Eastern
+https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO Zone HD-East
+https://v4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HGTV USA-Eastern Feed
+https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",HLN
+https://v3.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Hallmark Channel-Eastern Feed
+https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Hallmark Family 
+https://v5.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Hallmark Mystery
+https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",ION - Eastern Feed
+https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",IFC Independent Film Channel US
+https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",ID (Investigation Discovery) USA-Eastern
+https://v1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",LOGO-East
+https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Lifetime Movies Network-East
+https://v12.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Lifetime Network US-Eastern Feed
+https://v3.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MLB Network
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MSG Madison Square Gardens
+https://v16.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MSNBC USA
+https://v1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MTV 2 East
+https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Marquee Sports Network
+https://v8.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MeTV Toons (WJLP2) New Jersey
+https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Midatlantic Sports Network
+https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Monumental Sports Network
+https://v5.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",CINEMAX MOREMAX Eastern
+https://v18.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Motor Trend
+https://v3.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",MovieMax (Max 6)-East,https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NBA TV USA
+https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NBC (KNBC) Los Angeles
+https://v13.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NY
+https://v12.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NBC Sports Bay Area
+https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NBC Sports Boston
+https://v12.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NBC Sports California
+https://v16.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NBC Sports Philadelphia
+https://v3.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NFL RedZone
+https://v13.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NHL Network USA
+https://v17.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",National Geographic US-Eastern
+https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",National Geographic Wild
+https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",New England Sports Network
+https://v8.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Newsmax TV
+https://v8.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",NICK JR.-East
+https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Nickelodeon USA-East Feed
+https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Outdoor Channel US
+https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Oxygen-Eastern Feed
+https://v3.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Discovery Science
+https://v1.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Showtime-Eastern Feed
+https://v3.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Showtime 2-Eastern
+https://v5.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Sportsnet West
+https://v1.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",Starz-Eastern
+https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",SYFY-Eastern Feed
+https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TBS-East
+https://v13.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TLC USA-Eastern
+https://v16.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TSN 1
+https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TSN 2
+https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TSN 3
+https://v3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TSN 4
+https://v2.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TSN 5
+https://v14.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",TV Land Eastern
+https://v1.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",The Cooking Channel
+https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",USA Network-East Feed
+https://v3.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",VH1-Eastern Feed
+https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",VICE
+https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",YES Network
+https://v18.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="USA",WETV (Women's Entertainment)-Eastern
+https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 ****************************************************************************************
@@ -1707,7 +1958,8 @@ https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
 
 ***************************************************************************
 
-
+#EXTINF:-1 group-title="PREMIUM MUSIC" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995d.png",Powerplay J-Pop
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7
 
 
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="PREMIUM MUSIC",M.net UHD
@@ -7220,3 +7472,665 @@ http://haoyunlai.serv00.net/Smartv-1.php?id=tokyotv_japan
 
 
 *************************************************************************
+
+
+
+
+#EXTINF:-1 Mục phim VOD
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36185.jpg" group-title="1pondo",113017_612
+https://fc.maa1801.com/f/pzohakwafr/pzohakwafr.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36441.jpg" group-title="1pondo",020417-367
+https://fc.maa1801.com/m/gfcxlkekjk/gfcxlkekjk.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36177.jpg" group-title="1pondo",110917_603
+https://fc.maa1801.com/e/ixaobvrqds/ixaobvrqds.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36387.jpg" group-title="1pondo",061017-442
+https://fc.maa1801.com/e/qtvrbyxcrb/qtvrbyxcrb.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37327.jpg" group-title="1pondo",060518-680
+https://fc.maa1801.com/m/iqgojvsnkk/iqgojvsnkk.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37044.jpg" group-title="1pondo",051518_687
+https://fc.maa1801.com/m/oqmopwjnlj/oqmopwjnlj.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37885.jpg" group-title="1pondo",042619-903
+https://fc.maa1801.com/m/knvfiolkuq/knvfiolkuq.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37884.jpg" group-title="1pondo",071715_008
+https://fc.maa1801.com/d/pltgukhrqp/pltgukhrqp.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/37/CH36097_1-6.jpg" group-title="1pondo",050617_523
+https://fc.maa1801.com/m/ofktrsbnkk/ofktrsbnkk.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37876.jpg" group-title="1pondo",040619-891
+https://fc.maa1801.com/b/isjjpqsmrm/isjjpqsmrm.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36358.jpg" group-title="1pondo",040717-409
+https://fc.maa1801.com/f/bdxwuetqxh/bdxwuetqxh.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37720.jpg" group-title="1pondo",042719_839
+https://fc.maa1801.com/f/frtplrpmjr/frtplrpmjr.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37873.jpg" group-title="1pondo",032619-884
+https://fc.maa1801.com/n/rojulmmcui/rojulmmcui.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36486.jpg" group-title="1pondo",122117-560
+https://fc.maa1801.com/m/vldvxjimki/vldvxjimki.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37929.jpg" group-title="1pondo",121918-813
+https://fc.maa1801.com/g/srmpilknqm/srmpilknqm.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35654.jpg" group-title="1pondo",122216-329
+https://fc.maa1801.com/m/umgxlrnjnz/umgxlrnjnz.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37382.jpg" group-title="1pondo",090218-744
+https://fc.maa1801.com/c/kmiorrpitk/kmiorrpitk.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36433.jpg" group-title="1pondo",090217-492
+https://fc.maa1801.com/m/adoemvyzil/adoemvyzil.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37381.jpg" group-title="1pondo",090118-743
+https://fc.maa1801.com/b/oxgcplmori/oxgcplmori.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37377.jpg" group-title="1pondo",082418-737
+https://fc.maa1801.com/c/mksgloppuo/mksgloppuo.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36423.jpg" group-title="1pondo",081517-479
+https://fc.maa1801.com/b/zmindwvmqr/zmindwvmqr.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37366.jpg" group-title="1pondo",081118-725
+https://fc.maa1801.com/b/nipnnqiqlp/nipnnqiqlp.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36421.jpg" group-title="1pondo",081117-477
+https://fc.maa1801.com/c/avmrmbmugl/avmrmbmugl.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37350.jpg" group-title="1pondo",071718-709
+https://fc.maa1801.com/m/nnkegqpqiv/nnkegqpqiv.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37334.jpg" group-title="1pondo",061918-688
+https://fc.maa1801.com/n/jkkonisjkt/jkkonisjkt.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36360.jpg" group-title="1pondo",041117-411
+https://fc.maa1801.com/b/vmfmgumpyd/vmfmgumpyd.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37289.jpg" group-title="1pondo",033118-632
+https://fc.maa1801.com/e/mpnsnppgqp/mpnsnppgqp.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37287.jpg" group-title="1pondo",032718-629
+https://fc.maa1801.com/b/sjqipgviul/sjqipgviul.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37873.jpg" group-title="1pondo",032619-884
+https://fc.maa1801.com/n/rojulmmcui/rojulmmcui.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37284.jpg" group-title="1pondo",032018-625
+https://fc.maa1801.com/g/mswmgdnlfm/mswmgdnlfm.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37279.jpg" group-title="1pondo",031018-619
+https://fc.maa1801.com/f/fpjpuqljpj/fpjpuqljpj.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36344.jpg" group-title="1pondo",030717-387
+https://fc.maa1801.com/f/fvezbnadln/fvezbnadln.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36336.jpg" group-title="1pondo",022217-378
+https://fc.maa1801.com/h/yavkhrsuut/yavkhrsuut.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37855.jpg" group-title="1pondo",022119-864
+https://fc.maa1801.com/b/oplkmljlrp/oplkmljlrp.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36332.jpg" group-title="1pondo",021517-374
+https://fc.maa1801.com/g/pzyjnrrlii/pzyjnrrlii.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37852.jpg" group-title="1pondo",021219-858
+https://fc.maa1801.com/g/pfqpmrpnum/pfqpmrpnum.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37266.jpg" group-title="1pondo",021118-602
+https://fc.maa1801.com/c/mpkipnonup/mpkipnonup.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36330.jpg" group-title="1pondo",021117-371
+https://fc.maa1801.com/h/twfmmpobii/twfmmpobii.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35634.jpg" group-title="1pondo",020117-364
+https://fc.maa1801.com/c/zupqpqsmqj/zupqpqsmqj.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37844.jpg" group-title="1pondo",013019-850
+https://fc.maa1801.com/b/eomtmpokkj/eomtmpokkj.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37259.jpg" group-title="1pondo",012718-593
+https://fc.maa1801.com/b/jhnkjmiikg/jhnkjmiikg.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37257.jpg" group-title="1pondo",012318-589
+https://fc.maa1801.com/n/okjmiigqsr/okjmiigqsr.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37244.jpg" group-title="1pondo",010618-575
+https://fc.maa1801.com/m/npmloonnmi/npmloonnmi.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24683.jpg" group-title="1pondo",122615-055-001
+https://fc.maa1801.com/d/pvsgfmqtkq/pvsgfmqtkq.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24681.jpg" group-title="1pondo",122415-053 (Shemate)
+https://fc.maa1801.com/h/tvgcgjdiml/tvgcgjdiml.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24670.jpg" group-title="1pondo",120915-041
+https://fc.maa1801.com/c/dixfsussjs/dixfsussjs.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24653.jpg" group-title="1pondo",111415-022 Debut Vol.25
+https://fc.maa1801.com/b/ccleatvidx/ccleatvidx.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30901.jpg" group-title="1pondo",082116-237
+https://fc.maa1801.com/f/ytpmskucen/ytpmskucen.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30900.jpg" group-title="1pondo",081816-234
+https://fc.maa1801.com/m/ktptyyesdi/ktptyyesdi.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24601.jpg" group-title="1pondo",090115-961
+https://fc.maa1801.com/d/kalprufmim/kalprufmim.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30873.jpg" group-title="1pondo",101016-278
+https://fc.maa1801.com/n/zdzxtluovx/zdzxtluovx.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23892.jpg" group-title="1pondo",080715-940
+https://fc.maa1801.com/n/bniezlvsun/bniezlvsun.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30854.jpg" group-title="1pondo",091816-260
+https://fc.maa1801.com/b/ypvctxnsha/ypvctxnsha.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23167.jpg" group-title="1pondo",070415-913
+https://fc.maa1801.com/m/edpfrbrrjn/edpfrbrrjn.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23149.jpg" group-title="1pondo",060615-894
+https://fc.maa1801.com/d/rnxmiymqqm/rnxmiymqqm.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30331.jpg" group-title="1pondo",070516-200
+https://fc.maa1801.com/b/qlzltbubrr/qlzltbubrr.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24592.jpg" group-title="1pondo",010816_068
+https://fc.maa1801.com/m/omftskuxle/omftskuxle.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24588.jpg" group-title="1pondo",010416-063
+https://fc.maa1801.com/b/lkqpwfrgfn/lkqpwfrgfn.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25366.jpg" group-title="1pondo",122615-055
+https://fc.maa1801.com/m/wagqrymtgc/wagqrymtgc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25356.jpg" group-title="1pondo",041416-137
+https://fc.maa1801.com/m/sukozsnelp/sukozsnelp.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25329.jpg" group-title="1pondo",030116-107
+https://fc.maa1801.com/d/jvqorvbyyb/jvqorvbyyb.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25313.jpg" group-title="1pondo",020216-087
+https://fc.maa1801.com/m/vjdxkhohfp/vjdxkhohfp.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg" group-title="1pondo",020616-091
+https://fc.maa1801.com/f/uheuxmmxcj/uheuxmmxcj.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH08365.jpg" group-title="1pondo",102312-164 SNS
+https://fc.maa1801.com/m/uchdcltiol/uchdcltiol.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19611.jpg" group-title="1pondo",052814-609
+https://fc.maa1801.com/f/stasfhodif/stasfhodif.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH21628.jpg" group-title="1pondo",022615-816
+https://fc.maa1801.com/e/tzlddgimcn/tzlddgimcn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20435.jpg" group-title="1pondo",101814-715
+https://fc.maa1801.com/h/fbbiiehlic/fbbiiehlic.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15468.jpg" group-title="1pondo",042013-317
+https://fc.maa1801.com/f/nkexdqkqyd/nkexdqkqyd.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH10002.jpg" group-title="1pondo",010713-231
+https://fc.maa1801.com/n/fhodduulaa/fhodduulaa.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20117.jpg" group-title="1pondo",081314-665 96CM
+https://fc.maa1801.com/e/qceilhdacl/qceilhdacl.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30737.jpg" group-title="1pondo",101416_405
+https://fc.maa1801.com/b/gfxmpvuzgp/gfxmpvuzgp.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30196.jpg" group-title="1pondo",061116_315
+https://fc.maa1801.com/c/zhqflrvagh/zhqflrvagh.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH03856.jpg" group-title="1pondo",100711_190
+https://fc.maa1801.com/g/gfataosddo/gfataosddo.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19679.jpg" group-title="1pondo",062814_835
+https://fc.maa1801.com/n/cciiffbcdb/cciiffbcdb.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18169.jpg" group-title="1pondo",113013_707
+https://fc.maa1801.com/f/eaooaeotee/eaooaeotee.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20737.jpg" group-title="1pondo",DSAM-57
+https://fc.maa1801.com/d/vpcfaqmzio/vpcfaqmzio.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35563.jpg" group-title="1pondo",122816_453
+https://fc.maa1801.com/c/ggioidnjzv/ggioidnjzv.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35561.jpg" group-title="1pondo",122416_451
+https://fc.maa1801.com/e/iwmsvjszum/iwmsvjszum.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35559.jpg" group-title="1pondo",122216_449
+https://fc.maa1801.com/m/nlgnjfgocv/nlgnjfgocv.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37752.jpg" group-title="1pondo",120618_779
+https://fc.maa1801.com/n/hnkknknkql/hnkknknkql.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35546.jpg" group-title="1pondo",112616_435
+https://fc.maa1801.com/n/mcnwrfklfp/mcnwrfklfp.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37362.jpg" group-title="1pondo",080918-002
+https://fc.maa1801.com/g/rtelingfvh/rtelingfvh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36161.jpg" group-title="1pondo",100317_001
+https://fc.maa1801.com/e/ganqalkwlc/ganqalkwlc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36085.jpg" group-title="1pondo",041317_511
+https://fc.maa1801.com/h/phpxfwjmjv/phpxfwjmjv.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37733.jpg" group-title="1pondo",102518_760
+https://fc.maa1801.com/c/djpkstllvq/djpkstllvq.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37704.jpg" group-title="1pondo",031619_822
+https://fc.maa1801.com/d/nnsppjlpki/nnsppjlpki.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36079.jpg" group-title="1pondo",032517_505
+https://fc.maa1801.com/f/cllftifosy/cllftifosy.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35538.jpg" group-title="1pondo",012717_472
+https://fc.maa1801.com/g/sqmenioqik/sqmenioqik.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24736.jpg" group-title="1pondo",070415_109
+https://fc.maa1801.com/g/oplgqtiekh/oplgqtiekh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24708.jpg" group-title="1pondo",050115_071
+https://fc.maa1801.com/d/jdvhvhzvme/jdvhvhzvme.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24705.jpg" group-title="1pondo",052315_085
+https://fc.maa1801.com/h/thzuyfmhgn/thzuyfmhgn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30357.jpg" group-title="1pondo",031216_261
+https://fc.maa1801.com/g/whauznmlmn/whauznmlmn.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30351.jpg" group-title="1pondo",032416_267
+https://fc.maa1801.com/c/wqkwnwoexd/wqkwnwoexd.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24500.jpg" group-title="1pondo",122515_215
+https://fc.maa1801.com/n/wrqfhaakuw/wrqfhaakuw.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18940.jpg" group-title="1pondo",040114_782
+https://fc.maa1801.com/d/zctobdhtab/zctobdhtab.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH47959.jpg" group-title="1pondo",060218_695
+https://v.imgstream2.com/a/uiderhzccz/uiderhzccz.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36885.jpg" group-title="HEYZO",HEYZO-1791
+https://fc.maa1801.com/d/jcgjcwwxvo/jcgjcwwxvo.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37413.jpg" group-title="HEYZO",HEYZO-0500
+https://fc.maa1801.com/c/jnviroonns/jnviroonns.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37625.jpg" group-title="HEYZO",HEYZO-1982
+https://fc.maa1801.com/g/futinomptf/futinomptf.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37572.jpg" group-title="HEYZO",HEYZO-1898
+https://fc.maa1801.com/c/ovpkknhgij/ovpkknhgij.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37556.jpg" group-title="HEYZO",HEYZO-1867
+https://fc.maa1801.com/f/jsikolsmok/jsikolsmok.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37555.jpg" group-title="HEYZO",HEYZO-1865
+https://fc.maa1801.com/b/ngontjhsqo/ngontjhsqo.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36893.jpg" group-title="HEYZO",HEYZO-1802
+https://fc.maa1801.com/h/wslnatlmqo/wslnatlmqo.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36797.jpg" group-title="HEYZO",HEYZO-1681
+https://fc.maa1801.com/d/yiumolahdw/yiumolahdw.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31101.jpg" group-title="HEYZO",HEYZO-1597
+https://fc.maa1801.com/g/jsmnukakej/jsmnukakej.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31049.jpg" group-title="HEYZO",HEYZO-1531
+https://fc.maa1801.com/n/dfsmqefkde/dfsmqefkde.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH31002.jpg" group-title="HEYZO",HEYZO-1465
+https://fc.maa1801.com/c/jdxahfzbnn/jdxahfzbnn.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30366.jpg" group-title="HEYZO",HEYZO-1137
+https://fc.maa1801.com/f/kzcowytmxh/kzcowytmxh.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30625.jpg" group-title="HEYZO",HEYZO-1306
+https://fc.maa1801.com/c/mdpegmoywh/mdpegmoywh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30073.jpg" group-title="HEYZO",HEYZO-1200
+https://fc.maa1801.com/n/qqbeytpmsk/qqbeytpmsk.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30077.jpg" group-title="HEYZO",HEYZO-1206
+https://fc.maa1801.com/g/vsyzvnmjtz/vsyzvnmjtz.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30060.jpg" group-title="HEYZO",HEYZO-1184
+https://fc.maa1801.com/e/kpeoqktzlt/kpeoqktzlt.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30029.jpg" group-title="HEYZO",HEYZO-1147
+https://fc.maa1801.com/h/dupxypvctx/dupxypvctx.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24224.jpg" group-title="HEYZO",HEYZO-0960
+https://fc.maa1801.com/c/zzxqncpyfv/zzxqncpyfv.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24205.jpg" group-title="HEYZO",HEYZO-0933
+https://fc.maa1801.com/n/lbbcyteloq/lbbcyteloq.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23519.jpg" group-title="HEYZO",HEYZO-0907
+https://fc.maa1801.com/g/ogkeyrdcnj/ogkeyrdcnj.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH22937.jpg" group-title="HEYZO",HEYZO-0881
+https://fc.maa1801.com/c/jdhscqsmub/jdhscqsmub.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19823.jpg" group-title="HEYZO",HEY-035
+https://fc.maa1801.com/n/qohdisbicd/qohdisbicd.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18890.jpg" group-title="HEYZO",HEYZO-0585
+https://fc.maa1801.com/n/mcfatltses/mcfatltses.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19722.jpg" group-title="HEYZO",HEYZO-0655
+https://fc.maa1801.com/e/patecdhadc/patecdhadc.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15022.jpg" group-title="HEYZO",HEYZO-0372
+https://fc.maa1801.com/n/xqfhffexmh/xqfhffexmh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18126.jpg" group-title="HEYZO",HEYZO-0459
+https://fc.maa1801.com/g/ioaleeshil/ioaleeshil.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH17965.jpg" group-title="HEYZO",HEYZO-0444
+https://fc.maa1801.com/f/iisccdluhc/iisccdluhc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30965.jpg" group-title="HEYZO",HEYZO-1420
+https://fc.maa1801.com/c/eprstelhxd/eprstelhxd.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30996.jpg" group-title="HEYZO",HEYZO-1458
+https://fc.maa1801.com/e/fhhxguhfbp/fhhxguhfbp.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30640.jpg" group-title="HEYZO",HEYZO-1329
+https://fc.maa1801.com/n/xrwbaylqxo/xrwbaylqxo.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35460.jpg" group-title="HEYZO",HEYZO-1361
+https://fc.maa1801.com/n/jrbgmqhrqf/jrbgmqhrqf.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35469.jpg" group-title="HEYZO",HEYZO-1371
+https://fc.maa1801.com/h/xaolnldlvw/xaolnldlvw.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35474.jpg" group-title="HEYZO",HEYZO-1377
+https://fc.maa1801.com/d/sjgbiprpyg/sjgbiprpyg.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35476.jpg" group-title="HEYZO",HEYZO-1380
+https://fc.maa1801.com/e/rwanvyeluj/rwanvyeluj.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36809.jpg" group-title="HEYZO",HEYZO-1696
+https://fc.maa1801.com/g/tmnfduxmmf/tmnfduxmmf.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35458.jpg" group-title="HEYZO",HEYZO-1359
+https://fc.maa1801.com/m/kmqzsjwtgx/kmqzsjwtgx.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35441.jpg" group-title="HEYZO",HEYZO-1335
+https://fc.maa1801.com/h/ecyrmtyfqw/ecyrmtyfqw.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31130.jpg" group-title="HEYZO",HEYZO-1630
+https://fc.maa1801.com/m/xfwuedirui/xfwuedirui.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31128.jpg" group-title="HEYZO",HEYZO-1628
+https://fc.maa1801.com/e/uqqhjrzmyn/uqqhjrzmyn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31127.jpg" group-title="HEYZO",HEYZO-1627
+https://fc.maa1801.com/d/uofzaxftkj/uofzaxftkj.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31114.jpg" group-title="HEYZO",HEYZO-1612
+https://fc.maa1801.com/e/dqhmdfpqrh/dqhmdfpqrh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31113.jpg" group-title="HEYZO",HEYZO-1610
+https://fc.maa1801.com/n/nupdtrhmxp/nupdtrhmxp.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30987.jpg" group-title="HEYZO",HEYZO-1449
+https://fc.maa1801.com/g/ikeughyggl/ikeughyggl.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30985.jpg" group-title="HEYZO",HEYZO-1447
+https://fc.maa1801.com/b/srvvnrdhit/srvvnrdhit.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30984.jpg" group-title="HEYZO",HEYZO-1446
+https://fc.maa1801.com/n/pxqbhmdkfc/pxqbhmdkfc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30983.jpg" group-title="HEYZO",HEYZO-1455
+https://fc.maa1801.com/e/qkqajdfulg/qkqajdfulg.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30982.jpg" group-title="HEYZO",HEYZO-1444
+https://fc.maa1801.com/g/oibenqdfxz/oibenqdfxz.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30979.jpg" group-title="HEYZO",HEYZO-1439
+https://fc.maa1801.com/c/mbuiubbuvm/mbuiubbuvm.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30973.jpg" group-title="HEYZO",HEYZO-1431
+https://fc.maa1801.com/f/uwzmvrdmvt/uwzmvrdmvt.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30972.jpg" group-title="HEYZO",HEYZO-1430
+https://fc.maa1801.com/b/wbaebcxzyw/wbaebcxzyw.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30968.jpg" group-title="HEYZO",HEYZO-1424
+https://fc.maa1801.com/h/zhoocgqysm/zhoocgqysm.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30962.jpg" group-title="HEYZO",HEYZO-1417
+https://fc.maa1801.com/d/dotublrfkg/dotublrfkg.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30959.jpg" group-title="HEYZO",HEYZO-1413
+https://fc.maa1801.com/h/qtnaiqhjhg/qtnaiqhjhg.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30956.jpg" group-title="HEYZO",HEYZO-1410
+https://fc.maa1801.com/d/wywlawvucu/wywlawvucu.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30954.jpg" group-title="HEYZO",HEYZO-1407
+https://fc.maa1801.com/g/towitoldvn/towitoldvn.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30953.jpg" group-title="HEYZO",HEYZO-1405
+https://fc.maa1801.com/b/gqqtfrjnrh/gqqtfrjnrh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30952.jpg" group-title="HEYZO",HEYZO-1404
+https://fc.maa1801.com/g/fzjmujawcg/fzjmujawcg.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30949.jpg" group-title="HEYZO",HEYZO-1400
+https://fc.maa1801.com/f/ijtsnyfxnf/ijtsnyfxnf.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30913.jpg" group-title="HEYZO",HEYZO-0387
+https://fc.maa1801.com/h/tdbnfarsou/tdbnfarsou.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24250.jpg" group-title="HEYZO",HEYZO-0996
+https://fc.maa1801.com/g/nplyebnbbh/nplyebnbbh.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30629.jpg" group-title="HEYZO",HEYZO-1311
+https://fc.maa1801.com/e/stzgnrgyre/stzgnrgyre.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30626.jpg" group-title="HEYZO",HEYZO-1307
+https://fc.maa1801.com/b/fruxetnnmr/fruxetnnmr.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30623.jpg" group-title="HEYZO",HEYZO-1304
+https://fc.maa1801.com/d/iniplfbres/iniplfbres.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23500.jpg" group-title="HEYZO",HEYZO-0841
+https://fc.maa1801.com/f/ojczhcygra/ojczhcygra.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23467.jpg" group-title="HEYZO",HEYZO-0805
+https://fc.maa1801.com/m/pmxjuabyai/pmxjuabyai.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14958.jpg" group-title="HEYZO",HEYZO-0304
+https://fc.maa1801.com/d/fayeeifiie/fayeeifiie.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15447.jpg" group-title="Caribbeancom",032113-293
+https://fc.maa1801.com/f/zdxeddximq/zdxeddximq.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH10001.jpg" group-title="Caribbeancom",010613-230
+https://fc.maa1801.com/n/ecsausfoio/ecsausfoio.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH16153.jpg" group-title="Caribbeancom",101013-451
+https://fc.maa1801.com/g/ledscdccbc/ledscdccbc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18761.jpg" group-title="Caribbeancom",022714-001
+https://fc.maa1801.com/h/jtsdscodha/jtsdscodha.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19685.jpg" group-title="Caribbeancom",062614-629
+https://fc.maa1801.com/e/gfuiobatli/gfuiobatli.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20435.jpg" group-title="Caribbeancom",101814-715
+https://fc.maa1801.com/h/fbbiiehlic/fbbiiehlic.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH09980.jpg" group-title="Caribbeancom",012613-247
+https://fc.maa1801.com/e/wfhsefuaal/wfhsefuaal.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20115.jpg" group-title="Caribbeancom",081114-663
+https://fc.maa1801.com/f/ndcsdtflla/ndcsdtflla.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15455.jpg" group-title="Caribbeancom",040213-303
+https://fc.maa1801.com/e/jmayuffifd/jmayuffifd.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15497.jpg" group-title="Caribbeancom",052513-346
+https://fc.maa1801.com/h/dqdkiifcxb/dqdkiifcxb.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH06810.jpg" group-title="Caribbeancom",122910-573
+https://fc.maa1801.com/f/amcqedfafh/amcqedfafh.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20431.jpg" group-title="Caribbeancom",101314-711-001
+https://fc.maa1801.com/g/pfdcdbcbsc/pfdcdbcbsc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH15548.jpg" group-title="Caribbeancom",080313-397
+https://fc.maa1801.com/h/meecexfbke/meecexfbke.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36487.jpg" group-title="Caribbeancom",122217-561
+https://fc.maa1801.com/b/zihzurzkzk/zihzurzkzk.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37407.jpg" group-title="Caribbeancom",101618-774
+https://fc.maa1801.com/d/orqsmptjrn/orqsmptjrn.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37394.jpg" group-title="Caribbeancom",092218-758
+https://fc.maa1801.com/h/jmtkoqplkg/jmtkoqplkg.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36428.jpg" group-title="Caribbeancom",082517-486
+https://fc.maa1801.com/d/ricfvriflm/ricfvriflm.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37409.jpg" group-title="Caribbeancom",123117-569
+https://fc.maa1801.com/n/owslkmknnt/owslkmknnt.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36330.jpg" group-title="Caribbeancom",021117-371
+https://fc.maa1801.com/h/twfmmpobii/twfmmpobii.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg" group-title="Caribbeancom",020616-091
+https://fc.maa1801.com/f/uheuxmmxcj/uheuxmmxcj.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37868.jpg" group-title="Caribbeancom",031919-879
+https://fc.maa1801.com/f/mmkojnrogn/mmkojnrogn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37278.jpg" group-title="Caribbeancom",030918-618
+https://fc.maa1801.com/h/jwiosfhegr/jwiosfhegr.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36344.jpg" group-title="Caribbeancom",030717-387
+https://fc.maa1801.com/f/fvezbnadln/fvezbnadln.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36338.jpg" group-title="Caribbeancom",022417-379
+https://fc.maa1801.com/h/dwdyunudxb/dwdyunudxb.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37257.jpg" group-title="Caribbeancom",012318-589
+https://fc.maa1801.com/n/okjmiigqsr/okjmiigqsr.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37239.jpg" group-title="Caribbeancom",010117-570
+https://fc.maa1801.com/m/fvmifoqdfn/fvmifoqdfn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36385.jpg" group-title="Caribbeancom",060617-440
+https://fc.maa1801.com/g/iptoavuuwt/iptoavuuwt.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24658.jpg" group-title="Caribbeancom",112215-028
+https://fc.maa1801.com/f/rpieiuuaei/rpieiuuaei.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24656.jpg" group-title="Caribbeancom",112015-026
+https://fc.maa1801.com/h/xhabttksui/xhabttksui.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24654.jpg" group-title="Caribbeancom",111715-023
+https://fc.maa1801.com/c/zgfcqhuokl/zgfcqhuokl.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23907.jpg" group-title="Caribbeancom",082315-955
+https://fc.maa1801.com/n/kdjvbdvoou/kdjvbdvoou.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23167.jpg" group-title="Caribbeancom",070415-913
+https://fc.maa1801.com/m/edpfrbrrjn/edpfrbrrjn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37839.jpg" group-title="Caribbeancom",012219-844
+https://fc.maa1801.com/b/rqsrohitls/rqsrohitls.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30874.jpg" group-title="Caribbeancom",101116-279
+https://fc.maa1801.com/d/izszthzclq/izszthzclq.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH35632.jpg" group-title="Caribbeancom",012917-362
+https://v.imgstream2.com/m/dacqlwkrvd/dacqlwkrvd.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH72696.jpg" group-title="Caribbeancom",050523-001
+https://v.imgstream2.com/e/mxhrdggqci/mxhrdggqci.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH72471.jpg" group-title="Caribbeancom",022323-001
+https://v.imgstream2.com/a/curgohkzak/curgohkzak.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH47898.jpg" group-title="Caribbeancom",062218-690
+https://v.imgstream2.com/b/mdfrdmclnn/mdfrdmclnn.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36547.jpg" group-title="Caribbeancompr",PPV 111817_002
+https://fc.maa1801.com/e/qfgeuuvrqt/qfgeuuvrqt.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36552.jpg" group-title="Caribbeancompr",PPV 120117_004
+https://fc.maa1801.com/c/vmjnudrlau/vmjnudrlau.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36538.jpg" group-title="Caribbeancompr",PPV 101417_001
+https://fc.maa1801.com/g/atyqqentci/atyqqentci.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36531.jpg" group-title="Caribbeancompr",PPV 081217_001
+https://fc.maa1801.com/c/huevucfsfc/huevucfsfc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36520.jpg" group-title="Caribbeancompr",PPV 060917_002
+https://fc.maa1801.com/f/kocyhzoxyy/kocyhzoxyy.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37428.jpg" group-title="Caribbeancompr",PPV 030218_001
+https://fc.maa1801.com/h/ptlpkqmmit/ptlpkqmmit.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36494.jpg" group-title="Caribbeancompr",PPV 020817-005
+https://fc.maa1801.com/h/gdrdmfmrmh/gdrdmfmrmh.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37422.jpg" group-title="Caribbeancompr",PPV 020318_001
+https://fc.maa1801.com/f/uqnokstrnm/uqnokstrnm.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37419.jpg" group-title="Caribbeancompr",PPV 012618_002
+https://fc.maa1801.com/f/nuchymqpjg/nuchymqpjg.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37414.jpg" group-title="Caribbeancompr",PPV 011318_003
+https://fc.maa1801.com/h/mqltpommjn/mqltpommjn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37875.jpg" group-title="Caribbeancompr",PPV 041418_001
+https://fc.maa1801.com/n/lmhmoqvnte/lmhmoqvnte.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36530.jpg" group-title="Caribbeancompr",PPV 081017_001
+https://fc.maa1801.com/e/ervijqohbm/ervijqohbm.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36519.jpg" group-title="Caribbeancompr",PPV 060217_001
+https://fc.maa1801.com/m/fnmmjihcla/fnmmjihcla.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36497.jpg" group-title="Caribbeancompr",PPV 021717_003
+https://fc.maa1801.com/f/eleoibuvwq/eleoibuvwq.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24731.jpg" group-title="Caribbeancompr",PPV 100815_389
+https://fc.maa1801.com/h/oxzfrcsdml/oxzfrcsdml.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24720.jpg" group-title="Caribbeancompr",PPV 081315_323
+https://fc.maa1801.com/c/oncpfkuefo/oncpfkuefo.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24718.jpg" group-title="Caribbeancompr",PPV 073015_295
+https://fc.maa1801.com/d/hglwxdwpid/hglwxdwpid.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24701.jpg" group-title="Caribbeancompr",PPV 061815_249
+https://fc.maa1801.com/f/dpwqzmnyyo/dpwqzmnyyo.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24699.jpg" group-title="Caribbeancompr",PPV 061115_237
+https://fc.maa1801.com/n/bkigbgsbqs/bkigbgsbqs.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24696.jpg" group-title="Caribbeancompr",PPV 052815_224
+https://fc.maa1801.com/c/qlhxtauuwc/qlhxtauuwc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30931.jpg" group-title="Caribbeancompr",PPV 091616_015
+https://fc.maa1801.com/f/esnwgvyzlq/esnwgvyzlq.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30924.jpg" group-title="Caribbeancompr",PPV 091616_008
+https://fc.maa1801.com/b/bpgrepmcie/bpgrepmcie.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30923.jpg" group-title="Caribbeancompr",PPV 091616_007
+https://fc.maa1801.com/m/vqbbcushfc/vqbbcushfc.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30911.jpg" group-title="Caribbeancompr",PPV 083016_008
+https://fc.maa1801.com/b/vecierufyx/vecierufyx.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30390.jpg" group-title="Caribbeancompr",PPV 070716_001
+https://fc.maa1801.com/e/zvkdojhwkk/zvkdojhwkk.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24689.jpg" group-title="Caribbeancompr",PPV 010115_057
+https://fc.maa1801.com/f/xwfkqbklfe/xwfkqbklfe.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19174.jpg" group-title="Caribbeancompr",PPV 042914_834
+https://fc.maa1801.com/e/heucehecto/heucehecto.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35665.jpg" group-title="Caribbeancompr",PPV 011117_004
+https://fc.maa1801.com/g/zlxifwbxug/zlxifwbxug.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19378.jpg" group-title="Caribbeancompr",PPV 013114_760 Sky Angel Vol.169
+https://fc.maa1801.com/c/tdsbtstuuf/tdsbtstuuf.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20133.jpg" group-title="Caribbeancompr",PPV 072514_910
+https://fc.maa1801.com/c/wdcdsliefc/wdcdsliefc.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37422.jpg" group-title="Caribbeancompr",PPV 020318_001
+https://fc.maa1801.com/f/uqnokstrnm/uqnokstrnm.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24742.jpg" group-title="Caribbeancompr",PPV 121815_453 
+https://fc.maa1801.com/f/ruqxrljwkn/ruqxrljwkn.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24711.jpg" group-title="Caribbeancompr",PPV 072215_284 
+https://fc.maa1801.com/m/nzqmgnvhpw/nzqmgnvhpw.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24710.jpg" group-title="Caribbeancompr",PPV 072215_283 
+https://fc.maa1801.com/e/eqftoxccgy/eqftoxccgy.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24706.jpg" group-title="Caribbeancompr",PPV 070315_309 
+https://fc.maa1801.com/c/nywkjlmnyw/nywkjlmnyw.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30937.jpg" group-title="Caribbeancompr",PPV 102716_005
+https://fc.maa1801.com/b/kosvvsumug/kosvvsumug.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30935.jpg" group-title="Caribbeancompr",PPV 102414_984
+https://fc.maa1801.com/g/ovctkqgtmx/ovctkqgtmx.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30926.jpg" group-title="Caribbeancompr",PPV 091616_010
+https://fc.maa1801.com/g/clgkswvkai/clgkswvkai.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30914.jpg" group-title="Caribbeancompr",PPV 083016-011
+https://fc.maa1801.com/h/tkrswajecq/tkrswajecq.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30912.jpg" group-title="Caribbeancompr",PPV 083016_009
+https://fc.maa1801.com/g/cufjvycrgg/cufjvycrgg.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30395.jpg" group-title="Caribbeancompr",PPV 072016_630
+https://fc.maa1801.com/g/wmlwdiwzby/wmlwdiwzby.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30370.jpg" group-title="Caribbeancompr",PPV 060916_585
+https://fc.maa1801.com/h/qedqpbrufd/qedqpbrufd.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30350.jpg" group-title="Caribbeancompr",PPV 042816_548
+https://fc.maa1801.com/d/hkmqpapjle/hkmqpapjle.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09448.jpg" group-title="SKY",CWP-75 CATWALK POISON 75
+https://fc.maa1801.com/m/wadfafoddi/wadfafoddi.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20773.jpg" group-title="SKY",SKY-310 Sky Angel
+https://fc.maa1801.com/c/lfxulrkdwi/lfxulrkdwi.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14627.jpg" group-title="SKY",SKY-264 Sky Angel Vol.157
+https://fc.maa1801.com/c/ieufxyfked/ieufxyfked.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH04167.jpg" group-title="SKY",SKY-226 Sky Angel
+https://fc.maa1801.com/g/ndbebbdidl/ndbebbdidl.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH17908.jpg" group-title="SKY",SKY-280 Sky Angel Vol.167
+https://fc.maa1801.com/h/viclldcfsd/viclldcfsd.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH08180.jpg" group-title="SKY",SKY-246 Sky Angel Vol.32
+https://fc.maa1801.com/n/fsleccobsu/fsleccobsu.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH14632.jpg" group-title="SKY",SKY-260 Sky Angel Vol.37
+https://fc.maa1801.com/n/dfmhuaieye/dfmhuaieye.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36046.jpg" group-title="Pacopacomama",pacopacomama 120817_184
+https://fc.maa1801.com/e/hvfxfwewxv/hvfxfwewxv.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30147.jpg" group-title="Pacopacomama",pacopacomama 062316_110
+https://fc.maa1801.com/d/lgrmntmkym/lgrmntmkym.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23105.jpg" group-title="Pacopacomama",pacopacomama 070215_003
+https://fbhost1.imgscloud.com/b/ei/CH23105.jpg
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35500.jpg" group-title="Pacopacomama",pacopacomama 012817_017
+https://fc.maa1801.com/m/asapmsunwr/asapmsunwr.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36031.jpg" group-title="Pacopacomama",pacopacomama 081717_133
+https://fc.maa1801.com/e/feqmkwgnoa/feqmkwgnoa.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36965.jpg" group-title="Pacopacomama",pacopacomama 080218_312
+https://fc.maa1801.com/f/jqvueiycus/jqvueiycus.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36008.jpg" group-title="Pacopacomama",pacopacomama 052017_090
+https://fc.maa1801.com/f/vwtmftsxif/vwtmftsxif.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36006.jpg" group-title="Pacopacomama",pacopacomama 051617_087
+https://fc.maa1801.com/e/rbiqwejgyx/rbiqwejgyx.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37642.jpg" group-title="Pacopacomama",pacopacomama 021319_034
+https://fc.maa1801.com/c/jkjpnonlff/jkjpnonlff.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37632.jpg" group-title="Pacopacomama",pacopacomama 010319_005
+https://fc.maa1801.com/d/eotkwwhsoi/eotkwwhsoi.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36928.jpg" group-title="Pacopacomama",pacopacomama 010317_200
+https://fc.maa1801.com/b/ihpcxmcxjw/ihpcxmcxjw.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24405.jpg" group-title="Pacopacomama",pacopacomama 120115_001
+https://fc.maa1801.com/b/hkcqcqzfyh/hkcqcqzfyh.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35609.jpg" group-title="10musume",123016_01
+https://fc.maa1801.com/m/imcxplssog/imcxplssog.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36261.jpg" group-title="10musume",080117_01
+https://fc.maa1801.com/m/kpssqatgsb/kpssqatgsb.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36236.jpg" group-title="10musume",051617_01
+https://fc.maa1801.com/g/beiarfnfss/beiarfnfss.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37191.jpg" group-title="10musume",071218_01
+https://fc.maa1801.com/n/npmskpqjnr/npmskpqjnr.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37770.jpg" group-title="10musume",012619_01
+https://fc.maa1801.com/d/lmoeqmkoji/lmoeqmkoji.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23817.jpg" group-title="10musume",082815_01
+https://fc.maa1801.com/g/scwgmbizms/scwgmbizms.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/3/CH02808_1-0.jpg" group-title="Tokyo Hot",Tokyo Hot n0675
+https://fc.maa1801.com/f/mcsifiddea/mcsifiddea.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09560.jpg" group-title="Tokyo Hot",Tokyo Hot n0801
+https://fc.maa1801.com/h/htelahthbc/htelahthbc.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09566.jpg" group-title="Tokyo Hot",Tokyo Hot n0807
+https://fc.maa1801.com/c/mscaadocdc/mscaadocdc.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09567.jpg" group-title="Tokyo Hot",Tokyo Hot n0808
+https://fc.maa1801.com/m/vacioblala/vacioblala.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19030.jpg" group-title="Tokyo Hot",Tokyo Hot n0946
+https://fc.maa1801.com/f/faalaccchd/faalaccchd.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20181.jpg" group-title="Tokyo Hot",Tokyo Hot n0985
+https://fc.maa1801.com/f/jsfaotdsot/jsfaotdsot.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23075.jpg" group-title="Tokyo Hot",Tokyo Hot k1179
+https://fc.maa1801.com/b/wxuswpzjmt/wxuswpzjmt.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35717.jpg" group-title="Tokyo Hot",Tokyo Hot n1225
+https://fc.maa1801.com/h/aujpyshxdv/aujpyshxdv.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35718.jpg" group-title="Tokyo Hot",Tokyo Hot n1226
+https://fc.maa1801.com/d/fpwxahuhga/fpwxahuhga.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35730.jpg" group-title="Tokyo Hot",Tokyo Hot n1238
+https://fc.maa1801.com/d/tmeodmivmv/tmeodmivmv.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35733.jpg" group-title="Tokyo Hot",Tokyo Hot n1241
+https://fc.maa1801.com/c/pubjyshbin/pubjyshbin.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35734.jpg" group-title="Tokyo Hot",Tokyo Hot n1242
+https://fc.maa1801.com/m/fvybwjosqs/fvybwjosqs.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35736.jpg" group-title="Tokyo Hot",Tokyo Hot n1244
+https://fc.maa1801.com/e/dctmfqofhz/dctmfqofhz.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23973.jpg" group-title="Tokyo Hot",Tokyo Hot k1243
+https://fc.maa1801.com/c/fbpjghamud/fbpjghamud.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19259.jpg" group-title="PINK",PINK-001
+https://fc.maa1801.com/f/ycdtuabcao/ycdtuabcao.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19836.jpg" group-title="PINK",PINK-002
+https://fc.maa1801.com/b/qcdubattif/qcdubattif.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19837.jpg" group-title="PINK",PINK-003
+https://fc.maa1801.com/e/ydacdshccu/ydacdshccu.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20146.jpg" group-title="PINK",PINK-004
+https://fc.maa1801.com/f/rtaoibafai/rtaoibafai.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20148.jpg" group-title="PINK",PINK-007
+https://fc.maa1801.com/d/railcidllo/railcidllo.m3u8
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH21446.jpg" group-title="PINK",PINK-008
+https://fc.maa1801.com/n/porgvgkvne/porgvgkvne.m3u8
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20360.jpg" group-title="PINK",PINK-012
+https://fc.maa1801.com/g/lohtscilbd/lohtscilbd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20003.jpg" group-title="xxx-av",xxx-av 21647
+https://fc.maa1801.com/h/phcaifctce/phcaifctce.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://hentaihay3.top/wp-content/uploads/2023/04/Co-dau-xac-thit-dong-ho-nha-Takayanagi-phan-1-biet-thu-no-le-tinh-duc-320x225.png" group-title="Anime Hentai",Bí mật dòng họ Takanayagi : Loạn luân cả gia đình
+https://ggcdns1.licealnewypracowania.pl/48f0e43fa9a20b72805f5d576584c220/hls.m3u8
+#EXTINF:-1 tvg-logo="https://sexvietsub1s.net/wp-content/uploads/2024/08/Sam-so-tren-tau-dien-ngam.webp" group-title="Anime Hentai",Sàm sỡ trên tàu điện ngầm
+https://ggcdns1.licealnewypracowania.pl/d188d3918c24f79ffab45c4eb6c7f478/hls.m3u8
+#EXTINF:-1 tvg-logo="https://sexvietsub1s.net/wp-content/uploads/2024/08/Tham-tu-dam-duc-den-lau-dai-duc-vong.webp" group-title="Anime Hentai",Thám tử dâm dục đến lâu đài dục vọng
+https://ggcdns1.licealnewypracowania.pl/3a19df39e4f9180d35f7ffe0d5d8c0cc/hls.m3u8
+#EXTINF:-1 tvg-logo="https://sexvietsub1s.net/wp-content/uploads/2024/08/Co-nang-co-cu-2.webp" group-title="Anime Hentai",Cô nàng có cu
+https://ggcdns1.licealnewypracowania.pl/5b997a295c451bd1e0d412303b99e9f5/hls.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.nangcuc.tel/cdn-cgi/image/fit=scale-down,width=500,height=300,quality=80,format=webp/video/0KwzqvHkP2Gs/cover/nc-0444-snzsgkbwqw7t.png" group-title="NCTV" subtitles="https://img.nangcuc.tel/sub/0KwzqvHkP2Gs/nc-0444-dfiwxrldcl.srt",Cô giáo Bạch - Tập 1: cô học trò bị phá trinh
+https://letshttps-1.itproxy.net/btplCQGKTJga_smindex-f3-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://img.nangcuc.tel/cdn-cgi/image/fit=scale-down,width=500,height=300,quality=80,format=webp/video/DJEjNsU-uLYy/cover/nc-0445-9xvpgj8hbtwm.png" group-title="NCTV",Cô giáo Bạch - Tập 2: bức thư của Tiểu Tinh
+https://letshttps-1.hrspeed.net/btXbYxaJQRHr_smindex-f3-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://img.nangcuc.tel/cdn-cgi/image/fit=scale-down,width=500,height=300,quality=80,format=webp/video/oRVAsArrpPB7/cover/nc-0965-er7khxr6ou26.png" group-title="NCTV",Cô giáo Bạch - Tập 3: Người vợ trẻ quyến rũ
+https://letshttps-1.itproxy.net/btEM8pFU9Keb_smindex-f3-v1-a1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.24h.com.vn/upload/4-2020/images/2020-11-13/kimbinhmai-16-1605281607-943-width650height947.jpg" group-title="PHIM Vietsub",Kim Bình Mai 1 (1996)
+https://s3.phim1280.tv/20240619/6roMyoGU/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimmakinhdi.net/wp-content/uploads/2020/11/Tan-Kim-Binh-Mai-1996-300x450.jpg" group-title="PHIM Vietsub",Kim Bình Mai 2 (1996)
+https://s3.phim1280.tv/20240619/pSEAjCPs/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimmoiyyy.net/wp-content/uploads/1996/04/Kim-binh-mai-3.jpg" group-title="PHIM Vietsub",Kim Bình Mai 3 (1996)
+https://s3.phim1280.tv/20240619/uFvfyUu7/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimmoiyyy.net/wp-content/uploads/2023/03/kim-binh-mai-4.jpg" group-title="PHIM Vietsub",Kim Bình Mai 4 (1996)
+https://s3.phim1280.tv/20240619/UnAbSeRk/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimmoiyyy.net/wp-content/uploads/1996/04/kim-binh-mai-5.jpg" group-title="PHIM Vietsub",Kim Bình Mai 5 (1996)
+https://s3.phim1280.tv/20240619/bE7Uj63a/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimmoiyyy.net/wp-content/uploads/2008/09/kim-binh-mai-2008.jpg" group-title="PHIM Vietsub",Kim Bình Mai (2008)
+https://kd.opstream3.com/20230628/38286_fb9b3709/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://phimmoiyyy.net/wp-content/uploads/2023/04/kim-binh-mai-2-vietsub.jpg" group-title="PHIM Vietsub",Kim Bình Mai 2 (2009)
+https://kd.opstream3.com/20230628/38287_c668d656/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://phimmakinhdi.com/wp-content/uploads/2022/07/lieu-trai-chi-di-1-300x450.jpg" group-title="PHIM Vietsub",Liêu Trai Chí Dị 1
+https://s2.phim1280.tv/20231231/5csQwL9y/3000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://phimmakinhdi.com/wp-content/uploads/2022/07/lieu-trai-chi-di-1-300x450.jpg" group-title="PHIM Vietsub",Liêu Trai Chí Dị 2
+https://kimanthanh.vn/ltcd2.mp4
+#EXTINF:-1 tvg-logo="https://phimmakinhdi.com/wp-content/uploads/2022/07/lieu-trai-chi-di-1-300x450.jpg" group-title="PHIM Vietsub",Liêu Trai Chí Dị 3
+https://ngheaudiotruyen.top/play/ltcd-3.mp4
+#EXTINF:-1 tvg-logo="https://phimmakinhdi.com/wp-content/uploads/2022/07/lieu-trai-chi-di-1-300x450.jpg" group-title="PHIM Vietsub",Liêu Trai Chí Dị 4
+https://kimanthanh.vn/lieu-trai-4.mp4
+#EXTINF:-1 tvg-logo="https://phimmoiiii.net/wp-content/uploads/2023/03/Three-Husbands.jpg" group-title="TEST", vkcklananh9496 em Lan Anh và anh shipper Grab may mắn khi chồng đi công tác
+https://www.vnshow.vip/static/streaming-playlists/hls/3a840768-6beb-4444-937c-476430bcb426/a3f32584-dd90-418c-a1f3-a805d3310d09-1080.m3u8
