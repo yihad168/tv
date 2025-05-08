@@ -549,9 +549,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730849146/ei/G
 *********************************************************************************************************
 
 
-
-#EXTINF:-1 group-title="香港頻道",
-
 香港 Hongkong,#genre#
 #EXTINF:-1 group-title="香港頻道",無線新聞台
 http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=ME3E4305907643059076&ct=20075&tsum=0a5fcbca5a1cc7901ffb7014dc9604c9
@@ -582,8 +579,6 @@ http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MF7F5665582956655829&ct
 #EXTINF:-1 group-title="香港頻道",鳳凰香港
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=4183c94fea010c7e1abbc12ca204f3f2
 
-
-#EXTINF:-1 group-title="中國頻道",
 
 中國 China,#genre#
 #EXTINF:-1 group-title="中國頻道",CCTV-1
@@ -649,8 +644,6 @@ http://50.7.234.10:8278/sichuan_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19
 #EXTINF:-1 group-title="中國頻道",東方衛視
 http://50.7.234.10:8278/dongfangweishi_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b97d42440bec750edaf8f6fada51c171
 
-
-#EXTINF:-1 group-title="台灣頻道",
 
 臺灣 Taiwan,#genre#
 #EXTINF:-1 group-title="台灣頻道",寰宇新聞台
@@ -818,9 +811,6 @@ http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MF7F56655829566558
 #EXTINF:-1 group-title="台灣頻道",龍華電影
 http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=53153e05f428f28b65eb5559ae5b9dc0
 
-
-#EXTINF:-1 group-title="馬來西亞頻道",
-
 馬來西亞 Malaysia,#genre#
 #EXTINF:-1 group-title="馬來西亞頻道",華麗台 HD
 http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=798dd508a520591696de2b87ed95b3c2
@@ -983,10 +973,6 @@ http://50.7.234.10:8278/Showcase_mega/playlist.m3u8?tid=MF7F5665582956655829&ct=
 #EXTINF:-1 group-title="馬來西亞頻道",BolaArena 2
 http://50.7.234.10:8278/Bolaarena2/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b46ae5e6b7755b6a4221a0a5a71c098b
 
-
-#EXTINF:-1 group-title="新加坡頻道",
-
-
 新加坡 Singapore,#genre#
 #EXTINF:-1 group-title="新加坡頻道",Channel 5
 http://50.7.234.10:8278/Channel5HD/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c47739eabaa2df6f14b749dbcace4595
@@ -1014,8 +1000,6 @@ http://50.7.234.10:8278/cna/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum
 http://50.7.234.10:8278/cna_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=014d75193d31a0b1b7241aa1a9c098e5
 
 
-
-#EXTINF:-1 group-title="印尼頻道",
 
 印尼 Indonesia,#genre#
 #EXTINF:-1 group-title="印尼頻道",TVRI National
@@ -1104,8 +1088,6 @@ http://50.7.234.10:8278/Rockaction/playlist.m3u8?tid=MF7F5665582956655829&ct=193
 http://50.7.234.10:8278/Rockentertain/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=761fae4a976f56c888520270917f56e5
 
 
-
-#EXTINF:-1 group-title="體育頻道",
 
 體育 Sports,#genre#
 #EXTINF:-1 group-title="體育頻道",Supersports 1
@@ -1228,8 +1210,6 @@ http://50.7.234.10:8278/Rugbypasstv/playlist.m3u8?tid=MF7F5665582956655829&ct=19
 http://50.7.234.10:8278/Bolaarena2/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b46ae5e6b7755b6a4221a0a5a71c098b
 
 
-#EXTINF:-1 group-title="電影頻道",
-
 電影 Movie,#genre#
 #EXTINF:-1 group-title="電影頻道",AXN
 http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ef65538f6c01924d72c6a0e75f36e60d
@@ -1306,8 +1286,6 @@ http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MF7F5665582956655829
 
 
 
-#EXTINF:-1 group-title="紀錄頻道",
-
 紀錄 Documentary,#genre#
 #EXTINF:-1 group-title="紀錄頻道",AFC 亞洲旅遊台
 http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c46bab3a6e1c86c707d19a14a693cf91
@@ -1355,29 +1333,42 @@ http://50.7.234.10:8278/afc_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&
 http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=9456ea55015e1e54800d4d44b92db866
 
 
-#EXTINF:-1 group-title="新聞頻道",
-
 新聞 News,#genre#
-#EXTINF:-1 group-title="新聞頻道",ABC News,http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7773bb70e616400bfda985d96909b3a5
-#EXTINF:-1 group-title="新聞頻道",Al-Jazeera,http://50.7.234.10:8278/aljazeera_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=caca89305e6f2d1a4d3ac75c7fce6acd
-#EXTINF:-1 group-title="新聞頻道",BBC World News,http://50.7.234.10:8278/Bbcnews/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b194a4c4dfa9013dd6103099d8125552
-#EXTINF:-1 group-title="新聞頻道",BBC World News,http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bd2772a88f50da7682a7c1ef77373a87
-#EXTINF:-1 group-title="新聞頻道",Bloomberg News,http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=437e10670d228bfa01c17c4c9da25d2b
-#EXTINF:-1 group-title="新聞頻道",CBS HD,http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3105019e9c32ae1284e0cc01a97f6b3e
-#EXTINF:-1 group-title="新聞頻道",CBSN HD,http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1aaa6e84232816d105091ffa6c8d08a8
-#EXTINF:-1 group-title="新聞頻道",CGTN,http://50.7.234.10:8278/CGTN/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6c8fc36783fddce0a87edf5ef49cf533
-#EXTINF:-1 group-title="新聞頻道",CNA,http://50.7.234.10:8278/cna/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b042fa41eccd87932232acdc960aa8ec
-#EXTINF:-1 group-title="新聞頻道",CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=de6159112e131787acda6635a87ac7b1
-#EXTINF:-1 group-title="新聞頻道",CNN International,http://50.7.234.10:8278/Cnn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=25a6c44f938f4beb3e116b8b553c104d
-#EXTINF:-1 group-title="新聞頻道",CNN(備用),http://50.7.234.10:8278/cnn_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=31ede81b7f52405ec08a8c5f9d8de275
-#EXTINF:-1 group-title="新聞頻道",DW (Deutsch),http://50.7.234.10:8278/dw_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c146c6b96c061f35f93e0903d9737183
-#EXTINF:-1 group-title="新聞頻道",Fox News,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=dbc31fe99aba509476ea2a48ab135ea9
-#EXTINF:-1 group-title="新聞頻道",France 24,http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=da10ccb4b3c2c7462b076381c7e5f5ac
-#EXTINF:-1 group-title="新聞頻道",NHK World,http://50.7.234.10:8278/nhkworld_japan/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=93ef433cfff4265f9081a9abc35ad5c4
-#EXTINF:-1 group-title="新聞頻道",Skynews,http://50.7.234.10:8278/skynews_antik/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ae9ea58dee0f57e7aae6ab0a4d5ff14b
+#EXTINF:-1 group-title="新聞頻道",ABC News
+http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7773bb70e616400bfda985d96909b3a5
+#EXTINF:-1 group-title="新聞頻道",Al-Jazeera
+http://50.7.234.10:8278/aljazeera_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=caca89305e6f2d1a4d3ac75c7fce6acd
+#EXTINF:-1 group-title="新聞頻道",BBC World News
+http://50.7.234.10:8278/Bbcnews/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b194a4c4dfa9013dd6103099d8125552
+#EXTINF:-1 group-title="新聞頻道",BBC World News
+http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bd2772a88f50da7682a7c1ef77373a87
+#EXTINF:-1 group-title="新聞頻道",Bloomberg News
+http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=437e10670d228bfa01c17c4c9da25d2b
+#EXTINF:-1 group-title="新聞頻道",CBS HD
+http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3105019e9c32ae1284e0cc01a97f6b3e
+#EXTINF:-1 group-title="新聞頻道",CBSN HD
+http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1aaa6e84232816d105091ffa6c8d08a8
+#EXTINF:-1 group-title="新聞頻道",CGTN
+http://50.7.234.10:8278/CGTN/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=6c8fc36783fddce0a87edf5ef49cf533
+#EXTINF:-1 group-title="新聞頻道",CNA
+http://50.7.234.10:8278/cna/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b042fa41eccd87932232acdc960aa8ec
+#EXTINF:-1 group-title="新聞頻道",CNBC
+http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=de6159112e131787acda6635a87ac7b1
+#EXTINF:-1 group-title="新聞頻道",CNN International
+http://50.7.234.10:8278/Cnn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=25a6c44f938f4beb3e116b8b553c104d
+#EXTINF:-1 group-title="新聞頻道",CNN(備用)
+http://50.7.234.10:8278/cnn_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=31ede81b7f52405ec08a8c5f9d8de275
+#EXTINF:-1 group-title="新聞頻道",DW (Deutsch)
+http://50.7.234.10:8278/dw_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c146c6b96c061f35f93e0903d9737183
+#EXTINF:-1 group-title="新聞頻道",Fox News
+http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=dbc31fe99aba509476ea2a48ab135ea9
+#EXTINF:-1 group-title="新聞頻道",France 24
+http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=da10ccb4b3c2c7462b076381c7e5f5ac
+#EXTINF:-1 group-title="新聞頻道",NHK World
+http://50.7.234.10:8278/nhkworld_japan/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=93ef433cfff4265f9081a9abc35ad5c4
+#EXTINF:-1 group-title="新聞頻道",Skynews
+http://50.7.234.10:8278/skynews_antik/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ae9ea58dee0f57e7aae6ab0a4d5ff14b
 
-
-#EXTINF:-1 group-title="英國頻道",
 
 United Kingdom,#genre#
 #EXTINF:-1 group-title="英國頻道",Al-Jazeera
@@ -1476,27 +1467,39 @@ http://50.7.234.10:8278/itv1_antik/playlist.m3u8?tid=MF7F5665582956655829&ct=193
 http://50.7.234.10:8278/itv2_antik/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=70016d7fb54e1fc99d899f69f0920ecb
 
 
-#EXTINF:-1 group-title="兒童頻道",
-
 兒童 Kids,#genre#
-#EXTINF:-1 group-title="兒童頻道",Animax,http://50.7.234.10:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
-#EXTINF:-1 group-title="兒童頻道",Baby TV Eng,http://50.7.234.10:8278/Babytv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=4e89af6a03a13260482714664afbf652
-#EXTINF:-1 group-title="兒童頻道",Baby TV,http://50.7.234.10:8278/babytv_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b672f355da00b154dc740ed3ed7960e4
-#EXTINF:-1 group-title="兒童頻道",Boomerang Taiwan,http://50.7.234.10:8278/boomerang_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ab1fe80daf0e49208456e8cdb2988135
-#EXTINF:-1 group-title="兒童頻道",Boomerang,http://50.7.234.10:8278/Boomerang/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=eb402408ea9afb9a199e5d34de01fb4d
-#EXTINF:-1 group-title="兒童頻道",CBeebies,http://50.7.234.10:8278/Cbeebies/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=512780d7108b74fab3972e246b571ada
-#EXTINF:-1 group-title="兒童頻道",Cartoon Network,http://50.7.234.10:8278/Cn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3734a1580ab693a911e84d58cf77f9d0
-#EXTINF:-1 group-title="兒童頻道",Disney Taiwan,http://50.7.234.10:8278/disneytwn_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=dd5f33611a8612cf72ee32ced830359b
-#EXTINF:-1 group-title="兒童頻道",Kids TV,http://50.7.234.10:8278/KidsTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ef64fa854ebddc5b606f450f23e75232
-#EXTINF:-1 group-title="兒童頻道",MiaoMi,http://50.7.234.10:8278/MiaoMi/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=43f958ffa3e4b54484bc4e33b7db8c7d
-#EXTINF:-1 group-title="兒童頻道",Momo TV,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1bcf38de8605c061c98d5e5c55163725
-#EXTINF:-1 group-title="兒童頻道",Nick Jr,http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
-#EXTINF:-1 group-title="兒童頻道",Nickelodeon,http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
-#EXTINF:-1 group-title="兒童頻道",東森幼幼 Yoyo TV,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2faab835f87149b2c983ce8abe7a5209
-#EXTINF:-1 group-title="兒童頻道",靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f5657d632cedda0ca11bac82e3168618
+#EXTINF:-1 group-title="兒童頻道",Animax
+http://50.7.234.10:8278/Animax/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=aceff7688c2c3307497c5161715a262f
+#EXTINF:-1 group-title="兒童頻道",Baby TV Eng
+http://50.7.234.10:8278/Babytv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=4e89af6a03a13260482714664afbf652
+#EXTINF:-1 group-title="兒童頻道",Baby TV
+http://50.7.234.10:8278/babytv_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b672f355da00b154dc740ed3ed7960e4
+#EXTINF:-1 group-title="兒童頻道",Boomerang Taiwan
+http://50.7.234.10:8278/boomerang_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ab1fe80daf0e49208456e8cdb2988135
+#EXTINF:-1 group-title="兒童頻道",Boomerang
+http://50.7.234.10:8278/Boomerang/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=eb402408ea9afb9a199e5d34de01fb4d
+#EXTINF:-1 group-title="兒童頻道",CBeebies
+http://50.7.234.10:8278/Cbeebies/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=512780d7108b74fab3972e246b571ada
+#EXTINF:-1 group-title="兒童頻道",Cartoon Network
+http://50.7.234.10:8278/Cn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3734a1580ab693a911e84d58cf77f9d0
+#EXTINF:-1 group-title="兒童頻道",Disney Taiwan
+http://50.7.234.10:8278/disneytwn_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=dd5f33611a8612cf72ee32ced830359b
+#EXTINF:-1 group-title="兒童頻道",Kids TV
+http://50.7.234.10:8278/KidsTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=ef64fa854ebddc5b606f450f23e75232
+#EXTINF:-1 group-title="兒童頻道",MiaoMi
+http://50.7.234.10:8278/MiaoMi/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=43f958ffa3e4b54484bc4e33b7db8c7d
+#EXTINF:-1 group-title="兒童頻道",Momo TV
+http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=1bcf38de8605c061c98d5e5c55163725
+#EXTINF:-1 group-title="兒童頻道",Nick Jr
+http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f107dfb5ab2c6eebb329204844d2cec6
+#EXTINF:-1 group-title="兒童頻道",Nickelodeon
+http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=427d533c5232b3083073d50f48059425
+#EXTINF:-1 group-title="兒童頻道",東森幼幼 Yoyo TV
+http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2faab835f87149b2c983ce8abe7a5209
+#EXTINF:-1 group-title="兒童頻道",靖天卡通台
+http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f5657d632cedda0ca11bac82e3168618
 
 
-#EXTINF:-1 group-title="泰國頻道",
 
 泰國 Thailand,#genre#
 #EXTINF:-1 group-title="泰國頻道",Amarin
@@ -1539,8 +1542,6 @@ http://50.7.234.10:8278/workpoint_pat/playlist.m3u8?tid=MF7F5665582956655829&ct=
 http://50.7.234.10:8278/tpbs_pat/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=f9594c21729b2bcb96cc511e1f14de30
 
 
-#EXTINF:-1 group-title="越南頻道",
-
 越南 Vietnam,#genre#
 #EXTINF:-1 group-title="越南頻道",ANTV
 http://50.7.234.10:8278/viet_antv/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=5f84b031c167caca97566a22be89f649
@@ -1567,7 +1568,6 @@ http://50.7.234.10:8278/viet_vtv1/playlist.m3u8?tid=MF7F5665582956655829&ct=1939
 #EXTINF:-1 group-title="越南頻道",VTV 7
 http://50.7.234.10:8278/viet_vtv7/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=839913204badc8fbf1f57d0fde33bddd
 
-#EXTINF:-1 group-title="韓國頻道",
 
 韓國 Korea,#genre#
 #EXTINF:-1 group-title="韓國頻道",All the Kpop
@@ -1606,9 +1606,6 @@ http://50.7.234.10:8278/ytn_korea/playlist.m3u8?tid=MF7F5665582956655829&ct=1939
 http://50.7.234.10:8278/yonhapnews_korea/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7eae0a1c361f64affc8e3fb2ff6cb3a9
 
 
-
-#EXTINF:-1 group-title="日本頻道",
-
 日本 Japan,#genre#
 #EXTINF:-1 group-title="日本頻道",BS-TBS
 http://50.7.234.10:8278/bstbs_japan/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=88e9d849a319649a508a72671041651b
@@ -1639,9 +1636,6 @@ http://50.7.234.10:8278/asahitv_japan/playlist.m3u8?tid=MF7F5665582956655829&ct=
 #EXTINF:-1 group-title="日本頻道",テレビ東京 Tokyo TV
 http://50.7.234.10:8278/tokyotv_japan/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=e5294077f671635decb9be5002c30f19
 
-
-
-#EXTINF:-1 group-title="印度頻道",
 
 印度 Indian,#genre#
 #EXTINF:-1 group-title="印度頻道",Sun TV HD
@@ -1762,7 +1756,7 @@ https://gdfire2.67890123.cn:8088/live/ztxw21.m3u8
 https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
 #EXTINF:-1 group-title="台港澳",龍華電影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="台灣",龍華經典
+#EXTINF:-1 group-title="台港澳",龍華經典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 #EXTINF:-1 group-title="台港澳",龍華卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
@@ -3076,8 +3070,16 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="美國",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="美國",1212pp
-http://kenneth001.serv00.net/1212pp.php
+
+
+
+#EXTINF:-1 group-title="美國",松3
+http://z3.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
+#EXTINF:-1 group-title="美國",极限电影台
+http://z3.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
+#EXTINF:-1 group-title="美國",松99
+http://z3.ubtvfans.com/live/rx3/336/5d2c5bbad67a97c988ac671f4f3f7df6/index.m3u8
+
 #EXTINF:-1 group-title="美國",porn
 http://kenneth001.serv00.net/porn.php
 #EXTINF:-1 group-title="美國",限制级电影
