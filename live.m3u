@@ -2128,29 +2128,6 @@ http://c1.7bbffvip.com/video/nazhazhimotongnaohai/%E4%BF%AE%E5%A4%8D%E7%89%88/in
 https://luong.utako.moe/pigoo/index.m3u8
 
 
-
-#EXTINF:-1 group-title="台港澳",翡翠台
-http://erp.giihgtidg.com:8080/live/jade.m3u8
-#EXTINF:-1 group-title="台港澳",無線新聞
-http://erp.giihgtidg.com:8080/live/wxxw.m3u8
-#EXTINF:-1 group-title="台港澳",Tvbplus
-https://gdfire2.67890123.cn:8088/live/tvbplus.m3u8
-#EXTINF:-1 group-title="台港澳",Hoy78
-https://gdfire2.67890123.cn:8088/live/hoy78.m3u8
-#EXTINF:-1 group-title="台港澳",Now新聞
-https://gdfire2.67890123.cn:8088/live/nowxw1.m3u8
-#EXTINF:-1 group-title="台港澳",Now體育1
-https://gdfire2.67890123.cn:8088/live/nowty1.m3u8
-#EXTINF:-1 group-title="台港澳",Now體育2
-https://gdfire2.67890123.cn:8088/live/nowty2.m3u8
-#EXTINF:-1 group-title="台港澳",東森新聞
-https://gdfire2.67890123.cn:8088/live/dsxw1.m3u8
-#EXTINF:-1 group-title="台港澳",中天新聞
-https://gdfire2.67890123.cn:8088/live/ztxw1.m3u8
-#EXTINF:-1 group-title="台港澳",中天新聞2
-https://gdfire2.67890123.cn:8088/live/ztxw21.m3u8
-#EXTINF:-1 group-title="台港澳",寰宇新聞
-https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
 #EXTINF:-1 group-title="台港澳",龍華電影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="台港澳",龍華經典
@@ -2164,29 +2141,6 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 group-title="台港澳",龍華戲劇
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
-
-#EXTINF:-1 group-title="台港澳",八大戲劇
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="台港澳",八大戲劇
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="台港澳",中華小當家
-http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 group-title="台港澳",AMC電影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="台港澳",中天娛樂
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="台港澳",緯來精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="台港澳",49號
-http://61.221.215.25:8800/hls/49/index.m3u8
-#EXTINF:-1 group-title="台港澳",探索亞洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="台港澳",八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 group-title="台港澳",動物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="台港澳",八大綜合
-http://61.221.215.25:8800/hls/56/index.m3u8
 
 
 #EXTINF:-1 group-title="台港澳",翡翠台
@@ -2276,54 +2230,41 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 
 
-#EXTINF:-1 group-title="台港澳",翡翠台
+#EXTINF:-1 group-title="台港澳",翡翠台(tvfix)
 https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-#EXTINF:-1 group-title="台港澳",TVBplus
+#EXTINF:-1 group-title="台港澳",TVBplus(tvfix)
 https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",無線新聞
+#EXTINF:-1 group-title="台港澳",無線新聞(tvfix)
 https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",明珠台
+#EXTINF:-1 group-title="台港澳",明珠台(tvfix)
 https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",娛樂新聞
+#EXTINF:-1 group-title="台港澳",娛樂新聞(tvfix)
 https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",鳳凰中文
+#EXTINF:-1 group-title="台港澳",鳳凰中文(tvfix)
 https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",鳳凰諮詢
+#EXTINF:-1 group-title="台港澳",鳳凰諮詢(tvfix)
 https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",鳳凰香港
+#EXTINF:-1 group-title="台港澳",鳳凰香港(tvfix)
 https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",18賽馬
+#EXTINF:-1 group-title="台港澳",18賽馬(tvfix)
 https://live.tvfix.org/live/c18/4/v200000/index.m3u8
-#EXTINF:-1 group-title="台港澳",28賽馬
+#EXTINF:-1 group-title="台港澳",28賽馬(tvfix)
 https://live.tvfix.org/live/c28/2/v200000/index.m3u8
-#EXTINF:-1 group-title="台港澳",美亞電影
+#EXTINF:-1 group-title="台港澳",美亞電影(tvfix)
 https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",天映經典
+#EXTINF:-1 group-title="台港澳",天映經典(tvfix)
 https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",無線亞洲
+#EXTINF:-1 group-title="台港澳",無線亞洲(tvfix)
 https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",TVBS新聞
+#EXTINF:-1 group-title="台港澳",TVBS新聞(tvfix)
 https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="台港澳",POPC
+#EXTINF:-1 group-title="台港澳",POPC(tvfix)
 https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
-
-
-#EXTINF:-1 group-title="台港澳",mytv18
-http://120.234.104.188:8080/live/mytv18.m3u8
-#EXTINF:-1 group-title="台港澳",Hoy77
-http://120.234.104.188:8080/live/hoy77.m3u8
-
-
 
 #EXTINF:-1 group-title="台港澳",C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-
-
-
-
-********************************************************************************
 
 
 ****************************************************************************************
@@ -2969,6 +2910,196 @@ https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/8688
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/9022
 
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US ESPN " tvg-logo="https://logo.iptveditor.com/espn.png" group-title="US SPORTS",US ESPN 
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/619
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="US SPORTS",US ESPN 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/622
+#EXTINF:-1 tvg-id="espncollegeextra1.us" tvg-name="US ESPN COLLEGE EXTRA 1" tvg-logo="https://logo.iptveditor.com/espncollegeextra1.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/624
+#EXTINF:-1 tvg-id="espncollegeextra2.us" tvg-name="US ESPN COLLEGE EXTRA 2" tvg-logo="https://logo.iptveditor.com/espncollegeextra2.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/625
+#EXTINF:-1 tvg-id="espncollegeextra3.us" tvg-name="US ESPN COLLEGE EXTRA 3" tvg-logo="https://logo.iptveditor.com/espncollegeextra3.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 3
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/626
+#EXTINF:-1 tvg-id="espncollegeextra4.us" tvg-name="US ESPN COLLEGE EXTRA 4" tvg-logo="https://logo.iptveditor.com/espncollegeextra4.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/627
+#EXTINF:-1 tvg-id="espncollegeextra5.us" tvg-name="US ESPN COLLEGE EXTRA 5" tvg-logo="https://logo.iptveditor.com/espncollegeextra5.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 5
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/628
+#EXTINF:-1 tvg-id="espncollegeextra6.us" tvg-name="US ESPN COLLEGE EXTRA 6" tvg-logo="https://logo.iptveditor.com/espncollegeextra6.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 6
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/629
+#EXTINF:-1 tvg-id="espncollegeextra7.us" tvg-name="US ESPN COLLEGE EXTRA 7" tvg-logo="https://logo.iptveditor.com/espncollegeextra7.png" group-title="US SPORTS",US ESPN COLLEGE EXTRA 7
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/630
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="US ESPNEWS" tvg-logo="https://logo.iptveditor.com/espnews.png" group-title="US SPORTS",US ESPNEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/634
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="US ESPNU" tvg-logo="https://logo.iptveditor.com/espnu.png" group-title="US SPORTS",US ESPNU
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/638
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkDetroit.us" tvg-name="US FANDUEL SPORTS NETWORK DETROIT" tvg-logo="https://i.imgur.com/wJOW2hI.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK DETROIT
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21217
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkGreatLakes.us" tvg-name="US FANDUEL SPORTS NETWORK GREAT LAKES" tvg-logo="https://i.imgur.com/FnhKb74.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK GREAT LAKES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21218
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkIndiana.us" tvg-name="US FANDUEL SPORTS NETWORK INDIANA" tvg-logo="https://i.imgur.com/RJosH5y.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK INDIANA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21220
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkMidwest.us" tvg-name="US FANDUEL SPORTS NETWORK MIDWEST" tvg-logo="https://i.imgur.com/PWZ0wJQ.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK MIDWEST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21224
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkNetbase.us" tvg-name="US FANDUEL SPORTS NETWORK NETBASE" tvg-logo="https://i.imgur.com/4HUUZcJ.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK NETBASE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21222
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkNorth.us" tvg-name="US FANDUEL SPORTS NETWORK NEW ORLEANS" tvg-logo="https://i.imgur.com/P3TBjKx.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK NEW ORLEANS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21223
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkNorth.us" tvg-name="US FANDUEL SPORTS NETWORK NORTH" tvg-logo="https://i.imgur.com/PfQcbqu.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK NORTH
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21232
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkCincinnati.us" tvg-name="US FANDUEL SPORTS NETWORK OHIO" tvg-logo="https://i.imgur.com/viLEnXx.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK OHIO
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21230
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkOklahoma.us" tvg-name="US FANDUEL SPORTS NETWORK OKLAHOMA" tvg-logo="https://i.imgur.com/k82rovN.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK OKLAHOMA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21231
+#EXTINF:-1 tvg-id="FanDuelRacing.us" tvg-name="US FANDUEL SPORTS NETWORK RACING" tvg-logo="https://i.imgur.com/4ZFv8Qm.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK RACING
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21219
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoCalExtra.us" tvg-name="US FANDUEL SPORTS NETWORK SOCAL" tvg-logo="https://i.imgur.com/G7ip55T.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK SOCAL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21221
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSouth.us" tvg-name="US FANDUEL SPORTS NETWORK SOUTH" tvg-logo="https://i.imgur.com/Vhpll5B.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK SOUTH
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21226
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheast.us" tvg-name="US FANDUEL SPORTS NETWORK SOUTHEAST" tvg-logo="https://i.imgur.com/m5eO2D7.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK SOUTHEAST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21233
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkWest.us" tvg-name="US FANDUEL SPORTS NETWORK SOUTHWEST" tvg-logo="https://i.imgur.com/9vg5KI6.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK SOUTHWEST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21228
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkSun.us" tvg-name="US FANDUEL SPORTS NETWORK SUN" tvg-logo="https://i.imgur.com/iH50cjS.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK SUN
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21227
+#EXTINF:-1 tvg-id="" tvg-name="US FANDUEL SPORTS NETWORK SUN PLUS" tvg-logo="https://i.imgur.com/iH50cjS.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK SUN PLUS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22369
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkTennessee.us" tvg-name="US FANDUEL SPORTS NETWORK TENNESSEE" tvg-logo="https://i.imgur.com/03iKtyL.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK TENNESSEE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21229
+#EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="US FANDUEL SPORTS NETWORK TV" tvg-logo="https://imgur.com/a/ykSR6aA.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21234
+#EXTINF:-1 tvg-id="FanDuelSportsNetworkWisconsin.us" tvg-name="US FANDUEL SPORTS NETWORK WISCONSIN" tvg-logo="https://i.imgur.com/ers6qxN.png" group-title="US SPORTS",US FANDUEL SPORTS NETWORK WISCONSIN
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21225
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="US FIGHT NETWORK" tvg-logo="https://logo.iptveditor.com/fightnetwork.png" group-title="US SPORTS",US FIGHT NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/642
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="US FOX SOCCER PLUS" tvg-logo="https://logo.iptveditor.com/foxsoccerplus.png" group-title="US SPORTS",US FOX SOCCER PLUS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/644
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="US SPORTS",US FOX SPORTS 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/647
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="US SPORTS",US FOX SPORTS 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/649
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-name="US FUBO SPORTS NETWORK" tvg-logo="https://logo.iptveditor.com/fubosportsnetwork.png" group-title="US SPORTS",US FUBO SPORTS NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/660
+#EXTINF:-1 tvg-id="GamePlus.us" tvg-name="US GAME+" tvg-logo="https://logo.iptveditor.com/gametv.png" group-title="US SPORTS",US GAME+
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/643
+#EXTINF:-1 tvg-id="GINXeSportsTV.uk" tvg-name="US GINX TV" tvg-logo="https://logo.iptveditor.com/sginxesports.png" group-title="US SPORTS",US GINX TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/661
+#EXTINF:-1 tvg-id="GOLTVEnglish.us" tvg-name="US GOL TV" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="US SPORTS",US GOL TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/662
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US GOLF CHANNEL" tvg-logo="https://logo.iptveditor.com/golfchannel.png" group-title="US SPORTS",US GOLF CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/665
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-name="US HUNT CHANNEL" tvg-logo="https://i.imgur.com/AjgfWT6.png" group-title="US SPORTS",US HUNT CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/666
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-name="US IMPACT! WRESTLING" tvg-logo="https://logo.iptveditor.com/impactwrestling.png" group-title="US SPORTS",US IMPACT! WRESTLING
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/77
+
+
+#EXTINF:-1 tvg-id="MarqueeSports.us" tvg-name="US MARQUEE SPORTS NETWORK" tvg-logo="https://logo.iptveditor.com/marqueesportsnetwork.png" group-title="US SPORTS",US MARQUEE SPORTS NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/669
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="US MASN" tvg-logo="https://logo.iptveditor.com/masn.png" group-title="US SPORTS",US MASN
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/670
+#EXTINF:-1 tvg-id="MASN2.us" tvg-name="US MASN 2" tvg-logo="https://logo.iptveditor.com/masn2.png" group-title="US SPORTS",US MASN 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/671
+#EXTINF:-1 tvg-id="MavTV.us" tvg-name="US MAVTV" tvg-logo="https://logo.iptveditor.com/mavtv.png" group-title="US SPORTS",US MAVTV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/92
+#EXTINF:-1 tvg-id="MSGZone1.us" tvg-name="US MSG " tvg-logo="https://logo.iptveditor.com/msg.png" group-title="US SPORTS",US MSG 
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/675
+#EXTINF:-1 tvg-id="MSG2.us" tvg-name="US MSG 2 " tvg-logo="https://logo.iptveditor.com/msg2.png" group-title="US SPORTS",US MSG 2 
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/676
+#EXTINF:-1 tvg-id="MSG2.us" tvg-name="US MSG 2 PLUS" tvg-logo="https://logo.iptveditor.com/msg2.png" group-title="US SPORTS",US MSG 2 PLUS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/677
+#EXTINF:-1 tvg-id="MSGSNZone1.us" tvg-name="US MSG PLUS" tvg-logo="https://logo.iptveditor.com/msgplus.png" group-title="US SPORTS",US MSG PLUS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/678
+#EXTINF:-1 tvg-id="MSGZone2.us" tvg-name="US MSG ZONE 2" tvg-logo="https://logo.iptveditor.com/msg.png" group-title="US SPORTS",US MSG ZONE 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/679
+
+
+
+#EXTINF:-1 tvg-id="GolfPass.peacocktv" tvg-name="US NBC GOLF PASS" tvg-logo="https://logo.iptveditor.com/nbcgolf.png" group-title="US SPORTS",US NBC GOLF PASS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/684
+#EXTINF:-1 tvg-id="NBCSportsonPeacock.peacocktv" tvg-name="US NBC SPORTS NETWORK" tvg-logo="https://logo.iptveditor.com/nbcsportsnetwork.png" group-title="US SPORTS",US NBC SPORTS NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/696
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="US NESN" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="US SPORTS",US NESN
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/705
+#EXTINF:-1 tvg-id="NESN.us" tvg-name="US NESN 4K" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="US SPORTS",US NESN 4K
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/11451
+#EXTINF:-1 tvg-id="NESNplus.us" tvg-name="US NESN PLUS" tvg-logo="https://logo.iptveditor.com/nesnplus.png" group-title="US SPORTS",US NESN PLUS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/704
+#EXTINF:-1 tvg-id="NextLevelSports.us" tvg-name="US NEXT LEVEL SPORTS" tvg-logo="https://i.imgur.com/CkOtVYe.png" group-title="US SPORTS",US NEXT LEVEL SPORTS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/618
+#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="US OLYMPIC CHANNEL" tvg-logo="https://logo.iptveditor.com/olympicchannel.png" group-title="US SPORTS",US OLYMPIC CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/711
+
+
+
+
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="US SEC NETWORK" tvg-logo="https://logo.iptveditor.com/secnetworkhz.png" group-title="US SPORTS",US SEC NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/727
+#EXTINF:-1 tvg-id="SNY.us" tvg-name="US SNY" tvg-logo="https://logo.iptveditor.com/sny.png" group-title="US SPORTS",US SNY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/735
+#EXTINF:-1 tvg-id="SpectrumOC16.us" tvg-name="US SPECTRUM OC16" tvg-logo="https://i.imgur.com/hGDPQVQ.png" group-title="US SPORTS",US SPECTRUM OC16
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/761
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US SPECTRUM SPORTSNET" tvg-logo="https://imgur.com/a/Xx8LBmI.png" group-title="US SPORTS",US SPECTRUM SPORTSNET
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/21655
+#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="US SPECTRUM SPORTSNET LA DODGERS" tvg-logo="https://logo.iptveditor.com/spectrumsportsnetla.png" group-title="US SPORTS",US SPECTRUM SPORTSNET LA DODGERS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/729
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US SPECTRUM SPORTSNET LAKERS" tvg-logo="https://logo.iptveditor.com/spectrumsportsnetla.png" group-title="US SPORTS",US SPECTRUM SPORTSNET LAKERS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/730
+#EXTINF:-1 tvg-id="SpectrumXCast1.us" tvg-name="US SPECTRUM XCAST 1" tvg-logo="https://i.imgur.com/TUA1HMI.png" group-title="US SPORTS",US SPECTRUM XCAST 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19663
+#EXTINF:-1 tvg-id="SpectrumXCast2.us" tvg-name="US SPECTRUM XCAST 2" tvg-logo="https://i.imgur.com/kVJQ9Cu.png" group-title="US SPORTS",US SPECTRUM XCAST 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19664
+#EXTINF:-1 tvg-id="SpectrumXCastMultiview.us" tvg-name="US SPECTRUM XCAST MULTIVIEW" tvg-logo="https://i.imgur.com/kVJQ9Cu.png" group-title="US SPORTS",US SPECTRUM XCAST MULTIVIEW
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19665
+#EXTINF:-1 tvg-id="SpeedSport1.pluto" tvg-name="US SPEED SPORT 1" tvg-logo="https://i.ibb.co/BH9Hjj1n/HORIZONTAL-WITH-NEW-TAGLINE-WHITE-LETTERS-2.png" group-title="US SPORTS",US SPEED SPORT 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22774
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="US SPORTSGRID" tvg-logo="https://logo.iptveditor.com/sportsgrid.png" group-title="US SPORTS",US SPORTSGRID
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/733
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="US SPORTSMAN CHANNEL" tvg-logo="https://logo.iptveditor.com/sportsmanchannel.png" group-title="US SPORTS",US SPORTSMAN CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/734
+#EXTINF:-1 tvg-id="Stadium.us" tvg-name="US STADIUM" tvg-logo="https://logo.iptveditor.com/stadium.png" group-title="US SPORTS",US STADIUM
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/737
+#EXTINF:-1 tvg-id="Stadium1.us" tvg-name="US STADIUM 1" tvg-logo="https://logo.iptveditor.com/stadium.png" group-title="US SPORTS",US STADIUM 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/740
+#EXTINF:-1 tvg-id="Stadium2.us" tvg-name="US STADIUM 2" tvg-logo="https://logo.iptveditor.com/stadium.png" group-title="US SPORTS",US STADIUM 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/738
+#EXTINF:-1 tvg-id="Stadium3.us" tvg-name="US STADIUM 3" tvg-logo="https://logo.iptveditor.com/stadium.png" group-title="US SPORTS",US STADIUM 3
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/739
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US TENNIS CHANNEL" tvg-logo="https://logo.iptveditor.com/tennischannelhz.png" group-title="US SPORTS",US TENNIS CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/743
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US UFC 24/7" tvg-logo="https://logo.iptveditor.com/ufc.png" group-title="US SPORTS",US UFC 24/7
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/751
+#EXTINF:-1 tvg-id="VSIN.us" tvg-name="US VEGAS SPORTS AND INFORMATION NETWORK (VSIN)" tvg-logo="https://logo.iptveditor.com/vegasstats.png" group-title="US SPORTS",US VEGAS SPORTS AND INFORMATION NETWORK (VSIN)
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/752
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="US WILLOW CRICKET" tvg-logo="https://logo.iptveditor.com/willow.png" group-title="US SPORTS",US WILLOW CRICKET
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/753
+#EXTINF:-1 tvg-id="WillowCricketXtra.us" tvg-name="US WILLOW CRICKET EXTRA" tvg-logo="https://logo.iptveditor.com/willow.png" group-title="US SPORTS",US WILLOW CRICKET EXTRA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/754
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="US WORLD FISHING NETWORK" tvg-logo="https://logo.iptveditor.com/worldfishingnetwork.png" group-title="US SPORTS",US WORLD FISHING NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/755
+#EXTINF:-1 tvg-id="WorldPokerTour.pluto" tvg-name="US WORLD POKER TOUR" tvg-logo="https://logo.iptveditor.com/wptworldpokertourvod.png" group-title="US SPORTS",US WORLD POKER TOUR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4550
+#EXTINF:-1 tvg-id="WWENetwork.peacocktv" tvg-name="US WWE NETWORK" tvg-logo="https://logo.iptveditor.com/wwe.png" group-title="US SPORTS",US WWE NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/756
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="US YES NETWORK" tvg-logo="https://logo.iptveditor.com/yesnetwork.png" group-title="US SPORTS",US YES NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/757
+#EXTINF:-1 tvg-id="YES2Overflow.us" tvg-name="US YES OVERFLOW" tvg-logo="https://logo.iptveditor.com/yesnetwork.png" group-title="US SPORTS",US YES OVERFLOW
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/760
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2988,73 +3119,46 @@ http://18.svi-studio.com:80/live/875994180836/930699661147/101425.m3u8
 http://18.svi-studio.com:80/live/875994180836/930699661147/101426.m3u8
 #EXTINF:-1 group-title="美國",VIVID TV
 http://18.svi-studio.com:80/live/875994180836/930699661147/101427.m3u8
-#EXTINF:-1 group-title="美國",惊艳
+#EXTINF:-1 group-title="美國",驚艷台
 http://18.svi-studio.com:80/live/875994180836/930699661147/1.m3u8
 #EXTINF:-1 group-title="美國",潘朵拉完美
 http://18.svi-studio.com:80/live/875994180836/930699661147/3.m3u8
-#EXTINF:-1 group-title="美國",松视1
+#EXTINF:-1 group-title="美國",松視1
 http://18.svi-studio.com:80/live/875994180836/930699661147/5.m3u8
-#EXTINF:-1 group-title="美國",松视2
+#EXTINF:-1 group-title="美國",松視2
 http://18.svi-studio.com:80/live/875994180836/930699661147/6.m3u8
-#EXTINF:-1 group-title="美國",松视3
+#EXTINF:-1 group-title="美國",松視3
 http://18.svi-studio.com:80/live/875994180836/930699661147/20205.m3u8
-#EXTINF:-1 group-title="美國",香蕉
+#EXTINF:-1 group-title="美國",香蕉台
 http://18.svi-studio.com:80/live/875994180836/930699661147/4.m3u8
 #EXTINF:-1 group-title="美國",Pigoo
 https://luong.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="美國",Ai_Nude
-https://vip3.lbbf9.com/20240930/zdO94oci/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="美國",私房写真
-https://luong.utako.moe/pigoo/index.m3u8
-
-#EXTINF:-1 group-title="美國",Кино 18+ International
-https://v2.catcast.tv/content/40381/index.m3u8
-
-
-#EXTINF:-1 group-title="美國",PassionXXX HD
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
 #EXTINF:-1 group-title="美國",Eropuls DE 18+
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 group-title="美國",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="美國",松3
+#EXTINF:-1 group-title="美國",松視3
 http://z3.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
-#EXTINF:-1 group-title="美國",极限电影台
+#EXTINF:-1 group-title="美國",極限電影台
 http://z3.ubtvfans.com/live/rx3/405/3173a543a9c92b07348ba90c2a3e833e/index.m3u8
-#EXTINF:-1 group-title="美國",松99
-http://z3.ubtvfans.com/live/rx3/336/5d2c5bbad67a97c988ac671f4f3f7df6/index.m3u8
-
-#EXTINF:-1 group-title="美國",porn
-http://kenneth001.serv00.net/porn.php
-#EXTINF:-1 group-title="美國",限制级电影
-http://cdn.adultiptv.net/blonde.m3u8?streamType=liv
-
-#EXTINF:-1 group-title="美國",1pon113017_612
-https://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
-#EXTINF:-1 group-title="美國",1pon061110_854
-https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="美國",驚艷臺
+#EXTINF:-1 group-title="美國",驚艷台
 http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
-#EXTINF:-1 group-title="美國",潘多拉完美臺
+#EXTINF:-1 group-title="美國",潘多拉完美台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 group-title="美國",香蕉臺
+#EXTINF:-1 group-title="美國",香蕉台
 http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 group-title="美國",松視1臺
+#EXTINF:-1 group-title="美國",松視1台
 http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 group-title="美國",松視2臺
+#EXTINF:-1 group-title="美國",松視2台
 http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 group-title="美國",松視3臺
+#EXTINF:-1 group-title="美國",松視3台
 http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 group-title="美國",日本女优(2024)
 https://surrit.com/4a3b1744-107f-4c84-9915-2ad39bb2e756/1920x1080/video.m3u8
@@ -3116,20 +3220,6 @@ https://surrit.com/e9a10d82-61a5-4b94-a0ac-ab8f3e76e790/1920x1080/video.m3u8
 https://surrit.com/ccf632d4-3abf-43c3-99b4-31faaf4fde56/1280x720/video.m3u8
 #EXTINF:-1 group-title="美國",便利女人 (2024)
 https://surrit.com/5d82fa55-7eaa-49fe-9a94-e1565faec2d3/1920x1080/video.m3u8
-#EXTINF:-1 group-title="美國",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="美國",BRAZZERS
-http://23.237.100.82:8000/BRAZZERS/index.m3u8
-#EXTINF:-1 group-title="美國",Hustler
-http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1 group-title="美國",Pent House
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 group-title="美國",Pent House Gold
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="美國",Play Boy
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1 group-title="美國",Pure Taboo
-http://78.47.224.234/puretaboo/index.m3u8
 
 
 
@@ -3137,11 +3227,6 @@ http://78.47.224.234/puretaboo/index.m3u8
 
 ***************************************************************************
 
-
-
-
-#EXTINF:-1 group-title="PREMIUM MUSIC" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995d.png",Powerplay J-Pop
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7
 
 
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="PREMIUM MUSIC",M.net UHD
@@ -3322,11 +3407,6 @@ https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102
 #EXTINF:-1 tvg-id="4gtv-4gtv103" tvg-name="東森購物2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" group-title="ofiii直播",東森購物2台
 https://vrvwfasiyxst.ap-southeast-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
 
-
-
-
-
-*******************************************************************************************************
 
 
 
@@ -4055,7 +4135,500 @@ https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22413
 
 
 
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="UK BBC ONE" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK ENTERTAINMENT",UK BBC ONE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/159
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="UK BBC TWO" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="UK ENTERTAINMENT",UK BBC TWO
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/160
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="UK ITV" tvg-logo="https://logo.iptveditor.com/itv1.png" group-title="UK ENTERTAINMENT",UK ITV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/225
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK CHANNEL 4" tvg-logo="https://logo.iptveditor.com/channel4.png" group-title="UK ENTERTAINMENT",UK CHANNEL 4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/167
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK CHANNEL 5" tvg-logo="https://logo.iptveditor.com/channel5.png" group-title="UK ENTERTAINMENT",UK CHANNEL 5
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3956
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK SKY SHOWCASE" tvg-logo="https://logo.iptveditor.com/skyshowcase.png" group-title="UK ENTERTAINMENT",UK SKY SHOWCASE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10237
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK SKY WITNESS" tvg-logo="https://logo.iptveditor.com/skywitness.png" group-title="UK ENTERTAINMENT",UK SKY WITNESS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/198
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK SKY ATLANTIC" tvg-logo="https://logo.iptveditor.com/skyatlantic.png" group-title="UK ENTERTAINMENT",UK SKY ATLANTIC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3950
+#EXTINF:-1 tvg-id="SkyMix.uk" tvg-name="UK SKY MIX" tvg-logo="https://i.ibb.co/D44f0gw/Sky-Mix-2023-logo.png" group-title="UK ENTERTAINMENT",UK SKY MIX
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19865
+#EXTINF:-1 tvg-id="UAndAlibi.uk" tvg-name="UK ALIBI" tvg-logo="https://logo.iptveditor.com/alibi.png" group-title="UK ENTERTAINMENT",UK ALIBI
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/158
+#EXTINF:-1 tvg-id="UAndGold.uk" tvg-name="UK GOLD" tvg-logo="https://logo.iptveditor.com/gold.png" group-title="UK ENTERTAINMENT",UK GOLD
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/177
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="UK DAVE" tvg-logo="https://logo.iptveditor.com/dave.png" group-title="UK ENTERTAINMENT",UK DAVE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/171
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK COMEDY CENTRAL" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="UK ENTERTAINMENT",UK COMEDY CENTRAL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/170
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK SKY MAX" tvg-logo="https://logo.iptveditor.com/skymax.png" group-title="UK ENTERTAINMENT",UK SKY MAX
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/18162
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK SKY COMEDY" tvg-logo="https://logo.iptveditor.com/skycomedy.png" group-title="UK ENTERTAINMENT",UK SKY COMEDY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/18163
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="UK BBC THREE" tvg-logo="https://logo.iptveditor.com/bbcthree.png" group-title="UK ENTERTAINMENT",UK BBC THREE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/215
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="UK BBC FOUR" tvg-logo="https://logo.iptveditor.com/bbcfour.png" group-title="UK ENTERTAINMENT",UK BBC FOUR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3934
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="UK STV" tvg-logo="https://logo.iptveditor.com/stv.png" group-title="UK ENTERTAINMENT",UK STV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3971
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK LONDON LIVE" tvg-logo="https://logo.iptveditor.com/londonlive.png" group-title="UK ENTERTAINMENT",UK LONDON LIVE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/186
+#EXTINF:-1 tvg-id="ITV1TyneTees.uk" tvg-name="UK ITV TYNE TEES" tvg-logo="https://i.ibb.co/BrcKFZh/ITV-Tyne-Tees-2013-svg.png" group-title="UK LOCALS",UK ITV TYNE TEES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19868
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK ITV 2" tvg-logo="https://logo.iptveditor.com/itv2.png" group-title="UK ENTERTAINMENT",UK ITV 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/181
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK ITV 3" tvg-logo="https://logo.iptveditor.com/itv3.png" group-title="UK ENTERTAINMENT",UK ITV 3
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/182
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK ITV 4" tvg-logo="https://logo.iptveditor.com/itv4.png" group-title="UK ENTERTAINMENT",UK ITV 4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3953
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK SKY DOCUMENTARIES" tvg-logo="https://logo.iptveditor.com/skydocumentaries.png" group-title="UK ENTERTAINMENT",UK SKY DOCUMENTARIES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3939
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK SKY CRIME" tvg-logo="https://logo.iptveditor.com/skycrime.png" group-title="UK ENTERTAINMENT",UK SKY CRIME
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3940
+#EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="UK SKY HISTORY" tvg-logo="https://logo.iptveditor.com/skyhistory.png" group-title="UK ENTERTAINMENT",UK SKY HISTORY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/248
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK DISCOVERY" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="UK ENTERTAINMENT",UK DISCOVERY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/236
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK SKY NATURE" tvg-logo="https://logo.iptveditor.com/skynature.png" group-title="UK ENTERTAINMENT",UK SKY NATURE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/278
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="UK ENTERTAINMENT",UK MTV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/255
+#EXTINF:-1 tvg-id="MTV80s.uk" tvg-name="UK MTV 80S" tvg-logo="https://logo.iptveditor.com/mtv80s.png" group-title="UK ENTERTAINMENT",UK MTV 80S
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/257
+#EXTINF:-1 tvg-id="MTV90s.uk" tvg-name="UK MTV 90S" tvg-logo="https://logo.iptveditor.com/mtv90s.png" group-title="UK ENTERTAINMENT",UK MTV 90S
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/8684
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK MTV HITS" tvg-logo="https://logo.iptveditor.com/mtvhits.png" group-title="UK ENTERTAINMENT",UK MTV HITS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/261
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK MTV MUSIC" tvg-logo="https://logo.iptveditor.com/mtvmusic.png" group-title="UK ENTERTAINMENT",UK MTV MUSIC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/262
+#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="UK NOW 70S" tvg-logo="https://logo.iptveditor.com/now70s.png" group-title="UK ENTERTAINMENT",UK NOW 70S
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10228
+#EXTINF:-1 tvg-id="NOW80s.uk" tvg-name="UK NOW 80S" tvg-logo="https://logo.iptveditor.com/now80s.png" group-title="UK ENTERTAINMENT",UK NOW 80S
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10229
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="UK NOW ROCK" tvg-logo="https://i.ibb.co/TqFTV2y/6367.png" group-title="UK ENTERTAINMENT",UK NOW ROCK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10230
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK COMEDY CENTRAL EXTRA" tvg-logo="https://logo.iptveditor.com/comedycentralextra.png" group-title="UK ENTERTAINMENT",UK COMEDY CENTRAL EXTRA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/169
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-name="UK 5STAR" tvg-logo="https://logo.iptveditor.com/5star.png" group-title="UK ENTERTAINMENT",UK 5STAR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/156
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="UK 5ACTION" tvg-logo="https://i.ibb.co/ggrQZY6/5-Action-logo-svg.png" group-title="UK ENTERTAINMENT",UK 5ACTION
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19866
+#EXTINF:-1 tvg-id="NationalGeographicChannel.uk" tvg-name="UK NATIONAL GEOGRAPHIC" tvg-logo="https://logo.iptveditor.com/nationalgeographic.png" group-title="UK ENTERTAINMENT",UK NATIONAL GEOGRAPHIC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/265
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK SKY ARTS" tvg-logo="https://logo.iptveditor.com/skyarts.png" group-title="UK ENTERTAINMENT",UK SKY ARTS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/195
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK ITV BE" tvg-logo="https://logo.iptveditor.com/itvbe.png" group-title="UK ENTERTAINMENT",UK ITV BE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/184
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK TLC" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="UK ENTERTAINMENT",UK TLC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3948
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="UK S4C" tvg-logo="https://logo.iptveditor.com/s4c.png" group-title="UK ENTERTAINMENT",UK S4C
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/193
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="UK E! ENTERTAINMENT" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="UK ENTERTAINMENT",UK E! ENTERTAINMENT
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3957
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK E4" tvg-logo="https://logo.iptveditor.com/e4.png" group-title="UK ENTERTAINMENT",UK E4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/241
+#EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="UK E4 EXTRA" tvg-logo="https://i.ibb.co/Zm8n1y2/E4-Extra-logo-2022-svg.png" group-title="UK ENTERTAINMENT",UK E4 EXTRA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19867
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK MORE4" tvg-logo="https://logo.iptveditor.com/4more.png" group-title="UK ENTERTAINMENT",UK MORE4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/187
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK 4SEVEN" tvg-logo="https://logo.iptveditor.com/4seven.png" group-title="UK ENTERTAINMENT",UK 4SEVEN
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/154
+#EXTINF:-1 tvg-id="SkySci-Fi.uk" tvg-name="UK SKY SCI-FI" tvg-logo="https://i.ibb.co/jysjzBt/skysci-fi.png" group-title="UK ENTERTAINMENT",UK SKY SCI-FI
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3949
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK FOOD NETWORK" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="UK ENTERTAINMENT",UK FOOD NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/175
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="UK 5USA" tvg-logo="https://logo.iptveditor.com/5usa.png" group-title="UK ENTERTAINMENT",UK 5USA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/157
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK REALLY" tvg-logo="https://logo.iptveditor.com/really.png" group-title="UK ENTERTAINMENT",UK REALLY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/192
+#EXTINF:-1 tvg-id="UandDrama.uk" tvg-name="UK DRAMA" tvg-logo="https://logo.iptveditor.com/drama.png" group-title="UK ENTERTAINMENT",UK DRAMA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/173
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK QUEST" tvg-logo="https://logo.iptveditor.com/quest.png" group-title="UK ENTERTAINMENT",UK QUEST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/190
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK CHALLENGE TV" tvg-logo="https://logo.iptveditor.com/challenge.png" group-title="UK ENTERTAINMENT",UK CHALLENGE TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/166
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK CBS REALITY" tvg-logo="https://logo.iptveditor.com/cbsreality.png" group-title="UK ENTERTAINMENT",UK CBS REALITY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3960
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="UK QUEST RED" tvg-logo="https://logo.iptveditor.com/questred.png" group-title="UK ENTERTAINMENT",UK QUEST RED
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/191
+#EXTINF:-1 tvg-id="SkyReplay.uk" tvg-name="UK SKY REPLAY" tvg-logo="https://logo.iptveditor.com/skyreplay.png" group-title="UK ENTERTAINMENT",UK SKY REPLAY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/18164
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="UK 5SELECT" tvg-logo="https://logo.iptveditor.com/5select.png" group-title="UK ENTERTAINMENT",UK 5SELECT
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3965
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="UK TALK TV" tvg-logo="https://i.imgur.com/vJLXOfo.png" group-title="US CA UK NEWS",UK TALK TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3979
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="UK TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="UK ENTERTAINMENT",UK TCM
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/287
+#EXTINF:-1 tvg-id="UandYesterday.uk" tvg-name="UK YESTERDAY" tvg-logo="https://logo.iptveditor.com/yesterday.png" group-title="UK ENTERTAINMENT",UK YESTERDAY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/296
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="UK AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="UK ENTERTAINMENT",UK AMC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3964
+#EXTINF:-1 tvg-id="Crime+Investigation.uk" tvg-name="UK CRIME & INVESTIGATION" tvg-logo="https://logo.iptveditor.com/crimeandinvestigation.png" group-title="UK ENTERTAINMENT",UK CRIME & INVESTIGATION
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3958
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="UK INVESTIGATION DISCOVERY" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="UK ENTERTAINMENT",UK INVESTIGATION DISCOVERY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/252
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="UK LAW & CRIME" tvg-logo="https://logo.iptveditor.com/law&crimenetwork.png" group-title="UK ENTERTAINMENT",UK LAW & CRIME
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3952
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="UK LOVE NATURE" tvg-logo="https://logo.iptveditor.com/lovenature.png" group-title="UK ENTERTAINMENT",UK LOVE NATURE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3941
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="UK HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="UK ENTERTAINMENT",UK HGTV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3954
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK ANIMAL PLANET" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="UK ENTERTAINMENT",UK ANIMAL PLANET
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/209
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="UK BLAZE" tvg-logo="https://logo.iptveditor.com/blaze.png" group-title="UK ENTERTAINMENT",UK BLAZE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3963
+#EXTINF:-1 tvg-id="SkyHistory2.uk" tvg-name="UK SKY HISTORY 2" tvg-logo="https://logo.iptveditor.com/skyh2history.png" group-title="UK ENTERTAINMENT",UK SKY HISTORY 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3942
+#EXTINF:-1 tvg-id="NationalGeographicWild.uk" tvg-name="UK NAT GEO WILD" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="UK ENTERTAINMENT",UK NAT GEO WILD
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4551
+#EXTINF:-1 tvg-id="UandEden.uk" tvg-name="UK EDEN" tvg-logo="https://logo.iptveditor.com/eden.png" group-title="UK ENTERTAINMENT",UK EDEN
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/242
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK BBC ALBA" tvg-logo="https://logo.iptveditor.com/bbcalba.png" group-title="UK ENTERTAINMENT",UK BBC ALBA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/161
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="UK BBC SCOTLAND" tvg-logo="https://logo.iptveditor.com/bbcscotland.png" group-title="UK ENTERTAINMENT",UK BBC SCOTLAND
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3917
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK DISCOVERY HISTORY" tvg-logo="https://logo.iptveditor.com/discoveryhistory.png" group-title="UK ENTERTAINMENT",UK DISCOVERY HISTORY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3944
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="UK DISCOVERY DMAX" tvg-logo="https://logo.iptveditor.com/dmax.png" group-title="UK ENTERTAINMENT",UK DISCOVERY DMAX
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/172
+#EXTINF:-1 tvg-id="home.uk" tvg-name="UK DISCOVERY HOME & HEALTH" tvg-logo="https://logo.iptveditor.com/discoveryhomeandhealthlam.png" group-title="UK ENTERTAINMENT",UK DISCOVERY HOME & HEALTH
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/179
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK DISCOVERY SCIENCE" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="UK ENTERTAINMENT",UK DISCOVERY SCIENCE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3943
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK DISCOVERY TURBO" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="UK ENTERTAINMENT",UK DISCOVERY TURBO
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/239
+#EXTINF:-1 tvg-id="LegendXtra.uk" tvg-name="UK HORROR CHANNEL" tvg-logo="https://logo.iptveditor.com/horrorchannel.png" group-title="UK ENTERTAINMENT",UK HORROR CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/249
+#EXTINF:-1 tvg-id="VirginOne.ie" tvg-name="UK VIRGIN MEDIA ONE" tvg-logo="https://logo.iptveditor.com/virginmediaone.png" group-title="UK ENTERTAINMENT",UK VIRGIN MEDIA ONE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19541
+#EXTINF:-1 tvg-id="VirginTwo.ie" tvg-name="UK VIRGIN MEDIA TWO" tvg-logo="https://logo.iptveditor.com/virginmediatwo.png" group-title="UK ENTERTAINMENT",UK VIRGIN MEDIA TWO
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19542
+#EXTINF:-1 tvg-id="VirginThree.ie" tvg-name="UK VIRGIN MEDIA THREE" tvg-logo="https://logo.iptveditor.com/virginmediathree.png" group-title="UK ENTERTAINMENT",UK VIRGIN MEDIA THREE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19543
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-name="UK VIRGIN MEDIA FOUR" tvg-logo="https://www.virginmediatelevision.ie/graphics/2018/tv-guide-four-logo-2022.png" group-title="UK ENTERTAINMENT",UK VIRGIN MEDIA FOUR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19544
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="UK VIRGIN MEDIA MORE" tvg-logo="https://www.virginmediatelevision.ie/graphics/2018/tv-guide-more-logo-white.png" group-title="UK ENTERTAINMENT",UK VIRGIN MEDIA MORE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19545
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK SKY NEWS" tvg-logo="https://logo.iptveditor.com/skynews.png" group-title="US CA UK NEWS",UK SKY NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/279
+#EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="UK BBC NEWS" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="US CA UK NEWS",UK BBC NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/216
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK BBC PARLIAMENT" tvg-logo="https://logo.iptveditor.com/bbcparliament.png" group-title="US CA UK NEWS",UK BBC PARLIAMENT
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3913
+#EXTINF:-1 tvg-id="BBCNewsChannel.uk" tvg-name="UK BBC WORLD NEWS" tvg-logo="https://logo.iptveditor.com/bbcworldnews.png" group-title="US CA UK NEWS",UK BBC WORLD NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/219
+#EXTINF:-1 tvg-id="Bloomberg.uk" tvg-name="UK BLOOMBERG" tvg-logo="https://logo.iptveditor.com/blomberg.png" group-title="US CA UK NEWS",UK BLOOMBERG
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/221
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK CNBC" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="US CA UK NEWS",UK CNBC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/231
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK CNN UK" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="US CA UK NEWS",UK CNN UK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3945
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="UK FOX NEWS" tvg-logo="https://logo.iptveditor.com/foxnews.png" group-title="US CA UK NEWS",UK FOX NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/245
+#EXTINF:-1 tvg-id="France24.uk" tvg-name="UK FRANCE 24 NEWS" tvg-logo="https://logo.iptveditor.com/france24.png" group-title="US CA UK NEWS",UK FRANCE 24 NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/246
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK GB NEWS" tvg-logo="https://i.imgur.com/fgPyed9.png" group-title="US CA UK NEWS",UK GB NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3955
+#EXTINF:-1 tvg-id="GEONews.uk" tvg-name="UK GEO NEWS" tvg-logo="https://logo.iptveditor.com/geonews.png" group-title="US CA UK NEWS",UK GEO NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3976
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="UK RTE 2" tvg-logo="https://logo.iptveditor.com/rte2.png" group-title="UK ENTERTAINMENT",UK RTE 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/273
+#EXTINF:-1 tvg-id="RTENews.ie" tvg-name="UK RTE NEWS NOW" tvg-logo="https://logo.iptveditor.com/rtenewsnow.png" group-title="US CA UK NEWS",UK RTE NEWS NOW
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/275
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-name="UK RTE ONE" tvg-logo="https://logo.iptveditor.com/rteone.png" group-title="UK ENTERTAINMENT",UK RTE ONE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/276
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="UK BOOMERANG" tvg-logo="https://logo.iptveditor.com/boomerang.png" group-title="US CA UK KIDS",UK BOOMERANG
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/222
+#EXTINF:-1 tvg-id="GEOTV.uk" tvg-name="UK GEO TV" tvg-logo="https://logo.iptveditor.com/geotv.png" group-title="UK ENTERTAINMENT",UK GEO TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3975
+#EXTINF:-1 tvg-id="NewVisionTV.uk" tvg-name="UK NEW VISION TV" tvg-logo="https://logo.iptveditor.com/newvisiontv.png" group-title="UK ENTERTAINMENT",UK NEW VISION TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/211
+#EXTINF:-1 tvg-id="RedbullTV.us" tvg-name="UK RED BULL TV" tvg-logo="https://logo.iptveditor.com/redbulltv.png" group-title="UK ENTERTAINMENT",UK RED BULL TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3951
+#EXTINF:-1 tvg-id="UTV.ie" tvg-name="UK UTV IRELAND" tvg-logo="https://logo.iptveditor.com/utv.png" group-title="UK ENTERTAINMENT",UK UTV IRELAND
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/295
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK CARTOON NETWORK" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="US CA UK KIDS",UK CARTOON NETWORK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3938
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK NICKELODEON" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="US CA UK KIDS",UK NICKELODEON
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3935
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK NICKTOONS" tvg-logo="https://logo.iptveditor.com/nicktoons.png" group-title="US CA UK KIDS",UK NICKTOONS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/269
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-name="UK NICK JR" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="US CA UK KIDS",UK NICK JR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/267
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK CBBC" tvg-logo="https://logo.iptveditor.com/cbbc.png" group-title="US CA UK KIDS",UK CBBC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/228
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK CBEEBIES" tvg-logo="https://logo.iptveditor.com/bbccbeebies.png" group-title="US CA UK KIDS",UK CBEEBIES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3911
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="UK DISNEY CHANNEL" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="US CA UK KIDS",UK DISNEY CHANNEL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3937
+#EXTINF:-1 tvg-id="DisneyJunior.ca" tvg-name="UK DISNEY JUNIOR" tvg-logo="https://logo.iptveditor.com/disneyjnr.png" group-title="US CA UK KIDS",UK DISNEY JUNIOR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3936
+#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="UK RTE JR" tvg-logo="https://logo.iptveditor.com/rtejunior.png" group-title="US CA UK KIDS",UK RTE JR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/274
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="UK CARTOONITO" tvg-logo="https://logo.iptveditor.com/cartoonito.png" group-title="US CA UK KIDS",UK CARTOONITO
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/226
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="UK NICK JR TOO" tvg-logo="https://logo.iptveditor.com/nickjrtoo.png" group-title="US CA UK KIDS",UK NICK JR TOO
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/268
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="UK POP" tvg-logo="https://logo.iptveditor.com/pop.png" group-title="US CA UK KIDS",UK POP
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/270
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="UK TINY POP" tvg-logo="https://logo.iptveditor.com/tinypop.png" group-title="US CA UK KIDS",UK TINY POP
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/289
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="UK BABY TV" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="US CA UK KIDS",UK BABY TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/214
+#EXTINF:-1 tvg-id="BBCOneCambridgeshire.uk" tvg-name="UK BBC ONE CAMBRIDGE" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE CAMBRIDGE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3933
+#EXTINF:-1 tvg-id="BBCOneChannelIslands.uk" tvg-name="UK BBC ONE CHANNEL ISLANDS" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE CHANNEL ISLANDS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3932
+#EXTINF:-1 tvg-id="BBCOneEast.uk" tvg-name="UK BBC ONE EAST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE EAST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3929
+#EXTINF:-1 tvg-id="BBCOneEastMidlands.uk" tvg-name="UK BBC ONE EAST MIDLANDS" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE EAST MIDLANDS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3931
+#EXTINF:-1 tvg-id="BBCOneYorkshire.uk" tvg-name="UK BBC ONE EAST YORKSHIRE" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE EAST YORKSHIRE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3930
+#EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="UK BBC ONE LONDON" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE LONDON
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3928
+#EXTINF:-1 tvg-id="BBCOneNorthEastAndCumbria.uk" tvg-name="UK BBC ONE NORTH" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE NORTH
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3920
+#EXTINF:-1 tvg-id="BBCOneNorthernIreland.uk" tvg-name="UK BBC ONE NORTHERN IRELAND" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE NORTHERN IRELAND
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3926
+#EXTINF:-1 tvg-id="BBCOneNorthWest.uk" tvg-name="UK BBC ONE NORTHWEST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE NORTHWEST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3927
+#EXTINF:-1 tvg-id="BBCOneOxfordshire.uk" tvg-name="UK BBC ONE OXFORD" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE OXFORD
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3925
+#EXTINF:-1 tvg-id="" tvg-name="UK BBC ONE SCOTLAND" tvg-logo="https://logo.iptveditor.com/bbconescotland.png" group-title="UK ENTERTAINMENT",UK BBC ONE SCOTLAND
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3912
+#EXTINF:-1 tvg-id="BBCOneSouth.uk" tvg-name="UK BBC ONE SOUTH" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE SOUTH
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3919
+#EXTINF:-1 tvg-id="BBCOneSouthEast.uk" tvg-name="UK BBC ONE SOUTH EAST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE SOUTH EAST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3924
+#EXTINF:-1 tvg-id="BBCOneWales.uk" tvg-name="UK BBC ONE WALES" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE WALES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3923
+#EXTINF:-1 tvg-id="BBCOneWest.uk" tvg-name="UK BBC ONE WEST" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE WEST
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3921
+#EXTINF:-1 tvg-id="BBCOneWestMidlands.uk" tvg-name="UK BBC ONE WEST MIDLANDS" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE WEST MIDLANDS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3922
+#EXTINF:-1 tvg-id="BBCOneYorkshire.uk" tvg-name="UK BBC ONE YORKSHIRE" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK LOCALS",UK BBC ONE YORKSHIRE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3918
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="UK BBC TWO ENGLAND" tvg-logo="https://logo.iptveditor.com/bbctwo.png" group-title="UK LOCALS",UK BBC TWO ENGLAND
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3914
+#EXTINF:-1 tvg-id="BBCTwoNorthernIreland.uk" tvg-name="UK BBC TWO NORTHERN IRELAND" tvg-logo="https://logo.iptveditor.com/bbctwonorthern.png" group-title="UK LOCALS",UK BBC TWO NORTHERN IRELAND
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3916
+#EXTINF:-1 tvg-id="BBCTwoWales.uk" tvg-name="UK BBC TWO WALES" tvg-logo="https://logo.iptveditor.com/bbctwowales.png" group-title="UK LOCALS",UK BBC TWO WALES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3915
+#EXTINF:-1 tvg-id="BBCRedButton.uk" tvg-name="UK BBC RED BUTTON" tvg-logo="https://logo.iptveditor.com/bbcredbutton.png" group-title="UK ENTERTAINMENT",UK BBC RED BUTTON
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4391
+#EXTINF:-1 tvg-id="" tvg-name="UK BBC FEED 1 (4K) LIVE EVENTS ONLY" tvg-logo="https://logo.iptveditor.com/bbcone.png" group-title="UK ENTERTAINMENT",UK BBC FEED 1 (4K) LIVE EVENTS ONLY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4552
+#EXTINF:-1 tvg-id="AAJTAK.uk" tvg-name="UK AAJ TAK" tvg-logo="https://logo.iptveditor.com/aajtak.png" group-title="UK ENTERTAINMENT",UK AAJ TAK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/203
+#EXTINF:-1 tvg-id="aastha.uk" tvg-name="UK AASTHA" tvg-logo="https://logo.iptveditor.com/aastha.png" group-title="UK ENTERTAINMENT",UK AASTHA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/204
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="UK AL JAZEERA" tvg-logo="https://logo.iptveditor.com/aljazeera.png" group-title="US CA UK NEWS",UK AL JAZEERA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/207
+#EXTINF:-1 tvg-id="ARYDigital.uk" tvg-name="UK ARY DIGITAL" tvg-logo="https://logo.iptveditor.com/arydigital.png" group-title="UK ENTERTAINMENT",UK ARY DIGITAL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3968
+#EXTINF:-1 tvg-id="ARYMusik.us" tvg-name="UK ARY MUZIK" tvg-logo="https://logo.iptveditor.com/arymusik.png" group-title="UK ENTERTAINMENT",UK ARY MUZIK
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3967
+#EXTINF:-1 tvg-id="ATN.uk" tvg-name="UK ARY NEWS" tvg-logo="https://logo.iptveditor.com/arynews.png" group-title="US CA UK NEWS",UK ARY NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3966
+#EXTINF:-1 tvg-id="" tvg-name="UK ARY QTV" tvg-logo="https://logo.iptveditor.com/aryqtv.png" group-title="UK ENTERTAINMENT",UK ARY QTV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/210
+#EXTINF:-1 tvg-id="B4UMusic.uk" tvg-name="UK B4U MUSIC" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="UK ENTERTAINMENT",UK B4U MUSIC
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/213
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-name="UK COLORS CINEPLEX" tvg-logo="https://logo.iptveditor.com/colorscineplex.png" group-title="UK ENTERTAINMENT",UK COLORS CINEPLEX
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3978
+#EXTINF:-1 tvg-id="ColorsRishtey.uk" tvg-name="UK COLORS RISHTEY" tvg-logo="https://logo.iptveditor.com/colorsrishtey.png" group-title="UK ENTERTAINMENT",UK COLORS RISHTEY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3977
+#EXTINF:-1 tvg-id="Colors.uk" tvg-name="UK COLORS TV" tvg-logo="https://logo.iptveditor.com/colors.png" group-title="UK ENTERTAINMENT",UK COLORS TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/234
+#EXTINF:-1 tvg-id="SONYMAX.uk" tvg-name="UK SONY MAX" tvg-logo="https://logo.iptveditor.com/sonymax.png" group-title="UK ENTERTAINMENT",UK SONY MAX
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3973
+#EXTINF:-1 tvg-id="SONYMAX2.uk" tvg-name="UK SONY MAX 2" tvg-logo="https://logo.iptveditor.com/sonymax2.png" group-title="UK ENTERTAINMENT",UK SONY MAX 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3974
+#EXTINF:-1 tvg-id="SONYSAB.uk" tvg-name="UK SONY SAB" tvg-logo="https://logo.iptveditor.com/sonysab.png" group-title="UK ENTERTAINMENT",UK SONY SAB
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3972
+#EXTINF:-1 tvg-id="SONYTV.uk" tvg-name="UK SONY TV" tvg-logo="https://logo.iptveditor.com/sonyentertainment.png" group-title="UK ENTERTAINMENT",UK SONY TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/281
+#EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="UK TRAVELXP" tvg-logo="https://logo.iptveditor.com/travelxp.png" group-title="UK ENTERTAINMENT",UK TRAVELXP
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/290
+#EXTINF:-1 tvg-id="UandW.uk" tvg-name="UK U&W" tvg-logo="https://i.ibb.co/VTMN9Z2/W-UKTV-2022-svg.png" group-title="UK ENTERTAINMENT",UK U&W
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/19862
+#EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="UK ZEE CINEMA" tvg-logo="https://logo.iptveditor.com/zeecinema.png" group-title="UK ENTERTAINMENT",UK ZEE CINEMA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3970
+#EXTINF:-1 tvg-id="ZeeTV.uk" tvg-name="UK ZEE TV" tvg-logo="https://logo.iptveditor.com/zeetv.png" group-title="UK ENTERTAINMENT",UK ZEE TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3969
+#EXTINF:-1 tvg-id="" tvg-name="UK ZING" tvg-logo="https://logo.iptveditor.com/zing.png" group-title="UK ENTERTAINMENT",UK ZING
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/298
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="UK TRUE CRIME" tvg-logo="https://i.ibb.co/wpFj95y/true-crime-logo-wht.png" group-title="UK ENTERTAINMENT",UK TRUE CRIME
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22409
+#EXTINF:-1 tvg-id="TrueCrimeXtra.uk" tvg-name="UK TRUE CRIME XTRA" tvg-logo="https://i.ibb.co/DL05pgg/True-Crime-Xtra-svg.png" group-title="UK ENTERTAINMENT",UK TRUE CRIME XTRA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22410
+#EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="UK B4U MOVIES" tvg-logo="https://logo.iptveditor.com/b4umovies.png" group-title="US CA UK MOVIES",UK B4U MOVIES
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/327
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK FILM4" tvg-logo="https://logo.iptveditor.com/film4.png" group-title="US CA UK MOVIES",UK FILM4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/244
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK SKY CINEMA ACTION" tvg-logo="https://logo.iptveditor.com/skycinemaaction.png" group-title="US CA UK MOVIES",UK SKY CINEMA ACTION
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/328
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK SKY CINEMA ANIMATION" tvg-logo="https://logo.iptveditor.com/skycinemaanimation.png" group-title="US CA UK MOVIES",UK SKY CINEMA ANIMATION
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/326
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK SKY CINEMA COMEDY" tvg-logo="https://logo.iptveditor.com/skycinemacomedy.png" group-title="US CA UK MOVIES",UK SKY CINEMA COMEDY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/329
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK SKY CINEMA DRAMA" tvg-logo="https://logo.iptveditor.com/skycinemadrama.png" group-title="US CA UK MOVIES",UK SKY CINEMA DRAMA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/330
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK SKY CINEMA FAMILY" tvg-logo="https://logo.iptveditor.com/skycinemafamily.png" group-title="US CA UK MOVIES",UK SKY CINEMA FAMILY
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/331
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK SKY CINEMA GREATS" tvg-logo="https://logo.iptveditor.com/skycinemagreats.png" group-title="US CA UK MOVIES",UK SKY CINEMA GREATS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/332
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK SKY CINEMA HITS" tvg-logo="https://logo.iptveditor.com/skycinemahits.png" group-title="US CA UK MOVIES",UK SKY CINEMA HITS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/333
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK SKY CINEMA PREMIERE" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="US CA UK MOVIES",UK SKY CINEMA PREMIERE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/334
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="UK SKY CINEMA SCI-FI HORROR" tvg-logo="https://logo.iptveditor.com/skycinemasciandhorror.png" group-title="US CA UK MOVIES",UK SKY CINEMA SCI-FI HORROR
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/335
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="UK SKY CINEMA SELECT" tvg-logo="https://logo.iptveditor.com/skycinemaselect.png" group-title="US CA UK MOVIES",UK SKY CINEMA SELECT
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/336
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK SKY CINEMA THRILLER" tvg-logo="https://logo.iptveditor.com/skycinemathriller.png" group-title="US CA UK MOVIES",UK SKY CINEMA THRILLER
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/337
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="UK STARZ" tvg-logo="https://logo.iptveditor.com/starz.png" group-title="US CA UK MOVIES",UK STARZ
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/11764
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK EUROSPORT 1" tvg-logo="https://logo.iptveditor.com/eurosport1.png" group-title="UK SPORTS",UK EUROSPORT 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/310
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK EUROSPORT 2" tvg-logo="https://logo.iptveditor.com/eurosport2.png" group-title="UK SPORTS",UK EUROSPORT 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/311
+#EXTINF:-1 tvg-id="LaLigaTVInternational.uk" tvg-name="UK LALIGA" tvg-logo="https://logo.iptveditor.com/laliga.png" group-title="UK SPORTS",UK LALIGA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4387
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK MUTV" tvg-logo="https://i.imgur.com/MqeE2KD.png" group-title="UK SPORTS",UK MUTV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20141
+#EXTINF:-1 tvg-id="" tvg-name="UK PDC BOARD" tvg-logo="https://i.imgur.com/S9XeOG4.png" group-title="UK SPORTS",UK PDC BOARD
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/12279
+#EXTINF:-1 tvg-id="" tvg-name="UK PDC DARTS" tvg-logo="https://i.imgur.com/qmW8IaP.png" group-title="UK SPORTS",UK PDC DARTS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/12280
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK PREMIER SPORTS 1" tvg-logo="https://logo.iptveditor.com/premiersports1.png" group-title="UK SPORTS",UK PREMIER SPORTS 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/313
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK PREMIER SPORTS 2" tvg-logo="https://logo.iptveditor.com/premiersports2.png" group-title="UK SPORTS",UK PREMIER SPORTS 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/314
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="UK RACING TV" tvg-logo="https://logo.iptveditor.com/racingtv.png" group-title="UK SPORTS",UK RACING TV
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4389
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK SKY SPORTS ACTION" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="UK SPORTS",UK SKY SPORTS ACTION
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/316
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK SKY SPORTS PLUS" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="UK SPORTS",UK SKY SPORTS PLUS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/317
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="UK SKY SPORTS BOX OFFICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/SkySportsBoxOfficeLogo.png/220px-SkySportsBoxOfficeLogo.png" group-title="UK SPORTS",UK SKY SPORTS BOX OFFICE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20306
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK SKY SPORTS CRICKET" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK SPORTS",UK SKY SPORTS CRICKET
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/318
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK SPORTS",UK SKY SPORTS F1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/319
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK SKY SPORTS FOOTBALL" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="UK SPORTS",UK SKY SPORTS FOOTBALL
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/320
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK SKY SPORTS GOLF" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="UK SPORTS",UK SKY SPORTS GOLF
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/321
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK SKY SPORTS MAIN EVENT" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK SPORTS",UK SKY SPORTS MAIN EVENT
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/322
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK SKY SPORTS MIX" tvg-logo="https://logo.iptveditor.com/skysportsmix.png" group-title="UK SPORTS",UK SKY SPORTS MIX
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/323
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK SKY SPORTS NEWS" tvg-logo="https://logo.iptveditor.com/skysportsnews.png" group-title="UK SPORTS",UK SKY SPORTS NEWS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/324
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="UK SPORTS",UK SKY SPORTS PREMIER LEAGUE
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/325
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK SKY SPORTS RACING" tvg-logo="https://logo.iptveditor.com/skysportsracing.png" group-title="UK SPORTS",UK SKY SPORTS RACING
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/315
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="UK SKY SPORTS TENNIS" tvg-logo="https://i.ibb.co/S7xqpnF/skysportstennis.png" group-title="UK SPORTS",UK SKY SPORTS TENNIS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20184
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="UK SUPERSPORT GOLF" tvg-logo="https://logo.iptveditor.com/supersportgolf.png" group-title="UK SPORTS",UK SUPERSPORT GOLF
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/11732
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK TNT SPORTS 1" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/299
+#EXTINF:-1 tvg-id="TNTSports10.uk" tvg-name="UK TNT SPORTS 10" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 10
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4383
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK TNT SPORTS 2" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/300
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK TNT SPORTS 3" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 3
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/301
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK TNT SPORTS 4" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 4
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/302
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="UK TNT SPORTS 5" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 5
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3982
+#EXTINF:-1 tvg-id="TNTSports6.uk" tvg-name="UK TNT SPORTS 6" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 6
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/3983
+#EXTINF:-1 tvg-id="TNTSports7.uk" tvg-name="UK TNT SPORTS 7" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 7
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4384
+#EXTINF:-1 tvg-id="TNTSports8.uk" tvg-name="UK TNT SPORTS 8" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 8
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4385
+#EXTINF:-1 tvg-id="TNTSports9.uk" tvg-name="UK TNT SPORTS 9" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS 9
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4386
+#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-name="UK TNT SPORTS ULTIMATE 4K" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="UK SPORTS",UK TNT SPORTS ULTIMATE 4K
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10784
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK VIAPLAY SPORTS 1" tvg-logo="https://logo.iptveditor.com/viaplayppv.png" group-title="UK SPORTS",UK VIAPLAY SPORTS 1
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4547
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK VIAPLAY SPORTS 2" tvg-logo="https://logo.iptveditor.com/viaplayppv.png" group-title="UK SPORTS",UK VIAPLAY SPORTS 2
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/4548
+#EXTINF:-1 tvg-id="ViaplayXtra.uk" tvg-name="UK VIAPLAY XTRA" tvg-logo="https://logo.iptveditor.com/viaplayppv.png" group-title="UK SPORTS",UK VIAPLAY XTRA
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/312
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS 1 (UHD/4K)" tvg-logo="https://getlogo.net/wp-content/uploads/2020/04/sky-sports-1-logo-vector.png" group-title="UK SPORTS",UK SKY SPORTS 1 (UHD/4K)
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20659
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS 2 (UHD/4K)" tvg-logo="https://getlogo.net/wp-content/uploads/2020/04/sky-sports-2-logo-vector.png" group-title="UK SPORTS",UK SKY SPORTS 2 (UHD/4K)
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20660
+#EXTINF:-1 tvg-id="SkySportsF1UHD.uk" tvg-name="UK SKY SPORTS F1 (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="UK SPORTS",UK SKY SPORTS F1 (UHD/4K)
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20661
+#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk" tvg-name="UK SKY SPORTS MAIN EVENTS (UHD/4K)" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="UK SPORTS",UK SKY SPORTS MAIN EVENTS (UHD/4K)
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/20662
+#EXTINF:-1 tvg-id="PDC1.uk" tvg-name="UK SKY SPORTS DARTS" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="UK SPORTS",UK SKY SPORTS DARTS
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22368
+
+
+
+
+
+
+
+
+
+
 **********************************************************************************
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 01" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 01
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10852
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 02" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 02
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10858
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 03" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 03
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10853
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK Now Premier Sports 04" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 04
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10854
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK Now Premier Sports 05" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 05
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10855
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK Now Premier Sports 06" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 06
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10856
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 07" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 07
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10851
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 08" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Premier Sports 08
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10850
+#EXTINF:-1 tvg-id="" tvg-name="HK NOW SPORTS 4K" tvg-logo="https://i.ibb.co/2yKHL32/nowsports-logo3.png" group-title="HK NOW",HK NOW SPORTS 4K
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10785
+#EXTINF:-1 tvg-id="NowSports4K.hk" tvg-name="HK Now Sports (EPL) 4K" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports (EPL) 4K
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10842
+#EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 01" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 01
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10849
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Sports 02" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 02
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10848
+#EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="HK Now Sports 03" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 03
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10847
+#EXTINF:-1 tvg-id="NowSports4.hk" tvg-name="HK Now Sports 04" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 04
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10846
+#EXTINF:-1 tvg-id="NowSports5.hk" tvg-name="HK Now Sports 05" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 05
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10845
+#EXTINF:-1 tvg-id="NowSports6.hk" tvg-name="HK Now Sports 06" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 06
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10844
+#EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 07" tvg-logo="https://i.ibb.co/vsmJC9v/now-sports.png" group-title="HK NOW",HK Now Sports 07
+https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/10843
+
+
 
 
 
