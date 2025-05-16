@@ -407,47 +407,6 @@ http://luong.utako.moe/tbsch2/index.m3u8
 
 
 
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml"
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="中國央視",CCTV-1 综合
-http://107.174.52.32/itv.php?id=CCTV1
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="中國央視",CCTV-2 财经
-http://107.174.52.32/itv.php?id=CCTV2
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="中國央視",CCTV-3 综艺
-http://107.174.52.32/itv.php?id=CCTV3
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="中國央視",CCTV-4 中文国际
-http://107.174.52.32/itv.php?id=CCTV4
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="中國央視",CCTV-5 体育
-http://107.174.52.32/itv.php?id=CCTV5
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="中國央視",CCTV-5+ 体育赛事
-http://107.174.52.32/itv.php?id=CCTV5+
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="中國央視",CCTV-6 电影
-http://107.174.52.32/itv.php?id=CCTV6
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="中國央視",CCTV-7 国防军事
-http://107.174.52.32/itv.php?id=CCTV7
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="中國央視",CCTV-8 电视剧
-http://107.174.52.32/itv.php?id=CCTV8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="中國央視",CCTV-9 纪录
-http://107.174.52.32/itv.php?id=CCTV9
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="中國央視",CCTV-10 科教
-http://107.174.52.32/itv.php?id=CCTV10
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="中國央視",CCTV-11 戏曲
-http://107.174.52.32/itv.php?id=CCTV11
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="中國央視",CCTV-12 社会与法
-http://107.174.52.32/itv.php?id=CCTV12
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="中國央視",CCTV-13 新闻
-http://107.174.52.32/itv.php?id=CCTV13
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="中國央視",CCTV-14 少儿
-http://107.174.52.32/itv.php?id=CCTV14
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="中國央視",CCTV-15 音乐
-http://107.174.52.32/itv.php?id=CCTV15
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="中國央視",CCTV-16 奥林匹克
-http://107.174.52.32/itv.php?id=CCTV16
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="中國央視",CCTV-17 农业农村
-http://107.174.52.32/itv.php?id=CCTV17
-
-
-
 #EXTINF:-1 group-title="大陸頻道",CCTV-1綜合超清
 http://live.playclothing.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476879.m3u8
 #EXTINF:-1 group-title="大陸頻道",CCTV-2財經高清
@@ -11642,6 +11601,7 @@ https://pkj99.github.io/demo/m3u8/ofiii/我的情敵是冰箱 (2019).m3u8
 https://s2.fsvod1.com/20220224/PR1Sjy0B/index.m3u8
 
 
-
+#EXTINF:-1 group-title="熱門院線",絕命終結站6
+https://ukzy.ukubf3.com/20250513/1X3Rrkjf/2000kb/hls/index.m3u8
 
 
