@@ -1781,7 +1781,44 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
-
+#EXTINF:-1 group-title="台港澳",鳳凰中文(tvfix)
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="台港澳",鳳凰資訊(tvfix)
+https://live.tvfix.org/live/fhzx/index.m3u8
+#EXTINF:-1 group-title="台港澳",鳳凰香港(tvfix)
+https://live.tvfix.org/live/fhxg/index.m3u8
+#EXTINF:-1 group-title="台港澳",TVB翡翠台(tvfix)
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1 group-title="台港澳",TVB Plus(tvfix)
+https://live.tvfix.org/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="台港澳",TVB無綫新聞(tvfix)
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="台港澳",TVB明珠台(tvfix)
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1 group-title="台港澳",TVB娛樂新聞(tvfix)
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="台港澳",PopC(tvfix)
+https://live.tvfix.org/live/popc/index.m3u8
+#EXTINF:-1 group-title="台港澳",美亞電影(tvfix)
+https://live.tvfix.org/live/mydy/index.m3u8
+#EXTINF:-1 group-title="台港澳",天映經典(tvfix)
+https://live.tvfix.org/live/tyjd/index.m3u8
+#EXTINF:-1 group-title="台港澳",東方衛視國際版(tvfix)
+https://live.tvfix.org/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="台港澳",中國電影(tvfix)
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 group-title="台港澳",CCTV-1综合(tvfix)
+https://live.tvfix.org/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="台港澳",ROCK ACTION(tvfix)
+https://live.tvfix.org/live/rockac/index.m3u8
+#EXTINF:-1 group-title="台港澳",ROCK entertianment(tvfix)
+https://live.tvfix.org/live/rockzy/index.m3u8
+#EXTINF:-1 group-title="台港澳",KIX(tvfix)
+https://live.tvfix.org/live/kix/index.m3u8
+#EXTINF:-1 group-title="台港澳",AXN(tvfix)
+https://live.tvfix.org/live/axn/index.m3u8
+#EXTINF:-1 group-title="台港澳",Animax(tvfix)
+https://live.tvfix.org/live/animax/index.m3u8
 
 ****************************************************************************************
 
