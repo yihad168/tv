@@ -1813,7 +1813,523 @@ https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SDOC
 
 
 
+*********************************************************************************************************
 
+
+
+#EXTM3U
+#EXTINF:-1 group-title="GAT",CMusic
+https://stream1.freetv.fun/qmusic-1.m3u8
+#EXTINF:-1 group-title="GAT",八大第1臺HD
+https://stream1.freetv.fun/ba-da-di-yi-1.ctv
+#EXTINF:-1 group-title="GAT",三立綜合
+https://stream1.freetv.fun/san-li-zong-he-2.ctv
+#EXTINF:-1 group-title="GAT",中天亞洲
+https://stream1.freetv.fun/zhong-tian-ya-zhou-6.ctv
+#EXTINF:-1 group-title="GAT",中視
+https://stream1.freetv.fun/zhong-shi-6.m3u8
+#EXTINF:-1 group-title="GAT",中視HD
+https://stream1.freetv.fun/zhong-shi-8.ctv
+#EXTINF:-1 group-title="GAT",台視HD
+https://stream1.freetv.fun/tai-shi-6.ctv
+#EXTINF:-1 group-title="GAT",國會頻道2
+https://stream1.freetv.fun/guo-hui--2-1.m3u8
+#EXTINF:-1 group-title="GAT",東森綜合[geo-blocked]
+https://stream1.freetv.fun/dong-sen-zong-he-2.ctv
+#EXTINF:-1 group-title="GAT",東森綜合
+https://stream1.freetv.fun/dong-sen-zong-he-1.ctv
+#EXTINF:-1 group-title="GAT",東森綜合
+https://stream1.freetv.fun/dong-sen-zong-he-3.ctv
+#EXTINF:-1 group-title="GAT",東森美洲衛視
+https://stream1.freetv.fun/dong-sen-mei-zhou-wei-shi-1.m3u8
+#EXTINF:-1 group-title="GAT",東森超視[geo-blocked]
+https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
+#EXTINF:-1 group-title="GAT",東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
+#EXTINF:-1 group-title="GAT",東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
+#EXTINF:-1 group-title="GAT",東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
+#EXTINF:-1 group-title="GAT",民視HD
+https://stream1.freetv.fun/min-shi-10.ctv
+#EXTINF:-1 group-title="GAT",華視
+https://stream1.freetv.fun/hua-shi-4.m3u8
+#EXTINF:-1 group-title="GAT",靖天卡通
+https://stream1.freetv.fun/jing-tian-qia-tong-1.ctv
+#EXTINF:-1 group-title="GAT",龍華卡通
+https://stream1.freetv.fun/long-hua-qia-tong-2.m3u8
+#EXTINF:-1 group-title="GAT",DISCOVERY Channel
+https://stream1.freetv.fun/discovery-channel-8.m3u8
+#EXTINF:-1 group-title="GAT",DISCOVERY HD WORLD
+https://stream1.freetv.fun/discovery-7.ctv
+#EXTINF:-1 group-title="GAT",Love Nature[geo-blocked]
+https://stream1.freetv.fun/love-nature-en-espanol-1.m3u8
+#EXTINF:-1 group-title="GAT",Love Nature[geo-blocked]
+https://stream1.freetv.fun/love-nature-12.m3u8
+#EXTINF:-1 group-title="GAT",Love Nature
+https://stream1.freetv.fun/love-nature-16.m3u8
+#EXTINF:-1 group-title="GAT",Love Nature
+https://stream1.freetv.fun/love-nature-11.ctv
+#EXTINF:-1 group-title="GAT",AMC電影
+https://stream1.freetv.fun/amcdian-ying-1.m3u8
+#EXTINF:-1 group-title="GAT",HBO Asia臺灣地區頻道
+https://stream1.freetv.fun/hbo-9.m3u8
+#EXTINF:-1 group-title="GAT",HBO Asia臺灣地區頻道
+https://stream1.freetv.fun/hbo-14.m3u8
+#EXTINF:-1 group-title="GAT",HBO Asia臺灣地區頻道
+https://stream1.freetv.fun/hbo-11.ctv
+#EXTINF:-1 group-title="GAT",Hollywood[geo-blocked]
+https://stream1.freetv.fun/young-hollywood-1.m3u8
+#EXTINF:-1 group-title="GAT",Hollywood
+https://stream1.freetv.fun/made-in-hollywood-2.m3u8
+#EXTINF:-1 group-title="GAT",Hollywood
+https://stream1.freetv.fun/young-hollywood-3.m3u8
+#EXTINF:-1 group-title="GAT",三立戲劇
+https://stream1.freetv.fun/san-li-xi-ju-5.ctv
+#EXTINF:-1 group-title="GAT",三立戲劇[geo-blocked]
+https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
+#EXTINF:-1 group-title="GAT",愛爾達影劇臺
+https://stream1.freetv.fun/ai-er-da-ying-ju-2.m3u8
+#EXTINF:-1 group-title="GAT",東森洋片[geo-blocked]
+https://stream1.freetv.fun/dong-sen-yang-pian-6.ctv
+#EXTINF:-1 group-title="GAT",東森洋片
+https://stream1.freetv.fun/dong-sen-yang-pian-3.ctv
+#EXTINF:-1 group-title="GAT",經典電影臺[geo-blocked]
+https://stream1.freetv.fun/jing-dian-dian-ying-8.m3u8
+#EXTINF:-1 group-title="GAT",緯來電影
+https://stream1.freetv.fun/wei-lai-dian-ying-1.ctv
+#EXTINF:-1 group-title="GAT",美亞電影台[TW]
+https://stream1.freetv.fun/mei-ya-dian-ying-5.ctv
+#EXTINF:-1 group-title="GAT",美亞電影台[TW]
+https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
+#EXTINF:-1 group-title="GAT",靖天戲劇[geo-blocked]
+https://stream1.freetv.fun/jing-tian-xi-ju-2.ctv
+#EXTINF:-1 group-title="GAT",龍華戲劇
+https://stream1.freetv.fun/long-hua-xi-ju-6.m3u8
+#EXTINF:-1 group-title="GAT",龍華電影
+https://stream1.freetv.fun/long-hua-dian-ying-6.m3u8
+#EXTINF:-1 group-title="GAT",龍華電影
+https://stream1.freetv.fun/long-hua-dian-ying-5.ctv
+#EXTINF:-1 group-title="GAT",CHANNEL [V]
+https://stream1.freetv.fun/xplore-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",CHANNEL [V]
+https://stream1.freetv.fun/q-tal-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",CHANNEL [V]
+https://stream1.freetv.fun/akaal-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",CHANNEL [V][geo-blocked]
+https://stream1.freetv.fun/tribeca-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",Taiwan Plus[geo-blocked]
+https://stream1.freetv.fun/taiwan-plus-tv-1.m3u8
+#EXTINF:-1 group-title="GAT",Taiwan Plus
+https://stream1.freetv.fun/taiwan-plus-1.m3u8
+#EXTINF:-1 group-title="GAT",三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+#EXTINF:-1 group-title="GAT",三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
+#EXTINF:-1 group-title="GAT",三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
+#EXTINF:-1 group-title="GAT",中天新聞[geo-blocked]
+https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
+#EXTINF:-1 group-title="GAT",台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
+#EXTINF:-1 group-title="GAT",台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-11.m3u8
+#EXTINF:-1 group-title="GAT",台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
+#EXTINF:-1 group-title="GAT",年代新聞HD
+https://stream1.freetv.fun/nian-dai-xin-wen-7.ctv
+#EXTINF:-1 group-title="GAT",東森亞洲新聞
+https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
+#EXTINF:-1 group-title="GAT",民視新聞
+https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8
+#EXTINF:-1 group-title="GAT",民視新聞
+https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
+#EXTINF:-1 group-title="GAT",民視新聞
+https://stream1.freetv.fun/min-shi--xin-wen-1.m3u8
+#EXTINF:-1 group-title="GAT",民視新聞[geo-blocked]
+https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
+#EXTINF:-1 group-title="GAT",臺視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
+#EXTINF:-1 group-title="GAT",臺視新聞臺
+https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8
+#EXTINF:-1 group-title="GAT",臺視新聞臺
+https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
+#EXTINF:-1 group-title="GAT",靖天資訊[geo-blocked]
+https://stream1.freetv.fun/jing-tian-zi-xun-4.ctv
+#EXTINF:-1 group-title="GAT",115新天地民俗臺
+https://stream1.freetv.fun/xin-jiang---bing-tuan-ba-shi-shi-he-zi-jing-ji-sheng-huo-1.m3u8
+#EXTINF:-1 group-title="GAT",Food Network(TW)[geo-blocked]
+https://stream1.freetv.fun/food-1.m3u8
+#EXTINF:-1 group-title="GAT",PET CLUB TV
+https://stream1.freetv.fun/pet-club-tv-1.m3u8
+#EXTINF:-1 group-title="GAT",亞洲旅遊臺
+https://stream1.freetv.fun/ya-zhou-lu-you-3.m3u8
+#EXTINF:-1 group-title="GAT",人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-12.m3u8
+#EXTINF:-1 group-title="GAT",人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-10.m3u8
+#EXTINF:-1 group-title="GAT",人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-5.m3u8
+#EXTINF:-1 group-title="GAT",唯心電視
+https://stream1.freetv.fun/wei-xin-dian-shi-2.m3u8
+#EXTINF:-1 group-title="GAT",好訊息 2[geo-blocked]
+https://stream1.freetv.fun/hao-xiao-xi-2-1.m3u8
+#EXTINF:-1 group-title="GAT",好訊息1[geo-blocked]
+https://stream1.freetv.fun/hao-xiao-xi-1-1.m3u8
+#EXTINF:-1 group-title="GAT",美食星球
+https://stream1.freetv.fun/mei-shi-xing-qiu-6.ctv
+#EXTINF:-1 group-title="GAT",DAZN 1(TW)
+https://stream1.freetv.fun/dazn-combat-1.m3u8
+#EXTINF:-1 group-title="GAT",DAZN 2(TW)
+https://stream1.freetv.fun/dazn-ringside-1.m3u8
+#EXTINF:-1 group-title="GAT",緯來體育
+https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
+#EXTINF:-1 group-title="GAT",澳視葡文[geo-blocked]
+https://stream1.freetv.fun/ao-shi-pu-wen-2.m3u8
+#EXTINF:-1 group-title="GAT",澳視澳門
+https://stream1.freetv.fun/ao-shi-ao-men-5.m3u8
+#EXTINF:-1 group-title="GAT",澳視澳門
+https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
+#EXTINF:-1 group-title="GAT",澳視澳門
+https://stream1.freetv.fun/ao-shi-ao-men-2.ctv
+#EXTINF:-1 group-title="GAT",澳視澳門[geo-blocked]
+https://stream1.freetv.fun/ao-shi-ao-men-1.m3u8
+#EXTINF:-1 group-title="GAT",澳門資訊[geo-blocked]
+https://stream1.freetv.fun/ao-men-zi-xun-2.m3u8
+#EXTINF:-1 group-title="GAT",C+頻道
+https://stream1.freetv.fun/ric-plus-1.m3u8
+#EXTINF:-1 group-title="GAT",RTHK31
+https://stream1.freetv.fun/rthk31-3.ctv
+#EXTINF:-1 group-title="GAT",RTHK31
+https://stream1.freetv.fun/rhk31-1.ctv
+#EXTINF:-1 group-title="GAT",RTHK31
+https://stream1.freetv.fun/rthk31-1.ctv
+#EXTINF:-1 group-title="GAT",TVB Plus[geo-blocked]
+https://stream1.freetv.fun/tvb-plus-4.m3u8
+#EXTINF:-1 group-title="GAT",TVB Plus
+https://stream1.freetv.fun/atv-plus-2.m3u8
+#EXTINF:-1 group-title="GAT",TVB Plus
+https://stream1.freetv.fun/tvb-plus-6.ctv
+#EXTINF:-1 group-title="GAT",TVB Plus
+https://stream1.freetv.fun/atv-plus-1.m3u8
+#EXTINF:-1 group-title="GAT",ViuTV HD
+https://stream1.freetv.fun/viutv-4.ctv
+#EXTINF:-1 group-title="GAT",ViuTV HD
+https://stream1.freetv.fun/viutv-6.ctv
+#EXTINF:-1 group-title="GAT",ViuTV HD
+https://stream1.freetv.fun/viutv-7.ctv
+#EXTINF:-1 group-title="GAT",港臺電視31
+https://stream1.freetv.fun/gang-tai-dian-shi--31-2.ctv
+#EXTINF:-1 group-title="GAT",香港衛視文藝臺
+https://stream1.freetv.fun/xiang-gang-wei-shi-16.m3u8
+#EXTINF:-1 group-title="GAT",香港衛視文藝臺
+https://stream1.freetv.fun/xiang-gang-wei-shi-13.m3u8
+#EXTINF:-1 group-title="GAT",香港衛視文藝臺
+https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
+#EXTINF:-1 group-title="GAT",ATV WORLD[geo-blocked]
+https://stream1.freetv.fun/atv-12.m3u8
+#EXTINF:-1 group-title="GAT",ATV WORLD
+https://stream1.freetv.fun/atv-5.m3u8
+#EXTINF:-1 group-title="GAT",ATV WORLD
+https://stream1.freetv.fun/tvri-world-4.m3u8
+#EXTINF:-1 group-title="GAT",Now TV[geo-blocked]
+https://stream1.freetv.fun/axs-tv-now-3.m3u8
+#EXTINF:-1 group-title="GAT",Now TV[geo-blocked]
+https://stream1.freetv.fun/axs-tv-now-1.m3u8
+#EXTINF:-1 group-title="GAT",Now TV
+https://stream1.freetv.fun/now-tv-1.m3u8
+#EXTINF:-1 group-title="GAT",翡翠台[geo-blocked]
+https://stream1.freetv.fun/fei-cui-4.m3u8
+#EXTINF:-1 group-title="GAT",翡翠台[geo-blocked]
+https://stream1.freetv.fun/fei-cui-19.m3u8
+#EXTINF:-1 group-title="GAT",翡翠台[geo-blocked]
+https://stream1.freetv.fun/fei-cui-18.ctv
+#EXTINF:-1 group-title="GAT",翡翠台
+https://stream1.freetv.fun/fei-cui-13.m3u8
+#EXTINF:-1 group-title="GAT",翡翠台
+https://stream1.freetv.fun/fei-cui-12.m3u8
+#EXTINF:-1 group-title="GAT",翡翠台
+https://stream1.freetv.fun/fei-cui-9.m3u8
+#EXTINF:-1 group-title="GAT",香港衛視姓氏宗親
+https://stream1.freetv.fun/xiang-gang-wei-shi-1.ctv
+#EXTINF:-1 group-title="GAT",香港電臺[geo-blocked]
+https://stream1.freetv.fun/xiang-gang-dian-tai-1.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰衛視FHD
+https://stream1.freetv.fun/feng-huang-wei-shi-2.ctv
+#EXTINF:-1 group-title="GAT",鳳凰衛視FHD[geo-blocked]
+https://stream1.freetv.fun/feng-huang-wei-shi-10.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰衛視FHD[geo-blocked]
+https://stream1.freetv.fun/feng-huang-wei-shi-3.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰衛視FHD[geo-blocked]
+https://stream1.freetv.fun/feng-huang-wei-shi-11.ctv
+#EXTINF:-1 group-title="GAT",鳳凰衛視中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰衛視中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰衛視中文[geo-blocked]
+https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-8.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-9.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-2.m3u8
+#EXTINF:-1 group-title="GAT",Animax(HK)
+https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-3.m3u8
+#EXTINF:-1 group-title="GAT",Animax(HK)
+https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-5.m3u8
+#EXTINF:-1 group-title="GAT",Animax(HK)
+https://stream1.freetv.fun/cctv-5-ti-yu-sai-shi-7.m3u8
+#EXTINF:-1 group-title="GAT",AXN(HK)
+https://stream1.freetv.fun/axn-4.ctv
+#EXTINF:-1 group-title="GAT",MOVIE MOVIE
+https://stream1.freetv.fun/drive-in-movie-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",MOVIE MOVIE
+https://stream1.freetv.fun/mytime-movie-network-4.m3u8
+#EXTINF:-1 group-title="GAT",MOVIE MOVIE
+https://stream1.freetv.fun/movie-sphere-1.m3u8
+#EXTINF:-1 group-title="GAT",TVB亞洲劇
+https://stream1.freetv.fun/tvbsya-zhou-14.m3u8
+#EXTINF:-1 group-title="GAT",TVB亞洲劇
+https://stream1.freetv.fun/tvbsya-zhou-2.m3u8
+#EXTINF:-1 group-title="GAT",TVB經典台[geo-blocked]
+https://stream1.freetv.fun/tvbqian-xi-jing-dian-2.ctv
+#EXTINF:-1 group-title="GAT",天映經典[geo-blocked]
+https://stream1.freetv.fun/tian-ying-jing-dian-4.ctv
+#EXTINF:-1 group-title="GAT",天映經典
+https://stream1.freetv.fun/tian-ying-jing-dian-5.ctv
+#EXTINF:-1 group-title="GAT",明珠臺(備)[geo-blocked]
+https://stream1.freetv.fun/ming-zhu-4.m3u8
+#EXTINF:-1 group-title="GAT",明珠臺(備)
+https://stream1.freetv.fun/ming-zhu-7.ctv
+#EXTINF:-1 group-title="GAT",明珠臺(備)
+https://stream1.freetv.fun/ming-zhu-2.ctv
+#EXTINF:-1 group-title="GAT",CCTV1(RTHK33)[geo-blocked]
+https://stream1.freetv.fun/cctv1-71.ctv
+#EXTINF:-1 group-title="GAT",CCTV1(RTHK33)
+https://stream1.freetv.fun/cctv1-31.m3u8
+#EXTINF:-1 group-title="GAT",HOY TV
+https://stream1.freetv.fun/hoy-tv-3.m3u8
+#EXTINF:-1 group-title="GAT",HOY TV
+https://stream1.freetv.fun/koy-tv-1.ctv
+#EXTINF:-1 group-title="GAT",RTHK32
+https://stream1.freetv.fun/rthk32-1.ctv
+#EXTINF:-1 group-title="GAT",RTHK32
+https://stream1.freetv.fun/rthk32-4.ctv
+#EXTINF:-1 group-title="GAT",港臺電視32[geo-blocked]
+https://stream1.freetv.fun/gang-tai-dian-shi--32-3.ctv
+#EXTINF:-1 group-title="GAT",無線新聞台[geo-blocked]
+https://stream1.freetv.fun/wu-xian-xin-wen-1.ctv
+#EXTINF:-1 group-title="GAT",無線新聞台
+https://stream1.freetv.fun/wu-xian-xin-wen-11.m3u8
+#EXTINF:-1 group-title="GAT",無線新聞台
+https://stream1.freetv.fun/wu-xian-xin-wen-8.m3u8
+#EXTINF:-1 group-title="GAT",無線新聞台
+https://stream1.freetv.fun/wu-xian-xin-wen-5.m3u8
+#EXTINF:-1 group-title="GAT",無線新聞臺
+https://stream1.freetv.fun/wu-xian-xin-wen-14.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰資訊HD
+https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰資訊HD
+https://stream1.freetv.fun/feng-huang-zi-xun-4.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰資訊HD
+https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
+#EXTINF:-1 group-title="GAT",鳳凰資訊HD[geo-blocked]
+https://stream1.freetv.fun/feng-huang-zi-xun-20.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰資訊HD[geo-blocked]
+https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
+#EXTINF:-1 group-title="GAT",鳳凰資訊HD[geo-blocked]
+https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
+#EXTINF:-1 group-title="GAT",GOAL TV 1
+https://stream1.freetv.fun/goal-tv-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]「新疆」兵團八師石河子經濟生活
+https://stream1.freetv.fun/xin-jiang---bing-tuan-ba-shi-shi-he-zi-jing-ji-sheng-huo-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]amc電影
+https://stream1.freetv.fun/amcdian-ying-1.m3u8
+#EXTINF:-1 group-title="GAT",[HD]xplore channel
+https://stream1.freetv.fun/xplore-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]tribeca channel[geo-blocked]
+https://stream1.freetv.fun/tribeca-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]q tal channel
+https://stream1.freetv.fun/q-tal-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",[VGA]akaal channel
+https://stream1.freetv.fun/akaal-channel-1.m3u8
+#EXTINF:-1 group-title="GAT",[HD]qmusic
+https://stream1.freetv.fun/qmusic-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]dazn combat
+https://stream1.freetv.fun/dazn-combat-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]dazn ringside
+https://stream1.freetv.fun/dazn-ringside-1.m3u8
+#EXTINF:-1 group-title="GAT",[SD]discovery channel
+https://stream1.freetv.fun/discovery-channel-8.m3u8
+#EXTINF:-1 group-title="GAT",[BD]Discovery HD
+https://stream1.freetv.fun/discovery-7.ctv
+#EXTINF:-1 group-title="GAT",[VGA]food[geo-blocked]
+https://stream1.freetv.fun/food-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]HBO
+https://stream1.freetv.fun/hbo-9.m3u8
+#EXTINF:-1 group-title="GAT",[BD]HBO
+https://stream1.freetv.fun/hbo-14.m3u8
+#EXTINF:-1 group-title="GAT",[BD]HBO
+https://stream1.freetv.fun/hbo-11.ctv
+#EXTINF:-1 group-title="GAT",[BD]young hollywood[geo-blocked]
+https://stream1.freetv.fun/young-hollywood-1.m3u8
+#EXTINF:-1 group-title="GAT",[HD]made in hollywood
+https://stream1.freetv.fun/made-in-hollywood-2.m3u8
+#EXTINF:-1 group-title="GAT",[BD]young hollywood
+https://stream1.freetv.fun/young-hollywood-3.m3u8
+#EXTINF:-1 group-title="GAT",[BD]love nature en espanol[geo-blocked]
+https://stream1.freetv.fun/love-nature-en-espanol-1.m3u8
+#EXTINF:-1 group-title="GAT",[SD]LOVE NATURE
+https://stream1.freetv.fun/love-nature-11.ctv
+#EXTINF:-1 group-title="GAT",[BD]love nature[geo-blocked]
+https://stream1.freetv.fun/love-nature-12.m3u8
+#EXTINF:-1 group-title="GAT",[SD]love nature
+https://stream1.freetv.fun/love-nature-16.m3u8
+#EXTINF:-1 group-title="GAT",[BD]pet club tv
+https://stream1.freetv.fun/pet-club-tv-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]taiwan plus tv[geo-blocked]
+https://stream1.freetv.fun/taiwan-plus-tv-1.m3u8
+#EXTINF:-1 group-title="GAT",[SD]taiwan plus
+https://stream1.freetv.fun/taiwan-plus-1.m3u8
+#EXTINF:-1 group-title="GAT",[HD]三立戲劇
+https://stream1.freetv.fun/san-li-xi-ju-5.ctv
+#EXTINF:-1 group-title="GAT",[HD]三立戲劇[geo-blocked]
+https://stream1.freetv.fun/san-li-xi-ju-4.m3u8
+#EXTINF:-1 group-title="GAT",[BD]三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+#EXTINF:-1 group-title="GAT",[BD]三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
+#EXTINF:-1 group-title="GAT",[BD]三立新聞台
+https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
+#EXTINF:-1 group-title="GAT",[HD]三立綜合
+https://stream1.freetv.fun/san-li-zong-he-2.ctv
+#EXTINF:-1 group-title="GAT",[HD]中天亞洲台
+https://stream1.freetv.fun/zhong-tian-ya-zhou-6.ctv
+#EXTINF:-1 group-title="GAT",[BD]中天新聞[geo-blocked]
+https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
+#EXTINF:-1 group-title="GAT",[BD]中視
+https://stream1.freetv.fun/zhong-shi-6.m3u8
+#EXTINF:-1 group-title="GAT",[HD]中視
+https://stream1.freetv.fun/zhong-shi-8.ctv
+#EXTINF:-1 group-title="GAT",[HD]亞洲旅遊
+https://stream1.freetv.fun/ya-zhou-lu-you-3.m3u8
+#EXTINF:-1 group-title="GAT",[BD]人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-12.m3u8
+#EXTINF:-1 group-title="GAT",[HD]人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-1.ctv
+#EXTINF:-1 group-title="GAT",[HD]人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-10.m3u8
+#EXTINF:-1 group-title="GAT",[HD]人間衛視
+https://stream1.freetv.fun/ren-jian-wei-shi-5.m3u8
+#EXTINF:-1 group-title="GAT",[BD]八大第一
+https://stream1.freetv.fun/ba-da-di-yi-1.ctv
+#EXTINF:-1 group-title="GAT",[HD]台視
+https://stream1.freetv.fun/tai-shi-6.ctv
+#EXTINF:-1 group-title="GAT",[HD]台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
+#EXTINF:-1 group-title="GAT",[BD]台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-11.m3u8
+#EXTINF:-1 group-title="GAT",[BD]台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8
+#EXTINF:-1 group-title="GAT",[BD]台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
+#EXTINF:-1 group-title="GAT",[BD]台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8
+#EXTINF:-1 group-title="GAT",[VGA]唯心電視
+https://stream1.freetv.fun/wei-xin-dian-shi-2.m3u8
+#EXTINF:-1 group-title="GAT",[HD]國會頻道2
+https://stream1.freetv.fun/guo-hui--2-1.m3u8
+#EXTINF:-1 group-title="GAT",[HD]好消息2[geo-blocked]
+https://stream1.freetv.fun/hao-xiao-xi-2-1.m3u8
+#EXTINF:-1 group-title="GAT",[HD]好消息1[geo-blocked]
+https://stream1.freetv.fun/hao-xiao-xi-1-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]年代新聞
+https://stream1.freetv.fun/nian-dai-xin-wen-7.ctv
+#EXTINF:-1 group-title="GAT",[HD]愛爾達影劇
+https://stream1.freetv.fun/ai-er-da-ying-ju-2.m3u8
+#EXTINF:-1 group-title="GAT",[SD]亞洲新聞
+https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]東森洋片[geo-blocked]
+https://stream1.freetv.fun/dong-sen-yang-pian-6.ctv
+#EXTINF:-1 group-title="GAT",[BD]東森洋片
+https://stream1.freetv.fun/dong-sen-yang-pian-3.ctv
+#EXTINF:-1 group-title="GAT",[BD]東森綜合[geo-blocked]
+https://stream1.freetv.fun/dong-sen-zong-he-2.ctv
+#EXTINF:-1 group-title="GAT",[BD]東森綜合
+https://stream1.freetv.fun/dong-sen-zong-he-1.ctv
+#EXTINF:-1 group-title="GAT",[HD]東森綜合
+https://stream1.freetv.fun/dong-sen-zong-he-3.ctv
+#EXTINF:-1 group-title="GAT",[BD]東森美洲衛視
+https://stream1.freetv.fun/dong-sen-mei-zhou-wei-shi-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]東森超視[geo-blocked]
+https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8
+#EXTINF:-1 group-title="GAT",[BD]東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
+#EXTINF:-1 group-title="GAT",[BD]東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
+#EXTINF:-1 group-title="GAT",[BD]東森超視
+https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
+#EXTINF:-1 group-title="GAT",[BD]東森電影[geo-blocked]
+https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
+#EXTINF:-1 group-title="GAT",[HD]民視
+https://stream1.freetv.fun/min-shi-10.ctv
+#EXTINF:-1 group-title="GAT",[BD]民視新聞
+https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8
+#EXTINF:-1 group-title="GAT",[BD]民視新聞台[geo-blocked]
+https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
+#EXTINF:-1 group-title="GAT",[BD]民視新聞 hd
+https://stream1.freetv.fun/min-shi-xin-wen-13.m3u8
+#EXTINF:-1 group-title="GAT",[HD]民視新聞
+https://stream1.freetv.fun/min-shi-xin-wen-12.ctv
+#EXTINF:-1 group-title="GAT",[BD]民視 新聞
+https://stream1.freetv.fun/min-shi--xin-wen-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]民視新聞
+https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8
+#EXTINF:-1 group-title="GAT",[BD]經典電影[geo-blocked]
+https://stream1.freetv.fun/jing-dian-dian-ying-8.m3u8
+#EXTINF:-1 group-title="GAT",[BD]緯來電影
+https://stream1.freetv.fun/wei-lai-dian-ying-1.ctv
+#EXTINF:-1 group-title="GAT",[BD]緯來體育
+https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
+#EXTINF:-1 group-title="GAT",[HD]美亞電影台
+https://stream1.freetv.fun/mei-ya-dian-ying-5.ctv
+#EXTINF:-1 group-title="GAT",[HD]美亞電影
+https://stream1.freetv.fun/mei-ya-dian-ying-1.ctv
+#EXTINF:-1 group-title="GAT",[HD]美食星球
+https://stream1.freetv.fun/mei-shi-xing-qiu-6.ctv
+#EXTINF:-1 group-title="GAT",[BD]台視新聞 hd
+https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8
+#EXTINF:-1 group-title="GAT",[BD]台視新聞
+https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
+#EXTINF:-1 group-title="GAT",[BD]華視
+https://stream1.freetv.fun/hua-shi-4.m3u8
+#EXTINF:-1 group-title="GAT",[HD]靖天卡通
+https://stream1.freetv.fun/jing-tian-qia-tong-1.ctv
+#EXTINF:-1 group-title="GAT",[BD]靖天戲劇[geo-blocked]
+https://stream1.freetv.fun/jing-tian-xi-ju-2.ctv
+#EXTINF:-1 group-title="GAT",[BD]靖天資訊[geo-blocked]
+https://stream1.freetv.fun/jing-tian-zi-xun-4.ctv
+#EXTINF:-1 group-title="GAT",[HD]龍華卡通
+https://stream1.freetv.fun/long-hua-qia-tong-2.m3u8
+#EXTINF:-1 group-title="GAT",[BD]龍華戲劇
+https://stream1.freetv.fun/long-hua-xi-ju-6.m3u8
+#EXTINF:-1 group-title="GAT",[HD]龍華電影
+https://stream1.freetv.fun/long-hua-dian-ying-5.ctv
+#EXTINF:-1 group-title="GAT",[BD]龍華電影
+https://stream1.freetv.fun/long-hua-dian-ying-6.m3u8
+#EXTINF:-1 group-title="GAT",[BD]澳視澳門
+https://stream1.freetv.fun/ao-shi-ao-men-5.m3u8
+#EXTINF:-1 group-title="GAT",[BD]澳視澳門
+https://stream1.freetv.fun/ao-shi-ao-men-4.m3u8
+#EXTINF:-1 group-title="GAT",[BD]澳視澳門
+https://stream1.freetv.fun/ao-shi-ao-men-2.ctv
+#EXTINF:-1 group-title="GAT",[BD]澳視澳門[geo-blocked]
+https://stream1.freetv.fun/ao-shi-ao-men-1.m3u8
+#EXTINF:-1 group-title="GAT",[BD]澳視葡文[geo-blocked]
+https://stream1.freetv.fun/ao-shi-pu-wen-2.m3u8
+#EXTINF:-1 group-title="GAT",[BD]澳門資訊[geo-blocked]
+https://stream1.freetv.fun/ao-men-zi-xun-2.m3u8
 
 
 
@@ -1827,6 +2343,14 @@ https://json.doube.eu.org/Doubebly/MyTvSuper/GetData.php?pid=SDOC
 http://c1.7bbffvip.com/video/nazhazhimotongnaohai/%E4%BF%AE%E5%A4%8D%E7%89%88/index.m3u8
 #EXTINF:-1 group-title="台港澳",PIGOO写真
 http://luong.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="台港澳",paopao
+https://cf005.paopao.video:443/BC48C5030A85D533F789438C6602E18649796C81
+
+
+#EXTINF:-1 tvg-id="fashion-tv" group-title="台港澳",Fashion TV HD
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="台港澳",龍華電影
