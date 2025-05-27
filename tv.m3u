@@ -1597,6 +1597,27 @@ https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="龍華電影" group-title="港澳馬新",龍華電影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龍華經典" group-title="港澳馬新",龍華經典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龍華卡通" group-title="港澳馬新",龍華卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-name="龍華偶像" group-title="港澳馬新",龍華偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龍華日韓" group-title="港澳馬新",龍華日韓
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="港澳馬新",龍華戲劇
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="龍華洋片" group-title="港澳馬新",龍華洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+
+
+
+
+
+
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="SMART TV",香港|翡翠台
 https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="SMART TV",香港|翡翠台 backup
