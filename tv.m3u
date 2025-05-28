@@ -5237,4 +5237,33 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 
 
 
+#EXTINF:-1 group-title="時效源",pigoo
+http://ali.hlspull.yximgs.com:80/live/8122d46003c90571609eb1a28c16a62c.flv
+#EXTINF:-1 group-title="時效源",極限
+http://ali.hlspull.yximgs.com:80/live/d2f754fc70e8a8ae3e4ee9d1ada5deff.flv
+#EXTINF:-1 group-title="時效源",Happy
+http://ali.hlspull.yximgs.com:80/live/28cef181e94e1c10c8ba15d3c27bbd77.flv
+#EXTINF:-1 group-title="時效源",香蕉
+http://ali.hlspull.yximgs.com:80/live/2932d2cd9b8281854a9f047d1aeb8ee8.flv
+#EXTINF:-1 group-title="時效源",驚豔
+http://ali.hlspull.yximgs.com:80/live/4260712fd5dae0ff5dea473bf6385d5d.flv
+#EXTINF:-1 group-title="時效源",玩美
+http://ali.hlspull.yximgs.com:80/live/6c41fa25ad7165da4d389d6025c79cf1.flv
+#EXTINF:-1 group-title="時效源",彩虹電影
+http://ali.hlspull.yximgs.com:80/live/ccb7fdad49010dbb9ee9ba1e272bc214.flv
+#EXTINF:-1 group-title="時效源",彩虹k
+http://ali.hlspull.yximgs.com:80/live/91a2f0e48896426cd60b1cffde29919d.flv
+#EXTINF:-1 group-title="時效源",彩虹e
+http://ali.hlspull.yximgs.com:80/live/162894fb22a4c787c54f9a9c9d7aa55b.flv
+#EXTINF:-1 group-title="時效源",松視3
+http://ali.hlspull.yximgs.com:80/live/d2ad6b651174c9d412fd58bfbe9a56d3.flv
+#EXTINF:-1 group-title="時效源",松視1
+http://ali.hlspull.yximgs.com:80/live/c448883fc5d84df3708dfb6584be4ffd.flv
+
+
+
+
+
+
+
 
