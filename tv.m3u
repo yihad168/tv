@@ -1463,6 +1463,19 @@ http://220.132.15.209:5008/nnews-vn/index.m3u8
 
 
 
+#EXTINF:-1 group-title="港澳馬新",翡翠台
+https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+#EXTINF:-1 group-title="港澳馬新",PopC
+https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+#EXTINF:-1 group-title="港澳馬新",美亞電影台
+https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+#EXTINF:-1 group-title="港澳馬新",天映經典
+https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+#EXTINF:-1 group-title="港澳馬新",tvbplus
+https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="港澳馬新",翡翠台
