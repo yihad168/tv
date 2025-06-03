@@ -755,6 +755,65 @@ https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 
 
 
+#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+http://cdn.132.us.kg/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+http://cdn3.132.us.kg/live/j1/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
+http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",鳳凰香港頻高
+http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",有線綜合頻高
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+http://cdn3.132.us.kg/live/fct/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線明珠頻標
+http://cdn5.132.us.kg/live/mzt/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",RTHK-31頻高
+http://cdn5.132.us.kg/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",RTHK-32頻高
+http://cdn5.132.us.kg/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",澳視衛星頻高
+http://cdn.132.us.kg/live/as/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",重溫經典頻高
+http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華電影頻高
+https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華經典頻高
+https://cdn3.132.us.kg/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華卡通頻標
+https://cdn3.132.us.kg/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華偶像頻高
+https://cdn3.132.us.kg/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華日韓頻高
+https://cdn3.132.us.kg/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華戲劇頻高
+https://cdn3.132.us.kg/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",央視綜合頻高
+https://cdn5.132.us.kg/live/cctv1/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",八度空間頻高
+https://cdn6.132.us.kg/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",新加CHU頻高
+https://cdn6.132.us.kg/live/chu/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",新加CH5頻高
+https://cdn6.132.us.kg/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",新加CH8頻高
+https://cdn6.132.us.kg/live/ch8/stream.m3u8
+
+
+
 
 #EXTINF:-1 tvg-name="龍華電影" group-title="港澳馬新",龍華電影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
