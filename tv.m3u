@@ -753,6 +753,70 @@ https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 
 
 
+特區酒店源,#genre#
+#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=gdzj
+#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=j1
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+#EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港澳馬新",鳳凰香港頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳馬新",有線綜合粵高
+http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="港澳馬新",有線綜合國高
+http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
+http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=fct
+#EXTINF:-1 group-title="港澳馬新",無線華麗國標
+http://php.jdshipin.com/PLTV/iptv.php?id=huali
+#EXTINF:-1 group-title="港澳馬新",無線明珠粵高
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+#EXTINF:-1 group-title="港澳馬新",無線明珠頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+#EXTINF:-1 group-title="港澳馬新",無線娛樂頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="港澳馬新",無線星河頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+#EXTINF:-1 group-title="港澳馬新",無線星河頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港澳馬新",無線千禧頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+#EXTINF:-1 group-title="港澳馬新",美亞電影頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+#EXTINF:-1 group-title="港澳馬新",VIUTV粵頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+#EXTINF:-1 group-title="港澳馬新",RTHK-31頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港澳馬新",RTHK-32頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+#EXTINF:-1 group-title="港澳馬新",AstroRio頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=aod
+#EXTINF:-1 group-title="港澳馬新",澳門Mac頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=as
+#EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=asam
+#EXTINF:-1 group-title="港澳馬新",重溫經典頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+
 
 
 #EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
