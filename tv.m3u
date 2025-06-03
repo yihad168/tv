@@ -1878,6 +1878,109 @@ http://tl.061833.xyz/tl/superkidschannel
 http://tl.061833.xyz/tl/zoomoo
 
 
+#EXTINF:-1 tvg-id="mtv-europe" group-title="MUSIC CH", MTV Europe
+http://fl5.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/v1589302537/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/MTV_Classic-Default-Black_2x_ubqscy.png" tvg-id="no_epg_music" group-title="MUSIC CH", MTV Classic
+http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="Музыкальные",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",ช่อง VEVO '70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg",ช่อง VEVO '80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO '90s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9v7LJW0wfFmbQ7HjRMLBTVGumAp8Q1M6GA&s",ช่อง VEVO 2K
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",ช่อง VEVO Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIqTgSUucFH_wUVW6CXnjeqOzHKKxDTsVCg&s",ช่อง VEVO Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9q5J7f0x97zzzGfYlStEk-5DrSH40pZYrA&s",ช่อง VEVO Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://i.ytimg.com/vi/3ZT9_H4-hbM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD3hHi9dHRWgktXx4GdBRHncMxNoA",ช่อง VEVO Christmas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL",ช่อง Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/Now80s-logo255x140.png?itok=jOXm9NjN",ช่อง Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s",ช่อง Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",ช่อง Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE 80s FLASHBLACK
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE 90s THROWBACK
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png",ช่อง XITE ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png",ช่อง Radio Kiss Kiss
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/76QzcCMb3h.png",ช่อง Radio Kiss Kiss ITALIA
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik AMVA 2020
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik Cafe Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik Jeka Serbia
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik Rock Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE",ช่อง Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://qello.com/static/images/metadata/SiteImage.png",ช่อง Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckMgjm54-SwNx-SsrPM2vj-zCtVeathHYps9lIm1WYg&s",ช่อง Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://karaoke.stingray.com/static/site/MetaImage.jpg",ช่อง Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/10/Stingray-Naturescape-Self-care-Sundays.jpg",ช่อง Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/50a3ecdf-9e7c-4632-9480-193ffeb8650c.jpeg",ช่อง Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg",ช่อง Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg",ช่อง Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg",ช่อง Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg",ช่อง Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mediafile.galaxie.ca/data/000/111/505/000111505539",ช่อง Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg",ช่อง Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416920",ช่อง Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831",ช่อง Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mediafile.galaxie.ca/data/000/155/867/000155867535",ช่อง Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mediafile.galaxie.ca/data/000/155/863/000155863632",ช่อง Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://s3.klowdtv.net/herring/images/channels/stingrayMusicEasyListening/logo_big.png",ช่อง Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/600x337.webp?type=channelTile",ช่อง Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://mediafile.galaxie.ca/data/000/110/456/000110456009",ช่อง Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg",ช่อง Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
+
+
+
 
 
 
