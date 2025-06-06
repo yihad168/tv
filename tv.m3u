@@ -619,22 +619,6 @@ http://kenneth001.serv00.net/litv_m3u8.php?id=litv-longturn20
 https://livecdn9.ptsplus.tv/pts-youth-A/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="港澳馬新",翡翠台
-https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
-#EXTINF:-1 group-title="港澳馬新",PopC
-https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
-#EXTINF:-1 group-title="港澳馬新",美亞電影台
-https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
-#EXTINF:-1 group-title="港澳馬新",天映經典
-https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
-#EXTINF:-1 group-title="港澳馬新",tvbplus
-https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="港澳馬新",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 group-title="港澳馬新",華麗翡翠台
@@ -1089,7 +1073,7 @@ https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_2_Live_TV
 http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/v1589302537/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/MTV_Classic-Default-Black_2x_ubqscy.png" tvg-id="no_epg_music" group-title="MUSIC CH", MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="Музыкальные",ТНТ Music HD
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 
