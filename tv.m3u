@@ -1334,10 +1334,14 @@ https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
 https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
 #EXTINF:-1,tvg-id="體育頻道|Skysports Mix" tvg-name="體育頻道|Skysports Mix" tvg-logo="https://epg.112114.xyz/logo/體育頻道|SKYSPORTSMIX.png" group-title="SMART TV",體育頻道|Skysports Mix
 https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+#EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育1" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育1.png" group-title="SMART TV",體育頻道|愛爾達體育1台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
 #EXTINF:-1,tvg-id="愛爾達體育2" tvg-name="愛爾達體育2" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="SMART TV",體育頻道|愛爾達體育2台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 #EXTINF:-1,tvg-id="愛爾達體育3" tvg-name="愛爾達體育3" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育3.png" group-title="SMART TV",體育頻道|愛爾達體育3台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1,tvg-id="愛爾達體育4" tvg-name="愛爾達體育4" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育4.png" group-title="SMART TV",體育頻道|愛爾達體育4台
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 #EXTINF:-1,tvg-id="體育頻道|Rugby Pass TV" tvg-name="體育頻道|Rugby Pass TV" tvg-logo="https://epg.112114.xyz/logo/體育頻道|RUGBYPASSTV.png" group-title="SMART TV",體育頻道|Rugby Pass TV
 https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
 #EXTINF:-1,tvg-id="體育頻道|RTM Sports HD" tvg-name="體育頻道|RTM Sports HD" tvg-logo="https://epg.112114.xyz/logo/體育頻道|RTMSPORTS.png" group-title="SMART TV",體育頻道|RTM Sports HD
@@ -1476,6 +1480,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
 #EXTINF:-1,tvg-id="臺灣|博斯運動 2" tvg-name="臺灣|博斯運動 2" tvg-logo="https://epg.112114.xyz/logo/臺灣|博斯運動2.png" group-title="SMART TV",臺灣|博斯運動 2
 https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
+#EXTINF:-1,tvg-id="臺灣|博斯高球1 HD" tvg-name="臺灣|博斯高球1 HD" tvg-logo="https://epg.112114.xyz/logo/臺灣|博斯高球1.png" group-title="SMART TV",臺灣|博斯高球1 HD
+https://smart.pendy.dpdns.org/Smart.php?id=bosigolf1_twn
 #EXTINF:-1,tvg-id="臺灣|博斯高球2 HD" tvg-name="臺灣|博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/臺灣|博斯高球2.png" group-title="SMART TV",臺灣|博斯高球2 HD
 https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
 #EXTINF:-1,tvg-id="臺灣|博斯網球 HD" tvg-name="臺灣|博斯網球 HD" tvg-logo="https://epg.112114.xyz/logo/臺灣|博斯網球.png" group-title="SMART TV",臺灣|博斯網球 HD
