@@ -619,10 +619,7 @@ http://kenneth001.serv00.net/litv_m3u8.php?id=litv-longturn20
 
 
 
-
-
-
-
+**********************************************************
 
 
 
@@ -727,179 +724,159 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 
-#EXTINF:-1 group-title="港澳馬新",翡翠台
-https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",TVB plus
-https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",無線新聞
-https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",明珠台
-https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",娛樂新聞
-https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",鳳凰中文
-https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",鳳凰諮詢
-https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",鳳凰香港
-https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",18賽馬
-https://live.tvfix.org/live/c18/4/v200000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",28賽馬
-https://live.tvfix.org/live/c28/2/v200000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",美亞電影
-https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",天映經典
-https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",無線亞洲
-https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",TVBS新聞
-https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-#EXTINF:-1 group-title="港澳馬新",POPC
-https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
+
+
+
+
+
+**********************************************************
 
 
 
 特區酒店源,#genre#
-#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+#EXTINF:-1 group-title="特區酒店源",廣東珠江頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=gdzj
-#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+#EXTINF:-1 group-title="特區酒店源",廣東體育頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+#EXTINF:-1 group-title="特區酒店源",Plus綜合頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
-#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+#EXTINF:-1 group-title="特區酒店源",Plus綜合頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=j2
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+#EXTINF:-1 group-title="特區酒店源",TVBJ1美頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=j1
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻標
+#EXTINF:-1 group-title="特區酒店源",TVBJ1美頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
-#EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
+#EXTINF:-1 group-title="特區酒店源",鳳凰中文頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
+#EXTINF:-1 group-title="特區酒店源",鳳凰資訊頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港澳馬新",鳳凰香港頻高
+#EXTINF:-1 group-title="特區酒店源",鳳凰香港頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港澳馬新",有線綜合粵高
+#EXTINF:-1 group-title="特區酒店源",有線綜合粵高
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-#EXTINF:-1 group-title="港澳馬新",有線綜合國高
+#EXTINF:-1 group-title="特區酒店源",有線綜合國高
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+#EXTINF:-1 group-title="特區酒店源",無線新聞頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
+#EXTINF:-1 group-title="特區酒店源",無線翡翠頻4k
 http://php.jdshipin.com/PLTV/iptv.php?id=fct4
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+#EXTINF:-1 group-title="特區酒店源",無線翡翠頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+#EXTINF:-1 group-title="特區酒店源",無線翡翠頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻標
+#EXTINF:-1 group-title="特區酒店源",無線翡翠頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳馬新",無線華麗國標
+#EXTINF:-1 group-title="特區酒店源",無線華麗國標
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
-#EXTINF:-1 group-title="港澳馬新",無線明珠粵高
+#EXTINF:-1 group-title="特區酒店源",無線明珠粵高
 http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-#EXTINF:-1 group-title="港澳馬新",無線明珠頻標
+#EXTINF:-1 group-title="特區酒店源",無線明珠頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-#EXTINF:-1 group-title="港澳馬新",無線娛樂頻標
+#EXTINF:-1 group-title="特區酒店源",無線娛樂頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="港澳馬新",無線星河頻標
+#EXTINF:-1 group-title="特區酒店源",無線星河頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-#EXTINF:-1 group-title="港澳馬新",無線星河頻標
+#EXTINF:-1 group-title="特區酒店源",無線星河頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港澳馬新",無線千禧頻標
+#EXTINF:-1 group-title="特區酒店源",無線千禧頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-#EXTINF:-1 group-title="港澳馬新",美亞電影頻標
+#EXTINF:-1 group-title="特區酒店源",美亞電影頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-#EXTINF:-1 group-title="港澳馬新",VIUTV粵頻標
+#EXTINF:-1 group-title="特區酒店源",VIUTV粵頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-#EXTINF:-1 group-title="港澳馬新",RTHK-31頻高
+#EXTINF:-1 group-title="特區酒店源",RTHK-31頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-#EXTINF:-1 group-title="港澳馬新",RTHK-32頻高
+#EXTINF:-1 group-title="特區酒店源",RTHK-32頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港澳馬新",AstroRio頻標
+#EXTINF:-1 group-title="特區酒店源",AstroRio頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=aod
-#EXTINF:-1 group-title="港澳馬新",澳門Mac頻高
+#EXTINF:-1 group-title="特區酒店源",澳門Mac頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=as
-#EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
+#EXTINF:-1 group-title="特區酒店源",澳視澳門頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 group-title="港澳馬新",重溫經典頻高
+#EXTINF:-1 group-title="特區酒店源",重溫經典頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 
 
-
-#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+#EXTINF:-1 group-title="特區酒店源",廣東珠江頻高
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+#EXTINF:-1 group-title="特區酒店源",廣東體育頻高
 http://cdn2.132.us.kg/live/gdty/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+#EXTINF:-1 group-title="特區酒店源",Plus綜合頻高
 http://cdn.132.us.kg/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+#EXTINF:-1 group-title="特區酒店源",TVBJ1美頻高
 http://cdn3.132.us.kg/live/j1/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
+#EXTINF:-1 group-title="特區酒店源",鳳凰中文頻高
 http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
+#EXTINF:-1 group-title="特區酒店源",鳳凰資訊頻高
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",鳳凰香港頻高
+#EXTINF:-1 group-title="特區酒店源",鳳凰香港頻高
 http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",有線綜合頻高
+#EXTINF:-1 group-title="特區酒店源",有線綜合頻高
 http://cdn.132.us.kg/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+#EXTINF:-1 group-title="特區酒店源",無線新聞頻高
 http://cdn3.132.us.kg/live/wxxw/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+#EXTINF:-1 group-title="特區酒店源",無線翡翠頻高
 http://cdn3.132.us.kg/live/fct/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
+#EXTINF:-1 group-title="特區酒店源",無線翡翠頻4k
 http://cdn.132.us.kg/live/fct4k/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",無線明珠頻標
+#EXTINF:-1 group-title="特區酒店源",無線明珠頻標
 http://cdn5.132.us.kg/live/mzt/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",RTHK-31頻高
+#EXTINF:-1 group-title="特區酒店源",RTHK-31頻高
 http://cdn5.132.us.kg/live/rthk31/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",RTHK-32頻高
+#EXTINF:-1 group-title="特區酒店源",RTHK-32頻高
 http://cdn5.132.us.kg/live/rthk32/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
+#EXTINF:-1 group-title="特區酒店源",澳視澳門頻高
 http://cdn.132.us.kg/live/asam/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",澳視衛星頻高
+#EXTINF:-1 group-title="特區酒店源",澳視衛星頻高
 http://cdn.132.us.kg/live/as/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",重溫經典頻高
+#EXTINF:-1 group-title="特區酒店源",重溫經典頻高
 http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",龍華電影頻高
+#EXTINF:-1 group-title="特區酒店源",龍華電影頻高
 https://cdn3.132.us.kg/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",龍華經典頻高
+#EXTINF:-1 group-title="特區酒店源",龍華經典頻高
 https://cdn3.132.us.kg/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",龍華卡通頻標
+#EXTINF:-1 group-title="特區酒店源",龍華卡通頻標
 https://cdn3.132.us.kg/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",龍華偶像頻高
+#EXTINF:-1 group-title="特區酒店源",龍華偶像頻高
 https://cdn3.132.us.kg/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",龍華日韓頻高
+#EXTINF:-1 group-title="特區酒店源",龍華日韓頻高
 https://cdn3.132.us.kg/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",龍華戲劇頻高
+#EXTINF:-1 group-title="特區酒店源",龍華戲劇頻高
 https://cdn3.132.us.kg/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",央視綜合頻高
+#EXTINF:-1 group-title="特區酒店源",央視綜合頻高
 https://cdn5.132.us.kg/live/cctv1/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",八度空間頻高
+#EXTINF:-1 group-title="特區酒店源",八度空間頻高
 https://cdn6.132.us.kg/live/8tv/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",新加CHU頻高
+#EXTINF:-1 group-title="特區酒店源",新加CHU頻高
 https://cdn6.132.us.kg/live/chu/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",新加CH5頻高
+#EXTINF:-1 group-title="特區酒店源",新加CH5頻高
 https://cdn6.132.us.kg/live/ch5/stream.m3u8
-#EXTINF:-1 group-title="港澳馬新",新加CH8頻高
+#EXTINF:-1 group-title="特區酒店源",新加CH8頻高
 https://cdn6.132.us.kg/live/ch8/stream.m3u8
 
 
-
-
-#EXTINF:-1 tvg-name="龍華電影" group-title="港澳馬新",龍華電影
+#EXTINF:-1 tvg-name="龍華電影" group-title="特區酒店源",龍華電影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-name="龍華經典" group-title="港澳馬新",龍華經典
+#EXTINF:-1 tvg-name="龍華經典" group-title="特區酒店源",龍華經典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 tvg-name="龍華卡通" group-title="港澳馬新",龍華卡通
+#EXTINF:-1 tvg-name="龍華卡通" group-title="特區酒店源",龍華卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-name="龍華偶像" group-title="港澳馬新",龍華偶像
+#EXTINF:-1 tvg-name="龍華偶像" group-title="特區酒店源",龍華偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 tvg-name="龍華日韓" group-title="港澳馬新",龍華日韓
+#EXTINF:-1 tvg-name="龍華日韓" group-title="特區酒店源",龍華日韓
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 tvg-name="龍華戲劇" group-title="港澳馬新",龍華戲劇
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="特區酒店源",龍華戲劇
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 tvg-name="龍華洋片" group-title="港澳馬新",龍華洋片
+#EXTINF:-1 tvg-name="龍華洋片" group-title="特區酒店源",龍華洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+
+
+
+
+
+**********************************************************
+
 
 
 
@@ -1077,6 +1054,7 @@ https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_2_Live_TV
 
 
 
+**********************************************************
 
 
 
@@ -1084,8 +1062,23 @@ https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_2_Live_TV
 http://fl5.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/v1589302537/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/MTV_Classic-Default-Black_2x_ubqscy.png" tvg-id="no_epg_music" group-title="MUSIC CH", MTV Classic
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH",ТНТ Music HD
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", THT Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
+
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", Movie Music
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", AMC Music
+https://AMChls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", Music Channel
+https://cmc-ono.amagi.tv/playlist1080_p.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", 周杰倫MV
+http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", AT Krone Hit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+
+
 
 
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", VEVO '70s
@@ -1182,6 +1175,9 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 
 
+
+
+**********************************************************
 
 
 
@@ -1310,7 +1306,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Nba
 https://smart.pendy.dpdns.org/Smart.php?id=Acricket
 #EXTINF:-1,tvg-id="體育頻道|Astro Golf" tvg-name="體育頻道|Astro Golf" tvg-logo="https://epg.112114.xyz/logo/體育頻道|ASTROGOLF.png" group-title="SMART TV",體育頻道|Astro Golf
 https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1,tvg-id="體育頻道|Tnt Sports 1" tvg-name="體育頻道|Tnt Sports 1" tvg-logo="https://epg.112114.xyz/logo/體育頻道|TNTSPORTS1.png" group-title="SMART TV",體育頻道|Tnt Sports 1
+#EXTINF:-1,tvg-id="體育頻道|Tnt Sports 1" tvg-name="體育頻道|Tnt Sports 1" tvg-logo="https://epg.112114.xyz/logo/體育頻道|TNTSPORTS1.png" group-title="SMART TV",體育頻道|TNT Sports 1
 https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
 #EXTINF:-1,tvg-id="體育頻道|TNT Sports 2" tvg-name="體育頻道|TNT Sports 2" tvg-logo="https://epg.112114.xyz/logo/體育頻道|TNTSPORTS2.png" group-title="SMART TV",體育頻道|TNT Sports 2
 https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
