@@ -109,6 +109,7 @@ http://vthanh.utako.moe/pigoo/index.m3u8
 
 
 
+
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 
@@ -774,7 +775,7 @@ http://kenneth001.serv00.net/litv_m3u8.php?id=litv-longturn20
 
 
 
-################################################
+######### http://aktv.space/live.m3u ################
 
 
 
@@ -2491,7 +2492,116 @@ http://robyang.serv00.net/ublive.php?id=3196
 ################################################
 
 
-
+#EXTINF:-1 group-title="香港MYTV",凤凰中文
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 group-title="香港MYTV",凤凰资讯
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 group-title="香港MYTV",凤凰香港
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 group-title="香港MYTV",TVBPlus
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPlus
+#EXTINF:-1 group-title="香港MYTV",HOY78
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY78
+#EXTINF:-1 group-title="香港MYTV",无线新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
+#EXTINF:-1 group-title="香港MYTV",Now新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
+#EXTINF:-1 group-title="香港MYTV",翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
+#EXTINF:-1 group-title="香港MYTV",明珠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
+#EXTINF:-1 group-title="香港MYTV",娱乐新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
+#EXTINF:-1 group-title="香港MYTV",TVB生活台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
+#EXTINF:-1 group-title="香港MYTV",星河国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(国)
+#EXTINF:-1 group-title="香港MYTV",星河粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(粤)
+#EXTINF:-1 group-title="香港MYTV",功夫台国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(国)
+#EXTINF:-1 group-title="香港MYTV",功夫台粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
+#EXTINF:-1 group-title="香港MYTV",明珠剧集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+#EXTINF:-1 group-title="香港MYTV",TVB1
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB1
+#EXTINF:-1 group-title="香港MYTV",无线千禧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
+#EXTINF:-1 group-title="香港MYTV",无线经典台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=MyTV千禧经典台
+#EXTINF:-1 group-title="香港MYTV",TVBS
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBSuperFree
+#EXTINF:-1 group-title="香港MYTV",无线亚洲综合台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲综合娱乐台
+#EXTINF:-1 group-title="香港MYTV",无线亚洲剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲剧台
+#EXTINF:-1 group-title="香港MYTV",无线华语剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=华语剧台
+#EXTINF:-1 group-title="香港MYTV",无线戏曲台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=戏曲台
+#EXTINF:-1 group-title="香港MYTV",无线粤语片台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=粤语片台
+#EXTINF:-1 group-title="香港MYTV",无线少儿
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HandsUP
+#EXTINF:-1 group-title="香港MYTV",HOY77
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY77
+#EXTINF:-1 group-title="香港MYTV",HOY76
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY76
+#EXTINF:-1 group-title="香港MYTV",有线赛马
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HKC18台
+#EXTINF:-1 group-title="香港MYTV",28aI赛马
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=28AI智慧赛马
+#EXTINF:-1 group-title="香港MYTV",黄金翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黄金翡翠台
+#EXTINF:-1 group-title="香港MYTV",黄金华剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黃金華劇台
+#EXTINF:-1 group-title="香港MYTV",POPC
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=POPC
+#EXTINF:-1 group-title="香港MYTV",Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
+#EXTINF:-1 group-title="香港MYTV",Now星影台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
+#EXTINF:-1 group-title="香港MYTV",Now华剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
+#EXTINF:-1 group-title="香港MYTV",Now剧集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
+#EXTINF:-1 group-title="香港MYTV",Now紫金台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=NowJelli紫金国际
+#EXTINF:-1 group-title="香港MYTV",Now直播台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now直播台
+#EXTINF:-1 group-title="香港MYTV",Now财经台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now财经台
+#EXTINF:-1 group-title="香港MYTV",VIUTV-粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
+#EXTINF:-1 group-title="香港MYTV",VIUTV-英
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
+#EXTINF:-1 group-title="香港MYTV",RTHK-31
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK31
+#EXTINF:-1 group-title="香港MYTV",RTHK-32
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK32
+#EXTINF:-1 group-title="香港MYTV",HUB娱家
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=娱家台
+#EXTINF:-1 group-title="香港MYTV",HUB都会
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=都会台
+#EXTINF:-1 group-title="香港MYTV",Ftv1时代
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代1
+#EXTINF:-1 group-title="香港MYTV",Ftv2时代
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代2
+#EXTINF:-1 group-title="香港MYTV",城市电视
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=城市电视
+#EXTINF:-1 group-title="香港MYTV",天映经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
+#EXTINF:-1 group-title="香港MYTV",天映经典国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)
+#EXTINF:-1 group-title="香港MYTV",天映经典粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)
+#EXTINF:-1 group-title="香港MYTV",美亚电影国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)
+#EXTINF:-1 group-title="香港MYTV",美亚电影粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(粤)
+#EXTINF:-1 group-title="香港MYTV",中国电影
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
 
 
 
@@ -8716,228 +8826,7 @@ http://99.iptv543.com/smt.php?id=Astrobein3
 
 
 
-################################################
-
-
-
-
-#EXTINF:-1 group-title="中國央視",CCTV1
-https://115.190.105.236/mgtv/608807420.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV2
-https://115.190.105.236/mgtv/631780532.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV3
-https://115.190.105.236/mgtv/624878271.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV4
-https://115.190.105.236/mgtv/631780421.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV5
-https://115.190.105.236/mgtv/641886683.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV5+
-https://115.190.105.236/mgtv/641886773.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV6
-https://115.190.105.236/mgtv/624878396.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV7
-https://115.190.105.236/mgtv/673168121.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV8
-https://115.190.105.236/mgtv/624878356.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV9
-https://115.190.105.236/mgtv/673168140.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV10
-https://115.190.105.236/mgtv/624878405.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV11
-https://115.190.105.236/mgtv/667987558.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV12
-https://115.190.105.236/mgtv/673168185.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV13
-https://115.190.105.236/mgtv/608807423.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV14
-https://115.190.105.236/mgtv/624878440.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV15
-https://115.190.105.236/mgtv/673168223.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV16
-https://115.190.105.236/nptv/cctv16.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV17
-https://115.190.105.236/mgtv/673168256.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV4歐洲
-https://115.190.105.236/mgtv/608807419.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV4美洲
-https://115.190.105.236/mgtv/608807416.m3u8
-#EXTINF:-1 group-title="中國央視",第一劇場
-https://115.190.105.236/nptv/dyjc.m3u8
-#EXTINF:-1 group-title="中國央視",風雲劇場
-https://115.190.105.236/nptv/fyjc.m3u8
-#EXTINF:-1 group-title="中國央視",懷舊劇場
-https://115.190.105.236/nptv/hjjc.m3u8
-#EXTINF:-1 group-title="中國央視",老故事
-https://115.190.105.236/mgtv/884121956.m3u8
-#EXTINF:-1 group-title="中國央視",發現之旅
-https://115.190.105.236/mgtv/624878970.m3u8
-#EXTINF:-1 group-title="中國央視",中學生
-https://115.190.105.236/mgtv/708869532.m3u8
-#EXTINF:-1 group-title="中國央視",CGTN
-https://115.190.105.236/nptv/cgtn.m3u8
-#EXTINF:-1 group-title="中國央視",CGTN紀錄
-https://115.190.105.236/nptv/cgtndoc.m3u8
-#EXTINF:-1 group-title="中國央視",CGTN俄語
-https://115.190.105.236/nptv/cgtnru.m3u8
-#EXTINF:-1 group-title="中國央視",CGTN法語
-https://115.190.105.236/nptv/cgtnfr.m3u8
-#EXTINF:-1 group-title="中國央視",CGTN西語
-https://115.190.105.236/nptv/cgtnsp.m3u8
-#EXTINF:-1 group-title="中國央視",CGTN阿語
-https://115.190.105.236/nptv/cgtnar.m3u8
-
-
-#EXTINF:-1 group-title="中國衛視",北京紀實科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 group-title="中國衛視",咪咕體育4K
-https://115.190.105.236/itv/3000000010000005180.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="中國衛視",至臻視界4K
-https://115.190.105.236/itv/3000000010000015686.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="中國衛視",CCTV4K
-https://115.190.105.236/nptv/cctv4k.m3u8
-#EXTINF:-1 group-title="中國衛視",CCTV8K
-https://115.190.105.236/nptv/cctv8k.m3u8
-#EXTINF:-1 group-title="中國衛視",東方衛視
-https://115.190.105.236/mgtv/651632648.m3u8
-#EXTINF:-1 group-title="中國衛視",江蘇衛視
-https://115.190.105.236/mgtv/623899368.m3u8
-#EXTINF:-1 group-title="中國衛視",廣東衛視
-https://115.190.105.236/mgtv/608831231.m3u8
-#EXTINF:-1 group-title="中國衛視",江西衛視
-https://115.190.105.236/mgtv/783847495.m3u8
-#EXTINF:-1 group-title="中國衛視",河南衛視
-https://115.190.105.236/mgtv/790187291.m3u8
-#EXTINF:-1 group-title="中國衛視",陝西衛視
-https://115.190.105.236/mgtv/738910838.m3u8
-#EXTINF:-1 group-title="中國衛視",大灣區衛視
-https://115.190.105.236/mgtv/608917627.m3u8
-#EXTINF:-1 group-title="中國衛視",湖北衛視
-https://115.190.105.236/mgtv/947472496.m3u8
-#EXTINF:-1 group-title="中國衛視",吉林衛視
-https://115.190.105.236/mgtv/947472500.m3u8
-#EXTINF:-1 group-title="中國衛視",青海衛視
-https://115.190.105.236/mgtv/947472506.m3u8
-#EXTINF:-1 group-title="中國衛視",東南衛視
-https://115.190.105.236/mgtv/849116810.m3u8
-#EXTINF:-1 group-title="中國衛視",海南衛視
-https://115.190.105.236/mgtv/947472502.m3u8
-#EXTINF:-1 group-title="中國衛視",海峽衛視
-https://115.190.105.236/mgtv/849119120.m3u8
-#EXTINF:-1 group-title="中國衛視",北京衛視
-https://115.190.105.236/nptv/beijing.m3u8
-#EXTINF:-1 group-title="中國衛視",北京衛視
-https://115.190.105.236/nptv/beijing.m3u8
-#EXTINF:-1 group-title="中國衛視",湖南衛視
-https://115.190.105.236/nptv/hunan.m3u8
-#EXTINF:-1 group-title="中國衛視",江蘇衛視
-https://115.190.105.236/nptv/jiangsu.m3u8
-#EXTINF:-1 group-title="中國衛視",東方衛視
-https://115.190.105.236/nptv/dongfang.m3u8
-#EXTINF:-1 group-title="中國衛視",浙江衛視
-https://115.190.105.236/nptv/zhejiang.m3u8
-#EXTINF:-1 group-title="中國衛視",湖北衛視
-https://115.190.105.236/nptv/hubei.m3u8
-#EXTINF:-1 group-title="中國衛視",天津衛視
-https://115.190.105.236/nptv/tianjing.m3u8
-#EXTINF:-1 group-title="中國衛視",山東衛視
-https://115.190.105.236/nptv/shandong.m3u8
-#EXTINF:-1 group-title="中國衛視",遼寧衛視
-https://115.190.105.236/nptv/liaoning.m3u8
-#EXTINF:-1 group-title="中國衛視",安徽衛視
-https://115.190.105.236/nptv/anhui.m3u8
-#EXTINF:-1 group-title="中國衛視",黑龍江衛視
-https://115.190.105.236/nptv/heilongjiang.m3u8
-#EXTINF:-1 group-title="中國衛視",貴州衛視
-https://115.190.105.236/nptv/guizhou.m3u8
-#EXTINF:-1 group-title="中國衛視",東南衛視
-https://115.190.105.236/nptv/dongnan.m3u8
-#EXTINF:-1 group-title="中國衛視",重慶衛視
-https://115.190.105.236/nptv/chongqing.m3u8
-#EXTINF:-1 group-title="中國衛視",江西衛視
-https://115.190.105.236/nptv/jiangxi.m3u8
-#EXTINF:-1 group-title="中國衛視",廣東衛視
-https://115.190.105.236/nptv/guangdong.m3u8
-#EXTINF:-1 group-title="中國衛視",河北衛視
-https://115.190.105.236/nptv/hebei.m3u8
-#EXTINF:-1 group-title="中國衛視",深圳衛視
-https://115.190.105.236/nptv/shenzheng.m3u8
-#EXTINF:-1 group-title="中國衛視",吉林衛視
-https://115.190.105.236/nptv/jiling.m3u8
-#EXTINF:-1 group-title="中國衛視",河南衛視
-https://115.190.105.236/nptv/henan.m3u8
-#EXTINF:-1 group-title="中國衛視",四川衛視
-https://115.190.105.236/nptv/sichuan.m3u8
-#EXTINF:-1 group-title="中國衛視",河北衛視
-https://115.190.105.236/nptv/hebei.m3u8
-#EXTINF:-1 group-title="中國衛視",廣西衛視
-https://115.190.105.236/nptv/guangxi.m3u8
-#EXTINF:-1 group-title="中國衛視",陝西衛視
-https://115.190.105.236/nptv/shanxiws.m3u8
-#EXTINF:-1 group-title="中國衛視",山西衛視
-https://115.190.105.236/nptv/shanxi.m3u8
-#EXTINF:-1 group-title="中國衛視",內蒙古衛視
-https://115.190.105.236/nptv/neimenggu.m3u8
-#EXTINF:-1 group-title="中國衛視",青海衛視
-https://115.190.105.236/nptv/qinghai.m3u8
-#EXTINF:-1 group-title="中國衛視",海南衛視
-https://115.190.105.236/nptv/hainan.m3u8
-#EXTINF:-1 group-title="中國衛視",寧夏衛視
-https://115.190.105.236/nptv/ningxia.m3u8
-#EXTINF:-1 group-title="中國衛視",西藏衛視
-https://115.190.105.236/nptv/xizang.m3u8
-#EXTINF:-1 group-title="中國衛視",新疆衛視
-https://115.190.105.236/nptv/xinjiang.m3u8
-#EXTINF:-1 group-title="中國衛視",甘肅衛視
-https://115.190.105.236/nptv/gansu.m3u8
-#EXTINF:-1 group-title="中國衛視",雲南衛視
-https://115.190.105.236/nptv/yunnan.m3u
-
-
-#EXTINF:-1 group-title="中國數字",CHC影迷電影
-https://115.190.105.236/mgtv/952383261.m3u8
-#EXTINF:-1 group-title="中國數字",CHC動作電影
-https://115.190.105.236/mgtv/644368714.m3u8
-#EXTINF:-1 group-title="中國數字",CHC家庭影院
-https://115.190.105.236/mgtv/644368373.m3u8
-#EXTINF:-1 group-title="中國數字",嘉佳卡通
-https://115.190.105.236/mgtv/614952364.m3u8
-#EXTINF:-1 group-title="中國數字",CETV1
-https://115.190.105.236/mgtv/923287154.m3u8
-#EXTINF:-1 group-title="中國數字",CETV2
-https://115.190.105.236/mgtv/923287211.m3u8
-#EXTINF:-1 group-title="中國數字",CETV4
-https://115.190.105.236/mgtv/923287339.m3u8
-#EXTINF:-1 group-title="中國數字",CETV1
-https://115.190.105.236/nptv/cetv1.m3u8
-#EXTINF:-1 group-title="中國數字",重溫經典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1 group-title="中國數字",優漫卡通
-https://115.190.105.236/mgtv/626064703.m3u8
-#EXTINF:-1 group-title="中國數字",上海新聞綜合
-https://115.190.105.236/mgtv/651632657.m3u8
-#EXTINF:-1 group-title="中國數字",上視東方影視
-https://115.190.105.236/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="中國數字",上海第一財經
-https://115.190.105.236/mgtv/608780988.m3u8
-#EXTINF:-1 group-title="中國數字",南京新聞綜合
-https://115.190.105.236/mgtv/838109047.m3u8
-#EXTINF:-1 group-title="中國數字",南京教科
-https://115.190.105.236/mgtv/838153729.m3u8
-#EXTINF:-1 group-title="中國數字",南京十八
-https://115.190.105.236/mgtv/838151753.m3u8
-#EXTINF:-1 group-title="中國數字",江蘇體育休閒
-https://115.190.105.236/mgtv/626064707.m3u8
-#EXTINF:-1 group-title="中國數字",江蘇城市
-https://115.190.105.236/mgtv/626064714.m3u8
-#EXTINF:-1 group-title="中國數字",江蘇國際
-https://115.190.105.236/mgtv/626064674.m3u8
-#EXTINF:-1 group-title="中國數字",江蘇教育
-https://115.190.105.236/mgtv/628008321.m3u8
-#EXTINF:-1 group-title="中國數字",江蘇影視
-https://115.190.105.236/mgtv/626064697.m3u8
-#EXTINF:-1 group-title="中國數字",江蘇綜藝
-https://115.190.105.236/mgtv/626065193.m3u8
-
+#########################################
 
 
 
@@ -11446,11 +11335,16 @@ https://hls-gateway.vpstv.net/streams/644725.m3u8
 #EXTINF:-1 group-title="私密頻道" tvg-name="brazzers" tvg-logo="https://epg.112114.xyz/logo/brazzers.png" epg-url="https://epg.112114.xyz/pp.xml",brazzers
 https://hls-gateway.vpstv.net/streams/644730.m3u8
 
-
-
-
-
-
+#EXTINF:-1 group-title="私密頻道",Penthouse Quickies
+http://test.esprogregtt.top:8080/es7321742167585245/89d2284cb670/32239
+#EXTINF:-1 group-title="私密頻道",Penthouse Gold
+http://test.esprogregtt.top:8080/es7321742167585245/89d2284cb670/32240
+#EXTINF:-1 group-title="私密頻道",Super One HD
+http://test.esprogregtt.top:8080/es7321742167585245/89d2284cb670/32241
+#EXTINF:-1 group-title="私密頻道",XY Plus
+http://test.esprogregtt.top:8080/es7321742167585245/89d2284cb670/32242
+#EXTINF:-1 group-title="私密頻道",Alba XXX 5
+http://test.esprogregtt.top:8080/es7321742167585245/89d2284cb670/32243
 
 
 
