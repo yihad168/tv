@@ -2296,6 +2296,42 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 ################################################
 
 
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="18台" tvg-name="18台" tvg-logo="https://epg.v1.mk/logo/18台.png" group-title="港澳台",18台
+http://bx.757888.xyz/api.php?id=18
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB Plus
+http://bx.757888.xyz/api.php?id=tvbp
+#EXTINF:-1,tvg-id="天映经典频道" tvg-name="天映经典频道" tvg-logo="https://epg.v1.mk/logo/天映经典频道.png" group-title="港澳台",天映經典頻道
+http://bx.757888.xyz/api.php?id=tyjd
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="港澳台",明珠台
+http://bx.757888.xyz/api.php?id=mz
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港澳台",無線新聞台
+http://bx.757888.xyz/api.php?id=wxxw
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="港澳台",美亞電影台
+http://bx.757888.xyz/api.php?id=meiya
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://bx.757888.xyz/api.php?id=fct
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="港澳台",鳳凰中文
+http://bx.757888.xyz/api.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="港澳台",鳳凰資訊
+http://bx.757888.xyz/api.php?id=fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="港澳台",鳳凰香港
+http://bx.757888.xyz/api.php?id=fhhk
+#EXTINF:-1,tvg-id="中国电影频道" tvg-name="中国电影频道" tvg-logo="https://epg.v1.mk/logo/中国电影频道.png" group-title="港澳台",中國電影頻道
+http://bx.757888.xyz/api.php?id=zgdy
+#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.v1.mk/logo/中天新聞台.png" group-title="港澳台",中天新聞台
+http://bx.757888.xyz/api.php?id=ztxw
+#EXTINF:-1,tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://epg.v1.mk/logo/東森電影.png" group-title="港澳台",東森電影
+http://bx.757888.xyz/api.php?id=dsdy
+#EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://epg.v1.mk/logo/龍華電影.png" group-title="港澳台",龍華電影
+http://bx.757888.xyz/api.php?id=lhdy
+
+
+################################################
+
+
+
+
 
 #EXTINF:-1 group-title="韓國 KOREA",KBS KOREA
 http://robyang.serv00.net/ublive.php?id=1040
@@ -9357,7 +9393,7 @@ https://hls-gateway.vpstv.net/streams/476270.m3u8
 https://hls-gateway.vpstv.net/streams/488994.m3u8
 #EXTINF:-1 group-title="台灣" tvg-name="歷史頻道" tvg-logo="https://epg.112114.xyz/logo/歷史頻道.png" epg-url="https://epg.112114.xyz/pp.xml",歷史頻道
 https://hls-gateway.vpstv.net/streams/525779.m3u8
-#EXTINF:-1 group-title="台灣" tvg-name="EYE戲劇台" tvg-logo="https://epg.112114.xyz/logo/EYE戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",EYE戲劇台
+#EXTINF:-1 group-title="台灣" tvg-name="EYE戲劇台" tvg-logo="https://epg.112114.xyz/logo/EYE戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",EYETV戲劇台
 https://hls-gateway.vpstv.net/streams/476287.m3u8
 #EXTINF:-1 group-title="台灣" tvg-name="八大娛樂台 HD" tvg-logo="https://epg.112114.xyz/logo/八大娛樂台 HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大娛樂台 HD
 https://hls-gateway.vpstv.net/streams/477064.m3u8
