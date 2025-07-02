@@ -110,6 +110,7 @@ http://vthanh.utako.moe/pigoo/index.m3u8
 
 
 
+
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 
@@ -2002,15 +2003,12 @@ http://robyang.serv00.net/ublive.php?id=2732
 #EXTINF:-1 group-title="港澳馬新",ELTA體育1
 http://robyang.serv00.net/ublive.php?id=2729
 
-
-
 #EXTINF:-1 group-title="港澳馬新",Eleven Sport 1
 http://robyang.serv00.net/ublive.php?id=3224
 #EXTINF:-1 group-title="港澳馬新",Eleven Sport 2
 http://robyang.serv00.net/ublive.php?id=301
 #EXTINF:-1 group-title="港澳馬新",Z頻道
 http://robyang.serv00.net/ublive.php?id=1130
-
 
 #EXTINF:-1 group-title="港澳馬新",博斯無限
 http://robyang.serv00.net/ublive.php?id=381
@@ -2032,15 +2030,10 @@ http://robyang.serv00.net/ublive.php?id=377
 http://robyang.serv00.net/ublive.php?id=378
 #EXTINF:-1 group-title="港澳馬新",博斯魅力
 http://robyang.serv00.net/ublive.php?id=175
-
 #EXTINF:-1 group-title="港澳馬新",歐洲體育
 http://robyang.serv00.net/ublive.php?id=1342
-
 #EXTINF:-1 group-title="港澳馬新",亞洲旅遊
 http://robyang.serv00.net/ublive.php?id=2299
-
-
-
 #EXTINF:-1 group-title="港澳馬新",探索頻道
 http://robyang.serv00.net/ublive.php?id=2817
 #EXTINF:-1 group-title="港澳馬新",探索頻道
@@ -2130,21 +2123,19 @@ http://php.jdshipin.com/smt.php?id=jade_twn
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
 
 
-
-🍅☘️廣東[TVB]頻道【PLTV】
-
-#EXTINF:-1 group-title="港澳馬新",廣東體育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
-http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
-http://php.jdshipin.com/PLTV/iptv.php?id=fct4
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
-http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
-http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻標
-http://php.jdshipin.com/PLTV/iptv.php?id=fct
+特區酒店源,#genre#
+#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=gdzj
+#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=gdty
+#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
+#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=j1
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 #EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
@@ -2155,6 +2146,16 @@ http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
 #EXTINF:-1 group-title="港澳馬新",有線綜合國高
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
+http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻標
+http://php.jdshipin.com/PLTV/iptv.php?id=fct
 #EXTINF:-1 group-title="港澳馬新",無線華麗國標
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
 #EXTINF:-1 group-title="港澳馬新",無線明珠粵高
@@ -2165,10 +2166,6 @@ http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="港澳馬新",無線星河頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
-http://php.jdshipin.com/PLTV/iptv.php?id=j1
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻標
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 #EXTINF:-1 group-title="港澳馬新",無線星河頻標
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港澳馬新",無線千禧頻標
@@ -2186,14 +2183,16 @@ http://php.jdshipin.com/PLTV/iptv.php?id=aod
 #EXTINF:-1 group-title="港澳馬新",澳門Mac頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=as
 #EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
-http://php.jdshipin.com/PLTV/iptv.php?id=asam
+,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 #EXTINF:-1 group-title="港澳馬新",重溫經典頻高
 http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 
 
 
+
 #EXTINF:-1 group-title="港澳馬新",小公视
 https://livecdn9.ptsplus.tv/pts-youth-A/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="港澳馬新",翡翠台
@@ -2291,6 +2290,71 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="港澳馬新",香港35台
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+http://cdn.132.us.kg/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+http://cdn3.132.us.kg/live/j1/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
+http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",鳳凰香港頻高
+http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",有線綜合頻高
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+http://cdn3.132.us.kg/live/fct/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
+http://cdn.132.us.kg/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",無線明珠頻標
+http://cdn5.132.us.kg/live/mzt/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",RTHK-31頻高
+http://cdn5.132.us.kg/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",RTHK-32頻高
+http://cdn5.132.us.kg/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
+http://cdn.132.us.kg/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",澳視衛星頻高
+http://cdn.132.us.kg/live/as/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",重溫經典頻高
+http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華電影頻高
+https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華經典頻高
+https://cdn3.132.us.kg/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華卡通頻標
+https://cdn3.132.us.kg/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華偶像頻高
+https://cdn3.132.us.kg/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華日韓頻高
+https://cdn3.132.us.kg/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",龍華戲劇頻高
+https://cdn3.132.us.kg/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",央視綜合頻高
+https://cdn5.132.us.kg/live/cctv1/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",八度空間頻高
+https://cdn6.132.us.kg/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",新加CHU頻高
+https://cdn6.132.us.kg/live/chu/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",新加CH5頻高
+https://cdn6.132.us.kg/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="港澳馬新",新加CH8頻高
+https://cdn6.132.us.kg/live/ch8/stream.m3u8
+
+
+
+
+
 
 
 ################################################
