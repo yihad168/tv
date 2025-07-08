@@ -893,6 +893,70 @@ http://xott.live:8080/01year.sarfaraz.cctv/954426736/381416
 
 
 
+
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 1 ENGLISH HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 1 ENGLISH HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 1 ENGLISH HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575963
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 1 FRANCE HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 1 FRANCE HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 1 FRANCE HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575961
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 1 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 1 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 1 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575975
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 1 XTRA HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 1 XTRA HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 1 XTRA HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575966
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 2 ENGLISH HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 2 ENGLISH HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 2 ENGLISH HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575962
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 2 FRANCE HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 2 FRANCE HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 2 FRANCE HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575960
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 2 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 2 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 2 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575974
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 2 XTRA HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 2 XTRA HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 2 XTRA HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575965
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 3 FRANCE HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 3 FRANCE HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 3 FRANCE HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575959
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 3 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 3 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 3 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575973
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 3 XTRA HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 3 XTRA HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 3 XTRA HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575964
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 4 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 4 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 4 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575972
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 5 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 5 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 5 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575971
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 6 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 6 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 6 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575970
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 7 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 7 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 7 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575969
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 8 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 8 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 8 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575968
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 9 HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 9 HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 9 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575967
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS GLOBAL HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS GLOBAL HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS GLOBAL HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575978
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS NBA HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS NBA HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS NBA HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575977
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS NEWS HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS NEWS HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS NEWS HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575979
+
+
+
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 1 HD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 1 HD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 1 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/4899
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 2 HD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 2 HD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 2 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/4898
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 3 HD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 3 HD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 3 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/4897
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 4 HD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 4 HD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 4 HD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/4900
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 6 SD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 6 SD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 6 SD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/442296
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 7 SD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 7 SD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 7 SD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/442295
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 8 SD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 8 SD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 8 SD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/442294
+#EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 9 SD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 9 SD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 9 SD
+http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/442293
+
+
+
 ################################################
 
 
