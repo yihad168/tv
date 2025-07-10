@@ -478,9 +478,62 @@ http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3
 
 
 
+#EXTINF:-1 group-title="測試频道",鳯凰衛視資訊
+http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="測試频道",鳯凰衛視中文
+http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+
+
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", EuroNews
 https://vod.splay.uz/live_splay/original/Euronews/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", Astro AOD
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", TVB星河頻道
+http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 千禧經典台
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 千禧經典台
+http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 無綫新聞台
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 華麗翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 鳳凰衞視資訊台
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台北美版(TVB J1)
+http://cdn3.163189.xyz/live/j1/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", TVB Plus
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 鳳凰衞視中文台
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", HOY TV
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 澳視澳門
+http://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 澳視衛星
+http://cdn.163189.xyz/live/as/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 八度空間
+https://cdn6.163189.xyz/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", CH5
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", CH8
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", CHU
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+
+
+
+
 
 
 
@@ -1408,6 +1461,196 @@ http://kenneth001.serv00.net/litv_m3u8.php?id=litv-longturn20
 
 
 
+
+#EXTINF:-1 group-title="立視二線萬家", 中視
+http://wanjiatv.net/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="立視二線萬家", 華視
+http://wanjiatv.net/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="立視二線萬家", 台視
+http://wanjiatv.net/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="立視二線萬家", 民視
+http://wanjiatv.net/litv.php?id=4gtv-4gtv002
+#EXTINF:-1 group-title="立視二線萬家", 中視新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="立視二線萬家", 中視經典
+http://wanjiatv.net/litv.php?id=4gtv-4gtv080
+#EXTINF:-1 group-title="立視二線萬家", 中視菁采
+http://wanjiatv.net/litv.php?id=4gtv-4gtv064
+
+#EXTINF:-1 group-title="立視二線萬家", 民視第一
+http://wanjiatv.net/litv.php?id=4gtv-4gtv003
+#EXTINF:-1 group-title="立視二線萬家", 民視新聞
+http://wanjiatv.net/litv.php?id=litv-ftv13
+#EXTINF:-1 group-title="立視二線萬家", 民視台灣
+http://wanjiatv.net/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 group-title="立視二線萬家", 公視戲劇
+http://wanjiatv.net/litv.php?id=4gtv-4gtv042
+#EXTINF:-1 group-title="立視二線萬家", 客家電視
+http://wanjiatv.net/litv.php?id=4gtv-4gtv043
+
+#EXTINF:-1 group-title="立視二線萬家", 台視新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="立視二線萬家", 台視財經
+http://wanjiatv.net/litv.php?id=4gtv-4gtv056
+#EXTINF:-1 group-title="立視二線萬家", 台灣戲劇
+http://wanjiatv.net/litv.php?id=litv-longturn22
+#EXTINF:-1 group-title="立視二線萬家", 華視新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="立視二線萬家", 豬哥亮歌廳秀
+http://wanjiatv.net/litv.php?id=4gtv-4gtv006
+#EXTINF:-1 group-title="立視二線萬家", i-Fun動漫
+http://wanjiatv.net/litv.php?id=litv-ftv15
+#EXTINF:-1 group-title="立視二線萬家", 八大精彩台
+http://wanjiatv.net/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 group-title="立視二線萬家", 八大綜藝台
+http://wanjiatv.net/litv.php?id=4gtv-4gtv039
+#EXTINF:-1 group-title="立視二線萬家", ELTA娛樂台
+http://wanjiatv.net/litv.php?id=4gtv-4gtv070
+#EXTINF:-1 group-title="立視二線萬家", ELTA生活英語
+http://wanjiatv.net/litv.php?id=litv-longturn20
+#EXTINF:-1 group-title="立視二線萬家", 亞洲旅遊
+http://wanjiatv.net/litv.php?id=4gtv-4gtv076
+#EXTINF:-1 group-title="立視二線萬家", 民視影劇
+http://wanjiatv.net/litv.php?id=litv-ftv09
+#EXTINF:-1 group-title="立視二線萬家", 民視綜藝
+http://wanjiatv.net/litv.php?id=4gtv-4gtv004
+#EXTINF:-1 group-title="立視二線萬家", 民視旅遊
+http://wanjiatv.net/litv.php?id=litv-ftv07
+#EXTINF:-1 group-title="立視二線萬家", TVBS歡樂台
+http://wanjiatv.net/litv.php?id=4gtv-4gtv068
+#EXTINF:-1 group-title="立視二線萬家", TVBS精采台
+http://wanjiatv.net/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 group-title="立視二線萬家", 好消息
+http://wanjiatv.net/litv.php?id=litv-ftv16
+#EXTINF:-1 group-title="立視二線萬家", 好消息2
+http://wanjiatv.net/litv.php?id=litv-ftv17
+#EXTINF:-1 group-title="立視二線萬家", 鏡新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv075
+#EXTINF:-1 group-title="立視二線萬家", 寰宇新聞
+http://wanjiatv.net/litv.php?id=litv-longturn14
+#EXTINF:-1 group-title="立視二線萬家", 東森新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="立視二線萬家", 中天新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="立視二線萬家", 民視新聞
+http://wanjiatv.net/litv.php?id=litv-ftv13
+#EXTINF:-1 group-title="立視二線萬家", TVBS新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv072
+#EXTINF:-1 group-title="立視二線萬家", TVBS
+http://wanjiatv.net/litv.php?id=4gtv-4gtv073
+#EXTINF:-1 group-title="立視二線萬家", 東森財經
+http://wanjiatv.net/litv.php?id=4gtv-4gtv153
+#EXTINF:-1 group-title="立視二線萬家", 非凡新聞
+http://wanjiatv.net/litv.php?id=4gtv-4gtv010
+#EXTINF:-1 group-title="立視二線萬家", 寰宇財經
+http://wanjiatv.net/litv.php?id=litv-longturn23
+#EXTINF:-1 group-title="立視二線萬家", AMC最愛電影
+http://wanjiatv.net/litv.php?id=4gtv-4gtv017
+#EXTINF:-1 group-title="立視二線萬家", 博斯無限
+http://wanjiatv.net/litv.php?id=litv-longturn10
+#EXTINF:-1 group-title="立視二線萬家", 博斯無限2
+http://wanjiatv.net/litv.php?id=litv-longturn13
+#EXTINF:-1 group-title="立視二線萬家", 博斯網球
+http://wanjiatv.net/litv.php?id=litv-longturn09
+#EXTINF:-1 group-title="立視二線萬家", 博斯運動
+http://wanjiatv.net/litv.php?id=litv-longturn07
+#EXTINF:-1 group-title="立視二線萬家", 博斯運動2
+http://wanjiatv.net/litv.php?id=litv-longturn08
+#EXTINF:-1 group-title="立視二線萬家", 博斯高球
+http://wanjiatv.net/litv.php?id=litv-longturn05
+#EXTINF:-1 group-title="立視二線萬家", 博斯高球2
+http://wanjiatv.net/litv.php?id=litv-longturn06
+#EXTINF:-1 group-title="立視二線萬家", 博斯魅力
+http://wanjiatv.net/litv.php?id=litv-longturn04
+#EXTINF:-1 group-title="立視二線萬家", 時尚運動X
+http://wanjiatv.net/litv.php?id=4gtv-4gtv014
+#EXTINF:-1 group-title="立視二線萬家", 智林體育
+http://wanjiatv.net/litv.php?id=4gtv-4gtv101
+
+#EXTINF:-1 group-title="立視二線萬家", 中天亞洲
+http://wanjiatv.net/litv.php?id=4gtv-4gtv109
+#EXTINF:-1 group-title="立視二線萬家", 靖天卡通
+http://wanjiatv.net/litv.php?id=4gtv-4gtv044
+#EXTINF:-1 group-title="立視二線萬家", 靖天國際
+http://wanjiatv.net/litv.php?id=4gtv-4gtv063
+#EXTINF:-1 group-title="立視二線萬家", 靖天戲劇
+http://wanjiatv.net/litv.php?id=4gtv-4gtv058
+#EXTINF:-1 group-title="立視二線萬家", 靖天日本
+http://wanjiatv.net/litv.php?id=4gtv-4gtv047
+#EXTINF:-1 group-title="立視二線萬家", 靖天映畫
+http://wanjiatv.net/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 group-title="立視二線萬家", 靖天歡樂
+http://wanjiatv.net/litv.php?id=4gtv-4gtv054
+#EXTINF:-1 group-title="立視二線萬家", 靖天綜合
+http://wanjiatv.net/litv.php?id=4gtv-4gtv046
+#EXTINF:-1 group-title="立視二線萬家", 靖天育樂
+http://wanjiatv.net/litv.php?id=4gtv-4gtv062
+#EXTINF:-1 group-title="立視二線萬家", 靖天資訊
+http://wanjiatv.net/litv.php?id=4gtv-4gtv065
+#EXTINF:-1 group-title="立視二線萬家", 靖天電影
+http://wanjiatv.net/litv.php?id=4gtv-4gtv061
+#EXTINF:-1 group-title="立視二線萬家", 靖洋卡通
+http://wanjiatv.net/litv.php?id=4gtv-4gtv057
+#EXTINF:-1 group-title="立視二線萬家", 靖洋戲劇
+http://wanjiatv.net/litv.php?id=4gtv-4gtv045
+#EXTINF:-1 group-title="立視二線萬家", 龍華偶像
+http://wanjiatv.net/litv.php?id=litv-longturn12
+#EXTINF:-1 group-title="立視二線萬家", 龍華卡通
+http://wanjiatv.net/litv.php?id=litv-longturn01
+#EXTINF:-1 group-title="立視二線萬家", 龍華戲劇
+http://wanjiatv.net/litv.php?id=litv-longturn18
+#EXTINF:-1 group-title="立視二線萬家", 龍華日韓
+http://wanjiatv.net/litv.php?id=litv-longturn11
+#EXTINF:-1 group-title="立視二線萬家", 龍華經典
+http://wanjiatv.net/litv.php?id=litv-longturn21
+#EXTINF:-1 group-title="立視二線萬家", 龍華電影
+http://wanjiatv.net/litv.php?id=litv-longturn03
+#EXTINF:-1 group-title="立視二線萬家", 寰宇新聞2
+http://wanjiatv.net/litv.php?id=litv-longturn15
+#EXTINF:-1 group-title="立視二線萬家", 非凡商業
+http://wanjiatv.net/litv.php?id=4gtv-4gtv048
+#EXTINF:-1 group-title="立視二線萬家", 第1商業
+http://wanjiatv.net/litv.php?id=4gtv-4gtv104
+#EXTINF:-1 group-title="立視二線萬家", 采昌影劇
+http://wanjiatv.net/litv.php?id=4gtv-4gtv049
+#EXTINF:-1 group-title="立視二線萬家", 影迷數位電影
+http://wanjiatv.net/litv.php?id=4gtv-4gtv011
+#EXTINF:-1 group-title="立視二線萬家", ArirangTV
+http://wanjiatv.net/litv.php?id=4gtv-4gtv079
+#EXTINF:-1 group-title="立視二線萬家", Classica古典樂
+http://wanjiatv.net/litv.php?id=4gtv-4gtv059
+#EXTINF:-1 group-title="立視二線萬家", GINXEsportsTV
+http://wanjiatv.net/litv.php?id=4gtv-4gtv053
+#EXTINF:-1 group-title="立視二線萬家", Globetrotter環遊旅行家
+http://wanjiatv.net/litv.php?id=4gtv-4gtv016
+#EXTINF:-1 group-title="立視二線萬家", MezzoLive
+http://wanjiatv.net/litv.php?id=4gtv-4gtv083
+#EXTINF:-1 group-title="立視二線萬家", Smart知識
+http://wanjiatv.net/litv.php?id=litv-longturn19
+#EXTINF:-1 group-title="立視二線萬家", TraceUrban
+http://wanjiatv.net/litv.php?id=4gtv-4gtv082
+#EXTINF:-1 group-title="立視二線萬家", TraceSports
+http://wanjiatv.net/litv.php?id=4gtv-4gtv077
+#EXTINF:-1 group-title="立視二線萬家", VOA美國之音
+http://wanjiatv.net/litv.php?id=litv-ftv03
+#EXTINF:-1 group-title="立視二線萬家", 半島國際新聞
+http://wanjiatv.net/litv.php?id=litv-ftv10
+#EXTINF:-1 group-title="立視二線萬家", 視納華仁紀實
+http://wanjiatv.net/litv.php?id=4gtv-4gtv013
+#EXTINF:-1 group-title="立視二線萬家", 達文西
+http://wanjiatv.net/litv.php?id=4gtv-4gtv018
+#EXTINF:-1 group-title="立視二線萬家", 國會頻道1
+http://wanjiatv.net/litv.php?id=4gtv-4gtv084
+#EXTINF:-1 group-title="立視二線萬家", 國會頻道2
+http://wanjiatv.net/litv.php?id=4gtv-4gtv085
+
+
+https://github.com/ffmking/tv1/blob/main/888.txt
+
+################################################
+
+
+
 綜合其他,#genre#
 #EXTINF:-1 group-title="四季TV",民視第一台
 http://106.107.177.201:50007/4gtv-4gtv003/index.m3u8
@@ -2021,17 +2264,17 @@ https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="TAIWAN",中天新聞
-http://lzoq.serv00.net/daili/Smartv.php?id=ctinews
+http://000.hfr1107.top/tv/smt.php?id=ctinews
 #EXTINF:-1,tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://epg.112114.xyz/logo/東森新聞台.png" group-title="TAIWAN",東森新聞
-http://lzoq.serv00.net/daili/Smartv.php?id=ettvnews
+http://000.hfr1107.top/tv/smt.php?id=ettvnews
 #EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="TAIWAN",寰宇新聞
-http://lzoq.serv00.net/daili/Smartv.php?id=huanyuxinwen_twn
+http://000.hfr1107.top/tv/smt.php?id=huanyuxinwen_twn
 #EXTINF:-1,tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞台.png" group-title="TAIWAN",TVBS新聞
-http://lzoq.serv00.net/daili/Smartv.php?id=tvbs_n
+http://000.hfr1107.top/tv/smt.php?id=tvbs_n
 #EXTINF:-1,tvg-id="年代新聞台" tvg-name="年代新聞台" tvg-logo="https://epg.112114.xyz/logo/年代新聞台.png" group-title="TAIWAN",年代新聞
-http://lzoq.serv00.net/daili/Smartv.php?id=niandainews_twn
+http://000.hfr1107.top/tv/smt.php?id=niandainews_twn
 #EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="TAIWAN",民視新聞
-http://lzoq.serv00.net/daili/Smartv.php?id=ftvnew_taiwan
+http://000.hfr1107.top/tv/smt.php?id=ftvnew_taiwan
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="TAIWAN",中視新聞
 http://lzoq.serv00.net/daili/Smartv.php?id=zhongshinews_twn
 #EXTINF:-1,tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://epg.112114.xyz/logo/台視新聞台.png" group-title="TAIWAN",台視新聞
@@ -3475,6 +3718,41 @@ http://bx.757888.xyz/api.php?id=lhdy
 
 
 
+#EXTINF:-1 group-title="港澳台",無線功夫(tl)
+http://tl.061833.xyz/tl/null-17
+#EXTINF:-1 group-title="港澳台",無線娛樂(tl)
+http://tl.061833.xyz/tl/null-14
+#EXTINF:-1 group-title="港澳台",無線綜合(tl)
+http://tl.061833.xyz/tl/null-3
+#EXTINF:-1 group-title="港澳台",無線戲曲(tl)
+http://tl.061833.xyz/tl/null-15
+#EXTINF:-1 group-title="港澳台",無線粵片(tl)
+http://tl.061833.xyz/tl/null-10
+#EXTINF:-1 group-title="港澳台",無線華劇(tl)
+http://tl.061833.xyz/tl/null-4
+#EXTINF:-1 group-title="港澳台",無線亞劇(tl)
+http://tl.061833.xyz/tl/null-13
+#EXTINF:-1 group-title="港澳台",黃金翡翠(tl)
+http://tl.061833.xyz/tl/null-2
+#EXTINF:-1 group-title="港澳台",黃金華劇(tl)
+http://tl.061833.xyz/tl/null-9
+#EXTINF:-1 group-title="港澳台",天映經典(tl)
+http://tl.061833.xyz/tl/null-1
+#EXTINF:-1 group-title="港澳台",美亞電影(tl)
+http://tl.061833.xyz/tl/null-5
+#EXTINF:-1 group-title="港澳台",中國電影(tl)
+http://tl.061833.xyz/tl/null-6
+#EXTINF:-1 group-title="港澳台",無線新聞(tl)
+http://tl.061833.xyz/tl/null-11
+#EXTINF:-1 group-title="港澳台",無線明珠(tl)
+http://tl.061833.xyz/tl/null-12
+
+
+
+
+
+
+
 
 
 ################################################
@@ -4017,6 +4295,9 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 
 
 
+
+
+
 #EXTINF:-1 group-title="USA MUSIC",US: California Music Channel
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/346625
 #EXTINF:-1 group-title="USA MUSIC",US: Club MTV
@@ -4100,10 +4381,6 @@ http://xott.live:8080/01year.sarfaraz.cctv/954426736/346664
 #EXTINF:-1 group-title="USA MUSIC",US: VH1
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/346665
 
-
-
-
-
 #EXTINF:-1 group-title="USA MUSIC",UK: Magic TV
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/346354
 #EXTINF:-1 group-title="USA MUSIC",UK: Now 70s
@@ -4111,39 +4388,6 @@ http://xott.live:8080/01year.sarfaraz.cctv/954426736/346356
 #EXTINF:-1 group-title="USA MUSIC",UK: Now 80s
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/346357
 
-
-#EXTINF:-1 group-title="USA MUSIC",USA BET Gospel
-http://user.scalecdn.co:8080/26725074/92867131/42491
-#EXTINF:-1 group-title="USA MUSIC",USA BET Jams
-http://user.scalecdn.co:8080/26725074/92867131/3947
-#EXTINF:-1 group-title="USA MUSIC",USA BET SOUL (SHD)
-http://user.scalecdn.co:8080/26725074/92867131/3948
-#EXTINF:-1 group-title="USA MUSIC",USA CMT UHD
-http://user.scalecdn.co:8080/26725074/92867131/3623
-#EXTINF:-1 group-title="USA MUSIC",USA CMT West
-http://user.scalecdn.co:8080/26725074/92867131/631836
-#EXTINF:-1 group-title="USA MUSIC",USA Latin MTV_TR3S
-http://user.scalecdn.co:8080/26725074/92867131/40623
-#EXTINF:-1 group-title="USA MUSIC",USA MTV 2
-http://user.scalecdn.co:8080/26725074/92867131/57968
-#EXTINF:-1 group-title="USA MUSIC",USA MTV 2 West
-http://user.scalecdn.co:8080/26725074/92867131/89987
-#EXTINF:-1 group-title="USA MUSIC",USA MTV Classic (SHD)
-http://user.scalecdn.co:8080/26725074/92867131/649014
-#EXTINF:-1 group-title="USA MUSIC",USA MTV Classic (UHD)
-http://user.scalecdn.co:8080/26725074/92867131/57969
-#EXTINF:-1 group-title="USA MUSIC",USA MTV Classic West
-http://user.scalecdn.co:8080/26725074/92867131/631838
-#EXTINF:-1 group-title="USA MUSIC",USA MTV East (SHD)
-http://user.scalecdn.co:8080/26725074/92867131/648958
-#EXTINF:-1 group-title="USA MUSIC",USA MTV East UHD
-http://user.scalecdn.co:8080/26725074/92867131/3664
-#EXTINF:-1 group-title="USA MUSIC",USA MTV Live
-http://user.scalecdn.co:8080/26725074/92867131/57970
-#EXTINF:-1 group-title="USA MUSIC",USA MTV U
-http://user.scalecdn.co:8080/26725074/92867131/57971
-#EXTINF:-1 group-title="USA MUSIC",USA MTV West
-http://user.scalecdn.co:8080/26725074/92867131/631837
 
 
 
@@ -4210,7 +4454,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=cctv12
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv13
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="SMART TV",中國|CCTV-14 少兒
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv14
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="SMART TV",中國|CCTV-6
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="SMART TV",中國|CCTV-6 電影
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv6
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="SMART TV",中國|CCTV-15 音樂
 https://haoyunlai.serv00.net/Smartv-1.php?id=cctv15
@@ -8783,7 +9027,7 @@ http://99.iptv543.com/smt.php?id=Nba
 http://99.iptv543.com/smt.php?id=Acricket
 #EXTINF:-1 tvg-name="體育頻道|Astro Golf" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Golf.png" group-title="smt體育頻道",體育頻道|Astro Golf
 http://99.iptv543.com/smt.php?id=Agolf
-#EXTINF:-1 tvg-name="體育頻道|Tnt Sports 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Tnt Sports 1.png" group-title="smt體育頻道",體育頻道|Tnt Sports 1
+#EXTINF:-1 tvg-name="體育頻道|Tnt Sports 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Tnt Sports 1.png" group-title="smt體育頻道",體育頻道|TNT Sports 1
 http://99.iptv543.com/smt.php?id=6fac0aaead
 #EXTINF:-1 tvg-name="體育頻道|TNT Sports 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|TNT Sports 2.png" group-title="smt體育頻道",體育頻道|TNT Sports 2
 http://99.iptv543.com/smt.php?id=d9a76a79cc
@@ -8813,13 +9057,16 @@ http://99.iptv543.com/smt.php?id=tiankongmain
 http://99.iptv543.com/smt.php?id=tiankongnews
 #EXTINF:-1 tvg-name="體育頻道|Skysports Mix" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports Mix.png" group-title="smt體育頻道",體育頻道|Skysports Mix
 http://99.iptv543.com/smt.php?id=tiankongmix
-
 #EXTINF:-1 tvg-name="體育頻道|CCTV5" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|CCTV5.png" group-title="smt體育頻道",體育頻道|CCTV-5+ 體育賽事 HD
 http://99.iptv543.com/smt.php?id=cctv5plus
+#EXTINF:-1 tvg-name="體育頻道|愛爾達體育1台" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|愛爾達體育1台.png" group-title="smt體育頻道",體育頻道|愛爾達體育1台
+http://99.iptv543.com/smt.php?id=eltasport1_twn
 #EXTINF:-1 tvg-name="體育頻道|愛爾達體育2台" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|愛爾達體育2台.png" group-title="smt體育頻道",體育頻道|愛爾達體育2台
 http://99.iptv543.com/smt.php?id=eltasport2_twn
 #EXTINF:-1 tvg-name="體育頻道|愛爾達體育3台" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|愛爾達體育3台.png" group-title="smt體育頻道",體育頻道|愛爾達體育3台
 http://99.iptv543.com/smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="體育頻道|愛爾達體育4台" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|愛爾達體育4台.png" group-title="smt體育頻道",體育頻道|愛爾達體育4台
+http://99.iptv543.com/smt.php?id=natgeowild_twn
 #EXTINF:-1 tvg-name="體育頻道|Rugby Pass TV" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Rugby Pass TV.png" group-title="smt體育頻道",體育頻道|Rugby Pass TV
 http://99.iptv543.com/smt.php?id=Rugbypasstv
 #EXTINF:-1 tvg-name="體育頻道|RTM Sports HD" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|RTM Sports HD.png" group-title="smt體育頻道",體育頻道|RTM Sports HD
@@ -8847,6 +9094,393 @@ http://99.iptv543.com/smt.php?id=Astrobein3
 
 
 
+mytv666香港,#genre#
+#EXTINF:-1 group-title="mytv666香港", 凤凰中文
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 group-title="mytv666香港", 凤凰资讯
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 group-title="mytv666香港", 凤凰香港
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 group-title="mytv666香港", TVB Plus
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPlus
+#EXTINF:-1 group-title="mytv666香港", 无线新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
+#EXTINF:-1 group-title="mytv666香港", 无线翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
+#EXTINF:-1 group-title="mytv666香港", 无线明珠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
+#EXTINF:-1 group-title="mytv666香港", 无线娱乐台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
+#EXTINF:-1 group-title="mytv666香港", 无线生活台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
+#EXTINF:-1 group-title="mytv666香港", 无线星河国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(国)
+#EXTINF:-1 group-title="mytv666香港", 无线星河粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(粤)
+#EXTINF:-1 group-title="mytv666香港", 无线功夫台国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(国)
+#EXTINF:-1 group-title="mytv666香港", 无线功夫台粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
+#EXTINF:-1 group-title="mytv666香港", 无线明珠劇集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+#EXTINF:-1 group-title="mytv666香港", 无线TVB1美
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB1
+#EXTINF:-1 group-title="mytv666香港", 无线千禧经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
+#EXTINF:-1 group-title="mytv666香港", 无线MyTV千禧经典台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=MyTV千禧经典台
+#EXTINF:-1 group-title="mytv666香港", 无线综合
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBSuperFree
+#EXTINF:-1 group-title="mytv666香港", 无线亚洲综合娱乐台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲综合娱乐台
+#EXTINF:-1 group-title="mytv666香港", 无线亚洲剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲剧台
+#EXTINF:-1 group-title="mytv666香港", 无线华语剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=华语剧台
+#EXTINF:-1 group-title="mytv666香港", 无线戏曲台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=戏曲台
+#EXTINF:-1 group-title="mytv666香港", 无线粤语片台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=粤语片台
+#EXTINF:-1 group-title="mytv666香港", 无线少儿HandsUP
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HandsUP
+#EXTINF:-1 group-title="mytv666香港", HOY76
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY76
+#EXTINF:-1 group-title="mytv666香港", HOY77
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY77
+#EXTINF:-1 group-title="mytv666香港", HOY78
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY78
+#EXTINF:-1 group-title="mytv666香港", HKC18台有线赛马
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HKC18台
+#EXTINF:-1 group-title="mytv666香港", 28AI智慧赛马
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=28AI智慧赛马
+#EXTINF:-1 group-title="mytv666香港", 黄金翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黄金翡翠台
+#EXTINF:-1 group-title="mytv666香港", 黄金华剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黃金華劇台
+#EXTINF:-1 group-title="mytv666香港", pₒₚc电影
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=POPC
+#EXTINF:-1 group-title="mytv666香港", Now新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
+#EXTINF:-1 group-title="mytv666香港", Now直播台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now直播台
+#EXTINF:-1 group-title="mytv666香港", Now财经台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now财经台
+#EXTINF:-1 group-title="mytv666香港", Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
+#EXTINF:-1 group-title="mytv666香港", Now星影台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
+#EXTINF:-1 group-title="mytv666香港", Now华剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
+#EXTINF:-1 group-title="mytv666香港", Now剧集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
+#EXTINF:-1 group-title="mytv666香港", Now紫金台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=NowJelli紫金国际
+#EXTINF:-1 group-title="mytv666香港", VIUTV-粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
+#EXTINF:-1 group-title="mytv666香港", VIUTV6-英
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
+#EXTINF:-1 group-title="mytv666香港", RTHK-31
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK31
+#EXTINF:-1 group-title="mytv666香港", RTHK-32
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK32
+#EXTINF:-1 group-title="mytv666香港", 天映经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
+#EXTINF:-1 group-title="mytv666香港", 天映经典国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)
+#EXTINF:-1 group-title="mytv666香港", 天映经典粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)
+#EXTINF:-1 group-title="mytv666香港", 美亚电影国
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)
+#EXTINF:-1 group-title="mytv666香港", 美亚电影粤
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(粤)
+#EXTINF:-1 group-title="mytv666香港", 中国电影频道
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
+#EXTINF:-1 group-title="mytv666香港", HUB娱家
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=娱家台
+#EXTINF:-1 group-title="mytv666香港", HUB都会时
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=都会台
+#EXTINF:-1 group-title="mytv666香港", 城市电视
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=城市电视
+#EXTINF:-1 group-title="mytv666香港", Ftv1时代
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代1
+#EXTINF:-1 group-title="mytv666香港", Ftv2时代
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代2
+#EXTINF:-1 group-title="mytv666香港", Astro Aec
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroAEC
+#EXTINF:-1 group-title="mytv666香港", Astro QJ
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroQJ
+#EXTINF:-1 group-title="mytv666香港", Astro aod
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroAOD
+#EXTINF:-1 group-title="mytv666香港", Astro 欢喜时限
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Astro欢喜台
+
+mytv666台灣,#genre#
+#EXTINF:-1 group-title="mytv666台灣", 壹新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
+#EXTINF:-1 group-title="mytv666台灣", 壹电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹电影
+#EXTINF:-1 group-title="mytv666台灣", 寰宇新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻
+#EXTINF:-1 group-title="mytv666台灣", 寰宇财经
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇财经
+#EXTINF:-1 group-title="mytv666台灣", 寰宇新闻台湾
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻台湾
+#EXTINF:-1 group-title="mytv666台灣", 镜新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
+#EXTINF:-1 group-title="mytv666台灣", 中天新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天新闻
+#EXTINF:-1 group-title="mytv666台灣", 中天新闻CTI+中天2台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTI+中天2台
+#EXTINF:-1 group-title="mytv666台灣", 中天综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天综合
+#EXTINF:-1 group-title="mytv666台灣", 中天娱乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天娱乐
+#EXTINF:-1 group-title="mytv666台灣", 中视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视
+#EXTINF:-1 group-title="mytv666台灣", 中视新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视新闻
+#EXTINF:-1 group-title="mytv666台灣", 中视经典
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视经典
+#EXTINF:-1 group-title="mytv666台灣", 中旺电视
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=中旺电视
+#EXTINF:-1 group-title="mytv666台灣", tvbs
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSHD
+#EXTINF:-1 group-title="mytv666台灣", tvbs新闻台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS新闻台
+#EXTINF:-1 group-title="mytv666台灣", tvbs精采台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS精采台
+#EXTINF:-1 group-title="mytv666台灣", tvbs欢乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS欢乐台
+#EXTINF:-1 group-title="mytv666台灣", tvbs news
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSNEWS
+#EXTINF:-1 group-title="mytv666台灣", 东森美洲
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲
+#EXTINF:-1 group-title="mytv666台灣", 东森超视美洲
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视美洲
+#EXTINF:-1 group-title="mytv666台灣", 东森超视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视
+#EXTINF:-1 group-title="mytv666台灣", 东森美洲卫视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲卫视
+#EXTINF:-1 group-title="mytv666台灣", 东森中国台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森中国台
+#EXTINF:-1 group-title="mytv666台灣", 东森幼幼
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森幼幼
+#EXTINF:-1 group-title="mytv666台灣", MOMO亲子台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MOMO亲子台
+#EXTINF:-1 group-title="mytv666台灣", 三立新闻台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
+#EXTINF:-1 group-title="mytv666台灣", 三立iNEWS
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
+#EXTINF:-1 group-title="mytv666台灣", 三立LIVE
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LIVE三立
+#EXTINF:-1 group-title="mytv666台灣", 三立都会台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立都会台
+#EXTINF:-1 group-title="mytv666台灣", 三立综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立综合台
+#EXTINF:-1 group-title="mytv666台灣", 三立台湾台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立台湾台
+#EXTINF:-1 group-title="mytv666台灣", 三立戏剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立戏剧台
+#EXTINF:-1 group-title="mytv666台灣", 三立国际台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立国际台
+#EXTINF:-1 group-title="mytv666台灣", 年代新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
+#EXTINF:-1 group-title="mytv666台灣", 年代Much
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代Much
+#EXTINF:-1 group-title="mytv666台灣", 非凡商业
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡商业
+#EXTINF:-1 group-title="mytv666台灣", 非凡新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
+#EXTINF:-1 group-title="mytv666台灣", 华视新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTS华视新闻资讯
+#EXTINF:-1 group-title="mytv666台灣", 华视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华视
+#EXTINF:-1 group-title="mytv666台灣", 公视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视
+#EXTINF:-1 group-title="mytv666台灣", 公视新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视新闻网
+#EXTINF:-1 group-title="mytv666台灣", 公视台语台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视台语台
+#EXTINF:-1 group-title="mytv666台灣", 公视戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视戏剧
+#EXTINF:-1 group-title="mytv666台灣", 小公视综
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=小公视
+#EXTINF:-1 group-title="mytv666台灣", 民视新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
+#EXTINF:-1 group-title="mytv666台灣", 民视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视
+#EXTINF:-1 group-title="mytv666台灣", 民视第一台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视第一台
+#EXTINF:-1 group-title="mytv666台灣", 民视台湾台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视台湾台
+#EXTINF:-1 group-title="mytv666台灣", 民视影剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视影剧台
+#EXTINF:-1 group-title="mytv666台灣", 民视旅游台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视旅游台
+#EXTINF:-1 group-title="mytv666台灣", 民视综艺台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视综艺台
+#EXTINF:-1 group-title="mytv666台灣", 台视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视
+#EXTINF:-1 group-title="mytv666台灣", 台视新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视新闻HD
+#EXTINF:-1 group-title="mytv666台灣", 台视综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视综合
+#EXTINF:-1 group-title="mytv666台灣", 台视财经
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视财经
+#EXTINF:-1 group-title="mytv666台灣", 霹雳台湾台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=霹雳台湾台
+#EXTINF:-1 group-title="mytv666台灣", 高点综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=高点综合
+#EXTINF:-1 group-title="mytv666台灣", 东风卫视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东风卫视
+#EXTINF:-1 group-title="mytv666台灣", Smart知识台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Smart知识台
+#EXTINF:-1 group-title="mytv666台灣", 客家电视台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=客家电视台
+#EXTINF:-1 group-title="mytv666台灣", 原住民频道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=原住民频道
+#EXTINF:-1 group-title="mytv666台灣", 猪哥亮歌厅秀
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=猪哥亮歌厅秀
+#EXTINF:-1 group-title="mytv666台灣", 八大第一台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大第一台
+#EXTINF:-1 group-title="mytv666台灣", 八大戏剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
+#EXTINF:-1 group-title="mytv666台灣", 八大综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大综合台
+#EXTINF:-1 group-title="mytv666台灣", 八大精彩台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大精彩台
+#EXTINF:-1 group-title="mytv666台灣", 八大娱乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大娱乐台
+#EXTINF:-1 group-title="mytv666台灣", 龙华电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华电影
+#EXTINF:-1 group-title="mytv666台灣", 龙华偶像
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华偶像
+#EXTINF:-1 group-title="mytv666台灣", 龙华戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华戏剧
+#EXTINF:-1 group-title="mytv666台灣", 龙华日韩
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华日韩
+#EXTINF:-1 group-title="mytv666台灣", 龙华影剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华影剧
+#EXTINF:-1 group-title="mytv666台灣", 龙华洋片
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华洋片
+#EXTINF:-1 group-title="mytv666台灣", 龙华卡通
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华卡通
+#EXTINF:-1 group-title="mytv666台灣", 龙华经典
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华经典
+#EXTINF:-1 group-title="mytv666台灣", 纬来日本
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来日本
+#EXTINF:-1 group-title="mytv666台灣", 纬来育乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来育乐
+#EXTINF:-1 group-title="mytv666台灣", 台湾戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾戏剧
+#EXTINF:-1 group-title="mytv666台灣", JET综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=JET综合台
+#EXTINF:-1 group-title="mytv666台灣", 国兴卫视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=国兴卫视
+#EXTINF:-1 group-title="mytv666台灣", 台湾Plus
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾Plus
+#EXTINF:-1 group-title="mytv666台灣", 靖天综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天综合台
+#EXTINF:-1 group-title="mytv666台灣", 靖天日本台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天日本台
+#EXTINF:-1 group-title="mytv666台灣", 靖天卡通台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天卡通台
+#EXTINF:-1 group-title="mytv666台灣", 靖天国际台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天国际台
+#EXTINF:-1 group-title="mytv666台灣", 靖天育乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天育乐台
+#EXTINF:-1 group-title="mytv666台灣", 靖天映画台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天映画台
+#EXTINF:-1 group-title="mytv666台灣", 靖天欢乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天欢乐台
+#EXTINF:-1 group-title="mytv666台灣", 靖洋卡通台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖洋卡通台
+#EXTINF:-1 group-title="mytv666台灣", 華藝MBC綜合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=華藝MBC綜合台
+#EXTINF:-1 group-title="mytv666台灣", 动物星球
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=动物星球
+#EXTINF:-1 group-title="mytv666台灣", 国家地理
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=国家地理
+#EXTINF:-1 group-title="mytv666台灣", 探索频道
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=探索频道
+#EXTINF:-1 group-title="mytv666台灣", 亚洲旅游
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=亚洲旅游台
+#EXTINF:-1 group-title="mytv666台灣", EYETV旅游
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV旅游
+#EXTINF:-1 group-title="mytv666台灣", EYETV戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV戏剧
+#EXTINF:-1 group-title="mytv666台灣", ELta日韩
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA日韩
+#EXTINF:-1 group-title="mytv666台灣", ELta影剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA影剧
+#EXTINF:-1 group-title="mytv666台灣", ELta综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA综合
+#EXTINF:-1 group-title="mytv666台灣", ELta娱乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA娱乐
+#EXTINF:-1 group-title="mytv666台灣", ELta生活
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA生活旅游
+#EXTINF:-1 group-title="mytv666台灣", 华纳电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华纳电影
+#EXTINF:-1 group-title="mytv666台灣", 美亚电影台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=美亚电影台
+#EXTINF:-1 group-title="mytv666台灣", 好莱坞电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=好莱坞电影
+#EXTINF:-1 group-title="mytv666台灣", Amc最爱电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=amc最爱电影
+#EXTINF:-1 group-title="mytv666台灣", Cinemax
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CINEMAX
+#EXTINF:-1 group-title="mytv666台灣", HBO
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO
+#EXTINF:-1 group-title="mytv666台灣", HBO高清
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBOHD
+#EXTINF:-1 group-title="mytv666台灣", HBO原创
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO原创
+#EXTINF:-1 group-title="mytv666台灣", HBO强档
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO强档
+#EXTINF:-1 group-title="mytv666台灣", HBO家庭
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO家庭
+#EXTINF:-1 group-title="mytv666台灣", 采昌影剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=采昌影剧台
+#EXTINF:-1 group-title="mytv666台灣", 韩国娱乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=韩国娱乐台
+#EXTINF:-1 group-title="mytv666台灣", ANIMAX
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Animax
+#EXTINF:-1 group-title="mytv666台灣", AXN
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AXN
+#EXTINF:-1 group-title="mytv666台灣", AXN頻道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=AXN頻道
+#EXTINF:-1 group-title="mytv666台灣", DreamWorks
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=DreamWorks
+#EXTINF:-1 group-title="mytv666台灣", Fashion Box
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=FashionBox
+#EXTINF:-1 group-title="mytv666台灣", i-fun动漫
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=i-Fun動漫台
+#EXTINF:-1 group-title="mytv666台灣", KIX
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Kix
+#EXTINF:-1 group-title="mytv666台灣", LUXETV
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LUXETV
+#EXTINF:-1 group-title="mytv666台灣", MTV音乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MTV音乐频道
+#EXTINF:-1 group-title="mytv666台灣", Nickelodeon
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Nickelodeon
+#EXTINF:-1 group-title="mytv666台灣", Nick Jr
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=NickJr儿童频道
+#EXTINF:-1 group-title="mytv666台灣", rock娱乐
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ROCK超级娱乐
+#EXTINF:-1 group-title="mytv666台灣", rock综艺
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ROCK综艺娱乐
+#EXTINF:-1 group-title="mytv666台灣", thrill惊悚
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Thrill惊悚
+#EXTINF:-1 group-title="mytv666台灣", thrill
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Thrill
+#EXTINF:-1 group-title="mytv666台灣", TVN韩综
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=tVN
+#EXTINF:-1 group-title="mytv666台灣", TVN综韩
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=tvN
+#EXTINF:-1 group-title="mytv666台灣", ZooMoo
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ZooMoo
+#EXTINF:-1 group-title="mytv666台灣", Z-频道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Z频道
 
 
 
@@ -8872,6 +9506,46 @@ https://cdn.yzzy29-play.com/20250629/190_cfecdb27/index.m3u8
 #EXTINF:-1 group-title="電影輪播", 雷霆特攻队 Thunderbolts (2025)
 https://cdn.yzzy29-play.com/20250701/205_eae27d77/2000k/hls/mixed.m3u8
 
+
+#EXTINF:-1 group-title="電影輪播", 哆啦A梦
+https://live.iill.top/huya.php?id=11601963
+
+#EXTINF:-1 group-title="電影輪播", 金庸武侠
+https://live.iill.top/huya.php?id=11342435
+#EXTINF:-1 group-title="電影輪播", 功夫电影
+https://live.iill.top/huya.php?id=11352941
+#EXTINF:-1 group-title="電影輪播", 笑傲江湖
+https://live.iill.top/huya.php?id=26355790
+#EXTINF:-1 group-title="電影輪播", 神雕侠侣
+https://live.iill.top/huya.php?id=11352964
+#EXTINF:-1 group-title="電影輪播", 倚天屠龙记
+https://live.iill.top/huya.php?id=11342403
+
+
+#EXTINF:-1 group-title="電影輪播", 天龙八部
+https://live.iill.top/huya.php?id=23903123
+#EXTINF:-1 group-title="電影輪播", 鹿鼎记
+https://live.iill.top/huya.php?id=23865080
+#EXTINF:-1 group-title="電影輪播", 寻秦记
+https://live.iill.top/huya.php?id=23864973
+
+#EXTINF:-1 group-title="電影輪播", 神雕侠侣
+https://live.iill.top/huya.php?id=23865171
+#EXTINF:-1 group-title="電影輪播", 射雕英雄传
+https://live.iill.top/huya.php?id=23824164
+#EXTINF:-1 group-title="電影輪播", 倚天屠龙记
+https://live.iill.top/huya.php?id=23734246
+#EXTINF:-1 group-title="電影輪播", 笑傲江湖
+https://live.iill.top/huya.php?id=23865142
+
+#EXTINF:-1 group-title="電影輪播", 笑傲江湖
+http://live.iill.top/huya.php?id=26355790
+#EXTINF:-1 group-title="電影輪播", 神雕侠侣
+http://live.iill.top/huya.php?id=11352964
+#EXTINF:-1 group-title="電影輪播", 倚天屠龙记
+http://live.iill.top/huya.php?id=11342403
+#EXTINF:-1 group-title="電影輪播", 庆余年
+http://live.iill.top/huya.php?id=11352960
 
 
 #########################################
@@ -9036,39 +9710,3 @@ http://kenneth001.serv00.net/hochu.php?id=asian-porn
 http://kenneth001.serv00.net/hochu.php?id=kino-18
 
 
-
-
-#EXTINF:-1 group-title="私密頻道",HAPPY
-http://my.wifi942.com:9981/mytv/test/index.php?id=709091&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",彩虹e
-http://my.wifi942.com:9981/mytv/test/index.php?id=709039&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",彩虹K
-http://my.wifi942.com:9981/mytv/test/index.php?id=709040&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",彩虹电影
-http://my.wifi942.com:9981/mytv/test/index.php?id=709038&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",极限
-http://my.wifi942.com:9981/mytv/test/index.php?id=709086&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",惊艳
-http://my.wifi942.com:9981/mytv/test/index.php?id=709041&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",潘朵拉完美
-http://my.wifi942.com:9981/mytv/test/index.php?id=709042&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",潘朵拉完美
-http://my.wifi942.com:9981/mytv/test/index.php?id=476375&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",松视1
-http://my.wifi942.com:9981/mytv/test/index.php?id=709043&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",松视2
-http://my.wifi942.com:9981/mytv/test/index.php?id=709044&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",松视3
-http://my.wifi942.com:9981/mytv/test/index.php?id=709084&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",brazzers
-http://my.wifi942.com:9981/mytv/test/index.php?id=644730&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",Dorcel
-http://my.wifi942.com:9981/mytv/test/index.php?id=476377&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",erox
-http://my.wifi942.com:9981/mytv/test/index.php?id=644724&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",eroxxx
-http://my.wifi942.com:9981/mytv/test/index.php?id=644725&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",HAPPY CHANNEL
-http://my.wifi942.com:9981/mytv/test/index.php?id=709085&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
-#EXTINF:-1 group-title="私密頻道",Playboy
-http://my.wifi942.com:9981/mytv/test/index.php?id=476376&token=f447c4354d825c8a24d9a7a383a6e89e2c0f8405b3656a27e4719c2f6e82a8fa
