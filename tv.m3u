@@ -492,8 +492,6 @@ http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
 
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", EuroNews
-https://vod.splay.uz/live_splay/original/Euronews/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", Astro AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
@@ -510,37 +508,6 @@ http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 鳳凰衞視資訊台
-http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台北美版(TVB J1)
-http://cdn3.163189.xyz/live/j1/stream.m3u8
-
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", TVB Plus
-http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 鳳凰衞視中文台
-http://cdn.163189.xyz/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", HOY TV
-http://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 澳視澳門
-http://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 澳視衛星
-http://cdn.163189.xyz/live/as/stream.m3u8
-
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 八度空間
-https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", CH5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", CH8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", CHU
-https://cdn6.163189.xyz/live/chu/stream.m3u8
-
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台(字幕)
-http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", 明珠台(字幕)
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 
