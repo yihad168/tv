@@ -539,7 +539,10 @@ https://cdn6.163189.xyz/live/ch8/stream.m3u8
 https://cdn6.163189.xyz/live/chu/stream.m3u8
 
 
-
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台(字幕)
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="euronews" group-title="測試频道", 明珠台(字幕)
+http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 
 
 
