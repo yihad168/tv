@@ -126,13 +126,7 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 http://vthanh.utako.moe/pigoo/index.m3u8
 
 
-
-
-
 ################################################
-
-
-
 
 
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
@@ -222,8 +216,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="スカイA" tvg-id="10825" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/XinMan939/ziyongm3u/refs/heads/main/logo/haiwai/スカイA.png" group-title="日本频道🇯🇵",スカイA
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
 
 
 
@@ -358,11 +350,7 @@ http://robyang.serv00.net/ublive.php?id=1215
 
 
 
-
-
 ################################################
-
-
 
 
 
@@ -498,14 +486,10 @@ http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u
 http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 #EXTINF:-1 group-title="測試频道",鏡電視新聞台
 http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
-
-
-
 #EXTINF:-1 group-title="測試频道",鳯凰衛視資訊
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 group-title="測試频道",鳯凰衛視中文
 http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
-
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", Astro AOD
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", TVB星河頻道
@@ -520,17 +504,12 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", 翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", 明珠台(字幕)
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", popc
 https://fr-us7.jdiptv.cc/live/popc.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", POPC
 http://tl.061833.xyz/tl/popc
-
-
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", TSN 1
 http://fortv.cc:8080/live/shawn_kinslow@hotmail.com/OkCCsE9oho/47440.ts
 #EXTINF:-1 tvg-id="euronews" group-title="測試频道", TSN 2
@@ -879,8 +858,6 @@ http://xott.live:8080/01year.sarfaraz.cctv/954426736/349019
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/349020
 #EXTINF:-1 group-title="測試频道SPORTS",CA: Hard Knocks
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/349021
-
-
 #EXTINF:-1 group-title="測試频道SPORTS",HK: NOW Sports 4K 1
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/381396
 #EXTINF:-1 group-title="測試频道SPORTS",HK: NOW Sports 4K 2
@@ -937,9 +914,6 @@ http://xott.live:8080/01year.sarfaraz.cctv/954426736/381415
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/381416
 
 
-
-
-
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS 1 ENGLISH HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS 1 ENGLISH HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS 1 ENGLISH HD
 http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575963
@@ -981,9 +955,6 @@ http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575978
 http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575977
 #EXTINF:-1 group-title="測試频道SPORTS" tvg-name="|UK| BEIN SPORTS NEWS HD" tvg-logo="https://epg.112114.xyz/logo/|UK| BEIN SPORTS NEWS HD.png" epg-url="https://epg.112114.xyz/pp.xml",|UK| BEIN SPORTS NEWS HD
 http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/575979
-
-
-
 #EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 1 HD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 1 HD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 1 HD
 http://line.porschetv.net:80/HYQFKL4PRE/FFTXJLVGVZ/4899
 #EXTINF:-1 group-title="測試频道SPORTS" tvg-name="UK -  BT SPORTS 2 HD" tvg-logo="https://epg.112114.xyz/logo/UK -  BT SPORTS 2 HD.png" epg-url="https://epg.112114.xyz/pp.xml",UK -  BT SPORTS 2 HD
@@ -1464,7 +1435,6 @@ http://wanjiatv.net/litv.php?id=4gtv-4gtv074
 http://wanjiatv.net/litv.php?id=4gtv-4gtv080
 #EXTINF:-1 group-title="立視二線萬家", 中視菁采
 http://wanjiatv.net/litv.php?id=4gtv-4gtv064
-
 #EXTINF:-1 group-title="立視二線萬家", 民視第一
 http://wanjiatv.net/litv.php?id=4gtv-4gtv003
 #EXTINF:-1 group-title="立視二線萬家", 民視新聞
@@ -1475,7 +1445,6 @@ http://wanjiatv.net/litv.php?id=4gtv-4gtv001
 http://wanjiatv.net/litv.php?id=4gtv-4gtv042
 #EXTINF:-1 group-title="立視二線萬家", 客家電視
 http://wanjiatv.net/litv.php?id=4gtv-4gtv043
-
 #EXTINF:-1 group-title="立視二線萬家", 台視新聞
 http://wanjiatv.net/litv.php?id=4gtv-4gtv051
 #EXTINF:-1 group-title="立視二線萬家", 台視財經
@@ -1554,7 +1523,6 @@ http://wanjiatv.net/litv.php?id=litv-longturn04
 http://wanjiatv.net/litv.php?id=4gtv-4gtv014
 #EXTINF:-1 group-title="立視二線萬家", 智林體育
 http://wanjiatv.net/litv.php?id=4gtv-4gtv101
-
 #EXTINF:-1 group-title="立視二線萬家", 中天亞洲
 http://wanjiatv.net/litv.php?id=4gtv-4gtv109
 #EXTINF:-1 group-title="立視二線萬家", 靖天卡通
@@ -1631,7 +1599,6 @@ http://wanjiatv.net/litv.php?id=4gtv-4gtv018
 http://wanjiatv.net/litv.php?id=4gtv-4gtv084
 #EXTINF:-1 group-title="立視二線萬家", 國會頻道2
 http://wanjiatv.net/litv.php?id=4gtv-4gtv085
-
 
 https://github.com/ffmking/tv1/blob/main/888.txt
 
@@ -4236,14 +4203,10 @@ http://robyang.serv00.net/ublive.php?id=3075
 http://robyang.serv00.net/ublive.php?id=2911
 #EXTINF:-1 group-title="韓國 KOREA",Discovery
 http://robyang.serv00.net/ublive.php?id=3196
-
-
-
 #EXTINF:-1 group-title="韓國 KOREA",KBS 1
 https://tv.iill.top/kbs/11&p=0
 #EXTINF:-1 group-title="韓國 KOREA",KBS 2
 https://tv.iill.top/kbs/12&p=0
-
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://epg.112114.xyz/logo/KOREATV.png" group-title="韓國 KOREA",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
@@ -4258,10 +4221,8 @@ http://1.217.92.34/hls/3/index.m3u8
 http://1.217.92.34/hls/4/index.m3u8
 #EXTINF:-1 group-title="韓國 KOREA",EBS1
 http://1.217.92.34/hls/5/index.m3u8
-
 #EXTINF:-1,tvg-id="OBS" tvg-name="OBS" tvg-logo="https://epg.112114.xyz/logo/OBS.png" group-title="韓國 KOREA",OBS
 http://1.217.92.34/hls/6/index.m3u8
-
 #EXTINF:-1 group-title="韓國 KOREA",CHANNEL A
 http://1.217.92.34/hls/7/index.m3u8
 #EXTINF:-1 group-title="韓國 KOREA",JTBC
@@ -4272,25 +4233,20 @@ http://1.217.92.34/hls/9/index.m3u8
 http://1.217.92.34/hls/10/index.m3u8
 #EXTINF:-1 group-title="韓國 KOREA",tvN
 http://1.217.92.34/hls/11/index.m3u8
-
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="韓國 KOREA",tvN STORY
 http://1.217.92.34/hls/12/index.m3u8
-
 #EXTINF:-1 group-title="韓國 KOREA",이데일리TV
 http://1.217.92.34/hls/13/index.m3u8
 #EXTINF:-1 group-title="韓國 KOREA",YTN
 http://1.217.92.34/hls/14/index.m3u8
-
 #EXTINF:-1,tvg-id="조선" tvg-name="조선" tvg-logo="https://epg.112114.xyz/logo/조선.png" group-title="韓國 KOREA",조선
 http://1.217.92.34/hls/15/index.m3u8
 #EXTINF:-1,tvg-id="SBS PIus" tvg-name="SBS PIus" tvg-logo="https://epg.112114.xyz/logo/SBSPIUS.png" group-title="韓國 KOREA",SBS PIus
 http://1.217.92.34/hls/16/index.m3u8
 #EXTINF:-1,tvg-id="KBS drama" tvg-name="KBS drama" tvg-logo="https://epg.112114.xyz/logo/KBSDRAMA.png" group-title="韓國 KOREA",KBS drama
 http://1.217.92.34/hls/17/index.m3u8
-
 #EXTINF:-1,tvg-id="MAC name" tvg-name="MAC name" tvg-logo="https://epg.112114.xyz/logo/MACNAME.png" group-title="韓國 KOREA",MAC name
 http://1.217.92.34/hls/19/index.m3u8
-
 #EXTINF:-1,tvg-id="OL ef" tvg-name="OL ef" tvg-logo="https://epg.112114.xyz/logo/OLEF.png" group-title="韓國 KOREA",OL ef
 http://1.217.92.34/hls/21/index.m3u8
 #EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="韓國 KOREA",OCN NOW
@@ -4325,10 +4281,8 @@ http://1.217.92.34/hls/35/index.m3u8
 http://1.217.92.34/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="KBSN SPORTS" tvg-name="KBSN SPORTS" tvg-logo="https://epg.112114.xyz/logo/KBSNSPORTS.png" group-title="韓國 KOREA",KBSN SPORTS
 http://1.217.92.34/hls/37/index.m3u8
-
 #EXTINF:-1 group-title="韓國 KOREA",SBS SPORTS
 http://1.217.92.34/hls/38/index.m3u8
-
 #EXTINF:-1,tvg-id="MBC SPORTS+" tvg-name="MBC SPORTS+" tvg-logo="https://epg.112114.xyz/logo/MBCSPORTS+.png" group-title="韓國 KOREA",MBC SPORTS+
 http://1.217.92.34/hls/39/index.m3u8
 #EXTINF:-1,tvg-id="JBBC GOLF" tvg-name="JBBC GOLF" tvg-logo="https://epg.112114.xyz/logo/JBBCGOLF.png" group-title="韓國 KOREA",JBBC GOLF
@@ -20316,7 +20270,6 @@ http://live.iill.top/huya.php?id=11352960
 
 #EXTINF:-1 group-title="私密頻道",驚豔台
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/85
-
 #EXTINF:-1 group-title="私密頻道",潘多拉完美
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/86
 #EXTINF:-1 group-title="私密頻道",香蕉台
@@ -20327,22 +20280,16 @@ http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/88
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/89
 #EXTINF:-1 group-title="私密頻道",松視3台
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
-
-
-
-
 #EXTINF:-1 group-title="私密頻道",松視3
 http://robyang.serv00.net/ublive.php?id=404
 #EXTINF:-1 group-title="私密頻道",潘朵拉完美
 http://robyang.serv00.net/ublive.php?id=410
-
 #EXTINF:-1 group-title="私密頻道",JStar
 http://robyang.serv00.net/ublive.php?id=2909
 #EXTINF:-1 group-title="私密頻道",彩虹E
 http://robyang.serv00.net/ublive.php?id=406
 #EXTINF:-1 group-title="私密頻道",彩虹K
 http://robyang.serv00.net/ublive.php?id=415
-
 #EXTINF:-1 group-title="私密頻道",Brazzers TV
 http://robyang.serv00.net/ublive.php?id=3076
 #EXTINF:-1 group-title="私密頻道",Erox
@@ -20401,10 +20348,6 @@ http://robyang.serv00.net/ublive.php?id=3101
 http://robyang.serv00.net/ublive.php?id=3102
 #EXTINF:-1 group-title="私密頻道",金絲雀
 http://robyang.serv00.net/ublive.php?id=3155
-
-
-
-
 #EXTINF:-1 group-title="私密頻道",Banana香蕉
 http://robyang.serv00.net/ublive.php?id=2930
 #EXTINF:-1 group-title="私密頻道",波多野结衣
@@ -20415,8 +20358,6 @@ http://robyang.serv00.net/ublive.php?id=3162
 http://robyang.serv00.net/ublive.php?id=3164
 
 
-
-#EXTM3U
 #EXTINF:-1 tvg-name="brazzers-tv-europe" tvg-logo="http://kenneth001.serv00.net/hochu.php?url=http://hochu.tv/images/brazzers_tv_europe.png" group-title="私密頻道",brazzers-tv-europe
 http://kenneth001.serv00.net/hochu.php?id=brazzers-tv-europe
 #EXTINF:-1 tvg-name="o-la-la" tvg-logo="http://kenneth001.serv00.net/hochu.php?url=http://hochu.tv/images/o-la-la.png" group-title="私密頻道",o-la-la
@@ -20550,15 +20491,9 @@ http://kenneth001.serv00.net/hochu.php?id=kino-18
 
 
 
-
-
 =========================================
 
 
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-id="A&amp;E HD US" tvg-name="A&E HD US" tvg-logo="" group-title="USA",A&E HD US
 http://2zkeyiyj.tvclub.xyz/iptv/ZLXH6NFFZM33Q4/30001/index.m3u
 #EXTINF:-1 tvg-id="A&amp;E US" tvg-name="A&E US" tvg-logo="" group-title="USA",A&E US
