@@ -10753,6 +10753,134 @@ http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9178/index.m3u
 
 
 ################################################
+https://hls.mskycdn.online/
+
+
+#EXTM3U
+#FHD VTV 5M
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv1hd.png",VTV1 HD
+https://hls.mskycdn.online/tv/vtv1fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv2hd.png",VTV2 HD
+https://hls.mskycdn.online/tv/vtv2fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv3hd.png",VTV3 HD
+https://hls.mskycdn.online/tv/vtv3fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv4hd.png",VTV4 HD
+https://hls.mskycdn.online/tv/vtv4fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv5hd.png",VTV5 HD
+https://hls.mskycdn.online/tv/vtv5fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcantho" tvg-name="VTV Cần Thơ" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtvcantho.png",VTV Cần Thơ HD
+https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv7hd.png",VTV7 HD
+https://hls.mskycdn.online/tv/vtv7fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv8hd.png",VTV8 HD
+https://hls.mskycdn.online/tv/vtv8fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv9hd.png",VTV9 HD
+https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv5hdtnb.png",VTV5 Tây Nam Bộ HD
+https://hls.mskycdn.online/tv/vtv5tnbfhd/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv5hdtn.png",VTV5 Tây Nguyên HD
+https://hls.mskycdn.online/tv/vtv5tnfhd/index.m3u8
+
+#EXTINF:-1 tvg-id="antvhd" tvg-name="ANTV HD" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/antvhd.png",ANTV HD
+https://hls.mskycdn.online/tv/antvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/qpvnhd.png",QPVN
+https://hls.mskycdn.online/tv/qpvnhd/index.m3u8
+
+
+#Root to HLS
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/hbohd.png",HBO
+https://hls.mskycdn.online/tv/hbohd/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/cinemaxhd.png",Cinemax
+https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
+
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/axnhd.png",AXN
+https://hls.mskycdn.online/tv/axnhd/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/cinemaworldhd.png",Cinema World
+https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
+
+#EXTINF:-1 tvg-id="abcaustralia" tvg-name="ABC Australia" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/abcaustralia.png",ABC Australia
+https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/animalhd.png",Animal Planet
+https://hls.mskycdn.online/tv/animalhd/index.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery Channel" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/discoveryhd.png",Discovery Channel
+https://hls.mskycdn.online/tv/discoveryhd/index.m3u8
+
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="Discovery Asia" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/discoveryasiahd.png",Discovery Asia
+https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/cartoonhd.png",Cartoon Network
+https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamworks" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png",Dreamworks
+https://hls.mskycdn.online/tv/dreamworks/index.m3u8
+
+#EXTINF:-1 tvg-id="bbccbb" tvg-name="BBC CbeeBies" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/bbccbb.png",BBC CbeeBies
+https://hls.mskycdn.online/tv/bbccbb/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvhd" tvg-name="WBTV" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/warnertvhd.png",WBTV
+https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC News" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/bbcworldnews.png",BBC News
+https://hls.mskycdn.online/tv/bbcworldnews/index.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/cnn.png",CNN
+https://hls.mskycdn.online/tv/cnn/index.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" tvg-name="Fashion TV" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/fashionhd.png",Fashion TV
+https://hls.mskycdn.online/tv/fashionhd/index.m3u8
+
+
+#720P 2M VTV
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv1hd.png",VTV1
+https://hls.mskycdn.online/tv/vtv1/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv2hd.png",VTV2
+https://hls.mskycdn.online/tv/vtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv3hd.png",VTV3
+https://hls.mskycdn.online/tv/vtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv4hd.png",VTV4
+https://hls.mskycdn.online/tv/vtv4/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv5hd.png",VTV5
+https://hls.mskycdn.online/tv/vtv5/index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcantho" tvg-name="VTV Cần Thơ" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtvcantho.png",VTV Cần Thơ
+https://hls.mskycdn.online/tv/vtvct/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv7hd.png",VTV7
+https://hls.mskycdn.online/tv/vtv7/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv8hd.png",VTV8
+https://hls.mskycdn.online/tv/vtv8/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv9hd.png",VTV9
+https://hls.mskycdn.online/tv/vtv9/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv5hdtnb.png",VTV5 Tây Nam Bộ
+https://hls.mskycdn.online/tv/vtv5tnb/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title="越南 VTV" tvg-logo="https://hls.mskycdn.online/logo/vtv5hdtn.png",VTV5 Tây Nguyên
+https://hls.mskycdn.online/tv/vtv5tn/index.m3u8
+
+
+################################################
 
 
 
