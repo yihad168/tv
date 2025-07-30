@@ -431,6 +431,207 @@ https://edge.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 鳯凰資訊
 https://edge.163189.xyz/163189/fhzx
 
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空國際電影台
+http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+http://211.23.95.147:18881/live/dtv27_h265.ts
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
+http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+http://39.107.120.164:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
+http://39.107.120.164:8080/live/diyp_channelv.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+http://39.107.120.164:8080/live/diyp_xingkong.flv
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
+http://39.107.120.164:8080/live/diyp_channelv.flv
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", imode TV全球時尚
+http://player.juyun.tv/camera/137932133.m3u8
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 緯來體育(js)
+http://j.s.bkpcp.top/js/wlty
+
+
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 台視
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 中視
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 華視
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVBS
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視台灣台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視第一台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 中天亞洲
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv109
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天綜合台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天國際台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天資訊台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 客家電視台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", ARIRANG
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv079
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 國會頻道1
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 國會頻道2
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 中天新聞
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVBS新聞
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 東森新聞台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視新聞台
+http://154.219.113.217:8080/sub?token=112233&id=litv-ftv13
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 鏡電視新聞台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 非凡新聞
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 台視新聞台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 華視新聞
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 中視新聞台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 寰宇新聞台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn14
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 寰宇新聞台灣台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv156
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 半島國際新聞
+http://154.219.113.217:8080/sub?token=112233&id=litv-ftv10
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 美國之音
+http://154.219.113.217:8080/sub?token=112233&id=litv-ftv03
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 東森財經新聞台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 非凡商業
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 台視財經台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 第1商業台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv104
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVBS歡樂台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVBS精采台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", ELTV娛樂
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視綜藝台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 八大綜藝
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 八大精彩
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天歡樂台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天育樂台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 中視菁采台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 豬哥亮歌廳秀
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv006
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 影迷數位電影台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", amc電影台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv017
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天電影台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天映畫
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 采昌影劇台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視影劇台
+http://154.219.113.217:8080/sub?token=112233&id=litv-ftv09
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華電影台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn03
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華洋片台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn02
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 公視戲劇
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖洋戲劇台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天戲劇台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 中視經典台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天日本台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華戲劇台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn18
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華日韓台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn11
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華偶像台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn12
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華經典台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn21
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 臺灣戲劇台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn22
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 視納華仁紀實
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv013
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Globetrotter
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv016
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 達文西頻道
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv018
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 亞洲旅遊台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 民視旅遊台
+http://154.219.113.217:8080/sub?token=112233&id=litv-ftv07
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Smart知識台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn19
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖天卡通台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 靖洋卡通台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 龍華卡通台
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn01
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CLASSICA古典樂
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv059
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Trace Urban
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv082
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Mezzo Live HD
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv083
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 時尚運動X
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv014
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", GINXE Sports TV
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv053
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 智林體育台
+http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv101
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯魅力
+,http://154.219.113.217:8080/sub?token=112233&id=litv-longturn04
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯高球1
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn05
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯高球2
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn06
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯運動1
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn07
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯運動2
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn08
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯網球1
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn09
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯無限1
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn10
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 博斯無限2
+http://154.219.113.217:8080/sub?token=112233&id=litv-longturn13
+
+
+
 
 
 
@@ -5805,11 +6006,9 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=bsfuji_japan
 #EXTINF:-1,tvg-id="日本|CNA Japan" tvg-name="日本|CNA Japan" tvg-logo="https://epg.112114.xyz/logo/日本|CNAJAPAN.png" group-title="SMART TV",日本|CNA Japan
 https://haoyunlai.serv00.net/Smartv-1.php?id=cna_japan
 #EXTINF:-1,tvg-id="日本|BS-TBS" tvg-name="日本|BS-TBS" tvg-logo="https://epg.112114.xyz/logo/日本|BSTBS.png" group-title="SMART TV",日本|BS-TBS
-https://haoyunlai.serv00.net/Smartv-1.php?id=bstbs_japan
+https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="SMART TV",日本|NHK Oaska
-https://haoyunlai.serv00.net/Smartv-1.php?id=nhkosaka_japan
-
-
+http://zhangqun1818.serv00.net/0425smt.php?id=nhkosaka_japan
 
 
 
