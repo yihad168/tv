@@ -682,6 +682,13 @@ http://39.107.120.164:8080/live/diyp_channelv.flv
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", imode TV全球時尚
 http://player.juyun.tv/camera/137932133.m3u8
 
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", EZTV-1(義大利歐洲華文電視台)
+http://oh.eztv.vip/live/eztv1.m3u8
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", VOA中文台(美國VOA衛視華語頻道)
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 緯來體育(js)
 http://j.s.bkpcp.top/js/wlty
@@ -876,11 +883,10 @@ http://158.160.149.81:8080/2586/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" group-title="測試頻道SPORTS", Eurosport HD 2
 http://158.160.149.81:8080/2587/index.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="eurosport1" group-title="測試頻道SPORTS", CCTV-5
+https://Smart.pendy.dpdns.org/Smart.php?id=cctv5
+#EXTINF:-1 tvg-id="eurosport1" group-title="測試頻道SPORTS", CCTV-5+
+https://Smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 
 #EXTINF:-1 group-title="測試頻道SPORTS",US: ACC Network
 http://xott.live:8080/01year.sarfaraz.cctv/954426736/347222
@@ -3685,14 +3691,164 @@ https://cdn6.132.us.kg/live/ch8/stream.m3u8
 
 
 
+
+#EXTINF:-1 group-title="港澳台",翡翠台4K
+http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港澳台",鳳凰中文
+http://cdn.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",RTHK33
+http://cdn.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVB PLUS
+http://cdn.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="港澳台",HOY77
+http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳台",HOY77
+http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳台",VIUTV
+http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#EXTINF:-1 group-title="港澳台",NOW新聞
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 group-title="港澳台",RTHK31
+http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="港澳台",RTHK32
+http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="港澳台",澳視澳門
+http://cdn.veryfast.filegear-sg.me/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港澳台",澳視衛星
+http://cdn.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1 group-title="港澳台",重溫經典
+http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+#EXTINF:-1 group-title="港澳台",鳳凰資訊
+http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港澳台",鳳凰香港
+http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVB1
+http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVBJ1
+http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠劇集台
+http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+#EXTINF:-1 group-title="港澳台",明珠台
+http://cdn.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+#EXTINF:-1 group-title="港澳台",無線新聞
+http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",廣東珠江
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="港澳台",廣東體育
+http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="港澳台",八度空間
+http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CH5
+http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CH8
+http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CHU
+http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華電影
+http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華經典
+http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華卡通
+http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華偶像
+http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華日韓
+http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華戲劇
+http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="港澳台",龍華洋片
+http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 group-title="港澳台",華麗翡翠
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳台",明珠台,
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳台",無線新聞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳台",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 group-title="港澳台",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳台",娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="港澳台",VIUTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳台",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳台",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 group-title="港澳台",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 group-title="港澳台",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳台",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳台",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳台",美亞電影
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="港澳台",天映馬來西亞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="港澳台",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港澳台",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳台",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 group-title="港澳台",Astro 愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 group-title="港澳台",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 group-title="港澳台",Astro 歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 group-title="港澳台",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 group-title="港澳台",華麗翡翠
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVB亞洲武俠
+http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1 group-title="港澳台",娛樂新聞台
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",無線新聞
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",明珠台
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台4K
+http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",歡笑劇場4K
+http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV2
+http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV4
+http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV9
+http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
+#EXTINF:-1 group-title="港澳台",華語影院
+http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
+#EXTINF:-1 group-title="港澳台",星光影院
+http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
+
+
+
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊台*
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文台*
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png",鳳凰香港台*
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-
-
 
 
 #EXTINF:-1 group-title="港澳台",無線功夫(tl)
