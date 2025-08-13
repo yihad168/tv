@@ -1,144 +1,144 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://vn.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://vn.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://vn.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://vn.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://vn.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://vn.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://vn.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-https://vn.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-https://vn.utako.moe/Tokyo_MX2/index.m3u8
 
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+https://mt01.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
+https://mt01.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
+https://mt01.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://vn.utako.moe/mbs/index.m3u8
+https://mt01.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://vn.utako.moe/abc/index.m3u8
+https://mt01.utako.moe/abc/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-https://vn.utako.moe/tvo/index.m3u8
+https://mt01.utako.moe/tvo/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
-https://vn.utako.moe/kansaitv/index.m3u8
+https://mt01.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://vn.utako.moe/ytv/index.m3u8
+https://mt01.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-https://vn.utako.moe/kbs/index.m3u8
+https://mt01.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://vn.utako.moe/suntv/index.m3u8
+https://mt01.utako.moe/suntv/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://vn.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://vn.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10
-https://vn.utako.moe/bs10/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://vn.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
-https://vn.utako.moe/bs12/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://vn.utako.moe/bsp4k/index.m3u8
+https://mt01.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://vn.utako.moe/bsntv/index.m3u8
+https://mt01.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://vn.utako.moe/bsasahi/index.m3u8
+https://mt01.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-https://vn.utako.moe/bstbs/index.m3u8
+https://mt01.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-https://vn.utako.moe/bstvtokyo/index.m3u8
+https://mt01.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-https://vn.utako.moe/bsfuji/index.m3u8
+https://mt01.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10
+https://mt01.utako.moe/bs10/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+https://mt01.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
+https://mt01.utako.moe/bs12/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
+https://mt01.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg",BS TV Tokyo 4K (test)
-https://vn.utako.moe/bstx4k/index.m3u8
+https://mt01.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://vn.utako.moe/wprime/index.m3u8
+https://mt01.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://vn.utako.moe/wcinema/index.m3u8
+https://mt01.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://vn.utako.moe/wlive/index.m3u8
+https://mt01.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-https://vn.utako.moe/bs10_star/index.m3u8
+https://mt01.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://vn.utako.moe/js1/index.m3u8
+https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://vn.utako.moe/js2/index.m3u8
+https://mt01.utako.moe/js2/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://vn.utako.moe/js3/index.m3u8
+https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://vn.utako.moe/js4/index.m3u8
+https://mt01.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
-https://vn.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
-https://vn.utako.moe/gaora/index.m3u8
+https://mt01.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+https://mt02.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
+https://mt02.utako.moe/nihon_eiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://vn.utako.moe/skya/index.m3u8
+https://mt02.utako.moe/skya/index.m3u8
 
-#EXTINF:-1 group-title="CS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://vn.utako.moe/nihon_eiga/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://vn.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://vn.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://vn.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
+https://mt01.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://vn.utako.moe/AT-X/index.m3u8
+https://mt01.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
+https://mt02.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
+https://mt02.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
+https://mt02.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
-https://vn.utako.moe/disneychan/index.m3u8
+https://mt02.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
-https://vn.utako.moe/cartoon_network/index.m3u8
+https://mt02.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://vn.utako.moe/ntvgplus/index.m3u8
+https://mt02.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
-https://vn.utako.moe/familygeki/index.m3u8
+https://mt02.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
-https://vn.utako.moe/mondo/index.m3u8
+https://mt02.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://vn.utako.moe/tbsch1/index.m3u8
+https://mt02.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://vn.utako.moe/tbsch2/index.m3u8
+https://mt02.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
-https://vn.utako.moe/ex_ch1/index.m3u8
+https://mt02.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://vn.utako.moe/ex_ch2/index.m3u8
+https://mt02.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://vn.utako.moe/fuji_one/index.m3u8
+https://mt02.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://vn.utako.moe/fuji_two/index.m3u8
+https://mt02.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://vn.utako.moe/fuji_next/index.m3u8
+https://mt02.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
-https://vn.utako.moe/neco/index.m3u8
+https://mt02.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
-https://vn.utako.moe/dlife/index.m3u8
+https://mt02.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://vn.utako.moe/toei/index.m3u8
+https://mt02.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
-https://vn.utako.moe/fighting_tv/index.m3u8
+https://mt02.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
-https://vn.utako.moe/entermei_tele/index.m3u8
+https://mt02.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://vn.utako.moe/sport_live_plus/index.m3u8
+https://mt02.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://vn.utako.moe/homedrama/index.m3u8
+https://mt02.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://vn.utako.moe/gingach/index.m3u8
+https://mt02.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
-https://vn.utako.moe/tabi/index.m3u8
+https://mt02.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://vn.utako.moe/pigoo/index.m3u8
+https://mt02.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://vn.utako.moe/v_paradise/index.m3u8
+https://mt02.utako.moe/v_paradise/index.m3u8
+
+
 
 
 ################################################
@@ -773,8 +773,195 @@ http://j.s.bkpcp.top/js/wlty
 
 
 
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://bxtv.3a.ink/logo/MYTVSUPER18.png" group-title="測試頻道",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://bxtv.3a.ink/logo/TVBPLUS.png" group-title="測試頻道",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="測試頻道",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://bxtv.3a.ink/logo/無線新聞.png" group-title="測試頻道",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亞電影.png" group-title="測試頻道",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://bxtv.3a.ink/logo/POPC.png" group-title="測試頻道",PopC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="http://bxtv.3a.ink/logo/VIUTV.png", group-title="測試頻道"VIUTV
+http://bxtv.3a.ink/api.php?id=viutv
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="http://bxtv.3a.ink/logo/千禧經典.png" group-title="測試頻道", group-title="測試頻道"千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="測試頻道",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://bxtv.3a.ink/logo/鳳凰中文.png" group-title="測試頻道",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://bxtv.3a.ink/logo/鳳凰資訊.png" group-title="測試頻道",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視香港" tvg-logo="http://bxtv.3a.ink/logo/鳳凰香港.png" group-title="測試頻道",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-name="NOW新聞" tvg-logo="http://bxtv.3a.ink/logo/NOW新聞.png" group-title="測試頻道",NOW新聞
+http://bxtv.3a.ink/api.php?id=now
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://bxtv.3a.ink/logo/廣東體育.png" group-title="測試頻道",廣東體育
+http://bxtv.3a.ink/api.php?id=gdty
+#EXTINF:-1 tvg-name="廣東珠江" tvg-logo="http://bxtv.3a.ink/logo/廣東珠江.png" group-title="測試頻道",廣東珠江
+http://bxtv.3a.ink/api.php?id=gdzj
+
+
+
 
 ################################################
+https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u
+
+
+#EXTM3U url-tvg="http://cdn.1678520.xyz/xml"
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
+http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
+http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" group-title="mytv",鳳凰中文
+http://cdn.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
+http://cdn.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
+http://cdn.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
+http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#EXTINF:-1 tvg-name="NOW新聞" group-title="mytv",NOW新聞台
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+#EXTINF:-1 tvg-name="澳視澳門" group-title="mytv",澳視澳門
+http://cdn.veryfast.filegear-sg.me/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳視衛星" group-title="mytv",澳視衛星
+http://cdn.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="重溫經典" group-title="mytv",重溫經典
+http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" group-title="mytv",鳳凰資訊
+http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" group-title="mytv",鳳凰香港
+http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
+http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
+http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠劇集台" group-title="mytv",翡翠劇集台
+http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://cdn.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
+http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="廣東珠江" group-title="mytv",廣東珠江
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="廣東體育" group-title="mytv",廣東體育
+http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="八度空間" group-title="mytv",八度空間
+http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="CH5" group-title="mytv",CH5
+http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-name="CH8" group-title="mytv",CH8
+http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-name="CHU" group-title="mytv",CHU
+http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="龍華電影" group-title="mytv",龍華電影
+http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龍華經典" group-title="mytv",龍華經典
+http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龍華卡通" group-title="mytv",龍華卡通
+http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-name="龍華偶像" group-title="mytv",龍華偶像
+http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龍華日韓" group-title="mytv",龍華日韓
+http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="mytv",龍華戲劇
+http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="龍華洋片" group-title="mytv",龍華洋片
+http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 tvg-name="華麗翡翠" group-title="mytv",華麗翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="鳳凰中文" group-title="mytv",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="鳳凰資訊" group-title="mytv",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="鳳凰香港" group-title="mytv",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="美亞電影" group-title="mytv",美亞電影台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映馬來西亞" group-title="mytv",天映頻道
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映經典" group-title="mytv",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="愛奇藝" group-title="mytv",愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro歡喜台" group-title="mytv",Astro歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空間" group-title="mytv",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="華麗翡翠" group-title="mytv",華麗翡翠台
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 tvg-name="TVB亞洲武俠" group-title="mytv",TVB亞洲武俠
+http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娛樂新聞台
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台測試
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台測試
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K測試
+http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
+#EXTINF:-1 tvg-name="歡笑劇場" group-title="mytv",歡笑劇場4K
+http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
+http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
+http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
+http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
+#EXTINF:-1 tvg-name="華語影院" group-title="mytv",華語影院
+http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
+#EXTINF:-1 tvg-name="星光影院" group-title="mytv",星光影院
+http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
+
 
 
 
@@ -8742,14 +8929,13 @@ http://bo.xn--3oq579l.com/live/cx_15199.flv
 #EXTINF:-1 group-title="私密頻道",cx_15202
 http://bo.xn--3oq579l.com/live/cx_15202.flv
 
-
 #EXTINF:-1 group-title="私密頻道",Кино 18+ International
 https://v2.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1 group-title="私密頻道" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://vn.utako.moe/pigoo/index.m3u8
+https://mt02.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="私密頻道" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://vn.utako.moe/v_paradise/index.m3u8
+https://mt02.utako.moe/v_paradise/index.m3u8
 
 
 
@@ -8931,6 +9117,577 @@ http://kenneth001.serv00.net/hochu.php?id=kino-18
 
 
 
+################################################
+
+
+
+
+#EXTINF:-1 group-title="私密俄羅斯",Japan HDV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6225/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",21 Sextury
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6164/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",A3 Bikini
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6165/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Adult Time
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6166/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 1 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12105/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 1
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12106/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 2 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12107/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12108/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 3
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12109/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 4
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12110/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Alba 5
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12111/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Anal Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6167/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Analized HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6168/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",AST TV 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6170/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",AST TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6169/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Babes TV HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6172/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BAG U
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12170/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Balkan Erotic
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6270/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Bang Bros HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6173/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Bang U
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12114/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Bang!
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6174/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BANGBROS UHD 4K
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12181/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Bangerz
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6271/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Barely legal
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/871/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Beate UHSE TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12127/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Big Ass Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6175/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Big Dick Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6176/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Big Tits Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6177/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Blacked HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6178/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BLACKED TV ELITE
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12191/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BLACKED TV PREMIUM
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12190/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Blonde Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6179/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Blowjob Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6180/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Blue Hustler
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/1064/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Brazzers eXXtra
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6181/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Brazzers HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6182/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Brazzers TV Europe
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/910/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BRAZZERS TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12113/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Brunette Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6183/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BTV Erotik 1 (18+) HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14095/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BTV Erotik 2 (18+) HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14096/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BTV Erotik 3 (18+) HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14097/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BTV Киска (+18)
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14003/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BTV Шелк тв HD (+18)
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14027/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",BTV Японские sex game
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/15077/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Candy
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/923/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",cento x cento
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6184/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Cherry Pimps
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6185/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Club 17
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6186/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Compilation Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6187/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Cuckold Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6188/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Cum Louder
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6189/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Cum4k
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6190/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Day with a Pornstar
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6192/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DDF Busty
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6193/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DDF Network
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6194/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DESTINY TV HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12179/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Digital Desire HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6195/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Digital Playground HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6196/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DIRTY HOBBY
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12183/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Dorcel Club
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6197/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Dorcel HD orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9064/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DORCEL TV FHD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12131/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Dorcel TV HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/245/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DORCEL XXX TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12132/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",DUSK TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12129/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Dusk
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6198/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Emanuelle HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6272/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",EROCOM TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12128/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6290/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic 3
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6291/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic 4
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6292/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic 6
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6293/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic 7
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6294/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic 8
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6295/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erotic
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6289/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Erox HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6296/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Eroxxx HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5015/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Evil Angel HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6199/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Evolved Fights
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6200/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",EXTACY 4K
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12182/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Extasy 4K
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5014/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",EXTASY HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11051/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Extasy HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6201/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Extreme
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6273/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",EXXXOTICA HD orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9346/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Exxxotica HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2397/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fake Taxi HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6202/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6203/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV 3
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6204/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV Anal
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6206/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV BBW
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6207/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV Compilation
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6208/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV Lesbian
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6209/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV Parody
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6210/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fap TV Teens
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6211/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FAST BOYZ GAY
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12205/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fast Boyz
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6274/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FemJoy
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6212/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Fetish Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6213/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 10 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12203/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 2 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12195/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 3 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12196/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 4 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12197/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 5 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12198/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 6 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12199/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 7 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12200/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 8 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12201/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 9 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12202/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FREE X TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12134/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",French Lover
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12124/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",FrenchLover
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2160/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Gangbang Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6214/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",GANGBANG CREAMPIE
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12184/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Gay Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6215/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",GAY PREMIUM
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12204/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",GLORYHOLE LOVE FHD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12192/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Got MYLF
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6216/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hands on Hardcore
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6217/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hard X
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6218/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hardcore Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6219/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hitzefrei HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6220/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Holed
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6221/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hot and Mean
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6222/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hot Guys Fuck
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6223/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hot Pleasure
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6277/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",HOT XXL HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6276/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",HOT
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6275/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",HOTWIFE PREMIUM
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12187/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hustler HD Europe
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/244/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Hustler HD orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9065/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Interracial Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6224/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Kaloopy hd tv
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/16018/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",KinoXXX,
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11052/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Latina Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6226/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",LATINA TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12172/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",LEO TV FHD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12123/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Lesbea
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6227/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Lesbian Affair
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6278/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Lesbian Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6228/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Lethal Hardcore
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6229/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Little Asians HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6230/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Live Cams Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6231/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Lust Cinema
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6232/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",MAD SEX PARTY
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12194/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Meiden Van Holland
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12125/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",MetArt HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6233/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",MILF Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6234/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",MILF TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12173/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Monsters of Cock
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6235/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",MvH Hard,
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6297/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",MYLF TV HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6236/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Naughty America
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6237/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Nubiles TV HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6238/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",O-La-La orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9068/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",O-la-la
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2161/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Oldtimer
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6279/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",ox-ax HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6239/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PASSIE TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12136/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Passion XXX orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9067/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PASSION XXX
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12120/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Passion XXX
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/878/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Penthouse Gold HD
+,http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5011/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Penthouse Passion HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/1073/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Penthouse Quickies 1300k
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5012/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Penthouse Quickies HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5013/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Pink Erotic 3
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6240/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Pink Erotic 4
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6241/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 1
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12146/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12147/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 3
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12148/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 4
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12149/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 5
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12150/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 6
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12151/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 7
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12152/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 8
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12153/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Playboy LA
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6280/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Playboy Plus
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6242/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PLAYBOY TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12135/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Playboy
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/527/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Pornstar Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6243/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PORNSTAR TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12174/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",POV Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6244/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",POV TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12175/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Private HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6245/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Private TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/243/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Public Agent
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6246/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",PURE BABES
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12112/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Reality Kings HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6247/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Red XXX
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6281/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Redlight HD orig,
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9066/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Redlight HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/242/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",RK Prime
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6248/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",RK TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6249/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",ROCCO TV 7/24
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12189/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Rough Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6250/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",ROUGH TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12176/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Russian Adult TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6251/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",RUSSIAN TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12177/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SELECT XXX VINTAGE
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12186/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SELECT XXX
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12185/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Sex With Muslims
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6252/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SexArt
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6253/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",sext 6 senso
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6254/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Sexto Senso
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/875/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Sexy Hot
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6282/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Shalun TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12126/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SINematica
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6255/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SKY HIGH ADULT HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/15166/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL EROTIC HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12160/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 1 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12161/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 2 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12162/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 3 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12163/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 4 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12164/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 5 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12165/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 6 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12166/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 7 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12167/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 8 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12168/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SL HOT 9 HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12169/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Super one HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12121/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SuperONE HD RO
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/7001/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",SuperOne HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6298/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Taboo
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6283/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Teen Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6256/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TEEN TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12178/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Threesome Red TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6257/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",THREESOME TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12180/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Tiny4K
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6258/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Trans Angels
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6259/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TRANS PREMIUM
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12193/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",True Amateurs
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6260/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TURK AMATOTLER
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12159/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 1
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12155/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12156/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 3
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12157/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 4
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12158/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12154/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Tushy HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6261/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TUSHY TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12188/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",TushyRAW
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6262/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Venus HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12133/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Venus
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6284/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN 4K 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12138/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN 4K
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12137/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN ANAL
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12143/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN BIG TITS
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12145/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN FEET
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12144/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN GROUP SEX 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12142/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN GROUP SEX
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12141/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN TEENS 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12140/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VERAPORN TEENS
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12139/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",VF Cartoon 18+
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11117/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Visit-X TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6263/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Vivid Red HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2162/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Vivid TV Europe
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6264/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Vixen HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6265/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",We Live Together
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6266/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",White Boxxx
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6267/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Wicked
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6268/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",X Plus Milf HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12130/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",X1 TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12122/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",X-MO
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6285/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Xpanded TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6269/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XXL orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9345/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XXL
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5009/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XXX Love's Berry HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14140/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XXXINTERRACIAL TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12171/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Max HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6286/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Mix HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6287/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Plus 1
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12115/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Plus 12
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12118/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Plus 2
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12116/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Plus 24
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12119/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Plus 6
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12117/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",XY Plus HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6288/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",YOSSO TV SEXY
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14176/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Ню Арт HD orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9071/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Ню Арт HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6307/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Нюарт TV
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2057/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",ОХ-АХ HD
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11068/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Русская ночь orig
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9344/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Русская Ночь
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/147/index.m3u8
+#EXTINF:-1 group-title="私密俄羅斯",Шалун
+http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/922/index.m3u8
 
 
 
@@ -11213,575 +11970,4 @@ https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22366
 https://live.teetotaler.fans:443/donkey2025/MzW9TeWVJH/22367
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="私密頻道",Japan HDV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6225/index.m3u8
-#EXTINF:-1 group-title="私密頻道",21 Sextury
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6164/index.m3u8
-#EXTINF:-1 group-title="私密頻道",A3 Bikini
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6165/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Adult Time
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6166/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 1 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12105/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 1
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12106/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 2 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12107/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12108/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 3
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12109/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 4
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12110/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Alba 5
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12111/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Anal Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6167/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Analized HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6168/index.m3u8
-#EXTINF:-1 group-title="私密頻道",AST TV 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6170/index.m3u8
-#EXTINF:-1 group-title="私密頻道",AST TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6169/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Babes TV HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6172/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BAG U
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12170/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Balkan Erotic
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6270/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Bang Bros HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6173/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Bang U
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12114/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Bang!
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6174/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BANGBROS UHD 4K
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12181/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Bangerz
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6271/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Barely legal
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/871/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Beate UHSE TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12127/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Big Ass Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6175/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Big Dick Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6176/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Big Tits Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6177/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Blacked HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6178/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BLACKED TV ELITE
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12191/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BLACKED TV PREMIUM
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12190/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Blonde Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6179/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Blowjob Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6180/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Blue Hustler
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/1064/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Brazzers eXXtra
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6181/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Brazzers HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6182/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Brazzers TV Europe
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/910/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BRAZZERS TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12113/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Brunette Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6183/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BTV Erotik 1 (18+) HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14095/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BTV Erotik 2 (18+) HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14096/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BTV Erotik 3 (18+) HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14097/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BTV Киска (+18)
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14003/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BTV Шелк тв HD (+18)
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14027/index.m3u8
-#EXTINF:-1 group-title="私密頻道",BTV Японские sex game
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/15077/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Candy
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/923/index.m3u8
-#EXTINF:-1 group-title="私密頻道",cento x cento
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6184/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Cherry Pimps
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6185/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Club 17
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6186/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Compilation Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6187/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Cuckold Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6188/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Cum Louder
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6189/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Cum4k
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6190/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Day with a Pornstar
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6192/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DDF Busty
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6193/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DDF Network
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6194/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DESTINY TV HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12179/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Digital Desire HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6195/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Digital Playground HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6196/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DIRTY HOBBY
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12183/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Dorcel Club
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6197/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Dorcel HD orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9064/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DORCEL TV FHD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12131/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Dorcel TV HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/245/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DORCEL XXX TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12132/index.m3u8
-#EXTINF:-1 group-title="私密頻道",DUSK TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12129/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Dusk
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6198/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Emanuelle HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6272/index.m3u8
-#EXTINF:-1 group-title="私密頻道",EROCOM TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12128/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6290/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic 3
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6291/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic 4
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6292/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic 6
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6293/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic 7
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6294/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic 8
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6295/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erotic
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6289/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Erox HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6296/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Eroxxx HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5015/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Evil Angel HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6199/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Evolved Fights
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6200/index.m3u8
-#EXTINF:-1 group-title="私密頻道",EXTACY 4K
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12182/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Extasy 4K
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5014/index.m3u8
-#EXTINF:-1 group-title="私密頻道",EXTASY HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11051/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Extasy HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6201/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Extreme
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6273/index.m3u8
-#EXTINF:-1 group-title="私密頻道",EXXXOTICA HD orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9346/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Exxxotica HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2397/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fake Taxi HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6202/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6203/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV 3
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6204/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV Anal
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6206/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV BBW
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6207/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV Compilation
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6208/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV Lesbian
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6209/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV Parody
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6210/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fap TV Teens
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6211/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FAST BOYZ GAY
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12205/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fast Boyz
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6274/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FemJoy
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6212/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Fetish Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6213/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 10 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12203/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 2 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12195/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 3 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12196/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 4 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12197/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 5 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12198/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 6 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12199/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 7 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12200/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 8 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12201/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FILMAX ADULT 9 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12202/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FREE X TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12134/index.m3u8
-#EXTINF:-1 group-title="私密頻道",French Lover
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12124/index.m3u8
-#EXTINF:-1 group-title="私密頻道",FrenchLover
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2160/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Gangbang Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6214/index.m3u8
-#EXTINF:-1 group-title="私密頻道",GANGBANG CREAMPIE
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12184/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Gay Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6215/index.m3u8
-#EXTINF:-1 group-title="私密頻道",GAY PREMIUM
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12204/index.m3u8
-#EXTINF:-1 group-title="私密頻道",GLORYHOLE LOVE FHD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12192/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Got MYLF
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6216/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hands on Hardcore
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6217/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hard X
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6218/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hardcore Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6219/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hitzefrei HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6220/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Holed
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6221/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hot and Mean
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6222/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hot Guys Fuck
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6223/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hot Pleasure
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6277/index.m3u8
-#EXTINF:-1 group-title="私密頻道",HOT XXL HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6276/index.m3u8
-#EXTINF:-1 group-title="私密頻道",HOT
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6275/index.m3u8
-#EXTINF:-1 group-title="私密頻道",HOTWIFE PREMIUM
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12187/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hustler HD Europe
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/244/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Hustler HD orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9065/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Interracial Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6224/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Kaloopy hd tv
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/16018/index.m3u8
-#EXTINF:-1 group-title="私密頻道",KinoXXX,
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11052/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Latina Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6226/index.m3u8
-#EXTINF:-1 group-title="私密頻道",LATINA TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12172/index.m3u8
-#EXTINF:-1 group-title="私密頻道",LEO TV FHD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12123/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Lesbea
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6227/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Lesbian Affair
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6278/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Lesbian Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6228/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Lethal Hardcore
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6229/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Little Asians HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6230/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Live Cams Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6231/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Lust Cinema
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6232/index.m3u8
-#EXTINF:-1 group-title="私密頻道",MAD SEX PARTY
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12194/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Meiden Van Holland
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12125/index.m3u8
-#EXTINF:-1 group-title="私密頻道",MetArt HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6233/index.m3u8
-#EXTINF:-1 group-title="私密頻道",MILF Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6234/index.m3u8
-#EXTINF:-1 group-title="私密頻道",MILF TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12173/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Monsters of Cock
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6235/index.m3u8
-#EXTINF:-1 group-title="私密頻道",MvH Hard,
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6297/index.m3u8
-#EXTINF:-1 group-title="私密頻道",MYLF TV HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6236/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Naughty America
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6237/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Nubiles TV HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6238/index.m3u8
-#EXTINF:-1 group-title="私密頻道",O-La-La orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9068/index.m3u8
-#EXTINF:-1 group-title="私密頻道",O-la-la
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2161/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Oldtimer
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6279/index.m3u8
-#EXTINF:-1 group-title="私密頻道",ox-ax HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6239/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PASSIE TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12136/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Passion XXX orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9067/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PASSION XXX
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12120/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Passion XXX
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/878/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Penthouse Gold HD
-,http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5011/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Penthouse Passion HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/1073/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Penthouse Quickies 1300k
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5012/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Penthouse Quickies HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5013/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Pink Erotic 3
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6240/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Pink Erotic 4
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6241/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 1
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12146/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12147/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 3
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12148/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 4
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12149/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 5
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12150/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 6
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12151/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 7
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12152/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PINK EROTICA 8
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12153/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Playboy LA
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6280/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Playboy Plus
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6242/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PLAYBOY TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12135/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Playboy
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/527/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Pornstar Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6243/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PORNSTAR TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12174/index.m3u8
-#EXTINF:-1 group-title="私密頻道",POV Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6244/index.m3u8
-#EXTINF:-1 group-title="私密頻道",POV TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12175/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Private HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6245/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Private TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/243/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Public Agent
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6246/index.m3u8
-#EXTINF:-1 group-title="私密頻道",PURE BABES
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12112/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Reality Kings HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6247/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Red XXX
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6281/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Redlight HD orig,
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9066/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Redlight HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/242/index.m3u8
-#EXTINF:-1 group-title="私密頻道",RK Prime
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6248/index.m3u8
-#EXTINF:-1 group-title="私密頻道",RK TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6249/index.m3u8
-#EXTINF:-1 group-title="私密頻道",ROCCO TV 7/24
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12189/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Rough Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6250/index.m3u8
-#EXTINF:-1 group-title="私密頻道",ROUGH TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12176/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Russian Adult TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6251/index.m3u8
-#EXTINF:-1 group-title="私密頻道",RUSSIAN TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12177/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SELECT XXX VINTAGE
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12186/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SELECT XXX
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12185/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Sex With Muslims
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6252/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SexArt
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6253/index.m3u8
-#EXTINF:-1 group-title="私密頻道",sext 6 senso
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6254/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Sexto Senso
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/875/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Sexy Hot
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6282/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Shalun TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12126/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SINematica
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6255/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SKY HIGH ADULT HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/15166/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL EROTIC HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12160/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 1 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12161/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 2 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12162/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 3 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12163/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 4 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12164/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 5 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12165/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 6 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12166/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 7 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12167/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 8 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12168/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SL HOT 9 HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12169/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Super one HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12121/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SuperONE HD RO
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/7001/index.m3u8
-#EXTINF:-1 group-title="私密頻道",SuperOne HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6298/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Taboo
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6283/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Teen Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6256/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TEEN TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12178/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Threesome Red TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6257/index.m3u8
-#EXTINF:-1 group-title="私密頻道",THREESOME TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12180/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Tiny4K
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6258/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Trans Angels
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6259/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TRANS PREMIUM
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12193/index.m3u8
-#EXTINF:-1 group-title="私密頻道",True Amateurs
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6260/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TURK AMATOTLER
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12159/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TURKCE ALTAZILI YENI 1
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12155/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TURKCE ALTAZILI YENI 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12156/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TURKCE ALTAZILI YENI 3
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12157/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TURKCE ALTAZILI YENI 4
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12158/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TURKCE ALTAZILI YENI
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12154/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Tushy HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6261/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TUSHY TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12188/index.m3u8
-#EXTINF:-1 group-title="私密頻道",TushyRAW
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6262/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Venus HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12133/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Venus
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6284/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN 4K 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12138/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN 4K
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12137/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN ANAL
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12143/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN BIG TITS
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12145/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN FEET
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12144/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN GROUP SEX 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12142/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN GROUP SEX
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12141/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN TEENS 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12140/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VERAPORN TEENS
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12139/index.m3u8
-#EXTINF:-1 group-title="私密頻道",VF Cartoon 18+
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11117/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Visit-X TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6263/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Vivid Red HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2162/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Vivid TV Europe
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6264/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Vixen HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6265/index.m3u8
-#EXTINF:-1 group-title="私密頻道",We Live Together
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6266/index.m3u8
-#EXTINF:-1 group-title="私密頻道",White Boxxx
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6267/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Wicked
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6268/index.m3u8
-#EXTINF:-1 group-title="私密頻道",X Plus Milf HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12130/index.m3u8
-#EXTINF:-1 group-title="私密頻道",X1 TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12122/index.m3u8
-#EXTINF:-1 group-title="私密頻道",X-MO
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6285/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Xpanded TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6269/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XXL orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9345/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XXL
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/5009/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XXX Love's Berry HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14140/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XXXINTERRACIAL TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12171/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Max HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6286/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Mix HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6287/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Plus 1
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12115/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Plus 12
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12118/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Plus 2
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12116/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Plus 24
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12119/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Plus 6
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/12117/index.m3u8
-#EXTINF:-1 group-title="私密頻道",XY Plus HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6288/index.m3u8
-#EXTINF:-1 group-title="私密頻道",YOSSO TV SEXY
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/14176/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Ню Арт HD orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9071/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Ню Арт HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/6307/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Нюарт TV
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/2057/index.m3u8
-#EXTINF:-1 group-title="私密頻道",ОХ-АХ HD
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/11068/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Русская ночь orig
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/9344/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Русская Ночь
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/147/index.m3u8
-#EXTINF:-1 group-title="私密頻道",Шалун
-http://chencai80088.ottclub.xyz/iptv/AXHH3VQMKD3N6PY95T2VTL8E/922/index.m3u8
 
