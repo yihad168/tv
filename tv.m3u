@@ -148,674 +148,1186 @@ https://github.com/quninainaixi/quninainaixi/blob/main/mytv.txt
 
 
 
-#EXTINF:-1 group-title="Malaysia & Astro",ABC AUSTRALIA FHD
+
+#EXTINF:-1 tvg-id="" tvg-name="##### MY - MALAYSIA #####" tvg-logo="https://go4.pw/MAGFLAGS/MALAYSIA.png" group-title="AS | MALAYSIA",##### MY - MALAYSIA #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69241
+#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA FHD" tvg-logo="https://go4.pw/ASIA/Australia.png" group-title="AS | MALAYSIA",MY - ABC AUSTRALIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052364
-#EXTINF:-1 group-title="Malaysia & Astro",ABC AUSTRALIA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA HEVC" tvg-logo="https://go4.pw/ASIA/Australia.png" group-title="AS | MALAYSIA",MY - ABC AUSTRALIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052363
-#EXTINF:-1 group-title="Malaysia & Astro",ABC AUSTRALIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA HD" tvg-logo="https://go4.pw/ASIA/Australia.png" group-title="AS | MALAYSIA",MY - ABC AUSTRALIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052365
-#EXTINF:-1 group-title="Malaysia & Astro",AL-HIJRAH FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ABC AUSTRALIA SD" tvg-logo="https://go4.pw/ASIA/Australia.png" group-title="AS | MALAYSIA",MY - ABC AUSTRALIA SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260537
+#EXTINF:-1 tvg-id="tvalhijrah.my" tvg-name="MY - AL-HIJRAH FHD" tvg-logo="https://go4.pw/ASIA/Hijrah.png" group-title="AS | MALAYSIA",MY - AL-HIJRAH FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052368
-#EXTINF:-1 group-title="Malaysia & Astro",AL-HIJRAH HD
+#EXTINF:-1 tvg-id="tvalhijrah.my" tvg-name="MY - AL-HIJRAH HD" tvg-logo="https://go4.pw/ASIA/Hijrah.png" group-title="AS | MALAYSIA",MY - AL-HIJRAH HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052369
-#EXTINF:-1 group-title="Malaysia & Astro",ANIMAL PLANET FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052370
-#EXTINF:-1 group-title="Malaysia & Astro",ANIMAL PLANET HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/957701
-#EXTINF:-1 group-title="Malaysia & Astro",ASIAN FOOD NETWORK FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASIAN FOOD NETWORK FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="AS | MALAYSIA",MY - ASIAN FOOD NETWORK FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052371
-#EXTINF:-1 group-title="Malaysia & Astro",ASIAN FOOD NETWORK HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASIAN FOOD NETWORK HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="AS | MALAYSIA",MY - ASIAN FOOD NETWORK HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957702
-#EXTINF:-1 group-title="Malaysia & Astro",ASIAN FOOD NETWORK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASIAN FOOD NETWORK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="AS | MALAYSIA",MY - ASIAN FOOD NETWORK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957699
-#EXTINF:-1 group-title="Malaysia & Astro",AXN FHD
+#EXTINF:-1 tvg-id="axn.my" tvg-name="MY - AXN FHD" tvg-logo="https://go4.pw/EUROPE/SPAIN/AXN.png" group-title="AS | MALAYSIA",MY - AXN FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052415
-#EXTINF:-1 group-title="Malaysia & Astro",AXN HEVC
+#EXTINF:-1 tvg-id="axn.my" tvg-name="MY - AXN HEVC" tvg-logo="https://go4.pw/EUROPE/SPAIN/AXN.png" group-title="AS | MALAYSIA",MY - AXN HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052414
-#EXTINF:-1 group-title="Malaysia & Astro",AXN HD
+#EXTINF:-1 tvg-id="axn.my" tvg-name="MY - AXN HD" tvg-logo="https://go4.pw/germany/axnw.png" group-title="AS | MALAYSIA",MY - AXN HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052416
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO SUPERSPORT 1 HD
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY - ASTRO SUPERSPORT 1 HD" tvg-logo=" https://go4.pw/ASIA/su1su2.png" group-title="AS | MALAYSIA",MY - ASTRO SUPERSPORT 1 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/955661
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO SUPERSPORT 2 HD
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY - ASTRO SUPERSPORT 2 HD" tvg-logo=" https://go4.pw/ASIA/su2su.png" group-title="AS | MALAYSIA",MY - ASTRO SUPERSPORT 2 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/955663
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO SUPERSPORT 4 HD
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY - ASTRO SUPERSPORT 4 HD" tvg-logo=" https://go4.pw/ASIA/su4.png" group-title="AS | MALAYSIA",MY - ASTRO SUPERSPORT 4 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/955665
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA FHD
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY - ASTRO ARENA FHD" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052375
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA HEVC
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY - ASTRO ARENA HEVC" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052372
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA HD
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY - ASTRO ARENA HD" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052376
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA 2 FHD
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY - ASTRO ARENA 2 FHD" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA 2 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052373
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA 2 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA 2 HEVC" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA 2 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957703
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA 2 HD
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY - ASTRO ARENA 2 HD" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA 2 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052374
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA BOLA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA BOLA 1 FHD" tvg-logo="https://go4.pw/ASIA/bola.png" group-title="AS | MALAYSIA",MY - ASTRO ARENA BOLA 1 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1131941
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO ARENA BOLA 2 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1131942
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO AURA FHD
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY - ASTRO AURA FHD" tvg-logo="https://go4.pw/ASIA/AURA.png" group-title="AS | MALAYSIA",MY - ASTRO AURA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052379
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO AURA HEVC
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY - ASTRO AURA HEVC" tvg-logo="https://go4.pw/ASIA/AURA.png" group-title="AS | MALAYSIA",MY - ASTRO AURA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052377
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO AURA HD
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY - ASTRO AURA HD" tvg-logo="https://go4.pw/ASIA/AURA.png" group-title="AS | MALAYSIA",MY - ASTRO AURA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052380
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO AWANI FHD
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY - ASTRO AWANI FHD" tvg-logo="https://go4.pw/ASIA/Awani.png" group-title="AS | MALAYSIA",MY - ASTRO AWANI FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052382
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO AWANI HD
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY - ASTRO AWANI HEVC" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="AS | MALAYSIA",MY - ASTRO AWANI HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/408665
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY - ASTRO AWANI HD" tvg-logo="https://go4.pw/ASIA/Awani.png" group-title="AS | MALAYSIA",MY - ASTRO AWANI HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052381
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BOO FHD
+#EXTINF:-1 tvg-id="BOO HD" tvg-name="MY - ASTRO BOO FHD" tvg-logo="https://go4.pw/ASIA/boo1.png" group-title="AS | MALAYSIA",MY - ASTRO BOO FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052385
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BOO HEVC
+#EXTINF:-1 tvg-id="BOO HD" tvg-name="MY - ASTRO BOO HEVC" tvg-logo="https://go4.pw/ASIA/boo1.png" group-title="AS | MALAYSIA",MY - ASTRO BOO HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052384
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BOO HD
+#EXTINF:-1 tvg-id="BOO HD" tvg-name="MY - ASTRO BOO HD" tvg-logo="https://go4.pw/ASIA/boo1.png" group-title="AS | MALAYSIA",MY - ASTRO BOO HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052387
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CERIA FHD
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY - ASTRO CERIA FHD" tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="AS | MALAYSIA",MY - ASTRO CERIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052389
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CERIA HEVC
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY - ASTRO CERIA HEVC" tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="AS | MALAYSIA",MY - ASTRO CERIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052388
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CERIA HD
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY - ASTRO CERIA HD" tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="AS | MALAYSIA",MY - ASTRO CERIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052390
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CRICKET FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052393
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CRICKET HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052392
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CRICKET HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052394
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO HUA HEE DAI FHD
+#EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-name="MY - ASTRO HUA HEE DAI FHD" tvg-logo="https://go4.pw/ASIA/Dai.png" group-title="AS | MALAYSIA",MY - ASTRO HUA HEE DAI FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052396
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO HUA HEE DAI HEVC
+#EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-name="MY - ASTRO HUA HEE DAI HEVC" tvg-logo="https://go4.pw/ASIA/Dai.png" group-title="AS | MALAYSIA",MY - ASTRO HUA HEE DAI HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052395
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO HUA HEE DAI HD
+#EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-name="MY - ASTRO HUA HEE DAI HD" tvg-logo="https://go4.pw/ASIA/Dai.png" group-title="AS | MALAYSIA",MY - ASTRO HUA HEE DAI HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052397
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO OASIS FHD
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY - ASTRO OASIS FHD" tvg-logo="https://go4.pw/ASIA/Oasis.png" group-title="AS | MALAYSIA",MY - ASTRO OASIS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052399
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO OASIS HEVC
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY - ASTRO OASIS HEVC" tvg-logo="https://go4.pw/ASIA/Oasis.png" group-title="AS | MALAYSIA",MY - ASTRO OASIS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052398
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO OASIS HD
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY - ASTRO OASIS HD" tvg-logo="https://go4.pw/ASIA/Oasis.png" group-title="AS | MALAYSIA",MY - ASTRO OASIS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052400
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO RANIA FHD
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="MY - ASTRO RANIA FHD" tvg-logo="https://go4.pw/ASIA/rania.png" group-title="AS | MALAYSIA",MY - ASTRO RANIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052406
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO RANIA HD
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="MY - ASTRO RANIA HD" tvg-logo="https://go4.pw/ASIA/rania.png" group-title="AS | MALAYSIA",MY - ASTRO RANIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052404
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO VAANAVIL FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052409
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO VAANAVIL HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052408
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO VAANAVIL HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052410
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO VELLITHIRAI FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VELLITHIRAI FHD" tvg-logo="https://go4.pw/ASIA/VELLITHIRAI.png" group-title="AS | MALAYSIA",MY - ASTRO VELLITHIRAI FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052412
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO VELLITHIRAI HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VELLITHIRAI HEVC" tvg-logo="https://go4.pw/ASIA/VELLITHIRAI.png" group-title="AS | MALAYSIA",MY - ASTRO VELLITHIRAI HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052411
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO VELLITHIRAI HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO VELLITHIRAI HD" tvg-logo="https://go4.pw/ASIA/VELLITHIRAI.png" group-title="AS | MALAYSIA",MY - ASTRO VELLITHIRAI HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052413
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO TUTOR TV SMK HD
+#EXTINF:-1 tvg-id="Astro Tutor TV SMK HD" tvg-name="MY - ASTRO TUTOR TV SMK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="AS | MALAYSIA",MY - ASTRO TUTOR TV SMK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052407
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO TUTOR TV SMK HEVC
+#EXTINF:-1 tvg-id="Astro Tutor TV SMK HD" tvg-name="MY - ASTRO TUTOR TV SMK HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="AS | MALAYSIA",MY - ASTRO TUTOR TV SMK HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957708
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO TUTOR TV SMK HD
+#EXTINF:-1 tvg-id="Astro Tutor TV SMK HD" tvg-name="MY - ASTRO TUTOR TV SMK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/Astro_tutor.png" group-title="AS | MALAYSIA",MY - ASTRO TUTOR TV SMK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957735
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BADMINTON FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1170913
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BADMINTON HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1170912
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BADMINTON HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1170914
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BADMINTON 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BADMINTON 2 FHD" tvg-logo="https://go4.pw/ASIA/Badminton 2.png" group-title="AS | MALAYSIA",MY - ASTRO BADMINTON 2 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170910
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BADMINTON 2 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BADMINTON 2 HEVC" tvg-logo="https://go4.pw/ASIA/Badminton 2.png" group-title="AS | MALAYSIA",MY - ASTRO BADMINTON 2 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170909
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO BADMINTON 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BADMINTON 2 HD" tvg-logo="https://go4.pw/ASIA/Badminton 2.png" group-title="AS | MALAYSIA",MY - ASTRO BADMINTON 2 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170911
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO FOOTBALL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO FOOTBALL FHD" tvg-logo="https://go4.pw/ASIA/football.png" group-title="AS | MALAYSIA",MY - ASTRO FOOTBALL FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170916
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO FOOTBALL HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO FOOTBALL HEVC" tvg-logo="https://go4.pw/ASIA/football.png" group-title="AS | MALAYSIA",MY - ASTRO FOOTBALL HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170915
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO FOOTBALL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO FOOTBALL HD" tvg-logo="https://go4.pw/ASIA/football.png" group-title="AS | MALAYSIA",MY - ASTRO FOOTBALL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170917
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO SPORTS PLUS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SPORTS PLUS FHD" tvg-logo="https://go4.pw/ASIA/Plus.png" group-title="AS | MALAYSIA",MY - ASTRO SPORTS PLUS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170924
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO SPORTS PLUS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SPORTS PLUS HEVC" tvg-logo="https://go4.pw/ASIA/Plus.png" group-title="AS | MALAYSIA",MY - ASTRO SPORTS PLUS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170920
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO SPORTS PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SPORTS PLUS HD" tvg-logo="https://go4.pw/ASIA/Plus.png" group-title="AS | MALAYSIA",MY - ASTRO SPORTS PLUS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170925
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO PREMIER LEAGUE  3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER LEAGUE  3 HD" tvg-logo="https://go4.pw/ASIA/League.png" group-title="AS | MALAYSIA",MY - ASTRO PREMIER LEAGUE  3 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170918
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO PREMIER LEAGUE 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER LEAGUE 5 HD" tvg-logo="https://go4.pw/ASIA/League.png" group-title="AS | MALAYSIA",MY - ASTRO PREMIER LEAGUE 5 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170919
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO CITRA HD
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY - ASTRO CITRA HD" tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="AS | MALAYSIA",MY - ASTRO CITRA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052391
-#EXTINF:-1 group-title="Malaysia & Astro",ASTRO RIA (not 24/7) HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA (not 24/7) HD" tvg-logo="https://go4.pw/ASIA/astroria.png" group-title="AS | MALAYSIA",MY - ASTRO RIA (not 24/7) HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1119956
-#EXTINF:-1 group-title="Malaysia & Astro",BBC WORLD NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957700
-#EXTINF:-1 group-title="Malaysia & Astro",BBC WORLD NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260556
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957698
-#EXTINF:-1 group-title="Malaysia & Astro",BBC WORLD NEWS SD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC WORLD NEWS SD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BBC_World_News.png" group-title="AS | MALAYSIA",MY - BBC WORLD NEWS SD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957709
-#EXTINF:-1 group-title="Malaysia & Astro",BBC EARTH FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC EARTH FHD" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | MALAYSIA",MY - BBC EARTH FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052418
-#EXTINF:-1 group-title="Malaysia & Astro",BBC EARTH HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC EARTH HEVC" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | MALAYSIA",MY - BBC EARTH HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052417
-#EXTINF:-1 group-title="Malaysia & Astro",BBC EARTH HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC EARTH HD" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | MALAYSIA",MY - BBC EARTH HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052419
-#EXTINF:-1 group-title="Malaysia & Astro",BBC LIFESTYLE FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC LIFESTYLE FHD" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="AS | MALAYSIA",MY - BBC LIFESTYLE FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052421
-#EXTINF:-1 group-title="Malaysia & Astro",BBC LIFESTYLE HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC LIFESTYLE HEVC" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="AS | MALAYSIA",MY - BBC LIFESTYLE HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052420
-#EXTINF:-1 group-title="Malaysia & Astro",BBC LIFESTYLE HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BBC LIFESTYLE HD" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="AS | MALAYSIA",MY - BBC LIFESTYLE HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052422
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY - BEIN SPORTS FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052431
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS HD
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY - BEIN SPORTS HEVC" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052423
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY - BEIN SPORTS HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052432
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-name="MY - BEIN SPORTS 2 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 2 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052425
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-name="MY - BEIN SPORTS 2 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 2 HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052424
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-name="MY - BEIN SPORTS 2 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 2 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052426
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="beinsport3.my" tvg-name="MY - BEIN SPORTS 3 FHD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 3 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052429
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS 3 HEVC
+#EXTINF:-1 tvg-id="beinsport3.my" tvg-name="MY - BEIN SPORTS 3 HEVC" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 3 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052428
-#EXTINF:-1 group-title="Malaysia & Astro",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="beinsport3.my" tvg-name="MY - BEIN SPORTS 3 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png" group-title="AS | MALAYSIA",MY - BEIN SPORTS 3 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052430
-#EXTINF:-1 group-title="Malaysia & Astro",EUROSPORTS FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052487
-#EXTINF:-1 group-title="Malaysia & Astro",EUROSPORTS HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052486
-#EXTINF:-1 group-title="Malaysia & Astro",EUROSPORTS HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052488
-#EXTINF:-1 group-title="Malaysia & Astro",PREMIER SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS FHD" tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="AS | MALAYSIA",MY - PREMIER SPORTS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052580
-#EXTINF:-1 group-title="Malaysia & Astro",PREMIER SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS" tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="AS | MALAYSIA",MY - PREMIER SPORTS
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052579
-#EXTINF:-1 group-title="Malaysia & Astro",PREMIER SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS HD" tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="AS | MALAYSIA",MY - PREMIER SPORTS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052581
-#EXTINF:-1 group-title="Malaysia & Astro",BLOOMBERG FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG FHD" tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" group-title="AS | MALAYSIA",MY - BLOOMBERG FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052434
-#EXTINF:-1 group-title="Malaysia & Astro",BLOOMBERG HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG HEVC" tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" group-title="AS | MALAYSIA",MY - BLOOMBERG HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052433
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLOOMBERG HD" tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" group-title="AS | MALAYSIA",MY - BLOOMBERG HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052435
-#EXTINF:-1 group-title="Malaysia & Astro",CARTOON NETWORK FHD
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="MY - CARTOON NETWORK FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AS | MALAYSIA",MY - CARTOON NETWORK FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052436
-#EXTINF:-1 group-title="Malaysia & Astro",CARTOON NETWORK HEVC
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="MY - CARTOON NETWORK HEVC " tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AS | MALAYSIA",MY - CARTOON NETWORK HEVC 
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957711
-#EXTINF:-1 group-title="Malaysia & Astro",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="MY - CARTOON NETWORK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cartoon_network.png" group-title="AS | MALAYSIA",MY - CARTOON NETWORK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052437
-#EXTINF:-1 group-title="Malaysia & Astro",CBEEBIES HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES HD" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="AS | MALAYSIA",MY - CBEEBIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052440
-#EXTINF:-1 group-title="Malaysia & Astro",CBEEBIES HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES HEVC" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="AS | MALAYSIA",MY - CBEEBIES HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052438
-#EXTINF:-1 group-title="Malaysia & Astro",CBEEBIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CBEEBIES FHD" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="AS | MALAYSIA",MY - CBEEBIES FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052439
-#EXTINF:-1 group-title="Malaysia & Astro",CELESTIAL MOVIES FHD
+#EXTINF:-1 tvg-id="celestialmovies.my" tvg-name="MY - CELESTIAL MOVIES FHD" tvg-logo="https://go4.pw/ASIA/fra.png" group-title="AS | MALAYSIA",MY - CELESTIAL MOVIES FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052447
-#EXTINF:-1 group-title="Malaysia & Astro",CELESTIAL MOVIES HEVC
+#EXTINF:-1 tvg-id="celestialmovies.my" tvg-name="MY - CELESTIAL MOVIES HEVC" tvg-logo="https://go4.pw/ASIA/fra.png" group-title="AS | MALAYSIA",MY - CELESTIAL MOVIES HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052445
-#EXTINF:-1 group-title="Malaysia & Astro",CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-id="celestialmovies.my" tvg-name="MY - CELESTIAL MOVIES HD" tvg-logo="https://go4.pw/ASIA/fra.png" group-title="AS | MALAYSIA",MY - CELESTIAL MOVIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052448
-#EXTINF:-1 group-title="Malaysia & Astro",CELESTIAL CLASSIC MOVIES HD
+#EXTINF:-1 tvg-id="celestialclassicmovies.my" tvg-name="MY - CELESTIAL CLASSIC MOVIES HD" tvg-logo="https://go4.pw/ASIA/Celestial.png" group-title="AS | MALAYSIA",MY - CELESTIAL CLASSIC MOVIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052444
-#EXTINF:-1 group-title="Malaysia & Astro",CGTN HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="AS | MALAYSIA",MY - CGTN FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052449
+#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="AS | MALAYSIA",MY - CGTN HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957713
-#EXTINF:-1 group-title="Malaysia & Astro",CGTN HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CGTN HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cgtn.png" group-title="AS | MALAYSIA",MY - CGTN HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052450
-#EXTINF:-1 group-title="Malaysia & Astro",CINEMAX FHD
+#EXTINF:-1 tvg-id="cinemax.my" tvg-name="MY - CINEMAX FHD" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AS | MALAYSIA",MY - CINEMAX FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052451
-#EXTINF:-1 group-title="Malaysia & Astro",CINEMAX HEVC
+#EXTINF:-1 tvg-id="cinemax.my" tvg-name="MY - CINEMAX HEVC" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AS | MALAYSIA",MY - CINEMAX HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957714
-#EXTINF:-1 group-title="Malaysia & Astro",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemax.my" tvg-name="MY - CINEMAX HD" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="AS | MALAYSIA",MY - CINEMAX HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052452
-#EXTINF:-1 group-title="Malaysia & Astro",CNA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNA FHD" tvg-logo="https://go4.pw/SINGAPORE/CNA.png" group-title="AS | MALAYSIA",MY - CNA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052454
-#EXTINF:-1 group-title="Malaysia & Astro",CNA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNA HEVC" tvg-logo="https://go4.pw/SINGAPORE/CNA.png" group-title="AS | MALAYSIA",MY - CNA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052453
-#EXTINF:-1 group-title="Malaysia & Astro",CNA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNA HD" tvg-logo="https://go4.pw/SINGAPORE/CNA.png" group-title="AS | MALAYSIA",MY - CNA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052455
-#EXTINF:-1 group-title="Malaysia & Astro",CNBC ASIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC ASIA FHD" tvg-logo="https://go4.pw/ASIA/Asia.png" group-title="AS | MALAYSIA",MY - CNBC ASIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052458
-#EXTINF:-1 group-title="Malaysia & Astro",CNBC ASIA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC ASIA HEVC" tvg-logo="https://go4.pw/ASIA/Asia.png" group-title="AS | MALAYSIA",MY - CNBC ASIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052456
-#EXTINF:-1 group-title="Malaysia & Astro",CNBC ASIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNBC ASIA HD" tvg-logo="https://go4.pw/ASIA/Asia.png" group-title="AS | MALAYSIA",MY - CNBC ASIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052459
-#EXTINF:-1 group-title="Malaysia & Astro",CCTV4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="AS | MALAYSIA",MY - CCTV4 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052442
-#EXTINF:-1 group-title="Malaysia & Astro",CCTV4 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="AS | MALAYSIA",MY - CCTV4 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052441
-#EXTINF:-1 group-title="Malaysia & Astro",CNN FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CCTV4 HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/cctv4.png" group-title="AS | MALAYSIA",MY - CCTV4 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957712
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNN FHD" tvg-logo="https://go4.pw/USA/CNN.png" group-title="AS | MALAYSIA",MY - CNN FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052461
-#EXTINF:-1 group-title="Malaysia & Astro",CNN HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNN HEVC" tvg-logo="https://go4.pw/USA/CNN.png" group-title="AS | MALAYSIA",MY - CNN HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052460
-#EXTINF:-1 group-title="Malaysia & Astro",CNN HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CNN HD" tvg-logo="https://go4.pw/USA/CNN.png" group-title="AS | MALAYSIA",MY - CNN HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052462
-#EXTINF:-1 group-title="Malaysia & Astro",COLORS HINDI FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HINDI FHD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS HINDI FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052464
-#EXTINF:-1 group-title="Malaysia & Astro",COLORS HINDI HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HINDI HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS HINDI HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052463
-#EXTINF:-1 group-title="Malaysia & Astro",COLORS HINDI HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS HINDI HD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS HINDI HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052466
-#EXTINF:-1 group-title="Malaysia & Astro",COLORS TAMIL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL FHD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS TAMIL FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052468
-#EXTINF:-1 group-title="Malaysia & Astro",COLORS TAMIL HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS TAMIL HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052467
-#EXTINF:-1 group-title="Malaysia & Astro",COLORS TAMIL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - COLORS TAMIL HD" tvg-logo="https://go4.pw/ASIA/INDIA/COLORS.png" group-title="AS | MALAYSIA",MY - COLORS TAMIL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052470
-#EXTINF:-1 group-title="Malaysia & Astro",CRIME & INVESTIGATION FHD
+#EXTINF:-1 tvg-id="crimeandnvestigation.my" tvg-name="MY - CRIME & INVESTIGATION FHD" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="AS | MALAYSIA",MY - CRIME & INVESTIGATION FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052471
-#EXTINF:-1 group-title="Malaysia & Astro",CRIME & INVESTIGATION HEVC
+#EXTINF:-1 tvg-id="crimeandnvestigation.my" tvg-name="MY - CRIME & INVESTIGATION HEVC" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="AS | MALAYSIA",MY - CRIME & INVESTIGATION HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957715
-#EXTINF:-1 group-title="Malaysia & Astro",CRIME & INVESTIGATION HD
+#EXTINF:-1 tvg-id="crimeandnvestigation.my" tvg-name="MY - CRIME & INVESTIGATION HD" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="AS | MALAYSIA",MY - CRIME & INVESTIGATION HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957697
-#EXTINF:-1 group-title="Malaysia & Astro",CTI ASIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA FHD" tvg-logo="https://go4.pw/ASIA/CTI.png" group-title="AS | MALAYSIA",MY - CTI ASIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052473
-#EXTINF:-1 group-title="Malaysia & Astro",CTI ASIA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA HEVC" tvg-logo="https://go4.pw/ASIA/CTI.png" group-title="AS | MALAYSIA",MY - CTI ASIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052472
-#EXTINF:-1 group-title="Malaysia & Astro",CTI ASIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CTI ASIA HD" tvg-logo="https://go4.pw/ASIA/CTI.png" group-title="AS | MALAYSIA",MY - CTI ASIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052474
-#EXTINF:-1 group-title="Malaysia & Astro",DISCOVERY ASIA FHD
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="MY - DISCOVERY ASIA FHD" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | MALAYSIA",MY - DISCOVERY ASIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052475
-#EXTINF:-1 group-title="Malaysia & Astro",DISCOVERY ASIA HEVC
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="MY - DISCOVERY ASIA HEVC" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | MALAYSIA",MY - DISCOVERY ASIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957716
-#EXTINF:-1 group-title="Malaysia & Astro",DISCOVERY ASIA HD
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="MY - DISCOVERY ASIA HD" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | MALAYSIA",MY - DISCOVERY ASIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052476
-#EXTINF:-1 group-title="Malaysia & Astro",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="discoverychannel.my" tvg-name="MY - DISCOVERY CHANNEL FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="AS | MALAYSIA",MY - DISCOVERY CHANNEL FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052477
-#EXTINF:-1 group-title="Malaysia & Astro",DISCOVERY CHANNEL HEVC
+#EXTINF:-1 tvg-id="discoverychannel.my" tvg-name="MY - DISCOVERY CHANNEL HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="AS | MALAYSIA",MY - DISCOVERY CHANNEL HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957717
-#EXTINF:-1 group-title="Malaysia & Astro",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="discoverychannel.my" tvg-name="MY - DISCOVERY CHANNEL HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="AS | MALAYSIA",MY - DISCOVERY CHANNEL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052478
-#EXTINF:-1 group-title="Malaysia & Astro",DMAX FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052479
-#EXTINF:-1 group-title="Malaysia & Astro",DMAX HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052480
-#EXTINF:-1 group-title="Malaysia & Astro",FOOD NETWORK FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052490
-#EXTINF:-1 group-title="Malaysia & Astro",FOOD NETWORK HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052489
-#EXTINF:-1 group-title="Malaysia & Astro",FRANCE 24 ENGLISH FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE 24 ENGLISH FHD" tvg-logo="https://go4.pw/AFRICA/CANAL+/France24.png" group-title="AS | MALAYSIA",MY - FRANCE 24 ENGLISH FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052494
-#EXTINF:-1 group-title="Malaysia & Astro",FRANCE 24 ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - FRANCE 24 ENGLISH HD" tvg-logo="https://go4.pw/AFRICA/CANAL+/France24.png" group-title="AS | MALAYSIA",MY - FRANCE 24 ENGLISH HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052492
-#EXTINF:-1 group-title="Malaysia & Astro",GLOBAL TREKKER FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - GLOBAL TREKKER FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="AS | MALAYSIA",MY - GLOBAL TREKKER FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052495
-#EXTINF:-1 group-title="Malaysia & Astro",GLOBAL TREKKER HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - GLOBAL TREKKER HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="AS | MALAYSIA",MY - GLOBAL TREKKER HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957721
-#EXTINF:-1 group-title="Malaysia & Astro",GLOBAL TREKKER HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - GLOBAL TREKKER HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/global_tekker.png" group-title="AS | MALAYSIA",MY - GLOBAL TREKKER HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052496
-#EXTINF:-1 group-title="Malaysia & Astro",GOLF CHANNEL FHD
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY - GOLF CHANNEL FHD" tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="AS | MALAYSIA",MY - GOLF CHANNEL FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052498
-#EXTINF:-1 group-title="Malaysia & Astro",GOLF CHANNEL HEVC
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY - GOLF CHANNEL HEVC" tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="AS | MALAYSIA",MY - GOLF CHANNEL HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052497
-#EXTINF:-1 group-title="Malaysia & Astro",GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="https://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png" group-title="AS | MALAYSIA",MY - GOLF CHANNEL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052499
-#EXTINF:-1 group-title="Malaysia & Astro",HBO FAMILY FHD
+#EXTINF:-1 tvg-id="hbofamily.my" tvg-name="MY - HBO FAMILY FHD" tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AS | MALAYSIA",MY - HBO FAMILY FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052503
-#EXTINF:-1 group-title="Malaysia & Astro",HBO FAMILY HEVC
+#EXTINF:-1 tvg-id="hbofamily.my" tvg-name="MY - HBO FAMILY HEVC" tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AS | MALAYSIA",MY - HBO FAMILY HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957722
-#EXTINF:-1 group-title="Malaysia & Astro",HBO FAMILY HD
+#EXTINF:-1 tvg-id="hbofamily.my" tvg-name="MY - HBO FAMILY HD" tvg-logo="https://go4.pw/BRAZIL/FAMILY.png" group-title="AS | MALAYSIA",MY - HBO FAMILY HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052504
-#EXTINF:-1 group-title="Malaysia & Astro",HBO FHD
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="MY - HBO FHD" tvg-logo="https://go4.pw/PORTUGAL/hbo_HD.png" group-title="AS | MALAYSIA",MY - HBO FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052505
-#EXTINF:-1 group-title="Malaysia & Astro",HBO HD
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="MY - HBO HD" tvg-logo="https://go4.pw/PORTUGAL/hbo_HD.png" group-title="AS | MALAYSIA",MY - HBO HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052508
-#EXTINF:-1 group-title="Malaysia & Astro",HBO HITS FHD
+#EXTINF:-1 tvg-id="hbohits.my" tvg-name="MY - HBO HITS FHD" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AS | MALAYSIA",MY - HBO HITS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052512
-#EXTINF:-1 group-title="Malaysia & Astro",HBO HITS HEVC
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="MY - HBO HITS HEVC" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AS | MALAYSIA",MY - HBO HITS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052511
-#EXTINF:-1 group-title="Malaysia & Astro",HBO HITS HD
+#EXTINF:-1 tvg-id="hbohits.my" tvg-name="MY - HBO HITS HD" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AS | MALAYSIA",MY - HBO HITS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052513
-#EXTINF:-1 group-title="Malaysia & Astro",HGTV FHD
+#EXTINF:-1 tvg-id="hgtv.my" tvg-name="MY - HGTV FHD" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AS | MALAYSIA",MY - HGTV FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052514
-#EXTINF:-1 group-title="Malaysia & Astro",HGTV HEVC
+#EXTINF:-1 tvg-id="hgtv.my" tvg-name="MY - HGTV HEVC" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AS | MALAYSIA",MY - HGTV HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957723
-#EXTINF:-1 group-title="Malaysia & Astro",HGTV HD
+#EXTINF:-1 tvg-id="hgtv.my" tvg-name="MY - HGTV HD" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AS | MALAYSIA",MY - HGTV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052515
-#EXTINF:-1 group-title="Malaysia & Astro",HISTORY FHD
+#EXTINF:-1 tvg-id="history.my" tvg-name="MY - HISTORY FHD" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="AS | MALAYSIA",MY - HISTORY FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052516
-#EXTINF:-1 group-title="Malaysia & Astro",HISTORY HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - HISTORY HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/his.png" group-title="AS | MALAYSIA",MY - HISTORY HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957724
-#EXTINF:-1 group-title="Malaysia & Astro",HISTORY HD
-,http://bestp55.xyz:80/A7FC77529786/519C32219872/1052517
-#EXTINF:-1 group-title="Malaysia & Astro",HITS FHD
+#EXTINF:-1 tvg-id="history.my" tvg-name="MY - HISTORY HD" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="AS | MALAYSIA",MY - HISTORY HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052517
+#EXTINF:-1 tvg-id="hits.my" tvg-name="MY - HITS FHD" tvg-logo="https://go4.pw/ASIA/HITS1.png" group-title="AS | MALAYSIA",MY - HITS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052519
-#EXTINF:-1 group-title="Malaysia & Astro",HITS HD
+#EXTINF:-1 tvg-id="hits.my" tvg-name="MY - HITS HEVC" tvg-logo="https://go4.pw/ASIA/HITS1.png" group-title="AS | MALAYSIA",MY - HITS HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052518
+#EXTINF:-1 tvg-id="hits.my" tvg-name="MY - HITS HD" tvg-logo="https://go4.pw/ASIA/HITS1.png" group-title="AS | MALAYSIA",MY - HITS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052520
-#EXTINF:-1 group-title="Malaysia & Astro",HITS MOVIES HD
+#EXTINF:-1 tvg-id="hitsmovies.my" tvg-name="MY - HITS MOVIES HD" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" group-title="AS | MALAYSIA",MY - HITS MOVIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052523
-#EXTINF:-1 group-title="Malaysia & Astro",HITS MOVIES FHD
+#EXTINF:-1 tvg-id="hitsmovies.my" tvg-name="MY - HITS MOVIES FHD" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" group-title="AS | MALAYSIA",MY - HITS MOVIES FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052522
-#EXTINF:-1 group-title="Malaysia & Astro",HITS MOVIES HEVC
+#EXTINF:-1 tvg-id="hitsmovies.my" tvg-name="MY - HITS MOVIES HEVC" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" group-title="AS | MALAYSIA",MY - HITS MOVIES HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052521
-#EXTINF:-1 group-title="Malaysia & Astro",HITS NOW FHD
+#EXTINF:-1 tvg-id="hitsnow.my" tvg-name="MY - HITS NOW FHD" tvg-logo="https://go4.pw/ASIA/HITS.png" group-title="AS | MALAYSIA",MY - HITS NOW FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052525
-#EXTINF:-1 group-title="Malaysia & Astro",HITS NOW HEVC
+#EXTINF:-1 tvg-id="hitsnow.my" tvg-name="MY - HITS NOW HEVC" tvg-logo="https://go4.pw/ASIA/HITS.png" group-title="AS | MALAYSIA",MY - HITS NOW HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052524
-#EXTINF:-1 group-title="Malaysia & Astro",HITS NOW HD
+#EXTINF:-1 tvg-id="hitsnow.my" tvg-name="MY - HITS NOW HD" tvg-logo="https://go4.pw/ASIA/HITS.png" group-title="AS | MALAYSIA",MY - HITS NOW HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052526
-#EXTINF:-1 group-title="Malaysia & Astro",iQIYI HD
+#EXTINF:-1 tvg-id="iqiyi.my" tvg-name="MY - iQIYI HD" tvg-logo="https://go4.pw/ASIA/iQIYI.png" group-title="AS | MALAYSIA",MY - iQIYI HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052530
-#EXTINF:-1 group-title="Malaysia & Astro",iQIYI FHD
+#EXTINF:-1 tvg-id="iqiyi.my" tvg-name="MY - iQIYI FHD" tvg-logo="https://go4.pw/ASIA/iQIYI.png" group-title="AS | MALAYSIA",MY - iQIYI FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052529
-#EXTINF:-1 group-title="Malaysia & Astro",iQIYI HEVC
+#EXTINF:-1 tvg-id="iqiyi.my" tvg-name="MY - iQIYI HEVC" tvg-logo="https://go4.pw/ASIA/iQIYI.png" group-title="AS | MALAYSIA",MY - iQIYI HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052527
-#EXTINF:-1 group-title="Malaysia & Astro",JAZEERA ENGLISH FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - JAZEERA ENGLISH FHD" tvg-logo="https://go4.pw/Mexico/aljazera.png" group-title="AS | MALAYSIA",MY - JAZEERA ENGLISH FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052533
-#EXTINF:-1 group-title="Malaysia & Astro",JAZEERA ENGLISH HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - JAZEERA ENGLISH HEVC" tvg-logo="https://go4.pw/Mexico/aljazera.png" group-title="AS | MALAYSIA",MY - JAZEERA ENGLISH HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052531
-#EXTINF:-1 group-title="Malaysia & Astro",JAZEERA ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - JAZEERA ENGLISH HD" tvg-logo="https://go4.pw/Mexico/aljazera.png" group-title="AS | MALAYSIA",MY - JAZEERA ENGLISH HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052534
-#EXTINF:-1 group-title="Malaysia & Astro",K PLUS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - K PLUS FHD" tvg-logo="https://go4.pw/ASIA/PLUS.png" group-title="AS | MALAYSIA",MY - K PLUS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052536
-#EXTINF:-1 group-title="Malaysia & Astro",K PLUS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - K PLUS HEVC" tvg-logo="https://go4.pw/ASIA/PLUS.png" group-title="AS | MALAYSIA",MY - K PLUS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052535
-#EXTINF:-1 group-title="Malaysia & Astro",K PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - K PLUS HD" tvg-logo="https://go4.pw/ASIA/PLUS.png" group-title="AS | MALAYSIA",MY - K PLUS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052537
-#EXTINF:-1 group-title="Malaysia & Astro",KBS WORLD FHD
+#EXTINF:-1 tvg-id="kbsworld.my" tvg-name="MY - KBS WORLD FHD" tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | MALAYSIA",MY - KBS WORLD FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052539
-#EXTINF:-1 group-title="Malaysia & Astro",KBS WORLD HD
+#EXTINF:-1 tvg-id="kbsworld.my" tvg-name="MY - KBS WORLD HEVC" tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | MALAYSIA",MY - KBS WORLD HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052538
+#EXTINF:-1 tvg-id="kbsworld.my" tvg-name="MY - KBS WORLD HD" tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | MALAYSIA",MY - KBS WORLD HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052541
-#EXTINF:-1 group-title="Malaysia & Astro",KTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - KTV FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052543
-#EXTINF:-1 group-title="Malaysia & Astro",KTV HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - KTV HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052542
-#EXTINF:-1 group-title="Malaysia & Astro",KTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - KTV HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052544
-#EXTINF:-1 group-title="Malaysia & Astro",KTV SD
+#EXTINF:-1 tvg-id="" tvg-name="MY - KTV SD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/ktv.png" group-title="AS | MALAYSIA",MY - KTV SD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957725
-#EXTINF:-1 group-title="Malaysia & Astro",LIFETIME FHD
+#EXTINF:-1 tvg-id="lifetime.my" tvg-name="MY - LIFETIME FHD" tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AS | MALAYSIA",MY - LIFETIME FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052546
-#EXTINF:-1 group-title="Malaysia & Astro",LIFETIME HEVC
+#EXTINF:-1 tvg-id="lifetime.my" tvg-name="MY - LIFETIME HEVC" tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AS | MALAYSIA",MY - LIFETIME HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052545
-#EXTINF:-1 group-title="Malaysia & Astro",LIFETIME HD
+#EXTINF:-1 tvg-id="lifetime.my" tvg-name="MY - LIFETIME HD" tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AS | MALAYSIA",MY - LIFETIME HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052547
-#EXTINF:-1 group-title="Malaysia & Astro",LOVE NATURE FHD
+#EXTINF:-1 tvg-id="lovenature.my" tvg-name="MY - LOVE NATURE FHD" tvg-logo="https://go4.pw/CANADA/lovenature.png" group-title="AS | MALAYSIA",MY - LOVE NATURE FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052552
-#EXTINF:-1 group-title="Malaysia & Astro",LOVE NATURE HEVC
+#EXTINF:-1 tvg-id="lovenature.my" tvg-name="MY - LOVE NATURE HEVC" tvg-logo="https://go4.pw/CANADA/lovenature.png" group-title="AS | MALAYSIA",MY - LOVE NATURE HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052551
-#EXTINF:-1 group-title="Malaysia & Astro",LOVE NATURE HD
+#EXTINF:-1 tvg-id="lovenature.my" tvg-name="MY - LOVE NATURE HD" tvg-logo="https://go4.pw/CANADA/lovenature.png" group-title="AS | MALAYSIA",MY - LOVE NATURE HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052553
-#EXTINF:-1 group-title="Malaysia & Astro",MOONBUG KIDS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KIDS FHD" tvg-logo="https://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="AS | MALAYSIA",MY - MOONBUG KIDS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052555
-#EXTINF:-1 group-title="Malaysia & Astro",MOONBUG KIDS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KIDS HEVC" tvg-logo="https://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="AS | MALAYSIA",MY - MOONBUG KIDS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052554
-#EXTINF:-1 group-title="Malaysia & Astro",MOONBUG KIDS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MOONBUG KIDS HD" tvg-logo="https://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="AS | MALAYSIA",MY - MOONBUG KIDS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052556
-#EXTINF:-1 group-title="Malaysia & Astro",NHK WORLD PREMIUM FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - NHK WORLD PREMIUM FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | MALAYSIA",MY - NHK WORLD PREMIUM FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052564
-#EXTINF:-1 group-title="Malaysia & Astro",NHK WORLD PREMIUM HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - NHK WORLD PREMIUM HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | MALAYSIA",MY - NHK WORLD PREMIUM HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957728
-#EXTINF:-1 group-title="Malaysia & Astro",NHK WORLD PREMIUM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - NHK WORLD PREMIUM HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | MALAYSIA",MY - NHK WORLD PREMIUM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052565
-#EXTINF:-1 group-title="Malaysia & Astro",NICK JR FHD
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="MY - NICK JR FHD" tvg-logo="https://go4.pw/USA/SD/6.png" group-title="AS | MALAYSIA",MY - NICK JR FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052567
-#EXTINF:-1 group-title="Malaysia & Astro",NICK JR HEVC
+#EXTINF:-1 tvg-id="nickelodeonjunior.my" tvg-name="MY - NICK JR HEVC" tvg-logo="https://go4.pw/USA/SD/6.png" group-title="AS | MALAYSIA",MY - NICK JR HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052566
-#EXTINF:-1 group-title="Malaysia & Astro",NICKELEDEON FHD
+#EXTINF:-1 tvg-id="nickelodeonjunior.my" tvg-name="MY - NICK JR HD" tvg-logo="https://go4.pw/USA/SD/6.png" group-title="AS | MALAYSIA",MY - NICK JR HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260541
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="MY - NICKELEDEON FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052570
-#EXTINF:-1 group-title="Malaysia & Astro",NICKELEDEON HEVC
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="MY - NICKELEDEON HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052569
-#EXTINF:-1 group-title="Malaysia & Astro",NICKELEDEON HD
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="MY - NICKELEDEON HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957707
-#EXTINF:-1 group-title="Malaysia & Astro",NICKELEDEON SD
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="MY - NICKELEDEON SD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/NICKELEDEON.png" group-title="AS | MALAYSIA",MY - NICKELEDEON SD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957729
-#EXTINF:-1 group-title="Malaysia & Astro",ONE TV FHD
+#EXTINF:-1 tvg-id="one.my" tvg-name="MY - ONE TV FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="AS | MALAYSIA",MY - ONE TV FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052572
-#EXTINF:-1 group-title="Malaysia & Astro",ONE TV HEVC
+#EXTINF:-1 tvg-id="one.my" tvg-name="MY - ONE TV HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="AS | MALAYSIA",MY - ONE TV HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052571
-#EXTINF:-1 group-title="Malaysia & Astro",ONE TV HD
+#EXTINF:-1 tvg-id="one.my" tvg-name="MY - ONE TV HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/ONETV.png" group-title="AS | MALAYSIA",MY - ONE TV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052573
-#EXTINF:-1 group-title="Malaysia & Astro",PHOENIX CHINESE CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX CHINESE CHANNEL FHD" tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX CHINESE CHANNEL FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052574
-#EXTINF:-1 group-title="Malaysia & Astro",PHOENIX CHINESE CHANNEL HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX CHINESE CHANNEL HEVC" tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX CHINESE CHANNEL HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957731
-#EXTINF:-1 group-title="Malaysia & Astro",PHOENIX CHINESE CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX CHINESE CHANNEL HD" tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX CHINESE CHANNEL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052575
-#EXTINF:-1 group-title="Malaysia & Astro",PHOENIX INFO NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX INFO NEWS FHD" tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX INFO NEWS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052577
-#EXTINF:-1 group-title="Malaysia & Astro",PHOENIX INFO NEWS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX INFO NEWS HEVC" tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX INFO NEWS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052576
-#EXTINF:-1 group-title="Malaysia & Astro",PHOENIX INFO NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - PHOENIX INFO NEWS HD" tvg-logo="https://go4.pw/germany/Phoenix.png" group-title="AS | MALAYSIA",MY - PHOENIX INFO NEWS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052578
-#EXTINF:-1 group-title="Malaysia & Astro",SHOWCASE MOVIES FHD
+#EXTINF:-1 tvg-id="showcasemovies.my" tvg-name="MY - SHOWCASE MOVIES FHD" tvg-logo="https://go4.pw/USA/SD/24.png" group-title="AS | MALAYSIA",MY - SHOWCASE MOVIES FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052583
-#EXTINF:-1 group-title="Malaysia & Astro",SHOWCASE MOVIES HEVC
+#EXTINF:-1 tvg-id="showcasemovies.my" tvg-name="MY - SHOWCASE MOVIES HEVC" tvg-logo="https://go4.pw/USA/SD/24.png" group-title="AS | MALAYSIA",MY - SHOWCASE MOVIES HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052582
-#EXTINF:-1 group-title="Malaysia & Astro",SHOWCASE MOVIES HD
+#EXTINF:-1 tvg-id="showcasemovies.my" tvg-name="MY - SHOWCASE MOVIES HD" tvg-logo="https://go4.pw/USA/SD/24.png" group-title="AS | MALAYSIA",MY - SHOWCASE MOVIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052584
-#EXTINF:-1 group-title="Malaysia & Astro",SKY NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS FHD" tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052586
-#EXTINF:-1 group-title="Malaysia & Astro",SKY NEWS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS HEVC" tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052585
-#EXTINF:-1 group-title="Malaysia & Astro",SKY NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS HD" tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052587
-#EXTINF:-1 group-title="Malaysia & Astro",SPOTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SKY NEWS SD" tvg-logo="https://go4.pw/USA/SD2/10.png" group-title="AS | MALAYSIA",MY - SKY NEWS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260554
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV FHD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052591
-#EXTINF:-1 group-title="Malaysia & Astro",SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052588
-#EXTINF:-1 group-title="Malaysia & Astro",SPOTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV HD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052592
-#EXTINF:-1 group-title="Malaysia & Astro",SPOTV 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 FHD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV 2 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957706
-#EXTINF:-1 group-title="Malaysia & Astro",SPOTV 2 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 HEVC" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV 2 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052589
-#EXTINF:-1 group-title="Malaysia & Astro",STAR VIJAY FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 HD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="AS | MALAYSIA",MY - SPOTV 2 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/957732
+#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY FHD" tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="AS | MALAYSIA",MY - STAR VIJAY FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052597
-#EXTINF:-1 group-title="Malaysia & Astro",STAR VIJAY HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY HEVC" tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="AS | MALAYSIA",MY - STAR VIJAY HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052596
-#EXTINF:-1 group-title="Malaysia & Astro",STAR VIJAY HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - STAR VIJAY HD" tvg-logo="https://go4.pw/ASIA/TAMIL/STARVIJAY.png" group-title="AS | MALAYSIA",MY - STAR VIJAY HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052598
-#EXTINF:-1 group-title="Malaysia & Astro",SUN LIFE FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN LIFE FHD" tvg-logo="https://go4.pw/ASIA/TAMIL/sun-life.png" group-title="AS | MALAYSIA",MY - SUN LIFE FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052600
-#EXTINF:-1 group-title="Malaysia & Astro",SUN LIFE HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN LIFE HEVC" tvg-logo="https://go4.pw/ASIA/TAMIL/sun-life.png" group-title="AS | MALAYSIA",MY - SUN LIFE HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052599
-#EXTINF:-1 group-title="Malaysia & Astro",SUN LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN LIFE HD" tvg-logo="https://go4.pw/ASIA/TAMIL/sun-life.png" group-title="AS | MALAYSIA",MY - SUN LIFE HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052601
-#EXTINF:-1 group-title="Malaysia & Astro",SUN MUSIC FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC FHD" tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="AS | MALAYSIA",MY - SUN MUSIC FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052603
-#EXTINF:-1 group-title="Malaysia & Astro",SUN MUSIC HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="AS | MALAYSIA",MY - SUN MUSIC HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052602
-#EXTINF:-1 group-title="Malaysia & Astro",SUN MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN MUSIC HD" tvg-logo="https://go4.pw/ASIA/INDIA/MUSIC.png" group-title="AS | MALAYSIA",MY - SUN MUSIC HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052604
-#EXTINF:-1 group-title="Malaysia & Astro",SUN NEWS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN NEWS FHD" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="AS | MALAYSIA",MY - SUN NEWS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052606
-#EXTINF:-1 group-title="Malaysia & Astro",SUN NEWS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN NEWS HEVC" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="AS | MALAYSIA",MY - SUN NEWS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052605
-#EXTINF:-1 group-title="Malaysia & Astro",SUN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN NEWS HD" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNNEWS.png" group-title="AS | MALAYSIA",MY - SUN NEWS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052607
-#EXTINF:-1 group-title="Malaysia & Astro",SUN TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV FHD" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="AS | MALAYSIA",MY - SUN TV FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052610
-#EXTINF:-1 group-title="Malaysia & Astro",SUN TV HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV HEVC" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="AS | MALAYSIA",MY - SUN TV HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052608
-#EXTINF:-1 group-title="Malaysia & Astro",SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SUN TV HD" tvg-logo="https://go4.pw/ASIA/TAMIL/SUNTV.png" group-title="AS | MALAYSIA",MY - SUN TV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052611
-#EXTINF:-1 group-title="Malaysia & Astro",SURYA MOVIES HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="AS | MALAYSIA",MLY - SURYA MOVIES HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1084435
-#EXTINF:-1 group-title="Malaysia & Astro",SURYA MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="MLY - SURYA MOVIES HD" tvg-logo="https://go4.pw/ASIA/INDIA/SURYA-MOVIES.png" group-title="AS | MALAYSIA",MLY - SURYA MOVIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1084432
-#EXTINF:-1 group-title="Malaysia & Astro",TLC FHD
+#EXTINF:-1 tvg-id="tlc.my" tvg-name="MY - TLC FHD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="AS | MALAYSIA",MY - TLC FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052613
-#EXTINF:-1 group-title="Malaysia & Astro",TLC HEVC
+#EXTINF:-1 tvg-id="tlc.my" tvg-name="MY - TLC HEVC" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="AS | MALAYSIA",MY - TLC HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957734
-#EXTINF:-1 group-title="Malaysia & Astro",TLC HD
+#EXTINF:-1 tvg-id="tlc.my" tvg-name="MY - TLC HD" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TLC.png" group-title="AS | MALAYSIA",MY - TLC HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052614
-#EXTINF:-1 group-title="Malaysia & Astro",TV OKEY FHD
+#EXTINF:-1 tvg-id="tvokey.my" tvg-name="MY - TV OKEY FHD" tvg-logo="https://go4.pw/ASIA/OKEY.png" group-title="AS | MALAYSIA",MY - TV OKEY FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052620
-#EXTINF:-1 group-title="Malaysia & Astro",TV OKEY HD
+#EXTINF:-1 tvg-id="tvokey.my" tvg-name="MY - TV OKEY HD" tvg-logo="https://go4.pw/ASIA/OKEY.png" group-title="AS | MALAYSIA",MY - TV OKEY HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052621
-#EXTINF:-1 group-title="Malaysia & Astro",TV OKEY HEVC
+#EXTINF:-1 tvg-id="tvokey.my" tvg-name="MY - TV OKEY HEVC" tvg-logo="https://go4.pw/ASIA/OKEY.png" group-title="AS | MALAYSIA",MY - TV OKEY HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052619
-#EXTINF:-1 group-title="Malaysia & Astro",TV1 FHD
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY - TV1 FHD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="AS | MALAYSIA",MY - TV1 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052623
-#EXTINF:-1 group-title="Malaysia & Astro",TV1 HEVC
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY - TV1 HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="AS | MALAYSIA",MY - TV1 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052622
-#EXTINF:-1 group-title="Malaysia & Astro",TV1 HD
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY - TV1 HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV1.png" group-title="AS | MALAYSIA",MY - TV1 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052624
-#EXTINF:-1 group-title="Malaysia & Astro",TV2 FHD
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="MY - TV2 FHD" tvg-logo="https://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="AS | MALAYSIA",MY - TV2 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052626
-#EXTINF:-1 group-title="Malaysia & Astro",TV2 HEVC
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="MY - TV2 HEVC" tvg-logo="https://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="AS | MALAYSIA",MY - TV2 HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052625
-#EXTINF:-1 group-title="Malaysia & Astro",TV3 FHD
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="MY - TV2 HD" tvg-logo="https://go4.pw/HUNGARIAN/TV2 Suf.png" group-title="AS | MALAYSIA",MY - TV2 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260557
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY - TV3 FHD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="AS | MALAYSIA",MY - TV3 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628
-#EXTINF:-1 group-title="Malaysia & Astro",TV9 HD
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY - TV3 HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="AS | MALAYSIA",MY - TV3 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/408664
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="MY - TV9 FHD" tvg-logo="https://go4.pw/INDONESIA/TV9.png" group-title="AS | MALAYSIA",MY - TV9 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052671
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="MY - TV9 HD" tvg-logo="https://go4.pw/INDONESIA/TV9.png" group-title="AS | MALAYSIA",MY - TV9 HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052629
-#EXTINF:-1 group-title="Malaysia & Astro",TVB CLASSIC FHD
+#EXTINF:-1 tvg-id="tvbclassic.my" tvg-name="MY - TVB CLASSIC FHD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB CLASSIC FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052631
-#EXTINF:-1 group-title="Malaysia & Astro",TVB CLASSIC HEVC
+#EXTINF:-1 tvg-id="tvbclassic.my" tvg-name="MY - TVB CLASSIC HEVC" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB CLASSIC HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052630
-#EXTINF:-1 group-title="Malaysia & Astro",TVB CLASSIC HD
+#EXTINF:-1 tvg-id="tvbclassic.my" tvg-name="MY - TVB CLASSIC HD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB CLASSIC HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052632
-#EXTINF:-1 group-title="Malaysia & Astro",TVB ENTERTAINMENT NEWS FHD
+#EXTINF:-1 tvg-id="tvbentertainmentnews.my" tvg-name="MY - TVB ENTERTAINMENT NEWS FHD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB ENTERTAINMENT NEWS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052634
-#EXTINF:-1 group-title="Malaysia & Astro",TVB ENTERTAINMENT NEWS HEVC
+#EXTINF:-1 tvg-id="tvbentertainmentnews.my" tvg-name="MY - TVB ENTERTAINMENT NEWS HEVC" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB ENTERTAINMENT NEWS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052633
-#EXTINF:-1 group-title="Malaysia & Astro",TVB ENTERTAINMENT NEWS HD
+#EXTINF:-1 tvg-id="tvbentertainmentnews.my" tvg-name="MY - TVB ENTERTAINMENT NEWS HD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB ENTERTAINMENT NEWS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052635
-#EXTINF:-1 group-title="Malaysia & Astro",TVB JADE FHD
+#EXTINF:-1 tvg-id="tvbjade.my" tvg-name="MY - TVB JADE FHD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB JADE FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052637
-#EXTINF:-1 group-title="Malaysia & Astro",TVB JADE HEVC
+#EXTINF:-1 tvg-id="tvbjade.my" tvg-name="MY - TVB JADE HEVC" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB JADE HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052636
-#EXTINF:-1 group-title="Malaysia & Astro",TVB JADE HD
+#EXTINF:-1 tvg-id="tvbjade.my" tvg-name="MY - TVB JADE HD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB JADE HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052638
-#EXTINF:-1 group-title="Malaysia & Astro",TVB XING HE FHD
+#EXTINF:-1 tvg-id="tvbxinghe.my" tvg-name="MY - TVB XING HE FHD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB XING HE FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052640
-#EXTINF:-1 group-title="Malaysia & Astro",TVB XING HE HEVC
+#EXTINF:-1 tvg-id="tvbxinghe.my" tvg-name="MY - TVB XING HE HEVC" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB XING HE HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052639
-#EXTINF:-1 group-title="Malaysia & Astro",TVB XING HE HD
+#EXTINF:-1 tvg-id="tvbxinghe.my" tvg-name="MY - TVB XING HE HD" tvg-logo="https://go4.pw/ASIA/TVB.png" group-title="AS | MALAYSIA",MY - TVB XING HE HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052641
-#EXTINF:-1 group-title="Malaysia & Astro",TVBS ASIA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA FHD" tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | MALAYSIA",MY - TVBS ASIA FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052643
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HEVC" tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | MALAYSIA",MY - TVBS ASIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052642
-#EXTINF:-1 group-title="Malaysia & Astro",TVBS ASIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVBS ASIA HD" tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | MALAYSIA",MY - TVBS ASIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052644
-#EXTINF:-1 group-title="Malaysia & Astro",TVN FHD
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="MY - TVN FHD" tvg-logo="https://go4.pw/ASIA/TVN.png" group-title="AS | MALAYSIA",MY - TVN FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052646
-#EXTINF:-1 group-title="Malaysia & Astro",TVN HEVC
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="MY - TVN HEVC" tvg-logo="https://go4.pw/ASIA/TVN.png" group-title="AS | MALAYSIA",MY - TVN HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052645
-#EXTINF:-1 group-title="Malaysia & Astro",TVN HD
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="MY - TVN HD" tvg-logo="https://go4.pw/ASIA/TVN.png" group-title="AS | MALAYSIA",MY - TVN HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052648
-#EXTINF:-1 group-title="Malaysia & Astro",TVN MOVIES FHD
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="MY - TVN MOVIES FHD" tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052650
-#EXTINF:-1 group-title="Malaysia & Astro",TVN MOVIES HEVC
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="MY - TVN MOVIES HEVC" tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052649
-#EXTINF:-1 group-title="Malaysia & Astro",TVN MOVIES HD
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="MY - TVN MOVIES" tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260550
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="MY - TVN MOVIES HD" tvg-logo="https://go4.pw/ASIA/tvmovies.png" group-title="AS | MALAYSIA",MY - TVN MOVIES HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052651
-#EXTINF:-1 group-title="Malaysia & Astro",TVS SARAWAK FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVS SARAWAK FHD" tvg-logo="https://go4.pw/ASIA/TVS.png" group-title="AS | MALAYSIA",MY - TVS SARAWAK FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052653
-#EXTINF:-1 group-title="Malaysia & Astro",TVS SARAWAK HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVS SARAWAK HEVC" tvg-logo="https://go4.pw/ASIA/TVS.png" group-title="AS | MALAYSIA",MY - TVS SARAWAK HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052652
-#EXTINF:-1 group-title="Malaysia & Astro",TVS SARAWAK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVS SARAWAK HD" tvg-logo="https://go4.pw/ASIA/TVS.png" group-title="AS | MALAYSIA",MY - TVS SARAWAK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052654
-#EXTINF:-1 group-title="Malaysia & Astro",W-SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT FHD" tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="AS | MALAYSIA",MY - W-SPORT FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052656
-#EXTINF:-1 group-title="Malaysia & Astro",W-SPORT HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT HEVC" tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="AS | MALAYSIA",MY - W-SPORT HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052655
-#EXTINF:-1 group-title="Malaysia & Astro",W-SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT HD" tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="AS | MALAYSIA",MY - W-SPORT HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052657
-#EXTINF:-1 group-title="Malaysia & Astro",WARNER TV FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052659
-#EXTINF:-1 group-title="Malaysia & Astro",WARNER TV HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052658
-#EXTINF:-1 group-title="Malaysia & Astro",WARNER TV HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052660
-#EXTINF:-1 group-title="Malaysia & Astro",ZEE CINEMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA FHD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AS | MALAYSIA",MY - ZEE CINEMA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052665
-#EXTINF:-1 group-title="Malaysia & Astro",ZEE CINEMA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AS | MALAYSIA",MY - ZEE CINEMA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052664
-#EXTINF:-1 group-title="Malaysia & Astro",ZEE CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA HD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="AS | MALAYSIA",MY - ZEE CINEMA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052666
-#EXTINF:-1 group-title="Malaysia & Astro",ZEE TAMIL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE TAMIL FHD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="AS | MALAYSIA",MY - ZEE TAMIL FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052668
-#EXTINF:-1 group-title="Malaysia & Astro",ZEE TAMIL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE TAMIL HEVC" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="AS | MALAYSIA",MY - ZEE TAMIL HEVC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052667
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE TAMIL HD" tvg-logo="https://go4.pw/ASIA/INDIA/ZEE_TAMIL_SD.png" group-title="AS | MALAYSIA",MY - ZEE TAMIL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052669
-#EXTINF:-1 group-title="Malaysia & Astro",DW ENGLISH FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - DW ENGLISH FHD" tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | MALAYSIA",MY - DW ENGLISH FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052485
-#EXTINF:-1 group-title="Malaysia & Astro",DW ENGLISH HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - DW ENGLISH HEVC" tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | MALAYSIA",MY - DW ENGLISH HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052484
-#EXTINF:-1 group-title="Malaysia & Astro",DWENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - DWENGLISH HD" tvg-logo="https://go4.pw/NEWS%26FACTUAL/DWARABIC.png" group-title="AS | MALAYSIA",MY - DWENGLISH HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/260553
-#EXTINF:-1 group-title="Malaysia & Astro",BLUE ANT EXTREME HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLUE ANT EXTREME HD- BLUE ANT EXTREME HD" tvg-logo="https://go4.pw/ASIA/arr.png" group-title="AS | MALAYSIA",MY - BLUE ANT EXTREME HD- BLUE ANT EXTREME HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052675
-#EXTINF:-1 group-title="Malaysia & Astro",SONY MAX HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SONY MAX HD" tvg-logo="https://go4.pw/ASIA/INDIA/SONYMAX.png" group-title="AS | MALAYSIA",MY - SONY MAX HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052678
-#EXTINF:-1 group-title="Malaysia & Astro",SONY TEN 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SONY TEN 1 FHD" tvg-logo="https://go4.pw/ASIA/sp.png" group-title="AS | MALAYSIA",MY - SONY TEN 1 FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052689
-#EXTINF:-1 group-title="Malaysia & Astro",SONY TEN 2 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052690
-#EXTINF:-1 group-title="Malaysia & Astro",SONY TEN 3 FHD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052691
-#EXTINF:-1 group-title="Malaysia & Astro",MTV ASIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MTV ASIA FHD" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="AS | MALAYSIA",MY - MTV ASIA FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052558
-#EXTINF:-1 group-title="Malaysia & Astro",MTV ASIA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - MTV ASIA HEVC" tvg-logo="https://go4.pw/ASIA/MALAYSIA/MTV-ASIA.png" group-title="AS | MALAYSIA",MY - MTV ASIA HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/260543
-#EXTINF:-1 group-title="Malaysia & Astro",BLIPPI & FRIENDS FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS FHD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="AS | MALAYSIA",MY - BLIPPI & FRIENDS FHD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170929
-#EXTINF:-1 group-title="Malaysia & Astro",BLIPPI & FRIENDS HEVC
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS HEVC" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="AS | MALAYSIA",MY - BLIPPI & FRIENDS HEVC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170928
-#EXTINF:-1 group-title="Malaysia & Astro",BLIPPI & FRIENDS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BLIPPI & FRIENDS HD" tvg-logo="https://go4.pw/ASIA/Blippi & Friends.png" group-title="AS | MALAYSIA",MY - BLIPPI & FRIENDS HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170930
-#EXTINF:-1 group-title="Malaysia & Astro",CHANNEL NEWSASIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CHANNEL NEWSASIA HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/Channel_NewsAsia.png" group-title="AS | MALAYSIA",MY - CHANNEL NEWSASIA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/69232
-#EXTINF:-1 group-title="Malaysia & Astro",TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - TRAVEL CHANNEL HD" tvg-logo="https://go4.pw/EXYU/travel.png" group-title="AS | MALAYSIA",MY - TRAVEL CHANNEL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052695
-#EXTINF:-1 group-title="Malaysia & Astro",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ANIPLUS HD+" tvg-logo="https://go4.pw/ASIA/ANIPLUS.png" group-title="AS | MALAYSIA",MY - ANIPLUS HD+
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052697
+#EXTINF:-1 tvg-id="tvalhijrah.my" tvg-name="MY - TV ALHIJRAH HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/TV-ALHIJRAH.png" group-title="AS | MALAYSIA",MY - TV ALHIJRAH HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/260535
+#EXTINF:-1 tvg-id="" tvg-name="MY - COMEDY CENTRAL HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/COMEDYCENTRAL-1.png" group-title="AS | MALAYSIA",MY - COMEDY CENTRAL HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/260545
-#EXTINF:-1 group-title="Malaysia & Astro",ADITHYA HEVC
-http://bestp55.xyz:80/A7FC77529786/519C32219872/957704
-#EXTINF:-1 group-title="Malaysia & Astro",BERNAMA HD
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="MY - BERNAMA HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/BERNAMA.png" group-title="AS | MALAYSIA",MY - BERNAMA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/957710
-#EXTINF:-1 group-title="Malaysia & Astro",WE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - HARVEST TV ARABIA HD" tvg-logo="https://go4.pw/ASIA/ARABIA.png" group-title="AS | MALAYSIA",MY - HARVEST TV ARABIA HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052677
+#EXTINF:-1 tvg-id="" tvg-name="MLY - WE TV HD" tvg-logo="https://go4.pw/AMERICA/USA/WETV.png" group-title="AS | MALAYSIA",MLY - WE TV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1084431
-#EXTINF:-1 group-title="Malaysia & Astro",RAJ MUSIC HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1084433
-#EXTINF:-1 group-title="Malaysia & Astro",KAIRALI PEOPLE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MLY - KAIRALI PEOPLE TV HD" tvg-logo="https://go4.pw/ASIA/KAIRALI.png" group-title="AS | MALAYSIA",MLY - KAIRALI PEOPLE TV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1084434
-#EXTINF:-1 group-title="Malaysia & Astro",MAZAVIL MANORAMA HD
+#EXTINF:-1 tvg-id="" tvg-name="MLY - MAZAVIL MANORAMA HD" tvg-logo="https://go4.pw/ASIA/MANORAMA.png" group-title="AS | MALAYSIA",MLY - MAZAVIL MANORAMA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1084437
-#EXTINF:-1 group-title="Malaysia & Astro",FLOWERS TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MLY - FLOWERS TV HD" tvg-logo="https://go4.pw/ASIA/FLOWERS.png" group-title="AS | MALAYSIA",MLY - FLOWERS TV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1084440
-#EXTINF:-1 group-title="Malaysia & Astro",AI FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - AI FM HD" tvg-logo="https://go4.pw/ASIA/ai.png" group-title="AS | MALAYSIA",MY - AI FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170908
-#EXTINF:-1 group-title="Malaysia & Astro",ASYIK FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASYIK FM HD" tvg-logo="https://go4.pw/ASIA/ASYIK.png" group-title="AS | MALAYSIA",MY - ASYIK FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170926
-#EXTINF:-1 group-title="Malaysia & Astro",ERA FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - ERA FM HD" tvg-logo="https://go4.pw/ASIA/ERA FM.png" group-title="AS | MALAYSIA",MY - ERA FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170932
-#EXTINF:-1 group-title="Malaysia & Astro",HITZ FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - HITZ FM HD" tvg-logo="https://go4.pw/ASIA/HITZ.png" group-title="AS | MALAYSIA",MY - HITZ FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170935
-#EXTINF:-1 group-title="Malaysia & Astro",LITE FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - LITE FM HD" tvg-logo="https://go4.pw/ASIA/lite.png" group-title="AS | MALAYSIA",MY - LITE FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170939
-#EXTINF:-1 group-title="Malaysia & Astro",MELODY FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MELODY FM HD" tvg-logo="https://go4.pw/ASIA/melody.png" group-title="AS | MALAYSIA",MY - MELODY FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170940
-#EXTINF:-1 group-title="Malaysia & Astro",MINNAL FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MINNAL FM HD" tvg-logo="https://go4.pw/ASIA/MINNAL FM.png" group-title="AS | MALAYSIA",MY - MINNAL FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170941
-#EXTINF:-1 group-title="Malaysia & Astro",MIX FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MIX FM HD" tvg-logo="https://go4.pw/ASIA/mix.png" group-title="AS | MALAYSIA",MY - MIX FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170942
-#EXTINF:-1 group-title="Malaysia & Astro",NASTIONAL FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - MY FM HD" tvg-logo="https://go4.pw/ASIA/my1.png" group-title="AS | MALAYSIA",MY - MY FM HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170943
+#EXTINF:-1 tvg-id="" tvg-name="MY - NASTIONAL FM HD" tvg-logo="https://go4.pw/ASIA/NAS FM.png" group-title="AS | MALAYSIA",MY - NASTIONAL FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170944
-#EXTINF:-1 group-title="Malaysia & Astro",SINAR FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SINAR FM HD" tvg-logo="https://go4.pw/ASIA/sinar.png" group-title="AS | MALAYSIA",MY - SINAR FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170947
-#EXTINF:-1 group-title="Malaysia & Astro",TRAXX FM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - TRAXX FM HD" tvg-logo="https://go4.pw/ASIA/TRAXX.png" group-title="AS | MALAYSIA",MY - TRAXX FM HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170950
-#EXTINF:-1 group-title="Malaysia & Astro",SABAH V FM
+#EXTINF:-1 tvg-id="" tvg-name="MY - SABAH V FM" tvg-logo="https://go4.pw/ASIA/sabah.png" group-title="AS | MALAYSIA",MY - SABAH V FM
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170951
-#EXTINF:-1 group-title="Malaysia & Astro",INDIA BEAT SYOK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - WAI FM HD" tvg-logo="https://go4.pw/ASIA/WAI FM.png" group-title="AS | MALAYSIA",MY - WAI FM HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170952
+#EXTINF:-1 tvg-id="" tvg-name="MY - GOLD SYOK HD" tvg-logo="https://go4.pw/ASIA/GOLD.png" group-title="AS | MALAYSIA",MY - GOLD SYOK HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170934
+#EXTINF:-1 tvg-id="" tvg-name="MY - INDIA BEAT SYOK HD" tvg-logo="https://go4.pw/ASIA/INDIA.png" group-title="AS | MALAYSIA",MY - INDIA BEAT SYOK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170936
-#EXTINF:-1 group-title="Malaysia & Astro",OPUS SYOK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - OPUS SYOK HD" tvg-logo="https://go4.pw/ASIA/OPUS.png" group-title="AS | MALAYSIA",MY - OPUS SYOK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170945
-#EXTINF:-1 group-title="Malaysia & Astro",THR GEGAR HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - THR GEGAR HD" tvg-logo="https://go4.pw/ASIA/gegar.png" group-title="AS | MALAYSIA",MY - THR GEGAR HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170948
-#EXTINF:-1 group-title="Malaysia & Astro",THR RAAGA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - THR RAAGA HD" tvg-logo="https://go4.pw/ASIA/RAAGA.png" group-title="AS | MALAYSIA",MY - THR RAAGA HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170949
-#EXTINF:-1 group-title="Malaysia & Astro",KENYALANG HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - KENYALANG HD" tvg-logo="https://go4.pw/ASIA/KENYALANG.png" group-title="AS | MALAYSIA",MY - KENYALANG HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170938
-#EXTINF:-1 group-title="Malaysia & Astro",CLASSIC ROCK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - BAYU HD" tvg-logo="https://go4.pw/ASIA/BAYU.png" group-title="AS | MALAYSIA",MY - BAYU HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170927
+#EXTINF:-1 tvg-id="" tvg-name="MY - CLASSIC ROCK HD" tvg-logo="https://go4.pw/ASIA/CLASSIC ROCK.png" group-title="AS | MALAYSIA",MY - CLASSIC ROCK HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170931
-#EXTINF:-1 group-title="Malaysia & Astro",GO XUAN HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - GO XUAN HD" tvg-logo="https://go4.pw/ASIA/GO XUAN.png" group-title="AS | MALAYSIA",MY - GO XUAN HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170933
-#EXTINF:-1 group-title="Malaysia & Astro",JAZZ HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - JAZZ HD" tvg-logo="https://go4.pw/ASIA/JAZZ.png" group-title="AS | MALAYSIA",MY - JAZZ HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170937
-#EXTINF:-1 group-title="Malaysia & Astro",OSAI HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - OSAI HD" tvg-logo="https://go4.pw/ASIA/OSAI.png" group-title="AS | MALAYSIA",MY - OSAI HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170946
+#EXTINF:-1 tvg-id="" tvg-name="MY - ZAYAN HD" tvg-logo="https://go4.pw/ASIA/ZAYAN.png" group-title="AS | MALAYSIA",MY - ZAYAN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170953
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="##### KR - KOREA #####" tvg-logo="https://go4.pw/MAGFLAGS/SOUTH-KOREA.png" group-title="AS | ASIA",##### KR - KOREA #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977751
+#EXTINF:-1 tvg-id="" tvg-name="KR - ARIRANG KOREA SD" tvg-logo="https://go4.pw/ASIA/ARIRANG KOREA.png" group-title="AS | ASIA",KR - ARIRANG KOREA SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977679
+#EXTINF:-1 tvg-id="" tvg-name="KR - ARIRANG SD" tvg-logo="https://go4.pw/ASIA/ARIRANG.png" group-title="AS | ASIA",KR - ARIRANG SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69161
+#EXTINF:-1 tvg-id="" tvg-name="KR - SBS HD" tvg-logo="https://go4.pw/ASIA/SBS.png" group-title="AS | ASIA",KR - SBS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977680
+#EXTINF:-1 tvg-id="" tvg-name="KR - SBS PLUS HD" tvg-logo="https://go4.pw/ASIA/SBS PLUS.png" group-title="AS | ASIA",KR - SBS PLUS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977681
+#EXTINF:-1 tvg-id="" tvg-name="KR - YTN HD" tvg-logo="https://go4.pw/ASIA/YTN.png" group-title="AS | ASIA",KR - YTN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977682
+#EXTINF:-1 tvg-id="" tvg-name="KR - MBC HD" tvg-logo="https://go4.pw/ASIA/MBC.png" group-title="AS | ASIA",KR - MBC HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977683
+#EXTINF:-1 tvg-id="" tvg-name="KR - MBN HD" tvg-logo="https://go4.pw/ASIA/MBN.png" group-title="AS | ASIA",KR - MBN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977684
+#EXTINF:-1 tvg-id="" tvg-name="KR - EBS HD" tvg-logo="https://go4.pw/ASIA/EBS.png" group-title="AS | ASIA",KR - EBS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977685
+#EXTINF:-1 tvg-id="" tvg-name="KR - TAN HD" tvg-logo="https://go4.pw/ASIA/TAN.png" group-title="AS | ASIA",KR - TAN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977686
+#EXTINF:-1 tvg-id="" tvg-name="KR - SONY MOVIES HD" tvg-logo="https://go4.pw/EUROPE/UK/SONYMOVIES.png" group-title="AS | ASIA",KR - SONY MOVIES HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977688
+#EXTINF:-1 tvg-id="" tvg-name="KR - KBS WORLD  HD" tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | ASIA",KR - KBS WORLD  HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977690
+#EXTINF:-1 tvg-id="" tvg-name="KR - EBS 2 SD" tvg-logo="https://go4.pw/ASIA/KOREA/EBS-PLUS-1.png" group-title="AS | ASIA",KR - EBS 2 SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69158
+#EXTINF:-1 tvg-id="" tvg-name="KR - EBS PLUS  SD" tvg-logo="https://go4.pw/ASIA/ebs2pls.png" group-title="AS | ASIA",KR - EBS PLUS  SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69154
+#EXTINF:-1 tvg-id="" tvg-name="KR - EBS PLUS 1 SD" tvg-logo="https://go4.pw/ASIA/KOREA/EBS-PLUS-1.png" group-title="AS | ASIA",KR - EBS PLUS 1 SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69155
+#EXTINF:-1 tvg-id="" tvg-name="KR - EBS ENGLISH SD" tvg-logo="https://go4.pw/ASIA/KOREA/ebsenglish.png" group-title="AS | ASIA",KR - EBS ENGLISH SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69156
+#EXTINF:-1 tvg-id="" tvg-name="KR - EBS KIDS SD" tvg-logo="https://go4.pw/ASIA/ebskids.png" group-title="AS | ASIA",KR - EBS KIDS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69162
+#EXTINF:-1 tvg-id="" tvg-name="KR - CTS SD" tvg-logo="https://go4.pw/ASIA/CTS.png" group-title="AS | ASIA",KR - CTS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/977687
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="##### TH - THAILAND #####" tvg-logo="https://go4.pw/ASIA/Thailand/Thailand.png" group-title="AS | ASIA",##### TH - THAILAND #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69222
+#EXTINF:-1 tvg-id="" tvg-name="TH - TV5THAI HD" tvg-logo="https://go4.pw/ASIA/Thailand/Logo_tv5.png" group-title="AS | ASIA",TH - TV5THAI HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/788274
+#EXTINF:-1 tvg-id="" tvg-name="TH - THAI PBS HD" tvg-logo="https://go4.pw/ASIA/Thailand/TPBS_Logo.png" group-title="AS | ASIA",TH - THAI PBS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69216
+#EXTINF:-1 tvg-id="" tvg-name="TH -  CVA HMONG FRESNO HD" tvg-logo="https://go4.pw/ASIA/HMONG.png" group-title="AS | ASIA",TH -  CVA HMONG FRESNO HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028149
+#EXTINF:-1 tvg-id="" tvg-name="TH -  CVA HMONG FRESNO HD" tvg-logo="https://go4.pw/ASIA/HMONG.png" group-title="AS | ASIA",TH -  CVA HMONG FRESNO HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028150
+#EXTINF:-1 tvg-id="" tvg-name="TH - KHMER TV HD" tvg-logo="https://go4.pw/ASIA/KH.png" group-title="AS | ASIA",TH - KHMER TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028153
+#EXTINF:-1 tvg-id="" tvg-name="TH - CHANNEL 5 HD" tvg-logo="https://go4.pw/ASIA/CHANNEL5.png" group-title="AS | ASIA",TH - CHANNEL 5 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028155
+#EXTINF:-1 tvg-id="" tvg-name="TH - GOOD IDEA TV USA HD" tvg-logo="https://go4.pw/ASIA/GOOD.png" group-title="AS | ASIA",TH - GOOD IDEA TV USA HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028162
+#EXTINF:-1 tvg-id="" tvg-name="TH - LAO SV TV HD" tvg-logo="https://go4.pw/ASIA/VIETNAM/LAO_CAI.png" group-title="AS | ASIA",TH - LAO SV TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028165
+#EXTINF:-1 tvg-id="" tvg-name="TH - SEA TODAY TV HD" tvg-logo="https://go4.pw/ASIA/SEA.png" group-title="AS | ASIA",TH - SEA TODAY TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028171
+#EXTINF:-1 tvg-id="" tvg-name="TH - MCOT HD" tvg-logo="https://go4.pw/ASIA/MCOT.png" group-title="AS | ASIA",TH - MCOT HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028166
+#EXTINF:-1 tvg-id="" tvg-name="TH - DAO LANE XANG SD" tvg-logo="https://go4.pw/ASIA/DAO.png" group-title="AS | ASIA",TH - DAO LANE XANG SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028159
+#EXTINF:-1 tvg-id="" tvg-name="TH - ETV KHMER SD" tvg-logo="https://go4.pw/ASIA/ETV.png" group-title="AS | ASIA",TH - ETV KHMER SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028160
+#EXTINF:-1 tvg-id="" tvg-name="##### CN - CHINA #####" tvg-logo="https://go4.pw/ASIA/chaina.png" group-title="AS | ASIA",##### CN - CHINA #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269805
+#EXTINF:-1 tvg-id="" tvg-name="CN - TVB HD" tvg-logo="https://go4.pw/ASIA/TV-3.png" group-title="AS | ASIA",CN - TVB HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269835
+#EXTINF:-1 tvg-id="" tvg-name="CN - TVBE HD" tvg-logo="https://go4.pw/ASIA/TV-3.png" group-title="AS | ASIA",CN - TVBE HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269832
+#EXTINF:-1 tvg-id="" tvg-name="CN - TVB DRAMA HD" tvg-logo="https://go4.pw/ASIA/TV-3.png" group-title="AS | ASIA",CN - TVB DRAMA HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269830
+#EXTINF:-1 tvg-id="" tvg-name="CN - TVB PEARL HD" tvg-logo="https://go4.pw/ASIA/TV-3.png" group-title="AS | ASIA",CN - TVB PEARL HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/616461
+#EXTINF:-1 tvg-id="" tvg-name="CN - TVB1 HD" tvg-logo="https://go4.pw/ASIA/TV-3.png" group-title="AS | ASIA",CN - TVB1 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269834
+#EXTINF:-1 tvg-id="" tvg-name="CN - TVB2 SD " tvg-logo="https://go4.pw/ASIA/TV-3.png" group-title="AS | ASIA",CN - TVB2 SD 
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269833
+#EXTINF:-1 tvg-id="" tvg-name="##### CN - GENERAL #####" tvg-logo="https://go4.pw/ASIA/chaina.png" group-title="AS | ASIA",##### CN - GENERAL #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269804
+#EXTINF:-1 tvg-id="" tvg-name="CN - CGTN-ESPANOL HD" tvg-logo="https://go4.pw/ASIA/CHINA/CGTN-ESPANOL.png" group-title="AS | ASIA",CN - CGTN-ESPANOL HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269816
+#EXTINF:-1 tvg-id="" tvg-name="CN - CGTN HD" tvg-logo="https://go4.pw/ASIA/CHINA/CGTN_English.png" group-title="AS | ASIA",CN - CGTN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269817
+#EXTINF:-1 tvg-id="" tvg-name="CN - BEIJING TV SD" tvg-logo="https://go4.pw/ASIA/BTV.png" group-title="AS | ASIA",CN - BEIJING TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269814
+#EXTINF:-1 tvg-id="" tvg-name="CN -  NTD TELEVISION SD" tvg-logo="https://go4.pw/ASIA/CHINA/NTD.png" group-title="AS | ASIA",CN -  NTD TELEVISION SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/855431
+#EXTINF:-1 tvg-id="" tvg-name="CN - DRAGON TV SD" tvg-logo="https://go4.pw/ASIA/CHINA/dragon.jpg" group-title="AS | ASIA",CN - DRAGON TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269815
+#EXTINF:-1 tvg-id="" tvg-name="CN -  GRT GBA SATELLITE TV" tvg-logo="https://go4.pw/ASIA/CHINA/GRTGBA.png" group-title="AS | ASIA",CN -  GRT GBA SATELLITE TV
+http://bestp55.xyz:80/A7FC77529786/519C32219872/855429
+#EXTINF:-1 tvg-id="" tvg-name="##### CN -  ENTERTAINMENT #####" tvg-logo="https://go4.pw/ASIA/chaina.png" group-title="AS | ASIA",##### CN -  ENTERTAINMENT #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269802
+#EXTINF:-1 tvg-id="" tvg-name="CN - CCTV-4 HD" tvg-logo="https://go4.pw/ASIA/CCTV-4.png" group-title="AS | ASIA",CN - CCTV-4 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269826
+#EXTINF:-1 tvg-id="" tvg-name="CN - CCTV-OPERA HD" tvg-logo="https://go4.pw/ASIA/CCTV-4.png" group-title="AS | ASIA",CN - CCTV-OPERA HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269824
+#EXTINF:-1 tvg-id="" tvg-name="CN - CCTV-ENTERTAINMENT HD" tvg-logo="https://go4.pw/ASIA/CCTV-4.png" group-title="AS | ASIA",CN - CCTV-ENTERTAINMENT HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269825
+#EXTINF:-1 tvg-id="" tvg-name="CN - BABYTV MANDARIN HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/BABYTV-1.png" group-title="AS | ASIA",CN - BABYTV MANDARIN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269827
+#EXTINF:-1 tvg-id="" tvg-name="##### CN - MOVIES #####" tvg-logo="https://go4.pw/ASIA/chaina.png" group-title="AS | ASIA",##### CN - MOVIES #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269803
+#EXTINF:-1 tvg-id="" tvg-name="CN - HUNAN SATELLITE TV HD" tvg-logo="https://go4.pw/ASIA/CHINA/HNSTV_logo.png" group-title="AS | ASIA",CN - HUNAN SATELLITE TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269812
+#EXTINF:-1 tvg-id="" tvg-name="CN - ANHUI TELEVISION HD" tvg-logo="https://go4.pw/ASIA/CHINA/ANHUI-TELEVISION.png" group-title="AS | ASIA",CN - ANHUI TELEVISION HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269810
+#EXTINF:-1 tvg-id="" tvg-name="CN - GREAT WALL ELITE HD" tvg-logo="https://go4.pw/ASIA/CHINA/great-wall-elite.png" group-title="AS | ASIA",CN - GREAT WALL ELITE HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269821
+#EXTINF:-1 tvg-id="" tvg-name="CN - PACVIA TV SD" tvg-logo="https://go4.pw/ASIA/pacvia.png" group-title="AS | ASIA",CN - PACVIA TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269808
+#EXTINF:-1 tvg-id="" tvg-name="CN - FUJIAN STRAITS TV SD" tvg-logo="https://go4.pw/ASIA/CHINA/FUJTV-logo.png" group-title="AS | ASIA",CN - FUJIAN STRAITS TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269806
+#EXTINF:-1 tvg-id="" tvg-name="CN - SHENZHEN TELEVISION SD" tvg-logo="https://go4.pw/ASIA/shenzhen.png" group-title="AS | ASIA",CN - SHENZHEN TELEVISION SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269811
+#EXTINF:-1 tvg-id="" tvg-name="CN - CHINA MOVIE CHANNEL SD" tvg-logo="https://go4.pw/ASIA/CHINA-MOVIE.png" group-title="AS | ASIA",CN - CHINA MOVIE CHANNEL SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269813
+#EXTINF:-1 tvg-id="" tvg-name="CN - GUANGDONG SOUTHERN TV SD" tvg-logo="https://go4.pw/ASIA/TVS.png" group-title="AS | ASIA",CN - GUANGDONG SOUTHERN TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269819
+#EXTINF:-1 tvg-id="" tvg-name="CN - ZHEJIANG TV SD" tvg-logo="https://go4.pw/ASIA/CHANNEL-2.png" group-title="AS | ASIA",CN - ZHEJIANG TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269818
+#EXTINF:-1 tvg-id="" tvg-name="CN - JIANGSU INTERNATIONAL CHANNEL SD" tvg-logo="https://go4.pw/ASIA/JSBC.png" group-title="AS | ASIA",CN - JIANGSU INTERNATIONAL CHANNEL SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269807
+#EXTINF:-1 tvg-id="" tvg-name="CN -  LA CHAINE DU CINEMA CHINOIS" tvg-logo="https://go4.pw/ASIA/CHINA/china-movie.png" group-title="AS | ASIA",CN -  LA CHAINE DU CINEMA CHINOIS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/855430
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="##### TW - TAIWAN #####" tvg-logo="https://go4.pw/FLAGS/flag_taiwan.png" group-title="AS | ASIA",##### TW - TAIWAN #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269916
+#EXTINF:-1 tvg-id="" tvg-name="TW - SKYLINK TELEVISION HD" tvg-logo="https://go4.pw/ASIA/skylink.png" group-title="AS | ASIA",TW - SKYLINK TELEVISION HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269921
+#EXTINF:-1 tvg-id="" tvg-name="TW - SKYLINK TELEVISION 2 HD" tvg-logo="https://go4.pw/ASIA/skylink.png" group-title="AS | ASIA",TW - SKYLINK TELEVISION 2 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269920
+#EXTINF:-1 tvg-id="" tvg-name="TW - ET NEWS HD" tvg-logo="https://go4.pw/ASIA/taiwan/ET-NEWS.png" group-title="AS | ASIA",TW - ET NEWS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269923
+#EXTINF:-1 tvg-id="" tvg-name="TW - ET GLOBAL HD" tvg-logo="https://go4.pw/ASIA/taiwan/ET-GLOBAL.png" group-title="AS | ASIA",TW - ET GLOBAL HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269926
+#EXTINF:-1 tvg-id="" tvg-name="TW - ET FINANCIAL NEWS SD" tvg-logo="https://go4.pw/ASIA/taiwan/ET-FINANCIAL-NEWS.png" group-title="AS | ASIA",TW - ET FINANCIAL NEWS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269924
+#EXTINF:-1 tvg-id="" tvg-name="TW - ET DRAMA SD" tvg-logo="https://go4.pw/ASIA/taiwan/ET-DRAMA.png" group-title="AS | ASIA",TW - ET DRAMA SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269925
+#EXTINF:-1 tvg-id="" tvg-name="TW - ET CHINA SD" tvg-logo="https://go4.pw/ASIA/CHINA-TOUR.png" group-title="AS | ASIA",TW - ET CHINA SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269927
+#EXTINF:-1 tvg-id="" tvg-name="TW - ICITI HD" tvg-logo="https://go4.pw/ASIA/iciti.png" group-title="AS | ASIA",TW - ICITI HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269919
+#EXTINF:-1 tvg-id="" tvg-name="TW - YOYO TV SD" tvg-logo="https://go4.pw/ASIA/taiwan/YOYO-TV.png" group-title="AS | ASIA",TW - YOYO TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269917
+#EXTINF:-1 tvg-id="" tvg-name="TW - TVBS SD" tvg-logo="https://go4.pw/ASIA/tvbs.png" group-title="AS | ASIA",TW - TVBS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269918
+#EXTINF:-1 tvg-id="" tvg-name="TW - USTV SD" tvg-logo="https://go4.pw/ASIA/taiwan/USTV.png" group-title="AS | ASIA",TW - USTV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269922
+#EXTINF:-1 tvg-id="" tvg-name="TW - TTV SD" tvg-logo="https://go4.pw/ASIA/taiwan/TTV.png" group-title="AS | ASIA",TW - TTV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269928
+#EXTINF:-1 tvg-id="" tvg-name="TW - CTS AMERICA SD" tvg-logo="https://go4.pw/ASIA/CTS-AMERICA.png" group-title="AS | ASIA",TW - CTS AMERICA SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269929
+#EXTINF:-1 tvg-id="" tvg-name="TW - FORMOSA TV SD" tvg-logo="https://go4.pw/ASIA/formosa.png" group-title="AS | ASIA",TW - FORMOSA TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269931
+#EXTINF:-1 tvg-id="" tvg-name="##### JP - JAPAN #####" tvg-logo="https://go4.pw/ASIA/JAPAN/JAPAN.jpg" group-title="AS | ASIA",##### JP - JAPAN #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/427935
+#EXTINF:-1 tvg-id="" tvg-name="JP - NHK WORLD HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | ASIA",JP - NHK WORLD HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1003472
+#EXTINF:-1 tvg-id="" tvg-name="JP - WWWE HD" tvg-logo="https://go4.pw/USA/SD2/15.png" group-title="AS | ASIA",JP - WWWE HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1003473
+#EXTINF:-1 tvg-id="" tvg-name="JP - NHK WORLD PREMIUM HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | ASIA",JP - NHK WORLD PREMIUM HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1003470
+#EXTINF:-1 tvg-id="" tvg-name="JP - NHK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | ASIA",JP - NHK HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1003471
+#EXTINF:-1 tvg-id="" tvg-name="JP - NHK GENERAL TV HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/nhk.png" group-title="AS | ASIA",JP - NHK GENERAL TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1003475
+#EXTINF:-1 tvg-id="" tvg-name="JP - NGN3 JAPAN (SP)" tvg-logo="https://go4.pw/ASIA/japon/NHK-WORLD-JAPAN.png" group-title="AS | ASIA",JP - NGN3 JAPAN (SP)
+http://bestp55.xyz:80/A7FC77529786/519C32219872/427637
+#EXTINF:-1 tvg-id="" tvg-name="JP - NIPPON TV SD" tvg-logo="https://go4.pw/ASIA/NIPPON_TV.png" group-title="AS | ASIA",JP - NIPPON TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1003476
+#EXTINF:-1 tvg-id="" tvg-name="JP - QVC JAPAN" tvg-logo="https://go4.pw/ASIA/qvc.png" group-title="AS | ASIA",JP - QVC JAPAN
+http://bestp55.xyz:80/A7FC77529786/519C32219872/427610
+#EXTINF:-1 tvg-id="" tvg-name="JP - CGNTV JAPAN" tvg-logo="https://go4.pw/ASIA/japon/jp_CGNTV.png" group-title="AS | ASIA",JP - CGNTV JAPAN
+http://bestp55.xyz:80/A7FC77529786/519C32219872/818042
+#EXTINF:-1 tvg-id="" tvg-name="##### HK - NOW HK PREMIER SPORTS  #####" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",##### HK - NOW HK PREMIER SPORTS  #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/677028
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 1 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 1 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748430
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 2 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 2 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748431
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 3 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 3 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748432
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 4 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 4 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748433
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 5 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 5 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748434
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 6 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 6 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748435
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 7 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 7 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748436
+#EXTINF:-1 tvg-id="" tvg-name="NOW HK PREMIER SPORTS 8 FHD" tvg-logo="https://go4.pw/PHILIPINES/Now-HK-Premier.png" group-title="AS | ASIA",NOW HK PREMIER SPORTS 8 FHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/748437
+#EXTINF:-1 tvg-id="" tvg-name="##### PH - PHILIPPINES #####" tvg-logo="https://go4.pw/MAGFLAGS/PHILIPPINES.png" group-title="AS | PHILIPPINES",##### PH - PHILIPPINES #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69167
+#EXTINF:-1 tvg-id="" tvg-name="PH - GMA NEWS TV | SD" tvg-logo="https://go4.pw/ASIA/gmanews.png" group-title="AS | PHILIPPINES",PH - GMA NEWS TV | SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/72459
+#EXTINF:-1 tvg-id="gmalife.ph" tvg-name="PH - GMA LIFE TV SD" tvg-logo="https://go4.pw/PHILIPINES/GMA-Life.png" group-title="AS | PHILIPPINES",PH - GMA LIFE TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/107982
+#EXTINF:-1 tvg-id="" tvg-name="PH - MTV 00S SD" tvg-logo="https://go4.pw/EUROPE/MALTA/MTV_00s.png" group-title="AS | PHILIPPINES",PH - MTV 00S SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/107989
+#EXTINF:-1 tvg-id="" tvg-name="PH - ABS CBN SPORTS ACTION" tvg-logo="https://go4.pw/ASIA/abscbn.png" group-title="AS | PHILIPPINES",PH - ABS CBN SPORTS ACTION
+http://bestp55.xyz:80/A7FC77529786/519C32219872/115119
+#EXTINF:-1 tvg-id="" tvg-name="PH - GMA LIFESTYLE NETWORK SD" tvg-logo="https://go4.pw/PHILIPINES/GMA-Life.png" group-title="AS | PHILIPPINES",PH - GMA LIFESTYLE NETWORK SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/115138
+#EXTINF:-1 tvg-id="" tvg-name="PH - TFC HD" tvg-logo="https://go4.pw/PHILIPINES/TFC.png" group-title="AS | PHILIPPINES",PH - TFC HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/115170
+#EXTINF:-1 tvg-id="" tvg-name="CN - PHOENIX NORTH AMERICA CHINESE CHANNEL HD" tvg-logo="https://go4.pw/ASIA/CHINA/PHOENIX-NORTH-AMERICA-CHINESE-CHANNEL.png" group-title="AS | PHILIPPINES",CN - PHOENIX NORTH AMERICA CHINESE CHANNEL HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269822
+#EXTINF:-1 tvg-id="" tvg-name="CN - PHOENIX INFONEWS HD" tvg-logo="https://go4.pw/ASIA/CHINA/PHOENIX-INFONEWS.png" group-title="AS | PHILIPPINES",CN - PHOENIX INFONEWS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269823
+#EXTINF:-1 tvg-id="" tvg-name="CN - PHOENIX HONG KONG CHANNEL HD" tvg-logo="https://go4.pw/ASIA/phoenix.png" group-title="AS | PHILIPPINES",CN - PHOENIX HONG KONG CHANNEL HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/269828
+#EXTINF:-1 tvg-id="" tvg-name="PH - WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/640px-Warner2018LA.png" group-title="AS | PHILIPPINES",PH - WARNER TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543236
+#EXTINF:-1 tvg-id="" tvg-name="PH - VIVA CINEMA HD" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02101119/vivacinema-logo-300x300.png" group-title="AS | PHILIPPINES",PH - VIVA CINEMA HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543237
+#EXTINF:-1 tvg-id="" tvg-name="PH - UAAP VARSITY  HD" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/10/Varsity_Channel_Logo_2021.png/revision/latest/scale-to-width-down/250?cb=20220319212403" group-title="AS | PHILIPPINES",PH - UAAP VARSITY  HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543238
+#EXTINF:-1 tvg-id="tv5.ph" tvg-name="PH - TV5 HD" tvg-logo="https://go4.pw/ASIA/tv5.png" group-title="AS | PHILIPPINES",PH - TV5 HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543239
+#EXTINF:-1 tvg-id="" tvg-name="PH - TRAVEL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" group-title="AS | PHILIPPINES",PH - TRAVEL CHANNEL HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543240
+#EXTINF:-1 tvg-id="" tvg-name="PH - TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TLC-HD-Logo_2019.svg/2560px-TLC-HD-Logo_2019.svg.png" group-title="AS | PHILIPPINES",PH - TLC HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543241
+#EXTINF:-1 tvg-id="" tvg-name="PH - TECHSTORM" tvg-logo="https://go4.pw/ASIA/techstorm.png" group-title="AS | PHILIPPINES",PH - TECHSTORM
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543244
+#EXTINF:-1 tvg-id="" tvg-name="PH - TAP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="AS | PHILIPPINES",PH - TAP TV
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543245
+#EXTINF:-1 tvg-id="" tvg-name="PH - TAP SPORT SD" tvg-logo="https://go4.pw/PHILIPINES/Tap_Sports.png" group-title="AS | PHILIPPINES",PH - TAP SPORT SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543246
+#EXTINF:-1 tvg-id="" tvg-name="PH - TAP MOVIES HD" tvg-logo="https://go4.pw/PHILIPINES/TAP_Movies.png" group-title="AS | PHILIPPINES",PH - TAP MOVIES HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543247
+#EXTINF:-1 tvg-id="" tvg-name="PH - TAP EDGE SD" tvg-logo="https://go4.pw/ASIA/tapedge.png" group-title="AS | PHILIPPINES",PH - TAP EDGE SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543248
+#EXTINF:-1 tvg-id="" tvg-name="PH - TAP ACTION FLIX HD" tvg-logo="https://go4.pw/ASIA/tapaction.png" group-title="AS | PHILIPPINES",PH - TAP ACTION FLIX HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543249
+#EXTINF:-1 tvg-id="" tvg-name="PH - SARI-SARI" tvg-logo="https://go4.pw/ASIA/SARI_SARI.png" group-title="AS | PHILIPPINES",PH - SARI-SARI
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543252
+#EXTINF:-1 tvg-id="" tvg-name="PH - ROCK EXTREME" tvg-logo="https://go4.pw/ASIA/rock.png" group-title="AS | PHILIPPINES",PH - ROCK EXTREME
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543253
+#EXTINF:-1 tvg-id="" tvg-name="PH - ROCK ENTERTAINMENT" tvg-logo="https://go4.pw/ASIA/rockente.png" group-title="AS | PHILIPPINES",PH - ROCK ENTERTAINMENT
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543254
+#EXTINF:-1 tvg-id="" tvg-name="PH - PTV 4 SD" tvg-logo="https://go4.pw/ASIA/PTV4.png" group-title="AS | PHILIPPINES",PH - PTV 4 SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543255
+#EXTINF:-1 tvg-id="premiersports.ph" tvg-name="PH - PREMIER SPORTS HD" tvg-logo="https://go4.pw/PHILIPINES/Premier_Sports.png" group-title="AS | PHILIPPINES",PH - PREMIER SPORTS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543256
+#EXTINF:-1 tvg-id="" tvg-name="PH - PINOY BOX OFFICE SD" tvg-logo="https://go4.pw/PHILIPINES/Pinoy_Box_Office.png" group-title="AS | PHILIPPINES",PH - PINOY BOX OFFICE SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543257
+#EXTINF:-1 tvg-id="" tvg-name="PH - PBA RUSH SD" tvg-logo="https://go4.pw/PHILIPINES/PBA_Rush.png" group-title="AS | PHILIPPINES",PH - PBA RUSH SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543258
+#EXTINF:-1 tvg-id="" tvg-name="PH - OUTDOOR" tvg-logo="https://go4.pw/ASIA/OUTDOOR-CHANNEL.png" group-title="AS | PHILIPPINES",PH - OUTDOOR
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543260
+#EXTINF:-1 tvg-id="" tvg-name="PH - ONE SPORTS+ SD" tvg-logo="https://go4.pw/PHILIPINES/One_Sportsplus.png" group-title="AS | PHILIPPINES",PH - ONE SPORTS+ SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543261
+#EXTINF:-1 tvg-id="" tvg-name="PH - ONE SPORTS SD" tvg-logo="https://go4.pw/PHILIPINES/One_Sports.png" group-title="AS | PHILIPPINES",PH - ONE SPORTS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543262
+#EXTINF:-1 tvg-id="" tvg-name="PH - ONE HD" tvg-logo="https://go4.pw/PHILIPINES/One_News.png" group-title="AS | PHILIPPINES",PH - ONE HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543263
+#EXTINF:-1 tvg-id="" tvg-name="PH - ONE NEWS HD" tvg-logo="https://go4.pw/PHILIPINES/One_News.png" group-title="AS | PHILIPPINES",PH - ONE NEWS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543264
+#EXTINF:-1 tvg-id="" tvg-name="PH - NICKELODEON HD" tvg-logo="https://go4.pw/PHILIPINES/Nickelodeon.png" group-title="AS | PHILIPPINES",PH - NICKELODEON HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543265
+#EXTINF:-1 tvg-id="" tvg-name="PH - NICK JR" tvg-logo="https://go4.pw/PHILIPINES/Nick_Jr.png" group-title="AS | PHILIPPINES",PH - NICK JR
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543266
+#EXTINF:-1 tvg-id="" tvg-name="PH - NHK WORLD JAPAN SD" tvg-logo="https://go4.pw/ASIA/NHK-WORLD.png" group-title="AS | PHILIPPINES",PH - NHK WORLD JAPAN SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543267
+#EXTINF:-1 tvg-id="" tvg-name="PH - NATIONAL GEOGRAPHIC HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="AS | PHILIPPINES",PH - NATIONAL GEOGRAPHIC HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543268
+#EXTINF:-1 tvg-id="myx.ph" tvg-name="PH - MYX HD" tvg-logo="https://go4.pw/PHILIPINES/MYX.png" group-title="AS | PHILIPPINES",PH - MYX HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543269
+#EXTINF:-1 tvg-id="" tvg-name="PH - MTV ASIA SD" tvg-logo="https://go4.pw/PHILIPINES/MTV_Asia.png" group-title="AS | PHILIPPINES",PH - MTV ASIA SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543270
+#EXTINF:-1 tvg-id="" tvg-name="PH - MOONBUG KIDS" tvg-logo="https://go4.pw/PHILIPINES/Moonbug_Kids.png" group-title="AS | PHILIPPINES",PH - MOONBUG KIDS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543271
+#EXTINF:-1 tvg-id="" tvg-name="PH - LIFETIME" tvg-logo="https://go4.pw/PHILIPINES/Lifetime.png" group-title="AS | PHILIPPINES",PH - LIFETIME
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543272
+#EXTINF:-1 tvg-id="" tvg-name="PH - KIX HD" tvg-logo="https://go4.pw/PHILIPINES/Kix_HD.png" group-title="AS | PHILIPPINES",PH - KIX HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543273
+#EXTINF:-1 tvg-id="" tvg-name="PH - KBS WORLD SD" tvg-logo="https://go4.pw/ASIA/kbsworld.png" group-title="AS | PHILIPPINES",PH - KBS WORLD SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543274
+#EXTINF:-1 tvg-id="" tvg-name="PH - K-PLUS" tvg-logo="https://go4.pw/PHILIPINES/K-Plus.png" group-title="AS | PHILIPPINES",PH - K-PLUS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543275
+#EXTINF:-1 tvg-id="ibc13.ph" tvg-name="PH - IBC 13 SD" tvg-logo="https://go4.pw/PHILIPINES/IBC_13.png" group-title="AS | PHILIPPINES",PH - IBC 13 SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543276
+#EXTINF:-1 tvg-id="" tvg-name="PH - HITS MOVIES SD" tvg-logo="https://go4.pw/PHILIPINES/HITS_Movies.png" group-title="AS | PHILIPPINES",PH - HITS MOVIES SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543277
+#EXTINF:-1 tvg-id="" tvg-name="PH - HITS SD" tvg-logo="https://go4.pw/ASIA/HITS1.png" group-title="AS | PHILIPPINES",PH - HITS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543278
+#EXTINF:-1 tvg-id="FODANZ" tvg-name="PH - FOOD NETWORK HD" tvg-logo="https://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="AS | PHILIPPINES",PH - FOOD NETWORK HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543279
+#EXTINF:-1 tvg-id="12129" tvg-name="PH - DREAMWORKS SD" tvg-logo="https://go4.pw/AFRICA/DREAMWORKS.png" group-title="AS | PHILIPPINES",PH - DREAMWORKS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543280
+#EXTINF:-1 tvg-id="DISANZ" tvg-name="PH - DISCOVERY CHANNEL" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | PHILIPPINES",PH - DISCOVERY CHANNEL
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543281
+#EXTINF:-1 tvg-id="180598" tvg-name="PH - DISCOVERY ASIA" tvg-logo="https://go4.pw/ASIA/DISCOVERY.png" group-title="AS | PHILIPPINES",PH - DISCOVERY ASIA
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543282
+#EXTINF:-1 tvg-id="" tvg-name="PH - DEPED TV SD" tvg-logo="https://go4.pw/PHILIPINES/deped.png" group-title="AS | PHILIPPINES",PH - DEPED TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543283
+#EXTINF:-1 tvg-id="" tvg-name="PH - BUKO" tvg-logo="https://go4.pw/PHILIPINES/Buko.png" group-title="AS | PHILIPPINES",PH - BUKO
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543284
+#EXTINF:-1 tvg-id="BOOMALH" tvg-name="PH - BOOMERANG HD" tvg-logo="https://go4.pw/EXYU/Boomerang_tv_.png" group-title="AS | PHILIPPINES",PH - BOOMERANG HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543285
+#EXTINF:-1 tvg-id="BLMASIA" tvg-name="PH - BLOOMBERG" tvg-logo="https://go4.pw/ASIA/BLOOMBERG.png" group-title="AS | PHILIPPINES",PH - BLOOMBERG
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543286
+#EXTINF:-1 tvg-id="" tvg-name="PH - TVN TV SD" tvg-logo="https://go4.pw/ASIA/TVN.png" group-title="AS | PHILIPPINES",PH - TVN TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543288
+#EXTINF:-1 tvg-id="GTMCP1D" tvg-name="PH - TMC SD" tvg-logo="https://go4.pw/EUROPE/FRANCE/TMC-1.png" group-title="AS | PHILIPPINES",PH - TMC SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543289
+#EXTINF:-1 tvg-id="BBCWANZ" tvg-name="PH - BBC WORLD NEWS" tvg-logo="https://go4.pw/PHILIPINES/BBC_World_News.png" group-title="AS | PHILIPPINES",PH - BBC WORLD NEWS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543290
+#EXTINF:-1 tvg-id="BBCEC" tvg-name="PH - BBC EARTH HD" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | PHILIPPINES",PH - BBC EARTH HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543291
+#EXTINF:-1 tvg-id="axn.ph" tvg-name="PH - AXN HD" tvg-logo="https://go4.pw/ASIA/axn.png" group-title="AS | PHILIPPINES",PH - AXN HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543292
+#EXTINF:-1 tvg-id="" tvg-name="PH - ASIAN FODD SD" tvg-logo="https://go4.pw/PHILIPINES/Asian_Food.png" group-title="AS | PHILIPPINES",PH - ASIAN FODD SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543293
+#EXTINF:-1 tvg-id="" tvg-name="PH - KAPATID TV HD" tvg-logo="https://go4.pw/ASIA/kapatid.png" group-title="AS | PHILIPPINES",PH - KAPATID TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/543294
+#EXTINF:-1 tvg-id="TFC4" tvg-name="PH - TFC TV HD" tvg-logo="https://go4.pw/ASIA/TFC.png" group-title="AS | PHILIPPINES",PH - TFC TV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/744363
+#EXTINF:-1 tvg-id="11822" tvg-name="PH - ANIMAL PLANET SD" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="AS | PHILIPPINES",PH - ANIMAL PLANET SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1015606
+#EXTINF:-1 tvg-id="50663" tvg-name="PH - PBO SD" tvg-logo="https://go4.pw/ASIA/PBO.png" group-title="AS | PHILIPPINES",PH - PBO SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028245
+#EXTINF:-1 tvg-id="" tvg-name="PH - BUKO CHANNEL SD" tvg-logo="https://go4.pw/ASIA/BUKO.png" group-title="AS | PHILIPPINES",PH - BUKO CHANNEL SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028246
+#EXTINF:-1 tvg-id="70612" tvg-name="PH - PTV4 SD" tvg-logo="https://go4.pw/ASIA/PTV4.png" group-title="AS | PHILIPPINES",PH - PTV4 SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1028247
+#EXTINF:-1 tvg-id="70615" tvg-name="PH - GMA PINOY TV SD" tvg-logo="https://go4.pw/ASIA/pin.png" group-title="AS | PHILIPPINES",PH - GMA PINOY TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1152766
+#EXTINF:-1 tvg-id="7870" tvg-name="PH - KAPAMILYA CHANNEL" tvg-logo="https://go4.pw/ASIA/KAPAMILYA.png" group-title="AS | PHILIPPINES",PH - KAPAMILYA CHANNEL
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1170841
+#EXTINF:-1 tvg-id="" tvg-name="PH - TELERADYO SERBISYO" tvg-logo="https://go4.pw/PHILIPINES/trs.png" group-title="AS | PHILIPPINES",PH - TELERADYO SERBISYO
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1257294
+#EXTINF:-1 tvg-id="" tvg-name="##### AU - AUSTRALIA #####" tvg-logo="https://go4.pw/AUSTRALIA/AUSTRALIA.png" group-title="AS | AUSTRALIA",##### AU - AUSTRALIA #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78083
+#EXTINF:-1 tvg-id="" tvg-name="AU - Fireplace 4K" tvg-logo="https://go4.pw/AUSTRALIA/Fireplace.png" group-title="AS | AUSTRALIA",AU - Fireplace 4K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948934
+#EXTINF:-1 tvg-id="" tvg-name="AU - SKY NEWS NOW" tvg-logo="https://go4.pw/NIGERIA/SKY_NEWS.png" group-title="AS | AUSTRALIA",AU - SKY NEWS NOW
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948822
+#EXTINF:-1 tvg-id="" tvg-name="AU - BLOOMBERG TV" tvg-logo="https://go4.pw/USA/19.png" group-title="AS | AUSTRALIA",AU - BLOOMBERG TV
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948823
+#EXTINF:-1 tvg-id="" tvg-name="AU - BREAKING NEWS BY LEADSTORY" tvg-logo="https://go4.pw/AUSTRALIA/Breaking News by LeadStory.png" group-title="AS | AUSTRALIA",AU - BREAKING NEWS BY LEADSTORY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948824
+#EXTINF:-1 tvg-id="" tvg-name="AU - EURONEWS WORLD" tvg-logo="https://go4.pw/germany/eurns.png" group-title="AS | AUSTRALIA",AU - EURONEWS WORLD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948825
+#EXTINF:-1 tvg-id="9gem.au" tvg-name="AU - 9GEM" tvg-logo="https://go4.pw/AUSTRALIA/9GEM.png" group-title="AS | AUSTRALIA",AU - 9GEM
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43318
+#EXTINF:-1 tvg-id="9go.au" tvg-name="AU - 9GO!" tvg-logo="https://go4.pw/AUSTRALIA/9GO.png" group-title="AS | AUSTRALIA",AU - 9GO!
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43317
+#EXTINF:-1 tvg-id="9life.au" tvg-name="AU - 9LIFE" tvg-logo="https://go4.pw/AUSTRALIA/9Life-2.png" group-title="AS | AUSTRALIA",AU - 9LIFE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43316
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Gem Adelaide" tvg-logo="https://go4.pw/AUSTRALIA/3.png" group-title="AS | AUSTRALIA",AU - 9Gem Adelaide
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997239
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Go! Sydney" tvg-logo="https://go4.pw/AUSTRALIA/2.png" group-title="AS | AUSTRALIA",AU - 9Go! Sydney
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997241
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Go! Adelaide" tvg-logo="https://go4.pw/AUSTRALIA/2.png" group-title="AS | AUSTRALIA",AU - 9Go! Adelaide
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997242
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Go! Melbourne" tvg-logo="https://go4.pw/AUSTRALIA/2.png" group-title="AS | AUSTRALIA",AU - 9Go! Melbourne
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997243
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Life Adelaide" tvg-logo="https://go4.pw/AUSTRALIA/1.png" group-title="AS | AUSTRALIA",AU - 9Life Adelaide
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997244
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Life Brisbane"" tvg-logo="https://go4.pw/AUSTRALIA/1.png" group-title="AS | AUSTRALIA",AU - 9Life Brisbane"
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997245
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9Life Melbourne" tvg-logo="https://go4.pw/AUSTRALIA/1.png" group-title="AS | AUSTRALIA",AU - 9Life Melbourne
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997246
+#EXTINF:-1 tvg-id="" tvg-name="AU - 9LIFE PERTH" tvg-logo="https://go4.pw/AUSTRALIA/1.png" group-title="AS | AUSTRALIA",AU - 9LIFE PERTH
+http://bestp55.xyz:80/A7FC77529786/519C32219872/997247
+#EXTINF:-1 tvg-id="7two.au" tvg-name="AU - 7TWO" tvg-logo="https://go4.pw/AUSTRALIA/7TWO.png" group-title="AS | AUSTRALIA",AU - 7TWO
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43319
+#EXTINF:-1 tvg-id="7flix.au" tvg-name="AU - 7FLIX" tvg-logo="https://go4.pw/AUSTRALIA/7FLIX.png" group-title="AS | AUSTRALIA",AU - 7FLIX
+http://bestp55.xyz:80/A7FC77529786/519C32219872/83179
+#EXTINF:-1 tvg-id="7mate.au" tvg-name="AU - 7MATE" tvg-logo="https://go4.pw/AUSTRALIA/7MATE.png" group-title="AS | AUSTRALIA",AU - 7MATE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/83180
+#EXTINF:-1 tvg-id="7two.au" tvg-name="AU - 7TWO SYDNEY" tvg-logo="https://go4.pw/AUSTRALIA/7TWO_SYDNEY.png" group-title="AS | AUSTRALIA",AU - 7TWO SYDNEY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641093
+#EXTINF:-1 tvg-id="7mate.au" tvg-name="AU - 7MATE MELBOURNE" tvg-logo="https://go4.pw/AUSTRALIA/7MATE-MELBOURNE.png" group-title="AS | AUSTRALIA",AU - 7MATE MELBOURNE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641094
+#EXTINF:-1 tvg-id="" tvg-name="AU - 7FLIX CANBERRA" tvg-logo="https://go4.pw/AUSTRALIA/7flix.png" group-title="AS | AUSTRALIA",AU - 7FLIX CANBERRA
+http://bestp55.xyz:80/A7FC77529786/519C32219872/661979
+#EXTINF:-1 tvg-id="" tvg-name="AU - 7MATE CANBERRA" tvg-logo="https://go4.pw/AUSTRALIA/9GEM.png" group-title="AS | AUSTRALIA",AU - 7MATE CANBERRA
+http://bestp55.xyz:80/A7FC77529786/519C32219872/661980
+#EXTINF:-1 tvg-id="9hd.au" tvg-name="AU - CHANNEL 9" tvg-logo="https://go4.pw/AUSTRALIA/CHANNEL-9.png" group-title="AS | AUSTRALIA",AU - CHANNEL 9
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43311
+#EXTINF:-1 tvg-id="" tvg-name="AU - CHANNEL 7 MELBOURNE" tvg-logo="https://go4.pw/AUSTRALIA/CHANNEL-7.png" group-title="AS | AUSTRALIA",AU - CHANNEL 7 MELBOURNE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/619586
+#EXTINF:-1 tvg-id="sbshd.au" tvg-name="AU - SBS" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" group-title="AS | AUSTRALIA",AU - SBS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43305
+#EXTINF:-1 tvg-id="sbshd.au" tvg-name="AU - SBS 2" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" group-title="AS | AUSTRALIA",AU - SBS 2
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43279
+#EXTINF:-1 tvg-id="sbsfood.au" tvg-name="AU - SBS FOOD" tvg-logo="https://go4.pw/AUSTRALIA/food.png" group-title="AS | AUSTRALIA",AU - SBS FOOD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43278
+#EXTINF:-1 tvg-id="sbs.au" tvg-name="AU - SBS HD" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" group-title="AS | AUSTRALIA",AU - SBS HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43277
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="AU - SBS VICELAND" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" group-title="AS | AUSTRALIA",AU - SBS VICELAND
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43304
+#EXTINF:-1 tvg-id="" tvg-name="AU - SBS CANBERRA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" group-title="AS | AUSTRALIA",AU - SBS CANBERRA
+http://bestp55.xyz:80/A7FC77529786/519C32219872/661987
+#EXTINF:-1 tvg-id="" tvg-name="AU - SBS FOOD CANBERRA" tvg-logo="https://go4.pw/AUSTRALIA/SBS-1.png" group-title="AS | AUSTRALIA",AU - SBS FOOD CANBERRA
+http://bestp55.xyz:80/A7FC77529786/519C32219872/661988
+#EXTINF:-1 tvg-id="seven.au" tvg-name="AU - SEVEN" tvg-logo="https://go4.pw/AUSTRALIA/SEVEN.png" group-title="AS | AUSTRALIA",AU - SEVEN
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43303
+#EXTINF:-1 tvg-id="abc.au" tvg-name="AU - ABC" tvg-logo="https://go4.pw/AUSTRALIA/abc-2.png" group-title="AS | AUSTRALIA",AU - ABC
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43315
+#EXTINF:-1 tvg-id="abcnews.au" tvg-name="AU - ABC NEWS SYDNEY" tvg-logo="https://go4.pw/AUSTRALIA/abc-2.png" group-title="AS | AUSTRALIA",AU - ABC NEWS SYDNEY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43312
+#EXTINF:-1 tvg-id="" tvg-name="AU - ABC KIDS" tvg-logo="https://go4.pw/AUSTRALIA/ABC_Kids.png" group-title="AS | AUSTRALIA",AU - ABC KIDS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/270307
+#EXTINF:-1 tvg-id="" tvg-name="AU - ABC NEWS SYDNEY" tvg-logo="https://go4.pw/AUSTRALIA/ABC_NEWS.png" group-title="AS | AUSTRALIA",AU - ABC NEWS SYDNEY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641079
+#EXTINF:-1 tvg-id="" tvg-name="AU - ABC KIDS NATIONAL" tvg-logo="https://go4.pw/AUSTRALIA/ABC_KIDS_NATIONAL.png" group-title="AS | AUSTRALIA",AU - ABC KIDS NATIONAL
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641081
+#EXTINF:-1 tvg-id="abc.au" tvg-name="AU - ABC ME NATIONAL" tvg-logo="https://go4.pw/AUSTRALIA/ABC_ME_NATIONAL.png" group-title="AS | AUSTRALIA",AU - ABC ME NATIONAL
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641085
+#EXTINF:-1 tvg-id="abc.au" tvg-name="AU - ABC SYDNEY" tvg-logo="https://go4.pw/AUSTRALIA/ABC_SYDNEY.png" group-title="AS | AUSTRALIA",AU - ABC SYDNEY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641087
+#EXTINF:-1 tvg-id="9gem.au" tvg-name="AU - 9GEM BRISBANE" tvg-logo="https://go4.pw/AUSTRALIA/9GEM_SYDNEY.png" group-title="AS | AUSTRALIA",AU - 9GEM BRISBANE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641088
+#EXTINF:-1 tvg-id="9gem.au" tvg-name="AU - 9GEM MELBOURNE" tvg-logo="https://go4.pw/AUSTRALIA/9GEM_SYDNEY.png" group-title="AS | AUSTRALIA",AU - 9GEM MELBOURNE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641089
+#EXTINF:-1 tvg-id="9gem.au" tvg-name="AU - 9GEM PERTH" tvg-logo="https://go4.pw/AUSTRALIA/9GEM_SYDNEY.png" group-title="AS | AUSTRALIA",AU - 9GEM PERTH
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641090
+#EXTINF:-1 tvg-id="9gem.au" tvg-name="AU - 9GEM SYDNEY" tvg-logo="https://go4.pw/AUSTRALIA/9GEM_SYDNEY.png" group-title="AS | AUSTRALIA",AU - 9GEM SYDNEY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641091
+#EXTINF:-1 tvg-id="9go.au" tvg-name="AU - 9GO! MELBOURNE" tvg-logo="https://go4.pw/AUSTRALIA/9GO!PERTH.png" group-title="AS | AUSTRALIA",AU - 9GO! MELBOURNE
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641095
+#EXTINF:-1 tvg-id="9go.au" tvg-name="AU - 9GO! PERTH" tvg-logo="https://go4.pw/AUSTRALIA/9GO!PERTH.png" group-title="AS | AUSTRALIA",AU - 9GO! PERTH
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641096
+#EXTINF:-1 tvg-id="9go.au" tvg-name="AU - 9GO! SYDNEY" tvg-logo="https://go4.pw/AUSTRALIA/SYDNEY.png" group-title="AS | AUSTRALIA",AU - 9GO! SYDNEY
+http://bestp55.xyz:80/A7FC77529786/519C32219872/641097
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo Pop
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948935
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo Retro Rock" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo Retro Rock
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948936
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo 2K
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948937
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo Country
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948938
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo 70s" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo 70s
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948939
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo 80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo 80s
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948940
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo 90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="AS | AUSTRALIA",AU - Vevo 90s
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948941
+#EXTINF:-1 tvg-id="" tvg-name="AU - Vevo Christmas" tvg-logo="https://go4.pw/AUSTRALIA/Vevo Christmas.png" group-title="AS | AUSTRALIA",AU - Vevo Christmas
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948942
+#EXTINF:-1 tvg-id="" tvg-name="AU - Stingray Holidayscapes" tvg-logo="https://go4.pw/CANADA/stingray77.png" group-title="AS | AUSTRALIA",AU - Stingray Holidayscapes
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948931
+#EXTINF:-1 tvg-id="" tvg-name="AU - Stingray Holidayscapes alt" tvg-logo="https://go4.pw/CANADA/stingray77.png" group-title="AS | AUSTRALIA",AU - Stingray Holidayscapes alt
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948932
+#EXTINF:-1 tvg-id="" tvg-name="AU - Stingray Naturescape" tvg-logo="https://go4.pw/CANADA/stingray77.png" group-title="AS | AUSTRALIA",AU - Stingray Naturescape
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948933
+#EXTINF:-1 tvg-id="" tvg-name="##### AU - SPORTS & EVENTS #####" tvg-logo="https://go4.pw/AUSTRALIA/AUSTRALIA.png" group-title="AS | AUSTRALIA",##### AU - SPORTS & EVENTS #####
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78136
+#EXTINF:-1 tvg-id="skyracing1.au" tvg-name="AU - SKY RACING 1" tvg-logo="https://go4.pw/AUSTRALIA/SKYRACING1-1.png" group-title="AS | AUSTRALIA",AU - SKY RACING 1
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43270
+#EXTINF:-1 tvg-id="skyracing2.au" tvg-name="AU - SKY RACING 2" tvg-logo="https://go4.pw/AUSTRALIA/SKYRACING2-1.png" group-title="AS | AUSTRALIA",AU - SKY RACING 2
+http://bestp55.xyz:80/A7FC77529786/519C32219872/43269
+#EXTINF:-1 tvg-id="" tvg-name="AU - Bein Sports Xtra" tvg-logo="https://go4.pw/bein/bein-sports-xtra-1.png" group-title="AS | AUSTRALIA",AU - Bein Sports Xtra
+http://bestp55.xyz:80/A7FC77529786/519C32219872/948916
+#EXTINF:-1 tvg-id="beinsports1hd.au" tvg-name="AU - BEIN SPORTS 1 UHD" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_1.png" group-title="AS | AUSTRALIA",AU - BEIN SPORTS 1 UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78137
+#EXTINF:-1 tvg-id="10.au" tvg-name="AU - BEIN SPORTS 2 UHD" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_2.png" group-title="AS | AUSTRALIA",AU - BEIN SPORTS 2 UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78138
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU - BEIN SPORTS 3 UHD" tvg-logo="https://go4.pw/bein/Bein_Sports_HD_3.png" group-title="AS | AUSTRALIA",AU - BEIN SPORTS 3 UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78139
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU - ESPN | HD" tvg-logo="https://go4.pw/AUSTRALIA/espn.png" group-title="AS | AUSTRALIA",AU - ESPN | HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78154
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU - ESPN 1 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/espn.png" group-title="AS | AUSTRALIA",AU - ESPN 1 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78152
+#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="AU - ESPN 2 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/espn.png" group-title="AS | AUSTRALIA",AU - ESPN 2 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78153
+#EXTINF:-1 tvg-id="foxnews.au" tvg-name="AU - FOX SPORTS NEWS" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS NEWS
+http://bestp55.xyz:80/A7FC77529786/519C32219872/716399
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 501 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 501 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/83174
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="AU - FOX SPORTS 502 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 502 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/83175
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 502 | UHD¹" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 502 | UHD¹
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1190175
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="AU - FOX SPORTS 503 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 503 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78155
+#EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 504 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 504 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/83176
+#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-name="AU - FOX SPORTS 505 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 505 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78156
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="AU - FOX SPORTS 506 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 506 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/78157
+#EXTINF:-1 tvg-id="10.au" tvg-name="AU - FOX SPORTS 507 | UHD" tvg-logo="https://go4.pw/AUSTRALIA/FOX-505-2.png" group-title="AS | AUSTRALIA",AU - FOX SPORTS 507 | UHD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/83177
 
 
 
@@ -10531,6 +11043,15 @@ https://cdn.yzzy29-play.com/20250701/205_eae27d77/2000k/hls/mixed.m3u8
 
 #EXTINF:-1 group-title="電影輪播", 哆啦A夢
 https://live.iill.top/huya.php?id=11601963
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://epg.112114.xyz/logo/名侦探柯南.png" group-title="電影輪播",名侦探柯南
+http://live.iill.top/huya.php?id=30080236
+#EXTINF:-1,tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/中华小当家.png" group-title="電影輪播",中华小当家
+http://live.iill.top/huya.php?id=11342413
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="電影輪播",蜡笔小新
+http://live.iill.top/huya.php?id=11352970
+
+
+
 
 #EXTINF:-1 group-title="電影輪播", 金庸武侠
 https://live.iill.top/huya.php?id=11342435
@@ -10753,49 +11274,6 @@ http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/88
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/89
 #EXTINF:-1 group-title="私密頻道",松視3台
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
-
-
-#EXTINF:-1 group-title="私密頻道",彩虹1臺
-http://live.urren.net/live/4053a1b0ceed876d88955c73a9386e48.flv
-#EXTINF:-1 group-title="私密頻道",彩虹2臺
-http://live.urren.net/live/7c9744616f041fe68d268a98e6e8143e.flv
-#EXTINF:-1 group-title="私密頻道",彩虹3臺
-http://live.urren.net/live/af2e6c1c23e014be912891d60bf208a7.flv
-#EXTINF:-1 group-title="私密頻道",彩虹E臺
-http://live.urren.net/live/6b8e2ef39b06ea18a6294daeb383bba6.flv
-#EXTINF:-1 group-title="私密頻道",彩虹K臺
-http://live.urren.net/live/933e72c8671daa657f86f9ac2240c2e8.flv
-#EXTINF:-1 group-title="私密頻道",彩虹电影
-http://live.urren.net/live/2e51fe8c9315b3f6f1b275a6d4b1822b.flv
-#EXTINF:-1 group-title="私密頻道",彩虹多拉
-http://live.urren.net/live/0f664a1806c06dbf0e16b9b408a08989.flv
-#EXTINF:-1 group-title="私密頻道",彩虹惊艳
-http://live.urren.net/live/9dfac089963b27870d7aa225450aedec.flv
-#EXTINF:-1 group-title="私密頻道",彩虹香蕉
-http://live.urren.net/live/4401ab661f2c43ee1b6d8aeea7a66816.flv
-#EXTINF:-1 group-title="私密頻道",彩虹HAPPY
-http://live.urren.net/live/33fbf1d4659b86a8df822864fb499cef.flv
-#EXTINF:-1 group-title="私密頻道",彩虹極致
-http://live.urren.net/live/74d71f9d8e148b700112fd739a68be71.flv
-#EXTINF:-1 group-title="私密頻道",PIN1台
-http://live.urren.net/live/08675719e4f309d4d34697f2a2ac59d0.flv
-#EXTINF:-1 group-title="私密頻道",PIN2台
-http://live.urren.net/live/ec522c7c78d7b82ab4ca2a1ed215b518.flv
-#EXTINF:-1 group-title="私密頻道",XXmax
-http://live.urren.net/live/212438d3d6311386ad5185e45a992767.flv
-#EXTINF:-1 group-title="私密頻道",XXPIUS
-http://live.urren.net/live/80ae734d22ed840caa53fa69356c76c5.flv
-#EXTINF:-1 group-title="私密頻道",XXmix
-http://live.urren.net/live/34fe1c7b8371eacfa4d1323fe8bf7dee.flv
-#EXTINF:-1 group-title="私密頻道",红星
-http://live.urren.net/live/1aa07fe054aab3142dfbac86ede11619.flv
-#EXTINF:-1 group-title="私密頻道",蓝点
-http://live.urren.net/live/8b4198868a28ba339dc2ff570e02fc4e.flv
-#EXTINF:-1 group-title="私密頻道",DUR
-http://live.urren.net/live/2421d9d8fdaeeebae12a32296862934a.flv
-#EXTINF:-1 group-title="私密頻道",大奶
-http://live.urren.net/live/fd28a6d9e37d674f7bf59f73f7da47ce.flv
-
 
 
 
