@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server! | サーバー維持のため寄付募集中！
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
@@ -75,70 +76,68 @@ https://mt01.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
 https://mt01.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://mt02.utako.moe/Animax/index.m3u8
+https://ca01.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://mt02.utako.moe/nihoneiga/index.m3u8
+https://ca01.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://mt02.utako.moe/skya/index.m3u8
+https://ca01.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://mt01.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://mt02.utako.moe/spaceshower/index.m3u8
+https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://mt02.utako.moe/mtv/index.m3u8
+https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://mt02.utako.moe/kayopops/index.m3u8
+https://ca01.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
-https://mt02.utako.moe/disneychan/index.m3u8
+https://ca01.utako.moe/disneychan/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
-https://mt02.utako.moe/cartoon_network/index.m3u8
+https://ca01.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://mt02.utako.moe/ntvgplus/index.m3u8
+https://ca01.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
-https://mt02.utako.moe/familygeki/index.m3u8
+https://ca01.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
-https://mt02.utako.moe/mondo/index.m3u8
+https://ca01.utako.moe/mondo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://mt02.utako.moe/tbsch1/index.m3u8
+https://ca01.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://mt02.utako.moe/tbsch2/index.m3u8
+https://ca01.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
-https://mt02.utako.moe/ex_ch1/index.m3u8
+https://ca01.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://mt02.utako.moe/ex_ch2/index.m3u8
+https://ca01.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://mt02.utako.moe/fuji_one/index.m3u8
+https://ca01.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://mt02.utako.moe/fuji_two/index.m3u8
+https://ca01.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://mt02.utako.moe/fuji_next/index.m3u8
+https://ca01.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
-https://mt02.utako.moe/neco/index.m3u8
+https://ca01.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
-https://mt02.utako.moe/dlife/index.m3u8
+https://ca01.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://mt02.utako.moe/toei/index.m3u8
+https://ca01.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
-https://mt02.utako.moe/fighting_tv/index.m3u8
+https://ca01.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
-https://mt02.utako.moe/entermei_tele/index.m3u8
+https://ca01.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://mt02.utako.moe/sport_live_plus/index.m3u8
+https://ca01.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://mt02.utako.moe/homedrama/index.m3u8
+https://ca01.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://mt02.utako.moe/gingach/index.m3u8
+https://ca01.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
-https://mt02.utako.moe/tabi/index.m3u8
+https://ca01.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://mt02.utako.moe/pigoo/index.m3u8
+https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://mt02.utako.moe/v_paradise/index.m3u8
-
-
+https://ca01.utako.moe/v_paradise/index.m3u8
 
 
 
@@ -1954,6 +1953,28 @@ http://39.107.120.164:8080/live/diyp_xingkong.flv
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
 http://39.107.120.164:8080/live/diyp_channelv.flv
 
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Popc(js)
+http://j.s.bkpcp.top/js/popc
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", HUB都會台(js)
+http://j.s.bkpcp.top/js/dht
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", HUB娛家台(js)
+http://j.s.bkpcp.top/js/yjt
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 美亞電影台(香港)(國)(js)
+http://j.s.bkpcp.top/js/enmydy
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 美亞電影台(香港)(粤)(js)
+http://j.s.bkpcp.top/js/cnmydy
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVB功夫台(國)(js)
+http://j.s.bkpcp.top/js/tvbgftg
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVB功台台(粵)(js)
+http://j.s.bkpcp.top/js/tvbgfty
+
+
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Enjoy TV5(MY)
+https://get.perfecttv.net/tv5.m3u8
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", imode TV全球時尚
 http://player.juyun.tv/camera/137932133.m3u8
@@ -11256,9 +11277,9 @@ http://bo.xn--3oq579l.com/live/cx_15202.flv
 https://v2.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1 group-title="私密頻道" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://mt02.utako.moe/pigoo/index.m3u8
+https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="私密頻道" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://mt02.utako.moe/v_paradise/index.m3u8
+https://ca01.utako.moe/v_paradise/index.m3u8
 
 
 
@@ -11276,29 +11297,29 @@ http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/89
 http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
 
 
-
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6212/index.m3u8
 
 
 #EXTINF:-1 group-title="私密頻道",FemJoy
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6212/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6212/index.m3u8
 #EXTINF:-1 group-title="私密頻道",MetArt HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6233/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6233/index.m3u8
 #EXTINF:-1 group-title="私密頻道",Japan HDV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6225/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6225/index.m3u8
 #EXTINF:-1 group-title="私密頻道",Babes TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6172/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6172/index.m3u8
 #EXTINF:-1 group-title="私密頻道",Candy
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/923/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/923/index.m3u8
 #EXTINF:-1 group-title="私密頻道",cento x cento
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6184/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6184/index.m3u8
 #EXTINF:-1 group-title="私密頻道",Cherry Pimps
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6185/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6185/index.m3u8
 #EXTINF:-1 group-title="私密頻道",Club 17
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6186/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6186/index.m3u8
 #EXTINF:-1 group-title="私密頻道",SL HOT 8 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12168/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12168/index.m3u8
 #EXTINF:-1 group-title="私密頻道",SexArt HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6165/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6165/index.m3u8
 
 
 
@@ -11504,571 +11525,571 @@ http://kenneth001.serv00.net/hochu.php?id=kino-18
 
 
 #EXTINF:-1 group-title="私密俄羅斯",Japan HDV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6225/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6225/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",21 Sextury
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6164/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6164/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",A3 Bikini
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6165/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6165/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Adult Time
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6166/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6166/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12105/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12105/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12106/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12106/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 2 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12107/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12107/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12108/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12108/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12109/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12109/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12110/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12110/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Alba 5
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12111/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12111/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Anal Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6167/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6167/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Analized HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6168/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6168/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",AST TV 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6170/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6170/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",AST TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6169/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6169/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Babes TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6172/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6172/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BAG U
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12170/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12170/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Balkan Erotic
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6270/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6270/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Bang Bros HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6173/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6173/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Bang U
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12114/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12114/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Bang!
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6174/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6174/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BANGBROS UHD 4K
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12181/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12181/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Bangerz
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6271/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6271/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Barely legal
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/871/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/871/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Beate UHSE TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12127/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12127/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Big Ass Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6175/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6175/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Big Dick Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6176/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6176/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Big Tits Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6177/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6177/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Blacked HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6178/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6178/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BLACKED TV ELITE
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12191/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12191/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BLACKED TV PREMIUM
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12190/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12190/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Blonde Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6179/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6179/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Blowjob Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6180/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6180/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Blue Hustler
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/1064/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/1064/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Brazzers eXXtra
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6181/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6181/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Brazzers HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6182/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6182/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Brazzers TV Europe
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/910/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/910/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BRAZZERS TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12113/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12113/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Brunette Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6183/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6183/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BTV Erotik 1 (18+) HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14095/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14095/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BTV Erotik 2 (18+) HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14096/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14096/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BTV Erotik 3 (18+) HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14097/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14097/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BTV Киска (+18)
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14003/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14003/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BTV Шелк тв HD (+18)
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14027/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14027/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",BTV Японские sex game
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15077/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/15077/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Candy
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/923/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/923/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",cento x cento
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6184/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6184/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Cherry Pimps
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6185/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6185/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Club 17
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6186/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6186/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Compilation Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6187/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6187/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Cuckold Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6188/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6188/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Cum Louder
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6189/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6189/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Cum4k
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6190/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6190/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Day with a Pornstar
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6192/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6192/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DDF Busty
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6193/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6193/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DDF Network
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6194/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6194/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DESTINY TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12179/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12179/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Digital Desire HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6195/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6195/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Digital Playground HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6196/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6196/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DIRTY HOBBY
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12183/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12183/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Dorcel Club
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6197/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6197/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Dorcel HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9064/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9064/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DORCEL TV FHD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12131/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12131/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Dorcel TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/245/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/245/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DORCEL XXX TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12132/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12132/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",DUSK TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12129/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12129/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Dusk
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6198/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6198/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Emanuelle HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6272/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6272/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",EROCOM TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12128/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12128/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6290/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6290/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6291/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6291/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6292/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6292/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic 6
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6293/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6293/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic 7
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6294/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6294/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic 8
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6295/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6295/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erotic
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6289/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6289/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Erox HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6296/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6296/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Eroxxx HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5015/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/5015/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Evil Angel HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6199/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6199/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Evolved Fights
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6200/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6200/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",EXTACY 4K
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12182/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12182/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Extasy 4K
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5014/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/5014/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",EXTASY HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/11051/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/11051/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Extasy HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6201/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6201/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Extreme
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6273/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6273/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",EXXXOTICA HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9346/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9346/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Exxxotica HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2397/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/2397/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fake Taxi HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6202/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6202/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6203/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6203/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6204/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6204/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV Anal
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6206/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6206/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV BBW
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6207/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6207/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV Compilation
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6208/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6208/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV Lesbian
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6209/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6209/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV Parody
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6210/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6210/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fap TV Teens
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6211/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6211/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FAST BOYZ GAY
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12205/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12205/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fast Boyz
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6274/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6274/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FemJoy
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6212/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6212/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Fetish Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6213/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6213/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 10 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12203/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12203/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 2 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12195/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12195/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 3 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12196/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12196/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 4 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12197/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12197/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 5 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12198/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12198/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 6 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12199/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12199/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 7 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12200/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12200/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 8 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12201/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12201/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FILMAX ADULT 9 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12202/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12202/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FREE X TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12134/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12134/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",French Lover
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12124/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12124/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",FrenchLover
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2160/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/2160/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Gangbang Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6214/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6214/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",GANGBANG CREAMPIE
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12184/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12184/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Gay Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6215/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6215/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",GAY PREMIUM
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12204/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12204/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",GLORYHOLE LOVE FHD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12192/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12192/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Got MYLF
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6216/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6216/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hands on Hardcore
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6217/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6217/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hard X
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6218/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6218/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hardcore Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6219/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6219/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hitzefrei HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6220/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6220/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Holed
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6221/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6221/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hot and Mean
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6222/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6222/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hot Guys Fuck
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6223/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6223/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hot Pleasure
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6277/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6277/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",HOT XXL HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6276/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6276/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",HOT
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6275/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6275/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",HOTWIFE PREMIUM
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12187/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12187/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hustler HD Europe
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/244/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/244/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Hustler HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9065/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9065/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Interracial Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6224/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6224/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Kaloopy hd tv
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/16018/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/16018/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",KinoXXX,
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/11052/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/11052/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Latina Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6226/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6226/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",LATINA TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12172/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12172/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",LEO TV FHD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12123/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12123/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Lesbea
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6227/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6227/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Lesbian Affair
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6278/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6278/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Lesbian Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6228/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6228/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Lethal Hardcore
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6229/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6229/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Little Asians HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6230/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6230/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Live Cams Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6231/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6231/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Lust Cinema
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6232/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6232/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",MAD SEX PARTY
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12194/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12194/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Meiden Van Holland
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12125/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12125/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",MetArt HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6233/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6233/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",MILF Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6234/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6234/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",MILF TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12173/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12173/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Monsters of Cock
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6235/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6235/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",MvH Hard,
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6297/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6297/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",MYLF TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6236/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6236/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Naughty America
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6237/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6237/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Nubiles TV HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6238/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6238/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",O-La-La orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9068/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9068/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",O-la-la
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2161/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/2161/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Oldtimer
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6279/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6279/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",ox-ax HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6239/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6239/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PASSIE TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12136/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12136/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Passion XXX orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9067/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9067/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PASSION XXX
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12120/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12120/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Passion XXX
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/878/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/878/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Penthouse Gold HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5011/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/5011/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Penthouse Passion HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/1073/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/1073/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Penthouse Quickies 1300k
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5012/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/5012/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Penthouse Quickies HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5013/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/5013/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Pink Erotic 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6240/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6240/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Pink Erotic 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6241/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6241/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12146/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12146/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12147/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12147/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12148/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12148/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12149/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12149/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 5
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12150/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12150/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 6
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12151/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12151/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 7
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12152/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12152/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PINK EROTICA 8
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12153/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12153/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Playboy LA
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6280/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6280/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Playboy Plus
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6242/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6242/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PLAYBOY TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12135/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12135/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Playboy
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/527/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/527/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Pornstar Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6243/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6243/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PORNSTAR TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12174/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12174/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",POV Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6244/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6244/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",POV TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12175/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12175/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Private HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6245/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6245/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Private TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/243/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/243/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Public Agent
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6246/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6246/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",PURE BABES
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12112/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12112/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Reality Kings HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6247/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6247/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Red XXX
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6281/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6281/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Redlight HD orig,
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9066/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9066/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Redlight HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/242/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/242/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",RK Prime
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6248/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6248/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",RK TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6249/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6249/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",ROCCO TV 7/24
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12189/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12189/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Rough Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6250/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6250/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",ROUGH TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12176/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12176/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Russian Adult TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6251/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6251/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",RUSSIAN TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12177/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12177/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SELECT XXX VINTAGE
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12186/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12186/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SELECT XXX
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12185/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12185/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Sex With Muslims
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6252/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6252/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SexArt
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6253/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6253/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",sext 6 senso
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6254/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6254/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Sexto Senso
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/875/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/875/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Sexy Hot
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6282/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6282/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Shalun TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12126/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12126/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SINematica
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6255/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6255/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SKY HIGH ADULT HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15166/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/15166/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL EROTIC HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12160/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12160/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12161/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12161/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 2 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12162/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12162/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 3 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12163/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12163/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 4 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12164/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12164/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 5 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12165/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12165/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 6 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12166/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12166/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 7 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12167/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12167/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 8 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12168/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12168/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SL HOT 9 HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12169/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12169/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Super one HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12121/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12121/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SuperONE HD RO
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/7001/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/7001/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",SuperOne HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6298/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6298/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Taboo
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6283/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6283/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Teen Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6256/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6256/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TEEN TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12178/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12178/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Threesome Red TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6257/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6257/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",THREESOME TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12180/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12180/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Tiny4K
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6258/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6258/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Trans Angels
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6259/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6259/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TRANS PREMIUM
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12193/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12193/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",True Amateurs
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6260/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6260/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TURK AMATOTLER
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12159/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12159/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12155/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12155/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12156/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12156/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 3
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12157/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12157/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI 4
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12158/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12158/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TURKCE ALTAZILI YENI
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12154/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12154/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Tushy HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6261/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6261/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TUSHY TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12188/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12188/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",TushyRAW
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6262/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6262/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Venus HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12133/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12133/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Venus
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6284/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6284/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN 4K 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12138/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12138/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN 4K
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12137/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12137/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN ANAL
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12143/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12143/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN BIG TITS
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12145/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12145/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN FEET
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12144/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12144/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN GROUP SEX 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12142/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12142/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN GROUP SEX
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12141/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12141/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN TEENS 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12140/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12140/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VERAPORN TEENS
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12139/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12139/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",VF Cartoon 18+
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/11117/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/11117/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Visit-X TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6263/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6263/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Vivid Red HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2162/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/2162/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Vivid TV Europe
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6264/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6264/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Vixen HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6265/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6265/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",We Live Together
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6266/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6266/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",White Boxxx
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6267/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6267/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Wicked
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6268/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6268/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",X Plus Milf HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12130/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12130/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",X1 TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12122/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12122/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",X-MO
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6285/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6285/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Xpanded TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6269/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6269/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XXL orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9345/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9345/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XXL
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5009/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/5009/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XXX Love's Berry HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14140/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14140/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XXXINTERRACIAL TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12171/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12171/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Max HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6286/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6286/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Mix HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6287/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6287/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Plus 1
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12115/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12115/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Plus 12
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12118/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12118/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Plus 2
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12116/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12116/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Plus 24
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12119/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12119/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Plus 6
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/12117/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12117/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",XY Plus HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6288/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6288/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",YOSSO TV SEXY
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/14176/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/14176/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Ню Арт HD orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9071/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9071/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Ню Арт HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6307/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6307/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Нюарт TV
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2057/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/2057/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",ОХ-АХ HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/11068/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/11068/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Русская ночь orig
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9344/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/9344/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Русская Ночь
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/147/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/147/index.m3u8
 #EXTINF:-1 group-title="私密俄羅斯",Шалун
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/922/index.m3u8
+http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/922/index.m3u8
 
 
 
