@@ -1509,6 +1509,71 @@ https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u
 ################################################
 
 
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-1
+http://222.85.198.92:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-2
+http://222.85.198.92:8000/hls/2/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-3
+http://222.85.198.92:8000/hls/3/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-4
+http://222.85.198.92:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-5
+http://222.85.198.92:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-6
+http://222.85.198.92:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-7
+http://222.85.198.92:8000/hls/7/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-8
+http://222.85.198.92:8000/hls/8/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-10
+http://222.85.198.92:8000/hls/9/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-11
+http://222.85.198.92:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-12
+http://222.85.198.92:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-13
+http://222.85.198.92:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-14
+http://222.85.198.92:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-15
+http://222.85.198.92:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-17
+http://222.85.198.92:8000/hls/15/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",貴州衛視
+http://222.85.198.92:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",湖南衛視
+http://222.85.198.92:8000/hls/17/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",浙江衛視
+http://222.85.198.92:8000/hls/18/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",江蘇衛視
+http://222.85.198.92:8000/hls/19/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",安徽衛視
+http://222.85.198.92:8000/hls/20/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",河南衛視
+http://222.85.198.92:8000/hls/27/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",北京衛視
+http://222.85.198.92:8000/hls/29/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",雲南衛視
+http://222.85.198.92:8000/hls/35/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",東方衛視
+http://222.85.198.92:8000/hls/38/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",CCTV-1
+http://222.85.198.92:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",河北衛視
+http://222.85.198.92:8000/hls/41/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",海南衛視
+http://222.85.198.92:8000/hls/42/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",山東衛視
+http://222.85.198.92:8000/hls/43/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",江西衛視
+http://222.85.198.92:8000/hls/44/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",黑龍江衛視
+http://222.85.198.92:8000/hls/45/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",四川衛視
+http://222.85.198.92:8000/hls/46/index.m3u8
+#EXTINF:-1 group-title="CHINA CCTV",四川衛視
+http://222.85.198.92:8000/hls/47/index.m3u8
+
 
 
 ################################################
