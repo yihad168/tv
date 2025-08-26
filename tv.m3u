@@ -1332,6 +1332,11 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/83177
 
 
 
+################################################
+
+
+
+
 
 ################################################
 
@@ -1713,8 +1718,7 @@ http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u
 #EXTINF:-1 group-title="測試頻道",寵物頻道
 http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 #EXTINF:-1 group-title="測試頻道",鏡電視新聞台
-http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
-
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv075
 
 
 
@@ -1892,10 +1896,6 @@ http://154.219.113.217:8080/sub?token=112233&id=litv-longturn13
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="測試頻道", 翡翠台(smt)
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 group-title="測試頻道", 翡翠台(smt)
@@ -1955,20 +1955,6 @@ http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 group-title="測試頻道",鳯凰衛視中文
 http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",Astro AOD(cdn9)
-http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",TVB星河頻道(cdn9)
-http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",千禧經典台(cdn9)
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",千禧經典台(cdn9)
-http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",無綫新聞台(cdn9)
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華麗翡翠台(cdn9)
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",翡翠台(cdn9)
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 明珠台(字幕)
 http://o12.1678520.xyz/hls/mzt/playlist.m3u8
@@ -1980,25 +1966,6 @@ http://tl.061833.xyz/tl/popc
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 澳門蓮花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 翡翠台(字幕)
-http://edge2.163189.xyz/o12.php?id=fct
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 明珠台(字幕)
-http://edge2.163189.xyz/o12.php?id=mzt
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 無綫新聞(字幕)
-https://edge.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", HOY TV
-https://edge.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 八度空間
-https://edge.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CH5
-https://edge.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CH8
-https://edge.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHU
-https://edge.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 鳯凰資訊
-https://edge.163189.xyz/163189/fhzx
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空國際電影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
@@ -2033,24 +2000,6 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Popc(js)
-http://j.s.bkpcp.top/js/popc
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", HUB都會台(js)
-http://j.s.bkpcp.top/js/dht
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", HUB娛家台(js)
-http://j.s.bkpcp.top/js/yjt
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 美亞電影台(香港)(國)(js)
-http://j.s.bkpcp.top/js/enmydy
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 美亞電影台(香港)(粤)(js)
-http://j.s.bkpcp.top/js/cnmydy
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVB功夫台(國)(js)
-http://j.s.bkpcp.top/js/tvbgftg
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TVB功台台(粵)(js)
-http://j.s.bkpcp.top/js/tvbgfty
-
-
-
-
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Enjoy TV5(MY)
 https://get.perfecttv.net/tv5.m3u8
 
@@ -2062,29 +2011,6 @@ http://oh.eztv.vip/live/eztv1.m3u8
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", VOA中文台(美國VOA衛視華語頻道)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 緯來體育(js)
-http://j.s.bkpcp.top/js/wlty
-
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Eurosport 1(aktv)
-http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", Eurosport 2(aktv)
-http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TNT SPORT 1(aktv)
-http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TNT SPORT 2(aktv)
-http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", TNT SPORT 3(aktv)
-http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 緯來體育(aktv)
-http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-
-
-
-
 
 
 
@@ -2431,7 +2357,7 @@ http://smart.cityq.xyz:8278/hubei/playlist.m3u8?tid=MF2F5899308558993085&ct=1922
 https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u
 
 
-#EXTM3U url-tvg="http://cdn.1678520.xyz/xml"
+#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
@@ -3963,6 +3889,203 @@ http://106.107.177.201:50007/li-litv-ftv15/index.m3u8
 
 
 
+新聞頻道,#genre#
+#EXTINF:-1 group-title="線上影視",TVBS HD
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv073
+#EXTINF:-1 group-title="線上影視",TVBS新聞台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv072
+#EXTINF:-1 group-title="線上影視",中天新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv009
+#EXTINF:-1 group-title="線上影視",中天亞洲台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv109
+#EXTINF:-1 group-title="線上影視",台視新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv051
+#EXTINF:-1 group-title="線上影視",華視新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv052
+#EXTINF:-1 group-title="線上影視",台視財經
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv056
+#EXTINF:-1 group-title="線上影視",中視新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv074
+#EXTINF:-1 group-title="線上影視",非凡新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv010
+#EXTINF:-1 group-title="線上影視",鏡新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv075
+#EXTINF:-1 group-title="線上影視",東森新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv152
+#EXTINF:-1 group-title="線上影視",東森財經新聞
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv153
+#EXTINF:-1 group-title="線上影視",民視新聞台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv13
+#EXTINF:-1 group-title="線上影視",民視臺灣台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv001
+#EXTINF:-1 group-title="線上影視",寰宇新聞台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn14
+#EXTINF:-1 group-title="線上影視",寰宇新聞臺灣台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
+#EXTINF:-1 group-title="線上影視",寰宇財經台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv158
+#EXTINF:-1 group-title="線上影視",台視
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv066
+#EXTINF:-1 group-title="線上影視",民視
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv002
+#EXTINF:-1 group-title="線上影視",民視
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv155
+#EXTINF:-1 group-title="線上影視",中視
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv040
+#EXTINF:-1 group-title="線上影視",華視
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv041
+#EXTINF:-1 group-title="線上影視",民視臺灣台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv156
+
+影視頻道,#genre#
+#EXTINF:-1 group-title="線上影視",影迷數位電影台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv011
+#EXTINF:-1 group-title="線上影視",AMC電影台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv017
+#EXTINF:-1 group-title="線上影視",CATCHPLAY電影台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv076
+#EXTINF:-1 group-title="線上影視",MCE
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv10
+#EXTINF:-1 group-title="線上影視",龍華洋片台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn02
+#EXTINF:-1 group-title="線上影視",靖天電影台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv061
+#EXTINF:-1 group-title="線上影視",龍華電影
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn03
+#EXTINF:-1 group-title="線上影視",采昌影劇
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv049
+#EXTINF:-1 group-title="線上影視",民視影劇
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv09
+#EXTINF:-1 group-title="線上影視",龍華經典
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn21
+#EXTINF:-1 group-title="線上影視",中視經典
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv080
+#EXTINF:-1 group-title="線上影視",臺灣戲劇台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn22
+#EXTINF:-1 group-title="線上影視",靖洋戲劇台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv045
+#EXTINF:-1 group-title="線上影視",靖天戲劇台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv058
+#EXTINF:-1 group-title="線上影視",公視戲劇
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv042
+#EXTINF:-1 group-title="線上影視",龍華戲劇
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn18
+
+體育頻道,#genre#
+#EXTINF:-1 group-title="線上影視",智林體育台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv101
+#EXTINF:-1 group-title="線上影視",時尚運動X
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv014
+#EXTINF:-1 group-title="線上影視",靖天育樂台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv062
+#EXTINF:-1 group-title="線上影視",博斯魅力
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn04
+#EXTINF:-1 group-title="線上影視",博斯高球1
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn05
+#EXTINF:-1 group-title="線上影視",博斯高球2
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn06
+#EXTINF:-1 group-title="線上影視",博斯運動1
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn07
+#EXTINF:-1 group-title="線上影視",博斯運動2
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn08
+#EXTINF:-1 group-title="線上影視",博斯網球
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn09
+#EXTINF:-1 group-title="線上影視",博斯無限
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn10
+#EXTINF:-1 group-title="線上影視",博斯無限2
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn13
+#EXTINF:-1 group-title="線上影視",TRACE SPORTS STARS
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv077
+
+綜藝頻道,#genre#
+#EXTINF:-1 group-title="線上影視",視納華仁紀實頻道
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv013
+#EXTINF:-1 group-title="線上影視",中視菁采
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv064
+#EXTINF:-1 group-title="線上影視",八大精彩台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv034
+#EXTINF:-1 group-title="線上影視",八大綜藝台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv039
+#EXTINF:-1 group-title="線上影視",TVBS精采台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv067
+#EXTINF:-1 group-title="線上影視",TVBS歡樂台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv068
+#EXTINF:-1 group-title="線上影視",靖天歡樂台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv054
+#EXTINF:-1 group-title="線上影視",靖天綜合台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv046
+#EXTINF:-1 group-title="線上影視",靖天資訊台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv065
+#EXTINF:-1 group-title="線上影視",靖天卡通台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv044
+#EXTINF:-1 group-title="線上影視",靖天日本台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv047
+#EXTINF:-1 group-title="線上影視",靖洋卡通台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv057
+#EXTINF:-1 group-title="線上影視",靖天國際台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv063
+#EXTINF:-1 group-title="線上影視",靖天映畫
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv055
+#EXTINF:-1 group-title="線上影視",愛爾達娛樂
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv070
+#EXTINF:-1 group-title="線上影視",龍華卡通
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn01
+#EXTINF:-1 group-title="線上影視",龍華日韓
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn11
+#EXTINF:-1 group-title="線上影視",龍華偶像
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn12
+#EXTINF:-1 group-title="線上影視",民視綜藝
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv004
+#EXTINF:-1 group-title="線上影視",民視第一台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv003
+#EXTINF:-1 group-title="線上影視",民視旅遊
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv07
+#EXTINF:-1 group-title="線上影視",亞洲旅遊台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv076
+#EXTINF:-1 group-title="線上影視",客家電視臺
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv043
+#EXTINF:-1 group-title="線上影視",影迷紀實台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv15
+#EXTINF:-1 group-title="線上影視",古典音樂台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv059
+#EXTINF:-1 group-title="線上影視",豬哥亮歌廳秀
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv006
+
+
+其他頻道,#genre#
+#EXTINF:-1 group-title="線上影視",Smart知識台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn19
+#EXTINF:-1 group-title="線上影視",達文西頻道
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv018
+#EXTINF:-1 group-title="線上影視",阿里郎
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv079
+#EXTINF:-1 group-title="線上影視",生活英語台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-longturn20
+#EXTINF:-1 group-title="線上影視",國際財經
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv104
+#EXTINF:-1 group-title="線上影視",美國之音
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv03
+#EXTINF:-1 group-title="線上影視",好消息
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv16
+#EXTINF:-1 group-title="線上影視",好消息2台
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=litv-ftv17
+#EXTINF:-1 group-title="線上影視",非凡商業
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv048
+#EXTINF:-1 group-title="線上影視",國會頻道1
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv084
+#EXTINF:-1 group-title="線上影視",國會頻道2
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv085
+#EXTINF:-1 group-title="線上影視",TRACE URBAN
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv082
+#EXTINF:-1 group-title="線上影視",MEZZO LIVE
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv083
+#EXTINF:-1 group-title="線上影視",GLOBETROTTER
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv016
+#EXTINF:-1 group-title="線上影視",GinxTV
+http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv053
+
+
+
 
 
 ################################################
@@ -4598,7 +4721,10 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=discoverytwn_twn
 
 
 ========= https://3043.kstore.space/bhvip/bhzb.txt ==========
-https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial
+
+
+
+
 
 香港,#genre#
 #EXTINF:-1 group-title="TAIWAN",翡翠台
@@ -5086,8 +5212,6 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=Nickelodeon
 #EXTINF:-1 group-title="TAIWAN",Nick Jr
 https://pixman.mytvsuper.com.mp/Smart.php?id=Nickjr
 
-
-
 中國,#genre#
 #EXTINF:-1 group-title="TAIWAN",CCTV-1 綜合 HD
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv1
@@ -5099,6 +5223,12 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=cctv3
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv4
 #EXTINF:-1 group-title="TAIWAN",CCTV-4 新聞台
 https://pixman.mytvsuper.com.mp/Smart.php?id=Cctv4
+#EXTINF:-1 group-title="TAIWAN",CCTV-5 體育頻道
+https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5
+#EXTINF:-1 group-title="TAIWAN",CCTV-5+ 體育賽事 HD
+https://pixman.mytvsuper.com.mp/Smart.php?id=cctv5plus
+#EXTINF:-1 group-title="TAIWAN",CCTV-6 電影
+https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
 #EXTINF:-1 group-title="TAIWAN",CCTV-7 軍事農業
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv7
 #EXTINF:-1 group-title="TAIWAN",CCTV-8 電視劇 HD
@@ -5115,8 +5245,6 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=cctv12
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv13
 #EXTINF:-1 group-title="TAIWAN",CCTV-14 少兒
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv14
-#EXTINF:-1 group-title="TAIWAN",CCTV-6 電影
-https://pixman.mytvsuper.com.mp/Smart.php?id=cctv6
 #EXTINF:-1 group-title="TAIWAN",CCTV-15 音樂
 https://pixman.mytvsuper.com.mp/Smart.php?id=cctv15
 #EXTINF:-1 group-title="TAIWAN",湖南衛視
@@ -7217,6 +7345,9 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/69525
 http://bestp55.xyz:80/A7FC77529786/519C32219872/69527
 #EXTINF:-1 group-title="MUSIC CH",UK - NOW ROCK SD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1171043
+
+
+
 
 
 ################################################
@@ -12810,8 +12941,702 @@ http://live.iill.top/huya.php?id=11352960
 
 #########################################
 
-
-
+#EXTINF:-1 group-title="鄧麗君", beat it(演唱會)
+http://em.21dtv.com/songs/60000488.mkv
+#EXTINF:-1 group-title="鄧麗君", designer music
+http://em.21dtv.com/songs/60001212.mkv
+#EXTINF:-1 group-title="鄧麗君", every breath you take(演唱會)
+http://em.21dtv.com/songs/60001539.mkv
+#EXTINF:-1 group-title="鄧麗君", fire(演唱會)
+http://em.21dtv.com/songs/60001679.mkv
+#EXTINF:-1 group-title="鄧麗君", flash dance(演唱會)
+http://em.21dtv.com/songs/60001699.mkv
+#EXTINF:-1 group-title="鄧麗君", i have never been to me
+http://em.21dtv.com/songs/60002541.mkv
+#EXTINF:-1 group-title="鄧麗君", i just called to say i love you
+http://em.21dtv.com/songs/60002550.mkv
+#EXTINF:-1 group-title="鄧麗君", i love rockn roll
+http://em.21dtv.com/songs/60002582.mkv
+#EXTINF:-1 group-title="鄧麗君", stupid cupid
+http://em.21dtv.com/songs/60005305.mkv
+#EXTINF:-1 group-title="鄧麗君", the power of love(演唱會)
+http://em.21dtv.com/songs/60005661.mkv
+#EXTINF:-1 group-title="鄧麗君", tie a yellow ribbon round the
+http://em.21dtv.com/songs/60005795.mkv
+#EXTINF:-1 group-title="鄧麗君", アカシアの夢(演唱會)
+http://em.21dtv.com/songs/60006641.mkv
+#EXTINF:-1 group-title="鄧麗君", ジェルソミーナの歩いた道(演唱會)
+http://em.21dtv.com/songs/60006665.mkv
+#EXTINF:-1 group-title="鄧麗君", つぐない(演唱會)
+http://em.21dtv.com/songs/60006677.mkv
+#EXTINF:-1 group-title="鄧麗君", つぐない
+http://em.21dtv.com/songs/60135790.mkv
+#EXTINF:-1 group-title="鄧麗君", つぐない
+http://em.21dtv.com/songs/60135790.mkv
+#EXTINF:-1 group-title="鄧麗君", ノスタ ルジア(演唱會)
+http://em.21dtv.com/songs/60006680.mkv
+#EXTINF:-1 group-title="鄧麗君", ふるさとはどこですか(演唱會)
+http://em.21dtv.com/songs/60006694.mkv
+#EXTINF:-1 group-title="鄧麗君", ミッドナイト レクイエム(演唱會)
+http://em.21dtv.com/songs/60006698.mkv
+#EXTINF:-1 group-title="鄧麗君", 一個小心願
+http://em.21dtv.com/songs/60053118.mkv
+#EXTINF:-1 group-title="鄧麗君", 一片落葉
+http://em.21dtv.com/songs/60053343.mkv
+#EXTINF:-1 group-title="鄧麗君", 一見你就笑
+http://em.21dtv.com/songs/60053169.mkv
+#EXTINF:-1 group-title="鄧麗君", 一簾幽夢
+http://em.21dtv.com/songs/60053258.mkv
+#EXTINF:-1 group-title="鄧麗君", 一封情書
+http://em.21dtv.com/songs/60052940.mkv
+#EXTINF:-1 group-title="鄧麗君", 一顆流星
+http://em.21dtv.com/songs/60053223.mkv
+#EXTINF:-1 group-title="鄧麗君", 九月的故事
+http://em.21dtv.com/songs/60024354.mkv
+#EXTINF:-1 group-title="鄧麗君", 人生一條路
+http://em.21dtv.com/songs/60036452.mkv
+#EXTINF:-1 group-title="鄧麗君", 人約黃昏後
+http://em.21dtv.com/songs/60036476.mkv
+#EXTINF:-1 group-title="鄧麗君", 人面桃花(演唱會)
+http://em.21dtv.com/songs/60036356.mkv
+#EXTINF:-1 group-title="鄧麗君", 幾多愁(演唱會)
+http://em.21dtv.com/songs/60022646.mkv
+#EXTINF:-1 group-title="鄧麗君", 十一哥
+http://em.21dtv.com/songs/60039037.mkv
+#EXTINF:-1 group-title="鄧麗君", 十八姑娘一朵花
+http://em.21dtv.com/songs/60038908.mkv
+#EXTINF:-1 group-title="鄧麗君", 又見炊煙
+http://em.21dtv.com/songs/60055434.mkv
+#EXTINF:-1 group-title="鄧麗君", 又是一個下雨天
+http://em.21dtv.com/songs/60055467.mkv
+#EXTINF:-1 group-title="鄧麗君", 三聲無奈
+http://em.21dtv.com/songs/60037309.mkv
+#EXTINF:-1 group-title="鄧麗君", 千言萬語(演唱會)
+http://em.21dtv.com/songs/60034169.mkv
+#EXTINF:-1 group-title="鄧麗君", 女の生きがい(演唱會)
+http://em.21dtv.com/songs/60032827.mkv
+#EXTINF:-1 group-title="鄧麗君", 女人的勇氣
+http://em.21dtv.com/songs/60101184.mkv
+#EXTINF:-1 group-title="鄧麗君", 小小的秘密
+http://em.21dtv.com/songs/60049802.mkv
+#EXTINF:-1 group-title="鄧麗君", 小村之戀(演唱會)
+http://em.21dtv.com/songs/60049532.mkv
+#EXTINF:-1 group-title="鄧麗君", 小村之戀
+http://em.21dtv.com/songs/60049533.mkv
+#EXTINF:-1 group-title="鄧麗君", 小雨多美麗
+http://em.21dtv.com/songs/60049887.mkv
+#EXTINF:-1 group-title="鄧麗君", 小城故事(演唱會)
+http://em.21dtv.com/songs/60049511.mkv
+#EXTINF:-1 group-title="鄧麗君", 小媳婦回娘家
+http://em.21dtv.com/songs/60049790.mkv
+#EXTINF:-1 group-title="鄧麗君", 小路
+http://em.21dtv.com/songs/60049637.mkv
+#EXTINF:-1 group-title="鄧麗君", 山南山北走一回
+http://em.21dtv.com/songs/60037664.mkv
+#EXTINF:-1 group-title="鄧麗君", 山茶花
+http://em.21dtv.com/songs/60037588.mkv
+#EXTINF:-1 group-title="鄧麗君", 不論今宵或明天
+http://em.21dtv.com/songs/60011237.mkv
+#EXTINF:-1 group-title="鄧麗君", 不著痕跡
+http://em.21dtv.com/songs/60011778.mkv
+#EXTINF:-1 group-title="鄧麗君", 不管你是誰
+http://em.21dtv.com/songs/60011126.mkv
+#EXTINF:-1 group-title="鄧麗君", 中華民族頌[演]
+http://em.21dtv.com/songs/60101522.mkv
+#EXTINF:-1 group-title="鄧麗君", 為君愁
+http://em.21dtv.com/songs/60043897.mkv
+#EXTINF:-1 group-title="鄧麗君", 雲河
+http://em.21dtv.com/songs/60056649.mkv
+#EXTINF:-1 group-title="鄧麗君", 雲深情也深(無原唱)
+http://em.21dtv.com/songs/60056671.mkv
+#EXTINF:-1 group-title="鄧麗君", 今でも(演唱會)
+http://em.21dtv.com/songs/60023738.mkv
+#EXTINF:-1 group-title="鄧麗君", 今夜想起你
+http://em.21dtv.com/songs/60024012.mkv
+#EXTINF:-1 group-title="鄧麗君", 從今日起你
+http://em.21dtv.com/songs/60013517.mkv
+#EXTINF:-1 group-title="鄧麗君", 勸世歌
+http://em.21dtv.com/songs/60035955.mkv
+#EXTINF:-1 group-title="鄧麗君", 午夜微風
+http://em.21dtv.com/songs/60112989.mkv
+#EXTINF:-1 group-title="鄧麗君", 天外天上天無涯
+http://em.21dtv.com/songs/60042169.mkv
+#EXTINF:-1 group-title="鄧麗君", 天涯歌女
+http://em.21dtv.com/songs/60042240.mkv
+#EXTINF:-1 group-title="鄧麗君", 天黑黑
+http://em.21dtv.com/songs/60041851.mkv
+#EXTINF:-1 group-title="鄧麗君", 少年愛姑娘
+http://em.21dtv.com/songs/60038122.mkv
+#EXTINF:-1 group-title="鄧麗君", 心中喜歡就說愛
+http://em.21dtv.com/songs/60050760.mkv
+#EXTINF:-1 group-title="鄧麗君", 心裡夢裡
+http://em.21dtv.com/songs/60098797.mkv
+#EXTINF:-1 group-title="鄧麗君", 心事知多少
+http://em.21dtv.com/songs/60050510.mkv
+#EXTINF:-1 group-title="鄧麗君", 心愛的馬車
+http://em.21dtv.com/songs/60050126.mkv
+#EXTINF:-1 group-title="鄧麗君", 心酸孤單女
+http://em.21dtv.com/songs/60050527.mkv
+#EXTINF:-1 group-title="鄧麗君", 心酸酸
+http://em.21dtv.com/songs/60050532.mkv
+#EXTINF:-1 group-title="鄧麗君", 無言的溫柔
+http://em.21dtv.com/songs/60047525.mkv
+#EXTINF:-1 group-title="鄧麗君", 無奈
+http://em.21dtv.com/songs/60116276.mkv
+#EXTINF:-1 group-title="鄧麗君", 無語問蒼天
+http://em.21dtv.com/songs/60047553.mkv
+#EXTINF:-1 group-title="鄧麗君", 無情荒地有情天
+http://em.21dtv.com/songs/60047356.mkv
+#EXTINF:-1 group-title="鄧麗君", 月兒像檸檬
+http://em.21dtv.com/songs/60056300.mkv
+#EXTINF:-1 group-title="鄧麗君", 月下送君
+http://em.21dtv.com/songs/60056515.mkv
+#EXTINF:-1 group-title="鄧麗君", 月夜訴情
+http://em.21dtv.com/songs/60056533.mkv
+#EXTINF:-1 group-title="鄧麗君", 月亮代表我的心
+http://em.21dtv.com/songs/60056396.mkv
+#EXTINF:-1 group-title="鄧麗君", 月桃花
+http://em.21dtv.com/songs/60056499.mkv
+#EXTINF:-1 group-title="鄧麗君", 歹歹尪吃抹空
+http://em.21dtv.com/songs/60014242.mkv
+#EXTINF:-1 group-title="鄧麗君", 水上人(演唱會)
+http://em.21dtv.com/songs/60040220.mkv
+#EXTINF:-1 group-title="鄧麗君", 水上人
+http://em.21dtv.com/songs/60040221.mkv
+#EXTINF:-1 group-title="鄧麗君", 水長流
+http://em.21dtv.com/songs/60040260.mkv
+#EXTINF:-1 group-title="鄧麗君", 水漣漪
+http://em.21dtv.com/songs/60040203.mkv
+#EXTINF:-1 group-title="鄧麗君", 風從哪裡來
+http://em.21dtv.com/songs/60017254.mkv
+#EXTINF:-1 group-title="鄧麗君", 風霜伴我行
+http://em.21dtv.com/songs/60017374.mkv
+#EXTINF:-1 group-title="鄧麗君", 世界多美麗(演唱會)
+http://em.21dtv.com/songs/60039263.mkv
+#EXTINF:-1 group-title="鄧麗君", 東山飄雨西山晴
+http://em.21dtv.com/songs/60015555.mkv
+#EXTINF:-1 group-title="鄧麗君", 絲絲小雨
+http://em.21dtv.com/songs/60040459.mkv
+#EXTINF:-1 group-title="鄧麗君", 冬之戀情
+http://em.21dtv.com/songs/60015619.mkv
+#EXTINF:-1 group-title="鄧麗君", 冬天的回憶
+http://em.21dtv.com/songs/60156628.mkv
+#EXTINF:-1 group-title="鄧麗君", 冬天的回憶
+http://em.21dtv.com/songs/60156628.mkv
+#EXTINF:-1 group-title="鄧麗君", 北國の春(演唱會)
+http://em.21dtv.com/songs/60010172.mkv
+#EXTINF:-1 group-title="鄧麗君", 北國の春
+http://em.21dtv.com/songs/60010172.mkv
+#EXTINF:-1 group-title="鄧麗君", 北國之春(演唱會)
+http://em.21dtv.com/songs/60010174.mkv
+#EXTINF:-1 group-title="鄧麗君", 北國之春
+http://em.21dtv.com/songs/60010174.mkv
+#EXTINF:-1 group-title="鄧麗君", 古樹下
+http://em.21dtv.com/songs/60018993.mkv
+#EXTINF:-1 group-title="鄧麗君", 只要你心裡有我
+http://em.21dtv.com/songs/60104468.mkv
+#EXTINF:-1 group-title="鄧麗君", 歎十聲
+http://em.21dtv.com/songs/60041469.mkv
+#EXTINF:-1 group-title="鄧麗君", 四個願望
+http://em.21dtv.com/songs/60040660.mkv
+#EXTINF:-1 group-title="鄧麗君", 四季歌
+http://em.21dtv.com/songs/60040683.mkv
+#EXTINF:-1 group-title="鄧麗君", 失落的情歌
+http://em.21dtv.com/songs/60038791.mkv
+#EXTINF:-1 group-title="鄧麗君", 永相愛(演唱會)
+http://em.21dtv.com/songs/60054649.mkv
+#EXTINF:-1 group-title="鄧麗君", 讓心兒圈起你
+http://em.21dtv.com/songs/60088744.mkv
+#EXTINF:-1 group-title="鄧麗君", 讓花兒為你開
+http://em.21dtv.com/songs/60103607.mkv
+#EXTINF:-1 group-title="鄧麗君", 記得你記得我
+http://em.21dtv.com/songs/60022692.mkv
+#EXTINF:-1 group-title="鄧麗君", 伊人何處
+http://em.21dtv.com/songs/60053960.mkv
+#EXTINF:-1 group-title="鄧麗君", 再見我的愛人(演唱會)
+http://em.21dtv.com/songs/60056900.mkv
+#EXTINF:-1 group-title="鄧麗君", 再來一杯
+http://em.21dtv.com/songs/60056930.mkv
+#EXTINF:-1 group-title="鄧麗君", 再度蜜月
+http://em.21dtv.com/songs/60056751.mkv
+#EXTINF:-1 group-title="鄧麗君", 後悔愛上你
+http://em.21dtv.com/songs/60021086.mkv
+#EXTINF:-1 group-title="鄧麗君", 向日葵
+http://em.21dtv.com/songs/60049337.mkv
+#EXTINF:-1 group-title="鄧麗君", 回娘家
+http://em.21dtv.com/songs/60066041.mkv
+#EXTINF:-1 group-title="鄧麗君", 在水一方
+http://em.21dtv.com/songs/60057140.mkv
+#EXTINF:-1 group-title="鄧麗君", 地久天長
+http://em.21dtv.com/songs/60015093.mkv
+#EXTINF:-1 group-title="鄧麗君", 多情的玫瑰
+http://em.21dtv.com/songs/60016148.mkv
+#EXTINF:-1 group-title="鄧麗君", 好預兆
+http://em.21dtv.com/songs/60075700.mkv
+#EXTINF:-1 group-title="鄧麗君", 好夢太匆匆
+http://em.21dtv.com/songs/60149502.mkv
+#EXTINF:-1 group-title="鄧麗君", 如果你喜歡這首歌
+http://em.21dtv.com/songs/60036878.mkv
+#EXTINF:-1 group-title="鄧麗君", 如果沒有你
+http://em.21dtv.com/songs/60036829.mkv
+#EXTINF:-1 group-title="鄧麗君", 如果能許一個願
+http://em.21dtv.com/songs/60100491.mkv
+#EXTINF:-1 group-title="鄧麗君", 媽媽呼喚你
+http://em.21dtv.com/songs/60028258.mkv
+#EXTINF:-1 group-title="鄧麗君", 媽媽的歌
+http://em.21dtv.com/songs/60028226.mkv
+#EXTINF:-1 group-title="鄧麗君", 安平追想曲
+http://em.21dtv.com/songs/60009326.mkv
+#EXTINF:-1 group-title="鄧麗君", 有我就有你
+http://em.21dtv.com/songs/60055325.mkv
+#EXTINF:-1 group-title="鄧麗君", 江水要比河水長
+http://em.21dtv.com/songs/60102774.mkv
+#EXTINF:-1 group-title="鄧麗君", 江水悠悠淚長流
+http://em.21dtv.com/songs/60023363.mkv
+#EXTINF:-1 group-title="鄧麗君", 紅豆
+http://em.21dtv.com/songs/60020818.mkv
+#EXTINF:-1 group-title="鄧麗君", 問自己
+http://em.21dtv.com/songs/60044513.mkv
+#EXTINF:-1 group-title="鄧麗君", 亂されて(演唱會)
+http://em.21dtv.com/songs/60027984.mkv
+#EXTINF:-1 group-title="鄧麗君", 但願人長久(演唱會)
+http://em.21dtv.com/songs/60014427.mkv
+#EXTINF:-1 group-title="鄧麗君", 何日君再來(雙語種)(演唱會)
+http://em.21dtv.com/songs/60020385.mkv
+#EXTINF:-1 group-title="鄧麗君", 何日君再來(演唱會)
+http://em.21dtv.com/songs/60020373.mkv
+#EXTINF:-1 group-title="鄧麗君", 你為何不說
+http://em.21dtv.com/songs/60032295.mkv
+#EXTINF:-1 group-title="鄧麗君", 你可知道我愛誰(演唱會)
+http://em.21dtv.com/songs/60031856.mkv
+#EXTINF:-1 group-title="鄧麗君", 你可知道我愛誰,
+http://em.21dtv.com/songs/60031857.mkv
+#EXTINF:-1 group-title="鄧麗君", 你在我心中(演唱會)
+http://em.21dtv.com/songs/60032477.mkv
+#EXTINF:-1 group-title="鄧麗君", 你在我心中
+http://em.21dtv.com/songs/60032478.mkv
+#EXTINF:-1 group-title="鄧麗君", 你的心我的心
+http://em.21dtv.com/songs/60031643.mkv
+#EXTINF:-1 group-title="鄧麗君", 你怎麼說(演唱會)
+http://em.21dtv.com/songs/60032505.mkv
+#EXTINF:-1 group-title="鄧麗君", 你是我的知音
+http://em.21dtv.com/songs/60089497.mkv
+#EXTINF:-1 group-title="鄧麗君", 你是偷心的人
+http://em.21dtv.com/songs/60088741.mkv
+#EXTINF:-1 group-title="鄧麗君", 你真叫人迷
+http://em.21dtv.com/songs/60032530.mkv
+#EXTINF:-1 group-title="鄧麗君", 別把眉兒皺
+http://em.21dtv.com/songs/60010565.mkv
+#EXTINF:-1 group-title="鄧麗君", 別離
+http://em.21dtv.com/songs/60103601.mkv
+#EXTINF:-1 group-title="鄧麗君", 君心我心
+http://em.21dtv.com/songs/60024930.mkv
+#EXTINF:-1 group-title="鄧麗君", 君在前哨(演唱會)
+http://em.21dtv.com/songs/60024931.mkv
+#EXTINF:-1 group-title="鄧麗君", 告訴你告訴我
+http://em.21dtv.com/songs/60018291.mkv
+#EXTINF:-1 group-title="鄧麗君", 忘不了
+http://em.21dtv.com/songs/60043481.mkv
+#EXTINF:-1 group-title="鄧麗君", 忘記他
+http://em.21dtv.com/songs/60043558.mkv
+#EXTINF:-1 group-title="鄧麗君", 快樂的出帆
+http://em.21dtv.com/songs/60025711.mkv
+#EXTINF:-1 group-title="鄧麗君", 我一見你就笑
+http://em.21dtv.com/songs/60046628.mkv
+#EXTINF:-1 group-title="鄧麗君", 我瞭解你
+http://em.21dtv.com/songs/60045711.mkv
+#EXTINF:-1 group-title="鄧麗君", 我不再迷惘
+http://em.21dtv.com/songs/60044919.mkv
+#EXTINF:-1 group-title="鄧麗君", 我不該愛你
+http://em.21dtv.com/songs/60044753.mkv
+#EXTINF:-1 group-title="鄧麗君", 我不哭
+http://em.21dtv.com/songs/60044783.mkv
+#EXTINF:-1 group-title="鄧麗君", 我與秋風
+http://em.21dtv.com/songs/60046727.mkv
+#EXTINF:-1 group-title="鄧麗君", 我心深處
+http://em.21dtv.com/songs/60046451.mkv
+#EXTINF:-1 group-title="鄧麗君", 我只在乎你
+http://em.21dtv.com/songs/60046913.mkv
+#EXTINF:-1 group-title="鄧麗君", 我沒有騙你
+http://em.21dtv.com/songs/60045750.mkv
+#EXTINF:-1 group-title="鄧麗君", 我和你
+http://em.21dtv.com/songs/60045531.mkv
+#EXTINF:-1 group-title="鄧麗君", 我怎捨得你
+http://em.21dtv.com/songs/60046825.mkv
+#EXTINF:-1 group-title="鄧麗君", 我怎能離開你
+http://em.21dtv.com/songs/60046821.mkv
+#EXTINF:-1 group-title="鄧麗君", 我是你知音
+http://em.21dtv.com/songs/60046157.mkv
+#EXTINF:-1 group-title="鄧麗君", 我要對你說
+http://em.21dtv.com/songs/60046520.mkv
+#EXTINF:-1 group-title="鄧麗君", 我要你為偶(演唱會)
+http://em.21dtv.com/songs/60046560.mkv
+#EXTINF:-1 group-title="鄧麗君", 我敬你一杯
+http://em.21dtv.com/songs/60045646.mkv
+#EXTINF:-1 group-title="鄧麗君", 把愛埋在心窩
+http://em.21dtv.com/songs/60009538.mkv
+#EXTINF:-1 group-title="鄧麗君", 時光不再來
+http://em.21dtv.com/songs/60039097.mkv
+#EXTINF:-1 group-title="鄧麗君", 來電是有緣
+http://em.21dtv.com/songs/60103604.mkv
+#EXTINF:-1 group-title="鄧麗君", 走馬燈
+http://em.21dtv.com/songs/60059932.mkv
+#EXTINF:-1 group-title="鄧麗君", 那天晚上遇見你
+http://em.21dtv.com/songs/60030781.mkv
+#EXTINF:-1 group-title="鄧麗君", 那句諾言
+http://em.21dtv.com/songs/60030717.mkv
+#EXTINF:-1 group-title="鄧麗君", 使愛情更美麗
+http://em.21dtv.com/songs/60039186.mkv
+#EXTINF:-1 group-title="鄧麗君", 初戀的情人
+http://em.21dtv.com/songs/60013013.mkv
+#EXTINF:-1 group-title="鄧麗君", 賣肉棕
+http://em.21dtv.com/songs/60028474.mkv
+#EXTINF:-1 group-title="鄧麗君", 賣肉粽(演唱會)
+http://em.21dtv.com/songs/60028475.mkv
+#EXTINF:-1 group-title="鄧麗君", 夜のフェリーボート(演唱會)
+http://em.21dtv.com/songs/60052522.mkv
+#EXTINF:-1 group-title="鄧麗君", 夜色
+http://em.21dtv.com/songs/60067692.mkv
+#EXTINF:-1 group-title="鄧麗君", 夜來香(演唱會)
+http://em.21dtv.com/songs/60052600.mkv
+#EXTINF:-1 group-title="鄧麗君", 夜溫柔
+http://em.21dtv.com/songs/60052657.mkv
+#EXTINF:-1 group-title="鄧麗君", 夜霧
+http://em.21dtv.com/songs/60052662.mkv
+#EXTINF:-1 group-title="鄧麗君", 夜霧下的姑娘
+http://em.21dtv.com/songs/60052666.mkv
+#EXTINF:-1 group-title="鄧麗君", 奈何(演唱會)
+http://em.21dtv.com/songs/60030870.mkv
+#EXTINF:-1 group-title="鄧麗君", 往事只能回味
+http://em.21dtv.com/songs/60043461.mkv
+#EXTINF:-1 group-title="鄧麗君", 總有一天
+http://em.21dtv.com/songs/60059845.mkv
+#EXTINF:-1 group-title="鄧麗君", 明月千里寄相思
+http://em.21dtv.com/songs/60030248.mkv
+#EXTINF:-1 group-title="鄧麗君", 楓葉飄飄
+http://em.21dtv.com/songs/60095100.mkv
+#EXTINF:-1 group-title="鄧麗君", 淚的小雨
+http://em.21dtv.com/songs/60026519.mkv
+#EXTINF:-1 group-title="鄧麗君", 空港(演唱會)
+http://em.21dtv.com/songs/60025451.mkv
+#EXTINF:-1 group-title="鄧麗君", 空港
+http://em.21dtv.com/songs/60123221.mkv
+#EXTINF:-1 group-title="鄧麗君", 空港
+http://em.21dtv.com/songs/60123221.mkv
+#EXTINF:-1 group-title="鄧麗君", 詩意
+http://em.21dtv.com/songs/60038877.mkv
+#EXTINF:-1 group-title="鄧麗君", 迎著風跟著雲
+http://em.21dtv.com/songs/60054507.mkv
+#EXTINF:-1 group-title="鄧麗君", 采檳榔
+http://em.21dtv.com/songs/60011900.mkv
+#EXTINF:-1 group-title="鄧麗君", 阿媽的話(演唱會)
+http://em.21dtv.com/songs/60006781.mkv
+#EXTINF:-1 group-title="鄧麗君", 阿里山的姑娘
+http://em.21dtv.com/songs/60095225.mkv
+#EXTINF:-1 group-title="鄧麗君", 雨下的花朵
+http://em.21dtv.com/songs/60055711.mkv
+#EXTINF:-1 group-title="鄧麗君", 雨不停心不定
+http://em.21dtv.com/songs/60055635.mkv
+#EXTINF:-1 group-title="鄧麗君", 雨中追憶
+http://em.21dtv.com/songs/60055771.mkv
+#EXTINF:-1 group-title="鄧麗君", 雨中徘徊
+http://em.21dtv.com/songs/60055763.mkv
+#EXTINF:-1 group-title="鄧麗君", 雨夜花
+http://em.21dtv.com/songs/60055726.mkv
+#EXTINF:-1 group-title="鄧麗君", 青山綠水我和你
+http://em.21dtv.com/songs/60034785.mkv
+#EXTINF:-1 group-title="鄧麗君", 南海姑娘(演唱會)
+http://em.21dtv.com/songs/60031106.mkv
+#EXTINF:-1 group-title="鄧麗君", 思想枝
+http://em.21dtv.com/songs/60040600.mkv
+#EXTINF:-1 group-title="鄧麗君", 恨不相逢未嫁時
+http://em.21dtv.com/songs/60020691.mkv
+#EXTINF:-1 group-title="鄧麗君", 恰似你的溫柔
+http://em.21dtv.com/songs/60034047.mkv
+#EXTINF:-1 group-title="鄧麗君", 星(無原唱)
+http://em.21dtv.com/songs/60066491.mkv
+#EXTINF:-1 group-title="鄧麗君", 星
+http://em.21dtv.com/songs/60112990.mkv
+#EXTINF:-1 group-title="鄧麗君", 星
+http://em.21dtv.com/songs/60114114.mkv
+#EXTINF:-1 group-title="鄧麗君", 星月淚痕
+http://em.21dtv.com/songs/60051159.mkv
+#EXTINF:-1 group-title="鄧麗君", 星願
+http://em.21dtv.com/songs/60051154.mkv
+#EXTINF:-1 group-title="鄧麗君", 春風滿小城
+http://em.21dtv.com/songs/60013239.mkv
+#EXTINF:-1 group-title="鄧麗君", 春在歲歲年年
+http://em.21dtv.com/songs/60013373.mkv
+#EXTINF:-1 group-title="鄧麗君", 昨天今天
+http://em.21dtv.com/songs/60103602.mkv
+#EXTINF:-1 group-title="鄧麗君", 昨夜夢魂中
+http://em.21dtv.com/songs/60060609.mkv
+#EXTINF:-1 group-title="鄧麗君", 是你打來的電話
+http://em.21dtv.com/songs/60103603.mkv
+#EXTINF:-1 group-title="鄧麗君", 是否
+http://em.21dtv.com/songs/60039412.mkv
+#EXTINF:-1 group-title="鄧麗君", 濃情萬縷
+http://em.21dtv.com/songs/60032773.mkv
+#EXTINF:-1 group-title="鄧麗君", 獨上西樓(演唱會)
+http://em.21dtv.com/songs/60015801.mkv
+#EXTINF:-1 group-title="鄧麗君", 獨上西樓
+http://em.21dtv.com/songs/60015803.mkv
+#EXTINF:-1 group-title="鄧麗君", 相見不如懷念
+http://em.21dtv.com/songs/60078572.mkv
+#EXTINF:-1 group-title="鄧麗君", 相見在明天
+http://em.21dtv.com/songs/60048676.mkv
+#EXTINF:-1 group-title="鄧麗君", 相愛如往昔
+http://em.21dtv.com/songs/60103605.mkv
+#EXTINF:-1 group-title="鄧麗君", 相聚更甜蜜
+http://em.21dtv.com/songs/60048681.mkv
+#EXTINF:-1 group-title="鄧麗君", 祈望
+http://em.21dtv.com/songs/60103606.mkv
+#EXTINF:-1 group-title="鄧麗君", 祈望
+http://em.21dtv.com/songs/60155165.mkv
+#EXTINF:-1 group-title="鄧麗君", 給我一個吻
+http://em.21dtv.com/songs/60109644.mkv
+#EXTINF:-1 group-title="鄧麗君", 美酒加咖啡
+http://em.21dtv.com/songs/60029130.mkv
+#EXTINF:-1 group-title="鄧麗君", 要去遙遠的地方
+http://em.21dtv.com/songs/60052388.mkv
+#EXTINF:-1 group-title="鄧麗君", 說一聲再見
+http://em.21dtv.com/songs/60040431.mkv
+#EXTINF:-1 group-title="鄧麗君", 說一說笑一笑
+http://em.21dtv.com/songs/60040433.mkv
+#EXTINF:-1 group-title="鄧麗君", 說說笑笑(演唱會)
+http://em.21dtv.com/songs/60040423.mkv
+#EXTINF:-1 group-title="鄧麗君", 說說笑笑
+http://em.21dtv.com/songs/60040424.mkv
+#EXTINF:-1 group-title="鄧麗君", 郊道(演唱會)
+http://em.21dtv.com/songs/60023462.mkv
+#EXTINF:-1 group-title="鄧麗君", 香港之夜
+http://em.21dtv.com/songs/60048918.mkv
+#EXTINF:-1 group-title="鄧麗君", 原鄉人
+http://em.21dtv.com/songs/60056021.mkv
+#EXTINF:-1 group-title="鄧麗君", 原鄉情濃(演唱會)
+http://em.21dtv.com/songs/60056019.mkv
+#EXTINF:-1 group-title="鄧麗君", 哪奴娃情歌
+http://em.21dtv.com/songs/60030671.mkv
+#EXTINF:-1 group-title="鄧麗君", 娘心
+http://em.21dtv.com/songs/60032666.mkv
+#EXTINF:-1 group-title="鄧麗君", 恩愛夫妻
+http://em.21dtv.com/songs/60102772.mkv
+#EXTINF:-1 group-title="鄧麗君", 悄悄地告訴你
+http://em.21dtv.com/songs/60102773.mkv
+#EXTINF:-1 group-title="鄧麗君", 效道
+http://em.21dtv.com/songs/60104469.mkv
+#EXTINF:-1 group-title="鄧麗君", 旅愁
+http://em.21dtv.com/songs/60028138.mkv
+#EXTINF:-1 group-title="鄧麗君", 浪子心聲
+http://em.21dtv.com/songs/60026302.mkv
+#EXTINF:-1 group-title="鄧麗君", 浪花節だよ人生は(演唱會)
+http://em.21dtv.com/songs/60026216.mkv
+#EXTINF:-1 group-title="鄧麗君", 海棠姑娘
+http://em.21dtv.com/songs/60019812.mkv
+#EXTINF:-1 group-title="鄧麗君", 海韻(演唱會)
+http://em.21dtv.com/songs/60019827.mkv
+#EXTINF:-1 group-title="鄧麗君", 海韻
+http://em.21dtv.com/songs/60019828.mkv
+#EXTINF:-1 group-title="鄧麗君", 燒肉粽(演唱會)
+http://em.21dtv.com/songs/60038098.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛人(演唱會)
+http://em.21dtv.com/songs/60008534.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛人
+http://em.21dtv.com/songs/60008537.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛人是個多情人
+http://em.21dtv.com/songs/60008580.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛人就是我
+http://em.21dtv.com/songs/60008570.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛在我心中
+http://em.21dtv.com/songs/60009198.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛你一萬倍
+http://em.21dtv.com/songs/60008018.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的你呀何處尋(演唱會)
+http://em.21dtv.com/songs/60007335.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的你呀何處尋
+http://em.21dtv.com/songs/60007336.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的使者
+http://em.21dtv.com/songs/60007366.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的使者
+http://em.21dtv.com/songs/60007366.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的魚
+http://em.21dtv.com/songs/60007443.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的秘密
+http://em.21dtv.com/songs/60007323.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的理想
+http://em.21dtv.com/songs/60007294.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的箴言
+http://em.21dtv.com/songs/60007456.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛的箴言
+http://em.21dtv.com/songs/60007456.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛雨
+http://em.21dtv.com/songs/60089499.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛像一首歌(演唱會)
+http://em.21dtv.com/songs/60008992.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛像一首歌
+http://em.21dtv.com/songs/60008994.mkv
+#EXTINF:-1 group-title="鄧麗君", 留不住你的心
+http://em.21dtv.com/songs/60027524.mkv
+#EXTINF:-1 group-title="鄧麗君", 祖母的話(演唱會)
+http://em.21dtv.com/songs/60060029.mkv
+#EXTINF:-1 group-title="鄧麗君", 胭脂淚
+http://em.21dtv.com/songs/60051928.mkv
+#EXTINF:-1 group-title="鄧麗君", 誰來愛我
+http://em.21dtv.com/songs/60040014.mkv
+#EXTINF:-1 group-title="鄧麗君", 追夢
+http://em.21dtv.com/songs/60156630.mkv
+#EXTINF:-1 group-title="鄧麗君", 追夢
+http://em.21dtv.com/songs/60156630.mkv
+#EXTINF:-1 group-title="鄧麗君", 逃避行
+http://em.21dtv.com/songs/60041538.mkv
+#EXTINF:-1 group-title="鄧麗君", 酒醉的探戈
+http://em.21dtv.com/songs/60024481.mkv
+#EXTINF:-1 group-title="鄧麗君", 釜山港へ帰れ(演唱會)
+http://em.21dtv.com/songs/60017709.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘初戀的情人
+http://em.21dtv.com/songs/60031238.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘初戀情人
+http://em.21dtv.com/songs/60031240.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘的一天
+http://em.21dtv.com/songs/60031268.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘的初戀情人(演唱會)
+http://em.21dtv.com/songs/60031246.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘的初戀情人
+http://em.21dtv.com/songs/60031249.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘的愛人(演唱會)
+http://em.21dtv.com/songs/60031241.mkv
+#EXTINF:-1 group-title="鄧麗君", 難忘的愛人
+http://em.21dtv.com/songs/60031245.mkv
+#EXTINF:-1 group-title="鄧麗君", 高山青
+http://em.21dtv.com/songs/60018219.mkv
+#EXTINF:-1 group-title="鄧麗君", 假如我是真的
+http://em.21dtv.com/songs/60023119.mkv
+#EXTINF:-1 group-title="鄧麗君", 假如夢兒是真的
+http://em.21dtv.com/songs/60023106.mkv
+#EXTINF:-1 group-title="鄧麗君", 偶然的相遇
+http://em.21dtv.com/songs/60131862.mkv
+#EXTINF:-1 group-title="鄧麗君", 偶然的相遇
+http://em.21dtv.com/songs/60131862.mkv
+#EXTINF:-1 group-title="鄧麗君", 償還(演唱會)
+http://em.21dtv.com/songs/60012286.mkv
+#EXTINF:-1 group-title="鄧麗君", 償還
+http://em.21dtv.com/songs/60012289.mkv
+#EXTINF:-1 group-title="鄧麗君", 寄語多情人
+http://em.21dtv.com/songs/60102771.mkv
+#EXTINF:-1 group-title="鄧麗君", 彩雲飛(演唱會)
+http://em.21dtv.com/songs/60011960.mkv
+#EXTINF:-1 group-title="鄧麗君", 彩霞回來吧
+http://em.21dtv.com/songs/60088742.mkv
+#EXTINF:-1 group-title="鄧麗君", 情人一笑
+http://em.21dtv.com/songs/60035255.mkv
+#EXTINF:-1 group-title="鄧麗君", 情人再見
+http://em.21dtv.com/songs/60035256.mkv
+#EXTINF:-1 group-title="鄧麗君", 情人的關懷
+http://em.21dtv.com/songs/60035185.mkv
+#EXTINF:-1 group-title="鄧麗君", 情人的陽光
+http://em.21dtv.com/songs/60035206.mkv
+#EXTINF:-1 group-title="鄧麗君", 情花
+http://em.21dtv.com/songs/60035032.mkv
+#EXTINF:-1 group-title="鄧麗君", 情迷
+http://em.21dtv.com/songs/60035097.mkv
+#EXTINF:-1 group-title="鄧麗君", 情飄飄
+http://em.21dtv.com/songs/60088743.mkv
+#EXTINF:-1 group-title="鄧麗君", 晚風花香
+http://em.21dtv.com/songs/60170363.mkv
+#EXTINF:-1 group-title="鄧麗君", 望春風
+http://em.21dtv.com/songs/60043662.mkv
+#EXTINF:-1 group-title="鄧麗君", 梅花
+http://em.21dtv.com/songs/60028977.mkv
+#EXTINF:-1 group-title="鄧麗君", 梅花
+http://em.21dtv.com/songs/60120989.mkv
+#EXTINF:-1 group-title="鄧麗君", 梅花
+http://em.21dtv.com/songs/60120989.mkv
+#EXTINF:-1 group-title="鄧麗君", 夢
+http://em.21dtv.com/songs/60029465.mkv
+#EXTINF:-1 group-title="鄧麗君", 夢向何處尋
+http://em.21dtv.com/songs/60156629.mkv
+#EXTINF:-1 group-title="鄧麗君", 夢向何處尋
+http://em.21dtv.com/songs/60156629.mkv
+#EXTINF:-1 group-title="鄧麗君", 欲說還休
+http://em.21dtv.com/songs/60055822.mkv
+#EXTINF:-1 group-title="鄧麗君", 深情脈脈
+http://em.21dtv.com/songs/60077548.mkv
+#EXTINF:-1 group-title="鄧麗君", 甜蜜的小雨
+http://em.21dtv.com/songs/60042374.mkv
+#EXTINF:-1 group-title="鄧麗君", 甜蜜蜜
+http://em.21dtv.com/songs/60042384.mkv
+#EXTINF:-1 group-title="鄧麗君", 眼淚中的愛
+http://em.21dtv.com/songs/60052087.mkv
+#EXTINF:-1 group-title="鄧麗君", 綠島小夜曲
+http://em.21dtv.com/songs/60168222.mkv
+#EXTINF:-1 group-title="鄧麗君", 臉兒微笑花兒香(演)
+http://em.21dtv.com/songs/60100492.mkv
+#EXTINF:-1 group-title="鄧麗君", 船歌(演唱會)
+http://em.21dtv.com/songs/60013144.mkv
+#EXTINF:-1 group-title="鄧麗君", 莫忘今宵(演唱會)
+http://em.21dtv.com/songs/60030436.mkv
+#EXTINF:-1 group-title="鄧麗君", 逍遙自在
+http://em.21dtv.com/songs/60126252.mkv
+#EXTINF:-1 group-title="鄧麗君", 逍遙自在
+http://em.21dtv.com/songs/60126252.mkv
+#EXTINF:-1 group-title="鄧麗君", 雪中蓮
+http://em.21dtv.com/songs/60051776.mkv
+#EXTINF:-1 group-title="鄧麗君", 雪化粧(演唱會)
+http://em.21dtv.com/songs/60051698.mkv
+#EXTINF:-1 group-title="鄧麗君", 雪地上的回憶
+http://em.21dtv.com/songs/60051675.mkv
+#EXTINF:-1 group-title="鄧麗君", 黃昏裡
+http://em.21dtv.com/songs/60021956.mkv
+#EXTINF:-1 group-title="鄧麗君", 溫情滿人間
+http://em.21dtv.com/songs/60044342.mkv
+#EXTINF:-1 group-title="鄧麗君", 緣投囝子
+http://em.21dtv.com/songs/60056108.mkv
+#EXTINF:-1 group-title="鄧麗君", 謝謝你常記得我
+http://em.21dtv.com/songs/60050049.mkv
+#EXTINF:-1 group-title="鄧麗君", 微風細雨
+http://em.21dtv.com/songs/60043758.mkv
+#EXTINF:-1 group-title="鄧麗君", 想你想斷腸
+http://em.21dtv.com/songs/60049158.mkv
+#EXTINF:-1 group-title="鄧麗君", 想起你
+http://em.21dtv.com/songs/60049219.mkv
+#EXTINF:-1 group-title="鄧麗君", 想聚別離倆依依
+http://em.21dtv.com/songs/60089498.mkv
+#EXTINF:-1 group-title="鄧麗君", 碎心花
+http://em.21dtv.com/songs/60041003.mkv
+#EXTINF:-1 group-title="鄧麗君", 碎心戀
+http://em.21dtv.com/songs/60041006.mkv
+#EXTINF:-1 group-title="鄧麗君", 虞美人
+http://em.21dtv.com/songs/60055562.mkv
+#EXTINF:-1 group-title="鄧麗君", 路邊的野花不要采(演唱會)
+http://em.21dtv.com/songs/60027922.mkv
+#EXTINF:-1 group-title="鄧麗君", 遇見舊情人
+http://em.21dtv.com/songs/60055846.mkv
+#EXTINF:-1 group-title="鄧麗君", 遇見你(演唱會)
+http://em.21dtv.com/songs/60055852.mkv
+#EXTINF:-1 group-title="鄧麗君", 漫步人生路
+http://em.21dtv.com/songs/60028564.mkv
+#EXTINF:-1 group-title="鄧麗君", 舞女
+http://em.21dtv.com/songs/60047792.mkv
+#EXTINF:-1 group-title="鄧麗君", 舞伴淚影(演唱會)
+http://em.21dtv.com/songs/60047767.mkv
+#EXTINF:-1 group-title="鄧麗君", 蜻蜓姑娘之歌
+http://em.21dtv.com/songs/60093235.mkv
+#EXTINF:-1 group-title="鄧麗君", 遙遠的路
+http://em.21dtv.com/songs/60052332.mkv
+#EXTINF:-1 group-title="鄧麗君", 嘿嘿小可愛
+http://em.21dtv.com/songs/60020621.mkv
+#EXTINF:-1 group-title="鄧麗君", 醉心變
+http://em.21dtv.com/songs/60060537.mkv
+#EXTINF:-1 group-title="鄧麗君", 凝望
+http://em.21dtv.com/songs/60032719.mkv
+#EXTINF:-1 group-title="鄧麗君", 襟裳岬(演唱會)
+http://em.21dtv.com/songs/60024114.mkv
+#EXTINF:-1 group-title="鄧麗君", 你怎麼說
+http://em.21dtv.com/songs/60165573.mkv
+#EXTINF:-1 group-title="鄧麗君", 你的愛人
+http://em.21dtv.com/songs/60031545.mkv
+#EXTINF:-1 group-title="鄧麗君", 愛人女神
+http://em.21dtv.com/songs/60008576.mkv
 
 
 
@@ -14106,22 +14931,6 @@ https://ca01.utako.moe/v_paradise/index.m3u8
 
 
 
-#EXTINF:-1 group-title="私密頻道",驚艷台
-http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/85
-#EXTINF:-1 group-title="私密頻道",潘多拉完美
-http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/86
-#EXTINF:-1 group-title="私密頻道",香蕉台
-http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/87
-#EXTINF:-1 group-title="私密頻道",松視1台
-http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/88
-#EXTINF:-1 group-title="私密頻道",松視2台
-http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/89
-#EXTINF:-1 group-title="私密頻道",松視3台
-http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
-
-
-http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6212/index.m3u8
-
 
 #EXTINF:-1 group-title="私密頻道",FemJoy
 http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6212/index.m3u8
@@ -14145,59 +14954,66 @@ http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12168/index.m3u8
 http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6165/index.m3u8
 
 
+#EXTINF:-1 group-title="私密頻道",1
+https://hyf000.eu.org/iptv/1
 
 
+#EXTINF:-1 group-title="私密頻道",2
+https://hyf000.eu.org/iptv/2
 
-#EXTINF:-1 group-title="私密頻道",松視1
-http://iptv.4666888.xyz/iptv.php?id=20143
-#EXTINF:-1 group-title="私密頻道",松視2
-http://iptv.4666888.xyz/iptv.php?id=20144
-#EXTINF:-1 group-title="私密頻道",松視3
-http://iptv.4666888.xyz/iptv.php?id=20145
-#EXTINF:-1 group-title="私密頻道",彩虹e
-http://iptv.4666888.xyz/iptv.php?id=20146
-#EXTINF:-1 group-title="私密頻道",K頻道
-http://iptv.4666888.xyz/iptv.php?id=20147
-#EXTINF:-1 group-title="私密頻道",彩虹電影
-http://iptv.4666888.xyz/iptv.php?id=20148
-#EXTINF:-1 group-title="私密頻道",潘朵啦玩美
-http://iptv.4666888.xyz/iptv.php?id=20149
-#EXTINF:-1 group-title="私密頻道",驚豔電影
-http://iptv.4666888.xyz/iptv.php?id=20150
-#EXTINF:-1 group-title="私密頻道",Happy
-http://iptv.4666888.xyz/iptv.php?id=20151
-#EXTINF:-1 group-title="私密頻道",香蕉
-http://iptv.4666888.xyz/iptv.php?id=20152
-#EXTINF:-1 group-title="私密頻道",PIGOO
-http://iptv.4666888.xyz/iptv.php?id=20153
-#EXTINF:-1 group-title="私密頻道",極限電影
-http://iptv.4666888.xyz/iptv.php?id=20154
-#EXTINF:-1 group-title="私密頻道",PPA日本AV
-http://iptv.4666888.xyz/iptv.php?id=20155
-#EXTINF:-1 group-title="私密頻道",免仔TV-女同
-http://iptv.4666888.xyz/iptv.php?id=20156
-#EXTINF:-1 group-title="私密頻道",麻豆AV
-http://iptv.4666888.xyz/iptv.php?id=20157
-#EXTINF:-1 group-title="私密頻道",pornbox日本AV
-http://iptv.4666888.xyz/iptv.php?id=20158
-#EXTINF:-1 group-title="私密頻道",JStar三級片
-http://iptv.4666888.xyz/iptv.php?id=20159
-#EXTINF:-1 group-title="私密頻道",國外AV1
-http://iptv.4666888.xyz/iptv.php?id=20160
-#EXTINF:-1 group-title="私密頻道",國外AV2
-http://iptv.4666888.xyz/iptv.php?id=20161
-#EXTINF:-1 group-title="私密頻道",國外AV3
-http://iptv.4666888.xyz/iptv.php?id=20162
-#EXTINF:-1 group-title="私密頻道",國外AV4
-http://iptv.4666888.xyz/iptv.php?id=20163
-#EXTINF:-1 group-title="私密頻道",國外AV5
-http://iptv.4666888.xyz/iptv.php?id=20164
-#EXTINF:-1 group-title="私密頻道",國外AV6
-http://iptv.4666888.xyz/iptv.php?id=20165
-#EXTINF:-1 group-title="私密頻道",國外AV7
-http://iptv.4666888.xyz/iptv.php?id=20166
-#EXTINF:-1 group-title="私密頻道",國外AV8
-http://iptv.4666888.xyz/iptv.php?id=20167
+#EXTINF:-1 group-title="私密頻道",3
+https://hyf000.eu.org/iptv/3
+
+#EXTINF:-1 group-title="私密頻道",4
+https://hyf000.eu.org/iptv/4
+
+#EXTINF:-1 group-title="私密頻道",5
+https://hyf000.eu.org/iptv/5
+
+#EXTINF:-1 group-title="私密頻道",6
+https://hyf000.eu.org/iptv/6
+
+#EXTINF:-1 group-title="私密頻道",7
+https://hyf000.eu.org/iptv/7
+
+#EXTINF:-1 group-title="私密頻道",8
+https://hyf000.eu.org/iptv/8
+
+#EXTINF:-1 group-title="私密頻道",9
+https://hyf000.eu.org/iptv/9
+
+#EXTINF:-1 group-title="私密頻道",10
+https://hyf000.eu.org/iptv/10
+
+#EXTINF:-1 group-title="私密頻道",11
+https://hyf000.eu.org/iptv/11
+
+#EXTINF:-1 group-title="私密頻道",12
+https://hyf000.eu.org/iptv/12
+
+#EXTINF:-1 group-title="私密頻道",13
+https://hyf000.eu.org/iptv/13
+
+#EXTINF:-1 group-title="私密頻道",14
+https://hyf000.eu.org/iptv/14
+
+#EXTINF:-1 group-title="私密頻道",15
+https://hyf000.eu.org/iptv/15
+
+#EXTINF:-1 group-title="私密頻道",16
+https://hyf000.eu.org/iptv/16
+
+#EXTINF:-1 group-title="私密頻道",17
+https://hyf000.eu.org/iptv/17
+
+#EXTINF:-1 group-title="私密頻道",18
+https://hyf000.eu.org/iptv/18
+
+#EXTINF:-1 group-title="私密頻道",19
+https://hyf000.eu.org/iptv/19
+
+#EXTINF:-1 group-title="私密頻道",20
+https://hyf000.eu.org/iptv/20
 
 
 
@@ -14296,7 +15112,7 @@ http://kenneth001.serv00.net/hochu.php?id=fetish-xxx
 http://kenneth001.serv00.net/hochu.php?id=pornstar-xxx
 #EXTINF:-1 tvg-name="big-ass-porn" tvg-logo="http://kenneth001.serv00.net/hochu.php?url=http://hochu.tv/images/big-ass-porn.png" group-title="私密頻道",big-ass-porn
 http://kenneth001.serv00.net/hochu.php?id=big-ass-porn
-#EXTINF:-1 tvg-name="interracial-porn" tvg-logo="http://kenneth001.serv00.net/hochu.php?url=http://hochu.tv/images/interracial-porn.png",interracial-porn
+#EXTINF:-1 tvg-name="interracial-porn" tvg-logo="http://kenneth001.serv00.net/hochu.php?url=http://hochu.tv/images/interracial-porn.png" group-title="私密頻道",interracial-porn
 http://kenneth001.serv00.net/hochu.php?id=interracial-porn
 #EXTINF:-1 tvg-name="latina-porn" tvg-logo="http://kenneth001.serv00.net/hochu.php?url=http://hochu.tv/images/latina-porn.png" group-title="私密頻道",latina-porn
 http://kenneth001.serv00.net/hochu.php?id=latina-porn
