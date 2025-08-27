@@ -13824,63 +13824,43 @@ https://hls.mskycdn.online/tv/vtv5tn/index.m3u8
 
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="越南 VTV" tvg-logo="https://i.ibb.co/vvRdysBp/onviegiaitrinew-BEARTV.png", ON Vie GIẢI TRÍ
 https://nextx.live/360/180/index.m3u8
-
 #EXTINF:-1 tvg-id="onphimviet" group-title="越南 VTV" tvg-logo="https://i.ibb.co/zn7tNfS/phim-Viet-BEARTV.png", ON Phim Việt
 https://nextx.live/360/175/index.m3u8
-
-#EXTINF:-1 tvg-id="onmovies" group-title="越南 VTV" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png" , ON MOVIES
+#EXTINF:-1 tvg-id="onmovies" group-title="越南 VTV" tvg-logo="https://i.ibb.co/tzTXSLs/ONMovies-BEARTV.png", ON MOVIES
 https://nextx.live/360/181/index.m3u8
-
 #EXTINF:-1 tvg-id="onechannel" group-title="越南 VTV" tvg-logo="https://i.ibb.co/tmCTzWk/ecn1-BEARTV.png", ON E CHANNEL
 https://nextx.live/360/182/index.m3u8
-
 #EXTINF:-1 tvg-id="ono2tv" group-title="越南 VTV" tvg-logo="https://i.ibb.co/ZT7w970/ONO2-BEARTV.png", ON O2TV
 https://nextx.live/360/136/index.m3u8
-
 #EXTINF:-1 tvg-id="onbibi" group-title="越南 VTV" tvg-logo="https://i.ibb.co/t4PV17Q/ONBibi-BEARTV.png", ON BIBI
 https://nextx.live/360/178/index.m3u8
-
 #EXTINF:-1 tvg-id="oninfotv" group-title="越南 VTV" tvg-logo="https://i.ibb.co/1X6NMjT/info-BEARTV.png", ON INFO TV
 https://nextx.live/360/189/index.m3u8
-
 #EXTINF:-1 tvg-id="oncine" group-title="越南 VTV" tvg-logo="https://i.ibb.co/v4X3VqN/cab10-filmtv-BEARTV.png", ON CINE
 https://nextx.live/360/176/index.m3u8
-
 #EXTINF:-1 tvg-id="onstyle" group-title="越南 VTV" tvg-logo="https://i.ibb.co/Qjckpv4/styletv-BEARTV.png", ON STYLE TV
 https://nextx.live/360/184/index.m3u8
-
 #EXTINF:-1 tvg-id="onmusic" group-title="越南 VTV" tvg-logo="https://i.ibb.co/L8RBHbv/ONMusic-BEARTV.png",ON MUSIC
 https://nextx.live/360/185/index.m3u8
-
 #EXTINF:-1 tvg-id="ontrending" group-title="越南 VTV" tvg-logo="https://i.ibb.co/Nx646LH/ontreding-BEARTV.png", ON TRENDING TV
 https://nextx.live/360/186/index.m3u8
-
 #EXTINF:-1 tvg-id="onviedramas" group-title="越南 VTV" tvg-logo="https://i.ibb.co/kJVhzbt/onviedrama-BEARTV.png", ON Vie DRAMAS
 https://nextx.live/360/177/index.m3u8
-
 #EXTINF:-1 tvg-id="onvfamily" group-title="越南 VTV" tvg-logo="https://i.ibb.co/3ythBWMz/onvfamilynew-BEARTV.png", ON V FAMILY
 https://nextx.live/360/187/index.m3u8
-
 #EXTINF:0 tvg-id="onkids" group-title="越南 VTV" tvg-logo="https://i.ibb.co/zbmJhcy/ON-Kids-BEARTV.png", ON Kids
 https://nextx.live/360/179/index.m3u8
-
 #EXTINF:-1 tvg-id="onlife" group-title="越南 VTV" tvg-logo="https://i.ibb.co/ZcDFKMq/ONLife-BEARTV.png", On Life
 https://nextx.live/360/188/index.m3u8
-
 #EXTINF:-1 tvg-id="ongolf" group-title="越南 VTV" tvg-logo="https://i.ibb.co/KbXxc9h/ONGOLF-BEARTV.png", On Golf
 https://nextx.live/360/169/index.m3u8
-
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="越南 VTV" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="越南 VTV" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png", BOX MOVIE 1
 https://nextx.live/360/159/index.m3u8
-
-#EXTINF:0 tvg-id="inthebox"group-title="越南 VTV" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png",IN THE BOX
+#EXTINF:0 tvg-id="inthebox"group-title="越南 VTV" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
 https://nextx.live/360/235/index.m3u8
-
-#EXTINF:-1 tvg-id="boxhits" group-title="越南 VTV" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
+#EXTINF:-1 tvg-id="boxhits" group-title="越南 VTV" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png", BOX HITS
 https://nextx.live/360/239/index.m3u8
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="越南 VTV" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="越南 VTV" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", HOLLYWOOD CLASSICS
 https://nextx.live/360/160/index.m3u8
 
 
@@ -14697,6 +14677,11 @@ http://bo.xn--3oq579l.com/live/cx_15202.flv
 
 #EXTINF:-1 group-title="私密頻道 ADULT",Кино 18+ International
 https://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",EropulsDE
+https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
 
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
 https://ca01.utako.moe/pigoo/index.m3u8
@@ -14704,6 +14689,14 @@ https://ca01.utako.moe/pigoo/index.m3u8
 https://ca01.utako.moe/v_paradise/index.m3u8
 
 
+#EXTINF:-1 group-title="私密頻道 ADULT",Asian
+http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70764
+
+#EXTINF:-1 group-title="私密頻道 ADULT",Public Agent
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6246/index.m3u8
+
+#EXTINF:-1 group-title="私密頻道 ADULT",Playboy
+http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 
 #EXTINF:-1 group-title="私密頻道 ADULT",FemJoy
 http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6212/index.m3u8
@@ -14725,6 +14718,61 @@ http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6186/index.m3u8
 http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/12168/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",SexArt HD
 http://ztpj7eox.rostelekom.xyz/iptv/285E8H2EKQ64B4/6165/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Blondes
+http://cdntv.online/high/ynemik5cl9/1686.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Blowjob
+http://cdntv.online/high/ynemik5cl9/1687.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Cinema
+http://cdntv.online/high/ynemik5cl9/1688.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Cosplay
+http://cdntv.online/high/ynemik5cl9/1689.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Ebony
+http://cdntv.online/high/ynemik5cl9/1690.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Gays
+http://cdntv.online/high/ynemik5cl9/1691.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Gloryhole
+http://cdntv.online/high/ynemik5cl9/1692.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Henati
+http://cdntv.online/high/ynemik5cl9/1693.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Japanese
+http://cdntv.online/high/ynemik5cl9/1694.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Lesbians
+http://cdntv.online/high/ynemik5cl9/1695.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Massage
+http://cdntv.online/high/ynemik5cl9/1696.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Milf
+http://cdntv.online/high/ynemik5cl9/1697.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Russian Teens
+http://cdntv.online/high/ynemik5cl9/1698.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Orgy
+http://cdntv.online/high/ynemik5cl9/1699.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Pregnant
+http://cdntv.online/high/ynemik5cl9/1700.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Shemales
+http://cdntv.online/high/ynemik5cl9/1701.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Solo
+http://cdntv.online/high/ynemik5cl9/1702.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe Step Family
+http://cdntv.online/high/ynemik5cl9/1703.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe 4K UHD
+http://cdntv.online/high/ynemik5cl9/1704.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe VIP 4K 60FPS
+http://cdntv.online/high/ynemik5cl9/1705.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe BBW
+http://cdntv.online/high/ynemik5cl9/1706.mpeg
+#EXTINF:-1 group-title="私密頻道 ADULT",EroLuxe BabySitter
+http://cdntv.online/high/ynemik5cl9/1707.mpeg
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",1
@@ -14768,6 +14816,624 @@ https://hyf000.eu.org/iptv/19
 #EXTINF:-1 group-title="私密頻道 ADULT",20
 https://hyf000.eu.org/iptv/20
 
+#EXTINF:-1 group-title="私密頻道 ADULT",21
+https://hyf000.eu.org/iptv/21
+#EXTINF:-1 group-title="私密頻道 ADULT",22
+https://hyf000.eu.org/iptv/22
+#EXTINF:-1 group-title="私密頻道 ADULT",23
+https://hyf000.eu.org/iptv/23
+#EXTINF:-1 group-title="私密頻道 ADULT",24
+https://hyf000.eu.org/iptv/24
+#EXTINF:-1 group-title="私密頻道 ADULT",25
+https://hyf000.eu.org/iptv/25
+#EXTINF:-1 group-title="私密頻道 ADULT",26
+https://hyf000.eu.org/iptv/26
+#EXTINF:-1 group-title="私密頻道 ADULT",27
+https://hyf000.eu.org/iptv/27
+#EXTINF:-1 group-title="私密頻道 ADULT",28
+https://hyf000.eu.org/iptv/28
+#EXTINF:-1 group-title="私密頻道 ADULT",29
+https://hyf000.eu.org/iptv/29
+#EXTINF:-1 group-title="私密頻道 ADULT",30
+https://hyf000.eu.org/iptv/30
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",31
+https://hyf000.eu.org/iptv/31
+#EXTINF:-1 group-title="私密頻道 ADULT",32
+https://hyf000.eu.org/iptv/32
+#EXTINF:-1 group-title="私密頻道 ADULT",33
+https://hyf000.eu.org/iptv/33
+#EXTINF:-1 group-title="私密頻道 ADULT",34
+https://hyf000.eu.org/iptv/34
+#EXTINF:-1 group-title="私密頻道 ADULT",35
+https://hyf000.eu.org/iptv/35
+#EXTINF:-1 group-title="私密頻道 ADULT",36
+https://hyf000.eu.org/iptv/36
+#EXTINF:-1 group-title="私密頻道 ADULT",37
+https://hyf000.eu.org/iptv/37
+#EXTINF:-1 group-title="私密頻道 ADULT",38
+https://hyf000.eu.org/iptv/38
+#EXTINF:-1 group-title="私密頻道 ADULT",39
+https://hyf000.eu.org/iptv/39
+#EXTINF:-1 group-title="私密頻道 ADULT",40
+https://hyf000.eu.org/iptv/40
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",41
+https://hyf000.eu.org/iptv/41
+#EXTINF:-1 group-title="私密頻道 ADULT",42
+https://hyf000.eu.org/iptv/42
+#EXTINF:-1 group-title="私密頻道 ADULT",43
+https://hyf000.eu.org/iptv/43
+#EXTINF:-1 group-title="私密頻道 ADULT",44
+https://hyf000.eu.org/iptv/44
+#EXTINF:-1 group-title="私密頻道 ADULT",45
+https://hyf000.eu.org/iptv/45
+#EXTINF:-1 group-title="私密頻道 ADULT",46
+https://hyf000.eu.org/iptv/46
+#EXTINF:-1 group-title="私密頻道 ADULT",47
+https://hyf000.eu.org/iptv/47
+#EXTINF:-1 group-title="私密頻道 ADULT",48
+https://hyf000.eu.org/iptv/48
+#EXTINF:-1 group-title="私密頻道 ADULT",49
+https://hyf000.eu.org/iptv/49
+#EXTINF:-1 group-title="私密頻道 ADULT",50
+https://hyf000.eu.org/iptv/40
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",51
+https://hyf000.eu.org/iptv/51
+#EXTINF:-1 group-title="私密頻道 ADULT",52
+https://hyf000.eu.org/iptv/52
+#EXTINF:-1 group-title="私密頻道 ADULT",53
+https://hyf000.eu.org/iptv/53
+#EXTINF:-1 group-title="私密頻道 ADULT",54
+https://hyf000.eu.org/iptv/54
+#EXTINF:-1 group-title="私密頻道 ADULT",55
+https://hyf000.eu.org/iptv/55
+#EXTINF:-1 group-title="私密頻道 ADULT",56
+https://hyf000.eu.org/iptv/56
+#EXTINF:-1 group-title="私密頻道 ADULT",57
+https://hyf000.eu.org/iptv/57
+#EXTINF:-1 group-title="私密頻道 ADULT",58
+https://hyf000.eu.org/iptv/58
+#EXTINF:-1 group-title="私密頻道 ADULT",59
+https://hyf000.eu.org/iptv/59
+#EXTINF:-1 group-title="私密頻道 ADULT",60
+https://hyf000.eu.org/iptv/60
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",61
+https://hyf000.eu.org/iptv/61
+#EXTINF:-1 group-title="私密頻道 ADULT",62
+https://hyf000.eu.org/iptv/62
+#EXTINF:-1 group-title="私密頻道 ADULT",63
+https://hyf000.eu.org/iptv/63
+#EXTINF:-1 group-title="私密頻道 ADULT",64
+https://hyf000.eu.org/iptv/64
+#EXTINF:-1 group-title="私密頻道 ADULT",65
+https://hyf000.eu.org/iptv/65
+#EXTINF:-1 group-title="私密頻道 ADULT",66
+https://hyf000.eu.org/iptv/66
+#EXTINF:-1 group-title="私密頻道 ADULT",67
+https://hyf000.eu.org/iptv/67
+#EXTINF:-1 group-title="私密頻道 ADULT",68
+https://hyf000.eu.org/iptv/68
+#EXTINF:-1 group-title="私密頻道 ADULT",69
+https://hyf000.eu.org/iptv/69
+#EXTINF:-1 group-title="私密頻道 ADULT",70
+https://hyf000.eu.org/iptv/70
+
+#EXTINF:-1 group-title="私密頻道 ADULT",71
+https://hyf000.eu.org/iptv/71
+#EXTINF:-1 group-title="私密頻道 ADULT",72
+https://hyf000.eu.org/iptv/72
+#EXTINF:-1 group-title="私密頻道 ADULT",73
+https://hyf000.eu.org/iptv/73
+#EXTINF:-1 group-title="私密頻道 ADULT",74
+https://hyf000.eu.org/iptv/74
+#EXTINF:-1 group-title="私密頻道 ADULT",75
+https://hyf000.eu.org/iptv/75
+#EXTINF:-1 group-title="私密頻道 ADULT",76
+https://hyf000.eu.org/iptv/76
+#EXTINF:-1 group-title="私密頻道 ADULT",77
+https://hyf000.eu.org/iptv/77
+#EXTINF:-1 group-title="私密頻道 ADULT",78
+https://hyf000.eu.org/iptv/78
+#EXTINF:-1 group-title="私密頻道 ADULT",79
+https://hyf000.eu.org/iptv/79
+#EXTINF:-1 group-title="私密頻道 ADULT",80
+https://hyf000.eu.org/iptv/80
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",81
+https://hyf000.eu.org/iptv/81
+#EXTINF:-1 group-title="私密頻道 ADULT",82
+https://hyf000.eu.org/iptv/82
+#EXTINF:-1 group-title="私密頻道 ADULT",83
+https://hyf000.eu.org/iptv/83
+#EXTINF:-1 group-title="私密頻道 ADULT",84
+https://hyf000.eu.org/iptv/84
+#EXTINF:-1 group-title="私密頻道 ADULT",85
+https://hyf000.eu.org/iptv/85
+#EXTINF:-1 group-title="私密頻道 ADULT",86
+https://hyf000.eu.org/iptv/86
+#EXTINF:-1 group-title="私密頻道 ADULT",87
+https://hyf000.eu.org/iptv/87
+#EXTINF:-1 group-title="私密頻道 ADULT",88
+https://hyf000.eu.org/iptv/88
+#EXTINF:-1 group-title="私密頻道 ADULT",89
+https://hyf000.eu.org/iptv/89
+#EXTINF:-1 group-title="私密頻道 ADULT",90
+https://hyf000.eu.org/iptv/90
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",91
+https://hyf000.eu.org/iptv/91
+#EXTINF:-1 group-title="私密頻道 ADULT",92
+https://hyf000.eu.org/iptv/92
+#EXTINF:-1 group-title="私密頻道 ADULT",93
+https://hyf000.eu.org/iptv/93
+#EXTINF:-1 group-title="私密頻道 ADULT",94
+https://hyf000.eu.org/iptv/94
+#EXTINF:-1 group-title="私密頻道 ADULT",95
+https://hyf000.eu.org/iptv/95
+#EXTINF:-1 group-title="私密頻道 ADULT",96
+https://hyf000.eu.org/iptv/96
+#EXTINF:-1 group-title="私密頻道 ADULT",97
+https://hyf000.eu.org/iptv/97
+#EXTINF:-1 group-title="私密頻道 ADULT",98
+https://hyf000.eu.org/iptv/98
+#EXTINF:-1 group-title="私密頻道 ADULT",99
+https://hyf000.eu.org/iptv/99
+#EXTINF:-1 group-title="私密頻道 ADULT",100
+https://hyf000.eu.org/iptv/100
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",101
+https://hyf000.eu.org/iptv/101
+#EXTINF:-1 group-title="私密頻道 ADULT",102
+https://hyf000.eu.org/iptv/102
+#EXTINF:-1 group-title="私密頻道 ADULT",103
+https://hyf000.eu.org/iptv/103
+#EXTINF:-1 group-title="私密頻道 ADULT",104
+https://hyf000.eu.org/iptv/104
+#EXTINF:-1 group-title="私密頻道 ADULT",105
+https://hyf000.eu.org/iptv/105
+#EXTINF:-1 group-title="私密頻道 ADULT",106
+https://hyf000.eu.org/iptv/106
+#EXTINF:-1 group-title="私密頻道 ADULT",107
+https://hyf000.eu.org/iptv/107
+#EXTINF:-1 group-title="私密頻道 ADULT",108
+https://hyf000.eu.org/iptv/108
+#EXTINF:-1 group-title="私密頻道 ADULT",109
+https://hyf000.eu.org/iptv/109
+#EXTINF:-1 group-title="私密頻道 ADULT",110
+https://hyf000.eu.org/iptv/110
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",111
+https://hyf000.eu.org/iptv/111
+#EXTINF:-1 group-title="私密頻道 ADULT",112
+https://hyf000.eu.org/iptv/112
+#EXTINF:-1 group-title="私密頻道 ADULT",113
+https://hyf000.eu.org/iptv/113
+#EXTINF:-1 group-title="私密頻道 ADULT",114
+https://hyf000.eu.org/iptv/114
+#EXTINF:-1 group-title="私密頻道 ADULT",115
+https://hyf000.eu.org/iptv/115
+#EXTINF:-1 group-title="私密頻道 ADULT",116
+https://hyf000.eu.org/iptv/116
+#EXTINF:-1 group-title="私密頻道 ADULT",117
+https://hyf000.eu.org/iptv/117
+#EXTINF:-1 group-title="私密頻道 ADULT",118
+https://hyf000.eu.org/iptv/118
+#EXTINF:-1 group-title="私密頻道 ADULT",119
+https://hyf000.eu.org/iptv/119
+#EXTINF:-1 group-title="私密頻道 ADULT",120
+https://hyf000.eu.org/iptv/120
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",121
+https://hyf000.eu.org/iptv/121
+#EXTINF:-1 group-title="私密頻道 ADULT",122
+https://hyf000.eu.org/iptv/122
+#EXTINF:-1 group-title="私密頻道 ADULT",123
+https://hyf000.eu.org/iptv/123
+#EXTINF:-1 group-title="私密頻道 ADULT",124
+https://hyf000.eu.org/iptv/124
+#EXTINF:-1 group-title="私密頻道 ADULT",125
+https://hyf000.eu.org/iptv/125
+#EXTINF:-1 group-title="私密頻道 ADULT",126
+https://hyf000.eu.org/iptv/126
+#EXTINF:-1 group-title="私密頻道 ADULT",127
+https://hyf000.eu.org/iptv/127
+#EXTINF:-1 group-title="私密頻道 ADULT",128
+https://hyf000.eu.org/iptv/128
+#EXTINF:-1 group-title="私密頻道 ADULT",129
+https://hyf000.eu.org/iptv/129
+#EXTINF:-1 group-title="私密頻道 ADULT",130
+https://hyf000.eu.org/iptv/130
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",131
+https://hyf000.eu.org/iptv/131
+#EXTINF:-1 group-title="私密頻道 ADULT",132
+https://hyf000.eu.org/iptv/132
+#EXTINF:-1 group-title="私密頻道 ADULT",133
+https://hyf000.eu.org/iptv/133
+#EXTINF:-1 group-title="私密頻道 ADULT",134
+https://hyf000.eu.org/iptv/134
+#EXTINF:-1 group-title="私密頻道 ADULT",135
+https://hyf000.eu.org/iptv/135
+#EXTINF:-1 group-title="私密頻道 ADULT",136
+https://hyf000.eu.org/iptv/136
+#EXTINF:-1 group-title="私密頻道 ADULT",137
+https://hyf000.eu.org/iptv/137
+#EXTINF:-1 group-title="私密頻道 ADULT",138
+https://hyf000.eu.org/iptv/138
+#EXTINF:-1 group-title="私密頻道 ADULT",139
+https://hyf000.eu.org/iptv/139
+#EXTINF:-1 group-title="私密頻道 ADULT",140
+https://hyf000.eu.org/iptv/140
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",151
+https://hyf000.eu.org/iptv/151
+#EXTINF:-1 group-title="私密頻道 ADULT",152
+https://hyf000.eu.org/iptv/152
+#EXTINF:-1 group-title="私密頻道 ADULT",153
+https://hyf000.eu.org/iptv/153
+#EXTINF:-1 group-title="私密頻道 ADULT",154
+https://hyf000.eu.org/iptv/154
+#EXTINF:-1 group-title="私密頻道 ADULT",155
+https://hyf000.eu.org/iptv/155
+#EXTINF:-1 group-title="私密頻道 ADULT",156
+https://hyf000.eu.org/iptv/156
+#EXTINF:-1 group-title="私密頻道 ADULT",157
+https://hyf000.eu.org/iptv/157
+#EXTINF:-1 group-title="私密頻道 ADULT",158
+https://hyf000.eu.org/iptv/158
+#EXTINF:-1 group-title="私密頻道 ADULT",159
+https://hyf000.eu.org/iptv/159
+#EXTINF:-1 group-title="私密頻道 ADULT",160
+https://hyf000.eu.org/iptv/160
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",161
+https://hyf000.eu.org/iptv/161
+#EXTINF:-1 group-title="私密頻道 ADULT",162
+https://hyf000.eu.org/iptv/162
+#EXTINF:-1 group-title="私密頻道 ADULT",163
+https://hyf000.eu.org/iptv/163
+#EXTINF:-1 group-title="私密頻道 ADULT",164
+https://hyf000.eu.org/iptv/164
+#EXTINF:-1 group-title="私密頻道 ADULT",165
+https://hyf000.eu.org/iptv/165
+#EXTINF:-1 group-title="私密頻道 ADULT",166
+https://hyf000.eu.org/iptv/166
+#EXTINF:-1 group-title="私密頻道 ADULT",167
+https://hyf000.eu.org/iptv/167
+#EXTINF:-1 group-title="私密頻道 ADULT",168
+https://hyf000.eu.org/iptv/168
+#EXTINF:-1 group-title="私密頻道 ADULT",169
+https://hyf000.eu.org/iptv/169
+#EXTINF:-1 group-title="私密頻道 ADULT",170
+https://hyf000.eu.org/iptv/170
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",171
+https://hyf000.eu.org/iptv/171
+#EXTINF:-1 group-title="私密頻道 ADULT",172
+https://hyf000.eu.org/iptv/172
+#EXTINF:-1 group-title="私密頻道 ADULT",173
+https://hyf000.eu.org/iptv/173
+#EXTINF:-1 group-title="私密頻道 ADULT",174
+https://hyf000.eu.org/iptv/174
+#EXTINF:-1 group-title="私密頻道 ADULT",175
+https://hyf000.eu.org/iptv/175
+#EXTINF:-1 group-title="私密頻道 ADULT",176
+https://hyf000.eu.org/iptv/176
+#EXTINF:-1 group-title="私密頻道 ADULT",177
+https://hyf000.eu.org/iptv/177
+#EXTINF:-1 group-title="私密頻道 ADULT",178
+https://hyf000.eu.org/iptv/178
+#EXTINF:-1 group-title="私密頻道 ADULT",179
+https://hyf000.eu.org/iptv/179
+#EXTINF:-1 group-title="私密頻道 ADULT",180
+https://hyf000.eu.org/iptv/180
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",181
+https://hyf000.eu.org/iptv/181
+#EXTINF:-1 group-title="私密頻道 ADULT",182
+https://hyf000.eu.org/iptv/182
+#EXTINF:-1 group-title="私密頻道 ADULT",183
+https://hyf000.eu.org/iptv/183
+#EXTINF:-1 group-title="私密頻道 ADULT",184
+https://hyf000.eu.org/iptv/184
+#EXTINF:-1 group-title="私密頻道 ADULT",185
+https://hyf000.eu.org/iptv/185
+#EXTINF:-1 group-title="私密頻道 ADULT",186
+https://hyf000.eu.org/iptv/186
+#EXTINF:-1 group-title="私密頻道 ADULT",187
+https://hyf000.eu.org/iptv/187
+#EXTINF:-1 group-title="私密頻道 ADULT",188
+https://hyf000.eu.org/iptv/188
+#EXTINF:-1 group-title="私密頻道 ADULT",189
+https://hyf000.eu.org/iptv/189
+#EXTINF:-1 group-title="私密頻道 ADULT",190
+https://hyf000.eu.org/iptv/190
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",191
+https://hyf000.eu.org/iptv/191
+#EXTINF:-1 group-title="私密頻道 ADULT",192
+https://hyf000.eu.org/iptv/192
+#EXTINF:-1 group-title="私密頻道 ADULT",193
+https://hyf000.eu.org/iptv/193
+#EXTINF:-1 group-title="私密頻道 ADULT",194
+https://hyf000.eu.org/iptv/194
+#EXTINF:-1 group-title="私密頻道 ADULT",195
+https://hyf000.eu.org/iptv/195
+#EXTINF:-1 group-title="私密頻道 ADULT",196
+https://hyf000.eu.org/iptv/196
+#EXTINF:-1 group-title="私密頻道 ADULT",197
+https://hyf000.eu.org/iptv/197
+#EXTINF:-1 group-title="私密頻道 ADULT",198
+https://hyf000.eu.org/iptv/198
+#EXTINF:-1 group-title="私密頻道 ADULT",199
+https://hyf000.eu.org/iptv/199
+#EXTINF:-1 group-title="私密頻道 ADULT",200
+https://hyf000.eu.org/iptv/200
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",201
+https://hyf000.eu.org/iptv/201
+#EXTINF:-1 group-title="私密頻道 ADULT",202
+https://hyf000.eu.org/iptv/202
+#EXTINF:-1 group-title="私密頻道 ADULT",203
+https://hyf000.eu.org/iptv/203
+#EXTINF:-1 group-title="私密頻道 ADULT",204
+https://hyf000.eu.org/iptv/204
+#EXTINF:-1 group-title="私密頻道 ADULT",205
+https://hyf000.eu.org/iptv/205
+#EXTINF:-1 group-title="私密頻道 ADULT",206
+https://hyf000.eu.org/iptv/206
+#EXTINF:-1 group-title="私密頻道 ADULT",207
+https://hyf000.eu.org/iptv/207
+#EXTINF:-1 group-title="私密頻道 ADULT",208
+https://hyf000.eu.org/iptv/208
+#EXTINF:-1 group-title="私密頻道 ADULT",209
+https://hyf000.eu.org/iptv/209
+#EXTINF:-1 group-title="私密頻道 ADULT",210
+https://hyf000.eu.org/iptv/210
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",211
+https://hyf000.eu.org/iptv/211
+#EXTINF:-1 group-title="私密頻道 ADULT",212
+https://hyf000.eu.org/iptv/212
+#EXTINF:-1 group-title="私密頻道 ADULT",213
+https://hyf000.eu.org/iptv/213
+#EXTINF:-1 group-title="私密頻道 ADULT",214
+https://hyf000.eu.org/iptv/214
+#EXTINF:-1 group-title="私密頻道 ADULT",215
+https://hyf000.eu.org/iptv/215
+#EXTINF:-1 group-title="私密頻道 ADULT",216
+https://hyf000.eu.org/iptv/216
+#EXTINF:-1 group-title="私密頻道 ADULT",217
+https://hyf000.eu.org/iptv/217
+#EXTINF:-1 group-title="私密頻道 ADULT",218
+https://hyf000.eu.org/iptv/218
+#EXTINF:-1 group-title="私密頻道 ADULT",219
+https://hyf000.eu.org/iptv/219
+#EXTINF:-1 group-title="私密頻道 ADULT",220
+https://hyf000.eu.org/iptv/220
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",221
+https://hyf000.eu.org/iptv/221
+#EXTINF:-1 group-title="私密頻道 ADULT",222
+https://hyf000.eu.org/iptv/222
+#EXTINF:-1 group-title="私密頻道 ADULT",223
+https://hyf000.eu.org/iptv/223
+#EXTINF:-1 group-title="私密頻道 ADULT",224
+https://hyf000.eu.org/iptv/224
+#EXTINF:-1 group-title="私密頻道 ADULT",225
+https://hyf000.eu.org/iptv/225
+#EXTINF:-1 group-title="私密頻道 ADULT",226
+https://hyf000.eu.org/iptv/226
+#EXTINF:-1 group-title="私密頻道 ADULT",227
+https://hyf000.eu.org/iptv/227
+#EXTINF:-1 group-title="私密頻道 ADULT",228
+https://hyf000.eu.org/iptv/228
+#EXTINF:-1 group-title="私密頻道 ADULT",229
+https://hyf000.eu.org/iptv/229
+#EXTINF:-1 group-title="私密頻道 ADULT",230
+https://hyf000.eu.org/iptv/230
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",231
+https://hyf000.eu.org/iptv/231
+#EXTINF:-1 group-title="私密頻道 ADULT",232
+https://hyf000.eu.org/iptv/232
+#EXTINF:-1 group-title="私密頻道 ADULT",233
+https://hyf000.eu.org/iptv/233
+#EXTINF:-1 group-title="私密頻道 ADULT",234
+https://hyf000.eu.org/iptv/234
+#EXTINF:-1 group-title="私密頻道 ADULT",235
+https://hyf000.eu.org/iptv/235
+#EXTINF:-1 group-title="私密頻道 ADULT",236
+https://hyf000.eu.org/iptv/236
+#EXTINF:-1 group-title="私密頻道 ADULT",237
+https://hyf000.eu.org/iptv/237
+#EXTINF:-1 group-title="私密頻道 ADULT",238
+https://hyf000.eu.org/iptv/238
+#EXTINF:-1 group-title="私密頻道 ADULT",239
+https://hyf000.eu.org/iptv/239
+#EXTINF:-1 group-title="私密頻道 ADULT",240
+https://hyf000.eu.org/iptv/230
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",241
+https://hyf000.eu.org/iptv/241
+#EXTINF:-1 group-title="私密頻道 ADULT",242
+https://hyf000.eu.org/iptv/242
+#EXTINF:-1 group-title="私密頻道 ADULT",243
+https://hyf000.eu.org/iptv/243
+#EXTINF:-1 group-title="私密頻道 ADULT",244
+https://hyf000.eu.org/iptv/244
+#EXTINF:-1 group-title="私密頻道 ADULT",245
+https://hyf000.eu.org/iptv/245
+#EXTINF:-1 group-title="私密頻道 ADULT",246
+https://hyf000.eu.org/iptv/246
+#EXTINF:-1 group-title="私密頻道 ADULT",247
+https://hyf000.eu.org/iptv/247
+#EXTINF:-1 group-title="私密頻道 ADULT",248
+https://hyf000.eu.org/iptv/248
+#EXTINF:-1 group-title="私密頻道 ADULT",249
+https://hyf000.eu.org/iptv/249
+#EXTINF:-1 group-title="私密頻道 ADULT",250
+https://hyf000.eu.org/iptv/250
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",251
+https://hyf000.eu.org/iptv/251
+#EXTINF:-1 group-title="私密頻道 ADULT",252
+https://hyf000.eu.org/iptv/252
+#EXTINF:-1 group-title="私密頻道 ADULT",253
+https://hyf000.eu.org/iptv/253
+#EXTINF:-1 group-title="私密頻道 ADULT",254
+https://hyf000.eu.org/iptv/254
+#EXTINF:-1 group-title="私密頻道 ADULT",255
+https://hyf000.eu.org/iptv/255
+#EXTINF:-1 group-title="私密頻道 ADULT",256
+https://hyf000.eu.org/iptv/256
+#EXTINF:-1 group-title="私密頻道 ADULT",257
+https://hyf000.eu.org/iptv/257
+#EXTINF:-1 group-title="私密頻道 ADULT",258
+https://hyf000.eu.org/iptv/258
+#EXTINF:-1 group-title="私密頻道 ADULT",259
+https://hyf000.eu.org/iptv/259
+#EXTINF:-1 group-title="私密頻道 ADULT",260
+https://hyf000.eu.org/iptv/260
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",261
+https://hyf000.eu.org/iptv/261
+#EXTINF:-1 group-title="私密頻道 ADULT",262
+https://hyf000.eu.org/iptv/262
+#EXTINF:-1 group-title="私密頻道 ADULT",263
+https://hyf000.eu.org/iptv/263
+#EXTINF:-1 group-title="私密頻道 ADULT",264
+https://hyf000.eu.org/iptv/264
+#EXTINF:-1 group-title="私密頻道 ADULT",265
+https://hyf000.eu.org/iptv/265
+#EXTINF:-1 group-title="私密頻道 ADULT",266
+https://hyf000.eu.org/iptv/266
+#EXTINF:-1 group-title="私密頻道 ADULT",267
+https://hyf000.eu.org/iptv/267
+#EXTINF:-1 group-title="私密頻道 ADULT",268
+https://hyf000.eu.org/iptv/268
+#EXTINF:-1 group-title="私密頻道 ADULT",269
+https://hyf000.eu.org/iptv/269
+#EXTINF:-1 group-title="私密頻道 ADULT",270
+https://hyf000.eu.org/iptv/270
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",271
+https://hyf000.eu.org/iptv/271
+#EXTINF:-1 group-title="私密頻道 ADULT",272
+https://hyf000.eu.org/iptv/272
+#EXTINF:-1 group-title="私密頻道 ADULT",273
+https://hyf000.eu.org/iptv/273
+#EXTINF:-1 group-title="私密頻道 ADULT",274
+https://hyf000.eu.org/iptv/274
+#EXTINF:-1 group-title="私密頻道 ADULT",275
+https://hyf000.eu.org/iptv/275
+#EXTINF:-1 group-title="私密頻道 ADULT",276
+https://hyf000.eu.org/iptv/276
+#EXTINF:-1 group-title="私密頻道 ADULT",277
+https://hyf000.eu.org/iptv/277
+#EXTINF:-1 group-title="私密頻道 ADULT",278
+https://hyf000.eu.org/iptv/278
+#EXTINF:-1 group-title="私密頻道 ADULT",279
+https://hyf000.eu.org/iptv/279
+#EXTINF:-1 group-title="私密頻道 ADULT",280
+https://hyf000.eu.org/iptv/280
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",281
+https://hyf000.eu.org/iptv/281
+#EXTINF:-1 group-title="私密頻道 ADULT",282
+https://hyf000.eu.org/iptv/282
+#EXTINF:-1 group-title="私密頻道 ADULT",283
+https://hyf000.eu.org/iptv/283
+#EXTINF:-1 group-title="私密頻道 ADULT",284
+https://hyf000.eu.org/iptv/284
+#EXTINF:-1 group-title="私密頻道 ADULT",285
+https://hyf000.eu.org/iptv/285
+#EXTINF:-1 group-title="私密頻道 ADULT",286
+https://hyf000.eu.org/iptv/286
+#EXTINF:-1 group-title="私密頻道 ADULT",287
+https://hyf000.eu.org/iptv/287
+#EXTINF:-1 group-title="私密頻道 ADULT",288
+https://hyf000.eu.org/iptv/288
+#EXTINF:-1 group-title="私密頻道 ADULT",289
+https://hyf000.eu.org/iptv/289
+#EXTINF:-1 group-title="私密頻道 ADULT",290
+https://hyf000.eu.org/iptv/290
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",291
+https://hyf000.eu.org/iptv/291
+#EXTINF:-1 group-title="私密頻道 ADULT",292
+https://hyf000.eu.org/iptv/292
+#EXTINF:-1 group-title="私密頻道 ADULT",293
+https://hyf000.eu.org/iptv/293
+#EXTINF:-1 group-title="私密頻道 ADULT",294
+https://hyf000.eu.org/iptv/294
+#EXTINF:-1 group-title="私密頻道 ADULT",295
+https://hyf000.eu.org/iptv/295
+#EXTINF:-1 group-title="私密頻道 ADULT",296
+https://hyf000.eu.org/iptv/296
+#EXTINF:-1 group-title="私密頻道 ADULT",297
+https://hyf000.eu.org/iptv/297
+#EXTINF:-1 group-title="私密頻道 ADULT",298
+https://hyf000.eu.org/iptv/298
+#EXTINF:-1 group-title="私密頻道 ADULT",299
+https://hyf000.eu.org/iptv/299
+#EXTINF:-1 group-title="私密頻道 ADULT",300
+https://hyf000.eu.org/iptv/300
 
 
 
