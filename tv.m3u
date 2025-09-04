@@ -776,7 +776,7 @@ https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u
 
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 group-title="直播" tvg-name="台視HD" tvg-logo="https://epg.112114.xyz/logo/台視HD.png" epg-url="https://epg.112114.xyz/pp.xml",台視HD
-http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv066
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
 #EXTINF:-1 group-title="直播" tvg-name="中視HD" tvg-logo="https://epg.112114.xyz/logo/中視HD.png" epg-url="https://epg.112114.xyz/pp.xml",中視HD
 http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
 #EXTINF:-1 group-title="直播" tvg-name="華視HD" tvg-logo="https://epg.112114.xyz/logo/華視HD.png" epg-url="https://epg.112114.xyz/pp.xml",華視HD
@@ -936,6 +936,102 @@ http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
 https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u
 https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u
 
+
+
+#EXTINF:-1 group-title="直播",FUN探索娛樂台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live011
+#EXTINF:-1 group-title="直播",幸福空間居家台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live206
+#EXTINF:-1 group-title="直播",LOVENATURE(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live208
+#EXTINF:-1 group-title="直播",歷史頻道(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live026
+#EXTINF:-1 group-title="直播",ELTA生活旅遊(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live120
+#EXTINF:-1 group-title="直播",GlobalTrekker(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live112
+#EXTINF:-1 group-title="直播",原住民族電視臺(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live014
+#EXTINF:-1 group-title="直播",車迷TV(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live201
+#EXTINF:-1 group-title="直播",滾動力ROLLOR(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live012
+#EXTINF:-1 group-title="直播",大愛電視(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live007
+#EXTINF:-1 group-title="直播",三立綜合台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live207
+#EXTINF:-1 group-title="直播",新唐人亞太台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live050
+#EXTINF:-1 group-title="直播",LIVEABC互動英語頻道(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live030
+#EXTINF:-1 group-title="直播",NickJr.(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live032
+#EXTINF:-1 group-title="直播",NICKELODEON(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live105
+#EXTINF:-1 group-title="直播",DREAMWORKS(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live017
+#EXTINF:-1 group-title="直播",MOMO親子台
+https://php.946985.xyz/4gtv.php?ch=4gtv-live107
+#EXTINF:-1 group-title="直播",三立iNEWS(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live089
+#EXTINF:-1 group-title="直播",BLOOMBERG(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live059
+#EXTINF:-1 group-title="直播",SBN全球財經台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live060
+#EXTINF:-1 group-title="直播",NHK新聞資訊台HD(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live168
+#EXTINF:-1 group-title="直播",ROCKEntertainment(4GTV)
+,https://php.946985.xyz/4gtv.php?ch=4gtv-live080
+#EXTINF:-1 group-title="直播",LIFETIME(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live029
+#EXTINF:-1 group-title="直播",電影原聲台CMUSIC(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live031
+#EXTINF:-1 group-title="直播",MTV(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live025
+#EXTINF:-1 group-title="直播",INULTRA(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live096
+#EXTINF:-1 group-title="直播",LUXETV(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live121
+#EXTINF:-1 group-title="直播",TV5MONDE(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live122
+#EXTINF:-1 group-title="直播",MAGELLANTV頻道(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live123
+#EXTINF:-1 group-title="直播",HITS頻道(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live620
+#EXTINF:-1 group-title="直播",霹靂布袋戲(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live145
+#EXTINF:-1 group-title="直播",CI罪案偵查頻道(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live027
+#EXTINF:-1 group-title="直播",金光布袋戲(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live144
+#EXTINF:-1 group-title="直播",ROCKAction(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live138
+#EXTINF:-1 group-title="直播",CINEMAWORLD(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live069
+#EXTINF:-1 group-title="直播",大愛二台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live106
+#EXTINF:-1 group-title="直播",人間衛視(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live008
+#EXTINF:-1 group-title="直播",FRANCE24英文台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live146
+#EXTINF:-1 group-title="直播",半島國際新聞台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live157
+#EXTINF:-1 group-title="直播",CNBC(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live130
+#EXTINF:-1 group-title="直播",DW德國之聲(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live071
+#EXTINF:-1 group-title="直播",TVBS綜藝台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live087
+#EXTINF:-1 group-title="直播",TVBS台劇台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live088
+#EXTINF:-1 group-title="直播",經典電影台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live021
+#EXTINF:-1 group-title="直播",經典卡通台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live022
+#EXTINF:-1 group-title="直播",精選動漫台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live024
+#EXTINF:-1 group-title="直播",戲劇免費看1台(4GTV)
+https://php.946985.xyz/4gtv.php?ch=4gtv-live010
 
 
 
