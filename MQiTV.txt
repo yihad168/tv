@@ -600,14 +600,3 @@
     "static-mozai.4gtv.tv"
   ]
 }
-
-{
-  "spider":"https://raw.githubusercontent.com/ffmking/tv1/refs/heads/main/mtv.jar",
-  "lives": [
-    {
-      "name": "59",
-      "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433"
-    }
-  ]
-}
