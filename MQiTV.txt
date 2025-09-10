@@ -225,6 +225,11 @@
    "type": "0",
    "url":"https://aktv.space/live.m3u"
  },
+ {
+      "name": "貓抓",
+      "url": "https://live.catvod.com/tv.m3u",
+      "ua": "catvod.com"
+ },
   {
             "name": "🍪🍄【4gtv直播 20250615】🍄💔",
             "type": 0,
