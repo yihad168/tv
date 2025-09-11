@@ -230,7 +230,16 @@
       "url": "https://live.catvod.com/tv.m3u",
       "ua": "catvod.com"
  },
-  {
+ {
+      "name": "543",
+      "url": "http://tv543.cc/4gtv.m3u",
+      "pass": false,
+      "boot": false,
+      "playerType": 2,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+ {
             "name": "🍪🍄【4gtv直播 20250615】🍄💔",
             "type": 0,
             "ua": "Goiptv/0.0.1",
