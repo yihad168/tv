@@ -270,18 +270,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
  {
-      "name": "142",
-      "url": "http://tv543.cc/142.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- {
-      "name": "MQiTV",
-      "jar": "./jar/mqitv.jar",
-      "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433"
-    },
- {
       "name": "日本直播台",
       "type": 0,
       "playerType": 2,
