@@ -46,12 +46,8 @@ https://mt01.utako.moe/bstbs/index.m3u8
 https://mt01.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
 https://mt01.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png",BS10
-https://mt01.utako.moe/bs10/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
 https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png",BS12
-https://mt01.utako.moe/bs12/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
 https://mt01.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
@@ -136,7 +132,6 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://ca01.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://ca01.utako.moe/v_paradise/index.m3u8
-
 
 
 
@@ -730,67 +725,67 @@ http://iptv.4666888.xyz/iptv.php?id=30329
 ################################################
 
 
-#EXTINF:-1 group-title="不知名頻道",1
+#EXTINF:-1 group-title="不知名頻道",ZooMoo
 http://iptv.4666888.xyz/iptv2.php?id=1
-#EXTINF:-1 group-title="不知名頻道",2
+#EXTINF:-1 group-title="不知名頻道",nickelodeon
 http://iptv.4666888.xyz/iptv2.php?id=2
-#EXTINF:-1 group-title="不知名頻道",3
+#EXTINF:-1 group-title="不知名頻道",nickjr
 http://iptv.4666888.xyz/iptv2.php?id=3
 #EXTINF:-1 group-title="不知名頻道",4
 http://iptv.4666888.xyz/iptv2.php?id=4
-#EXTINF:-1 group-title="不知名頻道",5
+#EXTINF:-1 group-title="不知名頻道",PopC
 http://iptv.4666888.xyz/iptv2.php?id=5
-#EXTINF:-1 group-title="不知名頻道",6
+#EXTINF:-1 group-title="不知名頻道",Now爆谷台
 http://iptv.4666888.xyz/iptv2.php?id=6
-#EXTINF:-1 group-title="不知名頻道",7
+#EXTINF:-1 group-title="不知名頻道",Now星影台
 http://iptv.4666888.xyz/iptv2.php?id=7
-#EXTINF:-1 group-title="不知名頻道",8
+#EXTINF:-1 group-title="不知名頻道",CCM
 http://iptv.4666888.xyz/iptv2.php?id=8
-#EXTINF:-1 group-title="不知名頻道",9
+#EXTINF:-1 group-title="不知名頻道",無線功夫
 http://iptv.4666888.xyz/iptv2.php?id=9
-#EXTINF:-1 group-title="不知名頻道",10
+#EXTINF:-1 group-title="不知名頻道",無線功夫粵
 http://iptv.4666888.xyz/iptv2.php?id=10
 
 
-#EXTINF:-1 group-title="不知名頻道",11
+#EXTINF:-1 group-title="不知名頻道",美亞電影國
 http://iptv.4666888.xyz/iptv2.php?id=11
-#EXTINF:-1 group-title="不知名頻道",12
+#EXTINF:-1 group-title="不知名頻道",美亞電影粵
 http://iptv.4666888.xyz/iptv2.php?id=12
-#EXTINF:-1 group-title="不知名頻道",13
+#EXTINF:-1 group-title="不知名頻道",中國電影
 http://iptv.4666888.xyz/iptv2.php?id=13
 #EXTINF:-1 group-title="不知名頻道",14
 http://iptv.4666888.xyz/iptv2.php?id=14
-#EXTINF:-1 group-title="不知名頻道",15
+#EXTINF:-1 group-title="不知名頻道",東森電影
 http://iptv.4666888.xyz/iptv2.php?id=15
-#EXTINF:-1 group-title="不知名頻道",16
+#EXTINF:-1 group-title="不知名頻道",東森洋片
 http://iptv.4666888.xyz/iptv2.php?id=16
-#EXTINF:-1 group-title="不知名頻道",17
+#EXTINF:-1 group-title="不知名頻道",TVN韓綜
 http://iptv.4666888.xyz/iptv2.php?id=17
-#EXTINF:-1 group-title="不知名頻道",18
+#EXTINF:-1 group-title="不知名頻道",KIX電影
 http://iptv.4666888.xyz/iptv2.php?id=18
-#EXTINF:-1 group-title="不知名頻道",19
+#EXTINF:-1 group-title="不知名頻道",Rock綜合
 http://iptv.4666888.xyz/iptv2.php?id=19
-#EXTINF:-1 group-title="不知名頻道",20
+#EXTINF:-1 group-title="不知名頻道",Rock娛樂
 http://iptv.4666888.xyz/iptv2.php?id=20
 
 
-#EXTINF:-1 group-title="不知名頻道",21
+#EXTINF:-1 group-title="不知名頻道",AXN電影
 http://iptv.4666888.xyz/iptv2.php?id=21
-#EXTINF:-1 group-title="不知名頻道",22
+#EXTINF:-1 group-title="不知名頻道",ANIMAX
 http://iptv.4666888.xyz/iptv2.php?id=22
-#EXTINF:-1 group-title="不知名頻道",23
+#EXTINF:-1 group-title="不知名頻道",華納電影
 http://iptv.4666888.xyz/iptv2.php?id=23
 #EXTINF:-1 group-title="不知名頻道",24
 http://iptv.4666888.xyz/iptv2.php?id=24
-#EXTINF:-1 group-title="不知名頻道",25
+#EXTINF:-1 group-title="不知名頻道",HBO
 http://iptv.4666888.xyz/iptv2.php?id=25
 #EXTINF:-1 group-title="不知名頻道",26
 http://iptv.4666888.xyz/iptv2.php?id=26
-#EXTINF:-1 group-title="不知名頻道",27
+#EXTINF:-1 group-title="不知名頻道",Amc電影
 http://iptv.4666888.xyz/iptv2.php?id=27
-#EXTINF:-1 group-title="不知名頻道",28
+#EXTINF:-1 group-title="不知名頻道",NBA
 http://iptv.4666888.xyz/iptv2.php?id=28
-#EXTINF:-1 group-title="不知名頻道",29
+#EXTINF:-1 group-title="不知名頻道",有線賽馬
 http://iptv.4666888.xyz/iptv2.php?id=29
 #EXTINF:-1 group-title="不知名頻道",NowSports1
 http://iptv.4666888.xyz/iptv2.php?id=30
@@ -807,185 +802,185 @@ http://iptv.4666888.xyz/iptv2.php?id=33
 http://iptv.4666888.xyz/iptv2.php?id=34
 #EXTINF:-1 group-title="不知名頻道",NowSports6
 http://iptv.4666888.xyz/iptv2.php?id=35
-#EXTINF:-1 group-title="不知名頻道",36
+#EXTINF:-1 group-title="不知名頻道",NowSports7
 http://iptv.4666888.xyz/iptv2.php?id=36
-#EXTINF:-1 group-title="不知名頻道",37
+#EXTINF:-1 group-title="不知名頻道",無線賽馬
 http://iptv.4666888.xyz/iptv2.php?id=37
-#EXTINF:-1 group-title="不知名頻道",38
+#EXTINF:-1 group-title="不知名頻道",88台賽馬
 http://iptv.4666888.xyz/iptv2.php?id=38
 #EXTINF:-1 group-title="不知名頻道",39
 http://iptv.4666888.xyz/iptv2.php?id=39
-#EXTINF:-1 group-title="不知名頻道",40
+#EXTINF:-1 group-title="不知名頻道",mytv直播-1
 http://iptv.4666888.xyz/iptv2.php?id=40
 
 
 
-#EXTINF:-1 group-title="不知名頻道",41
+#EXTINF:-1 group-title="不知名頻道",mytv直播-2
 http://iptv.4666888.xyz/iptv2.php?id=41
-#EXTINF:-1 group-title="不知名頻道",42
+#EXTINF:-1 group-title="不知名頻道",mytv直播-3
 http://iptv.4666888.xyz/iptv2.php?id=42
-#EXTINF:-1 group-title="不知名頻道",43
+#EXTINF:-1 group-title="不知名頻道",mytv直播-4
 http://iptv.4666888.xyz/iptv2.php?id=43
-#EXTINF:-1 group-title="不知名頻道",44
+#EXTINF:-1 group-title="不知名頻道",mytv直播-5
 http://iptv.4666888.xyz/iptv2.php?id=44
-#EXTINF:-1 group-title="不知名頻道",45
+#EXTINF:-1 group-title="不知名頻道",ELTA體育1
 http://iptv.4666888.xyz/iptv2.php?id=45
-#EXTINF:-1 group-title="不知名頻道",46
+#EXTINF:-1 group-title="不知名頻道",ELTA體育2
 http://iptv.4666888.xyz/iptv2.php?id=46
-#EXTINF:-1 group-title="不知名頻道",47
+#EXTINF:-1 group-title="不知名頻道",ELTA體育3
 http://iptv.4666888.xyz/iptv2.php?id=47
-#EXTINF:-1 group-title="不知名頻道",48
+#EXTINF:-1 group-title="不知名頻道",ELTA體育4
 http://iptv.4666888.xyz/iptv2.php?id=48
-#EXTINF:-1 group-title="不知名頻道",49
+#EXTINF:-1 group-title="不知名頻道",GIOX
 http://iptv.4666888.xyz/iptv2.php?id=49
-#EXTINF:-1 group-title="不知名頻道",50
+#EXTINF:-1 group-title="不知名頻道",博斯運動1
 http://iptv.4666888.xyz/iptv2.php?id=50
 
 
-#EXTINF:-1 group-title="不知名頻道",51
+#EXTINF:-1 group-title="不知名頻道",博斯運動2
 http://iptv.4666888.xyz/iptv2.php?id=51
-#EXTINF:-1 group-title="不知名頻道",52
+#EXTINF:-1 group-title="不知名頻道",博斯高球1
 http://iptv.4666888.xyz/iptv2.php?id=52
-#EXTINF:-1 group-title="不知名頻道",53
+#EXTINF:-1 group-title="不知名頻道",博斯高球2
 http://iptv.4666888.xyz/iptv2.php?id=53
-#EXTINF:-1 group-title="不知名頻道",54
+#EXTINF:-1 group-title="不知名頻道",博斯網球
 http://iptv.4666888.xyz/iptv2.php?id=54
-#EXTINF:-1 group-title="不知名頻道",55
+#EXTINF:-1 group-title="不知名頻道",博斯無限1
 http://iptv.4666888.xyz/iptv2.php?id=55
-#EXTINF:-1 group-title="不知名頻道",56
+#EXTINF:-1 group-title="不知名頻道",博斯無限2
 http://iptv.4666888.xyz/iptv2.php?id=56
-#EXTINF:-1 group-title="不知名頻道",57
+#EXTINF:-1 group-title="不知名頻道",博斯魅力
 http://iptv.4666888.xyz/iptv2.php?id=57
-#EXTINF:-1 group-title="不知名頻道",58
+#EXTINF:-1 group-title="不知名頻道",智林體育
 http://iptv.4666888.xyz/iptv2.php?id=58
-#EXTINF:-1 group-title="不知名頻道",59
+#EXTINF:-1 group-title="不知名頻道",TRACE體頻
 http://iptv.4666888.xyz/iptv2.php?id=59
-#EXTINF:-1 group-title="不知名頻道",60
+#EXTINF:-1 group-title="不知名頻道",鳳凰中文
 http://iptv.4666888.xyz/iptv2.php?id=60
 
-#EXTINF:-1 group-title="不知名頻道",61
+#EXTINF:-1 group-title="不知名頻道",鳳凰資訊
 http://iptv.4666888.xyz/iptv2.php?id=61
-#EXTINF:-1 group-title="不知名頻道",62
+#EXTINF:-1 group-title="不知名頻道",鳳凰香港
 http://iptv.4666888.xyz/iptv2.php?id=62
-#EXTINF:-1 group-title="不知名頻道",63
+#EXTINF:-1 group-title="不知名頻道",無線翡翠
 http://iptv.4666888.xyz/iptv2.php?id=63
-#EXTINF:-1 group-title="不知名頻道",64
+#EXTINF:-1 group-title="不知名頻道",Plus綜合
 http://iptv.4666888.xyz/iptv2.php?id=64
-#EXTINF:-1 group-title="不知名頻道",65
+#EXTINF:-1 group-title="不知名頻道",無線新聞
 http://iptv.4666888.xyz/iptv2.php?id=65
-#EXTINF:-1 group-title="不知名頻道",66
+#EXTINF:-1 group-title="不知名頻道",無線明珠
 http://iptv.4666888.xyz/iptv2.php?id=66
-#EXTINF:-1 group-title="不知名頻道",67
+#EXTINF:-1 group-title="不知名頻道",無線生活
 http://iptv.4666888.xyz/iptv2.php?id=67
-#EXTINF:-1 group-title="不知名頻道",68
+#EXTINF:-1 group-title="不知名頻道",無線星河粵
 http://iptv.4666888.xyz/iptv2.php?id=68
-#EXTINF:-1 group-title="不知名頻道",69
+#EXTINF:-1 group-title="不知名頻道",無線星河國
 http://iptv.4666888.xyz/iptv2.php?id=69
-#EXTINF:-1 group-title="不知名頻道",70
+#EXTINF:-1 group-title="不知名頻道",無線_1美
 http://iptv.4666888.xyz/iptv2.php?id=70
 
-#EXTINF:-1 group-title="不知名頻道",71
+#EXTINF:-1 group-title="不知名頻道",無線J1美
 http://iptv.4666888.xyz/iptv2.php?id=71
-#EXTINF:-1 group-title="不知名頻道",72
+#EXTINF:-1 group-title="不知名頻道",無線翡劇
 http://iptv.4666888.xyz/iptv2.php?id=72
-#EXTINF:-1 group-title="不知名頻道",73
+#EXTINF:-1 group-title="不知名頻道",無線明劇
 http://iptv.4666888.xyz/iptv2.php?id=73
-#EXTINF:-1 group-title="不知名頻道",74
+#EXTINF:-1 group-title="不知名頻道",無線娛樂
 http://iptv.4666888.xyz/iptv2.php?id=74
-#EXTINF:-1 group-title="不知名頻道",75
+#EXTINF:-1 group-title="不知名頻道",無線_E美
 http://iptv.4666888.xyz/iptv2.php?id=75
-#EXTINF:-1 group-title="不知名頻道",76
+#EXTINF:-1 group-title="不知名頻道",無線千禧
 http://iptv.4666888.xyz/iptv2.php?id=76
-#EXTINF:-1 group-title="不知名頻道",77
+#EXTINF:-1 group-title="不知名頻道",天映經典國
 http://iptv.4666888.xyz/iptv2.php?id=77
-#EXTINF:-1 group-title="不知名頻道",78
+#EXTINF:-1 group-title="不知名頻道",天映經典粵
 http://iptv.4666888.xyz/iptv2.php?id=78
-#EXTINF:-1 group-title="不知名頻道",79
+#EXTINF:-1 group-title="不知名頻道",龍祥電影粵
 http://iptv.4666888.xyz/iptv2.php?id=79
-#EXTINF:-1 group-title="不知名頻道",80
+#EXTINF:-1 group-title="不知名頻道",黃金華劇
 http://iptv.4666888.xyz/iptv2.php?id=80
 
-#EXTINF:-1 group-title="不知名頻道",81
+#EXTINF:-1 group-title="不知名頻道",Now新聞
 http://iptv.4666888.xyz/iptv2.php?id=81
-#EXTINF:-1 group-title="不知名頻道",82
+#EXTINF:-1 group-title="不知名頻道",Now直播
 http://iptv.4666888.xyz/iptv2.php?id=82
-#EXTINF:-1 group-title="不知名頻道",83
+#EXTINF:-1 group-title="不知名頻道",Now財經
 http://iptv.4666888.xyz/iptv2.php?id=83
-#EXTINF:-1 group-title="不知名頻道",84
+#EXTINF:-1 group-title="不知名頻道",Now華劇
 http://iptv.4666888.xyz/iptv2.php?id=84
-#EXTINF:-1 group-title="不知名頻道",85
+#EXTINF:-1 group-title="不知名頻道",Now劇集
 http://iptv.4666888.xyz/iptv2.php?id=85
-#EXTINF:-1 group-title="不知名頻道",86
+#EXTINF:-1 group-title="不知名頻道",Now紫金
 http://iptv.4666888.xyz/iptv2.php?id=86
-#EXTINF:-1 group-title="不知名頻道",87
+#EXTINF:-1 group-title="不知名頻道",有線賽訊
 http://iptv.4666888.xyz/iptv2.php?id=87
-#EXTINF:-1 group-title="不知名頻道",88
+#EXTINF:-1 group-title="不知名頻道",有線綜合
 http://iptv.4666888.xyz/iptv2.php?id=88
-#EXTINF:-1 group-title="不知名頻道",89
+#EXTINF:-1 group-title="不知名頻道",有線新聞
 http://iptv.4666888.xyz/iptv2.php?id=89
-#EXTINF:-1 group-title="不知名頻道",90
+#EXTINF:-1 group-title="不知名頻道",VIUTV-粵
 http://iptv.4666888.xyz/iptv2.php?id=90
 
 
-#EXTINF:-1 group-title="不知名頻道",91
+#EXTINF:-1 group-title="不知名頻道",VIUTV-英
 http://iptv.4666888.xyz/iptv2.php?id=91
-#EXTINF:-1 group-title="不知名頻道",92
+#EXTINF:-1 group-title="不知名頻道",RTHK-31
 http://iptv.4666888.xyz/iptv2.php?id=92
-#EXTINF:-1 group-title="不知名頻道",93
+#EXTINF:-1 group-title="不知名頻道",RTHK-32
 http://iptv.4666888.xyz/iptv2.php?id=93
-#EXTINF:-1 group-title="不知名頻道",94
+#EXTINF:-1 group-title="不知名頻道",無線亞劇
 http://iptv.4666888.xyz/iptv2.php?id=94
-#EXTINF:-1 group-title="不知名頻道",95
+#EXTINF:-1 group-title="不知名頻道",無線華劇
 http://iptv.4666888.xyz/iptv2.php?id=95
-#EXTINF:-1 group-title="不知名頻道",96
+#EXTINF:-1 group-title="不知名頻道",無線綜合
 http://iptv.4666888.xyz/iptv2.php?id=96
-#EXTINF:-1 group-title="不知名頻道",97
+#EXTINF:-1 group-title="不知名頻道",無線經典
 http://iptv.4666888.xyz/iptv2.php?id=97
-#EXTINF:-1 group-title="不知名頻道",98
+#EXTINF:-1 group-title="不知名頻道",無線亞綜
 http://iptv.4666888.xyz/iptv2.php?id=98
-#EXTINF:-1 group-title="不知名頻道",99
+#EXTINF:-1 group-title="不知名頻道",無線卡通
 http://iptv.4666888.xyz/iptv2.php?id=99
-#EXTINF:-1 group-title="不知名頻道",100
+#EXTINF:-1 group-title="不知名頻道",無線戲曲
 http://iptv.4666888.xyz/iptv2.php?id=100
 
 
-#EXTINF:-1 group-title="不知名頻道",101
+#EXTINF:-1 group-title="不知名頻道",無線粵片
 http://iptv.4666888.xyz/iptv2.php?id=101
-#EXTINF:-1 group-title="不知名頻道",102
+#EXTINF:-1 group-title="不知名頻道",無線亞綜
 http://iptv.4666888.xyz/iptv2.php?id=102
-#EXTINF:-1 group-title="不知名頻道",103
+#EXTINF:-1 group-title="不知名頻道",中視經典
 http://iptv.4666888.xyz/iptv2.php?id=103
 #EXTINF:-1 group-title="不知名頻道",104
 http://iptv.4666888.xyz/iptv2.php?id=104
-#EXTINF:-1 group-title="不知名頻道",105
+#EXTINF:-1 group-title="不知名頻道",PTS小公視
 http://iptv.4666888.xyz/iptv2.php?id=105
-#EXTINF:-1 group-title="不知名頻道",106
+#EXTINF:-1 group-title="不知名頻道",公視戲劇
 http://iptv.4666888.xyz/iptv2.php?id=106
-#EXTINF:-1 group-title="不知名頻道",107
+#EXTINF:-1 group-title="不知名頻道",公視
 http://iptv.4666888.xyz/iptv2.php?id=107
-#EXTINF:-1 group-title="不知名頻道",108
+#EXTINF:-1 group-title="不知名頻道",民視
 http://iptv.4666888.xyz/iptv2.php?id=108
-#EXTINF:-1 group-title="不知名頻道",109
+#EXTINF:-1 group-title="不知名頻道",民視新聞
 http://iptv.4666888.xyz/iptv2.php?id=109
-#EXTINF:-1 group-title="不知名頻道",110
+#EXTINF:-1 group-title="不知名頻道",民視影劇
 http://iptv.4666888.xyz/iptv2.php?id=110
 
 
-#EXTINF:-1 group-title="不知名頻道",111
+#EXTINF:-1 group-title="不知名頻道",民視旅遊
 http://iptv.4666888.xyz/iptv2.php?id=111
-#EXTINF:-1 group-title="不知名頻道",112
+#EXTINF:-1 group-title="不知名頻道",民視綜藝
 http://iptv.4666888.xyz/iptv2.php?id=112
-#EXTINF:-1 group-title="不知名頻道",113
+#EXTINF:-1 group-title="不知名頻道",台視
 http://iptv.4666888.xyz/iptv2.php?id=113
-#EXTINF:-1 group-title="不知名頻道",114
+#EXTINF:-1 group-title="不知名頻道",台視綜合
 http://iptv.4666888.xyz/iptv2.php?id=114
-#EXTINF:-1 group-title="不知名頻道",115
+#EXTINF:-1 group-title="不知名頻道",台視財經
 http://iptv.4666888.xyz/iptv2.php?id=115
-#EXTINF:-1 group-title="不知名頻道",116
+#EXTINF:-1 group-title="不知名頻道",台灣戲劇
 http://iptv.4666888.xyz/iptv2.php?id=116
-#EXTINF:-1 group-title="不知名頻道",117
+#EXTINF:-1 group-title="不知名頻道",華視新聞
 http://iptv.4666888.xyz/iptv2.php?id=117
-#EXTINF:-1 group-title="不知名頻道",118
+#EXTINF:-1 group-title="不知名頻道",霹靂電視台
 http://iptv.4666888.xyz/iptv2.php?id=118
 #EXTINF:-1 group-title="不知名頻道",119
 http://iptv.4666888.xyz/iptv2.php?id=119
@@ -995,86 +990,86 @@ http://iptv.4666888.xyz/iptv2.php?id=120
 
 #EXTINF:-1 group-title="不知名頻道",121
 http://iptv.4666888.xyz/iptv2.php?id=121
-#EXTINF:-1 group-title="不知名頻道",122
+#EXTINF:-1 group-title="不知名頻道",非凡商業
 http://iptv.4666888.xyz/iptv2.php?id=122
-#EXTINF:-1 group-title="不知名頻道",123
+#EXTINF:-1 group-title="不知名頻道",寰宇台灣
 http://iptv.4666888.xyz/iptv2.php?id=123
-#EXTINF:-1 group-title="不知名頻道",124
+#EXTINF:-1 group-title="不知名頻道",寰宇財經
 http://iptv.4666888.xyz/iptv2.php?id=124
-#EXTINF:-1 group-title="不知名頻道",125
+#EXTINF:-1 group-title="不知名頻道",超視
 http://iptv.4666888.xyz/iptv2.php?id=125
-#EXTINF:-1 group-title="不知名頻道",126
+#EXTINF:-1 group-title="不知名頻道",東森美洲
 http://iptv.4666888.xyz/iptv2.php?id=126
-#EXTINF:-1 group-title="不知名頻道",127
+#EXTINF:-1 group-title="不知名頻道",CTTV中國
 http://iptv.4666888.xyz/iptv2.php?id=127
-#EXTINF:-1 group-title="不知名頻道",128
+#EXTINF:-1 group-title="不知名頻道",東森超視
 http://iptv.4666888.xyz/iptv2.php?id=128
-#EXTINF:-1 group-title="不知名頻道",129
+#EXTINF:-1 group-title="不知名頻道",MoMo親子台
 http://iptv.4666888.xyz/iptv2.php?id=129
-#EXTINF:-1 group-title="不知名頻道",130
+#EXTINF:-1 group-title="不知名頻道",國興衛視
 http://iptv.4666888.xyz/iptv2.php?id=130
 
-#EXTINF:-1 group-title="不知名頻道",131
+#EXTINF:-1 group-title="不知名頻道",龍華日韓
 http://iptv.4666888.xyz/iptv2.php?id=131
-#EXTINF:-1 group-title="不知名頻道",132
+#EXTINF:-1 group-title="不知名頻道",龍華電影
 http://iptv.4666888.xyz/iptv2.php?id=132
 #EXTINF:-1 group-title="不知名頻道",133
 http://iptv.4666888.xyz/iptv2.php?id=133
 #EXTINF:-1 group-title="不知名頻道",134
 http://iptv.4666888.xyz/iptv2.php?id=134
-#EXTINF:-1 group-title="不知名頻道",135
+#EXTINF:-1 group-title="不知名頻道",龍華卡通
 http://iptv.4666888.xyz/iptv2.php?id=135
-#EXTINF:-1 group-title="不知名頻道",136
+#EXTINF:-1 group-title="不知名頻道",龍華經典
 http://iptv.4666888.xyz/iptv2.php?id=136
 #EXTINF:-1 group-title="不知名頻道",137
 http://iptv.4666888.xyz/iptv2.php?id=137
-#EXTINF:-1 group-title="不知名頻道",138
+#EXTINF:-1 group-title="不知名頻道",三立綜合
 http://iptv.4666888.xyz/iptv2.php?id=138
-#EXTINF:-1 group-title="不知名頻道",139
+#EXTINF:-1 group-title="不知名頻道",三立國際
 http://iptv.4666888.xyz/iptv2.php?id=139
-#EXTINF:-1 group-title="不知名頻道",140
+#EXTINF:-1 group-title="不知名頻道",東森新聞
 http://iptv.4666888.xyz/iptv2.php?id=140
 
 
-#EXTINF:-1 group-title="不知名頻道",141
+#EXTINF:-1 group-title="不知名頻道",中天新聞
 http://iptv.4666888.xyz/iptv2.php?id=141
-#EXTINF:-1 group-title="不知名頻道",142
+#EXTINF:-1 group-title="不知名頻道",中天新聞
 http://iptv.4666888.xyz/iptv2.php?id=142
 #EXTINF:-1 group-title="不知名頻道",143
 http://iptv.4666888.xyz/iptv2.php?id=143
-#EXTINF:-1 group-title="不知名頻道",144
+#EXTINF:-1 group-title="不知名頻道",八大精采
 http://iptv.4666888.xyz/iptv2.php?id=144
-#EXTINF:-1 group-title="不知名頻道",145
+#EXTINF:-1 group-title="不知名頻道",TVBS新聞
 http://iptv.4666888.xyz/iptv2.php?id=145
-#EXTINF:-1 group-title="不知名頻道",146
+#EXTINF:-1 group-title="不知名頻道",TVBS精采
 http://iptv.4666888.xyz/iptv2.php?id=146
-#EXTINF:-1 group-title="不知名頻道",147
+#EXTINF:-1 group-title="不知名頻道",TVBS歡樂
 http://iptv.4666888.xyz/iptv2.php?id=147
-#EXTINF:-1 group-title="不知名頻道",148
+#EXTINF:-1 group-title="不知名頻道",靖天綜合
 http://iptv.4666888.xyz/iptv2.php?id=148
-#EXTINF:-1 group-title="不知名頻道",149
+#EXTINF:-1 group-title="不知名頻道",靖天日本
 http://iptv.4666888.xyz/iptv2.php?id=149
-#EXTINF:-1 group-title="不知名頻道",150
+#EXTINF:-1 group-title="不知名頻道",靖天卡通
 http://iptv.4666888.xyz/iptv2.php?id=150
 
 
-#EXTINF:-1 group-title="不知名頻道",151
+#EXTINF:-1 group-title="不知名頻道",靖洋卡通
 http://iptv.4666888.xyz/iptv2.php?id=151
-#EXTINF:-1 group-title="不知名頻道",152
+#EXTINF:-1 group-title="不知名頻道",靖天國際
 http://iptv.4666888.xyz/iptv2.php?id=152
-#EXTINF:-1 group-title="不知名頻道",153
+#EXTINF:-1 group-title="不知名頻道",靖天育樂
 http://iptv.4666888.xyz/iptv2.php?id=153
-#EXTINF:-1 group-title="不知名頻道",154
+#EXTINF:-1 group-title="不知名頻道",靖天映畫
 http://iptv.4666888.xyz/iptv2.php?id=154
 #EXTINF:-1 group-title="不知名頻道",155
 http://iptv.4666888.xyz/iptv2.php?id=155
-#EXTINF:-1 group-title="不知名頻道",156
+#EXTINF:-1 group-title="不知名頻道",華藝中文
 http://iptv.4666888.xyz/iptv2.php?id=156
-#EXTINF:-1 group-title="不知名頻道",157
+#EXTINF:-1 group-title="不知名頻道",LUXE-TV
 http://iptv.4666888.xyz/iptv2.php?id=157
-#EXTINF:-1 group-title="不知名頻道",158
+#EXTINF:-1 group-title="不知名頻道",亞洲旅遊
 http://iptv.4666888.xyz/iptv2.php?id=158
-#EXTINF:-1 group-title="不知名頻道",159
+#EXTINF:-1 group-title="不知名頻道",TAIWAN PLUS
 http://iptv.4666888.xyz/iptv2.php?id=159
 #EXTINF:-1 group-title="不知名頻道",160
 http://iptv.4666888.xyz/iptv2.php?id=160
@@ -1083,59 +1078,59 @@ http://iptv.4666888.xyz/iptv2.php?id=160
 
 #EXTINF:-1 group-title="不知名頻道",161
 http://iptv.4666888.xyz/iptv2.php?id=161
-#EXTINF:-1 group-title="不知名頻道",162
+#EXTINF:-1 group-title="不知名頻道",ELTA日韓
 http://iptv.4666888.xyz/iptv2.php?id=162
-#EXTINF:-1 group-title="不知名頻道",163
+#EXTINF:-1 group-title="不知名頻道",ELTA影劇
 http://iptv.4666888.xyz/iptv2.php?id=163
-#EXTINF:-1 group-title="不知名頻道",164
+#EXTINF:-1 group-title="不知名頻道",ELTA綜合
 http://iptv.4666888.xyz/iptv2.php?id=164
-#EXTINF:-1 group-title="不知名頻道",165
+#EXTINF:-1 group-title="不知名頻道",ELTA娛樂
 http://iptv.4666888.xyz/iptv2.php?id=165
-#EXTINF:-1 group-title="不知名頻道",166
+#EXTINF:-1 group-title="不知名頻道",ELTA旅遊
 http://iptv.4666888.xyz/iptv2.php?id=166
-#EXTINF:-1 group-title="不知名頻道",167
+#EXTINF:-1 group-title="不知名頻道",Z頻道
 http://iptv.4666888.xyz/iptv2.php?id=167
-#EXTINF:-1 group-title="不知名頻道",168
+#EXTINF:-1 group-title="不知名頻道",采昌影劇
 http://iptv.4666888.xyz/iptv2.php?id=168
-#EXTINF:-1 group-title="不知名頻道",169
+#EXTINF:-1 group-title="不知名頻道",客家電視台
 http://iptv.4666888.xyz/iptv2.php?id=169
-#EXTINF:-1 group-title="不知名頻道",170
+#EXTINF:-1 group-title="不知名頻道",原民台
 http://iptv.4666888.xyz/iptv2.php?id=170
 
 
 
-#EXTINF:-1 group-title="不知名頻道",171
+#EXTINF:-1 group-title="不知名頻道",MTV
 http://iptv.4666888.xyz/iptv2.php?id=171
 #EXTINF:-1 group-title="不知名頻道",172
 http://iptv.4666888.xyz/iptv2.php?id=172
-#EXTINF:-1 group-title="不知名頻道",173
+#EXTINF:-1 group-title="不知名頻道",豬哥亮歌廳
 http://iptv.4666888.xyz/iptv2.php?id=173
-#EXTINF:-1 group-title="不知名頻道",174
+#EXTINF:-1 group-title="不知名頻道",astro AOD
 http://iptv.4666888.xyz/iptv2.php?id=174
-#EXTINF:-1 group-title="不知名頻道",175
+#EXTINF:-1 group-title="不知名頻道",astro歡喜
 http://iptv.4666888.xyz/iptv2.php?id=175
-#EXTINF:-1 group-title="不知名頻道",176
+#EXTINF:-1 group-title="不知名頻道",HUB娛家
 http://iptv.4666888.xyz/iptv2.php?id=176
-#EXTINF:-1 group-title="不知名頻道",177
+#EXTINF:-1 group-title="不知名頻道",HUB都會
 http://iptv.4666888.xyz/iptv2.php?id=177
-#EXTINF:-1 group-title="不知名頻道",178
+#EXTINF:-1 group-title="不知名頻道",Ftv1時代
 http://iptv.4666888.xyz/iptv2.php?id=178
-#EXTINF:-1 group-title="不知名頻道",179
+#EXTINF:-1 group-title="不知名頻道",Ftv2時代
 http://iptv.4666888.xyz/iptv2.php?id=179
-#EXTINF:-1 group-title="不知名頻道",180
+#EXTINF:-1 group-title="不知名頻道",城市電視
 http://iptv.4666888.xyz/iptv2.php?id=180
 
 
 
-#EXTINF:-1 group-title="不知名頻道",181
+#EXTINF:-1 group-title="不知名頻道",中旺電視
 http://iptv.4666888.xyz/iptv2.php?id=181
-#EXTINF:-1 group-title="不知名頻道",182
+#EXTINF:-1 group-title="不知名頻道",FashionBox
 http://iptv.4666888.xyz/iptv2.php?id=182
-#EXTINF:-1 group-title="不知名頻道",183
+#EXTINF:-1 group-title="不知名頻道",thrill驚悚
 http://iptv.4666888.xyz/iptv2.php?id=183
-#EXTINF:-1 group-title="不知名頻道",184
+#EXTINF:-1 group-title="不知名頻道",夢工廠
 http://iptv.4666888.xyz/iptv2.php?id=184
-#EXTINF:-1 group-title="不知名頻道",185
+#EXTINF:-1 group-title="不知名頻道",DW德國之聲
 http://iptv.4666888.xyz/iptv2.php?id=185
 #EXTINF:-1 group-title="不知名頻道",186
 http://iptv.4666888.xyz/iptv2.php?id=186
@@ -1173,6 +1168,246 @@ http://iptv.4666888.xyz/iptv2.php?id=200
 
 
 ################################################
+
+
+
+新聞台,#genre#
+#EXTINF:-1 group-title="台灣TV集合",TVBS News 新聞臺
+https://iptv.catvod.com/catvod_com.php?id=tvbs_n&token=82e66ac89b5adcc59ad704dc9bc68dce224c5d0afe1ccdfb39498160a6f872b2%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",中天新聞 HD
+https://iptv.catvod.com/catvod_com.php?id=ctinews&token=8e1eef6e7763cf9de81251985529e5f25bd1097192faaa85a3a7561af0869ad1%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",中視新聞臺
+https://iptv.catvod.com/catvod_com.php?id=zhongshinews_twn&token=2496143d5144b086b32f07a7769b5d5d25701aba9e225548e115468056f11b3a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",壹新聞
+https://iptv.catvod.com/catvod_com.php?id=yinews&token=b3c1b396f8e03219151003ceb485b3c97fedd9bfba5e3e60539f04c6c0d4e0bb%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",寰宇新聞臺
+https://iptv.catvod.com/catvod_com.php?id=huanyuxinwen_twn&token=6d5f10ac3ae875172ba93268c4ad89f50ee1d2bff15e40ad2159825ccb2f72e3%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",寰宇財經
+https://iptv.catvod.com/catvod_com.php?id=huanyutaiwan_twn&token=2ef0f7429403a4059b9ce5a2f301565440cb1064fbefb55b9e31c52128e30e2b%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",年代新聞
+https://iptv.catvod.com/catvod_com.php?id=niandainews_twn&token=dd3246d29fae195efd742c7ef85cb003004c065056d23ac87e41258925092418%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森新聞 ETTV News
+https://iptv.catvod.com/catvod_com.php?id=ettvnews&token=08f527e9359ec06b008e11ee93b61440eb796510b3188014e3a770683a5f11ce%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森財經新聞 ETTV Business
+https://iptv.catvod.com/catvod_com.php?id=ettvcaijing_twn&token=1efdcbc9ae6115f00b135688b082b87ab5f9845e385ee3bbfc5fb560ba6f2e1a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",民視新聞臺 FTV News
+https://iptv.catvod.com/catvod_com.php?id=ftvnew_taiwan&token=5799703e0c6bc11d60dfe9df85fc5d49c5df22684f696d0de5513ef9995259ac%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",臺視新聞臺
+https://iptv.catvod.com/catvod_com.php?id=ttvnews_twn&token=e256a665878b7eb3f765b6d8ecf0d6cc6384f9c827bef049ac71e476fd46a076%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",非凡新聞臺
+https://iptv.catvod.com/catvod_com.php?id=feifannews_twn&token=4463ee42fe7ace257661f44e35583871865da350cab8d10dbc991a43d5217039%3A1757763387
+體育,#genre#
+#EXTINF:-1 group-title="台灣TV集合",DAZN 1
+https://iptv.catvod.com/catvod_com.php?id=dazn1_twn&token=719c1c57ecfd57cb6ede328a99f2f7729bdaff594deefb4f7ac186c9068e928c%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",DAZN 2
+https://iptv.catvod.com/catvod_com.php?id=dazn2_twn&token=f79e3a5d91945650c36e09d67d0bc724b44a011991bd9fe8d0dc761aa0b6f015%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Skysports Main Event
+https://iptv.catvod.com/catvod_com.php?id=tiankongmain&token=89857a86d4c4fcf8e2d642d8e4ed21a0a32960c2ab6f08dc977ab1e1ad20961e%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",博斯無限
+https://iptv.catvod.com/catvod_com.php?id=bosiunlimited_twn&token=e62619e8126530187daad289fed9c40ac2752ac70bbba72410beeebdc20bbf3f%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",博斯網球 HD
+https://iptv.catvod.com/catvod_com.php?id=bositennis_twn&token=97bfc29f3d431fa0d2557394d9617bf3a7b0c9f1862e7a02bf03a4a32ebfe9c0%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",博斯運動 1
+https://iptv.catvod.com/catvod_com.php?id=bosisport1_twn&token=8713f98ab56ab00818c886f4a7223ca696fbb9689d3e10ce8f2f82e8de84a774%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",博斯運動 2
+https://iptv.catvod.com/catvod_com.php?id=bosisport2_twn&token=90e52340a5702cd40abcfa281a99885cd327f4c5d3408d9ffb73a3a0700f8cbd%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",博斯高球2 HD
+https://iptv.catvod.com/catvod_com.php?id=bosigolf2_twn&token=646e728df29d80baf6eb4e3c459bdb1bdce84608741210b250e71d2302a352e3%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",愛爾達體育1臺
+https://iptv.catvod.com/catvod_com.php?id=eltasport_twn&token=71a32dcea1585b0169dd375927f8f94875bcd3a4ff1fb11cfb0d06b535a20863%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",愛爾達體育2臺
+https://iptv.catvod.com/catvod_com.php?id=eltasport2_twn&token=c0c422b015b04852b0c2f67456095cb81a5cb04c72c80084e06abd8a8f499c21%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",愛爾達體育3臺
+https://iptv.catvod.com/catvod_com.php?id=eltasport3_twn&token=68bc144c9466ab286b72c7f0c209db6290e91cd0b85777b005b6e99857040bb4%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",愛爾達體育4臺
+https://iptv.catvod.com/catvod_com.php?id=eltasports4_twn&token=4921a16803d4032aa3b135ba56505f858642d750efcc501de18690eeedde9abc%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來體育臺
+https://iptv.catvod.com/catvod_com.php?id=videolandsport&token=80deeab8d34f1aa5ab200a6b5cc0fa052a0fac3b4fcb81d89c8912952abb5c39%3A1757763387
+綜合台1,#genre#
+#EXTINF:-1 group-title="台灣TV集合",Momo TV
+https://iptv.catvod.com/catvod_com.php?id=momo1_twn&token=a81b4b2f2720d33e1392803d6641c7a8717230fc7206a15be3aabb1526f13d58%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",TVBS HD
+https://iptv.catvod.com/catvod_com.php?id=tvbs&token=9c0dc0abcf536a174d440c18ca68913bda70efe450813a7d85e5deb2d855b82a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",TVBS 歡樂臺 （備份）
+https://iptv.catvod.com/catvod_com.php?id=tvbshuanle_twn&token=9ea806e5872c1bda82eac6e83e66012c5a666b2e4b820b511c1c879f2c3ef382%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",三立綜合 Sanli Metro
+https://iptv.catvod.com/catvod_com.php?id=sanlizhonghe&token=1249ed972b669bc7e5afa6c7c6907f4a7d0cdd8783bc723fb412373f2efaf337%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",中天綜合 CTI Metro
+https://iptv.catvod.com/catvod_com.php?id=ctizhonghe&token=090da2c5753d5cdd8bf45d386a3607360cc121999aed342298e9f9ebbfb2ce13%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",八大綜合 GTV Metro
+https://iptv.catvod.com/catvod_com.php?id=badazhonghe&token=aa3d484afe20eb7dc125d4115ddd50b07c6cfdd04458fc39ed4d406d09ce27b4%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",年代MUCH
+https://iptv.catvod.com/catvod_com.php?id=niandaitv_twn&token=6a9bb13008fa41aa99349bf11cfd5fe7151096ca2676244ed78be768fdbb8646%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",愛爾達綜合臺
+https://iptv.catvod.com/catvod_com.php?id=eltazonghe_twn&token=b3de1038b128951448d540ef798b2fc4618c82ed6ac1912a2aacb7ad9e1446ab%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森綜合 ETTV Metro
+https://iptv.catvod.com/catvod_com.php?id=ettvzhonghe&token=c1485426d4898c22d8ea69b9549f15e84aa2ec2fff5518a6f6cfc23060db0868%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森超視
+https://iptv.catvod.com/catvod_com.php?id=ettvsuper&token=35e15d948611e49e69052e153ea167cf06a1d89a7ee21deccf56ad09bdef71f8%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來日本臺
+https://iptv.catvod.com/catvod_com.php?id=videolandjapan&token=dfafa05fb042791db2913448ddd7a57504c037f05d7b70a912a228f7a789f59b%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來綜合臺
+https://iptv.catvod.com/catvod_com.php?id=videolandzonghe&token=05ef43a0b7f36230ac46491fdad93a755551390face0d2ed03ba6815420e0f29%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來育樂
+https://iptv.catvod.com/catvod_com.php?id=videolandmax&token=01e45278201506735458f632af04e635b5d0c40b6b247f56a96aa6e6b12cff1e%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",臺視綜合臺
+https://iptv.catvod.com/catvod_com.php?id=ttvzhonghe&token=4f43e132d77dfdcd20190e4e6539c54021dba3f2a0df273022c233d72a213d4b%3A1757763387
+綜合台2,#genre#
+#EXTINF:-1 group-title="台灣TV集合",AXN Taiwan
+https://iptv.catvod.com/catvod_com.php?id=axn_twn&token=b962c0fe444eca06c55ec2892103a18ec0d3195229d466b7d70bee3e1008ef4b%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",三立臺灣 Sanli Taiwan
+https://iptv.catvod.com/catvod_com.php?id=sanlitaiwan&token=cefe20b77a214b4ede2421925315ec0fd83c0bb639eab6909dd5ed074b1edf1d%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",三立都會臺
+https://iptv.catvod.com/catvod_com.php?id=sanlidouhui_twn&token=a7014a20e686543ddab6c38a539f18337920a9410128a3634f6938e57bb7edbd%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",中天亞洲臺
+https://iptv.catvod.com/catvod_com.php?id=ctiasia_twn&token=cd2467a9be2a673cb8fb30c7d03e640bf6f35daa54fc66dd28f810eef15702c5%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",中天娛樂 CTI Entertaiment
+https://iptv.catvod.com/catvod_com.php?id=ctient&token=df60e46d2b8733292c63f32f5bfb27081cf1775d711e74ca880b874aa4061e4a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",八大第一 GTV First
+https://iptv.catvod.com/catvod_com.php?id=badafirst&token=ab6c9b7702d9833918995454a4eb8218d562588328285751a22d493fbc203e4e%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",民視臺灣台
+https://iptv.catvod.com/catvod_com.php?id=ftvtaiwan_twn&token=7aaed429abb3bf023c5f3ea7c38962048571755fbde417458b9126f45faa322f%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來精彩
+https://iptv.catvod.com/catvod_com.php?id=videolandspecial_twn&token=1041453ce5c4caae809876c358660a9674c01f8656a601bef72761f90dde312c%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",靖天國際臺
+https://iptv.catvod.com/catvod_com.php?id=jingtianintl_twn&token=d932fa6262f0c51360a9d25c792f9de945eb92d1d521b12714a5e1ffbbb392b7%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",龍華經典臺
+https://iptv.catvod.com/catvod_com.php?id=lunghuajingdian_twn&token=218f5f90676bb84d8e61d03805bb7908b80e58f56b4b724c1247ef58a6b81dd2%3A1757763387
+電影,#genre#
+#EXTINF:-1 group-title="台灣TV集合",amc電影
+https://iptv.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=af9f3e19d5fb5e4e0eee9368729e817173e6502bd5a9eb4d1c367bd18b152c6c%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Axn HD
+https://iptv.catvod.com/catvod_com.php?id=Axn&token=845111818c6ebb951f04ad856e32ebe7290685ec6c9fa0b86fd761c9eaa3d53d%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Catchplay電影
+https://iptv.catvod.com/catvod_com.php?id=catchplay_twn&token=14559dd9ff8cce5996b60f9fddb16c1da638b3b4090dde5195f978f96c1ca2e7%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",CINEMAX
+https://iptv.catvod.com/catvod_com.php?id=cinemax_twn&token=dcbb3566d3de123a0b3098786a7f3f1145a1ef89bd803ba555ac6296f3811d13%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Cinemax
+https://iptv.catvod.com/catvod_com.php?id=Cinemax&token=f9aa875a04bffa6ee16252eb59b56baf5c1f68511db18ae8bae8cb2b54f79840%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",HBO Family
+https://iptv.catvod.com/catvod_com.php?id=Hbofamily&token=661b2208c4dd2c52222e1d8600397ed66eaec6cfaae1e8291aa76fdab5e83058%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",HBO HD
+https://iptv.catvod.com/catvod_com.php?id=Hbo&token=2a8d05cc9dbc49995e5870cc142e82907ecf78d9a502ec5a3c9ddbd28fc2a6b7%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",HBO Hits
+https://iptv.catvod.com/catvod_com.php?id=Hbohitshd&token=747ec6041f359a96369221ecbc1fc48d05a620a44f59daf84cee2d1d3ee104db%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",HBO Signature
+https://iptv.catvod.com/catvod_com.php?id=Hbosignature&token=c083391de4d424639692fe358b8147842356b9dd2a7d58e896177747282ec6da%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",HBO_HD
+https://iptv.catvod.com/catvod_com.php?id=hbohd_twn&token=8ebf7f189b7dcbddf73a3eeb3bdac9802c029d4215a7b66b147136fed32ec4f0%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",HBO_HITS
+https://iptv.catvod.com/catvod_com.php?id=hbohit_twn&token=b3a6697f458d9848c2d50efbcd965c7964144f41977bf001eaffb6497e75ffd6%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Hits
+https://iptv.catvod.com/catvod_com.php?id=Hits&token=cf9934f3a4d2da7c6362f016703e7fb9957a280ddc520ba8b21fe79e26b8452c%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Hits Movie
+https://iptv.catvod.com/catvod_com.php?id=Hitsmovie&token=6594a2b13a16c8eb62b2527209af1c70d4af476870908579c1f32e9b873dd6b1%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Zee Cinema HD
+https://iptv.catvod.com/catvod_com.php?id=Zeecinemahd&token=f474569f47f545953739dff7861e32f100cf5fb18d4014f0bf3be23c07640cfc%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森洋片 ETTV Western
+https://iptv.catvod.com/catvod_com.php?id=ettvwestern&token=6209e7366e51d990b03ef1deedc9a004251bfbccd954bedf5e56a26bf35721f0%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森電影 ETTV Movie
+https://iptv.catvod.com/catvod_com.php?id=ettvmovie&token=e0fbc9b44de91a4b477d2bb62df1f7c3fc8a63186cbb898d36f7a8a26ecae069%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來電影臺
+https://iptv.catvod.com/catvod_com.php?id=videolandmovie&token=4c5878a97ee66a131f074852867b84bacdf004adb113b2e448d9b441ae0f26a2%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",龍華洋片 Lunghua Western
+https://iptv.catvod.com/catvod_com.php?id=lunghuawestern_twn&token=44732c38dfa8b9d6ffb5ba5de55142dc6ea8e99cea38fa84ccc0e0e257ee36d0%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",龍詳時代
+https://iptv.catvod.com/catvod_com.php?id=lungxiangtime_twn&token=1ec8d8b9fc38763911c5b8b108f78cd3504a0e679dc798e91b59b347f536198d%3A1757763387
+戲劇,#genre#
+#EXTINF:-1 group-title="台灣TV集合",EYETV 戲劇
+https://iptv.catvod.com/catvod_com.php?id=eyetvxiju_twn&token=3928791079b66a33b764b94ef498edaf537fbf72130c454e87febd13ec792fb5%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",三立戲劇臺
+https://iptv.catvod.com/catvod_com.php?id=sanlixiju_twn&token=de5bb273d58cefa69e9d582997e169c219f31a2eedb58c33497435ab344496dd%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",八大戲劇 GTV Drama
+https://iptv.catvod.com/catvod_com.php?id=badadrama&token=260eeeef748707e089ce5084e8d9197901ac5489d7a096886012d3a0373e3cfe%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",愛爾達影劇臺
+https://iptv.catvod.com/catvod_com.php?id=eltayingju_twn&token=4d6052e347c6cf1e21f3419cdad75f1946da022aae3faa7869b42da002fa22c3%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森戲劇 ETTV Drama
+https://iptv.catvod.com/catvod_com.php?id=ettvdrama&token=598cddbebeff87c711e6604837fbdc73cb247718538e48fe6fa12b954f673d63%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",緯來戲劇
+https://iptv.catvod.com/catvod_com.php?id=videolandtv&token=53f30d43de2464d8eadeffc92cb8d1bcd0cdb92b607fb7ceb9ddbdc88e3bb00e%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",龍華偶像
+https://iptv.catvod.com/catvod_com.php?id=lunghuaidol_twn&token=de9d7bfa83e3d695ffb610f1c4675314a36d69ea073d890e44eea9a18a70577c%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",龍華戲劇 Lunghua Drama
+https://iptv.catvod.com/catvod_com.php?id=lunghuaxiju_twn&token=f77fc8db660d288f3333cf05e1f8b2d514f84a4da61bdc0674f3355cebc7186a%3A1757763387
+四台,#genre#
+#EXTINF:-1 group-title="台灣TV集合",中視 HD
+https://iptv.catvod.com/catvod_com.php?id=zhongshihd_twn&token=294bf61f60caf7fd92b133468e0dc4b10facc58921a6cb5063783f5aec678fbd%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",公視 CTV
+https://iptv.catvod.com/catvod_com.php?id=ctv_taiwan&token=a6a045d5c33034fa0c29c540106fdd66d553c68ae9e80cc65ceaf0b064501591%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",公視2
+https://iptv.catvod.com/catvod_com.php?id=ctv2_twn&token=52efe52c0226826afa32f6bfebc73ef28dd9b327e3cc3d06e905ba7f7e33ee46%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",小公視
+https://iptv.catvod.com/catvod_com.php?id=pts3_twn&token=923b16dc8c9dba3b91b39184291440603e31e47142870792d89509e4b89cb540%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",民視 HD
+https://iptv.catvod.com/catvod_com.php?id=ftvhd_taiwan&token=e895d43ee938fa48f297e7b7c195f4229ac7a02fb2ca37956109c810992b77f1%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",臺視 TTV HD
+https://iptv.catvod.com/catvod_com.php?id=ttv_taiwan&token=62ec8b4147f90d40863d4ecd372b580e5ecd87dff3c0022b9176d1680ec3c128%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",華視 CTS HD
+https://iptv.catvod.com/catvod_com.php?id=ctshd_twn&token=d183f903710565ed19f4c67de48c352713ecf35de881ee2cce39a0ac22a046b3%3A1757763387
+兒童,#genre#
+#EXTINF:-1 group-title="台灣TV集合",Dreamworks
+https://iptv.catvod.com/catvod_com.php?id=Dreamworks&token=8442d5cc3d57db0cec4f7b26f7b4ec13ed259bcf1b80c66806176ec5c7a7cb5b%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Nick Jr
+https://iptv.catvod.com/catvod_com.php?id=Nickjr&token=227663d27df5811dd1d5a3961d7b6d2446a77bff66a1769ce2f0e17c9ffb1ff3%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Nickelodeon
+https://iptv.catvod.com/catvod_com.php?id=Nickelodeon&token=10bc4a9ced5c0b1b575e4cc7cd091008018cb7e01dd9fd3c2fa6b4e9c93a3927%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Nickelodeon臺灣
+https://iptv.catvod.com/catvod_com.php?id=nickelodeon_twn&token=dfd139d9f35d314513a931068abe7519e999940b3874a94f0f8488ac1fed5d4f%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",東森幼幼 Yoyo TV
+https://iptv.catvod.com/catvod_com.php?id=yoyo_twn&token=c4dc2da4e7f091fe157f093b1dbf67115ccbeabface2b325a67db88920d92c5a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",靖天卡通臺
+https://iptv.catvod.com/catvod_com.php?id=jingtiancartoon_twn&token=edae873a46e117845e8f2366b12f675092c5bc9d99e4baf287586d8033240e15%3A1757763387
+音樂旅遊生活,#genre#
+#EXTINF:-1 group-title="台灣TV集合",AFC 亞洲旅遊臺
+https://iptv.catvod.com/catvod_com.php?id=asiatravel_twn&token=c6129b34a547ae1b36fadb70bf142864a3454675e7ea5a6a23ccba35fe642aea%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Astro MTV
+https://iptv.catvod.com/catvod_com.php?id=AstroMTV&token=c20561760dbf58baea5c62040c173af81d591bed15df194cd009573452c0ba6e%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",EYETV 旅遊
+https://iptv.catvod.com/catvod_com.php?id=eyetvtravel_twn&token=76acf7b1f85fc35362b6dfe232c99b873491917b491331cdd116be7f4bb88ca9%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Lifestyle&amp Fashion
+https://iptv.catvod.com/catvod_com.php?id=Lifestyle&token=1953c3fd1030fb70d12139574afe099bfbeb21a406f68ecb30e0443524e28e91%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",MTV Live
+https://iptv.catvod.com/catvod_com.php?id=mtvhd_twn&token=153a479663930495d19ed27213f4c0c13e20cebe139565200a35f1cbc876b155%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",TLC
+https://iptv.catvod.com/catvod_com.php?id=Tlc&token=af15193707094746dba01096ecb2ac687e36b7d5a27718140517a0fd9de28155%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",亞洲旅遊 TLC Asia
+https://iptv.catvod.com/catvod_com.php?id=tlc_twn&token=b07233d461815109da63acb6bd9069b3ee6578e8f55dc693ae2af527a146a333%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",美食星球
+https://iptv.catvod.com/catvod_com.php?id=foodplanet_twn&token=fbc3474afb35bd26c33c3be4c533d3bb13d92da48d248facbef800c4ee473fde%3A1757763387
+探索,#genre#
+#EXTINF:-1 group-title="台灣TV集合",Discovery Asia
+https://iptv.catvod.com/catvod_com.php?id=discoverytwn_twn&token=1dc6f7536db8110a822dbe694ab8130f1f1cd783e640ee7f50f10aebce5e5176%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Discovery HD
+https://iptv.catvod.com/catvod_com.php?id=discoverych_twn&token=502f640634b17d50675491aacebddc26c0c7a7c4f69cad1f58bafc317ceeab8b%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Discovery Kids Tamil
+https://iptv.catvod.com/catvod_com.php?id=discoverykidtamil_raj&token=f8cc383fc06edb877b43432a347b096f848602e3e23544de4ed9de434c8ff98d%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Discovery World Tamil
+https://iptv.catvod.com/catvod_com.php?id=discoveryworldtam_raj&token=e1d8525bbd5e887195975ad7b43125159d6681607aec804038e9ce5c3763cbd6%3A1757763387
+others,#genre#
+#EXTINF:-1 group-title="台灣TV集合",Fashion TV
+https://iptv.catvod.com/catvod_com.php?id=fashiontv_twn&token=5faf8414427c4ac69650e66015545a8373af8b526e7f20cf707f4b73221d5071%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",RCTI
+https://iptv.catvod.com/catvod_com.php?id=Rcti&token=4f5ad8eb1fbf567710dc4fbfc56759dea9c3fcfb5c0785485e9a17412767444a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Rock Actions
+https://iptv.catvod.com/catvod_com.php?id=Rockaction&token=696e4ed3492ffbefc7e9d358edaac13a6999544e98b473d0e57d070b2b826fa6%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",Zee Action
+https://iptv.catvod.com/catvod_com.php?id=Zeeaction&token=b6d0a3db70237a745cb9139d3f6c7bda16f897e5271136d7830acb067988a74a%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",大愛1臺
+https://iptv.catvod.com/catvod_com.php?id=daai_twn&token=c5f94857fc10cd43f119651c30bc217aa39d771406e6fb772e8f64ee763ca701%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",大愛2臺
+https://iptv.catvod.com/catvod_com.php?id=daai2_twn&token=8badbaf844121e790cfe7208373616e372684bbd1db068215512753c564c33ba%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",好消息 2
+https://iptv.catvod.com/catvod_com.php?id=good2_twn&token=d653b01df6b5af4f90a4f3106d5a4ed7b6fa32042a4812a59fcebf0c691be6d4%3A1757763387
+#EXTINF:-1 group-title="台灣TV集合",阿里郎 Arirang
+https://iptv.catvod.com/catvod_com.php?id=arirang_twn&token=5f84eb66c58787b1b79bbbc8c54fea8cc0a8052a7669f5c7be954c40f20067dd%3A1757763387
+
+
+
+
+################################################
+
+
+
 
 https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u
 https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u
