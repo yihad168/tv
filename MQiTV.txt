@@ -277,10 +277,11 @@
         },
    {
     "name": "🍑💎💎mit💎🍄💔",
+    "type": 0,
     "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
-  },
-
-  {
+    "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
+ {
       "name": "日本直播台",
       "type": 0,
       "playerType": 2,
