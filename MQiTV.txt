@@ -239,6 +239,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "STV",
+      "url": "https://php.946985.xyz/stv.m3u",
+      "epg" : "http://iptv.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
  {
             "name": "🍪🍄【4gtv直播 20250615】🍄💔",
             "type": 0,
