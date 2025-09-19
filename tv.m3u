@@ -173,7 +173,8 @@ http://t.061899.xyz/tl/js/js.php?id=6viutv
 http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
 #EXTINF:-1 group-title="港澳台代理JS",HOY資訊台
 http://t.061899.xyz/tl/js/js.php?id=hoyzxt
-HOY TV,http://t.061899.xyz/tl/js/js.php?id=hoytv
+#EXTINF:-1 group-title="港澳台代理JS",HOY TV
+http://t.061899.xyz/tl/js/js.php?id=hoytv
 #EXTINF:-1 group-title="港澳台代理JS",港臺電視31
 http://t.061899.xyz/tl/js/js.php?id=31gtds
 #EXTINF:-1 group-title="港澳台代理JS",港臺電視32
@@ -432,100 +433,6 @@ http://t.061899.xyz/tl/js/js.php?id=ginxtv
 
 
 
-#EXTINF:-1 group-title="港澳台代理",東森新聞(xjg)
-http://103.217.184.104:8080/live/dsxw01.m3u8
-#EXTINF:-1 group-title="港澳台代理",中天新聞(xjg)
-http://103.217.184.104:8080/live/ztxw01.m3u8
-#EXTINF:-1 group-title="港澳台代理",中天新聞2(xjg)
-,http://103.217.184.104:8080/live/ztxw202.m3u8
-#EXTINF:-1 group-title="港澳台代理",寰宇新聞(xjg)
-http://103.217.184.104:8080/live/hyxw01.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="港澳台代理",翡翠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-#EXTINF:-1 group-title="港澳台代理",翡翠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
-#EXTINF:-1 group-title="港澳台代理",華麗翡翠
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 group-title="港澳台代理",明珠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
-#EXTINF:-1 group-title="港澳台代理",無線新聞
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
-#EXTINF:-1 group-title="港澳台代理",TVB PLUS
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-#EXTINF:-1 group-title="港澳台代理",TVB星河
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-#EXTINF:-1 group-title="港澳台代理",千禧經典台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-#EXTINF:-1 group-title="港澳台代理",娛樂新聞台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
-#EXTINF:-1 group-title="港澳台代理",VIUTV
-,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-#EXTINF:-1 group-title="港澳台代理",ViuTVSix
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-#EXTINF:-1 group-title="港澳台代理",RTHK31
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
-#EXTINF:-1 group-title="港澳台代理",RTHK32
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
-#EXTINF:-1 group-title="港澳台代理",鳳凰中文
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="港澳台代理",鳳凰資訊
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="港澳台代理",鳳凰香港
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="港澳台代理",美亞電影
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="港澳台代理",天映馬來西亞
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-#EXTINF:-1 group-title="港澳台代理",天映經典
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-#EXTINF:-1 group-title="港澳台代理",Astro AOD
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-#EXTINF:-1 group-title="港澳台代理",Astro AEC
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-#EXTINF:-1 group-title="港澳台代理",愛奇藝
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
-#EXTINF:-1 group-title="港澳台代理",Astro QJ
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-#EXTINF:-1 group-title="港澳台代理",Astro歡喜台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-#EXTINF:-1 group-title="港澳台代理",八度空間
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
-#EXTINF:-1 group-title="港澳台代理",華麗翡翠
-http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",TVB亞洲武俠
-http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",娛樂新聞台
-http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",無線新聞
-http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",TVB星河
-http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",翡翠台
-http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-#EXTINF:-1 group-title="港澳台代理",明珠台
-http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-#EXTINF:-1 group-title="港澳台代理",翡翠台4K
-http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
-#EXTINF:-1 group-title="港澳台代理",歡笑劇場4K
-http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",CCTV2
-http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",CCTV4
-http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",CCTV9
-http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",華語影院
-http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
-#EXTINF:-1 group-title="港澳台代理",星光影院
-http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
-
-
-
 
 ################################################
 https://github.com/quninainaixi/quninainaixi/blob/main/mytv.txt
@@ -561,7 +468,7 @@ http://iptv.4666888.xyz/iptv.php?id=20069
 #EXTINF:-1 group-title="風雲TV港澳頻道",TVB明珠(英)
 http://iptv.4666888.xyz/iptv.php?id=20071
 #EXTINF:-1 group-title="風雲TV港澳頻道",TVB_Plus
-20072,http://iptv.4666888.xyz/iptv.php?id=20072
+http://iptv.4666888.xyz/iptv.php?id=20072
 #EXTINF:-1 group-title="風雲TV港澳頻道",TVB娛樂新聞
 http://iptv.4666888.xyz/iptv.php?id=20073
 #EXTINF:-1 group-title="風雲TV港澳頻道",TVB生活
@@ -3936,7 +3843,7 @@ http://xg.52sw.top/play/4gtv/dxlitv.php?id=4gtv-4gtv053
 ################################################
 
 
-
+========= https://3043.kstore.space/bhvip/bhzb.txt ==========
 
 ################################################
 https://live.catvod.com/catvod_com.php?id=yinews
@@ -4122,14 +4029,6 @@ http://mytv6688.xyz/smt.php?id=eyetvxiju_twn
 http://mytv6688.xyz/smt.php?id=mtvhd_twn
 #EXTINF:-1,tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="台灣 TAIWAN",Discovery
 http://mytv6688.xyz/smt.php?id=discoverytwn_twn
-
-
-
-
-
-========= https://3043.kstore.space/bhvip/bhzb.txt ==========
-
-
 
 
 香港,#genre#
@@ -5023,6 +4922,87 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
 
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 group-title="港澳台",華麗翡翠
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳台",明珠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳台",無線新聞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳台",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 group-title="港澳台",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳台",娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="港澳台",VIUTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳台",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳台",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 group-title="港澳台",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 group-title="港澳台",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳台",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳台",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳台",美亞電影
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="港澳台",天映馬來西亞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="港澳台",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港澳台",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳台",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 group-title="港澳台",愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 group-title="港澳台",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 group-title="港澳台",Astro歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 group-title="港澳台",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 group-title="港澳台",華麗翡翠
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVB亞洲武俠
+http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1 group-title="港澳台",娛樂新聞台
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",無線新聞
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",TVB星河
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",明珠台
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",翡翠台4K
+http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",歡笑劇場4K
+http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV2
+http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV4
+http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV9
+http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
+#EXTINF:-1 group-title="港澳台",華語影院
+http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
+#EXTINF:-1 group-title="港澳台",星光影院
+http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
+
+
+
 
 ################################################
 http://xtvantsc.xyz/4gtv.txt
@@ -5224,6 +5204,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 
 
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
+
 #EXTINF:-1 group-title="HK" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",无线新闻
 http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14930.ts
 #EXTINF:-1 group-title="HK" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",翡翠台
@@ -5599,10 +5580,47 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3a
 
 
 
-#EXTINF:-1 tvg-id="mtv-europe" group-title="MUSIC CH", MTV Europe
-http://fl5.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/clearlink/image/upload/v1589302537/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/MTV_Classic-Default-Black_2x_ubqscy.png" tvg-id="no_epg_music" group-title="MUSIC CH", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17304
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV LIVE HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17302
+#EXTINF:-1 group-title="MUSIC CH",UK -  MC MUSIC TODAYS COUNTRY SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/348213
+#EXTINF:-1 group-title="MUSIC CH",UK -  MC MUSIC POP HITS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/348219
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV MUSIC UK SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17301
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV HITS SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17303
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV BASE SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17307
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV CLASSIC SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/17306
+#EXTINF:-1 group-title="MUSIC CH",UK - MTV CLASSIC SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69533
+#EXTINF:-1 group-title="MUSIC CH",UK - JUKEBOX HD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69535
+#EXTINF:-1 group-title="MUSIC CH",UK -  NOW 70'S SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/348228
+#EXTINF:-1 group-title="MUSIC CH",UK - NOW 80s SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69530
+#EXTINF:-1 group-title="MUSIC CH",UK -  TRACE URBAN SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/348212
+#EXTINF:-1 group-title="MUSIC CH",UK - THAT'S 60s SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/613379
+#EXTINF:-1 group-title="MUSIC CH",UK - CLUBLAND SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69525
+#EXTINF:-1 group-title="MUSIC CH",UK - KISS TV SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/69527
+#EXTINF:-1 group-title="MUSIC CH",UK - NOW ROCK SD
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1171043
+
+
+
 #EXTINF:-1 tvg-id="MUSIC CH" group-title="MUSIC CH", THT Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
@@ -5710,45 +5728,6 @@ https://lotus.stingray.com/manifest/ose-134ads-montreal/plextv/master.m3u8
 https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
 #EXTINF:-1 group-title="MUSIC CH" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg", Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
-
-
-
-
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17304
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV LIVE HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17302
-#EXTINF:-1 group-title="MUSIC CH",UK -  MC MUSIC TODAYS COUNTRY SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348213
-#EXTINF:-1 group-title="MUSIC CH",UK -  MC MUSIC POP HITS SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348219
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV MUSIC UK SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17301
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV HITS SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17303
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV BASE SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17307
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV CLASSIC SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17306
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV CLASSIC SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69533
-#EXTINF:-1 group-title="MUSIC CH",UK - JUKEBOX HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69535
-#EXTINF:-1 group-title="MUSIC CH",UK -  NOW 70'S SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348228
-#EXTINF:-1 group-title="MUSIC CH",UK - NOW 80s SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69530
-#EXTINF:-1 group-title="MUSIC CH",UK -  TRACE URBAN SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348212
-#EXTINF:-1 group-title="MUSIC CH",UK - THAT'S 60s SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/613379
-#EXTINF:-1 group-title="MUSIC CH",UK - CLUBLAND SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69525
-#EXTINF:-1 group-title="MUSIC CH",UK - KISS TV SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69527
-#EXTINF:-1 group-title="MUSIC CH",UK - NOW ROCK SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1171043
-
 
 
 
@@ -7501,495 +7480,6 @@ http://47.91.17.126:20002/Smartv.php?id=nhkosaka_japan
 
 
 ##########################################################
-
-
-
-
-#EXTM3U
-#EXTM3U x-tvg-url="https://epg1.168.us.kg/mytvsuper.com.xml"
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="MytvSuper", 翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://judy.diver.eu.org/websuper265.php?id=J
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="MytvSuper", 翡翠台 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://judy.diver.eu.org/websuper265.php?id=JUHD
-
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="MytvSuper", TVB Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://judy.diver.eu.org/websuper265.php?id=B
-
-#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="" group-title="MytvSuper", ROCK Extreme
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-https://judy.diver.eu.org/websuper265.php?id=RKEX
-
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="MytvSuper", 無綫新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
-https://judy.diver.eu.org/websuper265.php?id=C
-
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="MytvSuper", 明珠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
-https://judy.diver.eu.org/websuper265.php?id=P
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER獎門人
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
-https://judy.diver.eu.org/websuper265.php?id=SVAR
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER EYT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-https://judy.diver.eu.org/websuper265.php?id=SEYT
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER識食
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
-https://judy.diver.eu.org/websuper265.php?id=SFOO
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER識嘆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
-https://judy.diver.eu.org/websuper265.php?id=STRA
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER Music
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-https://judy.diver.eu.org/websuper265.php?id=SMUS
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER金曲
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-https://judy.diver.eu.org/websuper265.php?id=SGOL
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER煲劇
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
-https://judy.diver.eu.org/websuper265.php?id=SSIT
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER劇場
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-https://judy.diver.eu.org/websuper265.php?id=STVM
-
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER話當年
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-https://judy.diver.eu.org/websuper265.php?id=SDOC
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", SUPER Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
-https://judy.diver.eu.org/websuper265.php?id=SSPT
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 雲南瀾湄國際衛視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://judy.diver.eu.org/websuper265.php?id=YNTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 安徽廣播電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://judy.diver.eu.org/websuper265.php?id=AHTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="北京電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 北京電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://judy.diver.eu.org/websuper265.php?id=BJTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣西電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 廣西電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://judy.diver.eu.org/websuper265.php?id=GXTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 福建海峽衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://judy.diver.eu.org/websuper265.php?id=FJTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="湖南電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 湖南電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://judy.diver.eu.org/websuper265.php?id=HNTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="江蘇電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 江蘇電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://judy.diver.eu.org/websuper265.php?id=JSTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 廣東廣播電視台大灣區衛視頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://judy.diver.eu.org/websuper265.php?id=GBTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="浙江電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 浙江電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://judy.diver.eu.org/websuper265.php?id=ZJTV
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 深圳衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://judy.diver.eu.org/websuper265.php?id=SZTV
-
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", myTV SUPER FREE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-https://judy.diver.eu.org/websuper265.php?id=CWIN
-
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="MytvSuper", myTV SUPER 18台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
-https://judy.diver.eu.org/websuper265.php?id=C18
-
-#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="28AI智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="MytvSuper", 28 AI 智慧賽馬
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
-https://judy.diver.eu.org/websuper265.php?id=C28
-
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="MytvSuper", 黃金翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-https://judy.diver.eu.org/websuper265.php?id=TVG
-
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="MytvSuper", 千禧經典台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
-https://judy.diver.eu.org/websuper265.php?id=CTVC
-
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="MytvSuper", 華語劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-https://judy.diver.eu.org/websuper265.php?id=CDR3
-
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="MytvSuper", 粵語片台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-https://judy.diver.eu.org/websuper265.php?id=CCLM
-
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="MytvSuper", 亞洲劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-https://judy.diver.eu.org/websuper265.php?id=CTVS
-
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="MytvSuper", 黃金華劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-https://judy.diver.eu.org/websuper265.php?id=TVO
-
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="MytvSuper", 娛樂新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://judy.diver.eu.org/websuper265.php?id=CTVE
-
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="MytvSuper", 戲曲台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-https://judy.diver.eu.org/websuper265.php?id=CCOC
-
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="MytvSuper", SUPER Kids Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-https://judy.diver.eu.org/websuper265.php?id=KID
-
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="MytvSuper", ZooMoo
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
-https://judy.diver.eu.org/websuper265.php?id=ZOO
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="MytvSuper", Nickelodeon
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-https://judy.diver.eu.org/websuper265.php?id=CNIKO
-
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="MytvSuper", Nick Jr.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-https://judy.diver.eu.org/websuper265.php?id=CNIJR
-
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="MytvSuper", 美亞電影台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-https://judy.diver.eu.org/websuper265.php?id=CMAM
-
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="MytvSuper", Thrill
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-https://judy.diver.eu.org/websuper265.php?id=CTHR
-
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="MytvSuper", 天映經典頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-https://judy.diver.eu.org/websuper265.php?id=CCCM
-
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="MytvSuper", 中國電影頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-https://judy.diver.eu.org/websuper265.php?id=CMC
-
-#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCK Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="MytvSuper", ROCK Action
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-https://judy.diver.eu.org/websuper265.php?id=CRTX
-
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="MytvSuper", KIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-https://judy.diver.eu.org/websuper265.php?id=CKIX
-
-#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="MytvSuper", Love Nature HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-https://judy.diver.eu.org/websuper265.php?id=LNH
-
-#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="MytvSuper", Love Nature 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-https://judy.diver.eu.org/websuper265.php?id=LN4
-
-#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="MytvSuper", Global Trekker
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-https://judy.diver.eu.org/websuper265.php?id=SMS
-
-#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="MytvSuper", ROCK綜藝娛樂
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-https://judy.diver.eu.org/websuper265.php?id=CRTE
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="MytvSuper", AXN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-https://judy.diver.eu.org/websuper265.php?id=CAXN
-
-#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="MytvSuper", Animax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-https://judy.diver.eu.org/websuper265.php?id=CANI
-
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="MytvSuper", tvN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-https://judy.diver.eu.org/websuper265.php?id=CJTV
-
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="MytvSuper", 無線衛星亞洲台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-https://judy.diver.eu.org/websuper265.php?id=CTS1
-
-#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="MytvSuper", 創世電視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-https://judy.diver.eu.org/websuper265.php?id=CRE
-
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="MytvSuper", FashionBox
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-https://judy.diver.eu.org/websuper265.php?id=FBX
-
-#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="MytvSuper", Mezzo Live HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
-https://judy.diver.eu.org/websuper265.php?id=CMEZ
-
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="MytvSuper", 東方衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-https://judy.diver.eu.org/websuper265.php?id=DTV
-
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="MytvSuper", 鳳凰衛視中文台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-https://judy.diver.eu.org/websuper265.php?id=PCC
-
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="MytvSuper", 鳳凰衛視資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-https://judy.diver.eu.org/websuper265.php?id=PIN
-
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="MytvSuper", 鳳凰衛視香港台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-https://judy.diver.eu.org/websuper265.php?id=PHK
-
-#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="MytvSuper", PopC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-https://judy.diver.eu.org/websuper265.php?id=POPC
-
-#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="MytvSuper", 中央電視台綜合頻道 (港澳版)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-https://judy.diver.eu.org/websuper265.php?id=CC1
-
-#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="MytvSuper", CGTN (中國環球電視網)記錄頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
-https://judy.diver.eu.org/websuper265.php?id=CGD
-
-#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="MytvSuper", CGTN (中國環球電視網)英語頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
-https://judy.diver.eu.org/websuper265.php?id=CGE
-
-#EXTINF:-1 tvg-id="神州新聞台" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="MytvSuper", 神州新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
-https://judy.diver.eu.org/websuper265.php?id=CMN1
-
-#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="MytvSuper", 無線衛星新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
-https://judy.diver.eu.org/websuper265.php?id=CTSN
-
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="MytvSuper", 亞洲新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
-https://judy.diver.eu.org/websuper265.php?id=CCNA
-
-#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="MytvSuper", 半島電視台英語頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
-https://judy.diver.eu.org/websuper265.php?id=CJAZ
-
-#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="MytvSuper", France 24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-https://judy.diver.eu.org/websuper265.php?id=CF24
-
-#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="MytvSuper", DW
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-https://judy.diver.eu.org/websuper265.php?id=CDW1
-
-#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="MytvSuper", NHK World-Japan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-https://judy.diver.eu.org/websuper265.php?id=CNHK
-
-#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="MytvSuper", Arirang TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-https://judy.diver.eu.org/websuper265.php?id=CARI
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png" group-title="MytvSuper", myTV SUPER直播足球3台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-https://judy.diver.eu.org/websuper265.php?id=EVT3
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png" group-title="MytvSuper", myTV SUPER直播足球4台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-https://judy.diver.eu.org/websuper265.php?id=EVT4
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png" group-title="MytvSuper", myTV SUPER直播足球5台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-https://judy.diver.eu.org/websuper265.php?id=EVT5
-
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png" group-title="MytvSuper", myTV SUPER直播足球6台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-https://judy.diver.eu.org/websuper265.php?id=EVT6
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 互動窗 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-https://judy.diver.eu.org/websuper265.php?id=C3
-
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MytvSuper", 互動窗 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-https://judy.diver.eu.org/websuper265.php?id=C2
-
 
 
 
@@ -13078,90 +12568,6 @@ https://vd3.bdstatic.com/mda-mk9940t1qza4ptet/576p/cae_h264/1651596935959437402/
 
 
 ################################################
-
-
-影視3D,#genre#
-
-#EXTINF:-1 group-title="影視3D",生物多樣性
-https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-#EXTINF:-1 group-title="影視3D",電影
-https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
-#EXTINF:-1 group-title="影視3D",木葉上忍的究極對決
-https://vd4.bdstatic.com/mda-mahnrqxb6xvgzyte/sc/cae_h264_nowatermark/1610957664/mda-mahnrqxb6xvgzyte.mp4
-#EXTINF:-1 group-title="影視3D",千里江山圖
-https://vd4.bdstatic.com/mda-ncrggyx20mz0s134/sc/cae_h264_delogo/1648294922621791952/mda-ncrggyx20mz0s134.mp4
-#EXTINF:-1 group-title="影視3D",3D投影1
-https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
-#EXTINF:-1 group-title="影視3D",3D投影2
-https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
-#EXTINF:-1 group-title="影視3D",不同國家
-https://vd2.bdstatic.com/mda-ncm7bqn1fvayqcac/sc/cae_h264_delogo/1647926240143319597/mda-ncm7bqn1fvayqcac.mp4
-#EXTINF:-1 group-title="影視3D",藝術科技感
-https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
-#EXTINF:-1 group-title="影視3D",視覺藝術
-https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
-#EXTINF:-1 group-title="影視3D",功夫之王
-https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
-#EXTINF:-1 group-title="影視3D",3D0
-https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-#EXTINF:-1 group-title="影視3D",3D1
-https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-#EXTINF:-1 group-title="影視3D",3D4
-https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
-#EXTINF:-1 group-title="影視3D",混剪3D
-https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-#EXTINF:-1 group-title="影視3D",3D5
-https://vd2.bdstatic.com/mda-kkfx81ffgjvk2qja/v1-cae/sc/mda-kkfx81ffgjvk2qja.mp4
-#EXTINF:-1 group-title="影視3D",大橘
-https://vd4.bdstatic.com/mda-ma2gq0my4ar6a8dz/v1-cae/1080p/mda-ma2gq0my4ar6a8dz.mp4
-#EXTINF:-1 group-title="影視3D",頭號玩家
-https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
-#EXTINF:-1 group-title="影視3D",變形金剛1
-https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
-#EXTINF:-1 group-title="影視3D",精美
-https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
-#EXTINF:-1 group-title="影視3D",變形金剛UHD
-https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
-#EXTINF:-1 group-title="影視3D",變形金剛LD
-https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-#EXTINF:-1 group-title="影視3D",變形金剛2K
-https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
-#EXTINF:-1 group-title="影視3D",變形金剛4K
-https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-#EXTINF:-1 group-title="影視3D",Bicycle
-https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
-#EXTINF:-1 group-title="影視3D",玩家
-https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
-#EXTINF:-1 group-title="影視3D",鋼鐵俠
-https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
-#EXTINF:-1 group-title="影視3D",龍騰虎躍
-https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
-#EXTINF:-1 group-title="影視3D",終結者
-https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
-#EXTINF:-1 group-title="影視3D",AA
-https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-#EXTINF:-1 group-title="影視3D",Dreamcatcher
-https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
-#EXTINF:-1 group-title="影視3D",東京-新宿
-https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
-#EXTINF:-1 group-title="影視3D",大片3D
-https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
-#EXTINF:-1 group-title="影視3D",裸眼3D
-https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
-#EXTINF:-1 group-title="影視3D",裸眼3D2
-https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-#EXTINF:-1 group-title="影視3D",小丑
-https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
-#EXTINF:-1 group-title="影視3D",X戰警：黑鳳凰
-https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
-#EXTINF:-1 group-title="影視3D",長津湖
-https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-#EXTINF:-1 group-title="影視3D",司藤
-https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
-#EXTINF:-1 group-title="影視3D",星球大戰9
-https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
-#EXTINF:-1 group-title="影視3D",MV
-https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 
 
 
