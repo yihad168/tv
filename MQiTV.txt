@@ -226,12 +226,12 @@
    "url":"https://aktv.space/live.m3u"
  },
  {
-      "name": "貓抓",
+      "name": "💔貓抓💔",
       "url": "https://live.catvod.com/tv.m3u",
       "ua": "catvod.com"
  },
  {
-      "name": "543",
+      "name": "🏠5434GTV🏠",
       "url": "http://tv543.cc/4gtv.m3u",
       "pass": false,
       "boot": false,
@@ -240,7 +240,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "STV",
+      "name": "🍄STV🍄",
       "url": "https://php.946985.xyz/stv.m3u",
       "epg" : "http://iptv.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
