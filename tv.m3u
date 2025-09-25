@@ -1379,6 +1379,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="測試頻道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1 group-title="測試頻道",亞太電視綜合台
+http://play2.one-tv.com/live/onetv.m3u8
+
 
 
 #EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 台視
@@ -1659,7 +1662,47 @@ http://212.102.60.231/TSN_5/index.m3u8
 https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u
 
 
-
+🐻台灣(88衛星源),#genre#
+#EXTINF:-1 group-title="數位無線電視",中視
+http://123.51.136.80:8301/0.ts
+#EXTINF:-1 group-title="數位無線電視",中視經典台
+http://123.51.136.80:8321/0.ts
+#EXTINF:-1 group-title="數位無線電視",中視菁采台
+http://123.51.136.80:8322/0.ts
+#EXTINF:-1 group-title="數位無線電視",中視新聞台
+http://123.51.136.80:8302/0.ts
+#EXTINF:-1 group-title="數位無線電視",民視
+http://123.51.136.80:8308/0.ts
+#EXTINF:-1 group-title="數位無線電視",民視第一台
+http://123.51.136.80:8309/0.ts
+#EXTINF:-1 group-title="數位無線電視",民視新聞台
+http://123.51.136.80:8310/0.ts
+#EXTINF:-1 group-title="數位無線電視",民視台灣台
+http://123.51.136.80:8311/0.ts
+#EXTINF:-1 group-title="數位無線電視",公視
+http://123.51.136.80:8305/0.ts
+#EXTINF:-1 group-title="數位無線電視",公視台語台
+http://123.51.136.80:8306/0.ts
+#EXTINF:-1 group-title="數位無線電視",小公視
+http://123.51.136.80:8312/0.ts
+#EXTINF:-1 group-title="數位無線電視",台視
+http://123.51.136.80:8313/0.ts
+#EXTINF:-1 group-title="數位無線電視",台視綜合台
+http://123.51.136.80:8316/0.ts
+#EXTINF:-1 group-title="數位無線電視",台視新聞台
+http://123.51.136.80:8314/0.ts
+#EXTINF:-1 group-title="數位無線電視",台視財經台
+http://123.51.136.80:8315/0.ts
+#EXTINF:-1 group-title="數位無線電視",華視
+http://123.51.136.80:8317/0.ts
+#EXTINF:-1 group-title="數位無線電視",華視教育體育文化台
+http://123.51.136.80:8318/0.ts
+#EXTINF:-1 group-title="數位無線電視",華視新聞台
+http://123.51.136.80:8319/0.ts
+#EXTINF:-1 group-title="數位無線電視",原住民族電視台
+http://123.51.136.80:8303/0.ts
+#EXTINF:-1 group-title="數位無線電視",客家電視台
+http://123.51.136.80:8307/0.ts
 
 
 
