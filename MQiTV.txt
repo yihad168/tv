@@ -541,7 +541,14 @@
       "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E8%89%B2%E9%AC%BC%E6%BA%90.m3u",
       "playerType": 1
     },
+    {
+      "name": "📺 18+",
+      "type": 0,
+      "url": "http://tv543.cc/jacky/18.txt",
 
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": ""
+    },
 
 
   {
