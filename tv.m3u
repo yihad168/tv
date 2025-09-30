@@ -930,6 +930,77 @@ https://github.com/quninainaixi/quninainaixi/blob/main/mytv.txt
 
 ################################################
 
+台灣(歐飛),#genre#
+
+#EXTINF:-1 group-title="歐飛",台視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",台視新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",中視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",中視新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",華視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",華視新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",三立新聞iNEWS
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",中天新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",寰宇新聞台灣台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",寰宇新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",寰宇財經台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",倪珍播新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",倪珍英語新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",倪珍越南語新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",好消息
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",好消息2台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",第1商業台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",國會頻道1台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",國會頻道2台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",ELTV生活英語台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",Smart知識台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",亞洲旅遊台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",台灣戲劇台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華卡通台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華戲劇台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華偶像台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華日韓台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華經典台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華電影台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華洋片台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",東森購物1台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",東森購物2台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
+
+
+
+
+
 ################################################
 
 https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u
@@ -3386,6 +3457,7 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPla
 
 
 
+
 #EXTINF:-1 group-title="港澳台",翡翠台4K
 http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台
@@ -3462,7 +3534,7 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
 #EXTINF:-1 group-title="港澳台",華麗翡翠
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 group-title="港澳台",明珠台,
+#EXTINF:-1 group-title="港澳台",明珠台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
 #EXTINF:-1 group-title="港澳台",無線新聞
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
@@ -3498,11 +3570,11 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
 #EXTINF:-1 group-title="港澳台",Astro AEC
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-#EXTINF:-1 group-title="港澳台",Astro 愛奇藝
+#EXTINF:-1 group-title="港澳台",愛奇藝
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 #EXTINF:-1 group-title="港澳台",Astro QJ
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-#EXTINF:-1 group-title="港澳台",Astro 歡喜台
+#EXTINF:-1 group-title="港澳台",Astro歡喜台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 #EXTINF:-1 group-title="港澳台",八度空間
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
@@ -3522,8 +3594,18 @@ http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
 http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台4K
 http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
-
-
+#EXTINF:-1 group-title="港澳台",歡笑劇場4K
+http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV2
+http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV4
+http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+#EXTINF:-1 group-title="港澳台",CCTV9
+http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
+#EXTINF:-1 group-title="港澳台",華語影院
+http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
+#EXTINF:-1 group-title="港澳台",星光影院
+http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
 
 
 #EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊台*
