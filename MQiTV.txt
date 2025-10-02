@@ -160,7 +160,7 @@
  {
       "name": "🐟风云秒开营养快线 20250901💔",
       "type": 0,
-      "url": "http://iptv.4666888.xyz/FYTV.txt ",
+      "url": "http://iptv.4666888.xyz/FYTV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
@@ -231,6 +231,13 @@
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+ {
+      "name": "🐟💔綜合 20251002💔🐟",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/refs/heads/main/543.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
  {
       "name": "💔貓抓💔",
       "url": "https://live.catvod.com/tv.m3u",
