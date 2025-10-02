@@ -225,6 +225,12 @@
    "type": "0",
    "url":"https://aktv.space/live.m3u"
  },
+  {
+            "name": "JACKTV",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
+        },
  {
       "name": "💔貓抓💔",
       "url": "https://live.catvod.com/tv.m3u",
