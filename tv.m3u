@@ -1397,9 +1397,8 @@ http://221.14.142.118:8000/hls/16/index.m3u8
 
 ################################################
 
-
-
-
+#EXTINF:-1 group-title="測試頻道",華藝BNC
+http://211.23.95.147:18881/live/31_h265.ts
 #EXTINF:-1 group-title="測試頻道",AMC 電影台
 http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
 #EXTINF:-1 group-title="測試頻道",AXN
