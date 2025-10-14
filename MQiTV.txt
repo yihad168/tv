@@ -295,6 +295,18 @@
       "jar": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
       "pass": true
     },
+    {
+      "name": "gotvSTV",
+      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/logo-smart.m3u",
+      "epg" : "http://iptv.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "beesports",
+      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/beesports.m3u",
+      "epg" : "http://iptv.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
  {
    "name": "♾️youtubeyou油管直播20250610",
    "type": "0",
