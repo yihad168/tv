@@ -3180,73 +3180,74 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
 
+
 ################################################
 
 
 
 
 特區酒店源,#genre#
-#EXTINF:-1 group-title="港澳馬新",廣東珠江頻高
+#EXTINF:-1 group-title="港澳馬新",廣東珠江
 http://php.jdshipin.com/PLTV/iptv.php?id=gdzj
-#EXTINF:-1 group-title="港澳馬新",廣東體育頻高
+#EXTINF:-1 group-title="港澳馬新",廣東體育
 http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+#EXTINF:-1 group-title="港澳馬新",Plus綜合
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
-#EXTINF:-1 group-title="港澳馬新",Plus綜合頻高
+#EXTINF:-1 group-title="港澳馬新",Plus綜合
 http://php.jdshipin.com/PLTV/iptv.php?id=j2
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻高
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美
 http://php.jdshipin.com/PLTV/iptv.php?id=j1
-#EXTINF:-1 group-title="港澳馬新",TVBJ1美頻標
+#EXTINF:-1 group-title="港澳馬新",TVBJ1美
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
-#EXTINF:-1 group-title="港澳馬新",鳳凰中文頻高
+#EXTINF:-1 group-title="港澳馬新",鳳凰中文
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳馬新",鳳凰資訊頻高
+#EXTINF:-1 group-title="港澳馬新",鳳凰資訊
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港澳馬新",鳳凰香港頻高
+#EXTINF:-1 group-title="港澳馬新",鳳凰香港
 http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港澳馬新",有線綜合粵高
+#EXTINF:-1 group-title="港澳馬新",有線綜合粵
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-#EXTINF:-1 group-title="港澳馬新",有線綜合國高
+#EXTINF:-1 group-title="港澳馬新",有線綜合國
 http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-#EXTINF:-1 group-title="港澳馬新",無線新聞頻高
+#EXTINF:-1 group-title="港澳馬新",無線新聞
 http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 #EXTINF:-1 group-title="港澳馬新",無線翡翠頻4k
 http://php.jdshipin.com/PLTV/iptv.php?id=fct4
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+#EXTINF:-1 group-title="港澳馬新",無線翡翠
 http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻高
+#EXTINF:-1 group-title="港澳馬新",無線翡翠
 http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-#EXTINF:-1 group-title="港澳馬新",無線翡翠頻標
+#EXTINF:-1 group-title="港澳馬新",無線翡翠
 http://php.jdshipin.com/PLTV/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳馬新",無線華麗國標
+#EXTINF:-1 group-title="港澳馬新",無線華麗國
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
-#EXTINF:-1 group-title="港澳馬新",無線明珠粵高
+#EXTINF:-1 group-title="港澳馬新",無線明珠粵
 http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-#EXTINF:-1 group-title="港澳馬新",無線明珠頻標
+#EXTINF:-1 group-title="港澳馬新",無線明珠
 http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-#EXTINF:-1 group-title="港澳馬新",無線娛樂頻標
+#EXTINF:-1 group-title="港澳馬新",無線娛樂
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="港澳馬新",無線星河頻標
+#EXTINF:-1 group-title="港澳馬新",無線星河
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-#EXTINF:-1 group-title="港澳馬新",無線星河頻標
+#EXTINF:-1 group-title="港澳馬新",無線星河
 http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港澳馬新",無線千禧頻標
+#EXTINF:-1 group-title="港澳馬新",無線千禧
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-#EXTINF:-1 group-title="港澳馬新",美亞電影頻標
+#EXTINF:-1 group-title="港澳馬新",美亞電影
 http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-#EXTINF:-1 group-title="港澳馬新",VIUTV粵頻標
+#EXTINF:-1 group-title="港澳馬新",VIUTV粵
 http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-#EXTINF:-1 group-title="港澳馬新",RTHK-31頻高
+#EXTINF:-1 group-title="港澳馬新",RTHK-31
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-#EXTINF:-1 group-title="港澳馬新",RTHK-32頻高
+#EXTINF:-1 group-title="港澳馬新",RTHK-32
 http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港澳馬新",AstroRio頻標
+#EXTINF:-1 group-title="港澳馬新",AstroRio
 http://php.jdshipin.com/PLTV/iptv.php?id=aod
-#EXTINF:-1 group-title="港澳馬新",澳門Mac頻高
+#EXTINF:-1 group-title="港澳馬新",澳門Mac
 http://php.jdshipin.com/PLTV/iptv.php?id=as
-#EXTINF:-1 group-title="港澳馬新",澳視澳門頻高
+#EXTINF:-1 group-title="港澳馬新",澳視澳門
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 group-title="港澳馬新",重溫經典頻高
+#EXTINF:-1 group-title="港澳馬新",重溫經典
 http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 
 
@@ -3965,6 +3966,315 @@ http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/500002361.ts
 ################################################
 
 https://gitlab.com/st7833232/dirtytvbox/-/blob/main/live/4gtv-judy.m3u?ref_type=heads
+https://raw.githubusercontent.com/fleung49/star/refs/heads/main/TV2
+
+
+香港,#genre#
+#EXTINF:-1 group-title="Lebiptv香港",无线新闻
+http://line.lebiptv.me/nVAX7160/6WqG1661/500949
+#EXTINF:-1 group-title="Lebiptv香港",翡翠台
+http://line.lebiptv.me/nVAX7160/6WqG1661/500954
+#EXTINF:-1 group-title="Lebiptv香港",TVBJ1
+http://line.lebiptv.me/nVAX7160/6WqG1661/500945
+#EXTINF:-1 group-title="Lebiptv香港",TVB1
+http://line.lebiptv.me/nVAX7160/6WqG1661/500946
+#EXTINF:-1 group-title="Lebiptv香港",TVB1
+http://line.lebiptv.me/nVAX7160/6WqG1661/500951
+#EXTINF:-1 group-title="Lebiptv香港",TVBS ASIA
+http://line.lebiptv.me/nVAX7160/6WqG1661/500947
+#EXTINF:-1 group-title="Lebiptv香港",TVB DRAMA
+http://line.lebiptv.me/nVAX7160/6WqG1661/500948
+#EXTINF:-1 group-title="Lebiptv香港",TVBe
+http://line.lebiptv.me/nVAX7160/6WqG1661/500950
+#EXTINF:-1 group-title="Lebiptv香港",千禧经典台
+http://line.lebiptv.me/nVAX7160/6WqG1661/500952
+#EXTINF:-1 group-title="Lebiptv香港",TVB娱乐新闻台
+http://line.lebiptv.me/nVAX7160/6WqG1661/500953
+#EXTINF:-1 group-title="Lebiptv香港",TVB星河
+http://line.lebiptv.me/nVAX7160/6WqG1661/500957
+#EXTINF:-1 group-title="Lebiptv香港",凤凰资讯
+http://line.lebiptv.me/nVAX7160/6WqG1661/500960
+#EXTINF:-1 group-title="Lebiptv香港",FAIRCHILD TV 1
+http://line.lebiptv.me/nVAX7160/6WqG1661/500942
+#EXTINF:-1 group-title="Lebiptv香港",FAIRCHILD TV 1 WEST
+http://line.lebiptv.me/nVAX7160/6WqG1661/500943
+#EXTINF:-1 group-title="Lebiptv香港",FAIRCHILD TV 2
+http://line.lebiptv.me/nVAX7160/6WqG1661/500944
+
+NEWS,#genre#
+#EXTINF:-1 group-title="LebiptvNEWS",ABC NEWS LIVE
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551995.ts
+#EXTINF:-1 group-title="LebiptvNEWS",ACCU WEATHER
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/469342.ts
+#EXTINF:-1 group-title="LebiptvNEWS",ALJAZRRTA
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/704492.ts
+#EXTINF:-1 group-title="LebiptvNEWS",BBC NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551984.ts
+#EXTINF:-1 group-title="LebiptvNEWS",BLOOMBERG
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/666384.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CBC NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/627017.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CBS NEWS LIVE
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551996.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CGTN
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/311633.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CGTN DOCUMENTARY
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/552941.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CNBC
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551993.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CNN
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/552001.ts
+#EXTINF:-1 group-title="LebiptvNEWS",CNN INTL
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551998.ts
+#EXTINF:-1 group-title="LebiptvNEWS",DW
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/469315.ts
+#EXTINF:-1 group-title="LebiptvNEWS",EURONEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551987.ts
+#EXTINF:-1 group-title="LebiptvNEWS",FOX BUSINESS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551968.ts
+#EXTINF:-1 group-title="LebiptvNEWS",FOX NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551988.ts
+#EXTINF:-1 group-title="LebiptvNEWS",FOX RACING
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487774.ts
+#EXTINF:-1 group-title="LebiptvNEWS",FOX WEATHER
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/886925.ts
+#EXTINF:-1 group-title="LebiptvNEWS",FRANCE 24
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/704491.ts
+#EXTINF:-1 group-title="LebiptvNEWS",MSNBC
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/551986.ts
+#EXTINF:-1 group-title="LebiptvNEWS",RT NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/311648.ts
+#EXTINF:-1 group-title="LebiptvNEWS",RTE NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/578145.ts
+#EXTINF:-1 group-title="LebiptvNEWS",SKY NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577229.ts
+#EXTINF:-1 group-title="LebiptvNEWS",THE WEATHER CHANNEL
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/469343.ts
+#EXTINF:-1 group-title="LebiptvNEWS",TRT WORLD
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577212.ts
+#EXTINF:-1 group-title="LebiptvNEWS",TVG
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487634.ts
+#EXTINF:-1 group-title="LebiptvNEWS",TVG2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487633.ts
+
+LOS ANGELES,#genre#
+#EXTINF:-1 group-title="LebiptvLOS ANGELES",KABC
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/548980.ts
+#EXTINF:-1 group-title="LebiptvLOS ANGELES",KCBS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/549636.ts
+#EXTINF:-1 group-title="LebiptvLOS ANGELES",KCAL
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/760122.ts
+#EXTINF:-1 group-title="LebiptvLOS ANGELES",KTLA
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/469336.ts
+#EXTINF:-1 group-title="LebiptvLOS ANGELES",KTTV
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/549875.ts
+#EXTINF:-1 group-title="LebiptvLOS ANGELES",KNBC
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/550382.ts
+
+MUSIC,#genre#
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697149.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697150.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697151.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697152.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697153.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 6
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697154.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 7
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697155.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 8
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/697156.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",MTV CLASSIC
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577451.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",MTV 00s
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577452.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",MTV LIVE NOW
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577450.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",MTV HITS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577449.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",MTV MUSIC
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577448.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",NOW ROCK
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1276281.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",DANCE TV
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1110685.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",CLUBLAND TV
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577445.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",TRACE URBAN
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577436.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",VH1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577433.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",NOW 70S
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577432.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",NOW 80S
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577431.ts
+#EXTINF:-1 group-title="LebiptvMUSIC",NOW 90S
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577430.ts
+
+SPORTS,#genre#
+#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS PL 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/766852.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS PL 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/766853.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS GRANDSTAND
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/766854.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS FOOTBALL
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/766855.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016907.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016908.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016909.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016910.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016911.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 6
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016912.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 7
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016913.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 8
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016914.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 9
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016915.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",EQUIDIA
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/832129.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ESPN NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487783.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ESPN 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487782.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ESPN 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487781.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",ESPN U
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487778.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",EUROSPORT 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577985.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",EUROSPORT 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577984.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827982.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827981.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827980.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827979.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827978.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 6
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827977.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 7
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827976.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 8
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827975.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 9
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827974.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 10
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827973.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 11
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827972.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/505621.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/505623.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/505625.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/505627.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/505628.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827940.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827939.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827938.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827937.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827936.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 6
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827935.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 7
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827934.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 8
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/827933.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 1
+http://line.lebiptv.me/nVAX7160/6WqG1661/802488
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 2
+http://line.lebiptv.me/nVAX7160/6WqG1661/802487
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 3
+http://line.lebiptv.me/nVAX7160/6WqG1661/802486
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 4
+http://line.lebiptv.me/nVAX7160/6WqG1661/802485
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 5
+http://line.lebiptv.me/nVAX7160/6WqG1661/802484
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 6
+http://line.lebiptv.me/nVAX7160/6WqG1661/802483
+#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 7
+http://line.lebiptv.me/nVAX7160/6WqG1661/802482
+#EXTINF:-1 group-title="LebiptvSPORTS",PREMIER SPORTS LALIGA
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577982.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",PREMIER SPORTS 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577981.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",RACING 240
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/1125022.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",RACING.COM
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/259849.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",RACING TV UK
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577958.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY RACING 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/879881.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY RACING 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/879880.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699776.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699774.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699752.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699750.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699748.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 6
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699746.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 7
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699744.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 8
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699742.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 9
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699740.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 10
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/699738.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS MIX
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577989.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS MAIN EVENTS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577997.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS NEWS
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577994.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS PREMIER LEAGUE
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577996.ts 
+#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS RACING
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/577988.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",TSN 1
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487807.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",TSN 2
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487806.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",TSN 3
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487805.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",TSN 4
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487804.ts
+#EXTINF:-1 group-title="LebiptvSPORTS",TSN 5
+http://line.lebiptv.me/live/nVAX7160/6WqG1661/487803.ts
+
+
+
 
 
 #############   MUSIC  ########################
@@ -3984,16 +4294,8 @@ https://newidco-ygtv-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="mtv-europe" group-title="MUSIC CH", California Music Channel (1080p)
 https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 
-
-
 #EXTINF:-1 tvg-id="mtv-europe" group-title="MUSIC CH", MovieMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="MUSIC CH",UK - MTV HD
 http://bestp55.xyz:80/A7FC77529786/519C32219872/17304
@@ -4360,7 +4662,7 @@ http://tv543.cc/Smart.php?id=zhongshinews_twn
 http://tv543.cc/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="民視新聞台 FTV News" tvg-name="民視新聞台 FTV News" tvg-logo="" group-title="GLOBE 台灣",民視新聞台 FTV News
 http://tv543.cc/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" tvg-logo="" group-title="GLOBE 台灣",民視臺灣台
+#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" tvg-logo="" group-title="GLOBE 台灣",民視台灣台
 http://tv543.cc/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="華視 CTS HD" tvg-name="華視 CTS HD" tvg-logo="" group-title="GLOBE 台灣",華視 CTS HD
 http://tv543.cc/Smart.php?id=ctshd_twn
@@ -15277,6 +15579,300 @@ https://cdn1.hdys01.com/videos/2022/11/29/6385f001a280e006d9357c33/1974dc/index.
 #EXTINF:-1 group-title="我的收藏 ADULT",糖心Vlog-鳳梨啤
 https://hua4.hdys01.com/videos/2025/10/02/68de8976ab6359d6597b69e7/879fcf/index.m3u8
 
+#EXTINF:-1 group-title="我的收藏 ADULT",美女71
+https://t0.97img.com/RiaKurumi_71/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女82
+https://t0.97img.com/RiaKurumi_82/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女86
+https://t0.97img.com/RiaKurumi_86/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女87
+https://t0.97img.com/RiaKurumi_87/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女88
+https://t0.97img.com/RiaKurumi0/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女90
+https://t0.97img.com/RiaKurumi2/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女93
+https://t0.97img.com/RiaKurumi5/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女92
+https://t0.97img.com/RiaKurumi4/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女91
+https://t0.97img.com/RiaKurumi3/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女94
+https://t0.97img.com/RiaKurumi6/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女95
+https://t0.97img.com/RiaKurumi7/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女98
+https://t0.97img.com/RiaKurumi10/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女96
+https://t0.97img.com/RiaKurumi8/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女102
+https://t0.97img.com/RiaKurumi14/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女99
+https://t0.97img.com/RiaKurumi11/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女97
+https://t0.97img.com/RiaKurumi9/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女100
+https://t0.97img.com/RiaKurumi12/a.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",美女101
+https://t30.cdn2020.com/video/m3u8/2025/03/31/4f1607bc/index.m3u8
+
+
+
+
+
+日本無碼
+
+
+
+#EXTINF:-1 group-title="日本無碼 ADULT",一家廣告公司的美女前臺小姐
+https://t33.cdn2020.com/video/m3u8/2025/09/22/dca6cc63/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",老師這就是你來這裡的目的嗎
+https://t33.cdn2020.com/video/m3u8/2025/09/22/484d9493/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",擁有俄羅斯血統的美麗巨乳妹子
+https://t33.cdn2020.com/video/m3u8/2025/09/22/53070f76/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",忍受著上司性騷擾的E罩杯美女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/fe8417ed/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",中出後清潔口交和顏射
+https://t33.cdn2020.com/video/m3u8/2025/09/22/b26412d5/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",在酒店的浴衣約會中出性愛
+https://t33.cdn2020.com/video/m3u8/2025/09/22/ab4651f5/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",在普通的街區發現了這位偶像般的美女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/0436aebf/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",fc2ppv-3142780在絕美的露天浴池中中出性愛
+https://t33.cdn2020.com/video/m3u8/2025/09/22/d6784e34/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",暴露連續中出後清潔口交
+https://t33.cdn2020.com/video/m3u8/2025/09/22/8b7b13d1/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",不擅長戀愛的保育員
+https://t33.cdn2020.com/video/m3u8/2025/09/22/74b3f2ab/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",F罩杯美人兒
+https://t33.cdn2020.com/video/m3u8/2025/09/22/b0339dd4/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",射在年輕學生濃密的陰道裡
+https://t33.cdn2020.com/video/m3u8/2025/09/22/92b9a209/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",乖巧的20歲巨乳大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/22/c5c0ff5a/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",可愛美髮實習生
+https://t33.cdn2020.com/video/m3u8/2025/09/22/1b7bedce/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",大陰蒂美女的初次3P
+https://t33.cdn2020.com/video/m3u8/2025/09/22/c637e5fb/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",豐滿美麗的模特
+https://t33.cdn2020.com/video/m3u8/2025/09/22/1b8eb652/index.m3u8
+
+#EXTINF:-1 group-title="日本無碼 ADULT",身材苗條皮膚柔軟迷人的芭蕾舞班花
+https://t33.cdn2020.com/video/m3u8/2025/09/22/94cbbbef/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",渾身顫抖的白皙鄉村女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/22/d4da0813/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",遇到了一位非常誠實的時尚學生
+https://t33.cdn2020.com/video/m3u8/2025/09/22/75844ae5/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",某化妝品廠商的美容顧問
+https://t33.cdn2020.com/video/m3u8/2025/09/22/f970d3a0/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",完美人格的美人
+https://t33.cdn2020.com/video/m3u8/2025/09/22/72691733/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",身上散發著清新香味的苗條女人
+https://t33.cdn2020.com/video/m3u8/2025/09/22/968eb6bf/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",白皙胸部豐滿的女人
+https://t33.cdn2020.com/video/m3u8/2025/09/22/65b37fef/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",鄰居家的女主人想和我上床
+https://t33.cdn2020.com/video/m3u8/2025/09/22/0f134793/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",用連續中出懲罰守不住秘密口無遮攔的女主人
+https://t33.cdn2020.com/video/m3u8/2025/09/22/8a8494d7/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",百份百敏感的女大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/22/afc3081a/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",身材超群的美少女偶像
+https://t33.cdn2020.com/video/m3u8/2025/09/22/09d7d298/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",戀愛成癮的大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/22/18e134a3/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",愛做愛的H罩杯酒吧女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/cfe99d42/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",苦苦掙扎償還學生貸款的熱帶風美少女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/fb713d48/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",巨乳女孩是一位美甲師
+https://t33.cdn2020.com/video/m3u8/2025/09/22/71643b08/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",美麗純情可愛的E罩杯美女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/a9b48201/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",用精液玷污了靠為寄宿男友做身體賺錢女人的臉
+https://t33.cdn2020.com/video/m3u8/2025/09/22/51a4b6a0/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",在速食店搭訕了一個笑容可愛的十幾歲的二年級學生
+https://t33.cdn2020.com/video/m3u8/2025/09/22/b61c5866/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",fc2ppv-3166532美麗豐滿的網紅
+https://t33.cdn2020.com/video/m3u8/2025/09/22/f2f28dc1/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",身高148cm的嬌小少女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/8df92780/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",笑容可愛的19歲JD新生愛醬
+https://t33.cdn2020.com/video/m3u8/2025/09/22/abb5260c/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",文靜內向女生擴肛後大量灌腸
+https://t33.cdn2020.com/video/m3u8/2025/09/22/d41681d7/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",教一個沒有經驗的美女關於成人性愛
+https://t33.cdn2020.com/video/m3u8/2025/09/22/a091c576/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",享受用動漫聲音誘惑男人的苗條美女
+https://t33.cdn2020.com/video/m3u8/2025/09/22/e97ab45e/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",在農村長大的純真單純的女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/21/9a55abd9/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",和一位美豔絕倫清純無比的少女共度良宵
+https://t33.cdn2020.com/video/m3u8/2025/09/21/fa35fd9a/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",fc2ppv-3164706G罩杯巨乳
+https://t33.cdn2020.com/video/m3u8/2025/09/21/366431c2/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",老公的性能力太差了
+https://t33.cdn2020.com/video/m3u8/2025/09/21/9acfe04d/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",約會網站上的F罩杯女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/21/b4562c5c/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",雖然是我的危險日但你可以在我體內射精
+https://t33.cdn2020.com/video/m3u8/2025/09/21/48f41186/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",美女護士
+https://t33.cdn2020.com/video/m3u8/2025/09/21/25241e0f/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",超級無敵巨乳少女
+https://t33.cdn2020.com/video/m3u8/2025/09/21/5f7affcc/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",史上最美SSS級女神回歸
+https://t33.cdn2020.com/video/m3u8/2025/09/21/b0f97478/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",普通的家庭主婦
+https://t33.cdn2020.com/video/m3u8/2025/09/21/9fa3115b/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",清純小胸女大學生被巨屌生生插入
+https://t33.cdn2020.com/video/m3u8/2025/09/21/9028fac6/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",絕佳身材的車模絕對讓你欲罷不能
+https://t33.cdn2020.com/video/m3u8/2025/09/21/d9a8c2ca/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",立志成為空姐的留學生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/34a73e88/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",甜美可愛讓我心動的大學生我竟然不戴套就射在了她的陰道裡
+https://t33.cdn2020.com/video/m3u8/2025/09/21/c372276e/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",為了合唱比賽而努力練習的女學生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/9ae034fb/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",漂亮又乾淨又敏感的素人
+https://t33.cdn2020.com/video/m3u8/2025/09/21/eea6fadc/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",絕美肉體的白皙美少女大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/01a99dc1/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",就讀於名校私立女子學校的學生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/518a3254/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",她的純真無法掩飾
+https://t33.cdn2020.com/video/m3u8/2025/09/21/14c37f77/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",擁有美胸的大學三年級生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/5c8f46de/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",淫蕩巨乳人妻欲懷孕
+https://t33.cdn2020.com/video/m3u8/2025/09/21/76f19f04/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",對不停出軌的下屬女友進行反復中出懲罰
+https://t33.cdn2020.com/video/m3u8/2025/09/21/60c46326/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",可愛E杯粉紅乳頭
+https://t33.cdn2020.com/video/m3u8/2025/09/21/1a91a273/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",純情的18歲少女這可是她第一次體驗純情性愛和內射
+https://t33.cdn2020.com/video/m3u8/2025/09/21/2aca18b1/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",穿成這樣會被侵犯嗎
+https://t33.cdn2020.com/video/m3u8/2025/09/21/43970649/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",一位單親媽媽因為失業生活拮据決定拍片
+https://t33.cdn2020.com/video/m3u8/2025/09/21/f7cfb647/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",擁有健康身材和F罩杯美胸的娃娃臉白皙少女
+https://t33.cdn2020.com/video/m3u8/2025/09/21/d6d934f2/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",來自鄉村的白皙少女
+https://t33.cdn2020.com/video/m3u8/2025/09/21/9b887501/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",擁有E罩杯身材的少女學生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/c363d565/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",對巨乳美女為所欲為
+https://t33.cdn2020.com/video/m3u8/2025/09/21/c02552bc/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",野外性愛
+https://t33.cdn2020.com/video/m3u8/2025/09/21/e8f99ba8/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",皮膚白皙胸部豐滿的女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/21/c03e1e8f/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",已婚少婦借了高利貸卻無力償還貸款最終只能用乳頭滴下的奶水來償還
+https://t33.cdn2020.com/video/m3u8/2025/09/21/18e312e8/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",一位苗條的美女在一個肥胖老男人的雞巴上一次又一次地射精
+https://t33.cdn2020.com/video/m3u8/2025/09/21/cbdd44ea/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",陰毛都還沒修剪的小妞
+https://t33.cdn2020.com/video/m3u8/2025/09/21/818311e6/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",有著小動物般臉蛋的純真嬌小可愛的大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/21/3f152428/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",開放式關係豐滿人妻性欲爆棚欲火旺盛
+https://t33.cdn2020.com/video/m3u8/2025/09/21/a7f64d45/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",沒有任何性經驗的暑假純真少女
+https://t33.cdn2020.com/video/m3u8/2025/09/21/84b557d2/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",傲慢自大的淫蕩女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/21/35d48b61/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",PPv-3134119我通過在她體內射精來懲罰一個不關心她丈夫的出軌女人
+https://t33.cdn2020.com/video/m3u8/2025/09/21/6d9d0c6f/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",可愛嬌小又活力四射的幼稚園老師
+https://t33.cdn2020.com/video/m3u8/2025/09/20/556ebe80/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",針織服初體驗
+https://t33.cdn2020.com/video/m3u8/2025/09/20/956175ec/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",某雜誌的開朗漂亮的模特
+https://t33.cdn2020.com/video/m3u8/2025/09/20/64e58253/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",某縣立綜合科退學的I罩杯離家少女
+https://t33.cdn2020.com/video/m3u8/2025/09/20/d4622677/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",G罩杯巨乳產後神仙炮友
+https://t33.cdn2020.com/video/m3u8/2025/09/20/7cd9f15c/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",乾淨俐落的黑髮求職學生
+https://t33.cdn2020.com/video/m3u8/2025/09/20/3bb835c3/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",孤獨女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/20/df84a41f/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",天真爛漫的清純女大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/20/db332b4a/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",男人的願望是用連續中出讓她懷孕
+https://t33.cdn2020.com/video/m3u8/2025/09/20/5818b5ab/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",本來只是為了報復出軌男友的約會
+https://t33.cdn2020.com/video/m3u8/2025/09/20/5b6b1573/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",與可愛美女重逢
+https://t33.cdn2020.com/video/m3u8/2025/09/20/dbf883b2/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",被迫不穿內褲上學
+https://t33.cdn2020.com/video/m3u8/2025/09/20/dd06613d/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",服務型美少女學生妹
+https://t33.cdn2020.com/video/m3u8/2025/09/20/a72d7202/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",風格出眾的現高中生
+https://t33.cdn2020.com/video/m3u8/2025/09/20/954b2def/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",尤娜醬變得更加可愛了我們正在和她一起過夜希望她能懷孕
+https://t33.cdn2020.com/video/m3u8/2025/09/20/fd3d9e87/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",豐滿美乳的F罩杯女大學生
+https://t33.cdn2020.com/video/m3u8/2025/09/20/220c07bb/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",與變態人妻在酒店秘密幽會
+https://t33.cdn2020.com/video/m3u8/2025/09/20/d9dbfadc/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",全臉露出21歲無毛賽車女郎
+https://t33.cdn2020.com/video/m3u8/2025/09/20/e911af36/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",在她父母家發生了關係
+https://t33.cdn2020.com/video/m3u8/2025/09/20/fb3f1c55/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",擁有絕妙陰道的F罩杯衝浪少女
+https://t33.cdn2020.com/video/m3u8/2025/09/20/dc563e7d/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",街店帶回來的29歲美腿主婦
+https://t33.cdn2020.com/video/m3u8/2025/09/20/5bfb227d/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",大量精液被射進一位初入職場的漂亮胸部女人的無毛陰部
+https://t33.cdn2020.com/video/m3u8/2025/09/20/7df14f82/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",體驗到了惡魔般的高潮
+https://t33.cdn2020.com/video/m3u8/2025/09/20/69f1a583/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",手淫和足交都能讓你欲罷不能
+https://t33.cdn2020.com/video/m3u8/2025/09/20/8698de1a/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",模特般身材的美女
+https://t33.cdn2020.com/video/m3u8/2025/09/20/b20e7c0b/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",白皙高挑苗條的女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/20/31f8e3a3/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",夜班結束後淫蕩的護士
+https://t33.cdn2020.com/video/m3u8/2025/09/20/5d84aac0/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",黑髮美女
+https://t33.cdn2020.com/video/m3u8/2025/09/20/24d4f272/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",輪盤遊戲裡和白大屌交替性交
+https://t33.cdn2020.com/video/m3u8/2025/09/20/77634b51/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",脫衣後的美乳
+https://t33.cdn2020.com/video/m3u8/2025/09/20/1cc26066/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",這是受孕後性愛的視頻
+https://t33.cdn2020.com/video/m3u8/2025/09/20/b2faacf6/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",被迫穿上淫穢內衣進行3P
+https://t33.cdn2020.com/video/m3u8/2025/09/20/5799c555/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",fc2ppv-3159330開朗的前雜誌模特
+https://t33.cdn2020.com/video/m3u8/2025/09/20/a6fe6f01/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",初夏與K罩杯巨乳美女的露陰遊戲
+https://t33.cdn2020.com/video/m3u8/2025/09/20/f6f6917a/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",中出後再次被指交翹臀升天
+https://t33.cdn2020.com/video/m3u8/2025/09/20/ad5d10f1/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",清純美女模特
+https://t33.cdn2020.com/video/m3u8/2025/09/20/fd8596f1/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",前足球運動員
+https://t33.cdn2020.com/video/m3u8/2025/09/20/03f75f00/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",讓人想抱起來的18歲女孩
+https://t33.cdn2020.com/video/m3u8/2025/09/20/8f68696e/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",E罩杯全日制高中生
+https://t33.cdn2020.com/video/m3u8/2025/09/20/831117f3/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",通過日本環球小姐選拔的職業女性
+https://t33.cdn2020.com/video/m3u8/2025/09/20/dd21897e/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",白皙豐乳美女
+https://t33.cdn2020.com/video/m3u8/2025/09/19/128a1d82/index.m3u8
+#EXTINF:-1 group-title="日本無碼 ADULT",清純學生為了買手機而拍片
+https://t33.cdn2020.com/video/m3u8/2025/09/19/d224790a/index.m3u8
+
+
+
+
 
 
 
@@ -17128,8 +17724,6 @@ https://t27.cdn2020.com/video/m3u8/2024/06/17/d8a63556/index.m3u8
 https://t27.cdn2020.com/video/m3u8/2024/07/19/6ec8b879/index.m3u8
 #EXTINF:-1 group-title="JAV點播 ADULT",做主持的姐姐在輕鬆屋裡作為性欲處理被中出
 https://t27.cdn2020.com/video/m3u8/2024/04/06/df4ba698/index.m3u8
-
-
 #EXTINF:-1 group-title="JAV點播 ADULT",加勒比051917北川
 https://fc.maa1801.com/d/jestvkpubl/jestvkpubl.m3u8
 #EXTINF:-1 group-title="JAV點播 ADULT",heyzo1601北川
