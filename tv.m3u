@@ -3012,21 +3012,21 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 
 
 
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 꽃보다할배
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 꽃보다할배
 https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 나의 아저씨
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 나의 아저씨
 https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 도깨비
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 도깨비
 https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 라켓보이즈
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 라켓보이즈
 https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 마인
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 마인
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 멜랑꼴리아
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 멜랑꼴리아
 https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 철인왕후
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 철인왕후
 https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN THE K2
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN THE K2
 https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",Arirang 阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -3079,103 +3079,103 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
-#EXTINF:-1,tvg-id="TV조선" tvg-name="TV조선" tvg-logo="https://11.112114.xyz/logo/TV조선.png" group-title="韓國頻道",TV조선
+#EXTINF:-1 tvg-id="TV조선" tvg-name="TV조선" tvg-logo="https://11.112114.xyz/logo/TV조선.png" group-title="韓國頻道",TV조선
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1,tvg-id="TV조선 2" tvg-name="TV조선 2" tvg-logo="https://11.112114.xyz/logo/TV조선2.png" group-title="韓國頻道",TV조선 2
+#EXTINF:-1 tvg-id="TV조선 2" tvg-name="TV조선 2" tvg-logo="https://11.112114.xyz/logo/TV조선2.png" group-title="韓國頻道",TV조선 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1,tvg-id="OBS" tvg-name="OBS" tvg-logo="https://11.112114.xyz/logo/OBS.png" group-title="韓國頻道",OBS
+#EXTINF:-1 tvg-id="OBS" tvg-name="OBS" tvg-logo="https://11.112114.xyz/logo/OBS.png" group-title="韓國頻道",OBS
 http://1.217.92.34/hls/6/index.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN STORY
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN STORY
 http://1.217.92.34/hls/12/index.m3u8
-#EXTINF:-1,tvg-id="조선" tvg-name="조선" tvg-logo="https://11.112114.xyz/logo/조선.png" group-title="韓國頻道",조선
+#EXTINF:-1 tvg-id="조선" tvg-name="조선" tvg-logo="https://11.112114.xyz/logo/조선.png" group-title="韓國頻道",조선
 http://1.217.92.34/hls/15/index.m3u8
-#EXTINF:-1,tvg-id="SBS PIus" tvg-name="SBS PIus" tvg-logo="https://11.112114.xyz/logo/SBSPIUS.png" group-title="韓國頻道",SBS PIus
+#EXTINF:-1 tvg-id="SBS PIus" tvg-name="SBS PIus" tvg-logo="https://11.112114.xyz/logo/SBSPIUS.png" group-title="韓國頻道",SBS PIus
 http://1.217.92.34/hls/16/index.m3u8
-#EXTINF:-1,tvg-id="KBS drama" tvg-name="KBS drama" tvg-logo="https://11.112114.xyz/logo/KBSDRAMA.png" group-title="韓國頻道",KBS drama
+#EXTINF:-1 tvg-id="KBS drama" tvg-name="KBS drama" tvg-logo="https://11.112114.xyz/logo/KBSDRAMA.png" group-title="韓國頻道",KBS drama
 http://1.217.92.34/hls/17/index.m3u8
-#EXTINF:-1,tvg-id="MAC name" tvg-name="MAC name" tvg-logo="https://11.112114.xyz/logo/MACNAME.png" group-title="韓國頻道",MAC name
+#EXTINF:-1 tvg-id="MAC name" tvg-name="MAC name" tvg-logo="https://11.112114.xyz/logo/MACNAME.png" group-title="韓國頻道",MAC name
 http://1.217.92.34/hls/19/index.m3u8
-#EXTINF:-1,tvg-id="OL ef" tvg-name="OL ef" tvg-logo="https://11.112114.xyz/logo/OLEF.png" group-title="韓國頻道",OL ef
+#EXTINF:-1 tvg-id="OL ef" tvg-name="OL ef" tvg-logo="https://11.112114.xyz/logo/OLEF.png" group-title="韓國頻道",OL ef
 http://1.217.92.34/hls/21/index.m3u8
-#EXTINF:-1,tvg-id="CNN" tvg-name="CNN" tvg-logo="https://11.112114.xyz/logo/CNN.png" group-title="韓國頻道",OCN NOW
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://11.112114.xyz/logo/CNN.png" group-title="韓國頻道",OCN NOW
 http://1.217.92.34/hls/22/index.m3u8
-#EXTINF:-1,tvg-id="OCN Movies" tvg-name="OCN Movies" tvg-logo="https://11.112114.xyz/logo/OCNMOVIES.png" group-title="韓國頻道",OCN Movies
+#EXTINF:-1 tvg-id="OCN Movies" tvg-name="OCN Movies" tvg-logo="https://11.112114.xyz/logo/OCNMOVIES.png" group-title="韓國頻道",OCN Movies
 http://1.217.92.34/hls/23/index.m3u8
-#EXTINF:-1,tvg-id="OCN Movies 2" tvg-name="OCN Movies 2" tvg-logo="https://11.112114.xyz/logo/OCNMOVIES2.png" group-title="韓國頻道",OCN Movies 2
+#EXTINF:-1 tvg-id="OCN Movies 2" tvg-name="OCN Movies 2" tvg-logo="https://11.112114.xyz/logo/OCNMOVIES2.png" group-title="韓國頻道",OCN Movies 2
 http://1.217.92.34/hls/24/index.m3u8
-#EXTINF:-1,tvg-id="CATCHONI" tvg-name="CATCHONI" tvg-logo="https://11.112114.xyz/logo/CATCHONI.png" group-title="韓國頻道",CATCHONI
+#EXTINF:-1 tvg-id="CATCHONI" tvg-name="CATCHONI" tvg-logo="https://11.112114.xyz/logo/CATCHONI.png" group-title="韓國頻道",CATCHONI
 http://1.217.92.34/hls/25/index.m3u8
-#EXTINF:-1,tvg-id="SCREEN" tvg-name="SCREEN" tvg-logo="https://11.112114.xyz/logo/SCREEN.png" group-title="韓國頻道",SCREEN
+#EXTINF:-1 tvg-id="SCREEN" tvg-name="SCREEN" tvg-logo="https://11.112114.xyz/logo/SCREEN.png" group-title="韓國頻道",SCREEN
 http://1.217.92.34/hls/26/index.m3u8
-#EXTINF:-1,tvg-id="SCREEN 2" tvg-name="SCREEN 2" tvg-logo="https://11.112114.xyz/logo/SCREEN2.png" group-title="韓國頻道",SCREEN 2
+#EXTINF:-1 tvg-id="SCREEN 2" tvg-name="SCREEN 2" tvg-logo="https://11.112114.xyz/logo/SCREEN2.png" group-title="韓國頻道",SCREEN 2
 http://1.217.92.34/hls/27/index.m3u8
-#EXTINF:-1,tvg-id="TEE Movies" tvg-name="TEE Movies" tvg-logo="https://11.112114.xyz/logo/TEEMOVIES.png" group-title="韓國頻道",TEE Movies
+#EXTINF:-1 tvg-id="TEE Movies" tvg-name="TEE Movies" tvg-logo="https://11.112114.xyz/logo/TEEMOVIES.png" group-title="韓國頻道",TEE Movies
 http://1.217.92.34/hls/28/index.m3u8
-#EXTINF:-1,tvg-id="KBS 2" tvg-name="KBS 2" tvg-logo="https://11.112114.xyz/logo/KBS2.png" group-title="韓國頻道",KBS 2
+#EXTINF:-1 tvg-id="KBS 2" tvg-name="KBS 2" tvg-logo="https://11.112114.xyz/logo/KBS2.png" group-title="韓國頻道",KBS 2
 http://1.217.92.34/hls/29/index.m3u8
-#EXTINF:-1,tvg-id="chW" tvg-name="chW" tvg-logo="https://11.112114.xyz/logo/CHW.png" group-title="韓國頻道",chW
+#EXTINF:-1 tvg-id="chW" tvg-name="chW" tvg-logo="https://11.112114.xyz/logo/CHW.png" group-title="韓國頻道",chW
 http://1.217.92.34/hls/30/index.m3u8
-#EXTINF:-1,tvg-id="PATTERN" tvg-name="PATTERN" tvg-logo="https://11.112114.xyz/logo/PATTERN.png" group-title="韓國頻道",PATTERN
+#EXTINF:-1 tvg-id="PATTERN" tvg-name="PATTERN" tvg-logo="https://11.112114.xyz/logo/PATTERN.png" group-title="韓國頻道",PATTERN
 http://1.217.92.34/hls/31/index.m3u8
-#EXTINF:-1,tvg-id="순장바둑" tvg-name="순장바둑" tvg-logo="https://11.112114.xyz/logo/순장바둑.png" group-title="韓國頻道",순장바둑
+#EXTINF:-1 tvg-id="순장바둑" tvg-name="순장바둑" tvg-logo="https://11.112114.xyz/logo/순장바둑.png" group-title="韓國頻道",순장바둑
 http://1.217.92.34/hls/32/index.m3u8
-#EXTINF:-1,tvg-id="장기" tvg-name="장기" tvg-logo="https://11.112114.xyz/logo/장기.png" group-title="韓國頻道",장기
+#EXTINF:-1 tvg-id="장기" tvg-name="장기" tvg-logo="https://11.112114.xyz/logo/장기.png" group-title="韓國頻道",장기
 http://1.217.92.34/hls/33/index.m3u8
-#EXTINF:-1,tvg-id="SCREEN 5" tvg-name="SCREEN 5" tvg-logo="https://11.112114.xyz/logo/SCREEN5.png" group-title="韓國頻道",SCREEN 5
+#EXTINF:-1 tvg-id="SCREEN 5" tvg-name="SCREEN 5" tvg-logo="https://11.112114.xyz/logo/SCREEN5.png" group-title="韓國頻道",SCREEN 5
 http://1.217.92.34/hls/34/index.m3u8
-#EXTINF:-1,tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://11.112114.xyz/logo/SPOTV2.png" group-title="韓國頻道",SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://11.112114.xyz/logo/SPOTV2.png" group-title="韓國頻道",SPOTV 2
 http://1.217.92.34/hls/35/index.m3u8
-#EXTINF:-1,tvg-id="SKY SPORTS" tvg-name="SKY SPORTS" tvg-logo="https://11.112114.xyz/logo/SKYSPORTS.png" group-title="韓國頻道",SKY SPORTS
+#EXTINF:-1 tvg-id="SKY SPORTS" tvg-name="SKY SPORTS" tvg-logo="https://11.112114.xyz/logo/SKYSPORTS.png" group-title="韓國頻道",SKY SPORTS
 http://1.217.92.34/hls/36/index.m3u8
-#EXTINF:-1,tvg-id="KBSN SPORTS" tvg-name="KBSN SPORTS" tvg-logo="https://11.112114.xyz/logo/KBSNSPORTS.png" group-title="韓國頻道",KBSN SPORTS
+#EXTINF:-1 tvg-id="KBSN SPORTS" tvg-name="KBSN SPORTS" tvg-logo="https://11.112114.xyz/logo/KBSNSPORTS.png" group-title="韓國頻道",KBSN SPORTS
 http://1.217.92.34/hls/37/index.m3u8
-#EXTINF:-1,tvg-id="MBC SPORTS+" tvg-name="MBC SPORTS+" tvg-logo="https://11.112114.xyz/logo/MBCSPORTS+.png" group-title="韓國頻道",MBC SPORTS+
+#EXTINF:-1 tvg-id="MBC SPORTS+" tvg-name="MBC SPORTS+" tvg-logo="https://11.112114.xyz/logo/MBCSPORTS+.png" group-title="韓國頻道",MBC SPORTS+
 http://1.217.92.34/hls/39/index.m3u8
-#EXTINF:-1,tvg-id="JBBC GOLF" tvg-name="JBBC GOLF" tvg-logo="https://11.112114.xyz/logo/JBBCGOLF.png" group-title="韓國頻道",JBBC GOLF
+#EXTINF:-1 tvg-id="JBBC GOLF" tvg-name="JBBC GOLF" tvg-logo="https://11.112114.xyz/logo/JBBCGOLF.png" group-title="韓國頻道",JBBC GOLF
 http://1.217.92.34/hls/40/index.m3u8
-#EXTINF:-1,tvg-id="JBBC GOLF 2" tvg-name="JBBC GOLF 2" tvg-logo="https://11.112114.xyz/logo/JBBCGOLF2.png" group-title="韓國頻道",JBBC GOLF 2
+#EXTINF:-1 tvg-id="JBBC GOLF 2" tvg-name="JBBC GOLF 2" tvg-logo="https://11.112114.xyz/logo/JBBCGOLF2.png" group-title="韓國頻道",JBBC GOLF 2
 http://1.217.92.34/hls/41/index.m3u8
-#EXTINF:-1,tvg-id="IB SPORTS" tvg-name="IB SPORTS" tvg-logo="https://11.112114.xyz/logo/IBSPORTS.png" group-title="韓國頻道",IB SPORTS
+#EXTINF:-1 tvg-id="IB SPORTS" tvg-name="IB SPORTS" tvg-logo="https://11.112114.xyz/logo/IBSPORTS.png" group-title="韓國頻道",IB SPORTS
 http://1.217.92.34/hls/42/index.m3u8
-#EXTINF:-1,tvg-id="SPOTV 4" tvg-name="SPOTV 4" tvg-logo="https://11.112114.xyz/logo/SPOTV4.png" group-title="韓國頻道",SPOTV 4
+#EXTINF:-1 tvg-id="SPOTV 4" tvg-name="SPOTV 4" tvg-logo="https://11.112114.xyz/logo/SPOTV4.png" group-title="韓國頻道",SPOTV 4
 http://1.217.92.34/hls/43/index.m3u8
-#EXTINF:-1,tvg-id="JBBC UFC" tvg-name="JBBC UFC" tvg-logo="https://11.112114.xyz/logo/JBBCUFC.png" group-title="韓國頻道",JBBC UFC
+#EXTINF:-1 tvg-id="JBBC UFC" tvg-name="JBBC UFC" tvg-logo="https://11.112114.xyz/logo/JBBCUFC.png" group-title="韓國頻道",JBBC UFC
 http://1.217.92.34/hls/44/index.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN SPORTS
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN SPORTS
 http://1.217.92.34/hls/45/index.m3u8
-#EXTINF:-1,tvg-id="SPOTV Prime" tvg-name="SPOTV Prime" tvg-logo="https://11.112114.xyz/logo/SPOTVPRIME.png" group-title="韓國頻道",SPOTV Prime
+#EXTINF:-1 tvg-id="SPOTV Prime" tvg-name="SPOTV Prime" tvg-logo="https://11.112114.xyz/logo/SPOTVPRIME.png" group-title="韓國頻道",SPOTV Prime
 http://1.217.92.34/hls/46/index.m3u8
-#EXTINF:-1,tvg-id="SPOTV Prime 2" tvg-name="SPOTV Prime 2" tvg-logo="https://11.112114.xyz/logo/SPOTVPRIME2.png" group-title="韓國頻道",SPOTV Prime 2
+#EXTINF:-1 tvg-id="SPOTV Prime 2" tvg-name="SPOTV Prime 2" tvg-logo="https://11.112114.xyz/logo/SPOTVPRIME2.png" group-title="韓國頻道",SPOTV Prime 2
 http://1.217.92.34/hls/47/index.m3u8
-#EXTINF:-1,tvg-id="CBS" tvg-name="CBS" tvg-logo="https://11.112114.xyz/logo/CBS.png" group-title="韓國頻道",CBS
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://11.112114.xyz/logo/CBS.png" group-title="韓國頻道",CBS
 http://1.217.92.34/hls/48/index.m3u8
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://11.112114.xyz/logo/ARIRANGTV.png" group-title="韓國頻道",G tv
+#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://11.112114.xyz/logo/ARIRANGTV.png" group-title="韓國頻道",G tv
 http://1.217.92.34/hls/49/index.m3u8
-#EXTINF:-1,tvg-id="KBs Jou" tvg-name="KBs Jou" tvg-logo="https://11.112114.xyz/logo/KBSJOU.png" group-title="韓國頻道",KBs Jou
+#EXTINF:-1 tvg-id="KBs Jou" tvg-name="KBs Jou" tvg-logo="https://11.112114.xyz/logo/KBSJOU.png" group-title="韓國頻道",KBs Jou
 http://1.217.92.34/hls/50/index.m3u8
-#EXTINF:-1,tvg-id="Baseball SPORTS" tvg-name="Baseball SPORTS" tvg-logo="https://11.112114.xyz/logo/BASEBALLSPORTS.png" group-title="韓國頻道",Baseball SPORTS
+#EXTINF:-1 tvg-id="Baseball SPORTS" tvg-name="Baseball SPORTS" tvg-logo="https://11.112114.xyz/logo/BASEBALLSPORTS.png" group-title="韓國頻道",Baseball SPORTS
 http://1.217.92.34/hls/51/index.m3u8
-#EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://11.112114.xyz/logo/KOREATV.png" group-title="韓國頻道",Korea TV
+#EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://11.112114.xyz/logo/KOREATV.png" group-title="韓國頻道",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC 综艺频道" tvg-name="MBC 综艺频道" tvg-logo="https://11.112114.xyz/logo/MBC综艺.png" group-title="韓國頻道",MBC 综艺频道
+#EXTINF:-1 tvg-id="MBC 综艺频道" tvg-name="MBC 综艺频道" tvg-logo="https://11.112114.xyz/logo/MBC综艺.png" group-title="韓國頻道",MBC 综艺频道
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1,tvg-id="NBS 农业广播" tvg-name="NBS 农业广播" tvg-logo="https://11.112114.xyz/logo/NBS农业广播.png" group-title="韓國頻道",NBS 农业广播
+#EXTINF:-1 tvg-id="NBS 农业广播" tvg-name="NBS 农业广播" tvg-logo="https://11.112114.xyz/logo/NBS农业广播.png" group-title="韓國頻道",NBS 农业广播
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1,tvg-id="SBS 清州放送" tvg-name="SBS 清州放送" tvg-logo="https://11.112114.xyz/logo/SBS清州放送.png" group-title="韓國頻道",SBS 清州放送
+#EXTINF:-1 tvg-id="SBS 清州放送" tvg-name="SBS 清州放送" tvg-logo="https://11.112114.xyz/logo/SBS清州放送.png" group-title="韓國頻道",SBS 清州放送
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1,tvg-id="TBS Seoul" tvg-name="TBS Seoul" tvg-logo="https://11.112114.xyz/logo/TBSSEOUL.png" group-title="韓國頻道",TBS Seoul
+#EXTINF:-1 tvg-id="TBS Seoul" tvg-name="TBS Seoul" tvg-logo="https://11.112114.xyz/logo/TBSSEOUL.png" group-title="韓國頻道",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://11.112114.xyz/logo/华艺MBC.png" group-title="韓國頻道",MBC
+#EXTINF:-1 tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://11.112114.xyz/logo/华艺MBC.png" group-title="韓國頻道",MBC
 http://mytv.dothome.co.kr/ch/public/5.php
-#EXTINF:-1,tvg-id="MBC-목포" tvg-name="MBC-목포" tvg-logo="https://11.112114.xyz/logo/MBC목포.png" group-title="韓國頻道",MBC-목포
+#EXTINF:-1 tvg-id="MBC-목포" tvg-name="MBC-목포" tvg-logo="https://11.112114.xyz/logo/MBC목포.png" group-title="韓國頻道",MBC-목포
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC-춘천" tvg-name="MBC-춘천" tvg-logo="https://11.112114.xyz/logo/MBC춘천.png" group-title="韓國頻道",MBC-춘천
+#EXTINF:-1 tvg-id="MBC-춘천" tvg-name="MBC-춘천" tvg-logo="https://11.112114.xyz/logo/MBC춘천.png" group-title="韓國頻道",MBC-춘천
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC-대구" tvg-name="MBC-대구" tvg-logo="https://11.112114.xyz/logo/MBC대구.png" group-title="韓國頻道",MBC-대구
+#EXTINF:-1 tvg-id="MBC-대구" tvg-name="MBC-대구" tvg-logo="https://11.112114.xyz/logo/MBC대구.png" group-title="韓國頻道",MBC-대구
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC-제주" tvg-name="MBC-제주" tvg-logo="https://11.112114.xyz/logo/MBC제주.png" group-title="韓國頻道",MBC-제주
+#EXTINF:-1 tvg-id="MBC-제주" tvg-name="MBC-제주" tvg-logo="https://11.112114.xyz/logo/MBC제주.png" group-title="韓國頻道",MBC-제주
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://11.112114.xyz/logo/MBC여수.png" group-title="韓國頻道",MBC-여수
+#EXTINF:-1 tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://11.112114.xyz/logo/MBC여수.png" group-title="韓國頻道",MBC-여수
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
@@ -7872,7 +7872,7 @@ https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id
 
 
 
-#EXTINF:-1 group-title="電影輪播", 哆啦A夢
+#EXTINF:-1 group-title="電影輪播",多啦A夢
 https://live.iill.top/huya.php?id=11601963
 #EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://epg.112114.xyz/logo/名侦探柯南.png" group-title="電影輪播",名侦探柯南
 http://live.iill.top/huya.php?id=30080236
@@ -16963,600 +16963,600 @@ https://fc.maa1801.com/d/fhctzryess/fhctzryess.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36185.jpg" group-title="1pondo",113017_612
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36185.jpg" group-title="1pondo ADULT",113017_612
 https://v.imgstream2.com/f/pzohakwafr/pzohakwafr.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH68619.jpg" group-title="1pondo",032517_505
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH68619.jpg" group-title="1pondo ADULT",032517_505
 https://v.imgstream2.com/f/cllftifosy/cllftifosy.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36441.jpg" group-title="1pondo",020417-367
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36441.jpg" group-title="1pondo ADULT",020417-367
 https://v.imgstream2.com/m/gfcxlkekjk/gfcxlkekjk.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36177.jpg" group-title="1pondo",110917_603
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36177.jpg" group-title="1pondo ADULT",110917_603
 https://v.imgstream2.com/e/ixaobvrqds/ixaobvrqds.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36387.jpg" group-title="1pondo",061017-442
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36387.jpg" group-title="1pondo ADULT",061017-442
 https://v.imgstream2.com/e/qtvrbyxcrb/qtvrbyxcrb.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37327.jpg" group-title="1pondo",060518-680
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37327.jpg" group-title="1pondo ADULT",060518-680
 https://v.imgstream2.com/m/iqgojvsnkk/iqgojvsnkk.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37044.jpg" group-title="1pondo",051518_687
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37044.jpg" group-title="1pondo ADULT",051518_687
 https://v.imgstream2.com/m/oqmopwjnlj/oqmopwjnlj.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37885.jpg" group-title="1pondo",042619-903
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37885.jpg" group-title="1pondo ADULT",042619-903
 https://v.imgstream2.com/m/knvfiolkuq/knvfiolkuq.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37884.jpg" group-title="1pondo",071715_008
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37884.jpg" group-title="1pondo ADULT",071715_008
 https://v.imgstream2.com/d/pltgukhrqp/pltgukhrqp.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/37/CH36097_1-6.jpg" group-title="1pondo",050617_523
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/37/CH36097_1-6.jpg" group-title="1pondo ADULT",050617_523
 https://v.imgstream2.com/m/ofktrsbnkk/ofktrsbnkk.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37876.jpg" group-title="1pondo",040619-891
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37876.jpg" group-title="1pondo ADULT",040619-891
 https://v.imgstream2.com/b/isjjpqsmrm/isjjpqsmrm.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36358.jpg" group-title="1pondo",040717-409
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36358.jpg" group-title="1pondo ADULT",040717-409
 https://v.imgstream2.com/f/bdxwuetqxh/bdxwuetqxh.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37720.jpg" group-title="1pondo",042719_839
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37720.jpg" group-title="1pondo ADULT",042719_839
 https://v.imgstream2.com/f/frtplrpmjr/frtplrpmjr.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37873.jpg" group-title="1pondo",032619-884
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37873.jpg" group-title="1pondo ADULT",032619-884
 https://v.imgstream2.com/n/rojulmmcui/rojulmmcui.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36486.jpg" group-title="1pondo",122117-560
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36486.jpg" group-title="1pondo ADULT",122117-560
 https://v.imgstream2.com/m/vldvxjimki/vldvxjimki.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37929.jpg" group-title="1pondo",121918-813
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37929.jpg" group-title="1pondo ADULT",121918-813
 https://v.imgstream2.com/g/srmpilknqm/srmpilknqm.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35654.jpg" group-title="1pondo",122216-329
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35654.jpg" group-title="1pondo ADULT",122216-329
 https://v.imgstream2.com/m/umgxlrnjnz/umgxlrnjnz.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37382.jpg" group-title="1pondo",090218-744
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37382.jpg" group-title="1pondo ADULT",090218-744
 https://v.imgstream2.com/c/kmiorrpitk/kmiorrpitk.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36433.jpg" group-title="1pondo",090217-492
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36433.jpg" group-title="1pondo ADULT",090217-492
 https://v.imgstream2.com/m/adoemvyzil/adoemvyzil.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37381.jpg" group-title="1pondo",090118-743
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37381.jpg" group-title="1pondo ADULT",090118-743
 https://v.imgstream2.com/b/oxgcplmori/oxgcplmori.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37377.jpg" group-title="1pondo",082418-737
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37377.jpg" group-title="1pondo ADULT",082418-737
 https://v.imgstream2.com/c/mksgloppuo/mksgloppuo.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36423.jpg" group-title="1pondo",081517-479
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36423.jpg" group-title="1pondo ADULT",081517-479
 https://v.imgstream2.com/b/zmindwvmqr/zmindwvmqr.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37366.jpg" group-title="1pondo",081118-725
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37366.jpg" group-title="1pondo ADULT",081118-725
 https://v.imgstream2.com/b/nipnnqiqlp/nipnnqiqlp.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36421.jpg" group-title="1pondo",081117-477
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36421.jpg" group-title="1pondo ADULT",081117-477
 https://v.imgstream2.com/c/avmrmbmugl/avmrmbmugl.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37350.jpg" group-title="1pondo",071718-709
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37350.jpg" group-title="1pondo ADULT",071718-709
 https://v.imgstream2.com/m/nnkegqpqiv/nnkegqpqiv.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37334.jpg" group-title="1pondo",061918-688
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37334.jpg" group-title="1pondo ADULT",061918-688
 https://v.imgstream2.com/n/jkkonisjkt/jkkonisjkt.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36360.jpg" group-title="1pondo",041117-411
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36360.jpg" group-title="1pondo ADULT",041117-411
 https://v.imgstream2.com/b/vmfmgumpyd/vmfmgumpyd.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37289.jpg" group-title="1pondo",033118-632
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37289.jpg" group-title="1pondo ADULT",033118-632
 https://v.imgstream2.com/e/mpnsnppgqp/mpnsnppgqp.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37287.jpg" group-title="1pondo",032718-629
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37287.jpg" group-title="1pondo ADULT",032718-629
 https://v.imgstream2.com/b/sjqipgviul/sjqipgviul.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37873.jpg" group-title="1pondo",032619-884
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37873.jpg" group-title="1pondo ADULT",032619-884
 https://v.imgstream2.com/n/rojulmmcui/rojulmmcui.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37284.jpg" group-title="1pondo",032018-625
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37284.jpg" group-title="1pondo ADULT",032018-625
 https://v.imgstream2.com/g/mswmgdnlfm/mswmgdnlfm.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37279.jpg" group-title="1pondo",031018-619
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37279.jpg" group-title="1pondo ADULT",031018-619
 https://v.imgstream2.com/f/fpjpuqljpj/fpjpuqljpj.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36344.jpg" group-title="1pondo",030717-387
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36344.jpg" group-title="1pondo ADULT",030717-387
 https://v.imgstream2.com/f/fvezbnadln/fvezbnadln.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36336.jpg" group-title="1pondo",022217-378
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36336.jpg" group-title="1pondo ADULT",022217-378
 https://v.imgstream2.com/h/yavkhrsuut/yavkhrsuut.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37855.jpg" group-title="1pondo",022119-864
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37855.jpg" group-title="1pondo ADULT",022119-864
 https://v.imgstream2.com/b/oplkmljlrp/oplkmljlrp.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36332.jpg" group-title="1pondo",021517-374
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36332.jpg" group-title="1pondo ADULT",021517-374
 https://v.imgstream2.com/g/pzyjnrrlii/pzyjnrrlii.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37852.jpg" group-title="1pondo",021219-858
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37852.jpg" group-title="1pondo ADULT",021219-858
 https://v.imgstream2.com/g/pfqpmrpnum/pfqpmrpnum.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37266.jpg" group-title="1pondo",021118-602
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37266.jpg" group-title="1pondo ADULT",021118-602
 https://v.imgstream2.com/c/mpkipnonup/mpkipnonup.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36330.jpg" group-title="1pondo",021117-371
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36330.jpg" group-title="1pondo ADULT",021117-371
 https://v.imgstream2.com/h/twfmmpobii/twfmmpobii.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35634.jpg" group-title="1pondo",020117-364
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35634.jpg" group-title="1pondo ADULT",020117-364
 https://v.imgstream2.com/c/zupqpqsmqj/zupqpqsmqj.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37844.jpg" group-title="1pondo",013019-850
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37844.jpg" group-title="1pondo ADULT",013019-850
 https://v.imgstream2.com/b/eomtmpokkj/eomtmpokkj.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37259.jpg" group-title="1pondo",012718-593
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37259.jpg" group-title="1pondo ADULT",012718-593
 https://v.imgstream2.com/b/jhnkjmiikg/jhnkjmiikg.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37257.jpg" group-title="1pondo",012318-589
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37257.jpg" group-title="1pondo ADULT",012318-589
 https://v.imgstream2.com/n/okjmiigqsr/okjmiigqsr.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37244.jpg" group-title="1pondo",010618-575
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37244.jpg" group-title="1pondo ADULT",010618-575
 https://v.imgstream2.com/m/npmloonnmi/npmloonnmi.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24683.jpg" group-title="1pondo",122615-055-001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24683.jpg" group-title="1pondo ADULT",122615-055-001
 https://v.imgstream2.com/d/pvsgfmqtkq/pvsgfmqtkq.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24681.jpg" group-title="1pondo",122415-053 (Shemate)
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24681.jpg" group-title="1pondo ADULT",122415-053 (Shemate)
 https://v.imgstream2.com/h/tvgcgjdiml/tvgcgjdiml.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24670.jpg" group-title="1pondo",120915-041
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24670.jpg" group-title="1pondo ADULT",120915-041
 https://v.imgstream2.com/c/dixfsussjs/dixfsussjs.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24653.jpg" group-title="1pondo",111415-022 Debut Vol.25
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24653.jpg" group-title="1pondo ADULT",111415-022 Debut Vol.25
 https://v.imgstream2.com/b/ccleatvidx/ccleatvidx.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30901.jpg" group-title="1pondo",082116-237
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30901.jpg" group-title="1pondo ADULT",082116-237
 https://v.imgstream2.com/f/ytpmskucen/ytpmskucen.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30900.jpg" group-title="1pondo",081816-234
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30900.jpg" group-title="1pondo ADULT",081816-234
 https://v.imgstream2.com/m/ktptyyesdi/ktptyyesdi.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24601.jpg" group-title="1pondo",090115-961
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24601.jpg" group-title="1pondo ADULT",090115-961
 https://v.imgstream2.com/d/kalprufmim/kalprufmim.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30873.jpg" group-title="1pondo",101016-278
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30873.jpg" group-title="1pondo ADULT",101016-278
 https://v.imgstream2.com/n/zdzxtluovx/zdzxtluovx.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23892.jpg" group-title="1pondo",080715-940
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23892.jpg" group-title="1pondo ADULT",080715-940
 https://v.imgstream2.com/n/bniezlvsun/bniezlvsun.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30854.jpg" group-title="1pondo",091816-260
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30854.jpg" group-title="1pondo ADULT",091816-260
 https://v.imgstream2.com/b/ypvctxnsha/ypvctxnsha.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23167.jpg" group-title="1pondo",070415-913
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23167.jpg" group-title="1pondo ADULT",070415-913
 https://v.imgstream2.com/m/edpfrbrrjn/edpfrbrrjn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23149.jpg" group-title="1pondo",060615-894
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23149.jpg" group-title="1pondo ADULT",060615-894
 https://v.imgstream2.com/d/rnxmiymqqm/rnxmiymqqm.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30331.jpg" group-title="1pondo",070516-200
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30331.jpg" group-title="1pondo ADULT",070516-200
 https://v.imgstream2.com/b/qlzltbubrr/qlzltbubrr.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24592.jpg" group-title="1pondo",010816_068
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24592.jpg" group-title="1pondo ADULT",010816_068
 https://v.imgstream2.com/m/omftskuxle/omftskuxle.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24588.jpg" group-title="1pondo",010416-063
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24588.jpg" group-title="1pondo ADULT",010416-063
 https://v.imgstream2.com/b/lkqpwfrgfn/lkqpwfrgfn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25366.jpg" group-title="1pondo",122615-055
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25366.jpg" group-title="1pondo ADULT",122615-055
 https://v.imgstream2.com/m/wagqrymtgc/wagqrymtgc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25356.jpg" group-title="1pondo",041416-137
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25356.jpg" group-title="1pondo ADULT",041416-137
 https://v.imgstream2.com/m/sukozsnelp/sukozsnelp.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25329.jpg" group-title="1pondo",030116-107
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25329.jpg" group-title="1pondo ADULT",030116-107
 https://v.imgstream2.com/d/jvqorvbyyb/jvqorvbyyb.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25313.jpg" group-title="1pondo",020216-087
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH25313.jpg" group-title="1pondo ADULT",020216-087
 https://v.imgstream2.com/m/vjdxkhohfp/vjdxkhohfp.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg" group-title="1pondo",020616-091
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg" group-title="1pondo ADULT",020616-091
 https://v.imgstream2.com/f/uheuxmmxcj/uheuxmmxcj.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH08365.jpg" group-title="1pondo",102312-164 SNS
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH08365.jpg" group-title="1pondo ADULT",102312-164 SNS
 https://v.imgstream2.com/m/uchdcltiol/uchdcltiol.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19611.jpg" group-title="1pondo",052814-609
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19611.jpg" group-title="1pondo ADULT",052814-609
 https://v.imgstream2.com/f/stasfhodif/stasfhodif.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH21628.jpg" group-title="1pondo",022615-816
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH21628.jpg" group-title="1pondo ADULT",022615-816
 https://v.imgstream2.com/e/tzlddgimcn/tzlddgimcn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20435.jpg" group-title="1pondo",101814-715
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20435.jpg" group-title="1pondo ADULT",101814-715
 https://v.imgstream2.com/h/fbbiiehlic/fbbiiehlic.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15468.jpg" group-title="1pondo",042013-317
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15468.jpg" group-title="1pondo ADULT",042013-317
 https://v.imgstream2.com/f/nkexdqkqyd/nkexdqkqyd.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH10002.jpg" group-title="1pondo",010713-231
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH10002.jpg" group-title="1pondo ADULT",010713-231
 https://v.imgstream2.com/n/fhodduulaa/fhodduulaa.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20117.jpg" group-title="1pondo",081314-665 96CM
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20117.jpg" group-title="1pondo ADULT",081314-665 96CM
 https://v.imgstream2.com/e/qceilhdacl/qceilhdacl.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30737.jpg" group-title="1pondo",101416_405
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30737.jpg" group-title="1pondo ADULT",101416_405
 https://v.imgstream2.com/b/gfxmpvuzgp/gfxmpvuzgp.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30196.jpg" group-title="1pondo",061116_315
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30196.jpg" group-title="1pondo ADULT",061116_315
 https://v.imgstream2.com/c/zhqflrvagh/zhqflrvagh.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH03856.jpg" group-title="1pondo",100711_190
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH03856.jpg" group-title="1pondo ADULT",100711_190
 https://v.imgstream2.com/g/gfataosddo/gfataosddo.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19679.jpg" group-title="1pondo",062814_835
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19679.jpg" group-title="1pondo ADULT",062814_835
 https://v.imgstream2.com/n/cciiffbcdb/cciiffbcdb.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18169.jpg" group-title="1pondo",113013_707
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18169.jpg" group-title="1pondo ADULT",113013_707
 https://v.imgstream2.com/f/eaooaeotee/eaooaeotee.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20737.jpg" group-title="1pondo",DSAM-57
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20737.jpg" group-title="1pondo ADULT",DSAM-57
 https://v.imgstream2.com/d/vpcfaqmzio/vpcfaqmzio.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35563.jpg" group-title="1pondo",122816_453
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35563.jpg" group-title="1pondo ADULT",122816_453
 https://v.imgstream2.com/c/ggioidnjzv/ggioidnjzv.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35561.jpg" group-title="1pondo",122416_451
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35561.jpg" group-title="1pondo ADULT",122416_451
 https://v.imgstream2.com/e/iwmsvjszum/iwmsvjszum.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35559.jpg" group-title="1pondo",122216_449
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35559.jpg" group-title="1pondo ADULT",122216_449
 https://v.imgstream2.com/m/nlgnjfgocv/nlgnjfgocv.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37752.jpg" group-title="1pondo",120618_779
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37752.jpg" group-title="1pondo ADULT",120618_779
 https://v.imgstream2.com/n/hnkknknkql/hnkknknkql.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35546.jpg" group-title="1pondo",112616_435
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35546.jpg" group-title="1pondo ADULT",112616_435
 https://v.imgstream2.com/n/mcnwrfklfp/mcnwrfklfp.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37362.jpg" group-title="1pondo",080918-002
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37362.jpg" group-title="1pondo ADULT",080918-002
 https://v.imgstream2.com/g/rtelingfvh/rtelingfvh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36161.jpg" group-title="1pondo",100317_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36161.jpg" group-title="1pondo ADULT",100317_001
 https://v.imgstream2.com/e/ganqalkwlc/ganqalkwlc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36085.jpg" group-title="1pondo",041317_511
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36085.jpg" group-title="1pondo ADULT",041317_511
 https://v.imgstream2.com/h/phpxfwjmjv/phpxfwjmjv.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37733.jpg" group-title="1pondo",102518_760
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37733.jpg" group-title="1pondo ADULT",102518_760
 https://v.imgstream2.com/c/djpkstllvq/djpkstllvq.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37704.jpg" group-title="1pondo",031619_822
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37704.jpg" group-title="1pondo ADULT",031619_822
 https://v.imgstream2.com/d/nnsppjlpki/nnsppjlpki.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35538.jpg" group-title="1pondo",012717_472
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35538.jpg" group-title="1pondo ADULT",012717_472
 https://v.imgstream2.com/g/sqmenioqik/sqmenioqik.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24736.jpg" group-title="1pondo",070415_109
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24736.jpg" group-title="1pondo ADULT",070415_109
 https://v.imgstream2.com/g/oplgqtiekh/oplgqtiekh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24708.jpg" group-title="1pondo",050115_071
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24708.jpg" group-title="1pondo ADULT",050115_071
 https://v.imgstream2.com/d/jdvhvhzvme/jdvhvhzvme.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24705.jpg" group-title="1pondo",052315_085
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24705.jpg" group-title="1pondo ADULT",052315_085
 https://v.imgstream2.com/h/thzuyfmhgn/thzuyfmhgn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30357.jpg" group-title="1pondo",031216_261
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30357.jpg" group-title="1pondo ADULT",031216_261
 https://v.imgstream2.com/g/whauznmlmn/whauznmlmn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30351.jpg" group-title="1pondo",032416_267
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30351.jpg" group-title="1pondo ADULT",032416_267
 https://v.imgstream2.com/c/wqkwnwoexd/wqkwnwoexd.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24500.jpg" group-title="1pondo",122515_215
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24500.jpg" group-title="1pondo ADULT",122515_215
 https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18940.jpg" group-title="1pondo",040114_782
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18940.jpg" group-title="1pondo ADULT",040114_782
 https://v.imgstream2.com/d/zctobdhtab/zctobdhtab.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH47959.jpg" group-title="1pondo",060218_695
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH47959.jpg" group-title="1pondo ADULT",060218_695
 https://v.imgstream2.com/a/uiderhzccz/uiderhzccz.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36885.jpg" group-title="HEYZO",HEYZO-1791
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36885.jpg" group-title="HEYZO ADULT",HEYZO-1791
 https://v.imgstream2.com/d/jcgjcwwxvo/jcgjcwwxvo.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37413.jpg" group-title="HEYZO",HEYZO-0500
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37413.jpg" group-title="HEYZO ADULT",HEYZO-0500
 https://v.imgstream2.com/c/jnviroonns/jnviroonns.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37625.jpg" group-title="HEYZO",HEYZO-1982
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37625.jpg" group-title="HEYZO ADULT",HEYZO-1982
 https://v.imgstream2.com/g/futinomptf/futinomptf.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37572.jpg" group-title="HEYZO",HEYZO-1898
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37572.jpg" group-title="HEYZO ADULT",HEYZO-1898
 https://v.imgstream2.com/c/ovpkknhgij/ovpkknhgij.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37556.jpg" group-title="HEYZO",HEYZO-1867
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37556.jpg" group-title="HEYZO ADULT",HEYZO-1867
 https://v.imgstream2.com/f/jsikolsmok/jsikolsmok.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37555.jpg" group-title="HEYZO",HEYZO-1865
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37555.jpg" group-title="HEYZO ADULT",HEYZO-1865
 https://v.imgstream2.com/b/ngontjhsqo/ngontjhsqo.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36893.jpg" group-title="HEYZO",HEYZO-1802
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36893.jpg" group-title="HEYZO ADULT",HEYZO-1802
 https://v.imgstream2.com/h/wslnatlmqo/wslnatlmqo.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36797.jpg" group-title="HEYZO",HEYZO-1681
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36797.jpg" group-title="HEYZO ADULT",HEYZO-1681
 https://v.imgstream2.com/d/yiumolahdw/yiumolahdw.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31101.jpg" group-title="HEYZO",HEYZO-1597
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31101.jpg" group-title="HEYZO ADULT",HEYZO-1597
 https://v.imgstream2.com/g/jsmnukakej/jsmnukakej.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31049.jpg" group-title="HEYZO",HEYZO-1531
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31049.jpg" group-title="HEYZO ADULT",HEYZO-1531
 https://v.imgstream2.com/n/dfsmqefkde/dfsmqefkde.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH31002.jpg" group-title="HEYZO",HEYZO-1465
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH31002.jpg" group-title="HEYZO ADULT",HEYZO-1465
 https://v.imgstream2.com/c/jdxahfzbnn/jdxahfzbnn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30366.jpg" group-title="HEYZO",HEYZO-1137
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30366.jpg" group-title="HEYZO ADULT",HEYZO-1137
 https://v.imgstream2.com/f/kzcowytmxh/kzcowytmxh.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30625.jpg" group-title="HEYZO",HEYZO-1306
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30625.jpg" group-title="HEYZO ADULT",HEYZO-1306
 https://v.imgstream2.com/c/mdpegmoywh/mdpegmoywh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30073.jpg" group-title="HEYZO",HEYZO-1200
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30073.jpg" group-title="HEYZO ADULT",HEYZO-1200
 https://v.imgstream2.com/n/qqbeytpmsk/qqbeytpmsk.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30077.jpg" group-title="HEYZO",HEYZO-1206
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30077.jpg" group-title="HEYZO ADULT",HEYZO-1206
 https://v.imgstream2.com/g/vsyzvnmjtz/vsyzvnmjtz.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30060.jpg" group-title="HEYZO",HEYZO-1184
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30060.jpg" group-title="HEYZO ADULT",HEYZO-1184
 https://v.imgstream2.com/e/kpeoqktzlt/kpeoqktzlt.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30029.jpg" group-title="HEYZO",HEYZO-1147
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30029.jpg" group-title="HEYZO ADULT",HEYZO-1147
 https://v.imgstream2.com/h/dupxypvctx/dupxypvctx.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24224.jpg" group-title="HEYZO",HEYZO-0960
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24224.jpg" group-title="HEYZO ADULT",HEYZO-0960
 https://v.imgstream2.com/c/zzxqncpyfv/zzxqncpyfv.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24205.jpg" group-title="HEYZO",HEYZO-0933
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24205.jpg" group-title="HEYZO ADULT",HEYZO-0933
 https://v.imgstream2.com/n/lbbcyteloq/lbbcyteloq.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23519.jpg" group-title="HEYZO",HEYZO-0907
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23519.jpg" group-title="HEYZO ADULT",HEYZO-0907
 https://v.imgstream2.com/g/ogkeyrdcnj/ogkeyrdcnj.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH22937.jpg" group-title="HEYZO",HEYZO-0881
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH22937.jpg" group-title="HEYZO ADULT",HEYZO-0881
 https://v.imgstream2.com/c/jdhscqsmub/jdhscqsmub.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19823.jpg" group-title="HEYZO",HEY-035
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19823.jpg" group-title="HEYZO ADULT",HEY-035
 https://v.imgstream2.com/n/qohdisbicd/qohdisbicd.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18890.jpg" group-title="HEYZO",HEYZO-0585
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH18890.jpg" group-title="HEYZO ADULT",HEYZO-0585
 https://v.imgstream2.com/n/mcfatltses/mcfatltses.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19722.jpg" group-title="HEYZO",HEYZO-0655
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19722.jpg" group-title="HEYZO ADULT",HEYZO-0655
 https://v.imgstream2.com/e/patecdhadc/patecdhadc.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15022.jpg" group-title="HEYZO",HEYZO-0372
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15022.jpg" group-title="HEYZO ADULT",HEYZO-0372
 https://v.imgstream2.com/n/xqfhffexmh/xqfhffexmh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18126.jpg" group-title="HEYZO",HEYZO-0459
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18126.jpg" group-title="HEYZO ADULT",HEYZO-0459
 https://v.imgstream2.com/g/ioaleeshil/ioaleeshil.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH17965.jpg" group-title="HEYZO",HEYZO-0444
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH17965.jpg" group-title="HEYZO ADULT",HEYZO-0444
 https://v.imgstream2.com/f/iisccdluhc/iisccdluhc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30965.jpg" group-title="HEYZO",HEYZO-1420
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30965.jpg" group-title="HEYZO ADULT",HEYZO-1420
 https://v.imgstream2.com/c/eprstelhxd/eprstelhxd.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30996.jpg" group-title="HEYZO",HEYZO-1458
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30996.jpg" group-title="HEYZO ADULT",HEYZO-1458
 https://v.imgstream2.com/e/fhhxguhfbp/fhhxguhfbp.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30640.jpg" group-title="HEYZO",HEYZO-1329
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30640.jpg" group-title="HEYZO ADULT",HEYZO-1329
 https://v.imgstream2.com/n/xrwbaylqxo/xrwbaylqxo.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35460.jpg" group-title="HEYZO",HEYZO-1361
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35460.jpg" group-title="HEYZO ADULT",HEYZO-1361
 https://v.imgstream2.com/n/jrbgmqhrqf/jrbgmqhrqf.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35469.jpg" group-title="HEYZO",HEYZO-1371
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35469.jpg" group-title="HEYZO ADULT",HEYZO-1371
 https://v.imgstream2.com/h/xaolnldlvw/xaolnldlvw.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35474.jpg" group-title="HEYZO",HEYZO-1377
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35474.jpg" group-title="HEYZO ADULT",HEYZO-1377
 https://v.imgstream2.com/d/sjgbiprpyg/sjgbiprpyg.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35476.jpg" group-title="HEYZO",HEYZO-1380
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35476.jpg" group-title="HEYZO ADULT",HEYZO-1380
 https://v.imgstream2.com/e/rwanvyeluj/rwanvyeluj.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36809.jpg" group-title="HEYZO",HEYZO-1696
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36809.jpg" group-title="HEYZO ADULT",HEYZO-1696
 https://v.imgstream2.com/g/tmnfduxmmf/tmnfduxmmf.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35458.jpg" group-title="HEYZO",HEYZO-1359
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35458.jpg" group-title="HEYZO ADULT",HEYZO-1359
 https://v.imgstream2.com/m/kmqzsjwtgx/kmqzsjwtgx.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35441.jpg" group-title="HEYZO",HEYZO-1335
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35441.jpg" group-title="HEYZO ADULT",HEYZO-1335
 https://v.imgstream2.com/h/ecyrmtyfqw/ecyrmtyfqw.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31130.jpg" group-title="HEYZO",HEYZO-1630
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31130.jpg" group-title="HEYZO ADULT",HEYZO-1630
 https://v.imgstream2.com/m/xfwuedirui/xfwuedirui.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31128.jpg" group-title="HEYZO",HEYZO-1628
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31128.jpg" group-title="HEYZO ADULT",HEYZO-1628
 https://v.imgstream2.com/e/uqqhjrzmyn/uqqhjrzmyn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31127.jpg" group-title="HEYZO",HEYZO-1627
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31127.jpg" group-title="HEYZO ADULT",HEYZO-1627
 https://v.imgstream2.com/d/uofzaxftkj/uofzaxftkj.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31114.jpg" group-title="HEYZO",HEYZO-1612
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH31114.jpg" group-title="HEYZO ADULT",HEYZO-1612
 https://v.imgstream2.com/e/dqhmdfpqrh/dqhmdfpqrh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31113.jpg" group-title="HEYZO",HEYZO-1610
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH31113.jpg" group-title="HEYZO ADULT",HEYZO-1610
 https://v.imgstream2.com/n/nupdtrhmxp/nupdtrhmxp.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30987.jpg" group-title="HEYZO",HEYZO-1449
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30987.jpg" group-title="HEYZO ADULT",HEYZO-1449
 https://v.imgstream2.com/g/ikeughyggl/ikeughyggl.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30985.jpg" group-title="HEYZO",HEYZO-1447
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30985.jpg" group-title="HEYZO ADULT",HEYZO-1447
 https://v.imgstream2.com/b/srvvnrdhit/srvvnrdhit.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30984.jpg" group-title="HEYZO",HEYZO-1446
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30984.jpg" group-title="HEYZO ADULT",HEYZO-1446
 https://v.imgstream2.com/n/pxqbhmdkfc/pxqbhmdkfc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30983.jpg" group-title="HEYZO",HEYZO-1455
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30983.jpg" group-title="HEYZO ADULT",HEYZO-1455
 https://v.imgstream2.com/e/qkqajdfulg/qkqajdfulg.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30982.jpg" group-title="HEYZO",HEYZO-1444
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30982.jpg" group-title="HEYZO ADULT",HEYZO-1444
 https://v.imgstream2.com/g/oibenqdfxz/oibenqdfxz.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30979.jpg" group-title="HEYZO",HEYZO-1439
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30979.jpg" group-title="HEYZO ADULT",HEYZO-1439
 https://v.imgstream2.com/c/mbuiubbuvm/mbuiubbuvm.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30973.jpg" group-title="HEYZO",HEYZO-1431
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30973.jpg" group-title="HEYZO ADULT",HEYZO-1431
 https://v.imgstream2.com/f/uwzmvrdmvt/uwzmvrdmvt.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30972.jpg" group-title="HEYZO",HEYZO-1430
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30972.jpg" group-title="HEYZO ADULT",HEYZO-1430
 https://v.imgstream2.com/b/wbaebcxzyw/wbaebcxzyw.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30968.jpg" group-title="HEYZO",HEYZO-1424
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30968.jpg" group-title="HEYZO ADULT",HEYZO-1424
 https://v.imgstream2.com/h/zhoocgqysm/zhoocgqysm.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30962.jpg" group-title="HEYZO",HEYZO-1417
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30962.jpg" group-title="HEYZO ADULT",HEYZO-1417
 https://v.imgstream2.com/d/dotublrfkg/dotublrfkg.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30959.jpg" group-title="HEYZO",HEYZO-1413
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30959.jpg" group-title="HEYZO ADULT",HEYZO-1413
 https://v.imgstream2.com/h/qtnaiqhjhg/qtnaiqhjhg.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30956.jpg" group-title="HEYZO",HEYZO-1410
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30956.jpg" group-title="HEYZO ADULT",HEYZO-1410
 https://v.imgstream2.com/d/wywlawvucu/wywlawvucu.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30954.jpg" group-title="HEYZO",HEYZO-1407
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30954.jpg" group-title="HEYZO ADULT",HEYZO-1407
 https://v.imgstream2.com/g/towitoldvn/towitoldvn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30953.jpg" group-title="HEYZO",HEYZO-1405
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30953.jpg" group-title="HEYZO ADULT",HEYZO-1405
 https://v.imgstream2.com/b/gqqtfrjnrh/gqqtfrjnrh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30952.jpg" group-title="HEYZO",HEYZO-1404
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30952.jpg" group-title="HEYZO ADULT",HEYZO-1404
 https://v.imgstream2.com/g/fzjmujawcg/fzjmujawcg.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30949.jpg" group-title="HEYZO",HEYZO-1400
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30949.jpg" group-title="HEYZO ADULT",HEYZO-1400
 https://v.imgstream2.com/f/ijtsnyfxnf/ijtsnyfxnf.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30913.jpg" group-title="HEYZO",HEYZO-0387
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30913.jpg" group-title="HEYZO ADULT",HEYZO-0387
 https://v.imgstream2.com/h/tdbnfarsou/tdbnfarsou.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24250.jpg" group-title="HEYZO",HEYZO-0996
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24250.jpg" group-title="HEYZO ADULT",HEYZO-0996
 https://v.imgstream2.com/g/nplyebnbbh/nplyebnbbh.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30629.jpg" group-title="HEYZO",HEYZO-1311
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30629.jpg" group-title="HEYZO ADULT",HEYZO-1311
 https://v.imgstream2.com/e/stzgnrgyre/stzgnrgyre.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30626.jpg" group-title="HEYZO",HEYZO-1307
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30626.jpg" group-title="HEYZO ADULT",HEYZO-1307
 https://v.imgstream2.com/b/fruxetnnmr/fruxetnnmr.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30623.jpg" group-title="HEYZO",HEYZO-1304
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30623.jpg" group-title="HEYZO ADULT",HEYZO-1304
 https://v.imgstream2.com/d/iniplfbres/iniplfbres.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23500.jpg" group-title="HEYZO",HEYZO-0841
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23500.jpg" group-title="HEYZO ADULT",HEYZO-0841
 https://v.imgstream2.com/f/ojczhcygra/ojczhcygra.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23467.jpg" group-title="HEYZO",HEYZO-0805
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23467.jpg" group-title="HEYZO ADULT",HEYZO-0805
 https://v.imgstream2.com/m/pmxjuabyai/pmxjuabyai.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14958.jpg" group-title="HEYZO",HEYZO-0304
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14958.jpg" group-title="HEYZO ADULT",HEYZO-0304
 https://v.imgstream2.com/d/fayeeifiie/fayeeifiie.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15447.jpg" group-title="Caribbeancom",032113-293
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15447.jpg" group-title="Caribbeancom ADULT",032113-293
 https://v.imgstream2.com/f/zdxeddximq/zdxeddximq.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH10001.jpg" group-title="Caribbeancom",010613-230
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH10001.jpg" group-title="Caribbeancom ADULT",010613-230
 https://v.imgstream2.com/n/ecsausfoio/ecsausfoio.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH16153.jpg" group-title="Caribbeancom",101013-451
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH16153.jpg" group-title="Caribbeancom ADULT",101013-451
 https://v.imgstream2.com/g/ledscdccbc/ledscdccbc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18761.jpg" group-title="Caribbeancom",022714-001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH18761.jpg" group-title="Caribbeancom ADULT",022714-001
 https://v.imgstream2.com/h/jtsdscodha/jtsdscodha.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19685.jpg" group-title="Caribbeancom",062614-629
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19685.jpg" group-title="Caribbeancom ADULT",062614-629
 https://v.imgstream2.com/e/gfuiobatli/gfuiobatli.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20435.jpg" group-title="Caribbeancom",101814-715
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20435.jpg" group-title="Caribbeancom ADULT",101814-715
 https://v.imgstream2.com/h/fbbiiehlic/fbbiiehlic.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH09980.jpg" group-title="Caribbeancom",012613-247
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH09980.jpg" group-title="Caribbeancom ADULT",012613-247
 https://v.imgstream2.com/e/wfhsefuaal/wfhsefuaal.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20115.jpg" group-title="Caribbeancom",081114-663
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20115.jpg" group-title="Caribbeancom ADULT",081114-663
 https://v.imgstream2.com/f/ndcsdtflla/ndcsdtflla.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15455.jpg" group-title="Caribbeancom",040213-303
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15455.jpg" group-title="Caribbeancom ADULT",040213-303
 https://v.imgstream2.com/e/jmayuffifd/jmayuffifd.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15497.jpg" group-title="Caribbeancom",052513-346
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH15497.jpg" group-title="Caribbeancom ADULT",052513-346
 https://v.imgstream2.com/h/dqdkiifcxb/dqdkiifcxb.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH06810.jpg" group-title="Caribbeancom",122910-573
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH06810.jpg" group-title="Caribbeancom ADULT",122910-573
 https://v.imgstream2.com/f/amcqedfafh/amcqedfafh.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20431.jpg" group-title="Caribbeancom",101314-711-001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20431.jpg" group-title="Caribbeancom ADULT",101314-711-001
 https://v.imgstream2.com/g/pfdcdbcbsc/pfdcdbcbsc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH15548.jpg" group-title="Caribbeancom",080313-397
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH15548.jpg" group-title="Caribbeancom ADULT",080313-397
 https://v.imgstream2.com/h/meecexfbke/meecexfbke.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36487.jpg" group-title="Caribbeancom",122217-561
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36487.jpg" group-title="Caribbeancom ADULT",122217-561
 https://v.imgstream2.com/b/zihzurzkzk/zihzurzkzk.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37407.jpg" group-title="Caribbeancom",101618-774
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37407.jpg" group-title="Caribbeancom ADULT",101618-774
 https://v.imgstream2.com/d/orqsmptjrn/orqsmptjrn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37394.jpg" group-title="Caribbeancom",092218-758
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37394.jpg" group-title="Caribbeancom ADULT",092218-758
 https://v.imgstream2.com/h/jmtkoqplkg/jmtkoqplkg.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36428.jpg" group-title="Caribbeancom",082517-486
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36428.jpg" group-title="Caribbeancom ADULT",082517-486
 https://v.imgstream2.com/d/ricfvriflm/ricfvriflm.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37409.jpg" group-title="Caribbeancom",123117-569
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37409.jpg" group-title="Caribbeancom ADULT",123117-569
 https://v.imgstream2.com/n/owslkmknnt/owslkmknnt.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36330.jpg" group-title="Caribbeancom",021117-371
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36330.jpg" group-title="Caribbeancom ADULT",021117-371
 https://v.imgstream2.com/h/twfmmpobii/twfmmpobii.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg" group-title="Caribbeancom",020616-091
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH25315.jpg" group-title="Caribbeancom ADULT",020616-091
 https://v.imgstream2.com/f/uheuxmmxcj/uheuxmmxcj.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37868.jpg" group-title="Caribbeancom",031919-879
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37868.jpg" group-title="Caribbeancom ADULT",031919-879
 https://v.imgstream2.com/f/mmkojnrogn/mmkojnrogn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37278.jpg" group-title="Caribbeancom",030918-618
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37278.jpg" group-title="Caribbeancom ADULT",030918-618
 https://v.imgstream2.com/h/jwiosfhegr/jwiosfhegr.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36344.jpg" group-title="Caribbeancom",030717-387
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36344.jpg" group-title="Caribbeancom ADULT",030717-387
 https://v.imgstream2.com/f/fvezbnadln/fvezbnadln.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36338.jpg" group-title="Caribbeancom",022417-379
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36338.jpg" group-title="Caribbeancom ADULT",022417-379
 https://v.imgstream2.com/h/dwdyunudxb/dwdyunudxb.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37257.jpg" group-title="Caribbeancom",012318-589
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37257.jpg" group-title="Caribbeancom ADULT",012318-589
 https://v.imgstream2.com/n/okjmiigqsr/okjmiigqsr.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37239.jpg" group-title="Caribbeancom",010117-570
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37239.jpg" group-title="Caribbeancom ADULT",010117-570
 https://v.imgstream2.com/m/fvmifoqdfn/fvmifoqdfn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36385.jpg" group-title="Caribbeancom",060617-440
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36385.jpg" group-title="Caribbeancom ADULT",060617-440
 https://v.imgstream2.com/g/iptoavuuwt/iptoavuuwt.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24658.jpg" group-title="Caribbeancom",112215-028
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24658.jpg" group-title="Caribbeancom ADULT",112215-028
 https://v.imgstream2.com/f/rpieiuuaei/rpieiuuaei.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24656.jpg" group-title="Caribbeancom",112015-026
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24656.jpg" group-title="Caribbeancom ADULT",112015-026
 https://v.imgstream2.com/h/xhabttksui/xhabttksui.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24654.jpg" group-title="Caribbeancom",111715-023
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24654.jpg" group-title="Caribbeancom ADULT",111715-023
 https://v.imgstream2.com/c/zgfcqhuokl/zgfcqhuokl.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23907.jpg" group-title="Caribbeancom",082315-955
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23907.jpg" group-title="Caribbeancom ADULT",082315-955
 https://v.imgstream2.com/n/kdjvbdvoou/kdjvbdvoou.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23167.jpg" group-title="Caribbeancom",070415-913
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23167.jpg" group-title="Caribbeancom ADULT",070415-913
 https://v.imgstream2.com/m/edpfrbrrjn/edpfrbrrjn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37839.jpg" group-title="Caribbeancom",012219-844
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37839.jpg" group-title="Caribbeancom ADULT",012219-844
 https://v.imgstream2.com/b/rqsrohitls/rqsrohitls.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30874.jpg" group-title="Caribbeancom",101116-279
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30874.jpg" group-title="Caribbeancom ADULT",101116-279
 https://v.imgstream2.com/d/izszthzclq/izszthzclq.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH35632.jpg" group-title="Caribbeancom",012917-362
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH35632.jpg" group-title="Caribbeancom ADULT",012917-362
 https://v.imgstream2.com/m/dacqlwkrvd/dacqlwkrvd.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH72696.jpg" group-title="Caribbeancom",050523-001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH72696.jpg" group-title="Caribbeancom ADULT",050523-001
 https://v.imgstream2.com/e/mxhrdggqci/mxhrdggqci.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH72471.jpg" group-title="Caribbeancom",022323-001
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH72471.jpg" group-title="Caribbeancom ADULT",022323-001
 https://v.imgstream2.com/a/curgohkzak/curgohkzak.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH47898.jpg" group-title="Caribbeancom",062218-690
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH47898.jpg" group-title="Caribbeancom ADULT",062218-690
 https://v.imgstream2.com/b/mdfrdmclnn/mdfrdmclnn.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH72308.jpg" group-title="Caribbeancom",010623-001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH72308.jpg" group-title="Caribbeancom ADULT",010623-001
 https://v.imgstream2.com/c/gbkohlkxnt/gbkohlkxnt.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH71688.jpg" group-title="Caribbeancom",061722-001
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH71688.jpg" group-title="Caribbeancom ADULT",061722-001
 https://v.imgstream2.com/f/nmugxvdcqe/nmugxvdcqe.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH37911.jpg" group-title="Caribbeancom",111618-793
+#EXTINF:-1 tvg-logo="https://fbhost1.imgstream2.com/b/ei/CH37911.jpg" group-title="Caribbeancom ADULT",111618-793
 https://v.imgstream2.com/h/lpktlslmoe/lpktlslmoe.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH37321.jpg" group-title="Caribbeancom",052218-672
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH37321.jpg" group-title="Caribbeancom ADULT",052218-672
 https://v.imgstream2.com/d/oonmfklsur/oonmfklsur.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36547.jpg" group-title="Caribbeancompr",PPV 111817_002
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36547.jpg" group-title="Caribbeancompr ADULT",PPV 111817_002
 https://v.imgstream2.com/e/qfgeuuvrqt/qfgeuuvrqt.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36552.jpg" group-title="Caribbeancompr",PPV 120117_004
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36552.jpg" group-title="Caribbeancompr ADULT",PPV 120117_004
 https://v.imgstream2.com/c/vmjnudrlau/vmjnudrlau.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36538.jpg" group-title="Caribbeancompr",PPV 101417_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36538.jpg" group-title="Caribbeancompr ADULT",PPV 101417_001
 https://v.imgstream2.com/g/atyqqentci/atyqqentci.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36531.jpg" group-title="Caribbeancompr",PPV 081217_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36531.jpg" group-title="Caribbeancompr ADULT",PPV 081217_001
 https://v.imgstream2.com/c/huevucfsfc/huevucfsfc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36520.jpg" group-title="Caribbeancompr",PPV 060917_002
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36520.jpg" group-title="Caribbeancompr ADULT",PPV 060917_002
 https://v.imgstream2.com/f/kocyhzoxyy/kocyhzoxyy.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37428.jpg" group-title="Caribbeancompr",PPV 030218_001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37428.jpg" group-title="Caribbeancompr ADULT",PPV 030218_001
 https://v.imgstream2.com/h/ptlpkqmmit/ptlpkqmmit.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36494.jpg" group-title="Caribbeancompr",PPV 020817-005
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36494.jpg" group-title="Caribbeancompr ADULT",PPV 020817-005
 https://v.imgstream2.com/h/gdrdmfmrmh/gdrdmfmrmh.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37422.jpg" group-title="Caribbeancompr",PPV 020318_001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37422.jpg" group-title="Caribbeancompr ADULT",PPV 020318_001
 https://v.imgstream2.com/f/uqnokstrnm/uqnokstrnm.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37419.jpg" group-title="Caribbeancompr",PPV 012618_002
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37419.jpg" group-title="Caribbeancompr ADULT",PPV 012618_002
 https://v.imgstream2.com/f/nuchymqpjg/nuchymqpjg.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37414.jpg" group-title="Caribbeancompr",PPV 011318_003
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37414.jpg" group-title="Caribbeancompr ADULT",PPV 011318_003
 https://v.imgstream2.com/h/mqltpommjn/mqltpommjn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37875.jpg" group-title="Caribbeancompr",PPV 041418_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37875.jpg" group-title="Caribbeancompr ADULT",PPV 041418_001
 https://v.imgstream2.com/n/lmhmoqvnte/lmhmoqvnte.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36530.jpg" group-title="Caribbeancompr",PPV 081017_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36530.jpg" group-title="Caribbeancompr ADULT",PPV 081017_001
 https://v.imgstream2.com/e/ervijqohbm/ervijqohbm.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36519.jpg" group-title="Caribbeancompr",PPV 060217_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36519.jpg" group-title="Caribbeancompr ADULT",PPV 060217_001
 https://v.imgstream2.com/m/fnmmjihcla/fnmmjihcla.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36497.jpg" group-title="Caribbeancompr",PPV 021717_003
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36497.jpg" group-title="Caribbeancompr ADULT",PPV 021717_003
 https://v.imgstream2.com/f/eleoibuvwq/eleoibuvwq.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24731.jpg" group-title="Caribbeancompr",PPV 100815_389
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH24731.jpg" group-title="Caribbeancompr ADULT",PPV 100815_389
 https://v.imgstream2.com/h/oxzfrcsdml/oxzfrcsdml.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24720.jpg" group-title="Caribbeancompr",PPV 081315_323
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24720.jpg" group-title="Caribbeancompr ADULT",PPV 081315_323
 https://v.imgstream2.com/c/oncpfkuefo/oncpfkuefo.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24718.jpg" group-title="Caribbeancompr",PPV 073015_295
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24718.jpg" group-title="Caribbeancompr ADULT",PPV 073015_295
 https://v.imgstream2.com/d/hglwxdwpid/hglwxdwpid.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24701.jpg" group-title="Caribbeancompr",PPV 061815_249
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24701.jpg" group-title="Caribbeancompr ADULT",PPV 061815_249
 https://v.imgstream2.com/f/dpwqzmnyyo/dpwqzmnyyo.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24699.jpg" group-title="Caribbeancompr",PPV 061115_237
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24699.jpg" group-title="Caribbeancompr ADULT",PPV 061115_237
 https://v.imgstream2.com/n/bkigbgsbqs/bkigbgsbqs.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24696.jpg" group-title="Caribbeancompr",PPV 052815_224
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24696.jpg" group-title="Caribbeancompr ADULT",PPV 052815_224
 https://v.imgstream2.com/c/qlhxtauuwc/qlhxtauuwc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30931.jpg" group-title="Caribbeancompr",PPV 091616_015
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30931.jpg" group-title="Caribbeancompr ADULT",PPV 091616_015
 https://v.imgstream2.com/f/esnwgvyzlq/esnwgvyzlq.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30924.jpg" group-title="Caribbeancompr",PPV 091616_008
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30924.jpg" group-title="Caribbeancompr ADULT",PPV 091616_008
 https://v.imgstream2.com/b/bpgrepmcie/bpgrepmcie.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30923.jpg" group-title="Caribbeancompr",PPV 091616_007
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30923.jpg" group-title="Caribbeancompr ADULT",PPV 091616_007
 https://v.imgstream2.com/m/vqbbcushfc/vqbbcushfc.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30911.jpg" group-title="Caribbeancompr",PPV 083016_008
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30911.jpg" group-title="Caribbeancompr ADULT",PPV 083016_008
 https://v.imgstream2.com/b/vecierufyx/vecierufyx.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30390.jpg" group-title="Caribbeancompr",PPV 070716_001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30390.jpg" group-title="Caribbeancompr ADULT",PPV 070716_001
 https://v.imgstream2.com/e/zvkdojhwkk/zvkdojhwkk.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24689.jpg" group-title="Caribbeancompr",PPV 010115_057
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24689.jpg" group-title="Caribbeancompr ADULT",PPV 010115_057
 https://v.imgstream2.com/f/xwfkqbklfe/xwfkqbklfe.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19174.jpg" group-title="Caribbeancompr",PPV 042914_834
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19174.jpg" group-title="Caribbeancompr ADULT",PPV 042914_834
 https://v.imgstream2.com/e/heucehecto/heucehecto.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35665.jpg" group-title="Caribbeancompr",PPV 011117_004
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35665.jpg" group-title="Caribbeancompr ADULT",PPV 011117_004
 https://v.imgstream2.com/g/zlxifwbxug/zlxifwbxug.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19378.jpg" group-title="Caribbeancompr",PPV 013114_760 Sky Angel Vol.169
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19378.jpg" group-title="Caribbeancompr ADULT",PPV 013114_760 Sky Angel Vol.169
 https://v.imgstream2.com/c/tdsbtstuuf/tdsbtstuuf.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20133.jpg" group-title="Caribbeancompr",PPV 072514_910
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20133.jpg" group-title="Caribbeancompr ADULT",PPV 072514_910
 https://v.imgstream2.com/c/wdcdsliefc/wdcdsliefc.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37422.jpg" group-title="Caribbeancompr",PPV 020318_001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37422.jpg" group-title="Caribbeancompr ADULT",PPV 020318_001
 https://v.imgstream2.com/f/uqnokstrnm/uqnokstrnm.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24742.jpg" group-title="Caribbeancompr",PPV 121815_453 
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24742.jpg" group-title="Caribbeancompr ADULT",PPV 121815_453 
 https://v.imgstream2.com/f/ruqxrljwkn/ruqxrljwkn.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24711.jpg" group-title="Caribbeancompr",PPV 072215_284 
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24711.jpg" group-title="Caribbeancompr ADULT",PPV 072215_284 
 https://v.imgstream2.com/m/nzqmgnvhpw/nzqmgnvhpw.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24710.jpg" group-title="Caribbeancompr",PPV 072215_283 
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24710.jpg" group-title="Caribbeancompr ADULT",PPV 072215_283 
 https://v.imgstream2.com/e/eqftoxccgy/eqftoxccgy.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24706.jpg" group-title="Caribbeancompr",PPV 070315_309 
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24706.jpg" group-title="Caribbeancompr ADULT",PPV 070315_309 
 https://v.imgstream2.com/c/nywkjlmnyw/nywkjlmnyw.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30937.jpg" group-title="Caribbeancompr",PPV 102716_005
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30937.jpg" group-title="Caribbeancompr ADULT",PPV 102716_005
 https://v.imgstream2.com/b/kosvvsumug/kosvvsumug.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30935.jpg" group-title="Caribbeancompr",PPV 102414_984
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30935.jpg" group-title="Caribbeancompr ADULT",PPV 102414_984
 https://v.imgstream2.com/g/ovctkqgtmx/ovctkqgtmx.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30926.jpg" group-title="Caribbeancompr",PPV 091616_010
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30926.jpg" group-title="Caribbeancompr ADULT",PPV 091616_010
 https://v.imgstream2.com/g/clgkswvkai/clgkswvkai.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30914.jpg" group-title="Caribbeancompr",PPV 083016-011
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30914.jpg" group-title="Caribbeancompr ADULT",PPV 083016-011
 https://v.imgstream2.com/h/tkrswajecq/tkrswajecq.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30912.jpg" group-title="Caribbeancompr",PPV 083016_009
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30912.jpg" group-title="Caribbeancompr ADULT",PPV 083016_009
 https://v.imgstream2.com/g/cufjvycrgg/cufjvycrgg.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30395.jpg" group-title="Caribbeancompr",PPV 072016_630
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30395.jpg" group-title="Caribbeancompr ADULT",PPV 072016_630
 https://v.imgstream2.com/g/wmlwdiwzby/wmlwdiwzby.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30370.jpg" group-title="Caribbeancompr",PPV 060916_585
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH30370.jpg" group-title="Caribbeancompr ADULT",PPV 060916_585
 https://v.imgstream2.com/h/qedqpbrufd/qedqpbrufd.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30350.jpg" group-title="Caribbeancompr",PPV 042816_548
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30350.jpg" group-title="Caribbeancompr ADULT",PPV 042816_548
 https://v.imgstream2.com/d/hkmqpapjle/hkmqpapjle.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH72187.jpg" group-title="Caribbeancompr",PPV 120922_005
+#EXTINF:-1 tvg-logo="https://fchost1.imgstream2.com/b/ei/CH72187.jpg" group-title="Caribbeancompr ADULT",PPV 120922_005
 https://v.imgstream2.com/a/nyofwfozfn/nyofwfozfn.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09448.jpg" group-title="SKY",CWP-75 CATWALK POISON 75
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09448.jpg" group-title="SKY ADULT",CWP-75 CATWALK POISON 75
 https://v.imgstream2.com/m/wadfafoddi/wadfafoddi.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20773.jpg" group-title="SKY",SKY-310 Sky Angel
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20773.jpg" group-title="SKY ADULT",SKY-310 Sky Angel
 https://v.imgstream2.com/c/lfxulrkdwi/lfxulrkdwi.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14627.jpg" group-title="SKY",SKY-264 Sky Angel Vol.157
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH14627.jpg" group-title="SKY ADULT",SKY-264 Sky Angel Vol.157
 https://v.imgstream2.com/c/ieufxyfked/ieufxyfked.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH04167.jpg" group-title="SKY",SKY-226 Sky Angel
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH04167.jpg" group-title="SKY ADULT",SKY-226 Sky Angel
 https://v.imgstream2.com/g/ndbebbdidl/ndbebbdidl.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH17908.jpg" group-title="SKY",SKY-280 Sky Angel Vol.167
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH17908.jpg" group-title="SKY ADULT",SKY-280 Sky Angel Vol.167
 https://v.imgstream2.com/h/viclldcfsd/viclldcfsd.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH08180.jpg" group-title="SKY",SKY-246 Sky Angel Vol.32
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH08180.jpg" group-title="SKY ADULT",SKY-246 Sky Angel Vol.32
 https://v.imgstream2.com/n/fsleccobsu/fsleccobsu.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH14632.jpg" group-title="SKY",SKY-260 Sky Angel Vol.37
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH14632.jpg" group-title="SKY ADULT",SKY-260 Sky Angel Vol.37
 https://v.imgstream2.com/n/dfmhuaieye/dfmhuaieye.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36046.jpg" group-title="Pacopacomama",pacopacomama 120817_184
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36046.jpg" group-title="Pacopacomama ADULT",pacopacomama 120817_184
 https://v.imgstream2.com/e/hvfxfwewxv/hvfxfwewxv.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30147.jpg" group-title="Pacopacomama",pacopacomama 062316_110
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH30147.jpg" group-title="Pacopacomama ADULT",pacopacomama 062316_110
 https://v.imgstream2.com/d/lgrmntmkym/lgrmntmkym.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23105.jpg" group-title="Pacopacomama",pacopacomama 070215_003
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23105.jpg" group-title="Pacopacomama ADULT",pacopacomama 070215_003
 https://fbhost1.imgscloud.com/b/ei/CH23105.jpg
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35500.jpg" group-title="Pacopacomama",pacopacomama 012817_017
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35500.jpg" group-title="Pacopacomama ADULT",pacopacomama 012817_017
 https://v.imgstream2.com/m/asapmsunwr/asapmsunwr.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36031.jpg" group-title="Pacopacomama",pacopacomama 081717_133
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36031.jpg" group-title="Pacopacomama ADULT",pacopacomama 081717_133
 https://v.imgstream2.com/e/feqmkwgnoa/feqmkwgnoa.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36965.jpg" group-title="Pacopacomama",pacopacomama 080218_312
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36965.jpg" group-title="Pacopacomama ADULT",pacopacomama 080218_312
 https://v.imgstream2.com/f/jqvueiycus/jqvueiycus.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36008.jpg" group-title="Pacopacomama",pacopacomama 052017_090
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH36008.jpg" group-title="Pacopacomama ADULT",pacopacomama 052017_090
 https://v.imgstream2.com/f/vwtmftsxif/vwtmftsxif.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36006.jpg" group-title="Pacopacomama",pacopacomama 051617_087
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36006.jpg" group-title="Pacopacomama ADULT",pacopacomama 051617_087
 https://v.imgstream2.com/e/rbiqwejgyx/rbiqwejgyx.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37642.jpg" group-title="Pacopacomama",pacopacomama 021319_034
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37642.jpg" group-title="Pacopacomama ADULT",pacopacomama 021319_034
 https://v.imgstream2.com/c/jkjpnonlff/jkjpnonlff.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37632.jpg" group-title="Pacopacomama",pacopacomama 010319_005
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37632.jpg" group-title="Pacopacomama ADULT",pacopacomama 010319_005
 https://v.imgstream2.com/d/eotkwwhsoi/eotkwwhsoi.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36928.jpg" group-title="Pacopacomama",pacopacomama 010317_200
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36928.jpg" group-title="Pacopacomama ADULT",pacopacomama 010317_200
 https://v.imgstream2.com/b/ihpcxmcxjw/ihpcxmcxjw.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24405.jpg" group-title="Pacopacomama",pacopacomama 120115_001
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH24405.jpg" group-title="Pacopacomama ADULT",pacopacomama 120115_001
 https://v.imgstream2.com/b/hkcqcqzfyh/hkcqcqzfyh.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35609.jpg" group-title="10musume",123016_01
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35609.jpg" group-title="10musume ADULT",123016_01
 https://v.imgstream2.com/m/imcxplssog/imcxplssog.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36261.jpg" group-title="10musume",080117_01
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36261.jpg" group-title="10musume ADULT",080117_01
 https://v.imgstream2.com/m/kpssqatgsb/kpssqatgsb.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36236.jpg" group-title="10musume",051617_01
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH36236.jpg" group-title="10musume ADULT",051617_01
 https://v.imgstream2.com/g/beiarfnfss/beiarfnfss.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37191.jpg" group-title="10musume",071218_01
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH37191.jpg" group-title="10musume ADULT",071218_01
 https://v.imgstream2.com/n/npmskpqjnr/npmskpqjnr.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37770.jpg" group-title="10musume",012619_01
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH37770.jpg" group-title="10musume ADULT",012619_01
 https://v.imgstream2.com/d/lmoeqmkoji/lmoeqmkoji.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23817.jpg" group-title="10musume",082815_01
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23817.jpg" group-title="10musume ADULT",082815_01
 https://v.imgstream2.com/g/scwgmbizms/scwgmbizms.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/3/CH02808_1-0.jpg" group-title="Tokyo Hot",Tokyo Hot n0675
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/s/yz/3/CH02808_1-0.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n0675
 https://v.imgstream2.com/f/mcsifiddea/mcsifiddea.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09560.jpg" group-title="Tokyo Hot",Tokyo Hot n0801
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09560.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n0801
 https://v.imgstream2.com/h/htelahthbc/htelahthbc.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09566.jpg" group-title="Tokyo Hot",Tokyo Hot n0807
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09566.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n0807
 https://v.imgstream2.com/c/mscaadocdc/mscaadocdc.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09567.jpg" group-title="Tokyo Hot",Tokyo Hot n0808
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH09567.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n0808
 https://v.imgstream2.com/m/vacioblala/vacioblala.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19030.jpg" group-title="Tokyo Hot",Tokyo Hot n0946
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH19030.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n0946
 https://v.imgstream2.com/f/faalaccchd/faalaccchd.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20181.jpg" group-title="Tokyo Hot",Tokyo Hot n0985
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20181.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n0985
 https://v.imgstream2.com/f/jsfaotdsot/jsfaotdsot.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23075.jpg" group-title="Tokyo Hot",Tokyo Hot k1179
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH23075.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot k1179
 https://v.imgstream2.com/b/wxuswpzjmt/wxuswpzjmt.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35717.jpg" group-title="Tokyo Hot",Tokyo Hot n1225
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35717.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n1225
 https://v.imgstream2.com/h/aujpyshxdv/aujpyshxdv.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35718.jpg" group-title="Tokyo Hot",Tokyo Hot n1226
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH35718.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n1226
 https://v.imgstream2.com/d/fpwxahuhga/fpwxahuhga.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35730.jpg" group-title="Tokyo Hot",Tokyo Hot n1238
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35730.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n1238
 https://v.imgstream2.com/d/tmeodmivmv/tmeodmivmv.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35733.jpg" group-title="Tokyo Hot",Tokyo Hot n1241
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35733.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n1241
 https://v.imgstream2.com/c/pubjyshbin/pubjyshbin.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35734.jpg" group-title="Tokyo Hot",Tokyo Hot n1242
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35734.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n1242
 https://v.imgstream2.com/m/fvybwjosqs/fvybwjosqs.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35736.jpg" group-title="Tokyo Hot",Tokyo Hot n1244
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH35736.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot n1244
 https://v.imgstream2.com/e/dctmfqofhz/dctmfqofhz.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23973.jpg" group-title="Tokyo Hot",Tokyo Hot k1243
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH23973.jpg" group-title="Tokyo Hot ADULT",Tokyo Hot k1243
 https://v.imgstream2.com/c/fbpjghamud/fbpjghamud.m3u8
 
 
@@ -17564,98 +17564,97 @@ https://v.imgstream2.com/c/fbpjghamud/fbpjghamud.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19259.jpg" group-title="PINK",PINK-001
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19259.jpg" group-title="PINK ADULT",PINK-001
 https://v.imgstream2.com/f/ycdtuabcao/ycdtuabcao.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19836.jpg" group-title="PINK",PINK-002
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19836.jpg" group-title="PINK ADULT",PINK-002
 https://v.imgstream2.com/b/qcdubattif/qcdubattif.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19837.jpg" group-title="PINK",PINK-003
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH19837.jpg" group-title="PINK ADULT",PINK-003
 https://v.imgstream2.com/e/ydacdshccu/ydacdshccu.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20146.jpg" group-title="PINK",PINK-004
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20146.jpg" group-title="PINK ADULT",PINK-004
 https://v.imgstream2.com/f/rtaoibafai/rtaoibafai.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20148.jpg" group-title="PINK",PINK-007
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH20148.jpg" group-title="PINK ADULT",PINK-007
 https://v.imgstream2.com/d/railcidllo/railcidllo.m3u8
-#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH21446.jpg" group-title="PINK",PINK-008
+#EXTINF:-1 tvg-logo="https://fbhost1.imgscloud.com/b/ei/CH21446.jpg" group-title="PINK ADULT",PINK-008
 https://v.imgstream2.com/n/porgvgkvne/porgvgkvne.m3u8
-#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20360.jpg" group-title="PINK",PINK-012
+#EXTINF:-1 tvg-logo="https://fchost1.imgscloud.com/b/ei/CH20360.jpg" group-title="PINK ADULT",PINK-012
 https://v.imgstream2.com/g/lohtscilbd/lohtscilbd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://vn.javtiful.com/media/videos/tmb/87300/1.jpg" group-title="91MD.ME",MD-0349 - 李蓉蓉
+#EXTINF:-1 tvg-logo="https://vn.javtiful.com/media/videos/tmb/87300/1.jpg" group-title="91MD.ME ADULT",MD-0349 - 李蓉蓉
 https://t30.cdn2020.com/video/m3u8/2025/06/06/6ae56187/index.m3u8
-#EXTINF:-1 tvg-logo="https://3xchina.net/wp-content/uploads/2024/11/blx0069.jpg" group-title="91MD.ME",BLX-0069 - 李蓉蓉
+#EXTINF:-1 tvg-logo="https://3xchina.net/wp-content/uploads/2024/11/blx0069.jpg" group-title="91MD.ME ADULT",BLX-0069 - 李蓉蓉
 https://t0.97img.com/a1000558/a.m3u8
-#EXTINF:-1 tvg-logo="https://picmeta2024.sbs/upload/vod/20240809-1/4f4d022c9969fbd73d966394034f09b0.jpg" group-title="91MD.ME",MD-250-1.李蓉蓉
+#EXTINF:-1 tvg-logo="https://picmeta2024.sbs/upload/vod/20240809-1/4f4d022c9969fbd73d966394034f09b0.jpg" group-title="91MD.ME ADULT",MD-250-1.李蓉蓉
 https://t0.97img.com/a1000271/a.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/12/1702173263-1692ae39a258748.webp" group-title="91MD.ME",RAS-365.李蓉蓉
+#EXTINF:-1 tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/12/1702173263-1692ae39a258748.webp" group-title="91MD.ME ADULT",RAS-365.李蓉蓉
 https://t26.cdn2020.com/video/m3u8/2023/12/10/d40ef84b/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://fourhoi.com/hnd-128/cover-n.jpg" group-title="Clip X.COM", 1
+#EXTINF:-1 tvg-logo="https://fourhoi.com/hnd-128/cover-n.jpg" group-title="Clip X.COM ADULT", 1
 https://video.twimg.com/amplify_video/1917229627866812416/pl/avc1/640x640/Z3-EFDKd7RWeejU9.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GqcC-meXUAAi1eL?format=png&name=360x360" group-title="Clip X.COM", 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GqcC-meXUAAi1eL?format=png&name=360x360" group-title="Clip X.COM ADULT", 2
 https://video.twimg.com/amplify_video/1920507018806272000/pl/avc1/1280x720/lRY8i9ukwH_0NiXn.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GpdefHxbEAEZoHg?format=jpg&name=360x360" group-title="Clip X.COM", 3
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GpdefHxbEAEZoHg?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 3
 https://video.twimg.com/amplify_video/1916104027647184898/pl/avc1/1280x720/2cfOmTj8IrCPIqm-.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GtgfOliWMAAZOSI?format=jpg&name=360x360" group-title="Clip X.COM", 4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GtgfOliWMAAZOSI?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 4
 https://video.twimg.com/amplify_video/1934489450828177408/pl/avc1/1920x1080/bn_V32xLL_kmms5a.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GgS6q17acAE9ZHE?format=jpg&name=360x360" group-title="Clip X.COM", 5
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GgS6q17acAE9ZHE?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 5
 https://video.twimg.com/amplify_video/1874828590103355392/pl/avc1/1280x720/qUmuxETbgcGb4Xvf.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gqou2fTWkAATNR5?format=jpg&name=360x360" group-title="Clip X.COM", 6
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gqou2fTWkAATNR5?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 6
 https://video.twimg.com/amplify_video/1923698961577086976/pl/avc1/1920x1080/DkfApfVPFVspjtIk.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GppCA8SXEAAPX97?format=jpg&name=360x360" group-title="Clip X.COM", 7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GppCA8SXEAAPX97?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 7
 https://video.twimg.com/amplify_video/1916917065333542912/pl/avc1/1920x1080/520_Y-Nw-JCIIyJc.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm5ufgFbYAAxuqm?format=jpg&name=360x360" group-title="Clip X.COM", 8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm5ufgFbYAAxuqm?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 8
 https://video.twimg.com/amplify_video/1904581124162281476/pl/avc1/1920x1080/rZevf84JK7-XbEbz.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm5ufgFbYAAxuqm?format=jpg&name=360x360" group-title="Clip X.COM", 9
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm5ufgFbYAAxuqm?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 9
 https://video.twimg.com/amplify_video/1852237035563790336/pl/avc1/1280x720/4fNIkiT3_Y0PzPRc.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm5ufgFbYAAxuqm?format=jpg&name=360x360" group-title="Clip X.COM", 10
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Gm5ufgFbYAAxuqm?format=jpg&name=360x360" group-title="Clip X.COM ADULT", 10
 https://video.twimg.com/amplify_video/1948630243214065664/pl/avc1/720x1280/f00ynjIfpCC4JD7J.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 11
 https://video.twimg.com/amplify_video/1904744914770137088/pl/avc1/720x720/_t3tEZc9XzzMmjvS.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 12
 https://video.twimg.com/ext_tw_video/1908917884585398272/pu/pl/avc1/480x854/-v3CXz-T3cVBf_HK.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 13
 https://video.twimg.com/amplify_video/1946111861247606784/pl/avc1/1080x1690/0WarlwL3A1C7w7i7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 14
 https://video.twimg.com/amplify_video/1950079695212707840/pl/avc1/1080x1738/ClM80dso_EzaARqY.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 15
 https://video.twimg.com/amplify_video/1949002340813701121/pl/avc1/1080x1724/zQ0OwyorpISLqSd-.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 16
 https://video.twimg.com/amplify_video/1927996518843437058/pl/avc1/1920x1080/ilyXa9-0eRIWXMGD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 17
 https://video.twimg.com/amplify_video/1938195129250287618/pl/avc1/1920x1080/1-axtvC85Nr8pld0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 18
 https://video.twimg.com/amplify_video/1945009958979813377/pl/avc1/1280x720/m3DuCxUP308XsqxB.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 19
 https://video.twimg.com/amplify_video/1868617476197814272/pl/avc1/1920x1080/cYBXvSq8DrB25rXq.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 20
 https://video.twimg.com/amplify_video/1949741183305236480/pl/avc1/720x720/K9YBEztooH1XY8TX.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 21
 https://cdn.xnhau.sh/162000/162122/162122.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 22
 https://video.twimg.com/ext_tw_video/1850872743782436865/pu/pl/avc1/720x720/mpRiK3WQT-16VqPI.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 23
 https://video.twimg.com/amplify_video/1946821256470568960/pl/avc1/1280x720/RvFsnMSjnA3Er51s.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 24
 https://video.twimg.com/amplify_video/1946820271639601152/pl/avc1/1280x720/CXtOc-xQ76UMH-F2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 25
 https://video.twimg.com/amplify_video/1950937584441663488/pl/avc1/1280x720/NVh6R96UOz3KG6Yy.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 26
 https://video.twimg.com/amplify_video/1932058407915462656/pl/avc1/1280x720/9auoWLMyThSdTogs.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM", 27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 27
 https://video.twimg.com/amplify_video/1916380161504907265/pl/avc1/640x640/j8qQpUhtaHZBk8s_.m3u8
 
 
 
 
 
-
-
-
 *********************************
+
+
 
 
 
