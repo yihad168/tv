@@ -18,6 +18,22 @@
     "url": "http://bxtv.3a.ink/live.m3u",
     "ua":  "okhttp/3.15"
   },
+    {
+      "name": "台灣酒店",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "台灣綜合",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "4gtv",
+      "url": "http://4gtv.korice.eu.org/?type=m3u"
+    },
 
  {
     "name" : "🐟🐟 LITV-GO 状态监控 V2.0 20250724【挂T台湾美国】🧑🏻‍🌾",
