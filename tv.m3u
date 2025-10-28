@@ -486,9 +486,6 @@ http://4gtv.korice.eu.org/litv-longturn21/index.m3u8
 #EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="" group-title="4G台灣",台灣戲劇台
 http://4gtv.korice.eu.org/litv-longturn22/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://php.946985.xyz/logo/LoveNature.png" group-title="4G台灣",Love Nature
 http://4gtv.korice.eu.org/4gtv-live208/index.m3u8
 #EXTINF:-1 tvg-name="FUN探索娛樂台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FUN探索娛樂.png" group-title="4G台灣",fun探索娛樂台
@@ -661,6 +658,75 @@ https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1
 #EXTINF:-1 group-title="歐飛",東森購物2台
 https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
 
+
+
+################################################
+
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/doube-ba/TWEPG/main/tw.xml"
+
+#EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="ofiii直播",台視
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv051" tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="ofiii直播",台視新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="ofiii直播",中視
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="ofiii直播",中視新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="ofiii直播",華視
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="ofiii直播",華視新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="ofiii直播",三立新聞iNEWS
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="ofiii直播",中天新聞台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv156" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="ofiii直播",寰宇新聞台灣台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="ofiii直播",寰宇新聞台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv158" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="ofiii直播",寰宇財經台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="nnews-zh" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍播新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-zh&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="nnews-en" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍英語新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-en&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="nnews-vn" tvg-name="倪珍越南語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍越南語新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-vn&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="ofiii直播",好消息
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="ofiii直播",好消息2台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv104" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="ofiii直播",第1商業台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="國會頻道1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="ofiii直播",國會頻道1台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="國會頻道2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="ofiii直播",國會頻道2台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="ofiii直播",ELTV生活英語台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
 
 
 
@@ -851,6 +917,9 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 
 
 
+
+
+
 ################################################
 
 
@@ -1010,6 +1079,8 @@ https://httop.top/ysp-cgtn阿语
 https://httop.top/ysp-cgtn西语
 #EXTINF:-1 group-title="CHINA CCTV",CGTN纪录
 https://httop.top/ysp-cgtn纪录
+
+
 
 
 
@@ -1447,37 +1518,6 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",AMC NETWORK
-http://212.102.60.231/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",BET EAST
-http://212.102.60.231/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",BET HER
-http://212.102.60.231/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",MGM+ Marquee
-http://212.102.60.231/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",MOTOR TREND
-http://212.102.60.231/MOTOR_TREND/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",MTV
-http://212.102.60.231/MTV/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",HBO FAMILY
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",HBO 2
-http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",World Fishing Network
-http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",TSN1
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",TSN2
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",TSN3
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",TSN4
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",TSN5
-http://212.102.60.231/TSN_5/index.m3u8
 
 
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="測試頻道",中天新聞
@@ -3969,312 +4009,6 @@ https://gitlab.com/st7833232/dirtytvbox/-/blob/main/live/4gtv-judy.m3u?ref_type=
 https://raw.githubusercontent.com/fleung49/star/refs/heads/main/TV2
 
 
-香港,#genre#
-#EXTINF:-1 group-title="Lebiptv香港",无线新闻
-http://line.lebiptv.me/nVAX7160/6WqG1661/500949
-#EXTINF:-1 group-title="Lebiptv香港",翡翠台
-http://line.lebiptv.me/nVAX7160/6WqG1661/500954
-#EXTINF:-1 group-title="Lebiptv香港",TVBJ1
-http://line.lebiptv.me/nVAX7160/6WqG1661/500945
-#EXTINF:-1 group-title="Lebiptv香港",TVB1
-http://line.lebiptv.me/nVAX7160/6WqG1661/500946
-#EXTINF:-1 group-title="Lebiptv香港",TVB1
-http://line.lebiptv.me/nVAX7160/6WqG1661/500951
-#EXTINF:-1 group-title="Lebiptv香港",TVBS ASIA
-http://line.lebiptv.me/nVAX7160/6WqG1661/500947
-#EXTINF:-1 group-title="Lebiptv香港",TVB DRAMA
-http://line.lebiptv.me/nVAX7160/6WqG1661/500948
-#EXTINF:-1 group-title="Lebiptv香港",TVBe
-http://line.lebiptv.me/nVAX7160/6WqG1661/500950
-#EXTINF:-1 group-title="Lebiptv香港",千禧经典台
-http://line.lebiptv.me/nVAX7160/6WqG1661/500952
-#EXTINF:-1 group-title="Lebiptv香港",TVB娱乐新闻台
-http://line.lebiptv.me/nVAX7160/6WqG1661/500953
-#EXTINF:-1 group-title="Lebiptv香港",TVB星河
-http://line.lebiptv.me/nVAX7160/6WqG1661/500957
-#EXTINF:-1 group-title="Lebiptv香港",凤凰资讯
-http://line.lebiptv.me/nVAX7160/6WqG1661/500960
-#EXTINF:-1 group-title="Lebiptv香港",FAIRCHILD TV 1
-http://line.lebiptv.me/nVAX7160/6WqG1661/500942
-#EXTINF:-1 group-title="Lebiptv香港",FAIRCHILD TV 1 WEST
-http://line.lebiptv.me/nVAX7160/6WqG1661/500943
-#EXTINF:-1 group-title="Lebiptv香港",FAIRCHILD TV 2
-http://line.lebiptv.me/nVAX7160/6WqG1661/500944
-
-NEWS,#genre#
-#EXTINF:-1 group-title="LebiptvNEWS",ABC NEWS LIVE
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551995.ts
-#EXTINF:-1 group-title="LebiptvNEWS",ACCU WEATHER
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/469342.ts
-#EXTINF:-1 group-title="LebiptvNEWS",ALJAZRRTA
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/704492.ts
-#EXTINF:-1 group-title="LebiptvNEWS",BBC NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551984.ts
-#EXTINF:-1 group-title="LebiptvNEWS",BLOOMBERG
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/666384.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CBC NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/627017.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CBS NEWS LIVE
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551996.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CGTN
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/311633.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CGTN DOCUMENTARY
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/552941.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CNBC
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551993.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CNN
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/552001.ts
-#EXTINF:-1 group-title="LebiptvNEWS",CNN INTL
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551998.ts
-#EXTINF:-1 group-title="LebiptvNEWS",DW
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/469315.ts
-#EXTINF:-1 group-title="LebiptvNEWS",EURONEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551987.ts
-#EXTINF:-1 group-title="LebiptvNEWS",FOX BUSINESS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551968.ts
-#EXTINF:-1 group-title="LebiptvNEWS",FOX NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551988.ts
-#EXTINF:-1 group-title="LebiptvNEWS",FOX RACING
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487774.ts
-#EXTINF:-1 group-title="LebiptvNEWS",FOX WEATHER
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/886925.ts
-#EXTINF:-1 group-title="LebiptvNEWS",FRANCE 24
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/704491.ts
-#EXTINF:-1 group-title="LebiptvNEWS",MSNBC
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/551986.ts
-#EXTINF:-1 group-title="LebiptvNEWS",RT NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/311648.ts
-#EXTINF:-1 group-title="LebiptvNEWS",RTE NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/578145.ts
-#EXTINF:-1 group-title="LebiptvNEWS",SKY NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577229.ts
-#EXTINF:-1 group-title="LebiptvNEWS",THE WEATHER CHANNEL
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/469343.ts
-#EXTINF:-1 group-title="LebiptvNEWS",TRT WORLD
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577212.ts
-#EXTINF:-1 group-title="LebiptvNEWS",TVG
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487634.ts
-#EXTINF:-1 group-title="LebiptvNEWS",TVG2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487633.ts
-
-LOS ANGELES,#genre#
-#EXTINF:-1 group-title="LebiptvLOS ANGELES",KABC
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/548980.ts
-#EXTINF:-1 group-title="LebiptvLOS ANGELES",KCBS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/549636.ts
-#EXTINF:-1 group-title="LebiptvLOS ANGELES",KCAL
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/760122.ts
-#EXTINF:-1 group-title="LebiptvLOS ANGELES",KTLA
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/469336.ts
-#EXTINF:-1 group-title="LebiptvLOS ANGELES",KTTV
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/549875.ts
-#EXTINF:-1 group-title="LebiptvLOS ANGELES",KNBC
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/550382.ts
-
-MUSIC,#genre#
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697149.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697150.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697151.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697152.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697153.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 6
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697154.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 7
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697155.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",KARAOKE 8
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/697156.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",MTV CLASSIC
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577451.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",MTV 00s
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577452.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",MTV LIVE NOW
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577450.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",MTV HITS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577449.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",MTV MUSIC
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577448.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",NOW ROCK
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1276281.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",DANCE TV
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1110685.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",CLUBLAND TV
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577445.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",TRACE URBAN
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577436.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",VH1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577433.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",NOW 70S
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577432.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",NOW 80S
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577431.ts
-#EXTINF:-1 group-title="LebiptvMUSIC",NOW 90S
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577430.ts
-
-SPORTS,#genre#
-#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS PL 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/766852.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS PL 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/766853.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS GRANDSTAND
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/766854.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ASTRO SUPERSPORTS FOOTBALL
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/766855.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016907.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016908.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016909.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016910.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016911.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 6
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016912.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 7
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016913.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 8
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016914.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",BEIN SPORTS 9
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1016915.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",EQUIDIA
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/832129.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ESPN NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487783.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ESPN 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487782.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ESPN 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487781.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",ESPN U
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487778.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",EUROSPORT 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577985.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",EUROSPORT 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577984.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827982.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827981.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827980.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827979.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827978.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 6
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827977.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 7
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827976.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 8
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827975.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 9
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827974.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 10
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827973.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",HUB PREMIER SPORTS 11
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827972.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/505621.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/505623.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/505625.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/505627.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",M.LALIGA 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/505628.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827940.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827939.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827938.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827937.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827936.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 6
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827935.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 7
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827934.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW HK PREMIER SPORTS 8
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/827933.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 1
-http://line.lebiptv.me/nVAX7160/6WqG1661/802488
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 2
-http://line.lebiptv.me/nVAX7160/6WqG1661/802487
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 3
-http://line.lebiptv.me/nVAX7160/6WqG1661/802486
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 4
-http://line.lebiptv.me/nVAX7160/6WqG1661/802485
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 5
-http://line.lebiptv.me/nVAX7160/6WqG1661/802484
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 6
-http://line.lebiptv.me/nVAX7160/6WqG1661/802483
-#EXTINF:-1 group-title="LebiptvSPORTS",NOW SPORTS 7
-http://line.lebiptv.me/nVAX7160/6WqG1661/802482
-#EXTINF:-1 group-title="LebiptvSPORTS",PREMIER SPORTS LALIGA
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577982.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",PREMIER SPORTS 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577981.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",RACING 240
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/1125022.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",RACING.COM
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/259849.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",RACING TV UK
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577958.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY RACING 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/879881.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY RACING 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/879880.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699776.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699774.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699752.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699750.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699748.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 6
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699746.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 7
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699744.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 8
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699742.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 9
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699740.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORT 10
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/699738.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS MIX
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577989.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS MAIN EVENTS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577997.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS NEWS
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577994.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS PREMIER LEAGUE
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577996.ts 
-#EXTINF:-1 group-title="LebiptvSPORTS",SKY SPORTS RACING
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/577988.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",TSN 1
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487807.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",TSN 2
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487806.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",TSN 3
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487805.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",TSN 4
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487804.ts
-#EXTINF:-1 group-title="LebiptvSPORTS",TSN 5
-http://line.lebiptv.me/live/nVAX7160/6WqG1661/487803.ts
-
-
-
 
 
 #############   MUSIC  ########################
@@ -4296,41 +4030,6 @@ https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 
 #EXTINF:-1 tvg-id="mtv-europe" group-title="MUSIC CH", MovieMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17304
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV LIVE HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17302
-#EXTINF:-1 group-title="MUSIC CH",UK -  MC MUSIC TODAYS COUNTRY SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348213
-#EXTINF:-1 group-title="MUSIC CH",UK -  MC MUSIC POP HITS SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348219
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV MUSIC UK SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17301
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV HITS SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17303
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV BASE SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17307
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV CLASSIC SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/17306
-#EXTINF:-1 group-title="MUSIC CH",UK - MTV CLASSIC SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69533
-#EXTINF:-1 group-title="MUSIC CH",UK - JUKEBOX HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69535
-#EXTINF:-1 group-title="MUSIC CH",UK -  NOW 70'S SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348228
-#EXTINF:-1 group-title="MUSIC CH",UK - NOW 80s SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69530
-#EXTINF:-1 group-title="MUSIC CH",UK -  TRACE URBAN SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/348212
-#EXTINF:-1 group-title="MUSIC CH",UK - THAT'S 60s SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/613379
-#EXTINF:-1 group-title="MUSIC CH",UK - CLUBLAND SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69525
-#EXTINF:-1 group-title="MUSIC CH",UK - KISS TV SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/69527
-#EXTINF:-1 group-title="MUSIC CH",UK - NOW ROCK SD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1171043
 
 
 
@@ -4447,873 +4146,873 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
 
 ################################################
 
-
+https://smt.858.qzz.io/Smart.php?id=eltasport_twn
 https://gitlab.com/st7833232/dirtytvbox/-/raw/main/live/4gtv-judy.m3u?ref_type=heads
 
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GLOBE 香港",翡翠台
-http://tv543.cc/Smart.php?id=jade_twn
+https://smt.858.qzz.io/Smart.php?id=jade_twn
 #EXTINF:-1 tvg-id="翡翠台 backup" tvg-name="翡翠台 backup" tvg-logo="" group-title="GLOBE 香港",翡翠台 backup
-http://tv543.cc/Smart.php?id=Jade_xue
+https://smt.858.qzz.io/Smart.php?id=Jade_xue
 #EXTINF:-1 tvg-id="iNews 新聞台" tvg-name="iNews 新聞台" tvg-logo="" group-title="GLOBE 香港",iNews 新聞台
-http://tv543.cc/Smart.php?id=inews_twn
+https://smt.858.qzz.io/Smart.php?id=inews_twn
 #EXTINF:-1 tvg-id="J 2" tvg-name="J 2" tvg-logo="" group-title="GLOBE 香港",J 2
-http://tv543.cc/Smart.php?id=j2_twn
+https://smt.858.qzz.io/Smart.php?id=j2_twn
 #EXTINF:-1 tvg-id="珍珠台" tvg-name="珍珠台" tvg-logo="" group-title="GLOBE 香港",珍珠台
-http://tv543.cc/Smart.php?id=pearl_twn
+https://smt.858.qzz.io/Smart.php?id=pearl_twn
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="" group-title="GLOBE 香港",鳳凰香港
-http://tv543.cc/Smart.php?id=hkphoenix_twn
+https://smt.858.qzz.io/Smart.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-id="HOY資訊台" tvg-name="HOY資訊台" tvg-logo="" group-title="GLOBE 香港",HOY資訊台
-http://tv543.cc/Smart.php?id=hoycaijing_twn
+https://smt.858.qzz.io/Smart.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="RHK 31" tvg-name="RHK 31" tvg-logo="" group-title="GLOBE 香港",RHK 31
-http://tv543.cc/Smart.php?id=rhk31_twn
+https://smt.858.qzz.io/Smart.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="VIUTV1" tvg-name="VIUTV1" tvg-logo="" group-title="GLOBE 香港",VIUTV1
-http://tv543.cc/Smart.php?id=viu1_twn
+https://smt.858.qzz.io/Smart.php?id=viu1_twn
 #EXTINF:-1 tvg-id="RHK 32" tvg-name="RHK 32" tvg-logo="" group-title="GLOBE 香港",RHK 32
-http://tv543.cc/Smart.php?id=rhk32_twn
+https://smt.858.qzz.io/Smart.php?id=rhk32_twn
 #EXTINF:-1 tvg-id="鳳凰衛視" tvg-name="鳳凰衛視" tvg-logo="" group-title="GLOBE 香港",鳳凰衛視
-http://tv543.cc/Smart.php?id=phoenixtv_hd
+https://smt.858.qzz.io/Smart.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="" group-title="GLOBE 香港",鳳凰資訊
-http://tv543.cc/Smart.php?id=phoenixinfo_hd
+https://smt.858.qzz.io/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="Viu6" tvg-name="Viu6" tvg-logo="" group-title="GLOBE 香港",Viu6
-http://tv543.cc/Smart.php?id=viusix_twn
+https://smt.858.qzz.io/Smart.php?id=viusix_twn
 #EXTINF:-1 tvg-id="CCTV-1 綜合 HD" tvg-name="CCTV-1 綜合 HD" tvg-logo="" group-title="GLOBE 大陸",CCTV-1 綜合 HD
-http://tv543.cc/Smart.php?id=cctv1
+https://smt.858.qzz.io/Smart.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-2 財經" tvg-name="CCTV-2 財經" tvg-logo="" group-title="GLOBE 大陸",CCTV-2 財經
-http://tv543.cc/Smart.php?id=cctv2
+https://smt.858.qzz.io/Smart.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-3 綜藝 HD" tvg-name="CCTV-3 綜藝 HD" tvg-logo="" group-title="GLOBE 大陸",CCTV-3 綜藝 HD
-http://tv543.cc/Smart.php?id=cctv3
+https://smt.858.qzz.io/Smart.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="GLOBE 大陸",CCTV-4 中文國際
-http://tv543.cc/Smart.php?id=cctv4
+https://smt.858.qzz.io/Smart.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV4 新聞台" tvg-name="CCTV4 新聞台" tvg-logo="" group-title="GLOBE 大陸",CCTV4 新聞台
-http://tv543.cc/Smart.php?id=Cctv4
+https://smt.858.qzz.io/Smart.php?id=Cctv4
 #EXTINF:-1 tvg-id="CCTV-5 體育頻道" tvg-name="CCTV-5 體育頻道" tvg-logo="" group-title="GLOBE 大陸",CCTV-5 體育頻道
-http://tv543.cc/Smart.php?id=cctv5
+https://smt.858.qzz.io/Smart.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV-5+ 體育賽事 HD" tvg-name="CCTV-5+ 體育賽事 HD" tvg-logo="" group-title="GLOBE 大陸",CCTV-5+ 體育賽事 HD
-http://tv543.cc/Smart.php?id=cctv5plus
+https://smt.858.qzz.io/Smart.php?id=cctv5plus
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="GLOBE 大陸",CCTV-6
-http://tv543.cc/Smart.php?id=cctv6
+https://smt.858.qzz.io/Smart.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-7 軍事農業" tvg-name="CCTV-7 軍事農業" tvg-logo="" group-title="GLOBE 大陸",CCTV-7 軍事農業
-http://tv543.cc/Smart.php?id=cctv7
+https://smt.858.qzz.io/Smart.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV-8 電視劇 HD" tvg-name="CCTV-8 電視劇 HD" tvg-logo="" group-title="GLOBE 大陸",CCTV-8 電視劇 HD
-http://tv543.cc/Smart.php?id=cctv8hd
+https://smt.858.qzz.io/Smart.php?id=cctv8hd
 #EXTINF:-1 tvg-id="CCTV-9 記錄 HD" tvg-name="CCTV-9 記錄 HD" tvg-logo="" group-title="GLOBE 大陸",CCTV-9 記錄 HD
-http://tv543.cc/Smart.php?id=cctv9hd
+https://smt.858.qzz.io/Smart.php?id=cctv9hd
 #EXTINF:-1 tvg-id="CCTV-10 科教 HD" tvg-name="CCTV-10 科教 HD" tvg-logo="" group-title="GLOBE 大陸",CCTV-10 科教 HD
-http://tv543.cc/Smart.php?id=cctv10hd
+https://smt.858.qzz.io/Smart.php?id=cctv10hd
 #EXTINF:-1 tvg-id="CCTV-11 戲曲" tvg-name="CCTV-11 戲曲" tvg-logo="" group-title="GLOBE 大陸",CCTV-11 戲曲
-http://tv543.cc/Smart.php?id=cctv11
+https://smt.858.qzz.io/Smart.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV-12 社會與法" tvg-name="CCTV-12 社會與法" tvg-logo="" group-title="GLOBE 大陸",CCTV-12 社會與法
-http://tv543.cc/Smart.php?id=cctv12
+https://smt.858.qzz.io/Smart.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV-13 新聞頻道" tvg-name="CCTV-13 新聞頻道" tvg-logo="" group-title="GLOBE 大陸",CCTV-13 新聞頻道
-http://tv543.cc/Smart.php?id=cctv13
+https://smt.858.qzz.io/Smart.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV-14 少兒" tvg-name="CCTV-14 少兒" tvg-logo="" group-title="GLOBE 大陸",CCTV-14 少兒
-http://tv543.cc/Smart.php?id=cctv14
+https://smt.858.qzz.io/Smart.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="GLOBE 大陸",CCTV-6
-http://tv543.cc/Smart.php?id=cctv6
+https://smt.858.qzz.io/Smart.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-15 音樂" tvg-name="CCTV-15 音樂" tvg-logo="" group-title="GLOBE 大陸",CCTV-15 音樂
-http://tv543.cc/Smart.php?id=cctv15
+https://smt.858.qzz.io/Smart.php?id=cctv15
 #EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="GLOBE 大陸",湖南衛視
-http://tv543.cc/Smart.php?id=hunan_twn
+https://smt.858.qzz.io/Smart.php?id=hunan_twn
 #EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="GLOBE 大陸",浙江衛視
-http://tv543.cc/Smart.php?id=zhejiang_twn
+https://smt.858.qzz.io/Smart.php?id=zhejiang_twn
 #EXTINF:-1 tvg-id="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="" group-title="GLOBE 大陸",江蘇衛視
-http://tv543.cc/Smart.php?id=jiangsu_twn
+https://smt.858.qzz.io/Smart.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="" group-title="GLOBE 大陸",深圳衛視
-http://tv543.cc/Smart.php?id=shenzhen
+https://smt.858.qzz.io/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-id="福建東南衛視" tvg-name="福建東南衛視" tvg-logo="" group-title="GLOBE 大陸",福建東南衛視
-http://tv543.cc/Smart.php?id=fujian
+https://smt.858.qzz.io/Smart.php?id=fujian
 #EXTINF:-1 tvg-id="廣東南方衛視" tvg-name="廣東南方衛視" tvg-logo="" group-title="GLOBE 大陸",廣東南方衛視
-http://tv543.cc/Smart.php?id=nanfang_twn
+https://smt.858.qzz.io/Smart.php?id=nanfang_twn
 #EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="GLOBE 大陸",廣東衛視
-http://tv543.cc/Smart.php?id=guangdongweishi_twn
+https://smt.858.qzz.io/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="" group-title="GLOBE 大陸",北京衛視
-http://tv543.cc/Smart.php?id=beijing
+https://smt.858.qzz.io/Smart.php?id=beijing
 #EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="GLOBE 大陸",珠江台
-http://tv543.cc/Smart.php?id=zhujiang
+https://smt.858.qzz.io/Smart.php?id=zhujiang
 #EXTINF:-1 tvg-id="廣西衛視" tvg-name="廣西衛視" tvg-logo="" group-title="GLOBE 大陸",廣西衛視
-http://tv543.cc/Smart.php?id=guangxi
+https://smt.858.qzz.io/Smart.php?id=guangxi
 #EXTINF:-1 tvg-id="湖北衛視" tvg-name="湖北衛視" tvg-logo="" group-title="GLOBE 大陸",湖北衛視
-http://tv543.cc/Smart.php?id=hubei
+https://smt.858.qzz.io/Smart.php?id=hubei
 #EXTINF:-1 tvg-id="四川衛視" tvg-name="四川衛視" tvg-logo="" group-title="GLOBE 大陸",四川衛視
-http://tv543.cc/Smart.php?id=sichuan_twn
+https://smt.858.qzz.io/Smart.php?id=sichuan_twn
 #EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="" group-title="GLOBE 大陸",東方衛視
-http://tv543.cc/Smart.php?id=dongfangweishi_twn
+https://smt.858.qzz.io/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GLOBE 大陸",CGTN
-http://tv543.cc/Smart.php?id=CGTN
+https://smt.858.qzz.io/Smart.php?id=CGTN
 #EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="GLOBE 體育",Astro Premier League 1
-http://tv543.cc/Smart.php?id=go_assp1
+https://smt.858.qzz.io/Smart.php?id=go_assp1
 #EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="GLOBE 體育",Astro EPL 1 backup
-http://tv543.cc/Smart.php?id=go_assp1x
+https://smt.858.qzz.io/Smart.php?id=go_assp1x
 #EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="GLOBE 體育",Astro Premier League 2
-http://tv543.cc/Smart.php?id=go_assp2
+https://smt.858.qzz.io/Smart.php?id=go_assp2
 #EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="GLOBE 體育",Astro Grandstand
-http://tv543.cc/Smart.php?id=go_assp3
+https://smt.858.qzz.io/Smart.php?id=go_assp3
 #EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="GLOBE 體育",Astro Football
-http://tv543.cc/Smart.php?id=go_assp4
+https://smt.858.qzz.io/Smart.php?id=go_assp4
 #EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="GLOBE 體育",Astro Sports Plus
-http://tv543.cc/Smart.php?id=go_sportsplus
+https://smt.858.qzz.io/Smart.php?id=go_sportsplus
 #EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="GLOBE 體育",Astro Badminton 1
-http://tv543.cc/Smart.php?id=go_badminton1
+https://smt.858.qzz.io/Smart.php?id=go_badminton1
 #EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="GLOBE 體育",Astro Badminton 2
-http://tv543.cc/Smart.php?id=go_badminton2
+https://smt.858.qzz.io/Smart.php?id=go_badminton2
 #EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="GLOBE 體育",Astro W-Sports
-http://tv543.cc/Smart.php?id=go_assp5
+https://smt.858.qzz.io/Smart.php?id=go_assp5
 #EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="GLOBE 體育",Supersports 1
-http://tv543.cc/Smart.php?id=Assp1
+https://smt.858.qzz.io/Smart.php?id=Assp1
 #EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="GLOBE 體育",Supersports 2
-http://tv543.cc/Smart.php?id=Assp2
+https://smt.858.qzz.io/Smart.php?id=Assp2
 #EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="GLOBE 體育",Supersports 3
-http://tv543.cc/Smart.php?id=Assp3
+https://smt.858.qzz.io/Smart.php?id=Assp3
 #EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="GLOBE 體育",Supersports 4
-http://tv543.cc/Smart.php?id=Assp4
+https://smt.858.qzz.io/Smart.php?id=Assp4
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="GLOBE 體育",WWE
-http://tv543.cc/Smart.php?id=Wwe
+https://smt.858.qzz.io/Smart.php?id=Wwe
 #EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="GLOBE 體育",Fight Sports
-http://tv543.cc/Smart.php?id=Fs
+https://smt.858.qzz.io/Smart.php?id=Fs
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="GLOBE 體育",NBA TV
-http://tv543.cc/Smart.php?id=Nba
+https://smt.858.qzz.io/Smart.php?id=Nba
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="GLOBE 體育",Astro Cricket
-http://tv543.cc/Smart.php?id=Acricket
+https://smt.858.qzz.io/Smart.php?id=Acricket
 #EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="GLOBE 體育",Astro Golf
-http://tv543.cc/Smart.php?id=Agolf
-#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="GLOBE 體育",TNT Sports 1
-http://tv543.cc/Smart.php?id=6fac0aaead
+https://smt.858.qzz.io/Smart.php?id=Agolf
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="" group-title="GLOBE 體育",TNT Sports 1
+https://smt.858.qzz.io/Smart.php?id=6fac0aaead
 #EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="GLOBE 體育",TNT Sports 2
-http://tv543.cc/Smart.php?id=d9a76a79cc
+https://smt.858.qzz.io/Smart.php?id=d9a76a79cc
 #EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="GLOBE 體育",TNT Sports 3
-http://tv543.cc/Smart.php?id=5fea4d73db
+https://smt.858.qzz.io/Smart.php?id=5fea4d73db
 #EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="GLOBE 體育",TNT Sports 4
-http://tv543.cc/Smart.php?id=tntsport4
+https://smt.858.qzz.io/Smart.php?id=tntsport4
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="GLOBE 體育",Sony Ten 1
-http://tv543.cc/Smart.php?id=ten1_raj
+https://smt.858.qzz.io/Smart.php?id=ten1_raj
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="GLOBE 體育",Sony Ten 2
-http://tv543.cc/Smart.php?id=ten2_raj
+https://smt.858.qzz.io/Smart.php?id=ten2_raj
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="GLOBE 體育",Sony Ten 3
-http://tv543.cc/Smart.php?id=ten3_raj
+https://smt.858.qzz.io/Smart.php?id=ten3_raj
 #EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="GLOBE 體育",SPOTV 1 HD
-http://tv543.cc/Smart.php?id=go_spotv
+https://smt.858.qzz.io/Smart.php?id=go_spotv
 #EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="GLOBE 體育",SPOTV 2
-http://tv543.cc/Smart.php?id=go_spotv2
+https://smt.858.qzz.io/Smart.php?id=go_spotv2
 #EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="GLOBE 體育",Skysports F1
-http://tv543.cc/Smart.php?id=tiankongf1
+https://smt.858.qzz.io/Smart.php?id=tiankongf1
 #EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="GLOBE 體育",Skysports Cricket
-http://tv543.cc/Smart.php?id=tiankongcricket
+https://smt.858.qzz.io/Smart.php?id=tiankongcricket
 #EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="GLOBE 體育",Skysports EPL
-http://tv543.cc/Smart.php?id=tiankongepl
+https://smt.858.qzz.io/Smart.php?id=tiankongepl
 #EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="GLOBE 體育",Skysports Main Event
-http://tv543.cc/Smart.php?id=tiankongmain
+https://smt.858.qzz.io/Smart.php?id=tiankongmain
 #EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="GLOBE 體育",Skysports News
-http://tv543.cc/Smart.php?id=tiankongnews
+https://smt.858.qzz.io/Smart.php?id=tiankongnews
 #EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="GLOBE 體育",Skysports Mix
-http://tv543.cc/Smart.php?id=tiankongmix
+https://smt.858.qzz.io/Smart.php?id=tiankongmix
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育1台
-http://tv543.cc/Smart.php?id=eltasport1_twn
+https://smt.858.qzz.io/Smart.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育2台
-http://tv543.cc/Smart.php?id=eltasport2_twn
+https://smt.858.qzz.io/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育3台
-http://tv543.cc/Smart.php?id=eltasport3_twn
+https://smt.858.qzz.io/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育4台
-http://tv543.cc/Smart.php?id=natgeowild_twn
+https://smt.858.qzz.io/Smart.php?id=natgeowild_twn
 #EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="GLOBE 體育",Rugby Pass TV
-http://tv543.cc/Smart.php?id=Rugbypasstv
+https://smt.858.qzz.io/Smart.php?id=Rugbypasstv
 #EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="GLOBE 體育",RTM Sports HD
-http://tv543.cc/Smart.php?id=Rtmsport
+https://smt.858.qzz.io/Smart.php?id=Rtmsport
 #EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="GLOBE 體育",Arena
-http://tv543.cc/Smart.php?id=Arena
+https://smt.858.qzz.io/Smart.php?id=Arena
 #EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="GLOBE 體育",Arena 2
-http://tv543.cc/Smart.php?id=Arena2
+https://smt.858.qzz.io/Smart.php?id=Arena2
 #EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="GLOBE 體育",BolaArena 1
-http://tv543.cc/Smart.php?id=Bolaarena1
+https://smt.858.qzz.io/Smart.php?id=Bolaarena1
 #EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="GLOBE 體育",BolaArena 2
-http://tv543.cc/Smart.php?id=Bolaarena2
+https://smt.858.qzz.io/Smart.php?id=Bolaarena2
 #EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="GLOBE 體育",Astro Beinsports 1
-http://tv543.cc/Smart.php?id=Astrobein1
+https://smt.858.qzz.io/Smart.php?id=Astrobein1
 #EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="GLOBE 體育",Astro Beinsports 2
-http://tv543.cc/Smart.php?id=Astrobein2
+https://smt.858.qzz.io/Smart.php?id=Astrobein2
 #EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="GLOBE 體育",Astro Beinsports 3
-http://tv543.cc/Smart.php?id=Astrobein3
+https://smt.858.qzz.io/Smart.php?id=Astrobein3
 #EXTINF:-1 tvg-id="TVBS News 新聞台" tvg-name="TVBS News 新聞台" tvg-logo="" group-title="GLOBE 台灣",TVBS News 新聞台
-http://tv543.cc/Smart.php?id=tvbs_n
+https://smt.858.qzz.io/Smart.php?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS 歡樂台 （備份）" tvg-name="TVBS 歡樂台 （備份）" tvg-logo="" group-title="GLOBE 台灣",TVBS 歡樂台 （備份）
-http://tv543.cc/Smart.php?id=tvbshuanle_twn
+https://smt.858.qzz.io/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="GLOBE 台灣",TVBS HD
-http://tv543.cc/Smart.php?id=tvbs
+https://smt.858.qzz.io/Smart.php?id=tvbs
 #EXTINF:-1 tvg-id="中天新聞 HD" tvg-name="中天新聞 HD" tvg-logo="" group-title="GLOBE 台灣",中天新聞 HD
-http://tv543.cc/Smart.php?id=ctinews
+https://smt.858.qzz.io/Smart.php?id=ctinews
 #EXTINF:-1 tvg-id="中天娛樂 CTI Entertaiment" tvg-name="中天娛樂 CTI Entertaiment" tvg-logo="" group-title="GLOBE 台灣",中天娛樂 CTI Entertaiment
-http://tv543.cc/Smart.php?id=ctient
+https://smt.858.qzz.io/Smart.php?id=ctient
 #EXTINF:-1 tvg-id="中天綜合 CTI Metro" tvg-name="中天綜合 CTI Metro" tvg-logo="" group-title="GLOBE 台灣",中天綜合 CTI Metro
-http://tv543.cc/Smart.php?id=ctizhonghe
+https://smt.858.qzz.io/Smart.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="" group-title="GLOBE 台灣",中天亞洲台
-http://tv543.cc/Smart.php?id=ctiasia_twn
+https://smt.858.qzz.io/Smart.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="台視 TTV HD" tvg-name="台視 TTV HD" tvg-logo="" group-title="GLOBE 台灣",台視 TTV HD
-http://tv543.cc/Smart.php?id=ttv_taiwan
+https://smt.858.qzz.io/Smart.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="" group-title="GLOBE 台灣",台視新聞台
-http://tv543.cc/Smart.php?id=ttvnews_twn
+https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="台視綜合台" tvg-name="台視綜合台" tvg-logo="" group-title="GLOBE 台灣",台視綜合台
-http://tv543.cc/Smart.php?id=ttvzhonghe
+https://smt.858.qzz.io/Smart.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="中視 HD" tvg-name="中視 HD" tvg-logo="" group-title="GLOBE 台灣",中視 HD
-http://tv543.cc/Smart.php?id=zhongshihd_twn
+https://smt.858.qzz.io/Smart.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="" group-title="GLOBE 台灣",中視新聞台
-http://tv543.cc/Smart.php?id=zhongshinews_twn
+https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="" group-title="GLOBE 台灣",民視 HD
-http://tv543.cc/Smart.php?id=ftvhd_taiwan
+https://smt.858.qzz.io/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="民視新聞台 FTV News" tvg-name="民視新聞台 FTV News" tvg-logo="" group-title="GLOBE 台灣",民視新聞台 FTV News
-http://tv543.cc/Smart.php?id=ftvnew_taiwan
+https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="" group-title="GLOBE 台灣",民視台灣台
-http://tv543.cc/Smart.php?id=ftvtaiwan_twn
+https://smt.858.qzz.io/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="華視 CTS HD" tvg-name="華視 CTS HD" tvg-logo="" group-title="GLOBE 台灣",華視 CTS HD
-http://tv543.cc/Smart.php?id=ctshd_twn
+https://smt.858.qzz.io/Smart.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="公視 CTV" tvg-name="公視 CTV" tvg-logo="" group-title="GLOBE 台灣",公視 CTV
-http://tv543.cc/Smart.php?id=ctv18_twn
+https://smt.858.qzz.io/Smart.php?id=ctv18_twn
 #EXTINF:-1 tvg-id="八大第一 GTV First" tvg-name="八大第一 GTV First" tvg-logo="" group-title="GLOBE 台灣",八大第一 GTV First
-http://tv543.cc/Smart.php?id=badafirst
+https://smt.858.qzz.io/Smart.php?id=badafirst
 #EXTINF:-1 tvg-id="八大綜合 GTV Metro" tvg-name="八大綜合 GTV Metro" tvg-logo="" group-title="GLOBE 台灣",八大綜合 GTV Metro
-http://tv543.cc/Smart.php?id=badazhonghe
+https://smt.858.qzz.io/Smart.php?id=badazhonghe
 #EXTINF:-1 tvg-id="八大戲劇 GTV Drama" tvg-name="八大戲劇 GTV Drama" tvg-logo="" group-title="GLOBE 台灣",八大戲劇 GTV Drama
-http://tv543.cc/Smart.php?id=badadrama
+https://smt.858.qzz.io/Smart.php?id=badadrama
 #EXTINF:-1 tvg-id="八大娛樂 GTV Entertainment" tvg-name="八大娛樂 GTV Entertainment" tvg-logo="" group-title="GLOBE 台灣",八大娛樂 GTV Entertainment
-http://tv543.cc/Smart.php?id=badaentertain
+https://smt.858.qzz.io/Smart.php?id=badaentertain
 #EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GLOBE 台灣",HBO_HD
-http://tv543.cc/Smart.php?id=hbohd_twn
+https://smt.858.qzz.io/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GLOBE 台灣",HBO_HITS
-http://tv543.cc/Smart.php?id=hbohit_twn
+https://smt.858.qzz.io/Smart.php?id=hbohit_twn
 #EXTINF:-1 tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="" group-title="GLOBE 台灣",Hollywood Movies
-http://tv543.cc/Smart.php?id=hollywoodmovies_twn
+https://smt.858.qzz.io/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="三立台灣 Sanli Taiwan" tvg-name="三立台灣 Sanli Taiwan" tvg-logo="" group-title="GLOBE 台灣",三立台灣 Sanli Taiwan
-http://tv543.cc/Smart.php?id=sanlitaiwan
+https://smt.858.qzz.io/Smart.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="" group-title="GLOBE 台灣",三立戲劇台
-http://tv543.cc/Smart.php?id=sanlixiju_twn
+https://smt.858.qzz.io/Smart.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-id="三立綜合 Sanli Metro" tvg-name="三立綜合 Sanli Metro" tvg-logo="" group-title="GLOBE 台灣",三立綜合 Sanli Metro
-http://tv543.cc/Smart.php?id=sanlizhonghe
+https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="" group-title="GLOBE 台灣",三立都會台
-http://tv543.cc/Smart.php?id=sanlidouhui
+https://smt.858.qzz.io/Smart.php?id=sanlidouhui
 #EXTINF:-1 tvg-id="東森新聞 ETTV News" tvg-name="東森新聞 ETTV News" tvg-logo="" group-title="GLOBE 台灣",東森新聞 ETTV News
-http://tv543.cc/Smart.php?id=ettvnews
+https://smt.858.qzz.io/Smart.php?id=ettvnews
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GLOBE 台灣",CINEMAX
-http://tv543.cc/Smart.php?id=cinemax_twn
+https://smt.858.qzz.io/Smart.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="東森綜合 ETTV Metro" tvg-name="東森綜合 ETTV Metro" tvg-logo="" group-title="GLOBE 台灣",東森綜合 ETTV Metro
-http://tv543.cc/Smart.php?id=ettvzhonghe
+https://smt.858.qzz.io/Smart.php?id=ettvzhonghe
 #EXTINF:-1 tvg-id="東森戲劇 ETTV Drama" tvg-name="東森戲劇 ETTV Drama" tvg-logo="" group-title="GLOBE 台灣",東森戲劇 ETTV Drama
-http://tv543.cc/Smart.php?id=ettvdrama
+https://smt.858.qzz.io/Smart.php?id=ettvdrama
 #EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="GLOBE 台灣",東森超視
-http://tv543.cc/Smart.php?id=ettvsuper
+https://smt.858.qzz.io/Smart.php?id=ettvsuper
 #EXTINF:-1 tvg-id="東森財經新聞 ETTV Business" tvg-name="東森財經新聞 ETTV Business" tvg-logo="" group-title="GLOBE 台灣",東森財經新聞 ETTV Business
-http://tv543.cc/Smart.php?id=ettvcaijing_twn
+https://smt.858.qzz.io/Smart.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="寰宇財經" tvg-name="寰宇財經" tvg-logo="" group-title="GLOBE 台灣",寰宇財經
-http://tv543.cc/Smart.php?id=huanyutaiwan_twn
+https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="GLOBE 台灣",寰宇新聞台
-http://tv543.cc/Smart.php?id=huanyuxinwen_twn
+https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="公視2" tvg-name="公視2" tvg-logo="" group-title="GLOBE 台灣",公視2
-http://tv543.cc/Smart.php?id=ctv2_twn
+https://smt.858.qzz.io/Smart.php?id=ctv2_twn
 #EXTINF:-1 tvg-id="大愛1台" tvg-name="大愛1台" tvg-logo="" group-title="GLOBE 台灣",大愛1台
-http://tv543.cc/Smart.php?id=daai_twn
+https://smt.858.qzz.io/Smart.php?id=daai_twn
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="" group-title="GLOBE 台灣",非凡新聞台
-http://tv543.cc/Smart.php?id=feifannews_twn
+https://smt.858.qzz.io/Smart.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="龍華戲劇 Lunghua Drama" tvg-name="龍華戲劇 Lunghua Drama" tvg-logo="" group-title="GLOBE 台灣",龍華戲劇 Lunghua Drama
-http://tv543.cc/Smart.php?id=lunghuaxiju_twn
+https://smt.858.qzz.io/Smart.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="" group-title="GLOBE 台灣",龍華經典台
-http://tv543.cc/Smart.php?id=lunghuajingdian_twn
+https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="" group-title="GLOBE 台灣",龍華偶像
-http://tv543.cc/Smart.php?id=lunghuaidol_twn
+https://smt.858.qzz.io/Smart.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GLOBE 台灣",AXN Taiwan
-http://tv543.cc/Smart.php?id=axn_twn
+https://smt.858.qzz.io/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="" group-title="GLOBE 台灣",靖天國際台
-http://tv543.cc/Smart.php?id=jingtianintl_twn
+https://smt.858.qzz.io/Smart.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="GLOBE 台灣",年代新聞
-http://tv543.cc/Smart.php?id=niandainews_twn
+https://smt.858.qzz.io/Smart.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="" group-title="GLOBE 台灣",緯來日本台
-http://tv543.cc/Smart.php?id=videolandjapan
+https://smt.858.qzz.io/Smart.php?id=videolandjapan
 #EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="" group-title="GLOBE 台灣",緯來電影台
-http://tv543.cc/Smart.php?id=videolandmovie
+https://smt.858.qzz.io/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="" group-title="GLOBE 台灣",緯來體育台
-http://tv543.cc/Smart.php?id=videolandsport
+https://smt.858.qzz.io/Smart.php?id=videolandsport
 #EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="" group-title="GLOBE 台灣",緯來綜合台
-http://tv543.cc/Smart.php?id=videolandzonghe
+https://smt.858.qzz.io/Smart.php?id=videolandzonghe
 #EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="GLOBE 台灣",緯來育樂
-http://tv543.cc/Smart.php?id=videolandyule
+https://smt.858.qzz.io/Smart.php?id=videolandyule
 #EXTINF:-1 tvg-id="緯來精彩" tvg-name="緯來精彩" tvg-logo="" group-title="GLOBE 台灣",緯來精彩
-http://tv543.cc/Smart.php?id=videolandspecial_twn
+https://smt.858.qzz.io/Smart.php?id=videolandspecial_twn
 #EXTINF:-1 tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="" group-title="GLOBE 台灣",好消息 2
-http://tv543.cc/Smart.php?id=good2_twn
+https://smt.858.qzz.io/Smart.php?id=good2_twn
 #EXTINF:-1 tvg-id="大愛2台" tvg-name="大愛2台" tvg-logo="" group-title="GLOBE 台灣",大愛2台
-http://tv543.cc/Smart.php?id=daai2_twn
+https://smt.858.qzz.io/Smart.php?id=daai2_twn
 #EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="GLOBE 台灣",亞洲美食
-http://tv543.cc/Smart.php?id=afc_twn
+https://smt.858.qzz.io/Smart.php?id=afc_twn
 #EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GLOBE 台灣",美食星球
-http://tv543.cc/Smart.php?id=foodplanet_twn
+https://smt.858.qzz.io/Smart.php?id=foodplanet_twn
 #EXTINF:-1 tvg-id="亞洲旅遊 TLC Asia" tvg-name="亞洲旅遊 TLC Asia" tvg-logo="" group-title="GLOBE 台灣",亞洲旅遊 TLC Asia
-http://tv543.cc/Smart.php?id=tlc_twn
+https://smt.858.qzz.io/Smart.php?id=tlc_twn
 #EXTINF:-1 tvg-id="東森電影 ETTV Movie" tvg-name="東森電影 ETTV Movie" tvg-logo="" group-title="GLOBE 台灣",東森電影 ETTV Movie
-http://tv543.cc/Smart.php?id=ettvmovie
+https://smt.858.qzz.io/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-id="阿裡郎 Arirang" tvg-name="阿裡郎 Arirang" tvg-logo="" group-title="GLOBE 台灣",阿里郎 Arirang
-http://tv543.cc/Smart.php?id=arirang_twn
+https://smt.858.qzz.io/Smart.php?id=arirang_twn
 #EXTINF:-1 tvg-id="博斯運動 1" tvg-name="博斯運動 1" tvg-logo="" group-title="GLOBE 台灣",博斯運動 1
-http://tv543.cc/Smart.php?id=bosisport1_twn
+https://smt.858.qzz.io/Smart.php?id=bosisport1_twn
 #EXTINF:-1 tvg-id="博斯運動 2" tvg-name="博斯運動 2" tvg-logo="" group-title="GLOBE 台灣",博斯運動 2
-http://tv543.cc/Smart.php?id=bosisport2_twn
+https://smt.858.qzz.io/Smart.php?id=bosisport2_twn
 #EXTINF:-1 tvg-id="博斯高球1 HD" tvg-name="博斯高球1 HD" tvg-logo="" group-title="GLOBE 台灣",博斯高球1 HD
-http://tv543.cc/Smart.php?id=bosigolf1_twn
+https://smt.858.qzz.io/Smart.php?id=bosigolf1_twn
 #EXTINF:-1 tvg-id="博斯高球2 HD" tvg-name="博斯高球2 HD" tvg-logo="" group-title="GLOBE 台灣",博斯高球2 HD
-http://tv543.cc/Smart.php?id=bosigolf2_twn
+https://smt.858.qzz.io/Smart.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-id="博斯網球 HD" tvg-name="博斯網球 HD" tvg-logo="" group-title="GLOBE 台灣",博斯網球 HD
-http://tv543.cc/Smart.php?id=bositennis_twn
+https://smt.858.qzz.io/Smart.php?id=bositennis_twn
 #EXTINF:-1 tvg-id="東森洋片 ETTV Western" tvg-name="東森洋片 ETTV Western" tvg-logo="" group-title="GLOBE 台灣",東森洋片 ETTV Western
-http://tv543.cc/Smart.php?id=ettvwestern
+https://smt.858.qzz.io/Smart.php?id=ettvwestern
 #EXTINF:-1 tvg-id="龍華洋片 Lunghua Western" tvg-name="龍華洋片 Lunghua Western" tvg-logo="" group-title="GLOBE 台灣",龍華洋片 Lunghua Western
-http://tv543.cc/Smart.php?id=lunghuawestern_twn
+https://smt.858.qzz.io/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="" group-title="GLOBE 台灣",博斯無限
-http://tv543.cc/Smart.php?id=bosiunlimited_twn
+https://smt.858.qzz.io/Smart.php?id=bosiunlimited_twn
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GLOBE 台灣",MTV Live
-http://tv543.cc/Smart.php?id=mtvhd_twn
+https://smt.858.qzz.io/Smart.php?id=mtvhd_twn
 #EXTINF:-1 tvg-id="龍詳時代" tvg-name="龍詳時代" tvg-logo="" group-title="GLOBE 台灣",龍詳時代
-http://tv543.cc/Smart.php?id=lungxiangtime_twn
+https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="EYETV 旅遊" tvg-name="EYETV 旅遊" tvg-logo="" group-title="GLOBE 台灣",EYETV 旅遊
-http://tv543.cc/Smart.php?id=eyetvtravel_twn
+https://smt.858.qzz.io/Smart.php?id=eyetvtravel_twn
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="" group-title="GLOBE 台灣",靖天卡通台
-http://tv543.cc/Smart.php?id=jingtiancartoon_twn
+https://smt.858.qzz.io/Smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="EYETV 戲劇" tvg-name="EYETV 戲劇" tvg-logo="" group-title="GLOBE 台灣",EYETV 戲劇
-http://tv543.cc/Smart.php?id=eyetvxiju_twn
+https://smt.858.qzz.io/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="衛視中文台 Star Movies Chinese" tvg-name="衛視中文台 Star Movies Chinese" tvg-logo="" group-title="GLOBE 台灣",衛視中文台 Star Movies Chinese
-http://tv543.cc/Smart.php?id=weishichinese_twn
+https://smt.858.qzz.io/Smart.php?id=weishichinese_twn
 #EXTINF:-1 tvg-id="東森幼幼 Yoyo TV" tvg-name="東森幼幼 Yoyo TV" tvg-logo="" group-title="GLOBE 台灣",東森幼幼 Yoyo TV
-http://tv543.cc/Smart.php?id=yoyo_twn
+https://smt.858.qzz.io/Smart.php?id=yoyo_twn
 #EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="GLOBE 台灣",衛視電影台
-http://tv543.cc/Smart.php?id=weishimovie_twn
+https://smt.858.qzz.io/Smart.php?id=weishimovie_twn
 #EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="GLOBE 台灣",美亞電影
-http://tv543.cc/Smart.php?id=meiyamovie_twn
+https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="GLOBE 台灣",愛爾達影劇台
-http://tv543.cc/Smart.php?id=eltayingju_twn
+https://smt.858.qzz.io/Smart.php?id=eltayingju_twn
 #EXTINF:-1 tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="GLOBE 台灣",愛爾達綜合台
-http://tv543.cc/Smart.php?id=eltazonghe_twn
+https://smt.858.qzz.io/Smart.php?id=eltazonghe_twn
 #EXTINF:-1 tvg-id="星衛電影" tvg-name="星衛電影" tvg-logo="" group-title="GLOBE 台灣",星衛電影
-http://tv543.cc/Smart.php?id=xingwei_movie
+https://smt.858.qzz.io/Smart.php?id=xingwei_movie
 #EXTINF:-1 tvg-id="AFC 亞洲旅遊台" tvg-name="AFC 亞洲旅遊台" tvg-logo="" group-title="GLOBE 台灣",AFC 亞洲旅遊台
-http://tv543.cc/Smart.php?id=asiatravel_twn
+https://smt.858.qzz.io/Smart.php?id=asiatravel_twn
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="GLOBE 電影",Cinemax
-http://tv543.cc/Smart.php?id=Cinemax
+https://smt.858.qzz.io/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GLOBE 電影",Animax
-http://tv543.cc/Smart.php?id=Animax
+https://smt.858.qzz.io/Smart.php?id=Animax
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="GLOBE 電影",Movies Now HD
-http://tv543.cc/Smart.php?id=moviesnow_raj
+https://smt.858.qzz.io/Smart.php?id=moviesnow_raj
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="GLOBE 電影",Star Movies HD
-http://tv543.cc/Smart.php?id=starmovies_raj
+https://smt.858.qzz.io/Smart.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="GLOBE 電影",HBO Family
-http://tv543.cc/Smart.php?id=Hbofamily
+https://smt.858.qzz.io/Smart.php?id=Hbofamily
 #EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="GLOBE 電影",Hits
-http://tv543.cc/Smart.php?id=Hits
+https://smt.858.qzz.io/Smart.php?id=Hits
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GLOBE 電影",Warner TV
-http://tv543.cc/Smart.php?id=WarnerTV
+https://smt.858.qzz.io/Smart.php?id=WarnerTV
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GLOBE 電影",HBO HD
-http://tv543.cc/Smart.php?id=Hbo
+https://smt.858.qzz.io/Smart.php?id=Hbo
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="GLOBE 電影",HBO Signature
-http://tv543.cc/Smart.php?id=Hbosignature
+https://smt.858.qzz.io/Smart.php?id=Hbosignature
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="GLOBE 電影",HBO Hits
-http://tv543.cc/Smart.php?id=Hbohitshd
+https://smt.858.qzz.io/Smart.php?id=Hbohitshd
 #EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="GLOBE 電影",SCM
-http://tv543.cc/Smart.php?id=Weishimovie
+https://smt.858.qzz.io/Smart.php?id=Weishimovie
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="GLOBE 電影",Dreamworks
-http://tv543.cc/Smart.php?id=Dreamworks
+https://smt.858.qzz.io/Smart.php?id=Dreamworks
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GLOBE 電影",Thrill
-http://tv543.cc/Smart.php?id=Thrill
+https://smt.858.qzz.io/Smart.php?id=Thrill
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GLOBE 電影",Hits Movie
-http://tv543.cc/Smart.php?id=Hitsmovie
+https://smt.858.qzz.io/Smart.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GLOBE 電影",One
-http://tv543.cc/Smart.php?id=One
+https://smt.858.qzz.io/Smart.php?id=One
 #EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GLOBE 電影",tvN Movie
-http://tv543.cc/Smart.php?id=Tvnmovie
+https://smt.858.qzz.io/Smart.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="" group-title="GLOBE 電影",Celestial Classic
-http://tv543.cc/Smart.php?id=Celestial2
+https://smt.858.qzz.io/Smart.php?id=Celestial2
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GLOBE 電影",Celestial Movies HD
-http://tv543.cc/Smart.php?id=Celestialindo
+https://smt.858.qzz.io/Smart.php?id=Celestialindo
 #EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GLOBE 電影",Axn HD
-http://tv543.cc/Smart.php?id=Axn
+https://smt.858.qzz.io/Smart.php?id=Axn
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="GLOBE 電影",Paramount Network
-http://tv543.cc/Smart.php?id=Paramountnetwork
+https://smt.858.qzz.io/Smart.php?id=Paramountnetwork
 #EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="GLOBE 電影",Astrol Kplus
-http://tv543.cc/Smart.php?id=Kplus
+https://smt.858.qzz.io/Smart.php?id=Kplus
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GLOBE 電影",Rock Actions
-http://tv543.cc/Smart.php?id=Rockaction
+https://smt.858.qzz.io/Smart.php?id=Rockaction
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GLOBE 電影",Rock Entertainment
-http://tv543.cc/Smart.php?id=Rockentertain
+https://smt.858.qzz.io/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="" group-title="GLOBE 記錄",Natgeo_HD
-http://tv543.cc/Smart.php?id=natgeohd_twn
+https://smt.858.qzz.io/Smart.php?id=natgeohd_twn
 #EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="" group-title="GLOBE 記錄",NatGeo_Wild HD
-http://tv543.cc/Smart.php?id=natgeowild_twn
+https://smt.858.qzz.io/Smart.php?id=natgeowild_twn
 #EXTINF:-1 tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="" group-title="GLOBE 記錄",Animal_Planet
-http://tv543.cc/Smart.php?id=animalplanet_twn
+https://smt.858.qzz.io/Smart.php?id=animalplanet_twn
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="" group-title="GLOBE 記錄",Discovery Asia
-http://tv543.cc/Smart.php?id=discoverytwn_twn
+https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="" group-title="GLOBE 記錄",CI
-http://tv543.cc/Smart.php?id=ci_twn
+https://smt.858.qzz.io/Smart.php?id=ci_twn
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="" group-title="GLOBE 記錄",Discovery HD
-http://tv543.cc/Smart.php?id=discoveryhd_twn
+https://smt.858.qzz.io/Smart.php?id=discoveryhd_twn
 #EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="GLOBE 記錄",NatGeo HD
-http://tv543.cc/Smart.php?id=Natgeo
+https://smt.858.qzz.io/Smart.php?id=Natgeo
 #EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="" group-title="GLOBE 記錄",Fashion TV
-http://tv543.cc/Smart.php?id=fashiontv_twn
+https://smt.858.qzz.io/Smart.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="GLOBE 記錄",History
-http://tv543.cc/Smart.php?id=History
+https://smt.858.qzz.io/Smart.php?id=History
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="GLOBE 記錄",BBC Earth HD
-http://tv543.cc/Smart.php?id=bbcearth_twn
+https://smt.858.qzz.io/Smart.php?id=bbcearth_twn
 #EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="GLOBE 記錄",BBC Earth Lifestyle
-http://tv543.cc/Smart.php?id=bbclifestyle_twn
+https://smt.858.qzz.io/Smart.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GLOBE 記錄",NatGeo Wild HD
-http://tv543.cc/Smart.php?id=Natgeowild
+https://smt.858.qzz.io/Smart.php?id=Natgeowild
 #EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GLOBE 記錄",Animal Planet (Eng)
-http://tv543.cc/Smart.php?id=AnimalPlanet
+https://smt.858.qzz.io/Smart.php?id=AnimalPlanet
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GLOBE 記錄",TLC
-http://tv543.cc/Smart.php?id=Tlc
+https://smt.858.qzz.io/Smart.php?id=Tlc
 #EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="GLOBE 記錄",Foodnetwork Hd
-http://tv543.cc/Smart.php?id=Foodnetwork
+https://smt.858.qzz.io/Smart.php?id=Foodnetwork
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GLOBE 記錄",HGTV
-http://tv543.cc/Smart.php?id=HGTV
+https://smt.858.qzz.io/Smart.php?id=HGTV
 #EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="GLOBE 新聞",Skynews
-http://tv543.cc/Smart.php?id=skynews_twn
+https://smt.858.qzz.io/Smart.php?id=skynews_twn
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="" group-title="GLOBE 新聞",ABC News
-http://tv543.cc/Smart.php?id=abcnews_glo
+https://smt.858.qzz.io/Smart.php?id=abcnews_glo
 #EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="" group-title="GLOBE 新聞",CBS HD
-http://tv543.cc/Smart.php?id=cbshd_glo
+https://smt.858.qzz.io/Smart.php?id=cbshd_glo
 #EXTINF:-1 tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="" group-title="GLOBE 新聞",CBSN HD
-http://tv543.cc/Smart.php?id=cbsn_glo
+https://smt.858.qzz.io/Smart.php?id=cbsn_glo
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="GLOBE 新聞",France 24
-http://tv543.cc/Smart.php?id=france24_twn
+https://smt.858.qzz.io/Smart.php?id=france24_twn
 #EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="GLOBE 新聞",DW (Deutsch)
-http://tv543.cc/Smart.php?id=dw_twn
+https://smt.858.qzz.io/Smart.php?id=dw_twn
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="GLOBE 新聞",NHK World
-http://tv543.cc/Smart.php?id=nhkworld_japan
+https://smt.858.qzz.io/Smart.php?id=nhkworld_japan
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="" group-title="GLOBE 新聞",Fox News
-http://tv543.cc/Smart.php?id=foxnews_twn
+https://smt.858.qzz.io/Smart.php?id=foxnews_twn
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="GLOBE 新聞",CNN International
-http://tv543.cc/Smart.php?id=Cnn
+https://smt.858.qzz.io/Smart.php?id=Cnn
 #EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="GLOBE 新聞",CNN backup
-http://tv543.cc/Smart.php?id=cnn_twn
+https://smt.858.qzz.io/Smart.php?id=cnn_twn
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GLOBE 新聞",CNBC
-http://tv543.cc/Smart.php?id=cnbc_twn
+https://smt.858.qzz.io/Smart.php?id=cnbc_twn
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GLOBE 新聞",CNA
-http://tv543.cc/Smart.php?id=cna
+https://smt.858.qzz.io/Smart.php?id=cna
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GLOBE 新聞",BBC World News
-http://tv543.cc/Smart.php?id=bbcnews_twn
+https://smt.858.qzz.io/Smart.php?id=bbcnews_twn
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GLOBE 新聞",BBC World News
-http://tv543.cc/Smart.php?id=Bbcnews
+https://smt.858.qzz.io/Smart.php?id=Bbcnews
 #EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GLOBE 新聞",Bloomberg News
-http://tv543.cc/Smart.php?id=bloomberg_twn
+https://smt.858.qzz.io/Smart.php?id=bloomberg_twn
 #EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GLOBE 新聞",Al-Jazeera
-http://tv543.cc/Smart.php?id=aljazeera_twn
+https://smt.858.qzz.io/Smart.php?id=aljazeera_twn
 #EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="" group-title="GLOBE 兒童",Baby TV Eng
-http://tv543.cc/Smart.php?id=Babytv
+https://smt.858.qzz.io/Smart.php?id=Babytv
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="GLOBE 兒童",CBeebies
-http://tv543.cc/Smart.php?id=Cbeebies
+https://smt.858.qzz.io/Smart.php?id=Cbeebies
 #EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="GLOBE 兒童",Kids TV
-http://tv543.cc/Smart.php?id=KidsTV
+https://smt.858.qzz.io/Smart.php?id=KidsTV
 #EXTINF:-1 tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="" group-title="GLOBE 兒童",Momo TV
-http://tv543.cc/Smart.php?id=momo1_twn
+https://smt.858.qzz.io/Smart.php?id=momo1_twn
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="GLOBE 兒童",Baby TV
-http://tv543.cc/Smart.php?id=babytv_twn
+https://smt.858.qzz.io/Smart.php?id=babytv_twn
 #EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="GLOBE 兒童",MiaoMi
-http://tv543.cc/Smart.php?id=MiaoMi
+https://smt.858.qzz.io/Smart.php?id=MiaoMi
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="GLOBE 兒童",Cartoon Network
-http://tv543.cc/Smart.php?id=Cn
+https://smt.858.qzz.io/Smart.php?id=Cn
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GLOBE 兒童",Nickelodeon
-http://tv543.cc/Smart.php?id=Nickelodeon
+https://smt.858.qzz.io/Smart.php?id=Nickelodeon
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GLOBE 兒童",Nick Jr
-http://tv543.cc/Smart.php?id=Nickjr
+https://smt.858.qzz.io/Smart.php?id=Nickjr
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GLOBE 新加坡",Channel 5
-http://tv543.cc/Smart.php?id=Channel5HD
+https://smt.858.qzz.io/Smart.php?id=Channel5HD
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GLOBE 新加坡",Channel 8
-http://tv543.cc/Smart.php?id=Channel8HD
+https://smt.858.qzz.io/Smart.php?id=Channel8HD
 #EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GLOBE 新加坡",Suria
-http://tv543.cc/Smart.php?id=Suria
+https://smt.858.qzz.io/Smart.php?id=Suria
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GLOBE 新加坡",Channel U
-http://tv543.cc/Smart.php?id=ChannelU
+https://smt.858.qzz.io/Smart.php?id=ChannelU
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="GLOBE 新加坡",Vasantham
-http://tv543.cc/Smart.php?id=Vasantham
+https://smt.858.qzz.io/Smart.php?id=Vasantham
 #EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="" group-title="GLOBE 新加坡",CNA backup
-http://tv543.cc/Smart.php?id=cna_twn
+https://smt.858.qzz.io/Smart.php?id=cna_twn
 #EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GLOBE 新加坡",MeWatch Ch 5
-http://tv543.cc/Smart.php?id=Mewatch_ch5
+https://smt.858.qzz.io/Smart.php?id=Mewatch_ch5
 #EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GLOBE 新加坡",MeWatch Ch 8
-http://tv543.cc/Smart.php?id=Mewatch_ch8
+https://smt.858.qzz.io/Smart.php?id=Mewatch_ch8
 #EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GLOBE 新加坡",MeWatch Ch U
-http://tv543.cc/Smart.php?id=Mewatch_chU
+https://smt.858.qzz.io/Smart.php?id=Mewatch_chU
 #EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GLOBE 新加坡",MeWatch Suria
-http://tv543.cc/Smart.php?id=Mewatch_Suria
+https://smt.858.qzz.io/Smart.php?id=Mewatch_Suria
 #EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GLOBE 新加坡",MeWatch Vasantham
-http://tv543.cc/Smart.php?id=Mewatch_Vasantham
+https://smt.858.qzz.io/Smart.php?id=Mewatch_Vasantham
 #EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GLOBE 新加坡",MeWatch CNA
-http://tv543.cc/Smart.php?id=Mewatch_cna
+https://smt.858.qzz.io/Smart.php?id=Mewatch_cna
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="GLOBE 馬來西亞",TV1
-http://tv543.cc/Smart.php?id=TV1
+https://smt.858.qzz.io/Smart.php?id=TV1
 #EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="" group-title="GLOBE 馬來西亞",TV1 backup
-http://tv543.cc/Smart.php?id=TV1_backup
+https://smt.858.qzz.io/Smart.php?id=TV1_backup
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="" group-title="GLOBE 馬來西亞",TV2
-http://tv543.cc/Smart.php?id=TV2
+https://smt.858.qzz.io/Smart.php?id=TV2
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="" group-title="GLOBE 馬來西亞",TV3
-http://tv543.cc/Smart.php?id=TV3
+https://smt.858.qzz.io/Smart.php?id=TV3
 #EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="" group-title="GLOBE 馬來西亞",TV3 SD
-http://tv543.cc/Smart.php?id=TV3_mega
+https://smt.858.qzz.io/Smart.php?id=TV3_mega
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="" group-title="GLOBE 馬來西亞",NTV7
-http://tv543.cc/Smart.php?id=NTV7
+https://smt.858.qzz.io/Smart.php?id=NTV7
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="" group-title="GLOBE 馬來西亞",TV8
-http://tv543.cc/Smart.php?id=TV8
+https://smt.858.qzz.io/Smart.php?id=TV8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="" group-title="GLOBE 馬來西亞",TV9
-http://tv543.cc/Smart.php?id=TV9
+https://smt.858.qzz.io/Smart.php?id=TV9
 #EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="" group-title="GLOBE 馬來西亞",Ria
-http://tv543.cc/Smart.php?id=Ria-0
+https://smt.858.qzz.io/Smart.php?id=Ria-0
 #EXTINF:-1 tvg-id="Ria-3" tvg-name="Ria-3" tvg-logo="" group-title="GLOBE 馬來西亞",Ria-3
-http://tv543.cc/Smart.php?id=Ria_backup
+https://smt.858.qzz.io/Smart.php?id=Ria_backup
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="" group-title="GLOBE 馬來西亞",Al-Hijrah
-http://tv543.cc/Smart.php?id=Alhijrah
+https://smt.858.qzz.io/Smart.php?id=Alhijrah
 #EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="" group-title="GLOBE 馬來西亞",Al-Hijrah backup
-http://tv543.cc/Smart.php?id=Alhijrah_backup
+https://smt.858.qzz.io/Smart.php?id=Alhijrah_backup
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="" group-title="GLOBE 馬來西亞",Awani
-http://tv543.cc/Smart.php?id=Awani
+https://smt.858.qzz.io/Smart.php?id=Awani
 #EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="" group-title="GLOBE 馬來西亞",Bernama
-http://tv543.cc/Smart.php?id=Bernama
+https://smt.858.qzz.io/Smart.php?id=Bernama
 #EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="" group-title="GLOBE 馬來西亞",Prima
-http://tv543.cc/Smart.php?id=Prima-0
+https://smt.858.qzz.io/Smart.php?id=Prima-0
 #EXTINF:-1 tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="" group-title="GLOBE 馬來西亞",Prima backup
-http://tv543.cc/Smart.php?id=AAprima1
+https://smt.858.qzz.io/Smart.php?id=AAprima1
 #EXTINF:-1 tvg-id="Prima backup 2" tvg-name="Prima backup 2" tvg-logo="" group-title="GLOBE 馬來西亞",Prima backup 2
-http://tv543.cc/Smart.php?id=AAprima
+https://smt.858.qzz.io/Smart.php?id=AAprima
 #EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="" group-title="GLOBE 馬來西亞",Ceria
-http://tv543.cc/Smart.php?id=Ceria
+https://smt.858.qzz.io/Smart.php?id=Ceria
 #EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="" group-title="GLOBE 馬來西亞",Astro MTV
-http://tv543.cc/Smart.php?id=AstroMTV
+https://smt.858.qzz.io/Smart.php?id=AstroMTV
 #EXTINF:-1 tvg-id="Mecca Live HD" tvg-name="Mecca Live HD" tvg-logo="" group-title="GLOBE 馬來西亞",Mecca Live HD
-http://tv543.cc/Smart.php?id=quran_mido
+https://smt.858.qzz.io/Smart.php?id=quran_mido
 #EXTINF:-1 tvg-id="Madinah HD" tvg-name="Madinah HD" tvg-logo="" group-title="GLOBE 馬來西亞",Madinah HD
-http://tv543.cc/Smart.php?id=sunnah_mido
+https://smt.858.qzz.io/Smart.php?id=sunnah_mido
 #EXTINF:-1 tvg-id="Oasis" tvg-name="Oasis" tvg-logo="" group-title="GLOBE 馬來西亞",Oasis
-http://tv543.cc/Smart.php?id=Oasis
+https://smt.858.qzz.io/Smart.php?id=Oasis
 #EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="" group-title="GLOBE 馬來西亞",Siar
-http://tv543.cc/Smart.php?id=Siar
+https://smt.858.qzz.io/Smart.php?id=Siar
 #EXTINF:-1 tvg-id="Citra" tvg-name="Citra" tvg-logo="" group-title="GLOBE 馬來西亞",Citra
-http://tv543.cc/Smart.php?id=AAcitra
+https://smt.858.qzz.io/Smart.php?id=AAcitra
 #EXTINF:-1 tvg-id="Citra backup" tvg-name="Citra backup" tvg-logo="" group-title="GLOBE 馬來西亞",Citra backup
-http://tv543.cc/Smart.php?id=AAcitra1
+https://smt.858.qzz.io/Smart.php?id=AAcitra1
 #EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="" group-title="GLOBE 馬來西亞",Sensasi
-http://tv543.cc/Smart.php?id=Sensasi
+https://smt.858.qzz.io/Smart.php?id=Sensasi
 #EXTINF:-1 tvg-id="Aura" tvg-name="Aura" tvg-logo="" group-title="GLOBE 馬來西亞",Aura
-http://tv543.cc/Smart.php?id=Aura
+https://smt.858.qzz.io/Smart.php?id=Aura
 #EXTINF:-1 tvg-id="Rania" tvg-name="Rania" tvg-logo="" group-title="GLOBE 馬來西亞",Rania
-http://tv543.cc/Smart.php?id=Rania
+https://smt.858.qzz.io/Smart.php?id=Rania
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="" group-title="GLOBE 馬來西亞",KBS World
-http://tv543.cc/Smart.php?id=KBS
+https://smt.858.qzz.io/Smart.php?id=KBS
 #EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="" group-title="GLOBE 馬來西亞",Boo
-http://tv543.cc/Smart.php?id=Boo
+https://smt.858.qzz.io/Smart.php?id=Boo
 #EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="" group-title="GLOBE 馬來西亞",Awesome TV
-http://tv543.cc/Smart.php?id=Dsangat
+https://smt.858.qzz.io/Smart.php?id=Dsangat
 #EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="GLOBE 馬來西亞",Astro Sonypix
-http://tv543.cc/Smart.php?id=Asonypix
+https://smt.858.qzz.io/Smart.php?id=Asonypix
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="" group-title="GLOBE 馬來西亞",Sony HD
-http://tv543.cc/Smart.php?id=SetOne
+https://smt.858.qzz.io/Smart.php?id=SetOne
 #EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="" group-title="GLOBE 馬來西亞",TvN
-http://tv543.cc/Smart.php?id=TVN
+https://smt.858.qzz.io/Smart.php?id=TVN
 #EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="" group-title="GLOBE 馬來西亞",AEC
-http://tv543.cc/Smart.php?id=AEC
+https://smt.858.qzz.io/Smart.php?id=AEC
 #EXTINF:-1 tvg-id="華麗台 HD （Wah Lai Toi）" tvg-name="華麗台 HD （Wah Lai Toi）" tvg-logo="" group-title="GLOBE 馬來西亞",華麗台 HD （Wah Lai Toi）
-http://tv543.cc/Smart.php?id=Wlt
+https://smt.858.qzz.io/Smart.php?id=Wlt
 #EXTINF:-1 tvg-id="歡喜台 HD （Hua Hee Tai）" tvg-name="歡喜台 HD （Hua Hee Tai）" tvg-logo="" group-title="GLOBE 馬來西亞",歡喜台 HD （Hua Hee Tai）
-http://tv543.cc/Smart.php?id=Huahee
+https://smt.858.qzz.io/Smart.php?id=Huahee
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="" group-title="GLOBE 馬來西亞",Astro QJ
-http://tv543.cc/Smart.php?id=Quanjia
+https://smt.858.qzz.io/Smart.php?id=Quanjia
 #EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="GLOBE 馬來西亞",TVB Jade
-http://tv543.cc/Smart.php?id=Tvbjade
+https://smt.858.qzz.io/Smart.php?id=Tvbjade
 #EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="" group-title="GLOBE 馬來西亞",TVB Asia
-http://tv543.cc/Smart.php?id=Tvbasia
+https://smt.858.qzz.io/Smart.php?id=Tvbasia
 #EXTINF:-1 tvg-id="TVB Entertainment" tvg-name="TVB Entertainment" tvg-logo="" group-title="GLOBE 馬來西亞",TVB Entertainment
-http://tv543.cc/Smart.php?id=Tvbentertainment
+https://smt.858.qzz.io/Smart.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="TVB Classic" tvg-name="TVB Classic" tvg-logo="" group-title="GLOBE 馬來西亞",TVB Classic
-http://tv543.cc/Smart.php?id=Tvbclassic
+https://smt.858.qzz.io/Smart.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="" group-title="GLOBE 馬來西亞",AOD
-http://tv543.cc/Smart.php?id=Aodhd
+https://smt.858.qzz.io/Smart.php?id=Aodhd
 #EXTINF:-1 tvg-id="TVB 星河台 Xing He" tvg-name="TVB 星河台 Xing He" tvg-logo="" group-title="GLOBE 馬來西亞",TVB 星河台 Xing He
-http://tv543.cc/Smart.php?id=Xinhe
+https://smt.858.qzz.io/Smart.php?id=Xinhe
 #EXTINF:-1 tvg-id="愛奇藝 iQiyi" tvg-name="愛奇藝 iQiyi" tvg-logo="" group-title="GLOBE 馬來西亞",愛奇藝 iQiyi
-http://tv543.cc/Smart.php?id=Qiyi
+https://smt.858.qzz.io/Smart.php?id=Qiyi
 #EXTINF:-1 tvg-id="Goshop" tvg-name="Goshop" tvg-logo="" group-title="GLOBE 馬來西亞",Goshop
-http://tv543.cc/Smart.php?id=Goshop
+https://smt.858.qzz.io/Smart.php?id=Goshop
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GLOBE 馬來西亞",Celestial Movies HD
-http://tv543.cc/Smart.php?id=Celestial
+https://smt.858.qzz.io/Smart.php?id=Celestial
 #EXTINF:-1 tvg-id="Astro LOL" tvg-name="Astro LOL" tvg-logo="" group-title="GLOBE 馬來西亞",Astro LOL
-http://tv543.cc/Smart.php?id=Astro_lol
+https://smt.858.qzz.io/Smart.php?id=Astro_lol
 #EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="GLOBE 馬來西亞",Astro Rusi
-http://tv543.cc/Smart.php?id=Rusi
+https://smt.858.qzz.io/Smart.php?id=Rusi
 #EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="" group-title="GLOBE 馬來西亞",WION
-http://tv543.cc/Smart.php?id=Wion
+https://smt.858.qzz.io/Smart.php?id=Wion
 #EXTINF:-1 tvg-id="RTM Asean" tvg-name="RTM Asean" tvg-logo="" group-title="GLOBE 馬來西亞",RTM Asean
-http://tv543.cc/Smart.php?id=Rtmasean
+https://smt.858.qzz.io/Smart.php?id=Rtmasean
 #EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title="GLOBE 印尼",TVRI National
-http://tv543.cc/Smart.php?id=TVRI
+https://smt.858.qzz.io/Smart.php?id=TVRI
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="GLOBE 印尼",RCTI
-http://tv543.cc/Smart.php?id=Rcti
+https://smt.858.qzz.io/Smart.php?id=Rcti
 #EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title="GLOBE 印尼",Kompass TV
-http://tv543.cc/Smart.php?id=Kompass
+https://smt.858.qzz.io/Smart.php?id=Kompass
 #EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title="GLOBE 印尼",Berita Satu
-http://tv543.cc/Smart.php?id=BeritaSatu_eko
+https://smt.858.qzz.io/Smart.php?id=BeritaSatu_eko
 #EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="GLOBE 印尼",Indosiar HD
-http://tv543.cc/Smart.php?id=Indosiar
+https://smt.858.qzz.io/Smart.php?id=Indosiar
 #EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title="GLOBE 印尼",AnTV
-http://tv543.cc/Smart.php?id=Antv
+https://smt.858.qzz.io/Smart.php?id=Antv
 #EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="GLOBE 印尼",MNC TV
-http://tv543.cc/Smart.php?id=Mnctv
+https://smt.858.qzz.io/Smart.php?id=Mnctv
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title="GLOBE 印尼",Trans 7
-http://tv543.cc/Smart.php?id=Trans7_eko
+https://smt.858.qzz.io/Smart.php?id=Trans7_eko
 #EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title="GLOBE 印尼",Transtv
-http://tv543.cc/Smart.php?id=Transtv
+https://smt.858.qzz.io/Smart.php?id=Transtv
 #EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="GLOBE 印尼",JTV
-http://tv543.cc/Smart.php?id=JTV_eko
+https://smt.858.qzz.io/Smart.php?id=JTV_eko
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title="GLOBE 印尼",Metro TV
-http://tv543.cc/Smart.php?id=metrotv_eko
+https://smt.858.qzz.io/Smart.php?id=metrotv_eko
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="GLOBE 印尼",SCTV
-http://tv543.cc/Smart.php?id=SCTV
+https://smt.858.qzz.io/Smart.php?id=SCTV
 #EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title="GLOBE 印尼",Tvone
-http://tv543.cc/Smart.php?id=Tvone
+https://smt.858.qzz.io/Smart.php?id=Tvone
 #EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title="GLOBE 印尼",TVMU
-http://tv543.cc/Smart.php?id=TVMU_eko
+https://smt.858.qzz.io/Smart.php?id=TVMU_eko
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="GLOBE 印尼",GTV
-http://tv543.cc/Smart.php?id=Gtv
+https://smt.858.qzz.io/Smart.php?id=Gtv
 #EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="GLOBE 印尼",RTV
-http://tv543.cc/Smart.php?id=Rtv
+https://smt.858.qzz.io/Smart.php?id=Rtv
 #EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title="GLOBE 印尼",Jak TV
-http://tv543.cc/Smart.php?id=JakTV
+https://smt.858.qzz.io/Smart.php?id=JakTV
 #EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title="GLOBE 印尼",iNews TV
-http://tv543.cc/Smart.php?id=Inewstv
+https://smt.858.qzz.io/Smart.php?id=Inewstv
 #EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title="GLOBE 印尼",Daai TV
-http://tv543.cc/Smart.php?id=DaaiTV
+https://smt.858.qzz.io/Smart.php?id=DaaiTV
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title="GLOBE 印尼",Net TV
-http://tv543.cc/Smart.php?id=NetTV
+https://smt.858.qzz.io/Smart.php?id=NetTV
 #EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="GLOBE 印尼",EWTN
-http://tv543.cc/Smart.php?id=Ewtn
+https://smt.858.qzz.io/Smart.php?id=Ewtn
 #EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="" group-title="GLOBE 印尼",AlQuran AlKareem
-http://tv543.cc/Smart.php?id=AlQuran
+https://smt.858.qzz.io/Smart.php?id=AlQuran
 #EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="" group-title="GLOBE 印尼",Tawaf TV
-http://tv543.cc/Smart.php?id=TawafTV
+https://smt.858.qzz.io/Smart.php?id=TawafTV
 #EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="" group-title="GLOBE 印尼",Vision Prime
-http://tv543.cc/Smart.php?id=VisionPrime
+https://smt.858.qzz.io/Smart.php?id=VisionPrime
 #EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="" group-title="GLOBE 印尼",Muslim TV
-http://tv543.cc/Smart.php?id=MuslimTV
+https://smt.858.qzz.io/Smart.php?id=MuslimTV
 #EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="" group-title="GLOBE 印尼",Music TV
-http://tv543.cc/Smart.php?id=MusicTV
+https://smt.858.qzz.io/Smart.php?id=MusicTV
 #EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="" group-title="GLOBE 印尼",Lifestyle&Fashion
-http://tv543.cc/Smart.php?id=Lifestyle
+https://smt.858.qzz.io/Smart.php?id=Lifestyle
 #EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="" group-title="GLOBE 印尼",Entertain
-http://tv543.cc/Smart.php?id=Entertain
+https://smt.858.qzz.io/Smart.php?id=Entertain
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="GLOBE 印度",Sun TV HD
-http://tv543.cc/Smart.php?id=Suntv
+https://smt.858.qzz.io/Smart.php?id=Suntv
 #EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="" group-title="GLOBE 印度",Star Vijay
-http://tv543.cc/Smart.php?id=Starvijay
+https://smt.858.qzz.io/Smart.php?id=Starvijay
 #EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="" group-title="GLOBE 印度",Colors Tamil
-http://tv543.cc/Smart.php?id=Colorstam
+https://smt.858.qzz.io/Smart.php?id=Colorstam
 #EXTINF:-1 tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="" group-title="GLOBE 印度",Sun Music
-http://tv543.cc/Smart.php?id=Sunmusic
+https://smt.858.qzz.io/Smart.php?id=Sunmusic
 #EXTINF:-1 tvg-id="Astro Sunlife" tvg-name="Astro Sunlife" tvg-logo="" group-title="GLOBE 印度",Astro Sunlife
-http://tv543.cc/Smart.php?id=Sunlife
+https://smt.858.qzz.io/Smart.php?id=Sunlife
 #EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="" group-title="GLOBE 印度",Astro Vaanavil
-http://tv543.cc/Smart.php?id=Vaanavil
+https://smt.858.qzz.io/Smart.php?id=Vaanavil
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="" group-title="GLOBE 印度",Zee Tamil
-http://tv543.cc/Smart.php?id=Zeetamil
+https://smt.858.qzz.io/Smart.php?id=Zeetamil
 #EXTINF:-1 tvg-id="Zee Business" tvg-name="Zee Business" tvg-logo="" group-title="GLOBE 印度",Zee Business
-http://tv543.cc/Smart.php?id=Zeebusiness
+https://smt.858.qzz.io/Smart.php?id=Zeebusiness
 #EXTINF:-1 tvg-id="News 18 Tamil" tvg-name="News 18 Tamil" tvg-logo="" group-title="GLOBE 印度",News 18 Tamil
-http://tv543.cc/Smart.php?id=news18tamil_raj
+https://smt.858.qzz.io/Smart.php?id=news18tamil_raj
 #EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="" group-title="GLOBE 印度",Adithya
-http://tv543.cc/Smart.php?id=Adithya
+https://smt.858.qzz.io/Smart.php?id=Adithya
 #EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="" group-title="GLOBE 印度",Makkal TV
-http://tv543.cc/Smart.php?id=Makkaltv
+https://smt.858.qzz.io/Smart.php?id=Makkaltv
 #EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="" group-title="GLOBE 印度",Zee Action
-http://tv543.cc/Smart.php?id=Zeeaction
+https://smt.858.qzz.io/Smart.php?id=Zeeaction
 #EXTINF:-1 tvg-id="Astro KTV" tvg-name="Astro KTV" tvg-logo="" group-title="GLOBE 印度",Astro KTV
-http://tv543.cc/Smart.php?id=Astroktv
+https://smt.858.qzz.io/Smart.php?id=Astroktv
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="" group-title="GLOBE 印度",Zee TV HD
-http://tv543.cc/Smart.php?id=Zeetvhd
+https://smt.858.qzz.io/Smart.php?id=Zeetvhd
 #EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-logo="" group-title="GLOBE 印度",Zee Cinema HD
-http://tv543.cc/Smart.php?id=Zeecinemahd
+https://smt.858.qzz.io/Smart.php?id=Zeecinemahd
 #EXTINF:-1 tvg-id="Color HD" tvg-name="Color HD" tvg-logo="" group-title="GLOBE 印度",Color HD
-http://tv543.cc/Smart.php?id=Colorhd
+https://smt.858.qzz.io/Smart.php?id=Colorhd
 #EXTINF:-1 tvg-id="Starplus HD" tvg-name="Starplus HD" tvg-logo="" group-title="GLOBE 印度",Starplus HD
-http://tv543.cc/Smart.php?id=Starplushd
+https://smt.858.qzz.io/Smart.php?id=Starplushd
 #EXTINF:-1 tvg-id="Picture HD" tvg-name="Picture HD" tvg-logo="" group-title="GLOBE 印度",Picture HD
-http://tv543.cc/Smart.php?id=Npicture
+https://smt.858.qzz.io/Smart.php?id=Npicture
 #EXTINF:-1 tvg-id="Zee News" tvg-name="Zee News" tvg-logo="" group-title="GLOBE 印度",Zee News
-http://tv543.cc/Smart.php?id=Zeenews
+https://smt.858.qzz.io/Smart.php?id=Zeenews
 #EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="" group-title="GLOBE 印度",Asianet
-http://tv543.cc/Smart.php?id=asianet_raj
+https://smt.858.qzz.io/Smart.php?id=asianet_raj
 #EXTINF:-1 tvg-id="Asianet News" tvg-name="Asianet News" tvg-logo="" group-title="GLOBE 印度",Asianet News
-http://tv543.cc/Smart.php?id=asianetnews_raj
+https://smt.858.qzz.io/Smart.php?id=asianetnews_raj
 #EXTINF:-1 tvg-id="Discovery World Tamil" tvg-name="Discovery World Tamil" tvg-logo="" group-title="GLOBE 印度",Discovery World Tamil
-http://tv543.cc/Smart.php?id=discoveryworldtam_raj
+https://smt.858.qzz.io/Smart.php?id=discoveryworldtam_raj
 #EXTINF:-1 tvg-id="History Tamil" tvg-name="History Tamil" tvg-logo="" group-title="GLOBE 印度",History Tamil
-http://tv543.cc/Smart.php?id=historytam_raj
+https://smt.858.qzz.io/Smart.php?id=historytam_raj
 #EXTINF:-1 tvg-id="NatGeo Tamil" tvg-name="NatGeo Tamil" tvg-logo="" group-title="GLOBE 印度",NatGeo Tamil
-http://tv543.cc/Smart.php?id=natgeotamil_raj
+https://smt.858.qzz.io/Smart.php?id=natgeotamil_raj
 #EXTINF:-1 tvg-id="Natgeo Wild Tamil" tvg-name="Natgeo Wild Tamil" tvg-logo="" group-title="GLOBE 印度",Natgeo Wild Tamil
-http://tv543.cc/Smart.php?id=natgeowildtamil_raj
+https://smt.858.qzz.io/Smart.php?id=natgeowildtamil_raj
 #EXTINF:-1 tvg-id="Discovery Kids Tamil" tvg-name="Discovery Kids Tamil" tvg-logo="" group-title="GLOBE 印度",Discovery Kids Tamil
-http://tv543.cc/Smart.php?id=discoverykidtamil_raj
+https://smt.858.qzz.io/Smart.php?id=discoverykidtamil_raj
 #EXTINF:-1 tvg-id="Discovery Tamil" tvg-name="Discovery Tamil" tvg-logo="" group-title="GLOBE 印度",Discovery Tamil
-http://tv543.cc/Smart.php?id=discoverytamil_raj
+https://smt.858.qzz.io/Smart.php?id=discoverytamil_raj
 #EXTINF:-1 tvg-id="Sony Yay Tamil" tvg-name="Sony Yay Tamil" tvg-logo="" group-title="GLOBE 印度",Sony Yay Tamil
-http://tv543.cc/Smart.php?id=sonyyaytam_raj
+https://smt.858.qzz.io/Smart.php?id=sonyyaytam_raj
 #EXTINF:-1 tvg-id="Sun TV India" tvg-name="Sun TV India" tvg-logo="" group-title="GLOBE 印度",Sun TV India
-http://tv543.cc/Smart.php?id=suntv_raj
+https://smt.858.qzz.io/Smart.php?id=suntv_raj
 #EXTINF:-1 tvg-id="Starmaa HD" tvg-name="Starmaa HD" tvg-logo="" group-title="GLOBE 印度",Starmaa HD
-http://tv543.cc/Smart.php?id=starmaa_raj
+https://smt.858.qzz.io/Smart.php?id=starmaa_raj
 #EXTINF:-1 tvg-id="Starmaa Movies HD" tvg-name="Starmaa Movies HD" tvg-logo="" group-title="GLOBE 印度",Starmaa Movies HD
-http://tv543.cc/Smart.php?id=starmaamovies_raj
+https://smt.858.qzz.io/Smart.php?id=starmaamovies_raj
 #EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="" group-title="GLOBE 印度",Bollyone
-http://tv543.cc/Smart.php?id=Bollyone
+https://smt.858.qzz.io/Smart.php?id=Bollyone
 #EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="" group-title="GLOBE 印度",Vijay Super
-http://tv543.cc/Smart.php?id=vijaysuper_raj
+https://smt.858.qzz.io/Smart.php?id=vijaysuper_raj
 #EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="" group-title="GLOBE 印度",Vellithirai
-http://tv543.cc/Smart.php?id=Vellithirai
+https://smt.858.qzz.io/Smart.php?id=Vellithirai
 #EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" tvg-logo="" group-title="GLOBE 泰國",Channel 3 Thailand
-http://tv543.cc/Smart.php?id=ch3_pat
+https://smt.858.qzz.io/Smart.php?id=ch3_pat
 #EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="Channel 5 Thailand" tvg-logo="" group-title="GLOBE 泰國",Channel 5 Thailand
-http://tv543.cc/Smart.php?id=ch5_pat
+https://smt.858.qzz.io/Smart.php?id=ch5_pat
 #EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-name="Channel 7 Thailand" tvg-logo="" group-title="GLOBE 泰國",Channel 7 Thailand
-http://tv543.cc/Smart.php?id=ch7_pat
+https://smt.858.qzz.io/Smart.php?id=ch7_pat
 #EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-name="MCOT HD Thailand-1" tvg-logo="" group-title="GLOBE 泰國",MCOT HD Thailand-1
-http://tv543.cc/Smart.php?id=mcot_pat
+https://smt.858.qzz.io/Smart.php?id=mcot_pat
 #EXTINF:-1 tvg-id="PPTV Thailand1" tvg-name="PPTV Thailand1" tvg-logo="" group-title="GLOBE 泰國",PPTV Thailand1
-http://tv543.cc/Smart.php?id=pptv_pat
+https://smt.858.qzz.io/Smart.php?id=pptv_pat
 #EXTINF:-1 tvg-id="Thai Thai" tvg-name="Thai Thai" tvg-logo="" group-title="GLOBE 泰國",Thai Thai
-http://tv543.cc/Smart.php?id=thaithai_pat
+https://smt.858.qzz.io/Smart.php?id=thaithai_pat
 #EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" tvg-logo="" group-title="GLOBE 泰國",Amarin
-http://tv543.cc/Smart.php?id=amarin_pat
+https://smt.858.qzz.io/Smart.php?id=amarin_pat
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="" group-title="GLOBE 泰國",Ch 8
-http://tv543.cc/Smart.php?id=ch8_pat
+https://smt.858.qzz.io/Smart.php?id=ch8_pat
 #EXTINF:-1 tvg-id="GmmOne" tvg-name="GmmOne" tvg-logo="" group-title="GLOBE 泰國",GmmOne
-http://tv543.cc/Smart.php?id=gmmone_pat
+https://smt.858.qzz.io/Smart.php?id=gmmone_pat
 #EXTINF:-1 tvg-id="Mono" tvg-name="Mono" tvg-logo="" group-title="GLOBE 泰國",Mono
-http://tv543.cc/Smart.php?id=mono_pat
+https://smt.858.qzz.io/Smart.php?id=mono_pat
 #EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="" group-title="GLOBE 泰國",Thairath
-http://tv543.cc/Smart.php?id=thairath_pat
+https://smt.858.qzz.io/Smart.php?id=thairath_pat
 #EXTINF:-1 tvg-id="tpbs" tvg-name="tpbs" tvg-logo="" group-title="GLOBE 泰國",tpbs
-http://tv543.cc/Smart.php?id=tpbs_pat
+https://smt.858.qzz.io/Smart.php?id=tpbs_pat
 #EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" tvg-logo="" group-title="GLOBE 泰國",Workpoint
-http://tv543.cc/Smart.php?id=workpoint_pat
+https://smt.858.qzz.io/Smart.php?id=workpoint_pat
 #EXTINF:-1 tvg-id="Gmm Channel" tvg-name="Gmm Channel" tvg-logo="" group-title="GLOBE 泰國",Gmm Channel
-http://tv543.cc/Smart.php?id=gmmchannel_pat
+https://smt.858.qzz.io/Smart.php?id=gmmchannel_pat
 #EXTINF:-1 tvg-id="Nation" tvg-name="Nation" tvg-logo="" group-title="GLOBE 泰國",Nation
-http://tv543.cc/Smart.php?id=nation_pat
+https://smt.858.qzz.io/Smart.php?id=nation_pat
 #EXTINF:-1 tvg-id="Tnn24" tvg-name="Tnn24" tvg-logo="" group-title="GLOBE 泰國",Tnn24
-http://tv543.cc/Smart.php?id=tnn24_pat
+https://smt.858.qzz.io/Smart.php?id=tnn24_pat
 #EXTINF:-1 tvg-id="Nbt" tvg-name="Nbt" tvg-logo="" group-title="GLOBE 泰國",Nbt
-http://tv543.cc/Smart.php?id=nbt_pat
+https://smt.858.qzz.io/Smart.php?id=nbt_pat
 #EXTINF:-1 tvg-id="New" tvg-name="New" tvg-logo="" group-title="GLOBE 泰國",New
-http://tv543.cc/Smart.php?id=new_pat
+https://smt.858.qzz.io/Smart.php?id=new_pat
 #EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" tvg-logo="" group-title="GLOBE 泰國",TPTV
-http://tv543.cc/Smart.php?id=tptv_pat
+https://smt.858.qzz.io/Smart.php?id=tptv_pat
 #EXTINF:-1 tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="" group-title="GLOBE 英國",BBC 1
-http://tv543.cc/Smart.php?id=bbc1_antik
+https://smt.858.qzz.io/Smart.php?id=bbc1_antik
 #EXTINF:-1 tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="" group-title="GLOBE 英國",BBC 2
-http://tv543.cc/Smart.php?id=bbc2_antik
+https://smt.858.qzz.io/Smart.php?id=bbc2_antik
 #EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="" group-title="GLOBE 英國",CBBC
-http://tv543.cc/Smart.php?id=cbbc_antik
+https://smt.858.qzz.io/Smart.php?id=cbbc_antik
 #EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="" group-title="GLOBE 英國",More4
-http://tv543.cc/Smart.php?id=more4_antik
+https://smt.858.qzz.io/Smart.php?id=more4_antik
 #EXTINF:-1 tvg-id="Freesports" tvg-name="Freesports" tvg-logo="" group-title="GLOBE 英國",Freesports
-http://tv543.cc/Smart.php?id=freesports_antik
+https://smt.858.qzz.io/Smart.php?id=freesports_antik
 #EXTINF:-1 tvg-id="Pick TV" tvg-name="Pick TV" tvg-logo="" group-title="GLOBE 英國",Pick TV
-http://tv543.cc/Smart.php?id=picktv_antik
+https://smt.858.qzz.io/Smart.php?id=picktv_antik
 #EXTINF:-1 tvg-id="itv 1" tvg-name="itv 1" tvg-logo="" group-title="GLOBE 英國",itv 1
-http://tv543.cc/Smart.php?id=itv1_antik
+https://smt.858.qzz.io/Smart.php?id=itv1_antik
 #EXTINF:-1 tvg-id="itv 2" tvg-name="itv 2" tvg-logo="" group-title="GLOBE 英國",itv 2
-http://tv543.cc/Smart.php?id=itv2_antik
+https://smt.858.qzz.io/Smart.php?id=itv2_antik
 #EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="" group-title="GLOBE 英國",Euronews
-http://tv543.cc/Smart.php?id=euronews_antik
+https://smt.858.qzz.io/Smart.php?id=euronews_antik
 #EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="" group-title="GLOBE 英國",Channel 4
-http://tv543.cc/Smart.php?id=channel4_antik
+https://smt.858.qzz.io/Smart.php?id=channel4_antik
 #EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GLOBE 英國",BBC World News
-http://tv543.cc/Smart.php?id=bbcworldnews_antik
+https://smt.858.qzz.io/Smart.php?id=bbcworldnews_antik
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="" group-title="GLOBE 越南",ANTV
-http://tv543.cc/Smart.php?id=viet_antv
+https://smt.858.qzz.io/Smart.php?id=viet_antv
 #EXTINF:-1 tvg-id="VTV 1" tvg-name="VTV 1" tvg-logo="" group-title="GLOBE 越南",VTV 1
-http://tv543.cc/Smart.php?id=viet_vtv1
+https://smt.858.qzz.io/Smart.php?id=viet_vtv1
 #EXTINF:-1 tvg-id="VTV 7" tvg-name="VTV 7" tvg-logo="" group-title="GLOBE 越南",VTV 7
-http://tv543.cc/Smart.php?id=viet_vtv7
+https://smt.858.qzz.io/Smart.php?id=viet_vtv7
 #EXTINF:-1 tvg-id="HTV 7" tvg-name="HTV 7" tvg-logo="" group-title="GLOBE 越南",HTV 7
-http://tv543.cc/Smart.php?id=viet_htv7
+https://smt.858.qzz.io/Smart.php?id=viet_htv7
 #EXTINF:-1 tvg-id="HTV 9" tvg-name="HTV 9" tvg-logo="" group-title="GLOBE 越南",HTV 9
-http://tv543.cc/Smart.php?id=viet_htv9
+https://smt.858.qzz.io/Smart.php?id=viet_htv9
 #EXTINF:-1 tvg-id="BPTV 2" tvg-name="BPTV 2" tvg-logo="" group-title="GLOBE 越南",BPTV 2
-http://tv543.cc/Smart.php?id=viet_bptv2
+https://smt.858.qzz.io/Smart.php?id=viet_bptv2
 #EXTINF:-1 tvg-id="BRT HD" tvg-name="BRT HD" tvg-logo="" group-title="GLOBE 越南",BRT HD
-http://tv543.cc/Smart.php?id=viet_brt
+https://smt.858.qzz.io/Smart.php?id=viet_brt
 #EXTINF:-1 tvg-id="Ca Mau TV" tvg-name="Ca Mau TV" tvg-logo="" group-title="GLOBE 越南",Ca Mau TV
-http://tv543.cc/Smart.php?id=viet_camautv
+https://smt.858.qzz.io/Smart.php?id=viet_camautv
 #EXTINF:-1 tvg-id="Danang TV1 HD" tvg-name="Danang TV1 HD" tvg-logo="" group-title="GLOBE 越南",Danang TV1 HD
-http://tv543.cc/Smart.php?id=viet_danangtv1
+https://smt.858.qzz.io/Smart.php?id=viet_danangtv1
 #EXTINF:-1 tvg-id="Danang TV2 HD" tvg-name="Danang TV2 HD" tvg-logo="" group-title="GLOBE 越南",Danang TV2 HD
-http://tv543.cc/Smart.php?id=viet_danangtv2
+https://smt.858.qzz.io/Smart.php?id=viet_danangtv2
 #EXTINF:-1 tvg-id="HBTV HD" tvg-name="HBTV HD" tvg-logo="" group-title="GLOBE 越南",HBTV HD
-http://tv543.cc/Smart.php?id=viet_hbtv
+https://smt.858.qzz.io/Smart.php?id=viet_hbtv
 #EXTINF:-1 tvg-id="PTTH 1" tvg-name="PTTH 1" tvg-logo="" group-title="GLOBE 越南",PTTH 1
-http://tv543.cc/Smart.php?id=viet_ptth1
+https://smt.858.qzz.io/Smart.php?id=viet_ptth1
 #EXTINF:-1 tvg-id="Arirang HD" tvg-name="Arirang HD" tvg-logo="" group-title="GLOBE 韓國",Arirang HD
-http://tv543.cc/Smart.php?id=arirang_korea
+https://smt.858.qzz.io/Smart.php?id=arirang_korea
 #EXTINF:-1 tvg-id="Yonhap News" tvg-name="Yonhap News" tvg-logo="" group-title="GLOBE 韓國",Yonhap News
-http://tv543.cc/Smart.php?id=yonhapnews_korea
+https://smt.858.qzz.io/Smart.php?id=yonhapnews_korea
 #EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="" group-title="GLOBE 韓國",CBS
-http://tv543.cc/Smart.php?id=cbs_korea
+https://smt.858.qzz.io/Smart.php?id=cbs_korea
 #EXTINF:-1 tvg-id="EBS 1" tvg-name="EBS 1" tvg-logo="" group-title="GLOBE 韓國",EBS 1
-http://tv543.cc/Smart.php?id=ebs1_korea
+https://smt.858.qzz.io/Smart.php?id=ebs1_korea
 #EXTINF:-1 tvg-id="EBS2" tvg-name="EBS2" tvg-logo="" group-title="GLOBE 韓國",EBS2
-http://tv543.cc/Smart.php?id=ebs2_korea
+https://smt.858.qzz.io/Smart.php?id=ebs2_korea
 #EXTINF:-1 tvg-id="EBS Plus2" tvg-name="EBS Plus2" tvg-logo="" group-title="GLOBE 韓國",EBS Plus2
-http://tv543.cc/Smart.php?id=ebsplus2_korea
+https://smt.858.qzz.io/Smart.php?id=ebsplus2_korea
 #EXTINF:-1 tvg-id="SBS Plus" tvg-name="SBS Plus" tvg-logo="" group-title="GLOBE 韓國",SBS Plus
-http://tv543.cc/Smart.php?id=sbsplus_korea
+https://smt.858.qzz.io/Smart.php?id=sbsplus_korea
 #EXTINF:-1 tvg-id="YTN" tvg-name="YTN" tvg-logo="" group-title="GLOBE 韓國",YTN
-http://tv543.cc/Smart.php?id=ytn_korea
+https://smt.858.qzz.io/Smart.php?id=ytn_korea
 #EXTINF:-1 tvg-id="KBS World 24" tvg-name="KBS World 24" tvg-logo="" group-title="GLOBE 韓國",KBS World 24
-http://tv543.cc/Smart.php?id=kbsworld24_korea
+https://smt.858.qzz.io/Smart.php?id=kbsworld24_korea
 #EXTINF:-1 tvg-id="YTN Science" tvg-name="YTN Science" tvg-logo="" group-title="GLOBE 韓國",YTN Science
-http://tv543.cc/Smart.php?id=ytnscience_korea
+https://smt.858.qzz.io/Smart.php?id=ytnscience_korea
 #EXTINF:-1 tvg-id="YTN Korean" tvg-name="YTN Korean" tvg-logo="" group-title="GLOBE 韓國",YTN Korean
-http://tv543.cc/Smart.php?id=ytnkorean_korea
+https://smt.858.qzz.io/Smart.php?id=ytnkorean_korea
 #EXTINF:-1 tvg-id="YTN DMB" tvg-name="YTN DMB" tvg-logo="" group-title="GLOBE 韓國",YTN DMB
-http://tv543.cc/Smart.php?id=ytndmb_korea
+https://smt.858.qzz.io/Smart.php?id=ytndmb_korea
 #EXTINF:-1 tvg-id="Apps TV" tvg-name="Apps TV" tvg-logo="" group-title="GLOBE 韓國",Apps TV
-http://tv543.cc/Smart.php?id=appongoogle_korea
+https://smt.858.qzz.io/Smart.php?id=appongoogle_korea
 #EXTINF:-1 tvg-id="All the Kpop" tvg-name="All the Kpop" tvg-logo="" group-title="GLOBE 韓國",All the Kpop
-http://tv543.cc/Smart.php?id=allthekpop_korea
+https://smt.858.qzz.io/Smart.php?id=allthekpop_korea
 #EXTINF:-1 tvg-id="J the Kpop" tvg-name="J the Kpop" tvg-logo="" group-title="GLOBE 韓國",J the Kpop
-http://tv543.cc/Smart.php?id=jthekpop_korea
+https://smt.858.qzz.io/Smart.php?id=jthekpop_korea
 #EXTINF:-1 tvg-id="EBS Kids" tvg-name="EBS Kids" tvg-logo="" group-title="GLOBE 韓國",EBS Kids
-http://tv543.cc/Smart.php?id=ebskids_korea
+https://smt.858.qzz.io/Smart.php?id=ebskids_korea
 #EXTINF:-1 tvg-id="CGNTV" tvg-name="CGNTV" tvg-logo="" group-title="GLOBE 韓國",CGNTV
-http://tv543.cc/Smart.php?id=cgntv_korea
+https://smt.858.qzz.io/Smart.php?id=cgntv_korea
 #EXTINF:-1 tvg-id="NHK-総合-2" tvg-name="NHK-総合-2" tvg-logo="" group-title="GLOBE 日本",NHK-総合-2
-http://tv543.cc/Smart.php?id=nhkg_japan
+https://smt.858.qzz.io/Smart.php?id=nhkg_japan
 #EXTINF:-1 tvg-id="NHK-E" tvg-name="NHK-E" tvg-logo="" group-title="GLOBE 日本",NHK-E
-http://tv543.cc/Smart.php?id=nhke_japan
+https://smt.858.qzz.io/Smart.php?id=nhke_japan
 #EXTINF:-1 tvg-id="テレビ朝日 Asahi TV" tvg-name="テレビ朝日 Asahi TV" tvg-logo="" group-title="GLOBE 日本",テレビ朝日 Asahi TV
-http://tv543.cc/Smart.php?id=asahitv_japan
+https://smt.858.qzz.io/Smart.php?id=asahitv_japan
 #EXTINF:-1 tvg-id="JET 綜合" tvg-name="JET 綜合" tvg-logo="" group-title="GLOBE 日本",JET 綜合
-http://tv543.cc/Smart.php?id=jettv_japan
+https://smt.858.qzz.io/Smart.php?id=jettv_japan
 #EXTINF:-1 tvg-id="テレビ東京 Tokyo TV" tvg-name="テレビ東京 Tokyo TV" tvg-logo="" group-title="GLOBE 日本",テレビ東京 Tokyo TV
-http://tv543.cc/Smart.php?id=tokyotv_japan
+https://smt.858.qzz.io/Smart.php?id=tokyotv_japan
 #EXTINF:-1 tvg-id="TOKYOMX" tvg-name="TOKYOMX" tvg-logo="" group-title="GLOBE 日本",TOKYOMX
-http://tv543.cc/Smart.php?id=tokyomx_japan
+https://smt.858.qzz.io/Smart.php?id=tokyomx_japan
 #EXTINF:-1 tvg-id="NHKBS1" tvg-name="NHKBS1" tvg-logo="" group-title="GLOBE 日本",NHKBS1
-http://tv543.cc/Smart.php?id=nhkbs1_japan
+https://smt.858.qzz.io/Smart.php?id=nhkbs1_japan
 #EXTINF:-1 tvg-id="NHKBSプレミア Premium" tvg-name="NHKBSプレミア Premium" tvg-logo="" group-title="GLOBE 日本",NHKBSプレミア Premium
-http://tv543.cc/Smart.php?id=nhkpremium_japan
+https://smt.858.qzz.io/Smart.php?id=nhkpremium_japan
 #EXTINF:-1 tvg-id="BSジャパン 181" tvg-name="BSジャパン 181" tvg-logo="" group-title="GLOBE 日本",BSジャパン 181
-http://tv543.cc/Smart.php?id=bs181_japan
+https://smt.858.qzz.io/Smart.php?id=bs181_japan
 #EXTINF:-1 tvg-id="BSフジ BS Fuji" tvg-name="BSフジ BS Fuji" tvg-logo="" group-title="GLOBE 日本",BSフジ BS Fuji
-http://tv543.cc/Smart.php?id=bsfuji_japan
+https://smt.858.qzz.io/Smart.php?id=bsfuji_japan
 #EXTINF:-1 tvg-id="CNA Japan" tvg-name="CNA Japan" tvg-logo="" group-title="GLOBE 日本",CNA Japan
-http://tv543.cc/Smart.php?id=cna_japan
+https://smt.858.qzz.io/Smart.php?id=cna_japan
 #EXTINF:-1 tvg-id="BS-TBS" tvg-name="BS-TBS" tvg-logo="" group-title="GLOBE 日本",BS-TBS
-http://tv543.cc/Smart.php?id=bstbs_japan
+https://smt.858.qzz.io/Smart.php?id=bstbs_japan
 #EXTINF:-1 tvg-id="NHK Oaska" tvg-name="NHK Oaska" tvg-logo="" group-title="GLOBE 日本",NHK Oaska
-http://tv543.cc/Smart.php?id=nhkosaka_japan
+https://smt.858.qzz.io/Smart.php?id=nhkosaka_japan
 
 
 
@@ -5329,276 +5028,6 @@ http://tv543.cc/Smart.php?id=nhkosaka_japan
 
 
 #########################################
-
-
-
-                ==========TVRI GROUP=======
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI NASIONAL
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI JAKARTA
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI WORLD
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SPORT HD
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20000.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI AMBON
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI BALI
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI BANGKA BELITUNG
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI BENGKULU
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI GORONTALO
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI JAWA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI JAMBI
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI JAWA TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI JAWA TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI KALIMANTAN BARAT
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI KALIMANTAN SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI KALIMANTAN TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI KALIMANTAN TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI LAMPUNG
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI ACEH
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI NTB
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI NTT
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI PAPUA
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI RIAU
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SULAWESI BARAT
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SULAWESI SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGGARA
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SULAWESI UTARA
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SUMATRA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SUMATRA SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI SUMATRA UTARA
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI YOGYAKARTA
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TVRI GROUP",TVRI PAPUA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-
 
 
 
@@ -7882,20 +7311,28 @@ https://cdn.yzzy29-play.com/20251003/4015_58752483/index.m3u8
 https://cdn.yzzy29-play.com/20250708/273_4734ba6f/index.m3u8
 
 
-#EXTINF:-1 group-title="電影輪播",创：战神2025HD中字科幻片美国
+#EXTINF:-1 group-title="電影輪播",創：戰神2025HD中字科幻片美國
 https://cdn.yzzy29-play.com/20251026/6891_83da7c53/index.m3u8
 
+
+
+#EXTINF:-1 group-title="電影輪播",倩女幽魂人間道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 group-title="電影輪播",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 group-title="電影輪播",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 
 
 
 
 #EXTINF:-1 group-title="電影輪播",多啦A夢
 https://live.iill.top/huya.php?id=11601963
-#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://epg.112114.xyz/logo/名侦探柯南.png" group-title="電影輪播",名侦探柯南
+#EXTINF:-1,tvg-id="名侦探柯南" tvg-name="名侦探柯南" tvg-logo="https://epg.112114.xyz/logo/名侦探柯南.png" group-title="電影輪播",名偵探柯南
 http://live.iill.top/huya.php?id=30080236
-#EXTINF:-1,tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/中华小当家.png" group-title="電影輪播",中华小当家
+#EXTINF:-1,tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/中华小当家.png" group-title="電影輪播",中華小當家
 http://live.iill.top/huya.php?id=11342413
-#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="電影輪播",蜡笔小新
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="電影輪播",蠟筆小新
 http://live.iill.top/huya.php?id=11352970
 
 
@@ -10139,6 +9576,11 @@ http://tv.zapping.life:8080/huvargas01/latinplus6485/150769
 http://tv.zapping.life:8080/huvargas01/latinplus6485/150783
 
 
+#EXTINF:-1 group-title="私密頻道 ADULT",DREAMROOM
+https://tv4k.me:443/ungzcfav/74Ahxb1W8m/5152.ts
+
+
+
 #EXTINF:-1 group-title="私密頻道 ADULT",巨茹
 http://krevonix.com/20240520/DN1ccCOX/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",喜枣
@@ -10189,14 +9631,15 @@ http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Playboy
 http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 
-
 #EXTINF:-1 group-title="私密頻道 ADULT",Playboy Plus
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6242/manifest.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",Playboy
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/527/index.m3u8
 
-#EXTINF:-1 group-title="私密頻道 ADULT",DREAMROOM
-https://tv4k.me:443/ungzcfav/74Ahxb1W8m/5152.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",Playboy
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",MetArt FHD
@@ -11988,7 +11431,7 @@ https://tv4k.me:443/ungzcfav/74Ahxb1W8m/5111.ts
 
 
 ******************************************
-
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 
 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12191/index.m3u8
 
@@ -15725,89 +15168,6 @@ http://surrit.com/4be43674-d008-4fc4-a3b8-9658fd516777/1080p/video.m3u8
 
 
 
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空01
-https://m3u8.40cdn.com/movie-hls/161130/cjk1/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空02
-https://m3u8.40cdn.com/movie-hls/161130/cjk2/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空03
-https://m3u8.40cdn.com/movie-hls/161130/cjk3/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空04
-https://m3u8.40cdn.com/movie-hls/161130/cjk4/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空05
-https://m3u8.40cdn.com/movie-hls/161130/cjk5/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空06
-https://m3u8.40cdn.com/movie-hls/161130/cjk6/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空07
-https://m3u8.40cdn.com/movie-hls/161130/cjk7/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空08
-https://m3u8.40cdn.com/movie-hls/161130/cjk8/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空09
-https://m3u8.40cdn.com/movie-hls/161130/cjk9/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空10
-https://m3u8.40cdn.com/movie-hls/161130/cjk10/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空11
-https://m3u8.40cdn.com/movie-hls/161130/cjk11/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空12
-https://m3u8.40cdn.com/movie-hls/161130/cjk12/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空13
-https://m3u8.40cdn.com/movie-hls/161130/cjk13/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空14
-https://m3u8.40cdn.com/movie-hls/161130/cjk14/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空15
-https://m3u8.40cdn.com/movie-hls/161130/cjk15/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空16
-https://m3u8.40cdn.com/movie-hls/161130/cjk16/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空17
-https://m3u8.40cdn.com/movie-hls/161130/cjk17/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空18
-https://m3u8.40cdn.com/movie-hls/161130/cjk18/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空19
-https://m3u8.40cdn.com/movie-hls/161130/cjk19/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空20
-https://m3u8.40cdn.com/movie-hls/161130/cjk20/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空21
-https://m3u8.40cdn.com/movie-hls/161130/cjk21/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空22
-https://m3u8.40cdn.com/movie-hls/161130/cjk22/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空23
-https://m3u8.40cdn.com/movie-hls/161130/cjk23/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空24
-https://m3u8.40cdn.com/movie-hls/161130/cjk24/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空25
-https://m3u8.40cdn.com/movie-hls/161130/cjk25/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空26
-https://m3u8.40cdn.com/movie-hls/161130/cjk26/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空27
-https://m3u8.40cdn.com/movie-hls/161130/cjk27/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空28
-https://m3u8.40cdn.com/movie-hls/161130/cjk28/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空29
-https://m3u8.40cdn.com/movie-hls/161130/cjk29/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空30
-https://m3u8.40cdn.com/movie-hls/161130/cjk30/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空31
-https://m3u8.40cdn.com/movie-hls/161130/cjk31/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空32
-https://m3u8.40cdn.com/movie-hls/161130/cjk32/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空33
-https://m3u8.40cdn.com/movie-hls/161130/cjk33/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空34
-https://m3u8.40cdn.com/movie-hls/161130/cjk34/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空35
-https://m3u8.40cdn.com/movie-hls/161130/cjk35/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空36
-https://m3u8.40cdn.com/movie-hls/161130/cjk36/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空37
-https://play2.laoyacdn.com/20220624/MRDS8OEy/index.m3u8
-#EXTINF:-1 group-title="AV女優 ADULT",倉井空38
-https://vip5.3sybf.com/20210502/DaigjTSe/index.m3u8
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="鐵鎖 ADULT",鐵鎖1
 http://askzycdn.com/20230112/Jaot9ZgQ/index.m3u8
@@ -15843,6 +15203,7 @@ http://bfaskbwerve.com/20221002/PYTRu7RD/index.m3u8
 http://krevonix.com/20250730/zLnjXkxp/index.m3u8
 #EXTINF:-1 group-title="鐵鎖 ADULT",鐵鎖1,鐵鎖17
 http://krevonix.com/20240520/xYrik8ak/index.m3u8
+
 
 
 
@@ -18706,18 +18067,16 @@ https://video.twimg.com/amplify_video/1868617476197814272/pl/avc1/1920x1080/cYBX
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 20
 https://video.twimg.com/amplify_video/1949741183305236480/pl/avc1/720x720/K9YBEztooH1XY8TX.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 21
-https://cdn.xnhau.sh/162000/162122/162122.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 22
 https://video.twimg.com/ext_tw_video/1850872743782436865/pu/pl/avc1/720x720/mpRiK3WQT-16VqPI.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 22
 https://video.twimg.com/amplify_video/1946821256470568960/pl/avc1/1280x720/RvFsnMSjnA3Er51s.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 23
 https://video.twimg.com/amplify_video/1946820271639601152/pl/avc1/1280x720/CXtOc-xQ76UMH-F2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 24
 https://video.twimg.com/amplify_video/1950937584441663488/pl/avc1/1280x720/NVh6R96UOz3KG6Yy.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 25
 https://video.twimg.com/amplify_video/1932058407915462656/pl/avc1/1280x720/9auoWLMyThSdTogs.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/X-COM_series_logo.png" group-title="Clip X.COM ADULT", 26
 https://video.twimg.com/amplify_video/1916380161504907265/pl/avc1/640x640/j8qQpUhtaHZBk8s_.m3u8
 
 
