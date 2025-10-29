@@ -1693,6 +1693,170 @@ http://154.219.113.217:8080/sub?token=112233&id=4gtv-4gtv083
 ################################################
 
 
+
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://logo.doube.eu.org/台視.png" group-title="台灣酒店",台視
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
+#EXTINF:-1 tvg-name="中視HD" tvg-logo="https://logo.catvod.com/中視HD.png" group-title="台灣酒店",中視HD
+http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 tvg-name="華視HD" tvg-logo="https://logo.catvod.com/華視HD.png" group-title="台灣酒店",華視HD
+http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 tvg-name="民視HD" tvg-logo="https://logo.catvod.com/民視HD.png" group-title="台灣酒店",民視HD
+http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 tvg-name="公視" tvg-logo="https://logo.catvod.com/公視.png" group-title="台灣酒店",公視
+http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://logo.catvod.com/人間衛視.png" group-title="台灣酒店",人間衛視
+http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="台灣酒店",大愛電視
+http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 tvg-name="好訊息GOOD TV" tvg-logo="https://logo.catvod.com/好訊息GOOD TV.png" group-title="台灣酒店",好訊息GOOD TV
+http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+#EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://logo.catvod.com/Trace Sport Stars.png" group-title="台灣酒店",Trace Sport Stars
+http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://logo.catvod.com/DISCOVERY.png" group-title="台灣酒店",DISCOVERY
+http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-name="旅遊生活" tvg-logo="https://logo.catvod.com/旅遊生活.png" group-title="台灣酒店",旅遊生活
+http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://logo.catvod.com/動物星球.png" group-title="台灣酒店",動物星球
+http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 tvg-name="亞洲旅遊" tvg-logo="https://logo.catvod.com/亞洲旅遊.png" group-title="台灣酒店",亞洲旅遊
+http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 tvg-name="MOMO親子台" tvg-logo="https://logo.catvod.com/MOMO親子台.png" group-title="台灣酒店",MOMO親子台
+http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+#EXTINF:-1 tvg-name="東森幼幼HD" tvg-logo="https://logo.catvod.com/東森幼幼HD.png" group-title="台灣酒店",東森幼幼HD
+http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1 tvg-name="龍華卡通台" tvg-logo="https://logo.catvod.com/龍華卡通台.png" group-title="台灣酒店",龍華卡通台
+http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1 tvg-name="緯來綜合HD" tvg-logo="https://logo.catvod.com/緯來綜合HD.png" group-title="台灣酒店",緯來綜合HD
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 tvg-name="八大第一HD" tvg-logo="https://logo.catvod.com/八大第一HD.png" group-title="台灣酒店",八大第一HD
+http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 tvg-name="八大綜合HD" tvg-logo="https://logo.catvod.com/八大綜合HD.png" group-title="台灣酒店",八大綜合HD
+http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://logo.catvod.com/三立台灣HD.png" group-title="台灣酒店",三立台灣HD
+http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 tvg-name="三立都會HD" tvg-logo="https://logo.catvod.com/三立都會HD.png" group-title="台灣酒店",三立都會HD
+http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 tvg-name="韓國娛樂台" tvg-logo="https://logo.catvod.com/韓國娛樂台.png" group-title="台灣酒店",韓國娛樂台
+http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+#EXTINF:-1 tvg-name="東森綜合HD" tvg-logo="https://logo.catvod.com/東森綜合HD.png" group-title="台灣酒店",東森綜合HD
+http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 tvg-name="超視HD" tvg-logo="https://logo.catvod.com/超視HD.png" group-title="台灣酒店",超視HD
+http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 tvg-name="中天綜合HD" tvg-logo="https://logo.catvod.com/中天綜合HD.png" group-title="台灣酒店",中天綜合HD
+http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 tvg-name="中天娛樂HD" tvg-logo="https://logo.catvod.com/中天娛樂HD.png" group-title="台灣酒店",中天娛樂HD
+http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 tvg-name="東風衛視" tvg-logo="https://logo.catvod.com/東風衛視.png" group-title="台灣酒店",東風衛視
+http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 tvg-name="MUCH TV" tvg-logo="https://logo.catvod.com/MUCH TV.png" group-title="台灣酒店",MUCH TV
+http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 tvg-name="東森戲劇HD" tvg-logo="https://logo.catvod.com/東森戲劇HD.png" group-title="台灣酒店",東森戲劇HD
+http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 tvg-name="八大戲劇HD" tvg-logo="https://logo.catvod.com/八大戲劇HD.png" group-title="台灣酒店",八大戲劇HD
+http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 tvg-name="TVBS歡樂HD" tvg-logo="https://logo.catvod.com/TVBS歡樂HD.png" group-title="台灣酒店",TVBS歡樂HD
+http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://logo.catvod.com/緯來戲劇.png" group-title="台灣酒店",緯來戲劇
+http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://logo.catvod.com/龍華戲劇台.png" group-title="台灣酒店",龍華戲劇台
+http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+#EXTINF:-1 tvg-name="龍華日韓劇" tvg-logo="https://logo.catvod.com/龍華日韓劇.png" group-title="台灣酒店",龍華日韓劇
+http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+#EXTINF:-1 tvg-name="龍華偶像劇" tvg-logo="https://logo.catvod.com/龍華偶像劇.png" group-title="台灣酒店",龍華偶像劇
+http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+#EXTINF:-1 tvg-name="緯來日本HD" tvg-logo="https://logo.catvod.com/緯來日本HD.png" group-title="台灣酒店",緯來日本HD
+http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 tvg-name="Taiwan Plus" tvg-logo="https://logo.catvod.com/Taiwan Plus.png" group-title="台灣酒店",Taiwan Plus
+http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="台灣酒店",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞
+http://smt.iptv543.com/Smart.php?id=niandainews_twn
+#EXTINF:-1 tvg-name="東森新聞HD" tvg-logo="https://logo.catvod.com/東森新聞HD.png" group-title="台灣酒店",東森新聞HD
+http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://logo.catvod.com/中天新聞.png" group-title="台灣酒店",中天新聞
+http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://logo.catvod.com/民視新聞.png" group-title="台灣酒店",民視新聞
+http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://logo.catvod.com/三立新聞HD.png" group-title="台灣酒店",三立新聞HD
+http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 tvg-name="TVBS新聞HD" tvg-logo="https://logo.catvod.com/TVBS新聞HD.png" group-title="台灣酒店",TVBS新聞HD
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="台灣酒店",TVBS HD
+http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://logo.doube.eu.org/非凡新聞.png" group-title="台灣酒店",非凡新聞
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="非凡商業HD" tvg-logo="https://logo.catvod.com/非凡商業HD.png" group-title="台灣酒店",非凡商業HD
+http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
+#EXTINF:-1 tvg-name="東森財經HD" tvg-logo="https://logo.catvod.com/東森財經HD.png" group-title="台灣酒店",東森財經HD
+http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://logo.catvod.com/寰宇新聞.png" group-title="台灣酒店",寰宇新聞
+http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="台灣酒店",Bloomberg News
+http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1 tvg-name="NHK HD" tvg-logo="https://logo.catvod.com/NHK HD.png" group-title="台灣酒店",NHK HD
+http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡新聞" tvg-logo="https://logo.doube.eu.org/鏡電視新聞台.png" group-title="台灣酒店",鏡新聞
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 tvg-name="好萊塢電影HD" tvg-logo="https://logo.catvod.com/好萊塢電影HD.png" group-title="台灣酒店",好萊塢電影HD
+http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 tvg-name="緯來電影HD" tvg-logo="https://logo.catvod.com/緯來電影HD.png" group-title="台灣酒店",緯來電影HD
+http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://logo.catvod.com/龍華電影台.png" group-title="台灣酒店",龍華電影台
+http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://logo.catvod.com/HBO.png" group-title="台灣酒店",HBO
+http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://logo.catvod.com/AXN.png" group-title="台灣酒店",AXN
+http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 tvg-name="CINEMAX HD" tvg-logo="https://logo.catvod.com/CINEMAX HD.png" group-title="台灣酒店",CINEMAX HD
+http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 tvg-name="AMC 電影台" tvg-logo="https://logo.catvod.com/AMC 電影台.png" group-title="台灣酒店",AMC 電影台
+http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1 tvg-name="寵物頻道" tvg-logo="https://logo.catvod.com/寵物頻道.png" group-title="台灣酒店",寵物頻道
+http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+#EXTINF:-1 tvg-name="緯來育樂HD" tvg-logo="https://logo.catvod.com/緯來育樂HD.png" group-title="台灣酒店",緯來育樂HD
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 tvg-name="緯來體育HD" tvg-logo="https://logo.catvod.com/緯來體育HD.png" group-title="台灣酒店",緯來體育HD
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 tvg-name="博斯運動一" tvg-logo="https://logo.catvod.com/博斯運動一.png" group-title="台灣酒店",博斯運動一
+http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+#EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://logo.catvod.com/momo綜合台.png" group-title="台灣酒店",momo綜合台
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN 1.png" group-title="台灣酒店",DAZN 1
+http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="台灣酒店",DAZN 2
+http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="台灣酒店",CCTV-5 體育頻道
+http://smt.iptv543.com/Smart.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="台灣酒店",CCTV-5+ 體育賽事 HD
+http://smt.iptv543.com/Smart.php?id=cctv5plus
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
+http://smt.iptv543.com/Smart.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
+http://smt.iptv543.com/Smart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
+http://smt.iptv543.com/Smart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
+http://smt.iptv543.com/Smart.php?id=eltasports4_twn
+#EXTINF:-1 tvg-name="廈門衛視" tvg-logo="https://logo.catvod.com/廈門衛視.png" group-title="台灣酒店",廈門衛視
+http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="台灣酒店",CCTV4-中央衛視
+http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
+#EXTINF:-1 tvg-name="海峽衛視" tvg-logo="https://logo.catvod.com/海峽衛視.png" group-title="台灣酒店",海峽衛視
+http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://logo.catvod.com/浙江衛視.png" group-title="台灣酒店",浙江衛視
+http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://logo.catvod.com/東方衛視.png" group-title="台灣酒店",東方衛視
+http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://logo.catvod.com/湖南衛視.png" group-title="台灣酒店",湖南衛視
+http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
+#EXTINF:-1 tvg-name="鳯凰衛視資訊" tvg-logo="https://logo.catvod.com/鳯凰衛視資訊.png" group-title="台灣酒店",鳯凰衛視資訊
+http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+
+
+
+
 ################################################
 
 
