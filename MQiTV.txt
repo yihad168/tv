@@ -7,6 +7,13 @@
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
+ {
+            "name": "🍄MIT🍄",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+           "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+ },
   {
    "name": "💎【冰茶】【央视卫视直播 20250715】💎",
    "type": 0,
