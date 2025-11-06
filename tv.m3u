@@ -295,6 +295,149 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
 ################################################
 
 
+#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" tvg-shift=0
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+http://43.100.9.67/api/streams/live/bs211/1080p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.265.png" tvg-id="BSYoshimoto.jp",BSよしもと
+http://43.100.9.67/api/streams/live/bs265/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="wowow_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_plus.png",WOWOWプラス(171)
+http://43.100.9.67/api/streams/live/bs252/1080p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="アクションチャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png",アクションチャンネル (171)
+http://43.100.9.67/api/streams/live/cs311/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="MUSIC.ON!.TV（エムオン!）.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png",Music ON TV! (171)
+http://43.100.9.67/api/streams/live/cs325/1080p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ / The Cinema  (171)
+http://43.100.9.67/api/streams/live/cs227/1080p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="スーパー！ドラマＴＶ　#海外ドラマ☆エンタメ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png",スーパー!ドラマTV (171)
+http://43.100.9.67/api/streams/live/cs310/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="spaceshowertv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/mystery_channel.png", ミステリーチャンネル / MysteryChannel.jp(171)
+http://43.100.9.67/api/streams/live/cs316/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/Wfu61ZU.png" tvg-id="NTVNEWS24.jp",日テレNEWS24
+http://43.100.9.67/api/streams/live/cs349/1080p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",スカチャン1
+http://43.100.9.67/api/streams/live/cs801/1080p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+http://us1001.utako.moe/kbs/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",NHK BSP4K
+http://43.100.9.67/api/streams/live/bs101/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",BS日視
+http://43.100.9.67/api/streams/live/bs141/1080p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",BS朝日
+http://43.100.9.67/api/streams/live/bs151/1080p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",BS-TBS
+http://43.100.9.67/api/streams/live/bs161/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",BS東視
+http://43.100.9.67/api/streams/live/bs171/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",BS富士
+http://43.100.9.67/api/streams/live/bs181/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",WOWOW Prime
+http://43.100.9.67/api/streams/live/bs191/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",WOWOW Live
+http://43.100.9.67/api/streams/live/bs192/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",WOWOW Cinema
+http://43.100.9.67/api/streams/live/bs193/720p/mpegts
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",STAR CHANNEL 1
+http://43.100.9.67/api/streams/live/bs201/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",BS11
+http://43.100.9.67/api/streams/live/bs211/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",GREEN CHANNEL
+http://43.100.9.67/api/streams/live/bs234/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",J SPORTS 1
+http://43.100.9.67/api/streams/live/bs242/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",J SPORTS 2
+http://43.100.9.67/api/streams/live/bs243/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",J SPORTS 3
+http://43.100.9.67/api/streams/live/bs244/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",J SPORTS 4
+http://43.100.9.67/api/streams/live/bs245/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",Cinefil WOWOW
+http://43.100.9.67/api/streams/live/bs252/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",日本電影專門頻道
+http://43.100.9.67/api/streams/live/bs255/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",迪士尼頻道
+http://43.100.9.67/api/streams/live/bs256/720p/mpegts
+
+
+
+
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",東映頻道
+http://43.100.9.67/api/streams/live/cs218/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",ザ・シネマ
+http://43.100.9.67/api/streams/live/cs227/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",Movie Plus
+http://43.100.9.67/api/streams/live/cs240/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",SkyA
+http://43.100.9.67/api/streams/live/cs250/720p/mpegts
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",NTV G+
+http://43.100.9.67/api/streams/live/cs257/720p/mpegts
+
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",TBS CH1
+http://43.100.9.67/api/streams/live/cs296/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",TBS CH2
+http://43.100.9.67/api/streams/live/cs297/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",エンタメ〜テレ☆シネドラバラエティ	
+http://43.100.9.67/api/streams/live/cs301/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",銀河頻道
+http://43.100.9.67/api/streams/live/cs305/720p/mpegts
+
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",富士電視台ONE
+http://43.100.9.67/api/streams/live/cs307/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",富士電視台TWO
+http://43.100.9.67/api/streams/live/cs308/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",富士電視台NEXT
+http://43.100.9.67/api/streams/live/cs309/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",Super! Drama TV
+http://43.100.9.67/api/streams/live/cs310/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",Lala TV
+http://43.100.9.67/api/streams/live/cs314/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",SPACE SHOWER電視台
+http://43.100.9.67/api/streams/live/cs322/720p/mpegts
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="",MUSIC ON! TV
+http://43.100.9.67/api/streams/live/cs325/720p/mpegts
+
+
 
 
 
