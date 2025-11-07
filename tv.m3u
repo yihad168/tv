@@ -405,37 +405,30 @@ http://43.100.9.67/api/streams/live/cs257/720p/mpegts
 
 #EXTINF:-1 group-title="日本頻道" tvg-id="",TBS CH1
 http://43.100.9.67/api/streams/live/cs296/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",TBS CH2
 http://43.100.9.67/api/streams/live/cs297/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",エンタメ〜テレ☆シネドラバラエティ	
 http://43.100.9.67/api/streams/live/cs301/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",銀河頻道
 http://43.100.9.67/api/streams/live/cs305/720p/mpegts
-
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",富士電視台ONE
 http://43.100.9.67/api/streams/live/cs307/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",富士電視台TWO
 http://43.100.9.67/api/streams/live/cs308/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",富士電視台NEXT
 http://43.100.9.67/api/streams/live/cs309/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",Super! Drama TV
 http://43.100.9.67/api/streams/live/cs310/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",Lala TV
 http://43.100.9.67/api/streams/live/cs314/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",SPACE SHOWER電視台
 http://43.100.9.67/api/streams/live/cs322/720p/mpegts
-
 #EXTINF:-1 group-title="日本頻道" tvg-id="",MUSIC ON! TV
 http://43.100.9.67/api/streams/live/cs325/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",AT-X
+http://43.100.9.67/api/streams/live/cs333/720p/mpegts
+#EXTINF:-1 group-title="日本頻道" tvg-id="",Sky CH1
+http://43.100.9.67/api/streams/live/cs801/720p/mpegts
 
 
 
@@ -1527,7 +1520,7 @@ https://qz.5.8.9.0.4.2.0.0.0.7.4.0.1.0.0.2.ip6.arpa/?id=6ZaT5ZyL5aib5qiC5YawIEtN
 
 ################################################
 
-台灣(歐飛),#genre#
+台灣(歐飛)
 
 #EXTINF:-1 group-title="歐飛",台視
 https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
@@ -1854,9 +1847,49 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 
 
 
-
-
 ################################################
+
+
+
+
+#EXTM3U x-tvg-url="https://epg-1.iill.top/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="CHINA CCTV",CCTV1
+http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="CHINA CCTV",CCTV2
+http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
+#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="CHINA CCTV",CCTV3
+http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="CHINA CCTV",CCTV4
+http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
+#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="CHINA CCTV",CCTV5
+http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="CHINA CCTV",CCTV5+
+http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png"  group-title="CHINA CCTV",CCTV6
+http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png"  group-title="CHINA CCTV",CCTV7
+http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
+#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png"  group-title="CHINA CCTV",CCTV8
+http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png"  group-title="CHINA CCTV",CCTV9
+http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
+#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png"  group-title="CHINA CCTV",CCTV10
+http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
+#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png"  group-title="CHINA CCTV",CCTV11
+http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
+#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png"  group-title="CHINA CCTV",CCTV12
+http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
+#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png"  group-title="CHINA CCTV",CCTV13
+http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png"  group-title="CHINA CCTV",CCTV14
+http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
+#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png"  group-title="CHINA CCTV",CCTV15
+http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
+#EXTINF:-1  tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png"  group-title="CHINA CCTV",CCTV16
+http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+#EXTINF:-1  tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png"  group-title="CHINA CCTV",CCTV17
+http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
+
 
 
 
@@ -2026,7 +2059,7 @@ https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u
 
 
 
-🐻台灣(88衛星源),#genre#
+🐻台灣(88衛星源)
 #EXTINF:-1 group-title="數位無線電視",中視
 http://123.51.136.80:8301/0.ts
 #EXTINF:-1 group-title="數位無線電視",中視經典台
@@ -2800,10 +2833,6 @@ http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 
 
 
-
-
-
-🐻台灣(四季全套202),#genre#
 #EXTINF:-1 group-title="四季TV",台視
 http://220.132.15.209:5008/li-4gtv-4gtv066/index.m3u8
 #EXTINF:-1 group-title="四季TV",中視
@@ -4332,8 +4361,6 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
 
-
-特區酒店源,#genre#
 #EXTINF:-1 group-title="港澳馬新",廣東珠江
 http://php.jdshipin.com/PLTV/iptv.php?id=gdzj
 #EXTINF:-1 group-title="港澳馬新",廣東體育
@@ -5781,10 +5808,6 @@ https://smt.858.qzz.io/Smart.php?id=nhkosaka_japan
 
 
 ################################################
-
-
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-
 
 
 
@@ -7338,7 +7361,7 @@ http://4gtv.korice.eu.org/nnews-wf/index.m3u8
 http://4gtv.korice.eu.org/ofiii13/index.m3u8
 #EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="歐飛點播",空中英語教室HD頻道
 http://4gtv.korice.eu.org/ofiii16/index.m3u8
-#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png"group-title="歐飛點播",哆啦Ａ夢台
+#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="歐飛點播",哆啦Ａ夢台
 http://4gtv.korice.eu.org/ofiii22/index.m3u8
 #EXTINF:-1 tvg-id="新哆啦A夢(中文版)" tvg-name="新哆啦A夢(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="歐飛點播",新哆啦A夢(中文版)
 http://4gtv.korice.eu.org/ofiii23/index.m3u8
@@ -7653,409 +7676,6 @@ http://4gtv.korice.eu.org/ofiii254/index.m3u8
 #########################################
 
 
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="MytvSuper",翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=J
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="MytvSuper",翡翠台 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JUHD
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="MytvSuper",TVB Plus
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=B
-#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCKEXTREME" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKEXTREME.png" group-title="MytvSuper",ROCK Extreme
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=RKEX
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="MytvSuper",無綫新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="MytvSuper",明珠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=P
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER奖门人" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER獎門人
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SVAR
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPEREYT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER EYT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SEYT
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER识食" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER識食
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SFOO
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER识叹" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER識嘆
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=STRA
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="MytvSuper",SUPER Music
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SMUS
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER金曲
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SGOL
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER煲剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER煲劇
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSIT
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER劇場
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=STVM
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MytvSuper",SUPER話當年
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SDOC
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="MytvSuper",SUPER Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SSPT
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="MytvSuper",雲南瀾湄國際衛視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=YNTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="MytvSuper",安徽廣播電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=AHTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MytvSuper",北京電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=BJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西.png" group-title="MytvSuper",廣西電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GXTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MytvSuper",福建海峽衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MytvSuper",湖南電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=HNTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏.png" group-title="MytvSuper",江蘇電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=JSTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="MytvSuper",廣東廣播電視台大灣區衛視頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=GBTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MytvSuper",浙江電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=ZJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="MytvSuper",深圳衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SZTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERFREE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MytvSuper",myTV SUPER FREE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CWIN
-#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="MYTVSUPER18台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable11.png" group-title="MytvSuper",myTV SUPER 18台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C18
-#EXTINF:-1 tvg-id="myTV-28-AI" tvg-logo="https://www.mytvsuper.com/tc/scoopplus/thumbor/rzBSNjFIaLA8XDdRtwfpF_gXiHo=/200x0/filters:quality(80)/public/author/cover/202412/776c7bc4-e8ff-4585-a36d-3459bec286b8.png" group-title="MytvSuper",28 AI 智慧賽馬
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C28
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金翡翠.png" group-title="MytvSuper",黃金翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=TVG
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="MytvSuper",千禧經典台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTVC
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="华语剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华语剧.png" group-title="MytvSuper",華語劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDR3
-#EXTINF:-1 tvg-id="粵語片台" tvg-name="粤语片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/粤语片.png" group-title="MytvSuper",粵語片台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CCLM
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亚洲剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲剧.png" group-title="MytvSuper",亞洲劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTVS
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黄金华剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金华剧.png" group-title="MytvSuper",黃金華劇台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=TVO
-#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="MytvSuper",娛樂新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTVE
-#EXTINF:-1 tvg-id="戲曲台" tvg-name="戏曲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏曲.png" group-title="MytvSuper",戲曲台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CCOC
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPERKIDSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="MytvSuper",SUPER Kids Channel
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=KID
-#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZOOMOO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZOOMOO.png" group-title="MytvSuper",ZooMoo
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=ZOO
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="MytvSuper",Nickelodeon
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIKO
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="NICKJR." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="MytvSuper",Nick Jr.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNIJR
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="MytvSuper",美亞電影台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMAM
-#EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="MytvSuper",Thrill
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTHR
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MytvSuper",天映經典頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CCCM
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中国电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国电影.png" group-title="MytvSuper",中國電影頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMC
-#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="MytvSuper",ROCK Action
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRTX
-#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KIX.png" group-title="MytvSuper",KIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CKIX
-#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="LOVENATUREHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="MytvSuper",Love Nature HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=LNH
-#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="LOVENATURE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MytvSuper",Love Nature 4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=LN4
-#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="GLOBALTREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="MytvSuper",Global Trekker
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=SMS
-#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK综艺娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCK综艺娱乐.png" group-title="MytvSuper",ROCK綜藝娛樂
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRTE
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="MytvSuper",AXN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CAXN
-#EXTINF:-1 tvg-id="Animax-HK" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="MytvSuper",Animax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CANI
-#EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="MytvSuper",tvN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJTV
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星亚洲.png" group-title="MytvSuper",無線衛星亞洲台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTS1
-#EXTINF:-1 tvg-id="創世電視" tvg-name="创世电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/创世电视.png" group-title="MytvSuper",創世電視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CRE
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FASHIONBOX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONBOX.png" group-title="MytvSuper",FashionBox
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=FBX
-#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="MEZZOLIVEHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MEZZOLIVEHD.png" group-title="MytvSuper",Mezzo Live HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMEZ
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="东方卫视国际频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视国际.png" group-title="MytvSuper",東方衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=DTV
-#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="MytvSuper",鳳凰衛視中文台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PCC
-#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="MytvSuper",鳳凰衛視資訊台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PIN
-#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="MytvSuper",鳳凰衛視香港台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=PHK
-#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="MytvSuper",PopC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=POPC
-#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MytvSuper",中央電視台綜合頻道 (港澳版)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CC1
-#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN(中国环球电视网)记录频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="MytvSuper",CGTN (中國環球電視網)記錄頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CGD
-#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN(中国环球电视网)英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="MytvSuper",CGTN (中國環球電視網)英語頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CGE
-#EXTINF:-1 tvg-id="神州新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/神州新闻.png" group-title="MytvSuper",神州新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CMN1
-#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="无线卫星新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星新闻.png" group-title="MytvSuper",無線衛星新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CTSN
-#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲新闻.png" group-title="MytvSuper",亞洲新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CCNA
-#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半岛电视台英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛电视台英语.png" group-title="MytvSuper",半島電視台英語頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CJAZ
-#EXTINF:-1 tvg-id="France-24-HK" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="MytvSuper",France 24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CF24
-#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="MytvSuper",DW
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CDW1
-#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHKWORLDJAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="MytvSuper",NHK World-Japan
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CNHK
-#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="ARIRANGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANGTV.png" group-title="MytvSuper",Arirang TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=CARI
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="MYTVSUPER直播足球3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MytvSuper",myTV SUPER直播足球3台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=EVT3
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MytvSuper",myTV SUPER直播足球4台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=EVT4
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MytvSuper",myTV SUPER直播足球5台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=EVT5
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MytvSuper",myTV SUPER直播足球6台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=EVT6
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="MytvSuper",互動窗 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C3
-#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="MytvSuper",互動窗 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-https://mytvsuper.858.qzz.io/jump?url=https://mytv.passwdword.xyz/mytv265.php?id=C2
-
-
 
 
 #########################################
@@ -8208,7 +7828,8 @@ http://live.nctv.top/huya.php?id=880219
 
 ################################################
 
-抖音K歌,#genre#
+
+
 
 #EXTINF:-1 group-title="抖音K歌",朴彩英/APT
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
@@ -8664,15 +8285,26 @@ http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/vi
 
 
 
-#EXTINF:-1 group-title="抖音K歌",周杰倫-即興曲,https://cfss.cc/api/kg/13559898.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-夜曲,https://cfss.cc/api/kg/596344.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-傻笑,https://cfss.cc/api/kg/596984.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-楓,https://cfss.cc/api/kg/2808.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-園遊會,https://cfss.cc/api/kg/592679.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-浪漫手機,https://cfss.cc/api/kg/756738.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-白色風車,https://cfss.cc/api/kg/3022748.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-藉口,https://cfss.cc/api/kg/29375.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-擱淺,https://cfss.cc/api/kg/756760.mp4
+
+
+#EXTINF:-1 group-title="抖音K歌",周杰倫-即興曲
+https://cfss.cc/api/kg/13559898.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-夜曲
+https://cfss.cc/api/kg/596344.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-傻笑
+https://cfss.cc/api/kg/596984.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-楓
+https://cfss.cc/api/kg/2808.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-園遊會
+https://cfss.cc/api/kg/592679.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-浪漫手機
+https://cfss.cc/api/kg/756738.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-白色風車
+https://cfss.cc/api/kg/3022748.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-藉口
+https://cfss.cc/api/kg/29375.mp4
+#EXTINF:-1 group-title="抖音K歌",周杰倫-擱淺
+https://cfss.cc/api/kg/756760.mp4
 #EXTINF:-1 group-title="抖音K歌",周杰倫-七裡香
 https://cfss.cc/api/kg/756969.mp4
 #EXTINF:-1 group-title="抖音K歌",周杰倫-發如雪
@@ -10883,7 +10515,7 @@ https://smt.passwdword.xyz/Smart.php?id=aljazeera_twn
 
 
 
-象棋學習,#genre#
+象棋學習
 #EXTINF:-1 group-title="象棋學習",入門1基本規則
 https://vd3.bdstatic.com/mda-pbdj4fk7xn8uax8u/sc/cae_h264/1676384551816717801/mda-pbdj4fk7xn8uax8u.mp4
 #EXTINF:-1 group-title="象棋學習",入門2基本棋理
@@ -11013,8 +10645,6 @@ https://vd3.bdstatic.com/mda-mk9940t1qza4ptet/576p/cae_h264/1651596935959437402/
 ################################################
 
 
-
-NOW-HK,#genre#
 #EXTINF:-1 group-title="NOW-HK",Now HK Sports 4K 1 UHD
 https://rolextv.one:443/22428200/22428210/284080
 #EXTINF:-1 group-title="NOW-HK",Now HK Sports 4K 2 UHD
@@ -11089,8 +10719,6 @@ https://rolextv.one:443/22428200/22428210/284113
 https://rolextv.one:443/22428200/22428210/284114
 
 
-
-HUB PREMIERE,#genre#
 #EXTINF:-1 group-title="HUB PREMIERE",HUB Sports 1 HD
 https://rolextv.one:443/22428200/22428210/204248
 #EXTINF:-1 group-title="HUB PREMIERE",HUB Sports 2 HD
@@ -11117,9 +10745,6 @@ https://rolextv.one:443/22428200/22428210/204258
 https://rolextv.one:443/22428200/22428210/204259
 
 
-
-
-INTERNATIONAL NEWS,#genre#
 #EXTINF:-1 group-title="INTERNATIONAL NEWS",ABC NEWS HD
 https://rolextv.one:443/22428200/22428210/290334
 #EXTINF:-1 group-title="INTERNATIONAL NEWS",AL JAZEERA FHD
@@ -11153,8 +10778,6 @@ https://rolextv.one:443/22428200/22428210/25886
 
 
 
-
-US | NEWS,#genre#
 #EXTINF:-1 group-title="US | NEWS",3TV HD [PHOENIX]
 https://rolextv.one:443/22428200/22428210/67509
 #EXTINF:-1 group-title="US | NEWS",69 NEWS (WFMZ) PHILADELPHIA
@@ -11278,8 +10901,6 @@ https://rolextv.one:443/22428200/22428210/67459
 
 
 
-
-LIVE | beIN MEDIA 4K,#genre#
 #EXTINF:-1 group-title="LIVE | beIN MEDIA 4K",beIN SPORTS 1 HEVC
 https://rolextv.one:443/22428200/22428210/126639
 #EXTINF:-1 group-title="LIVE | beIN MEDIA 4K",beIN SPORTS 2 HEVC
@@ -11308,7 +10929,6 @@ https://rolextv.one:443/22428200/22428210/163818
 
 
 
-UK | SPORTS,#genre#
 #EXTINF:-1 group-title="UK | SPORTS",Sky Sports Main Event FHD 50FPS
 https://rolextv.one:443/22428200/22428210/217583
 #EXTINF:-1 group-title="UK | SPORTS",Sky Sports Main Event FHD
@@ -11420,7 +11040,6 @@ https://rolextv.one:443/22428200/22428210/282384
 
 
 
-LIVE | FOOTBALL,#genre#
 #EXTINF:-1 group-title="LIVE | FOOTBALL",UK: SKY SPORTS FOOTBALL
 https://rolextv.one:443/22428200/22428210/28119
 #EXTINF:-1 group-title="LIVE | FOOTBALL",UK: TNT SPORT 3 FHD
@@ -11479,7 +11098,7 @@ https://rolextv.one:443/22428200/22428210/28154
 
 
 
-LIVE | SPORTS,#genre#
+
 #EXTINF:-1 group-title="LIVE | SPORTS",ESPN 1 HD
 https://rolextv.one:443/22428200/22428210/204195
 #EXTINF:-1 group-title="LIVE | SPORTS",ESPN 2 HD
@@ -11525,7 +11144,6 @@ https://rolextv.one:443/22428200/22428210/27856
 
 
 
-香港,#genre#
 #EXTINF:-1 group-title="LEBIPTV 香港",無線新聞
 http://line.lebiptv.me/VMp72512/vcHD6164/500949
 #EXTINF:-1 group-title="LEBIPTV 香港",翡翠台
@@ -11558,7 +11176,8 @@ http://line.lebiptv.me/VMp72512/vcHD6164/500943
 http://line.lebiptv.me/VMp72512/vcHD6164/500944
 
 
-NEWS,#genre#
+
+
 #EXTINF:-1 group-title="LEBIPTV NEWS",ABC NEWS LIVE
 http://line.lebiptv.me/live/VMp72512/vcHD6164/551995.ts
 #EXTINF:-1 group-title="LEBIPTV NEWS",ACCU WEATHER
@@ -11614,7 +11233,8 @@ http://line.lebiptv.me/live/VMp72512/vcHD6164/487634.ts
 #EXTINF:-1 group-title="LEBIPTV NEWS",TVG2
 http://line.lebiptv.me/live/VMp72512/vcHD6164/487633.ts
 
-LOS ANGELES,#genre#
+
+
 #EXTINF:-1 group-title="LEBIPTV LOS ANGELES",KABC
 http://line.lebiptv.me/live/VMp72512/vcHD6164/548980.ts
 #EXTINF:-1 group-title="LEBIPTV LOS ANGELES",KCBS
@@ -11628,7 +11248,8 @@ http://line.lebiptv.me/live/VMp72512/vcHD6164/549875.ts
 #EXTINF:-1 group-title="LEBIPTV LOS ANGELES",KNBC
 http://line.lebiptv.me/live/VMp72512/vcHD6164/550382.ts
 
-MUSIC,#genre#
+
+
 #EXTINF:-1 group-title="LEBIPTV MUSIC",KARAOKE 1
 http://line.lebiptv.me/live/VMp72512/vcHD6164/697149.ts
 #EXTINF:-1 group-title="LEBIPTV MUSIC",KARAOKE 2
@@ -11672,7 +11293,9 @@ http://line.lebiptv.me/live/VMp72512/vcHD6164/577431.ts
 #EXTINF:-1 group-title="LEBIPTV MUSIC",NOW 90S
 http://line.lebiptv.me/live/VMp72512/vcHD6164/577430.ts
 
-SPORTS,#genre#
+
+
+
 #EXTINF:-1 group-title="LEBIPTV SPORTS",ASTRO SUPERSPORTS PL 1
 http://line.lebiptv.me/live/VMp72512/vcHD6164/766852.ts
 #EXTINF:-1 group-title="LEBIPTV SPORTS",ASTRO SUPERSPORTS PL 2
@@ -11834,7 +11457,6 @@ http://line.lebiptv.me/live/VMp72512/vcHD6164/487803.ts
 
 
 
-LEBIPTV SPORTS,#genre#
 #EXTINF:-1 group-title="LEBIPTV SPORTS",ASTRO SUPERSPORTS PL 1
 http://line.lebiptv.me/live/VMp72512/vcHD6164/766852.ts
 #EXTINF:-1 group-title="LEBIPTV SPORTS",ASTRO SUPERSPORTS PL 2
@@ -12016,11 +11638,13 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",松視3
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 
 
 
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
+https://ca01.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
+https://ca01.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Premium +18 - Asian Bondage (e)(720)" tvg-logo="" group-title="私密頻道 ADULT",Premium +18 - Asian Bondage (e)(720)
@@ -12040,48 +11664,6 @@ https://tv4k.me:443/ungzcfav/74Ahxb1W8m/5152.ts
 
 
 
-#EXTINF:-1 group-title="私密頻道 ADULT",巨茹
-http://krevonix.com/20240520/DN1ccCOX/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",喜枣
-http://krevonix.com/20240520/qnbmFYrc/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",jufe-131
-http://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="私密頻道 ADULT",你的瑜伽女孩
-http://tv.ximix.us/douyu/10205199
-#EXTINF:-1 group-title="私密頻道 ADULT",釣魚歐尼
-http://tv.ximix.us/douyu/10616765
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播1
-http://113.45.240.129:35455/huya/30901472
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播2
-http://113.45.240.129:35455/huya/18152352
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播3
-http://113.45.240.129:35455/huya/30867827
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播4
-http://113.45.240.129:35455/huya/30901478
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播5
-http://113.45.240.129:35455/huya/30901474
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播6
-http://113.45.240.129:35455/huya/30901473
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播7
-http://113.45.240.129:35455/huya/30901477
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播8
-http://113.45.240.129:35455/huya/30805945
-#EXTINF:-1 group-title="私密頻道 ADULT",瑜伽褲直播9
-http://tv.ximix.us/douyu/9974197
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="私密頻道 ADULT",花花公子
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
@@ -12091,29 +11673,8 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",nuart
 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
 
-#EXTINF:-1 group-title="私密頻道 ADULT",O-la-la
-http://31.148.48.15/O-la-la/index.m3u8
-
-#EXTINF:-1 group-title="私密頻道 ADULT",cx_15199
-http://bo.xn--3oq579l.com/live/cx_15199.flv
-#EXTINF:-1 group-title="私密頻道 ADULT",cx_15202
-http://bo.xn--3oq579l.com/live/cx_15202.flv
-
-#EXTINF:-1 group-title="私密頻道 ADULT",Кино 18+ International
-https://v2.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",EropulsDE
-https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://ca01.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://ca01.utako.moe/v_paradise/index.m3u8
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",Asian
@@ -14968,102 +14529,6 @@ https://hyf000.eu.org/iptv/263
 
 
 
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Alexis Fawx
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70711
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Alina Plugaru
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70710
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Alleta Ocean
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70712
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Anal
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70720
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Angela White
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70709
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Ania Kinski
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70708
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Anissa Kate
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70707
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Azul Hermosa
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70706
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Best Porn Collection Pack 1
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/71246
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Big Ass
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70717
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Blonde
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70718
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Brazzers
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70714
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Brett Rossi
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70705
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",CumShot
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70716
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Double Penetration
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70719
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",ELLA KNOX Pack 1
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75886
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Fake Hostel
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70715
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Georgie Lyall
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70704
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Jessa Rhodes
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70703
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Katrina Morena
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70702
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Kenzie Taylor
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70701
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Lena Paul
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70700
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Liya Silver Pack 6
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/71123
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Luna Star
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70698
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Lya Silver
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70699
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Mckenzie Lee
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70697
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Nathaly Cherie
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70696
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Nicole Aristone
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70695
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Public Agent
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70713
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Riley Reid
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70694
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Roma Amore Passion
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/71135
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Sasha Rose
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70693
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Savannah Bond
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70692
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Shay Evans
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70691
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Super One
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/50189
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Vanessa Decker
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70721
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",Victoria June
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70690
-
-
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PETITE NUBILES 1
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58065
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PETITE NUBILES 2
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58066
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PETITE NUBILES 3
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58067
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PETITE NUBILES 4
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58068
-
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PUBLIC BANG 1
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58069
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PUBLIC BANG 2
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58070
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",PUBLICAGENT
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58056
-
-#EXTINF:-1 group-title="OpenTV頻道 ADULT",RKPrime
-http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/58049
-
-
 
 
 
@@ -15071,7 +14536,8 @@ http://main.canale-romanesti.com:80/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/580
 
 
 
-精品合集一,#genre#
+
+
 #EXTINF:-1 group-title="精品合集 ADULT",山本宮子
 https://surrit.com/732214e0-5524-47ff-bf0a-285859030ffd/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集 ADULT",Sae Fujiki
@@ -15271,7 +14737,9 @@ https://surrit.com/29ecbb48-22b7-42bd-826e-50429423f362/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集 ADULT",H罩杯巨乳
 https://surrit.com/3ec88b23-a342-4992-bbfb-02afca66cb72/1280x720/video.m3u8
 
-精品合集二,#genre#
+
+
+
 #EXTINF:-1 group-title="精品合集二 ADULT",女大學生AV出道
 https://surrit.com/92773f3b-2d1e-4283-aa31-f90df4fb79e1/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集二 ADULT",洩漏性愛視頻
@@ -15473,7 +14941,9 @@ https://surrit.com/9e04f697-c96f-4cb6-8d31-79ac3518cfaa/842x480/video.m3u8
 #EXTINF:-1 group-title="精品合集二 ADULT",女朋友只限女學生
 https://surrit.com/142628e0-739b-4a6a-a563-33b85b1cab5e/1280x720/video.m3u8
 
-精品合集三,#genre#
+
+
+
 #EXTINF:-1 group-title="精品合集三 ADULT",高級交付健康
 https://surrit.com/1692e1c8-64bc-4479-a1f7-6f396cd213f7/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集三 ADULT",在性愛室對穿
@@ -15673,7 +15143,9 @@ https://surrit.com/9b106264-08c6-4255-965b-9cd7c4c7e225/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集三 ADULT",莫內美桑
 https://surrit.com/81dda617-a7af-4405-9adf-19a59be6d438/1280x720/video.m3u8
 
-精品合集四,#genre#
+
+
+
 #EXTINF:-1 group-title="精品合集四 ADULT",詩織桑
 https://surrit.com/40b24cbe-e231-4c9a-b4a3-66366bf4a980/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集四 ADULT",尤莉亞
@@ -15873,7 +15345,9 @@ https://surrit.com/96fd76fd-2558-4a85-8d94-79766d1e88e5/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集四 ADULT",Reiko Iwai
 https://surrit.com/4d06bdcf-7957-4aaf-a5c2-618eca4bbd55/1280x720/video.m3u8
 
-精品合集五,#genre#
+
+
+
 #EXTINF:-1 group-title="精品合集五 ADULT",三岡裡美
 https://surrit.com/ea5909c9-b125-4e2f-9466-b8c31597104e/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集五 ADULT",愛香辣辣天堂
@@ -16074,7 +15548,7 @@ https://surrit.com/f3a7e21f-515a-467e-820b-ce5f8c34df28/1280x720/video.m3u8
 https://surrit.com/29b7e0a2-0872-4ca6-afc3-23c4b5ffd030/1280x720/video.m3u8
 
 
-精品合集六,#genre#
+
 #EXTINF:-1 group-title="精品合集六 ADULT",有棲麻衣
 https://surrit.com/2ae908ba-1427-4c21-ab88-0818d617914e/1280x720/video.m3u8
 #EXTINF:-1 group-title="精品合集六 ADULT",業餘面具性慾處理受虐狂
@@ -16315,7 +15789,7 @@ https://surrit.com/a3621479-6887-48e2-accd-388face15bd8/1280x720/video.m3u8
 
 
 
-groupName=🦈果凍傳媒
+
 #EXTINF:-1 group-title="果凍傳媒 ADULT",傳媒01
 https://je40u.cdnedge.live/file/avple-images/hls/62ee66a90fcbac72c609a143/playlist.m3u8
 #EXTINF:-1 group-title="果凍傳媒 ADULT",傳媒02
@@ -17307,7 +16781,74 @@ http://surrit.com/ba5c6501-bbfe-49e1-bcd6-dfab16e6fc0b/1080p/video.m3u8
 
 
 
-AV女優,#genre#
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她
+http://surrit.com/48cc8725-4131-447f-abed-fc2716182517/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,第二波中出
+http://surrit.com/71b02961-d521-401c-9d5c-a7a2b80190ff/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,完全素人
+http://surrit.com/aeae771f-72bd-45f4-a18d-f467fe247d02/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,精緻女性
+http://surrit.com/392de0b5-64d5-4d27-8ba4-cfbd446b19c9/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,跡般中出
+http://surrit.com/849117dc-e533-4c70-a269-4d602a1ae9d2/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,大量中出
+http://surrit.com/fd60a2ee-139a-475e-90d2-06a4e9eab98f/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,按摩胸部
+http://surrit.com/66dc7a11-0717-499e-adab-f81882320224/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,已婚女性
+http://surrit.com/e4a02194-79da-41d6-958d-5b0f51d86fa4/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,醫院院長
+http://surrit.com/1c25519b-8713-4001-ac43-169a719aa18a/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,年輕妻子
+http://surrit.com/fd90d056-68a2-4b87-8733-19869b58a0d5/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,按摩妹子
+http://surrit.com/80380186-f0cd-446f-8106-c0338afd8df1/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,學生性愛
+http://surrit.com/cfbd9705-06f7-4d78-b42f-64f6a00a39fe/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,家庭主婦
+http://surrit.com/6d3b2b92-81ec-4e1a-96e1-dcd083a05ef9/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,隨和隨性
+http://surrit.com/b2308896-c95b-4b98-a7ea-04319fd8adaf/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,胸部豐滿
+http://surrit.com/32886a12-8ee5-4cb5-915c-57cf13c65943/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,大量顔射
+http://surrit.com/03662bf7-175d-4383-aa0e-d8b2093778cb/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,濃密陰毛
+http://surrit.com/81541c62-1e47-416d-ad3c-4ba55295ca12/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,清潔口交
+http://surrit.com/abaec9ff-ea4b-4a37-8d25-394127d537c8/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,魅力十足
+http://surrit.com/6753a4ad-0584-4279-b3cd-93ac70fe30e7/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,女大學生
+http://surrit.com/939ee963-a318-47ef-bdd7-d047da57103f/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,成年糕點
+http://surrit.com/eb4638a7-c2d6-4358-ae82-8f4393a62ebe/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,性感爆棚
+http://surrit.com/029610fd-9323-47d7-b8cd-2986e3d8e54d/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,她被中出
+http://surrit.com/1bfd045a-69a5-436e-8a69-189739a330c9/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,浴室開始
+http://surrit.com/7533cc1d-99cc-4ebe-b995-f73e4f23527b/1080p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,強烈中出
+http://surrit.com/bdaa5997-8c74-4589-b034-64eaa2ac6be8/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,淫穢中出
+http://surrit.com/7894b9ea-6714-4446-aafe-e3791cc36845/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,強勢的校長
+http://surrit.com/795b357b-4a67-49bb-9a40-69c8561fc23a/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,美乳的模特
+http://surrit.com/a397b5cb-0aba-4fc9-828a-94170ad6c2d3/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,小穴抽搐
+http://surrit.com/a387ee58-65d5-4960-87b6-4847caf4d4be/720p/video.m3u8
+#EXTINF:-1 group-title="無碼影片 ADULT",內射了她,不想露臉
+http://surrit.com/ddf60fa7-48ec-4360-9c01-73850f03db17/1080p/video.m3u8
+
+
+
+
+
+
+
+AV女優
 #EXTINF:-1 group-title="AV女優 ADULT",倉多真央
 http://surrit.com/e8736cbd-4b7b-4922-a011-5e3a6bae6026/1080p/video.m3u8
 #EXTINF:-1 group-title="AV女優 ADULT",武藤彩香
@@ -17836,7 +17377,7 @@ http://krevonix.com/20240520/xYrik8ak/index.m3u8
 
 
 
-=JAV點播=,#genre#
+=JAV點播=
 #EXTINF:-1 group-title="JAV點播 ADULT",10周年紀念特別篇著名演員
 https://t27.cdn2020.com/video/m3u8/2024/10/03/922abb2b/index.m3u8
 #EXTINF:-1 group-title="JAV點播 ADULT",18歲美少女看似清純實際很淫蕩
@@ -19841,6 +19382,9 @@ https://t33.cdn2020.com/video/m3u8/2025/10/02/8e83b8e4/index.m3u8
 #EXTINF:-1 group-title="少婦白潔 ADULT",少婦白潔第六章MDSR-0005-6綠帽風雲誰是誰的妻-艾熙 蘇暢 艾悠
 https://t33.cdn2020.com/video/m3u8/2025/10/18/64827eee/index.m3u8
 
+
+
+
 #EXTINF:-1 group-title="少年阿賓 ADULT",MD0165-1 少年阿賓-篇章一 美豔的房東太太
 https://surrit.com/6d02b573-2617-4e27-a7bd-7a4127cfcbde/1280x720/video.m3u8
 #EXTINF:-1 group-title="少年阿賓 ADULT",MD0165-1 少年阿賓-篇章一 美豔的房東太太
@@ -21219,6 +20763,8 @@ https://djfdsu.hhphxz.com/20231006/4gH8bU7S/index.m3u8
 #EXTINF:-1 group-title="香蕉秀 ADULT",【香蕉秀】持續領先
 https://djfdsu.hhphxz.com/20231111/e1Mz9ztI/index.m3u8
 
+
+
 #EXTINF:-1 group-title="蕉點 ADULT",【蕉點】第一百六十一集-粉色露露新年秀，張開雙腿送祝福！
 https://fcxqxf.hhphxz.com/20250215/znGaH52J/index.m3u8
 #EXTINF:-1 group-title="蕉點 ADULT",【蕉點】第一百六十集-女銷售主動體驗產品，淫水直流叫床不斷！
@@ -21705,6 +21251,9 @@ https://fcxqxf.hhphxz.com/20240410/teyz11Fd/index.m3u8
 https://fcxqxf.hhphxz.com/20240520/ZD9XJQLA/index.m3u8
 #EXTINF:-1 group-title="玩偶姐姐 ADULT",秋日清晨長腿禦姐蝴蝶美穴銷魂後入-玩偶姐姐
 https://fcxqxf.hhphxz.com/20241218/NebKyPen/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="娜娜姐姐 ADULT",【娜娜姐姐】鄰家姐姐2（劇情完整版）
 https://eppphh.hhphxz.com/20220730/YP44VlO9/index.m3u8
@@ -22478,397 +22027,211 @@ https://t33.cdn2020.com/video/m3u8/2025/10/30/0ef2a255/index.m3u8
 
 
 
+#EXTINF:-1 group-title="大雜燴 ADULT",心愛的女兒
+http://surrit.com/c1c0bd88-e23e-4e22-ba99-b4bdd57b55dd/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",大雞巴亂倫
+http://surrit.com/680b448c-df5a-4687-b916-07fdf01a96ff/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",兒子堅硬
+http://surrit.com/1eb84dd3-4a5f-40df-aae2-596eb120b3b0/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",再婚的媽媽
+http://surrit.com/8b78e6bf-d08b-4f97-92c3-edecba7a1147/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",脫光公雞
+http://surrit.com/7dc5bac1-54a0-4106-9bad-404d71882dc4/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",硬屌誘惑
+http://surrit.com/c23755c4-e3a2-4222-8137-ecd99169cb6a/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",雞巴亂倫
+http://surrit.com/f6b16739-8b15-4615-8d19-dea700927646/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",勢不可擋
+http://surrit.com/9f9e504e-558e-4cc5-8e0a-94bc644a29e2/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",離開巢穴
+http://surrit.com/e1a7f4d8-6301-49cd-8160-9b3a4921c77d/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",再婚的母親
+http://surrit.com/37db2f60-effd-4d9f-bbea-b290e563c026/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",陰道射精
+http://surrit.com/7797b714-fca3-4732-9663-4d4db75ad228/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",亂倫的日子
+http://surrit.com/15f88a54-4129-4374-bdb9-b29fc4978ad9/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",獨自生活
+http://surrit.com/83f6ee16-dda8-442d-adac-e2468ce7c10e/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",溫泉旅館
+http://surrit.com/011d7741-ae57-497b-9849-abf788feba33/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",深愛的母親
+http://surrit.com/5f3fa6e6-adae-488b-a8a2-092cef1703b9/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",亨利媽媽
+http://surrit.com/f36caca8-b0ce-4bf9-8dac-4d5c0dbc5658/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",睡著襲擊
+http://surrit.com/fdf96c7a-6b01-46cd-ba67-5bb23935ffe1/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",睡夢中襲擊
+http://surrit.com/7167c88b-c099-4831-850a-3f1521e9e313/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",亂倫中出
+http://surrit.com/31339dd3-c876-4d5b-9742-ce3f56521498/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",出道體驗
+http://surrit.com/9080ae28-c463-4fb8-876c-a6be8e200ef8/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",老媽米津響
+http://surrit.com/21fbd88f-1c8c-4ee2-b70f-1b4f1a0ab514/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",姐姐米津響
+http://surrit.com/3d20e2c0-6825-4e07-ba10-67ab70252bcd/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",青春期兒子
+http://surrit.com/05d71325-e2ec-4b6b-aa8c-4309b62dece0/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",好友媽媽
+http://surrit.com/217a3a6f-d9d4-40bf-9281-95175e12a24f/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",他媽的餅
+http://surrit.com/ee31efbb-2268-4d19-a671-134194bfa982/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",強姦中出
+http://surrit.com/7554afa1-a9f4-4cd6-b027-d5b2bd5335c1/1920x1080/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",同事的媽媽
+http://surrit.com/066929e1-0e8e-4055-8526-6a45879960d7/1920x1080/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",母子二人
+http://surrit.com/e7ddedb4-94eb-4802-903b-46a0b0f3194c/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",爺爺和媽媽
+http://surrit.com/8c78434f-2e8b-4b66-a7f8-cb1dbffa5dec/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",嫂嫂的乳頭
+http://surrit.com/109570d5-4aed-40db-be18-519c17fcd255/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",同志臥底女
+http://surrit.com/3b4b6328-e78e-44f9-b12e-f14c8a69ed05/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",家庭崩潰
+http://surrit.com/0eccf943-1796-408f-a53d-f0ade243f901/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",睡著襲擊
+http://surrit.com/fdf96c7a-6b01-46cd-ba67-5bb23935ffe1/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",中出性愛
+http://surrit.com/41f68665-9ba7-4131-bd93-a047475d07c9/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",繼母淋漓
+http://surrit.com/b9a55318-713b-43ce-8047-ff6872b2d1d3/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",出門旅行
+http://surrit.com/65431e98-5f01-4499-8a84-eb002013bc9c/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",插播十秒
+http://surrit.com/e7c4c022-6a88-43ea-ac1f-6d0a7c1a0318/1080p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",睡著人妻
+http://surrit.com/f7bb325c-68c7-4c21-825f-bd284acb5440/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",襲擊的婦女
+http://surrit.com/38d6f02f-73a3-43e0-bf98-d9acbf9526bc/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",爬行逃跑
+http://surrit.com/60dd8da5-edf5-44c5-b8d8-a73ec6f9f230/1920x1080/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",性欲失控
+http://surrit.com/2c598510-4a4c-477f-9d41-22200f5529fa/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",突然被襲擊
+http://surrit.com/c82ea522-f429-475f-a416-fba94d3ad3e4/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",穿著暴露
+http://surrit.com/615f6b4b-6ded-4364-9219-fd5602c79e0a/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",熟睡的夜裡
+http://surrit.com/69034a47-0780-4a68-8478-4cadda12bbec/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",遭時到襲擊
+http://surrit.com/e206e916-5b7f-4bcf-81ac-a3ca33f89f42/640x360/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",夜間罪犯
+http://surrit.com/2154fb3b-07e5-480c-b2db-14b729ed2acd/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",兒子襲擊
+http://surrit.com/01954408-c1e6-4d26-a623-f9fb6b6bc671/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",睡在河裡
+http://surrit.com/64054621-8599-44c5-a325-c605eb065acd/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",屋裡的影子
+http://surrit.com/891a88b3-f27b-4628-87d8-1c83318441e7/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",房睡大屌
+http://surrit.com/a5951071-df95-40a9-8fdf-2948c01f6198/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",再婚的母
+http://surrit.com/09f901bb-e896-4e85-8323-99004087128c/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",父母家度過
+http://surrit.com/7db1baa7-3b2a-428a-9dff-a9922b8ff573/1920x1080/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",亂倫鈴鹿
+http://surrit.com/ca1eef3a-c832-4f54-8c86-ec34e6524fd0/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",春穀美雨
+http://surrit.com/70eccc0e-9158-4500-b855-ff2d3a8b992d/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",吉井美希
+http://surrit.com/37db2f60-effd-4d9f-bbea-b290e563c026/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",場れいか
+http://surrit.com/9f9e504e-558e-4cc5-8e0a-94bc644a29e2/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",水崎由美
+http://surrit.com/8aea61d2-55fa-4b85-b712-1261319d216b/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",一色桃子
+http://surrit.com/7797b714-fca3-4732-9663-4d4db75ad228/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",花井ゆり
+http://surrit.com/8b78e6bf-d08b-4f97-92c3-edecba7a1147/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",安野由美
+http://surrit.com/15f88a54-4129-4374-bdb9-b29fc4978ad9/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",豐崎清香
+http://surrit.com/3931fbb3-a093-4637-84d9-66d2f7b83fca/720p/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",強姦媽媽
+http://surrit.com/66d65d12-53b8-443d-b386-e688961c10d2/1280x720/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",親戚強姦
+http://surrit.com/f01db02b-651c-445b-ba65-956f7e1d4ff1/842x480/video.m3u8
+#EXTINF:-1 group-title="大雜燴 ADULT",顏射媽媽
+http://surrit.com/630ec3d8-6d19-46d6-99e1-f4e2e291d838/1280x720/video.m3u8
 
-#EXTINF:-1 group-title="三級倫理 ADULT",92帆板
-https://ukzyll.ukubf6.com/20220717/6zRPWw95/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",瘋癲護士
-https://ukzyll.ukubf6.com/20220717/3cmiTOW2/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",摩登龍虎鬥
-https://ukzyll.ukubf6.com/20220717/JMDxlAgV/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",約炮瘋狂夜
-https://ukzyll.ukubf6.com/20220717/WhU5IGHa/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",撕裂的地球
-https://ukzyll.ukubf6.com/20220717/lqt80AcZ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",妓女小隊
-https://ukzyll.ukubf6.com/20220717/uWn74xit/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",素女經
-https://ukzyll.ukubf6.com/20220717/ZF9a4Hzd/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",白癡
-https://ukzyll.ukubf6.com/20220717/ksydfP4o/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",欲女反叛軍
-https://ukzyll.ukubf6.com/20220717/R22QfYuy/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",蜜桃成熟時3
-https://ukzyll.ukubf6.com/20220717/sIjZHnkh/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",豔劍客
-https://ukzyll.ukubf6.com/20220717/sKX4cb77/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",誘僧
-https://ukzyll.ukubf6.com/20220717/uDGE4URd/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",大宋言情史
-https://ukzyll.ukubf6.com/20220717/kadiSvEd/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",齊天大性
-https://ukzyll.ukubf6.com/20220717/50GbEZrd/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風流家族
-https://ukzyll.ukubf6.com/20220717/H5BuhhlF/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",暗戀你
-https://ukzyll.ukubf6.com/20220717/c7RcQAVG/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",花花公子50年
-https://ukzyll.ukubf6.com/20220717/e7t9BTjH/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",警花肉搏強姦黨
-https://ukzyll.ukubf6.com/20220717/K1Gb4zZo/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",豐乳鎮嬌妻
-https://ukzyll.ukubf6.com/20220717/7OdK7Ns6/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",街裡哈利
-https://ukzyll.ukubf6.com/20220717/MXYimqzK/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",強下新娘
-https://vip.lz-cdn1.com/20220328/663_8b471018/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",床上接班人
-https://vip.lz-cdn1.com/20220327/588_c9b7810a/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",醜聞夫人
-https://vip.lz-cdn1.com/20220328/640_36e9c2fa/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",金瓶風月
-https://vip.lz-cdn1.com/20220327/591_0b4f9e3e/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",金豔危情
-https://ukzyll.ukubf6.com/20220717/c8bVwJFs/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",男界女界
-https://ukzyll.ukubf6.com/20220717/Ce1QR8Hq/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",極樂大餐
-https://ukzyll.ukubf6.com/20220717/hM6WZpYP/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",好色特工
-https://ukzyll.ukubf6.com/20220717/Ffwu5TER/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",亞麻色之性
-https://ukzyll.ukubf6.com/20220717/ohMk23Ld/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",大鬧女兒國
-https://ukzyll.ukubf6.com/20220717/tS9Mi0DK/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",色魔工廠
-https://ukzyll.ukubf6.com/20220717/qlIF3Mmm/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",愛是最重要的事
-https://ukzyll.ukubf6.com/20220717/LrzzA2e2/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",接種
-https://ukzyll.ukubf6.com/20220717/2GCRPafn/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",接種
-https://ukzyll.ukubf6.com/20220717/2GCRPafn/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",色降
-https://ukzyll.ukubf6.com/20220717/F3vwaKYw/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風騷女郎
-https://ukzyll.ukubf6.com/20220717/DNpIyQyI/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",色降
-https://ukzyll.ukubf6.com/20220717/F3vwaKYw/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風騷女郎
-https://ukzyll.ukubf6.com/20220717/DNpIyQyI/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風騷女郎
-https://vip6.3sybf.com/20210827/rPnbGMQy/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",射鯨英雄智
-https://ukzyll.ukubf6.com/20220716/NFog58va/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",燈草和尚之素女經
-https://ukzyll.ukubf6.com/20220716/5JZDdPWf/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",狂野的欲望
-https://ukzyll.ukubf6.com/20220716/aEQnS2OR/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",情欲浮沙
-https://ukzyll.ukubf6.com/20220716/RJuUW8ty/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",新加坡司令
-https://ukzyll.ukubf6.com/20220716/5prQxLWv/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",官人我要
-https://ukzyll.ukubf6.com/20220706/TCWEOYdI/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",灰色酒店的邀請
-https://ukzyll.ukubf6.com/20220716/dePy3R7K/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",勾魂降頭
-https://ukzyll.ukubf6.com/20220716/XSYTmzc8/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",欲海花
-https://ukzyll.ukubf6.com/20220716/4QXXzHUx/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",迷情
-https://ukzyll.ukubf6.com/20220716/rPrEOre0/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",色欲中環
-https://ukzyll.ukubf6.com/20220716/m7pKARdt/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",辣手激情
-https://ukzyll.ukubf6.com/20220716/lcdGpjdJ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",肉蒲團
-https://ukzyll.ukubf6.com/20220716/n8ARw5R1/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",肉欲橫陳
-https://ukzyll.ukubf6.com/20220716/FVXgL279/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",脫衣舞娘大戰人狼
-https://ukzyll.ukubf6.com/20220716/tqGHZOyq/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",雲度娘
-https://ukzyll.ukubf6.com/20220716/sFL3ptbF/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",軍妓營
-https://youku.sd-play.com/20220715/4vj40Fid/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女媧
-https://youku.sd-play.com/20220715/4AexkLvz/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女囚島
-https://youku.sd-play.com/20220715/JrVxr8A9/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",搶下新娘
-https://ukzyll.ukubf6.com/20220706/Gdq0UtEf/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",整容
-https://ukzyll.ukubf6.com/20220706/xjLZb8H5/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",第六感追緝令
-https://ukzyll.ukubf6.com/20220705/oQ1xmqOL/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",欲女調情
-https://ukzyll.ukubf6.com/20220705/CcDUp6Ff/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",淫行天下
-https://ukzyll.ukubf6.com/20220705/UV8axeLs/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",再室舞男
-https://ukzyll.ukubf6.com/20220705/fKDuGOhJ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",三級薔薇之戀
-https://ukzyll.ukubf6.com/20220705/o1oiDogM/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女人面面觀
-https://ukzyll.ukubf6.com/20220705/MOqJZmuS/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",妙女神探
-https://ukzyll.ukubf6.com/20220705/xUQCMs5e/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",現代好色欲望季節
-https://ukzyll.ukubf6.com/20220705/UK0Iiznu/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",赤裸性追緝令
-https://ukzyll.ukubf6.com/20220705/x6ezyuMK/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",荒島驚魂
-https://ukzyll.ukubf6.com/20220705/2YtSeVHG/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",色欲難禁
-https://ukzyll.ukubf6.com/20220701/X4rgzYEl/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女歡
-https://ukzyll.ukubf6.com/20220701/kyISgn98/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女歡
-https://ukzyll.ukubf6.com/20220701/kyISgn98/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風俗店止客娘
-https://ukzyll.ukubf6.com/20220701/bpM27S2E/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風俗店止客娘
-https://ukzyll.ukubf6.com/20220701/bpM27S2E/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",雲雨山莊
-https://ukzyll.ukubf6.com/20220701/opDP4UMN/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",溫泉欲女
-https://ukzyll.ukubf6.com/20220701/YFLDEQBT/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",迷情司機
-https://ukzyll.ukubf6.com/20220701/q7CqWcoE/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",旅情溫泉
-https://ukzyll.ukubf6.com/20220701/6bXzdRUF/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",勾魂憶夢
-https://ukzyll.ukubf6.com/20220701/BiPEogS3/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",潘朵拉之巔
-https://ukzyll.ukubf6.com/20220701/PrIhXOPl/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",九七風流夢
-https://ukzyll.ukubf6.com/20220706/nJPTNh54/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",邪鬥邪
-https://ukzyll.ukubf6.com/20220706/EdozPV3d/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性星系
-https://ukzyll.ukubf6.com/20220706/ODrFGkIm/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",丹麥嬌娃
-https://ukzyll.ukubf6.com/20220706/MckbpDdJ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",情色迷離夜
-https://ukzyll.ukubf6.com/20220706/s3F50OnF/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",多蒙西亞的復仇
-https://ukzyll.ukubf6.com/20220706/OHmxsNBD/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",豔降勾魂
-https://ukzyll.ukubf6.com/20220706/rkkXMRdU/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女機械人
-https://ukzyll.ukubf6.com/20220706/CpT67ZJn/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",伺候者2
-https://ukzyll.ukubf6.com/20220706/2eyNPd9x/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",魔情者
-https://ukzyll.ukubf6.com/20220706/0yuZXjFV/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",天使
-https://ukzyll.ukubf6.com/20220706/lso8N0EA/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",奸魔
-https://ukzyll.ukubf6.com/20220705/vcida74N/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",公交司機
-https://ukzyll.ukubf6.com/20220705/RMvm2XZO/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性奴
-https://ukzyll.ukubf6.com/20220706/Od9rdAhQ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",趕屍豔譚
-https://ukzyll.ukubf6.com/20220705/Iam1JiNJ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",我為卿狂
-https://v5.jindangao.com/fff/ff7/21/hls/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",新監禁逃亡
-https://ukzyll.ukubf6.com/20220705/PXDrQZo0/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",94應召女郎
-https://ukzyll.ukubf6.com/20220705/qiITfFYs/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",放蕩的情欲
-https://ukzyll.ukubf6.com/20220705/GH4nttaL/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",歡暢屠夫
-https://ukzyll.ukubf6.com/20220705/Di8T5cY7/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",美蘭達
-https://ukzyll.ukubf6.com/20220705/jWEGawEZ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",模特學院
-https://ukzyll.ukubf6.com/20220705/SdV6EAbs/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",陰陽師
-https://ukzyll.ukubf6.com/20220705/4PPgMHZj/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",交換兩個女人
-https://ukzyll.ukubf6.com/20220705/t76URrBx/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",善良的姐姐
-https://ukzyll.ukubf6.com/20220705/8pW54Ulw/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",雙妹豔
-https://ukzyll.ukubf6.com/20220705/y09qGZu4/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",情色迷離夜2
-https://ukzyll.ukubf6.com/20220705/KasnzrQL/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",入伍前夕
-https://ukzyll.ukubf6.com/20220705/lzPTlpwT/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",偷窺女教師
-https://ukzyll.ukubf6.com/20220705/umn7zmGV/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性的情感導師
-https://ukzyll.ukubf6.com/20220705/9B5GNoVP/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",七彩西遊記
-https://ukzyll.ukubf6.com/20220705/dEP7GRde/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",溫柔的美獸
-https://ukzyll.ukubf6.com/20220705/vvOqpOvU/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",善良的嫂子
-https://ukzyll.ukubf6.com/20220705/WtiIc2Yn/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",旺角半熟少女
-https://ukzyll.ukubf6.com/20220705/RDUlSj3U/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",出入洞源
-https://ukzyll.ukubf6.com/20220705/mwbeO7sg/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",公公的淫之手
-https://ukzyll.ukubf6.com/20220705/mJCvtB02/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",幻想俱樂部
-https://ukzyll.ukubf6.com/20220705/4Tav1mKX/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",百合潮濕的欲望
-https://ukzyll.ukubf6.com/20220705/g8uENel5/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性戲觀
-https://ukzyll.ukubf6.com/20220705/rNWcme6r/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",鏡中佳人
-https://ukzyll.ukubf6.com/20220705/KmrhE34l/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",美味的工作
-https://ukzyll.ukubf6.com/20220705/9ghzdC7m/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",亞馬遜食人族
-https://ukzyll.ukubf6.com/20220705/DH5W8UCc/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",山中豔譚
-https://ukzyll.ukubf6.com/20220705/7AWwIVgp/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",朋友的繼母
-https://ukzyll.ukubf6.com/20220705/g7r0NzxK/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",獸性誘惑
-https://ukzyll.ukubf6.com/20220705/5hDKXaJu/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",我的堂妹
-https://ukzyll.ukubf6.com/20220705/zBAUc4e0/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",色辱
-https://ukzyll.ukubf6.com/20220705/DU7G7lqR/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",蘿拉的欲望
-https://ukzyll.ukubf6.com/20220705/L4FitE1k/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",風情萬種夜玫瑰
-https://ukzyll.ukubf6.com/20220705/NfP5tcXK/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",小嫂子
-https://ukzyll.ukubf6.com/20220705/1PLEYzmJ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性之禦發度
-https://ukzyll.ukubf6.com/20220705/1ZKnYOuT/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",豔蛇
-https://ukzyll.ukubf6.com/20220705/6HEuNzc9/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女子監獄大逃殺
-https://ukzyll.ukubf6.com/20220705/5vQY15p4/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",高潮
-https://ukzyll.ukubf6.com/20220705/Hbe6sAeI/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女朋友的媽媽
-https://ukzyll.ukubf6.com/20220705/ZFXJOMSM/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",三奸
-https://ukzyll.ukubf6.com/20220705/nagoVUVh/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",馬庫巴性經
-https://ukzyll.ukubf6.com/20220705/JBC1d2yR/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",激情禁果
-https://ukzyll.ukubf6.com/20220705/FxXBuMwW/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",不文女學堂
-https://ukzyll.ukubf6.com/20220705/nl8UOxF6/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",詛咒之湖
-https://ukzyll.ukubf6.com/20220705/vfHLGesr/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",艾曼紐在太空
-https://ukzyll.ukubf6.com/20220705/WzCLlD9l/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",天體
-https://ukzyll.ukubf6.com/20220705/merpckB8/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",紅色的果實
-https://ukzyll.ukubf6.com/20220705/L910FQMI/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",屍妖
-https://ukzyll.ukubf6.com/20220705/InfdFFc0/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",第一次
-https://ukzyll.ukubf6.com/20220705/EWWv1dgL/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",山中往事
-https://ukzyll.ukubf6.com/20220705/DGqsoifi/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女同暴行
-https://ukzyll.ukubf6.com/20220705/VkzPkF0v/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",艾曼紐在美國
-https://ukzyll.ukubf6.com/20220701/KPlZz11K/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",薩滿教的迷戀
-https://ukzyll.ukubf6.com/20220701/pjm9je5L/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",人頭肉骨茶面
-https://ukzyll.ukubf6.com/20220701/MXNDYHDU/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",赤裸特工
-https://ukzyll.ukubf6.com/20220701/p2YT5isX/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",小鎮狂歡指南
-https://ukzyll.ukubf6.com/20220701/3bNLMVq5/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",裸雕飾浴火重生
-https://ukzyll.ukubf6.com/20220701/tj4zvMpr/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",我是一個色情狂
-https://ukzyll.ukubf6.com/20220701/bAuhik77/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",媽媽的朋友3
-https://ukzyll.ukubf6.com/20220701/y7ja6c4i/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",當女人被叫做麥當娜
-https://ukzyll.ukubf6.com/20220701/v8FjbEeu/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",必死三角洲
-,https://ukzyll.ukubf6.com/20220701/s9feRf4d/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",亞馬遜的眼淚
-https://ukzyll.ukubf6.com/20220701/KQc5r2yH/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",女友的媽媽2
-https://ukzyll.ukubf6.com/20220701/7dZnVjdk/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",墨菲定律
-https://ukzyll.ukubf6.com/20220701/SN35IYyh/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",狂熱俱樂部
-https://ukzyll.ukubf6.com/20220701/DEFqFuQt/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",花城雛妓
-https://ukzyll.ukubf6.com/20220701/f40z5zVU/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",偷情寶簽
-https://ukzyll.ukubf6.com/20220701/UQYOw6ZD/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",深圳性奴
-https://ukzyll.ukubf6.com/20220701/w3eEWlkx/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",玉女聊齋
-https://ukzyll.ukubf6.com/20220701/nXPcWa3J/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性感迷人的妻子
-https://ukzyll.ukubf6.com/20220701/qjB5b8ku/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性的研究
-https://ukzyll.ukubf6.com/20220701/OdrfY3Hi/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",脫衣麻將
-https://ukzyll.ukubf6.com/20220701/xxMdFSph/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",墨冰
-https://ukzyll.ukubf6.com/20220701/lpw7UxVf/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",情欲小鎮
-https://ukzyll.ukubf6.com/20220701/RHQopMBq/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",人皮獸
-https://ukzyll.ukubf6.com/20220701/SAKpIUn6/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",海狸圖書女孩
-https://ukzyll.ukubf6.com/20220701/h9AXbpj9/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",荒緲末日倫
-https://ukzyll.ukubf6.com/20220701/j3d4hIQa/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",花癡潛水夫
-https://ukzyll.ukubf6.com/20220701/lurICSZ1/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",納粹愛營
-https://ukzyll.ukubf6.com/20220701/QG3goRdj/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",驚爆死亡線
-https://ukzyll.ukubf6.com/20220701/m7xxW1sI/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",白馬王子
-https://ckzy1com.com/20230412/ZdjCZhez/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",大家爽
-https://ckzy1com.com/20230422/E6S0A3qy/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",溫女奇招
-https://ckzy1com.com/20230423/FUBeELSr/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",蓬萊仙山之激情
-https://ckzy1com.com/20230221/Yn5f9fjv/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",丫丫秘書
-https://ckzy1com.com/20230407/njHBWXYd/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",丁度
-https://ckzy1com.com/20221218/NhlIE4ww/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",淑女性冒險
-https://ckzy1com.com/20221026/yxFS8duC/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",滿園春色752
-https://ckzy1com.com/20230213/VkFliFY2/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",肉林酒池753
-https://ckzy1com.com/20230220/vPTCaOAZ/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",戀女知情754
-https://ckzy1com.com/20230220/mQGSV3nu/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",粉紅大白755
-https://ckzy1com.com/20230219/SksTRzNp/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",半愛半玩757
-https://ckzy1com.com/20230413/fjmLgN3j/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",白晝之戀758
-https://ckzy1com.com/20230413/JFssXLTt/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",變色的青春759
-https://ckzy1com.com/20230416/Tf8UUlgK/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",辣妹寫真秀
-https://ckzy1com.com/20230220/LJFmKUC7/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",午夜狂情
-https://ckzy1com.com/20230213/30w4s2Xx/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",性欲大激動
-https://ckzy1com.com/20230220/E8TbclGE/index.m3u8
-#EXTINF:-1 group-title="三級倫理 ADULT",三從四德
-https://ckzy1com.com/20230220/hWEnD2oe/index.m3u8
+
+
+
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女5
+http://surrit.com/7cedaeb9-aa34-47ee-8966-5965104ba949/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女6
+http://surrit.com/06fe30f2-69de-45eb-8683-14accee24e17/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女7
+http://surrit.com/a1da46a8-678a-472b-8727-e9a139692ed9/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女8
+http://surrit.com/8d4c0a4c-5dc4-4e05-95fb-8802b320b6ec/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女9
+http://surrit.com/8a96d695-7776-44eb-b232-6bb35958bea9/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女10
+http://surrit.com/0baf5fa8-2cdb-4e58-9a23-52fe1fce44a7/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女11
+http://surrit.com/d624b329-25a7-4535-90e1-53c182782db8/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女12
+http://surrit.com/9d614f8b-8f20-4242-ae79-87bdb406fb74/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女13
+http://surrit.com/1d6e6a33-9226-4e7d-9713-4f5713c5df5c/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女14
+http://surrit.com/7566bf55-450b-4857-b483-7b621ac7ce2b/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女15
+http://surrit.com/84f330fd-bf5f-4b90-8e91-f247356b0305/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女16
+http://surrit.com/9e9ca734-f536-425e-9f73-83007c2025b8/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女17
+http://surrit.com/6432d7f8-b2bf-4014-af1f-968ebfa6d092/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女18
+http://surrit.com/d9e09b3d-43b1-4af6-a388-40215b6bf4bd/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女19
+http://surrit.com/d8eae494-2c55-459a-88ad-876fea641818/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女20
+http://surrit.com/0f7c8d08-9a42-408d-aab8-4e09e48a1c08/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女21
+http://surrit.com/bbb5ec72-2ca3-49aa-aa50-f88e6a14cb60/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女22
+http://surrit.com/17a728ae-d0ee-4446-8469-e92caac60ba4/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女23
+http://surrit.com/5b55e012-38bb-4b42-a17e-a3b39aeb1968/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女24
+http://surrit.com/6d96ad3d-6358-4a69-9a73-03f8000ec877/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女25
+http://surrit.com/5a44fa4d-ca9a-4480-a263-1592619247fd/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女26
+http://surrit.com/980856d6-841e-43dd-b7f4-f4670df85942/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女27
+http://surrit.com/a0f2acaa-f9fd-4c4b-88d5-52f54edce092/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女28
+http://surrit.com/ffccd779-5e2a-4ba6-9120-c788b97d8ffc/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女29
+http://surrit.com/f8579ba6-d2d4-4eed-b2c0-2b6e0eb9196c/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女30
+http://surrit.com/18db0247-d910-4a25-b59f-5fe93abcdc51/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女31
+http://surrit.com/1951bcf9-de25-45d4-ab39-c69b907aa8a6/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女32
+http://surrit.com/01ca5011-6660-4863-b53a-2b3475c8b399/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女33
+http://surrit.com/d5bec737-84fd-438c-a351-2ab111054262/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟女34
+http://surrit.com/17a583a8-77d6-4dbb-a9cf-75b17caf5367/1080p/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟母16
+http://surrit.com/9e9ca734-f536-425e-9f73-83007c2025b8/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",成熟媽媽18
+http://surrit.com/d9e09b3d-43b1-4af6-a388-40215b6bf4bd/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",成熟女人
+http://surrit.com/be4b7125-cfd7-4e2d-b869-59b92c3e5cc8/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",熟母best
+http://surrit.com/78d2fee5-588b-4ccd-9b53-0c8b8482f4e0/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",成熟的媽媽3
+http://surrit.com/eaa2e689-562c-4dc2-b3d9-222bb1b444d3/1280x720/video.m3u8
+#EXTINF:-1 group-title="美麗熟女 ADULT",成熟的媽媽4
+http://surrit.com/28c4db67-ec88-4cfa-884f-12c75cb8685f/1280x720/video.m3u8
+
 
 
 
@@ -23866,252 +23229,6 @@ http://tv.zapping.life:8080/huvargas01/latinplus6485/150801
 #EXTINF:-1 tvg-id="" tvg-name="Premium +18 - Evil Angel (e)(720)" tvg-logo="" group-title="RED TV PORN PREMIUM (+18)",Premium +18 - Evil Angel (e)(720)
 http://tv.zapping.life:8080/huvargas01/latinplus6485/150802
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BOGCOCK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BOGCOCK ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132387
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BLACK ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132388
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLOW ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BLOW ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132389
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CARTOON ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: CARTOON ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132390
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CREAMPIE ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: CREAMPIE ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132391
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MY WIFE ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: MY WIFE ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132392
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BALCKED ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BALCKED ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132393
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK GFS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BLACK GFS ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132394
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE BLACK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PRIVATE BLACK ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132395
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ASIAN SEX DIARY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ASIAN SEX DIARY ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132397
-#EXTINF:-1 tvg-id="" tvg-name="XXX: WILD GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: WILD GANGBANGS ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132399
-#EXTINF:-1 tvg-id="" tvg-name="XXX: C ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: C ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132402
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALL GROUP SEX ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ALL GROUP SEX ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132404
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRATTY SIS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BRATTY SIS ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132406
-#EXTINF:-1 tvg-id="" tvg-name="XXX: COLLECTIVE PLEASURE ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: COLLECTIVE PLEASURE ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132407
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CUSTOMS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: CUSTOMS ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132408
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOGFART NETWORK 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: DOGFART NETWORK 2 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132409
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOGFART NETWORK 3 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: DOGFART NETWORK 3 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132410
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DOGFART NETWORK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: DOGFART NETWORK ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132411
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL CLUB ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: DORCEL CLUB ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132412
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FIFTHY KINGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: FIFTHY KINGS ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132414
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FIT18 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: FIT18 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132415
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HER LIMIT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: HER LIMIT ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132417
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JAYS POV 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: JAYS POV 2 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132418
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MEN ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: MEN ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132420
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: MOFOS 2 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132422
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS 3 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: MOFOS 3 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132423
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MY FAMILY PIES ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: MY FAMILY PIES ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132426
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NEXT DOOR RAW ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: NEXT DOOR RAW ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132430
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NF BUSTY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: NF BUSTY ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132431
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUBILE FILMS1 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: NUBILE FILMS1 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132432
-#EXTINF:-1 tvg-id="" tvg-name="XXX: NUBILE FILMS2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: NUBILE FILMS2 ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132433
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PURE BBW ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PURE BBW ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132434
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REAL GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: REAL GANGBANGS ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132435
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SPANK MONSTER ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: SPANK MONSTER ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132436
-#EXTINF:-1 tvg-id="" tvg-name="XXX: STEB SIBLINGS CAUGHT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: STEB SIBLINGS CAUGHT ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132440
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TREASURE ISLAND MEDIA ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: TREASURE ISLAND MEDIA ADULT
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132444
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_1 LA3 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132446
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT_LA1 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: HOT_LA1 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132447
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA2 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_1 LA2 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132448
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT_LA3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: HOT_LA3 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132450
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_1 LA6 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132452
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ALBA XXX 1
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132456
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ALBA XXX 2
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132457
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ALBA XXX 4
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132458
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ALBA XXX 6
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132459
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Big Dick" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Big Dick
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132461
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Blowjob" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Blowjob
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132463
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Brunette" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Brunette
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132464
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX A5" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX A5
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132467
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_4 LA6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_4 LA6 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132468
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BARELY LEGAL TV
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132469
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Passion XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Passion XXX
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132471
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Eroxxx FHD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Eroxxx FHD
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132472
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 2 FHD" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX 2 FHD
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132473
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx French Lover" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx French Lover
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132474
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BLACKED
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132475
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132476
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132477
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_1 LA1 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_1 LA1 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132479
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx O la la TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132480
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV EUROPE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BRAZZERS TV EUROPE
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132481
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Prıvate TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132482
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse 2 (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132484
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 2 (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132486
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 3" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Alba XXX 3
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132487
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy TV LIVE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Playboy TV LIVE
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132488
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 4 (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132489
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 7 (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132490
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink Erotic 5 (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132491
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Pink O TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132492
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Playboy Europe (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132493
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Jasmin" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Jasmin
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132494
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Alba XXX 1
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132495
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Sextreme (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Sextreme (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132496
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Sexy HOT (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132497
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: DORCEL [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132499
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DUSK [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: DUSK [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132500
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX82 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX82 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132501
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROX HD [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132505
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Vivid TV Europe (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132507
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx XXL (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx XXL (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132508
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx X Muvi (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132510
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FETISH" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: FETISH
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132511
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY [VIP]" tvg-logo="https://asiagrandiptv.us/logo//GAYTV.png" group-title="XXX | VIP 18+",XXX: GAY [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132512
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: HUSTLER HD [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132517
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Fake Agent FHD (18+) [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Fake Agent FHD (18+) [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132518
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx HUSTLER TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132519
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Alba XXX 4
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132525
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Meiden van Holland Hard" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Meiden van Holland Hard
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132526
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Adul" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Adul
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132527
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIA KHALIFA" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: MIA KHALIFA
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132528
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 4" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Alba XXX 4
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132529
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ORGASM" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ORGASM
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132530
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PENTHOUSE QUICKIES
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132533
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PINK EROTIC 3 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132535
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PINK EROTIC 5 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132536
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PINK EROTIC 7 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132537
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PINK O TV
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132539
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE_LA" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PRIVATE_LA
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132540
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_2 LA4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_2 LA4 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132541
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SeXation" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: SeXation
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132542
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: REALITY KINGS TV [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132544
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX A3[VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX A3[VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132548
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PINK EROTIC 6 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132550
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: REDLIGHT HD [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132551
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSKAYA NOCH [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: RUSSKAYA NOCH [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132553
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Hot TV (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132554
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC 4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC 4 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132555
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX HD 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Alba XXX HD 2
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132556
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Penthouse (18+)
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132559
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Alba XXX 1 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: Alba XXX 1 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132561
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXL [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132562
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132563
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 1" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX 1
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132564
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 2" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX 2
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132565
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROTIC_2 LA6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: EROTIC_2 LA6 [VIP]
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132568
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX A6" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: XXX A6
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132570
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PORNBOX PRIVATE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: PORNBOX PRIVATE
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132571
-#EXTINF:-1 tvg-id="" tvg-name="XXX: True Amateurs" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: True Amateurs
-http://vipvfcb.xyz:8080/VIP01697172669118799/80fba95604f6/132575
 
 
 
