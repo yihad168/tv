@@ -295,6 +295,57 @@ https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
 ################################################
 
 
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
+http://nl00.utako.moe/BS11/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BSプレミア
+http://nl00.utako.moe/bs10_star/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
+http://us1001.utako.moe/kbs/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="tbsch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", ＴＢＳチャンネル１ / TBS Channel 1
+https://nl00.utako.moe/tbsch1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="tbsch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", ＴＢＳチャンネル２ / TBS Channel 2
+https://nl00.utako.moe/tbsch2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="ntvplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nittele-plus-jp.png", 日テレプラス / Nittele Plus
+https://nl00.utako.moe/bs10/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="tvasahich1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png", テレ朝チャンネル１ / TV Asahi Channel 1
+https://nl00.utako.moe/ex_ch1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="tvasahich2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel2.png", テレ朝チャンネル２ / TV Asahi Channel 2
+https://nl00.utako.moe/ex_ch2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="fujitvnext" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_next.png", フジテレビＮＥＸＴ / Fuji TV Next
+https://nl00.utako.moe/fuji_next/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="fujitvone" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_one.png", フジテレビＯＮＥ / Fuji TV One 
+https://nl00.utako.moe/fuji_one/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="日本頻道" tvg-id="fujitvtwo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_two.png", フジテレビＴＷＯ / Fuji TV Two
+https://nl00.utako.moe/fuji_two/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/japan.xml" tvg-shift=0
 
