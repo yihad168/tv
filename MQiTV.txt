@@ -105,9 +105,9 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
  {
-   "name": "💔掛點所长的MytvSuper.m3u订阅  20250727💔",
+   "name": "💔日本JAPAN💔",
    "type": "0",
-   "url":"https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+   "url":"https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp.m3u",
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
    "ua":"judy/5.2.1"
