@@ -2112,19 +2112,19 @@ https://php.946985.filegear-sg.me/mytv265.php?id=C3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 https://php.946985.filegear-sg.me/mytv265.php?id=C2
-#EXTINF:-1,tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
+#EXTINF:-1, tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
-#EXTINF:-1,tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="MYTV",NOW 80s
+#EXTINF:-1, tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="MYTV",NOW 80s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
-#EXTINF:-1,tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="MYTV",NOW ROCK
+#EXTINF:-1, tvg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="MYTV",NOW ROCK
 https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
-#EXTINF:-1,tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="MYTV",NOW 90s00s
+#EXTINF:-1, tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="MYTV",NOW 90s00s
 https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
-#EXTINF:-1,tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="MYTV",Concerto
+#EXTINF:-1, tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="MYTV",Concerto
 https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
+#EXTINF:-1, tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
 https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
-#EXTINF:-1,tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="MYTV",NewsWorld
+#EXTINF:-1, tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="MYTV",NewsWorld
 https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 
 
