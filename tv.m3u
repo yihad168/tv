@@ -269,6 +269,260 @@ https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
 
 
 ################################################
+https://github.com/TvJapan/iptv-jp/blob/main/jp_relay.m3u
+
+#EXTM3U url-tvg="https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhx-stream.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
+
+
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="nhk_g_tokyo",NHK G
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="nhk_e_tokyo",NHK E
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="ntv",NTV
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tv_asahi",TV_Asahi
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tbs",TBS
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tv_tokyo",TV Tokyo
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="fuji_tv",Fuji TV
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tokyo_mx_1",Tokyo MX1
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tokyo_mx2" ,Tokyo MX2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/us+Tokyo_MX2
+
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="nhk_g_tokyo",NHK G (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd01
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="nhk_e_tokyo",NHK E (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd02
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="ntv",NTV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd03
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tv_asahi",TV Asahi (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd06
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tbs",TBS (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd04
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tv_tokyo",TV Tokyo (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd07
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="fuji_tv",Fuji TV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd05
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tokyo_mx_1",Tokyo MX1 (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd08
+
+#EXTINF:-1 group-title="日本 BS" tvg-id="nhk_bs",NHK BS
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+NHK_BS
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_ntv",BS NTV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsntv
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_asahi",BS Asahi
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsasahi
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_tbs",BS TBS
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bstbs
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_tv_tokyo",BS TV Tokyo
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bstvtokyo
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_fuji",BS Fuji
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsfuji
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs10",BS10
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bs10
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs11",BS11
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+BS11
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs12",BS12
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+BS12
+#EXTINF:-1 group-title="日本 BS" tvg-id="nhk_bsp_4k",NHK BS4K
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bsp4k
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowow_prime",WOWOW Prime
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+wprime
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowow_cinema",WOWOW Cinema
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+wcinema
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowow_live",WOWOW Live
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+wlive
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs10_star_channel",BS10 Premium
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+bs10_star
+#EXTINF:-1 group-title="日本 BS" tvg-id="js1",JSport 1
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js1
+#EXTINF:-1 group-title="日本 BS" tvg-id="js2",JSport 2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js2
+#EXTINF:-1 group-title="日本 BS" tvg-id="js3",JSport 3
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js3
+#EXTINF:-1 group-title="日本 BS" tvg-id="js4",JSport 4
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+js4
+#EXTINF:-1 group-title="日本 BS" tvg-id="green_channel",Green Channel
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+green
+#EXTINF:-1 group-title="日本 BS" tvg-id="animax",Animax
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+Animax
+#EXTINF:-1 group-title="日本 BS" tvg-id="nihon_eiga",Nihon Eiga Senmon
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+nihoneiga
+#EXTINF:-1 group-title="日本 BS" tvg-id="sky_a",Sky A
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+sky-a
+
+#EXTINF:-1 group-title="日本 BS" tvg-id="nhk_bs",NHK BS (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs11
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_ntv",BS NTV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs02
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_asahi",BS Asahi (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs03
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_tbs",BS TBS (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs04
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_tv_tokyo",BS TV Tokyo (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs05
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs_fuji",BS Fuji (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs06
+#EXTINF:-1 group-title="日本 BS" tvg-id="nhk_bsp_4k",NHK BS4K (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs01
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowow_prime",WOWOW Prime (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs12
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowow_cinema",WOWOW Cinema (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs07
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowow_live",WOWOW Live (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs20
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs10_star_channel",BS 10 Premium (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs08
+#EXTINF:-1 group-title="日本 BS" tvg-id="js1",JSport 1 (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs18
+#EXTINF:-1 group-title="日本 BS" tvg-id="js2",JSport 2 (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs19
+#EXTINF:-1 group-title="日本 BS" tvg-id="js3",JSport 3 (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs21
+#EXTINF:-1 group-title="日本 BS" tvg-id="js4",JSport 4 (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs22
+#EXTINF:-1 group-title="日本 BS" tvg-id="green_channel",Green Channel (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs14
+#EXTINF:-1 group-title="日本 BS" tvg-id="animax",Animax (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs15
+#EXTINF:-1 group-title="日本 BS" tvg-id="nihon_eiga",Nihon Eiga Senmon (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs23
+#EXTINF:-1 group-title="日本 BS" tvg-id="fishing_vision",Fishing Vision (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs25
+#EXTINF:-1 group-title="日本 BS" tvg-id="disney_channel",Disney Channel (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs24 
+#EXTINF:-1 group-title="日本 BS" tvg-id="jcom_bs",Jcom BS (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs31
+
+#EXTINF:-1 group-title="日本 CS" tvg-id="gaora",Gaora Sports
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+gaora
+#EXTINF:-1 group-title="日本 CS" tvg-id="at_x",AT-X
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
+#EXTINF:-1 group-title="日本 CS" tvg-id="space_shower_tv",Space Shower TV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+spaceshower
+#EXTINF:-1 group-title="日本 CS" tvg-id="mtv",MTV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mtv
+#EXTINF:-1 group-title="日本 CS" tvg-id="mnet",Mnet
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mnet
+#EXTINF:-1 group-title="日本 CS" tvg-id="kayo_pops",Kayo Pops
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+kayopops
+#EXTINF:-1 group-title="日本 CS" tvg-id="disney_channel",Disney Channel
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+disneychan
+#EXTINF:-1 group-title="日本 CS" tvg-id="cartoon_network",cartoon Network Japan
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+cartoon_network
+#EXTINF:-1 group-title="日本 CS" tvg-id="ntv_g_tasu",NTV G+
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+ntvgplus
+#EXTINF:-1 group-title="日本 CS" tvg-id="family_gekijo",Family Gekijyo
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+familygeki
+#EXTINF:-1 group-title="日本 CS" tvg-id="mondo_tv",Mondo TV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+mondo
+#EXTINF:-1 group-title="日本 CS" tvg-id="tbs_channel_1",TBS Channel 1
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+tbsch1
+#EXTINF:-1 group-title="日本 CS" tvg-id="tbs_channel_2",TBS Channel 2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+tbsch2
+#EXTINF:-1 group-title="日本 CS" tvg-id="tv_asahi_channel_1",TV Asahi Channel 1
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+ex_ch1
+#EXTINF:-1 group-title="日本 CS" tvg-id="tv_asahi_channel_2",TV Asahi Channel 2
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+ex_ch2
+#EXTINF:-1 group-title="日本 CS" tvg-id="fuji_tv_one",Fuji TV One
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+fuji_one
+#EXTINF:-1 group-title="日本 CS" tvg-id="fuji_tv_two",Fuji TV Two
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+fuji_two
+#EXTINF:-1 group-title="日本 CS" tvg-id="fuji_tv_next",Fuji TV Next
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+fuji_next
+#EXTINF:-1 group-title="日本 CS" tvg-id="neco",Neco Channel
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+neco
+#EXTINF:-1 group-title="日本 CS" tvg-id="dlife",Dlife
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+dlife
+#EXTINF:-1 group-title="日本 CS" tvg-id="toei_channel",Toei Channel
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+toei
+#EXTINF:-1 group-title="日本 CS" tvg-id="fighting_tv",Fighting TV Samurai
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+fighting_tv
+#EXTINF:-1 group-title="日本 CS" tvg-id="entermei_tele",Entermei Tele
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+entermei_tele
+#EXTINF:-1 group-title="日本 CS" tvg-id="sports_live_plus",Sport Live Plus
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+sport_live_plus
+#EXTINF:-1 group-title="日本 CS" tvg-id="home_drama",Home Drama Channel
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+homedrama
+#EXTINF:-1 group-title="日本 CS" tvg-id="channel_ginga",Channel Ginga
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+gingach
+#EXTINF:-1 group-title="日本 CS" tvg-id="tabi_channel",Tabi Channel
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+tabi
+#EXTINF:-1 group-title="日本 CS" tvg-id="music_on_tv",Music On! TV
+https://zhenix-px.netgenx.site/iptv/luongz/master_playlist/nl+musicon
+#EXTINF:-1 group-title="日本 CS" tvg-id="shop_channel",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="日本 CS" tvg-id="qvc",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="日本 CS" tvg-id="gstv",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 group-title="日本 CS" tvg-id="jidaigeki",Jidaigeki Senmon (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs04
+#EXTINF:-1 group-title="日本 CS" tvg-id="toei_channel",Toei Channel (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs27
+#EXTINF:-1 group-title="日本 CS" tvg-id="eisei_gekijo",Eisei Gekijo (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs22
+#EXTINF:-1 group-title="日本 CS" tvg-id="family_gekijo",Family Gekijyo (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs20
+#EXTINF:-1 group-title="日本 CS" tvg-id="movie_plus",Movie Plus (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs14
+#EXTINF:-1 group-title="日本 CS" tvg-id="home_drama",Home Drama Channel (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs05
+#EXTINF:-1 group-title="日本 CS" tvg-id="tabi_channel",Tabi Channel (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs12
+#EXTINF:-1 group-title="日本 CS" tvg-id="fuji_tv_next",Fuji TV Next (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs26
+#EXTINF:-1 group-title="日本 CS" tvg-id="sky_a",Sky A (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs01
+#EXTINF:-1 group-title="日本 CS" tvg-id="gaora",Gaora Sports (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs17
+#EXTINF:-1 group-title="日本 CS" tvg-id="golf_network",Golf Network (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs03
+#EXTINF:-1 group-title="日本 CS" tvg-id="ntv_g_tasu",NTV G+ (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs02
+#EXTINF:-1 group-title="日本 CS" tvg-id="mondo_tv",Mondo TV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs21
+#EXTINF:-1 group-title="日本 CS" tvg-id="channel_ginga",Channel Ginga (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs29
+#EXTINF:-1 group-title="日本 CS" tvg-id="space_shower_tv",Space Shower TV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs26
+#EXTINF:-1 group-title="日本 CS" tvg-id="music_japan_tv",Music Japan TV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs06
+#EXTINF:-1 group-title="日本 CS" tvg-id="kayo_pops",Kayo Pops (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs13
+#EXTINF:-1 group-title="日本 CS" tvg-id="mtv",MTV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs18
+#EXTINF:-1 group-title="日本 CS" tvg-id="lala_tv",LaLa TV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs19
+#EXTINF:-1 group-title="日本 CS" tvg-id="sky_stage",Takarazuka Sky Stage (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs28
+#EXTINF:-1 group-title="日本 CS" tvg-id="kids_station",Kids Staton TV (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs07
+#EXTINF:-1 group-title="日本 CS" tvg-id="cartoon_network",Cartoon Network (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs25
+#EXTINF:-1 group-title="日本 CS" tvg-id="natgeo",National Geographic Japan (Primehome) 
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs10
+#EXTINF:-1 group-title="日本 CS" tvg-id="disney_junior",Disney Junior (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs23
+#EXTINF:-1 group-title="日本 CS" tvg-id="discovery_channel",Discovery Channel (Primehome)  
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs08
+#EXTINF:-1 group-title="日本 CS" tvg-id="animal_planet",Animal Planet (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs24
+#EXTINF:-1 group-title="日本 CS" tvg-id="history_channel",History (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs09
+#EXTINF:-1 group-title="日本 CS" tvg-id="cnn_j",CNNj (Primehome) 
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs16
+#EXTINF:-1 group-title="日本 CS" tvg-id="bbc_news",BBC News (Primehome)  
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs15
+#EXTINF:-1 group-title="日本 CS" tvg-id="tbs_news",TBS News (Primehome)
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
+
 
 
 
@@ -5524,6 +5778,14 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctari87og65ksgs0
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct7cdovog65o09j282vg&ratio=720p&line=0
 
 
+#EXTINF:-1 group-title="抖音K歌",李圣杰-痴心绝对
+http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+#EXTINF:-1 group-title="抖音K歌",梁静茹-勇气
+http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+
+
+
+
 #EXTINF:-1 group-title="抖音K歌",Baby
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ctq63sfog65oesmmlnfg&ratio=720p&line=0
 #EXTINF:-1 group-title="抖音K歌",Faded
@@ -6010,10 +6272,6 @@ https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c02b2307ec280103700199
 
 
 ################################################
-https://smart1.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
-
-
-
 
 
 
@@ -7165,521 +7423,6 @@ https://vd3.bdstatic.com/mda-mk9940t1qza4ptet/576p/cae_h264/1651596935959437402/
 
 
 
-央衛頻特
-#EXTINF:-1 group-title="央衛頻特",CCTV-1
-http://gotv.k.vu/api.php?id=cctv1
-#EXTINF:-1 group-title="央衛頻特",CCTV-2
-http://gotv.k.vu/api.php?id=cctv2
-#EXTINF:-1 group-title="央衛頻特",CCTV-3
-http://gotv.k.vu/api.php?id=cctv3
-#EXTINF:-1 group-title="央衛頻特",CCTV-4
-http://gotv.k.vu/api.php?id=Cctv4
-#EXTINF:-1 group-title="央衛頻特",CCTV-4
-http://gotv.k.vu/api.php?id=cctv4
-#EXTINF:-1 group-title="央衛頻特",CCTV-5
-http://gotv.k.vu/api.php?id=cctv5
-#EXTINF:-1 group-title="央衛頻特",CCTV-5+
-http://gotv.k.vu/api.php?id=cctv5plus
-#EXTINF:-1 group-title="央衛頻特",CCTV-6
-http://gotv.k.vu/api.php?id=cctv6
-#EXTINF:-1 group-title="央衛頻特",CCTV-7
-http://gotv.k.vu/api.php?id=cctv7
-#EXTINF:-1 group-title="央衛頻特",CCTV-8
-http://gotv.k.vu/api.php?id=cctv8hd
-#EXTINF:-1 group-title="央衛頻特",CCTV-9
-http://gotv.k.vu/api.php?id=cctv9hd
-#EXTINF:-1 group-title="央衛頻特",CCTV-10
-http://gotv.k.vu/api.php?id=cctv10hd
-#EXTINF:-1 group-title="央衛頻特",CCTV-11
-http://gotv.k.vu/api.php?id=cctv11
-#EXTINF:-1 group-title="央衛頻特",CCTV-12
-http://gotv.k.vu/api.php?id=cctv12
-#EXTINF:-1 group-title="央衛頻特",CCTV-13
-http://gotv.k.vu/api.php?id=cctv13
-#EXTINF:-1 group-title="央衛頻特",CCTV-14
-http://gotv.k.vu/api.php?id=cctv14
-#EXTINF:-1 group-title="央衛頻特",CCTV-15
-http://gotv.k.vu/api.php?id=cctv15
-#EXTINF:-1 group-title="央衛頻特",CGTN
-http://gotv.k.vu/api.php?id=CGTN
-#EXTINF:-1 group-title="央衛頻特",北京衛視
-http://gotv.k.vu/api.php?id=beijing
-#EXTINF:-1 group-title="央衛頻特",深圳衛視
-http://gotv.k.vu/api.php?id=shenzhen
-#EXTINF:-1 group-title="央衛頻特",廣西衛視
-http://gotv.k.vu/api.php?id=guangxi
-#EXTINF:-1 group-title="央衛頻特",湖北衛視
-http://gotv.k.vu/api.php?id=hubei
-#EXTINF:-1 group-title="央衛頻特",東南衛視
-http://gotv.k.vu/api.php?id=fujian
-#EXTINF:-1 group-title="央衛頻特",廣東珠江
-http://gotv.k.vu/api.php?id=zhujiang
-
-
-香港頻特
-#EXTINF:-1 group-title="香港頻特",TVB Plus
-http://gotv.k.vu/api.php?id=j2_twn
-#EXTINF:-1 group-title="香港頻特",鳳凰中文
-http://gotv.k.vu/api.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="香港頻特",鳳凰資訊
-http://gotv.k.vu/api.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="香港頻特",鳳凰香港
-http://gotv.k.vu/api.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="香港頻特",HOY 78
-http://gotv.k.vu/api.php?id=hoycaijing_twn
-#EXTINF:-1 group-title="香港頻特",無線新聞
-http://gotv.k.vu/api.php?id=inews_twn
-#EXTINF:-1 group-title="香港頻特",無線翡翠台
-http://gotv.k.vu/api.php?id=jade_twn
-#EXTINF:-1 group-title="香港頻特",無線翡翠台
-http://gotv.k.vu/api.php?id=Jade_xue
-#EXTINF:-1 group-title="香港頻特",無線翡翠台
-http://gotv.k.vu/api.php?id=Tvbjade
-#EXTINF:-1 group-title="香港頻特",無線華麗粵
-http://gotv.k.vu/api.php?id=Wlt
-#EXTINF:-1 group-title="香港頻特",無線華麗國
-http://gotv.k.vu/api.php?id=Tvbjade
-#EXTINF:-1 group-title="香港頻特",無線明珠台
-http://gotv.k.vu/api.php?id=pearl_twn
-#EXTINF:-1 group-title="香港頻特",無線娛樂新聞
-http://gotv.k.vu/api.php?id=Tvbentertainment
-#EXTINF:-1 group-title="香港頻特",千禧經典
-http://gotv.k.vu/api.php?id=Tvbclassic
-#EXTINF:-1 group-title="香港頻特",TVB 星河 Xing He
-http://gotv.k.vu/api.php?id=Xinhe
-#EXTINF:-1 group-title="香港頻特",VIUTV
-http://gotv.k.vu/api.php?id=viu1_twn
-#EXTINF:-1 group-title="香港頻特",VIUTV 6
-http://gotv.k.vu/api.php?id=viusix_twn
-#EXTINF:-1 group-title="香港頻特",RTHK-31
-http://gotv.k.vu/api.php?id=rhk31_twn
-#EXTINF:-1 group-title="香港頻特",RTHK-32
-http://gotv.k.vu/api.php?id=rhk32_twn
-#EXTINF:-1 group-title="香港頻特",天映頻道粵
-http://gotv.k.vu/api.php?id=ctv18_twn
-#EXTINF:-1 group-title="香港頻特",天映頻道國
-http://gotv.k.vu/api.php?id=Celestial
-#EXTINF:-1 group-title="香港頻特",天映頻道
-http://gotv.k.vu/api.php?id=Celestialindo
-#EXTINF:-1 group-title="香港頻特",天映經典
-http://gotv.k.vu/api.php?id=Celestial2
-#EXTINF:-1 group-title="香港頻特",美亞電影
-http://gotv.k.vu/api.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="香港頻特",新加CHANNEL U
-http://gotv.k.vu/api.php?id=ChannelU
-#EXTINF:-1 group-title="香港頻特",新加CHANNEL 5
-http://gotv.k.vu/api.php?id=Channel5HD
-#EXTINF:-1 group-title="香港頻特",新加CHANNEL 8
-http://gotv.k.vu/api.php?id=Channel8HD
-#EXTINF:-1 group-title="香港頻特",八度空間
-http://gotv.k.vu/api.php?id=TV8
-#EXTINF:-1 group-title="香港頻特",Astro iQiyi 愛奇藝
-http://gotv.k.vu/api.php?id=Qiyi
-#EXTINF:-1 group-title="香港頻特",Astro QJ
-http://gotv.k.vu/api.php?id=Quanjia
-#EXTINF:-1 group-title="香港頻特",Astro AOD
-http://gotv.k.vu/api.php?id=Aodhd
-#EXTINF:-1 group-title="香港頻特",Astro AEC
-http://gotv.k.vu/api.php?id=AEC
-#EXTINF:-1 group-title="香港頻特",Astro 歡喜
-http://gotv.k.vu/api.php?id=Huahee
-
-臺灣頻特
-#EXTINF:-1 group-title="台灣頻特",寰宇新聞
-http://gotv.k.vu/api.php?id=huanyuxinwen_twn
-#EXTINF:-1 group-title="台灣頻特",寰宇財經
-http://gotv.k.vu/api.php?id=huanyutaiwan_twn
-#EXTINF:-1 group-title="台灣頻特",中天新聞
-http://gotv.k.vu/api.php?id=ctinews
-#EXTINF:-1 group-title="台灣頻特",中天亞洲
-http://gotv.k.vu/api.php?id=ctiasia_twn
-#EXTINF:-1 group-title="台灣頻特",中天娛樂
-http://gotv.k.vu/api.php?id=ctient
-#EXTINF:-1 group-title="台灣頻特",中天綜合
-http://gotv.k.vu/api.php?id=ctizhonghe
-#EXTINF:-1 group-title="台灣頻特",TVBS
-http://gotv.k.vu/api.php?id=tvbs
-#EXTINF:-1 group-title="台灣頻特",TVBS Asia
-http://gotv.k.vu/api.php?id=Tvbasia
-#EXTINF:-1 group-title="台灣頻特",TVBS新聞
-http://gotv.k.vu/api.php?id=tvbs_n
-#EXTINF:-1 group-title="台灣頻特",TVBS歡樂
-http://gotv.k.vu/api.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="台灣頻特",東森新聞
-http://gotv.k.vu/api.php?id=ettvnews
-#EXTINF:-1 group-title="台灣頻特",東森財經
-http://gotv.k.vu/api.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="台灣頻特",東森綜合
-http://gotv.k.vu/api.php?id=ettvzhonghe
-#EXTINF:-1 group-title="台灣頻特",東森戲劇
-http://gotv.k.vu/api.php?id=ettvdrama
-#EXTINF:-1 group-title="台灣頻特",東森洋片
-http://gotv.k.vu/api.php?id=ettvwestern
-#EXTINF:-1 group-title="台灣頻特",東森電影
-http://gotv.k.vu/api.php?id=ettvmovie
-#EXTINF:-1 group-title="台灣頻特",東森幼幼
-http://gotv.k.vu/api.php?id=yoyo_twn
-#EXTINF:-1 group-title="台灣頻特",東森超視
-http://gotv.k.vu/api.php?id=ettvsuper
-#EXTINF:-1 group-title="台灣頻特",中視新聞
-http://gotv.k.vu/api.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="台灣頻特",中視
-http://gotv.k.vu/api.php?id=zhongshihd_twn
-#EXTINF:-1 group-title="台灣頻特",中視經典
-http://gotv.k.vu/api.php?id=zhongshi_twn
-#EXTINF:-1 group-title="台灣頻特",民視
-http://gotv.k.vu/api.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="台灣頻特",民視新聞
-http://gotv.k.vu/api.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="台灣頻特",民視第一
-http://gotv.k.vu/api.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="台灣頻特",民視台灣
-http://gotv.k.vu/api.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="台灣頻特",華視
-http://gotv.k.vu/api.php?id=ctshd_twn
-#EXTINF:-1 group-title="台灣頻特",台視綜合
-http://gotv.k.vu/api.php?id=ttvzhonghe
-#EXTINF:-1 group-title="台灣頻特",台視
-http://gotv.k.vu/api.php?id=ttv_taiwan
-#EXTINF:-1 group-title="台灣頻特",台視新聞
-http://gotv.k.vu/api.php?id=ttvnews_twn
-#EXTINF:-1 group-title="台灣頻特",公視台語
-http://gotv.k.vu/api.php?id=ctv2_twn
-#EXTINF:-1 group-title="台灣頻特",三立台灣
-http://gotv.k.vu/api.php?id=sanlitaiwan
-#EXTINF:-1 group-title="台灣頻特",三立戲劇
-http://gotv.k.vu/api.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="台灣頻特",三立綜合
-http://gotv.k.vu/api.php?id=sanlizhonghe
-#EXTINF:-1 group-title="台灣頻特",三立都會
-http://gotv.k.vu/api.php?id=sanlidouhui
-#EXTINF:-1 group-title="台灣頻特",非凡新聞
-http://gotv.k.vu/api.php?id=feifannews_twn
-#EXTINF:-1 group-title="台灣頻特",年代新聞
-http://gotv.k.vu/api.php?id=niandainews_twn
-#EXTINF:-1 group-title="台灣頻特",八大第一
-http://gotv.k.vu/api.php?id=badafirst
-#EXTINF:-1 group-title="台灣頻特",八大綜合
-http://gotv.k.vu/api.php?id=badazhonghe
-#EXTINF:-1 group-title="台灣頻特",八大戲劇
-http://gotv.k.vu/api.php?id=badadrama
-#EXTINF:-1 group-title="台灣頻特",八大娛樂
-http://gotv.k.vu/api.php?id=badaentertain
-#EXTINF:-1 group-title="台灣頻特",華藝綜合
-http://gotv.k.vu/api.php?id=weishichinese_twn
-#EXTINF:-1 group-title="台灣頻特",大愛1台
-http://gotv.k.vu/api.php?id=daai_twn
-#EXTINF:-1 group-title="台灣頻特",大愛2台
-http://gotv.k.vu/api.php?id=daai2_twn
-#EXTINF:-1 group-title="台灣頻特",好消息2
-http://gotv.k.vu/api.php?id=good2_twn
-#EXTINF:-1 group-title="台灣頻特",阿里郎綜合
-http://gotv.k.vu/api.php?id=arirang_twn
-#EXTINF:-1 group-title="台灣頻特",AXN電影
-http://gotv.k.vu/api.php?id=axn_twn
-#EXTINF:-1 group-title="台灣頻特",Cinemax
-http://gotv.k.vu/api.php?id=cinemax_twn
-#EXTINF:-1 group-title="台灣頻特",HBO高清
-http://gotv.k.vu/api.php?id=hbohd_twn
-#EXTINF:-1 group-title="台灣頻特",HBO家庭
-http://gotv.k.vu/api.php?id=fyi_twn
-#EXTINF:-1 group-title="台灣頻特",好萊電影
-http://gotv.k.vu/api.php?id=hollywoodmovies_twn
-#EXTINF:-1 group-title="台灣頻特",龍祥電影
-http://gotv.k.vu/api.php?id=lungxiangtime_twn
-#EXTINF:-1 group-title="台灣頻特",龍華經典
-http://gotv.k.vu/api.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="台灣頻特",龍華戲劇
-http://gotv.k.vu/api.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="台灣頻特",龍華電影
-http://gotv.k.vu/api.php?id=xingwei_movie
-#EXTINF:-1 group-title="台灣頻特",龍華偶像
-http://gotv.k.vu/api.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="台灣頻特",龍華洋片
-http://gotv.k.vu/api.php?id=lunghuawestern_twn
-#EXTINF:-1 group-title="台灣頻特",緯來電影
-http://gotv.k.vu/api.php?id=videolandmovie
-#EXTINF:-1 group-title="台灣頻特",緯來日本
-http://gotv.k.vu/api.php?id=videolandjapan
-#EXTINF:-1 group-title="台灣頻特",緯來體育
-http://gotv.k.vu/api.php?id=videolandsport
-#EXTINF:-1 group-title="台灣頻特",緯來綜合
-http://gotv.k.vu/api.php?id=videolandzonghe
-#EXTINF:-1 group-title="台灣頻特",緯來育樂
-http://gotv.k.vu/api.php?id=videolandyule
-#EXTINF:-1 group-title="台灣頻特",緯來精彩
-http://gotv.k.vu/api.php?id=videolandspecial_twn
-#EXTINF:-1 group-title="台灣頻特",靖天國際
-http://gotv.k.vu/api.php?id=jingtianintl_twn
-#EXTINF:-1 group-title="台灣頻特",靖天卡通
-http://gotv.k.vu/api.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="台灣頻特",ELta影劇
-http://gotv.k.vu/api.php?id=eltayingju_twn
-#EXTINF:-1 group-title="台灣頻特",ELta綜合
-http://gotv.k.vu/api.php?id=eltazonghe_twn
-#EXTINF:-1 group-title="台灣頻特",ELTA體育1
-http://gotv.k.vu/api.php?id=eltasport_twn
-#EXTINF:-1 group-title="台灣頻特",ELTA體育2
-http://gotv.k.vu/api.php?id=eltasport2_twn
-#EXTINF:-1 group-title="台灣頻特",ELTA體育3
-http://gotv.k.vu/api.php?id=eltasport3_twn
-#EXTINF:-1 group-title="台灣頻特",ELTA體育4
-http://gotv.k.vu/api.php?id=eltasports4_twn
-#EXTINF:-1 group-title="台灣頻特",DAZN 1
-http://gotv.k.vu/api.php?id=golfchannel_twn
-#EXTINF:-1 group-title="台灣頻特",博斯無限
-http://gotv.k.vu/api.php?id=bosiunlimited_twn
-#EXTINF:-1 group-title="台灣頻特",博斯網球
-http://gotv.k.vu/api.php?id=bositennis_twn
-#EXTINF:-1 group-title="台灣頻特",博斯運動1
-http://gotv.k.vu/api.php?id=bosisport1_twn
-#EXTINF:-1 group-title="台灣頻特",博斯運動2
-http://gotv.k.vu/api.php?id=bosisport2_twn
-#EXTINF:-1 group-title="台灣頻特",博斯高球1
-http://gotv.k.vu/api.php?id=bosigolf1_twn
-#EXTINF:-1 group-title="台灣頻特",博斯高球2
-http://gotv.k.vu/api.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="台灣頻特",探索亞洲
-http://gotv.k.vu/api.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="台灣頻特",國家地理
-http://gotv.k.vu/api.php?id=natgeohd_twn
-#EXTINF:-1 group-title="台灣頻特",野生動物
-http://gotv.k.vu/api.php?id=natgeowild_twn
-#EXTINF:-1 group-title="台灣頻特",動物星球
-http://gotv.k.vu/api.php?id=animalplanet_twn
-#EXTINF:-1 group-title="台灣頻特",美食星球
-http://gotv.k.vu/api.php?id=foodplanet_twn
-#EXTINF:-1 group-title="台灣頻特",亞洲美食
-http://gotv.k.vu/api.php?id=afc_twn
-#EXTINF:-1 group-title="台灣頻特",亞洲旅遊
-http://gotv.k.vu/api.php?id=asiatravel_twn
-#EXTINF:-1 group-title="台灣頻特",亞洲TLC
-http://gotv.k.vu/api.php?id=tlc_twn
-#EXTINF:-1 group-title="台灣頻特",EYETV 旅遊
-http://gotv.k.vu/api.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="台灣頻特",EYETV 戲劇
-http://gotv.k.vu/api.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="台灣頻特",MTV
-http://gotv.k.vu/api.php?id=mtvhd_twn
-#EXTINF:-1 group-title="台灣頻特",Discovery
-http://gotv.k.vu/api.php?id=discoverytwn_twn
-
-
-體育頻特
-#EXTINF:-1 group-title="體育頻特",Astro Premier League 1
-http://gotv.k.vu/api.php?id=go_assp1
-#EXTINF:-1 group-title="體育頻特",Astro EPL 1 backup
-http://gotv.k.vu/api.php?id=go_assp1x
-#EXTINF:-1 group-title="體育頻特",Astro Premier League 2
-http://gotv.k.vu/api.php?id=go_assp2
-#EXTINF:-1 group-title="體育頻特",Astro Grandstand
-http://gotv.k.vu/api.php?id=go_assp3
-#EXTINF:-1 group-title="體育頻特",Astro Football
-http://gotv.k.vu/api.php?id=go_assp4
-#EXTINF:-1 group-title="體育頻特",Astro Sports Plus
-http://gotv.k.vu/api.php?id=go_sportsplus
-#EXTINF:-1 group-title="體育頻特",Astro Badminton 1
-http://gotv.k.vu/api.php?id=go_badminton1
-#EXTINF:-1 group-title="體育頻特",Astro Badminton 2
-http://gotv.k.vu/api.php?id=go_badminton2
-#EXTINF:-1 group-title="體育頻特",Astro W-Sports
-http://gotv.k.vu/api.php?id=go_assp5
-#EXTINF:-1 group-title="體育頻特",Supersports 1
-http://gotv.k.vu/api.php?id=Assp1
-#EXTINF:-1 group-title="體育頻特",Supersports 2
-http://gotv.k.vu/api.php?id=Assp2
-#EXTINF:-1 group-title="體育頻特",Supersports 3
-http://gotv.k.vu/api.php?id=Assp3
-#EXTINF:-1 group-title="體育頻特",Supersports 4
-http://gotv.k.vu/api.php?id=Assp4
-#EXTINF:-1 group-title="體育頻特",WWE
-http://gotv.k.vu/api.php?id=Wwe
-#EXTINF:-1 group-title="體育頻特",Fight Sports
-http://gotv.k.vu/api.php?id=Fs
-#EXTINF:-1 group-title="體育頻特",NBA TV
-http://gotv.k.vu/api.php?id=Nba
-#EXTINF:-1 group-title="體育頻特",Astro Cricket
-http://gotv.k.vu/api.php?id=Acricket
-#EXTINF:-1 group-title="體育頻特",Astro Golf
-http://gotv.k.vu/api.php?id=Agolf
-#EXTINF:-1 group-title="體育頻特",TNT Sports 1
-http://gotv.k.vu/api.php?id=6fac0aaead
-#EXTINF:-1 group-title="體育頻特",TNT Sports 2
-http://gotv.k.vu/api.php?id=d9a76a79cc
-#EXTINF:-1 group-title="體育頻特",TNT Sports 3
-http://gotv.k.vu/api.php?id=5fea4d73db
-#EXTINF:-1 group-title="體育頻特",TNT Sports 4
-http://gotv.k.vu/api.php?id=tntsport4
-#EXTINF:-1 group-title="體育頻特",Sony Ten 1
-http://gotv.k.vu/api.php?id=ten1_raj
-#EXTINF:-1 group-title="體育頻特",Sony Ten 2
-http://gotv.k.vu/api.php?id=ten2_raj
-#EXTINF:-1 group-title="體育頻特",Sony Ten 3
-http://gotv.k.vu/api.php?id=ten3_raj
-#EXTINF:-1 group-title="體育頻特",SPOTV 1 HD
-http://gotv.k.vu/api.php?id=go_spotv
-#EXTINF:-1 group-title="體育頻特",SPOTV 2
-http://gotv.k.vu/api.php?id=go_spotv2
-#EXTINF:-1 group-title="體育頻特",Sky sports F1
-http://gotv.k.vu/api.php?id=tiankongf1
-#EXTINF:-1 group-title="體育頻特",Sky sports Cricket
-http://gotv.k.vu/api.php?id=tiankongcricket
-#EXTINF:-1 group-title="體育頻特",Sky sports EPL
-http://gotv.k.vu/api.php?id=tiankongepl
-#EXTINF:-1 group-title="體育頻特",Sky sports Main Event
-http://gotv.k.vu/api.php?id=tiankongmain
-#EXTINF:-1 group-title="體育頻特",Sky sports News
-http://gotv.k.vu/api.php?id=tiankongnews
-#EXTINF:-1 group-title="體育頻特",Sky sports Mix
-http://gotv.k.vu/api.php?id=tiankongmix
-#EXTINF:-1 group-title="體育頻特",愛爾達體育1台
-http://gotv.k.vu/api.php?id=eltasport_twn
-#EXTINF:-1 group-title="體育頻特",愛爾達體育2台
-http://gotv.k.vu/api.php?id=eltasport2_twn
-#EXTINF:-1 group-title="體育頻特",愛爾達體育3台
-http://gotv.k.vu/api.php?id=eltasport3_twn
-#EXTINF:-1 group-title="體育頻特",愛爾達體育4台
-http://gotv.k.vu/api.php?id=eltasports4_twn
-#EXTINF:-1 group-title="體育頻特",Rugby Pass TV
-http://gotv.k.vu/api.php?id=Rugbypasstv
-#EXTINF:-1 group-title="體育頻特",RTM Sports HD
-http://gotv.k.vu/api.php?id=Rtmsport
-#EXTINF:-1 group-title="體育頻特",Arena
-http://gotv.k.vu/api.php?id=Arena
-#EXTINF:-1 group-title="體育頻特",Arena 2
-http://gotv.k.vu/api.php?id=Arena2
-#EXTINF:-1 group-title="體育頻特",Bola Arena 1
-http://gotv.k.vu/api.php?id=Bolaarena1
-#EXTINF:-1 group-title="體育頻特",Bola Arena 2
-http://gotv.k.vu/api.php?id=Bolaarena2
-#EXTINF:-1 group-title="體育頻特",Astro Bein sports 1
-http://gotv.k.vu/api.php?id=Astrobein1
-#EXTINF:-1 group-title="體育頻特",Astro Bein sports 2
-http://gotv.k.vu/api.php?id=Astrobein2
-#EXTINF:-1 group-title="體育頻特",Astro Bein sports 3
-http://gotv.k.vu/api.php?id=Astrobein3
-
-
-電影頻瑪
-#EXTINF:-1 group-title="電影頻特",Cinemax
-http://gotv.k.vu/api.php?id=Cinemax
-#EXTINF:-1 group-title="電影頻特",Animax
-http://gotv.k.vu/api.php?id=Animax
-#EXTINF:-1 group-title="電影頻特",Movies Now HD
-http://gotv.k.vu/api.php?id=moviesnow_raj
-#EXTINF:-1 group-title="電影頻特",Star Movies HD
-http://gotv.k.vu/api.php?id=starmovies_raj
-#EXTINF:-1 group-title="電影頻特",HBO Family
-http://gotv.k.vu/api.php?id=Hbofamily
-#EXTINF:-1 group-title="電影頻特",Hits
-http://gotv.k.vu/api.php?id=Hits
-#EXTINF:-1 group-title="電影頻特",Warner TV
-http://gotv.k.vu/api.php?id=WarnerTV
-#EXTINF:-1 group-title="電影頻特",HBO HD
-http://gotv.k.vu/api.php?id=Hbo
-#EXTINF:-1 group-title="電影頻特",HBO Signature
-http://gotv.k.vu/api.php?id=Hbosignature
-#EXTINF:-1 group-title="電影頻特",HBO Hits
-http://gotv.k.vu/api.php?id=Hbohitshd
-#EXTINF:-1 group-title="電影頻特",SCM
-http://gotv.k.vu/api.php?id=Weishimovie
-#EXTINF:-1 group-title="電影頻特",Dreamworks
-http://gotv.k.vu/api.php?id=Dreamworks
-#EXTINF:-1 group-title="電影頻特",Thrill
-http://gotv.k.vu/api.php?id=Thrill
-#EXTINF:-1 group-title="電影頻特",Hits Movie
-http://gotv.k.vu/api.php?id=Hitsmovie
-#EXTINF:-1 group-title="電影頻特",One
-http://gotv.k.vu/api.php?id=One
-#EXTINF:-1 group-title="電影頻特",tvN Movie
-http://gotv.k.vu/api.php?id=Tvnmovie
-#EXTINF:-1 group-title="電影頻特",Celestial Classic
-http://gotv.k.vu/api.php?id=Celestial2
-#EXTINF:-1 group-title="電影頻特",Celestial Movies HD
-http://gotv.k.vu/api.php?id=Celestialindo
-#EXTINF:-1 group-title="電影頻特",Axn HD
-http://gotv.k.vu/api.php?id=Axn
-#EXTINF:-1 group-title="電影頻特",Paramount Network
-http://gotv.k.vu/api.php?id=Paramountnetwork
-#EXTINF:-1 group-title="電影頻特",Astrol Kplus
-http://gotv.k.vu/api.php?id=Kplus
-#EXTINF:-1 group-title="電影頻特",Rock Actions
-http://gotv.k.vu/api.php?id=Rockaction
-#EXTINF:-1 group-title="電影頻特",Rock Entertainment
-http://gotv.k.vu/api.php?id=Rockentertain
-
-
-紀錄頻特
-#EXTINF:-1 group-title="紀錄頻特",Natgeo_HD
-http://gotv.k.vu/api.php?id=natgeohd_twn
-#EXTINF:-1 group-title="紀錄頻特",NatGeo_Wild HD
-http://gotv.k.vu/api.php?id=natgeowild_twn
-#EXTINF:-1 group-title="紀錄頻特",Animal_Planet
-http://gotv.k.vu/api.php?id=animalplanet_twn
-#EXTINF:-1 group-title="紀錄頻特",Discovery Asia
-http://gotv.k.vu/api.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="紀錄頻特",CI
-http://gotv.k.vu/api.php?id=ci_twn
-#EXTINF:-1 group-title="紀錄頻特",Discovery HD
-http://gotv.k.vu/api.php?id=discoveryhd_twn
-#EXTINF:-1 group-title="紀錄頻特",NatGeo HD
-http://gotv.k.vu/api.php?id=Natgeo
-#EXTINF:-1 group-title="紀錄頻特",Fashion TV
-http://gotv.k.vu/api.php?id=fashiontv_twn
-#EXTINF:-1 group-title="紀錄頻特",History
-http://gotv.k.vu/api.php?id=History
-#EXTINF:-1 group-title="紀錄頻特",BBC Earth HD
-http://gotv.k.vu/api.php?id=bbcearth_twn
-#EXTINF:-1 group-title="紀錄頻特",BBC Earth Lifestyle
-http://gotv.k.vu/api.php?id=bbclifestyle_twn
-#EXTINF:-1 group-title="紀錄頻特",NatGeo Wild HD
-http://gotv.k.vu/api.php?id=Natgeowild
-#EXTINF:-1 group-title="紀錄頻特",Animal Planet (Eng)
-http://gotv.k.vu/api.php?id=AnimalPlanet
-#EXTINF:-1 group-title="紀錄頻特",TLC
-http://gotv.k.vu/api.php?id=Tlc
-#EXTINF:-1 group-title="紀錄頻特",Foodnetwork Hd
-http://gotv.k.vu/api.php?id=Foodnetwork
-#EXTINF:-1 group-title="紀錄頻特",HGTV
-http://gotv.k.vu/api.php?id=HGTV
-
-
-新聞頻特
-#EXTINF:-1 group-title="新聞頻特",Skynews
-http://gotv.k.vu/api.php?id=skynews_twn
-#EXTINF:-1 group-title="新聞頻特",ABC News
-http://gotv.k.vu/api.php?id=abcnews_glo
-#EXTINF:-1 group-title="新聞頻特",CBS HD
-http://gotv.k.vu/api.php?id=cbshd_glo
-#EXTINF:-1 group-title="新聞頻特",CBSN HD
-http://gotv.k.vu/api.php?id=cbsn_glo
-#EXTINF:-1 group-title="新聞頻特",France 24
-http://gotv.k.vu/api.php?id=france24_twn
-#EXTINF:-1 group-title="新聞頻特",DW (Deutsch)
-http://gotv.k.vu/api.php?id=dw_twn
-#EXTINF:-1 group-title="新聞頻特",NHK World
-http://gotv.k.vu/api.php?id=nhkworld_japan
-#EXTINF:-1 group-title="新聞頻特",Fox News
-http://gotv.k.vu/api.php?id=foxnews_twn
-#EXTINF:-1 group-title="新聞頻特",CNN International
-http://gotv.k.vu/api.php?id=Cnn
-#EXTINF:-1 group-title="新聞頻特",CNN backup
-http://gotv.k.vu/api.php?id=cnn_twn
-#EXTINF:-1 group-title="新聞頻特",CNBC
-http://gotv.k.vu/api.php?id=cnbc_twn
-#EXTINF:-1 group-title="新聞頻特",CNA
-http://gotv.k.vu/api.php?id=cna
-#EXTINF:-1 group-title="新聞頻特",BBC World News
-http://gotv.k.vu/api.php?id=bbcnews_twn
-#EXTINF:-1 group-title="新聞頻特",BBC World News
-http://gotv.k.vu/api.php?id=Bbcnews
-#EXTINF:-1 group-title="新聞頻特",Bloomberg News
-http://gotv.k.vu/api.php?id=bloomberg_twn
-#EXTINF:-1 group-title="新聞頻特",Al-Jazeera
-http://gotv.k.vu/api.php?id=aljazeera_twn
-
-
-
 
 ################################################
 
@@ -8255,7 +7998,6 @@ http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
 
 
 
-
 #EXTINF:-1 group-title="私密頻道 ADULT",MetArt FHD
 http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Banana Fever
@@ -8297,6 +8039,8 @@ http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6165/index.m3u8
 
 ################################################
 http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/2475/index.m3u8
+http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
+
 
 
 
@@ -8877,6 +8621,7 @@ http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/922/index.m3u8
 
 
 ################################################
+http://213.226.69.130/iptv/3K5Z3VE8M7N89U/31602/index.m3u8
 
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 
