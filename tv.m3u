@@ -585,6 +585,77 @@ https://nl00.utako.moe/fuji_two/tracks-v1a1/mono.ts.m3u8
 
 ################################################
 
+
+◆◆◆　http://bxtv.3a.ink/live.txt
+
+BXTV
+
+
+#EXTINF:-1 group-title="CHINA CCTV",cctv1
+http://bxtv.3a.ink/migu.php?id=cctv1
+#EXTINF:-1 group-title="CHINA CCTV",cctv2
+http://bxtv.3a.ink/migu.php?id=cctv2
+#EXTINF:-1 group-title="CHINA CCTV",cctv3
+http://bxtv.3a.ink/migu.php?id=cctv3
+#EXTINF:-1 group-title="CHINA CCTV",cctv4
+http://bxtv.3a.ink/migu.php?id=cctv4
+#EXTINF:-1 group-title="CHINA CCTV",cctv5
+http://bxtv.3a.ink/migu.php?id=cctv5
+#EXTINF:-1 group-title="CHINA CCTV",cctv5+
+http://bxtv.3a.ink/migu.php?id=cctv5p
+#EXTINF:-1 group-title="CHINA CCTV",cctv6
+http://bxtv.3a.ink/migu.php?id=cctv6
+#EXTINF:-1 group-title="CHINA CCTV",cctv7
+http://bxtv.3a.ink/migu.php?id=cctv7
+#EXTINF:-1 group-title="CHINA CCTV",cctv8
+http://bxtv.3a.ink/migu.php?id=cctv8
+#EXTINF:-1 group-title="CHINA CCTV",cctv9
+http://bxtv.3a.ink/migu.php?id=cctv9
+#EXTINF:-1 group-title="CHINA CCTV",cctv10
+http://bxtv.3a.ink/migu.php?id=cctv10
+#EXTINF:-1 group-title="CHINA CCTV",cctv11
+http://bxtv.3a.ink/migu.php?id=cctv11
+#EXTINF:-1 group-title="CHINA CCTV",cctv12
+http://bxtv.3a.ink/migu.php?id=cctv12
+#EXTINF:-1 group-title="CHINA CCTV",cctv13
+http://bxtv.3a.ink/migu.php?id=cctv13
+#EXTINF:-1 group-title="CHINA CCTV",cctv14
+http://bxtv.3a.ink/migu.php?id=cctv14
+#EXTINF:-1 group-title="CHINA CCTV",cctv15
+http://bxtv.3a.ink/migu.php?id=cctv15
+#EXTINF:-1 group-title="CHINA CCTV",cctv17
+http://bxtv.3a.ink/migu.php?id=cctv17
+
+
+
+#EXTINF:-1 group-title="CHINA CCTV",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 group-title="CHINA CCTV",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="CHINA CCTV",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 group-title="CHINA CCTV",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 group-title="CHINA CCTV",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 group-title="CHINA CCTV",千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 group-title="CHINA CCTV",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="CHINA CCTV",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="CHINA CCTV",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="CHINA CCTV",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="CHINA CCTV",POPC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 group-title="CHINA CCTV",中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
+
+
+################################################
+
 中國央視
 
 
@@ -730,61 +801,6 @@ http://221.14.142.118:8000/hls/15/index.m3u8
 #EXTINF:-1 group-title="CHINA CCTV",CGTN
 http://221.14.142.118:8000/hls/16/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="CHINA CCTV",CCTV1
-https://httop.top/ysp-cctv1
-#EXTINF:-1 group-title="CHINA CCTV",CCTV2
-https://httop.top/ysp-cctv2
-#EXTINF:-1 group-title="CHINA CCTV",CCTV3
-https://httop.top/ysp-cctv3
-#EXTINF:-1 group-title="CHINA CCTV",CCTV4
-https://httop.top/ysp-cctv4
-#EXTINF:-1 group-title="CHINA CCTV",CCTV5
-https://httop.top/ysp-cctv5
-#EXTINF:-1 group-title="CHINA CCTV",CCTV5+
-https://httop.top/ysp-cctv5+
-#EXTINF:-1 group-title="CHINA CCTV",CCTV6
-https://httop.top/ysp-cctv6
-#EXTINF:-1 group-title="CHINA CCTV",CCTV7
-https://httop.top/ysp-cctv7
-#EXTINF:-1 group-title="CHINA CCTV",CCTV8
-https://httop.top/ysp-cctv8
-#EXTINF:-1 group-title="CHINA CCTV",CCTV9
-https://httop.top/ysp-cctv9
-#EXTINF:-1 group-title="CHINA CCTV",CCTV10
-https://httop.top/ysp-cctv10
-#EXTINF:-1 group-title="CHINA CCTV",CCTV11
-https://httop.top/ysp-cctv11
-#EXTINF:-1 group-title="CHINA CCTV",CCTV12
-https://httop.top/ysp-cctv12
-#EXTINF:-1 group-title="CHINA CCTV",CCTV13
-https://httop.top/ysp-cctv13
-#EXTINF:-1 group-title="CHINA CCTV",CCTV14
-https://httop.top/ysp-cctv14
-#EXTINF:-1 group-title="CHINA CCTV",CCTV15
-https://httop.top/ysp-cctv15
-#EXTINF:-1 group-title="CHINA CCTV",CCTV16
-https://httop.top/ysp-cctv16
-#EXTINF:-1 group-title="CHINA CCTV",CCTV17
-https://httop.top/ysp-cctv17
-#EXTINF:-1 group-title="CHINA CCTV",CCTV4K
-https://httop.top/ysp-cctv4k
-#EXTINF:-1 group-title="CHINA CCTV",CCTV8K
-https://httop.top/ysp-cctv8k
-#EXTINF:-1 group-title="CHINA CCTV",CGTN
-https://httop.top/ysp-cgtn
-#EXTINF:-1 group-title="CHINA CCTV",CGTN法语
-https://httop.top/ysp-cgtn法语
-#EXTINF:-1 group-title="CHINA CCTV",CGTN俄语
-https://httop.top/ysp-cgtn俄语
-#EXTINF:-1 group-title="CHINA CCTV",CGTN阿语
-https://httop.top/ysp-cgtn阿语
-#EXTINF:-1 group-title="CHINA CCTV",CGTN西语
-https://httop.top/ysp-cgtn西语
-#EXTINF:-1 group-title="CHINA CCTV",CGTN纪录
-https://httop.top/ysp-cgtn纪录
 
 
 
@@ -1379,6 +1395,54 @@ http://orz.jkun.cf/smt.php?id=eltasport3_twn
 
 
 
+
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視新聞
+http://123.51.136.80:8310/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視新聞
+http://123.51.136.80:8302/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華視新聞
+http://123.51.136.80:8319/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視新聞
+http://123.51.136.80:8314/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",公視
+http://123.51.136.80:8305/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視
+http://123.51.136.80:8308/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視
+http://123.51.136.80:8301/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華視
+http://123.51.136.80:8317/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視
+http://123.51.136.80:8313/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",公視
+http://123.51.136.80:8306/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視第一
+http://123.51.136.80:8309/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視台灣
+http://123.51.136.80:8311/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視經典
+http://123.51.136.80:8321/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視菁采
+http://123.51.136.80:8322/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華視教育
+http://123.51.136.80:8318/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視綜合
+http://123.51.136.80:8316/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視財經
+http://123.51.136.80:8315/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視綜合
+http://123.51.136.80:8303/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",客家電視
+http://123.51.136.80:8307/0.ts
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",小公視
+http://123.51.136.80:8312/0.ts
+
+
+
+
+
+
+
 ################################################
 
 
@@ -1546,6 +1610,7 @@ http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 #EXTINF:-1 tvg-name="鳯凰衛視資訊" tvg-logo="https://logo.catvod.com/鳯凰衛視資訊.png" group-title="台灣酒店",鳯凰衛視資訊
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://logo.catvod.com/Arirang.png" group-title="台灣酒店",Arirang
 http://smt.iptv543.com/Smart.php?id=arirang_twn
 #EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="台灣酒店",AXN Taiwan
@@ -1567,6 +1632,11 @@ http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="華藝綜合" tvg-logo="https://logo.catvod.com/華藝綜合.png" group-title="台灣酒店",華藝綜合
 http://smt.iptv543.com/Smart.php?id=weishichinese_twn
 
+
+#EXTINF:-1 group-title="台灣酒店",大愛1台
+http://smt.iptv543.com/Smart.php?id=daai_twn
+#EXTINF:-1 group-title="台灣酒店",大愛2台
+http://smt.iptv543.com/Smart.php?id=daai2_twn
 
 
 
@@ -3269,6 +3339,7 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="韓國頻道",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="TV조선" tvg-name="TV조선" tvg-logo="https://11.112114.xyz/logo/TV조선.png" group-title="韓國頻道",TV조선
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV조선 2" tvg-name="TV조선 2" tvg-logo="https://11.112114.xyz/logo/TV조선2.png" group-title="韓國頻道",TV조선 2
@@ -3345,6 +3416,8 @@ http://1.217.92.34/hls/49/index.m3u8
 http://1.217.92.34/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="Baseball SPORTS" tvg-name="Baseball SPORTS" tvg-logo="https://11.112114.xyz/logo/BASEBALLSPORTS.png" group-title="韓國頻道",Baseball SPORTS
 http://1.217.92.34/hls/51/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://11.112114.xyz/logo/KOREATV.png" group-title="韓國頻道",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC 综艺频道" tvg-name="MBC 综艺频道" tvg-logo="https://11.112114.xyz/logo/MBC综艺.png" group-title="韓國頻道",MBC 综艺频道
