@@ -1559,51 +1559,6 @@ http://orz.jkun.cf/smt.php?id=eltasport3_twn
 
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視新聞
-http://123.51.136.80:8310/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視新聞
-http://123.51.136.80:8302/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華視新聞
-http://123.51.136.80:8319/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視新聞
-http://123.51.136.80:8314/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",公視
-http://123.51.136.80:8305/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視
-http://123.51.136.80:8308/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視
-http://123.51.136.80:8301/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華視
-http://123.51.136.80:8317/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視
-http://123.51.136.80:8313/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",公視
-http://123.51.136.80:8306/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視第一
-http://123.51.136.80:8309/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",民視台灣
-http://123.51.136.80:8311/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視經典
-http://123.51.136.80:8321/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",中視菁采
-http://123.51.136.80:8322/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",華視教育
-http://123.51.136.80:8318/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視綜合
-http://123.51.136.80:8316/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視財經
-http://123.51.136.80:8315/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",台視綜合
-http://123.51.136.80:8303/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",客家電視
-http://123.51.136.80:8307/0.ts
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",小公視
-http://123.51.136.80:8312/0.ts
-
-
-
-
-
 
 
 ################################################
@@ -4669,78 +4624,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV조선 2" tvg-name="TV조선 2" tvg-logo="https://11.112114.xyz/logo/TV조선2.png" group-title="韓國頻道",TV조선 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="OBS" tvg-name="OBS" tvg-logo="https://11.112114.xyz/logo/OBS.png" group-title="韓國頻道",OBS
-http://1.217.92.34/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN STORY
-http://1.217.92.34/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="조선" tvg-name="조선" tvg-logo="https://11.112114.xyz/logo/조선.png" group-title="韓國頻道",조선
-http://1.217.92.34/hls/15/index.m3u8
-#EXTINF:-1 tvg-id="SBS PIus" tvg-name="SBS PIus" tvg-logo="https://11.112114.xyz/logo/SBSPIUS.png" group-title="韓國頻道",SBS PIus
-http://1.217.92.34/hls/16/index.m3u8
-#EXTINF:-1 tvg-id="KBS drama" tvg-name="KBS drama" tvg-logo="https://11.112114.xyz/logo/KBSDRAMA.png" group-title="韓國頻道",KBS drama
-http://1.217.92.34/hls/17/index.m3u8
-#EXTINF:-1 tvg-id="MAC name" tvg-name="MAC name" tvg-logo="https://11.112114.xyz/logo/MACNAME.png" group-title="韓國頻道",MAC name
-http://1.217.92.34/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="OL ef" tvg-name="OL ef" tvg-logo="https://11.112114.xyz/logo/OLEF.png" group-title="韓國頻道",OL ef
-http://1.217.92.34/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://11.112114.xyz/logo/CNN.png" group-title="韓國頻道",OCN NOW
-http://1.217.92.34/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="OCN Movies" tvg-name="OCN Movies" tvg-logo="https://11.112114.xyz/logo/OCNMOVIES.png" group-title="韓國頻道",OCN Movies
-http://1.217.92.34/hls/23/index.m3u8
-#EXTINF:-1 tvg-id="OCN Movies 2" tvg-name="OCN Movies 2" tvg-logo="https://11.112114.xyz/logo/OCNMOVIES2.png" group-title="韓國頻道",OCN Movies 2
-http://1.217.92.34/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="CATCHONI" tvg-name="CATCHONI" tvg-logo="https://11.112114.xyz/logo/CATCHONI.png" group-title="韓國頻道",CATCHONI
-http://1.217.92.34/hls/25/index.m3u8
-#EXTINF:-1 tvg-id="SCREEN" tvg-name="SCREEN" tvg-logo="https://11.112114.xyz/logo/SCREEN.png" group-title="韓國頻道",SCREEN
-http://1.217.92.34/hls/26/index.m3u8
-#EXTINF:-1 tvg-id="SCREEN 2" tvg-name="SCREEN 2" tvg-logo="https://11.112114.xyz/logo/SCREEN2.png" group-title="韓國頻道",SCREEN 2
-http://1.217.92.34/hls/27/index.m3u8
-#EXTINF:-1 tvg-id="TEE Movies" tvg-name="TEE Movies" tvg-logo="https://11.112114.xyz/logo/TEEMOVIES.png" group-title="韓國頻道",TEE Movies
-http://1.217.92.34/hls/28/index.m3u8
-#EXTINF:-1 tvg-id="KBS 2" tvg-name="KBS 2" tvg-logo="https://11.112114.xyz/logo/KBS2.png" group-title="韓國頻道",KBS 2
-http://1.217.92.34/hls/29/index.m3u8
-#EXTINF:-1 tvg-id="chW" tvg-name="chW" tvg-logo="https://11.112114.xyz/logo/CHW.png" group-title="韓國頻道",chW
-http://1.217.92.34/hls/30/index.m3u8
-#EXTINF:-1 tvg-id="PATTERN" tvg-name="PATTERN" tvg-logo="https://11.112114.xyz/logo/PATTERN.png" group-title="韓國頻道",PATTERN
-http://1.217.92.34/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="순장바둑" tvg-name="순장바둑" tvg-logo="https://11.112114.xyz/logo/순장바둑.png" group-title="韓國頻道",순장바둑
-http://1.217.92.34/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="장기" tvg-name="장기" tvg-logo="https://11.112114.xyz/logo/장기.png" group-title="韓國頻道",장기
-http://1.217.92.34/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="SCREEN 5" tvg-name="SCREEN 5" tvg-logo="https://11.112114.xyz/logo/SCREEN5.png" group-title="韓國頻道",SCREEN 5
-http://1.217.92.34/hls/34/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="https://11.112114.xyz/logo/SPOTV2.png" group-title="韓國頻道",SPOTV 2
-http://1.217.92.34/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="SKY SPORTS" tvg-name="SKY SPORTS" tvg-logo="https://11.112114.xyz/logo/SKYSPORTS.png" group-title="韓國頻道",SKY SPORTS
-http://1.217.92.34/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="KBSN SPORTS" tvg-name="KBSN SPORTS" tvg-logo="https://11.112114.xyz/logo/KBSNSPORTS.png" group-title="韓國頻道",KBSN SPORTS
-http://1.217.92.34/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="MBC SPORTS+" tvg-name="MBC SPORTS+" tvg-logo="https://11.112114.xyz/logo/MBCSPORTS+.png" group-title="韓國頻道",MBC SPORTS+
-http://1.217.92.34/hls/39/index.m3u8
-#EXTINF:-1 tvg-id="JBBC GOLF" tvg-name="JBBC GOLF" tvg-logo="https://11.112114.xyz/logo/JBBCGOLF.png" group-title="韓國頻道",JBBC GOLF
-http://1.217.92.34/hls/40/index.m3u8
-#EXTINF:-1 tvg-id="JBBC GOLF 2" tvg-name="JBBC GOLF 2" tvg-logo="https://11.112114.xyz/logo/JBBCGOLF2.png" group-title="韓國頻道",JBBC GOLF 2
-http://1.217.92.34/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="IB SPORTS" tvg-name="IB SPORTS" tvg-logo="https://11.112114.xyz/logo/IBSPORTS.png" group-title="韓國頻道",IB SPORTS
-http://1.217.92.34/hls/42/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV 4" tvg-name="SPOTV 4" tvg-logo="https://11.112114.xyz/logo/SPOTV4.png" group-title="韓國頻道",SPOTV 4
-http://1.217.92.34/hls/43/index.m3u8
-#EXTINF:-1 tvg-id="JBBC UFC" tvg-name="JBBC UFC" tvg-logo="https://11.112114.xyz/logo/JBBCUFC.png" group-title="韓國頻道",JBBC UFC
-http://1.217.92.34/hls/44/index.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN SPORTS
-http://1.217.92.34/hls/45/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV Prime" tvg-name="SPOTV Prime" tvg-logo="https://11.112114.xyz/logo/SPOTVPRIME.png" group-title="韓國頻道",SPOTV Prime
-http://1.217.92.34/hls/46/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV Prime 2" tvg-name="SPOTV Prime 2" tvg-logo="https://11.112114.xyz/logo/SPOTVPRIME2.png" group-title="韓國頻道",SPOTV Prime 2
-http://1.217.92.34/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-logo="https://11.112114.xyz/logo/CBS.png" group-title="韓國頻道",CBS
-http://1.217.92.34/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://11.112114.xyz/logo/ARIRANGTV.png" group-title="韓國頻道",G tv
-http://1.217.92.34/hls/49/index.m3u8
-#EXTINF:-1 tvg-id="KBs Jou" tvg-name="KBs Jou" tvg-logo="https://11.112114.xyz/logo/KBSJOU.png" group-title="韓國頻道",KBs Jou
-http://1.217.92.34/hls/50/index.m3u8
-#EXTINF:-1 tvg-id="Baseball SPORTS" tvg-name="Baseball SPORTS" tvg-logo="https://11.112114.xyz/logo/BASEBALLSPORTS.png" group-title="韓國頻道",Baseball SPORTS
-http://1.217.92.34/hls/51/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://11.112114.xyz/logo/KOREATV.png" group-title="韓國頻道",Korea TV
@@ -5452,6 +5336,12 @@ https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", AT Krone Hit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="音樂世界" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", VEVO '70s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
@@ -9719,6 +9609,127 @@ https://vd3.bdstatic.com/mda-mk9940t1qza4ptet/576p/cae_h264/1651596935959437402/
 
 
 
+#EXTINF:-1 group-title="DAKLAKIPTV",VTV1
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 group-title="DAKLAKIPTV",QOVN
+https://freem3u.xyz/api/live/play.m3u8?vid=19
+#EXTINF:-1 group-title="DAKLAKIPTV",ANTV
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 group-title="DAKLAKIPTV",THVL1
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:-1 group-title="DAKLAKIPTV",THVL2
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:-1 tvg-id="lamdong2" group-title="DAKLAKIPTV"tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/LTV2HD.png?raw=true",LTV2 | TH Lâm Đồng 2
+https://freem3u.xyz/api/live/play.m3u8?vid=45
+#EXTINF:-1 group-title="DAKLAKIPTV",46
+https://freem3u.xyz/api/live/play.m3u8?vid=46
+#EXTINF:-1 group-title="DAKLAKIPTV",47
+https://freem3u.xyz/api/live/play.m3u8?vid=47
+#EXTINF:-1 group-title="DAKLAKIPTV",48
+https://freem3u.xyz/api/live/play.m3u8?vid=48
+#EXTINF:-1 group-title="DAKLAKIPTV",49
+https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 tvg-id="lamdong3" group-title="DAKLAKIPTV"tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/LTV3HD.png?raw=true",LTV3 | TH Lâm Đồng 3
+https://freem3u.xyz/api/live/play.m3u8?vid=50
+#EXTINF:-1 group-title="DAKLAKIPTV",51
+https://freem3u.xyz/api/live/play.m3u8?vid=51
+#EXTINF:-1 group-title="DAKLAKIPTV",52
+https://freem3u.xyz/api/live/play.m3u8?vid=52
+#EXTINF:-1 tvg-id="dongnai1" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/DCLUAqZ.png",ĐN1 | TH Đồng Nai 1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 tvg-id="dongthap1" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 | TH Đồng Tháp
+https://freem3u.xyz/api/live/play.m3u8?vid=54
+#EXTINF:-1 tvg-id="hatinh" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/4yIgKKx.png",BHTTV | TH Hà Tĩnh
+https://freem3u.xyz/api/live/play.m3u8?vid=58
+#EXTINF:-1 group-title="DAKLAKIPTV",66
+https://freem3u.xyz/api/live/play.m3u8?vid=66
+#EXTINF:-1 group-title="DAKLAKIPTV",68
+https://freem3u.xyz/api/live/play.m3u8?vid=68
+#EXTINF:-1 group-title="DAKLAKIPTV",69
+https://freem3u.xyz/api/live/play.m3u8?vid=69
+#EXTINF:-1 group-title="DAKLAKIPTV",71
+https://freem3u.xyz/api/live/play.m3u8?vid=71
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV1 | TH Tây Ninh 1
+https://freem3u.xyz/api/live/play.m3u8?vid=72
+#EXTINF:-1 group-title="DAKLAKIPTV",74
+https://freem3u.xyz/api/live/play.m3u8?vid=74
+#EXTINF:-1 tvg-id="ninhbinh" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/pL4NqYO.png",NTV | TH Ninh Bình
+https://freem3u.xyz/api/live/play.m3u8?vid=75
+#EXTINF:-1 group-title="DAKLAKIPTV",80
+https://freem3u.xyz/api/live/play.m3u8?vid=80
+#EXTINF:-1 group-title="DAKLAKIPTV",81
+https://freem3u.xyz/api/live/play.m3u8?vid=81
+#EXTINF:-1 group-title="DAKLAKIPTV",82
+https://freem3u.xyz/api/live/play.m3u8?vid=82
+#EXTINF:-1 group-title="DAKLAKIPTV",83
+https://freem3u.xyz/api/live/play.m3u8?vid=83
+#EXTINF:-1 group-title="DAKLAKIPTV",84
+https://freem3u.xyz/api/live/play.m3u8?vid=84
+#EXTINF:-1 group-title="DAKLAKIPTV",85
+https://freem3u.xyz/api/live/play.m3u8?vid=85
+#EXTINF:-1 tvg-id="tayninh2" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV2 | TH Tây Ninh 2
+https://freem3u.xyz/api/live/play.m3u8?vid=86
+#EXTINF:-1 group-title="DAKLAKIPTV",85
+https://freem3u.xyz/api/live/play.m3u8?vid=85
+#EXTINF:-1 group-title="DAKLAKIPTV",88
+https://freem3u.xyz/api/live/play.m3u8?vid=88
+#EXTINF:-1 group-title="DAKLAKIPTV",89
+https://freem3u.xyz/api/live/play.m3u8?vid=89
+#EXTINF:-1 group-title="DAKLAKIPTV",90
+https://freem3u.xyz/api/live/play.m3u8?vid=90
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="DAKLAKIPTV" tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/THVL5.jpg?raw=true",THVL5
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 group-title="DAKLAKIPTV",96
+https://freem3u.xyz/api/live/play.m3u8?vid=96
+#EXTINF:-1 group-title="DAKLAKIPTV",99
+https://freem3u.xyz/api/live/play.m3u8?vid=99
+#EXTINF:-1 group-title="DAKLAKIPTV",134
+https://freem3u.xyz/api/live/play.m3u8?vid=134
+#EXTINF:-1 tvg-id="ono2tv" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="oncine" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/6f9ngwY.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="onviedramas" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="onbibi" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}",ON BiBi
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-id="onkids" group-title="DAKLAKIPTV" tvg-logo="https://i.ibb.co/mq65M0Y/On-kids.jpg",ON KIDS
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="onmovies" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/765Y3jw.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON Movies 
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="onechannel" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON E Channel 
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="onstyle" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}",ON Style TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="onmusic" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/45BXPY3.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}",ON Music 
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="ontrending" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.ibb.co/QXk7C6G/On-life.jpg",On Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/jp57P0v.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}",ON Info TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 group-title="DAKLAKIPTV",190
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 group-title="DAKLAKIPTV",191
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 group-title="DAKLAKIPTV",192
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 group-title="DAKLAKIPTV",193
+https://freem3u.xyz/api/live/play.m3u8?vid=193
+#EXTINF:-1 group-title="DAKLAKIPTV",194
+https://freem3u.xyz/api/live/play.m3u8?vid=194
+#EXTINF:-1 tvg-id="sctv2hd" group-title="DAKLAKIPTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 group-title="DAKLAKIPTV",202
+https://freem3u.xyz/api/live/play.m3u8?vid=202
+#EXTINF:-1 tvg-id="dongnai2" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐN2 | TH Đồng Nai 2
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+
 ################################################
 
 
@@ -9856,6 +9867,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6242/manifest.m3u8
 http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
 
 
+#EXTINF:0 group-title="私密頻道 ADULT" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png" tvg-rec="0",SexArt
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
 
 
 
@@ -9901,7 +9914,7 @@ http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6165/index.m3u8
 ################################################
 http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/2475/index.m3u8
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
-
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
 
 
 
