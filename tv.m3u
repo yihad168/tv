@@ -19,38 +19,6 @@ https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK G HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK E HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",NTV HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo.svg/1049px-Fuji_Television_logo_2025.svg.png",Fuji TV HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo.svg/2560px-TV_Asahi_logo_2025.svg.png",TV Asahi HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",TV Tokyo HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX1 HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=hdgd08
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK G (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK E (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",NTV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Television_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png",Fuji TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png",TV Asahi (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",TV Tokyo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX1 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=gd08
 
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS
@@ -98,50 +66,7 @@ https://nl.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp_2025.svg",Sky A
 https://nl.utako.moe/skya/index.m3u8
 
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs11
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/2560px-BS4_logo_2025.svg.png",BS NTV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs02
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2025/06/oglogo.jpg",BS Asahi (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs03
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2025.svg/1920px-BS-TBS_2025.svg.png",BS TBS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs04
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2025.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2025.svg.png",BS TV Tokyo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs05
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2025Symbol.svg/1280px-BSFuji2025Symbol.svg.png",BS Fuji (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs06
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2025_logo.svg/1920px-NHK_BSP4K_2025_logo.svg.png",NHK BS4K (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs01
-#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime_2025.png",WOWOW Prime (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs12
-#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema_2025.png",WOWOW Cinema (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs07
-#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live_2025.png",WOWOW Live (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs20
-#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-premium-jp.png",BS 10 Premium (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs08
-#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo_2025.jpg",JSport 1 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs18
-#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo_2025.jpg",JSport 2 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs19
-#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo_2025.jpg",JSport 3 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs21
-#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo_2025.jpg",JSport 4 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs22
-#EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.svg",Green Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs14
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1920px-Animax_2025.svg.png",Animax (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs15
-#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon_2025.png",Nihon Eiga Senmon (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs23
-#EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp_2025.svg",Sky A (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs01
-#EXTINF:-1 group-title="BS" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision_2025.png", Fishing Vision (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs25
-#EXTINF:-1 group-title="BS" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2025_Disney_Channel_logo.svg/250px-2025_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs24 
-#EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jcom_bs_2025.png", Jcom BS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
+
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp_2025.svg",Gaora Sports
 https://nl.utako.moe/gaora/index.m3u8
@@ -206,67 +131,6 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp_2025.png",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
-#EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki_2025.png", Jidaigeki Senmon (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs04
-#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel_2025.png", Toei Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs27
-#EXTINF:-1 group-title="CS" tvg-id="eisei_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo_2025.png", Eisei Gekijo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs22
-#EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp_2025.png", Family Gekijyo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs20
-#EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp_2025.png", Movie Plus (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs14
-#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp_2025.png", Home Drama Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs05
-#EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel_2025.png", Tabi Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs12
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next_2025.png", Fuji TV Next (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs26
-#EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp_2025.png", Sky A  (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs01
-#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp_2025.png", Gaora Sports (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs17
-#EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp_2025.png", Golf Network (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs03
-#EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp_2025.png", NTV G+ (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs02
-#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png", Mondo TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs21
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png", Channel Ginga (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
-#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV_2025.png", Space Shower TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=bs26
-#EXTINF:-1 group-title="CS" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv_2025.png", Music Japan TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs06
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.png", Kayo Pops (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs13
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2025_%28brand_version%29.svg/240px-MTV_2025_%28brand_version%29.svg.png", MTV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs18
-#EXTINF:-1 group-title="CS" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv_2025.png", LaLa TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs19
-#EXTINF:-1 group-title="CS" tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
-#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation_2025.png", Kids Staton TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs07
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us_2025.svg", Cartoon Network (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs25
-#EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us_2025.svg", National Geographic Japan (Primehome) 
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs10
-#EXTINF:-1 group-title="CS" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us_2025.png", Disney Junior (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs23
-#EXTINF:-1 group-title="CS" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us_2025.png", Discovery Channel (Primehome)  
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs08
-#EXTINF:-1 group-title="CS" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us_2025.svg", Animal Planet (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs24
-#EXTINF:-1 group-title="CS" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us_2025.svg", History (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs09
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us_2025.svg", CNNj (Primehome) 
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs16
-#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident_2025.svg", BBC News (Primehome)  
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs15
-#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp_2025.png", TBS News (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=8&id=cs11
-
 
 
 
@@ -276,683 +140,677 @@ https://github.com/TvJapan/iptv-jp/blob/main/jp_relay.m3u
 
 
 
-
-
 ################################################
 
 
 
 
+#EXTINF:-1 group-title="台灣綜合頻道",==123.51.229.128源==
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom19
+#EXTINF:-1 group-title="台灣綜合頻道",台視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1047
+#EXTINF:-1 group-title="台灣綜合頻道",中視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1048
+#EXTINF:-1 group-title="台灣綜合頻道",華視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1049
+#EXTINF:-1 group-title="台灣綜合頻道",民視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1050
+#EXTINF:-1 group-title="台灣綜合頻道",公視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1201
+#EXTINF:-1 group-title="台灣綜合頻道",人間衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1198
+#EXTINF:-1 group-title="台灣綜合頻道",大愛電視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1216
+#EXTINF:-1 group-title="台灣綜合頻道",好消息頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1231
+#EXTINF:-1 group-title="台灣綜合頻道",Trace Sport Stars
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1003
+#EXTINF:-1 group-title="台灣綜合頻道",DISCOVERY
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1002
+#EXTINF:-1 group-title="台灣綜合頻道",旅遊生活
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1005
+#EXTINF:-1 group-title="台灣綜合頻道",動物星球
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1004
+#EXTINF:-1 group-title="台灣綜合頻道",亞洲旅遊
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1219
+#EXTINF:-1 group-title="台灣綜合頻道",momo親子台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1007
+#EXTINF:-1 group-title="台灣綜合頻道",東森幼幼HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1008
+#EXTINF:-1 group-title="台灣綜合頻道",ANIMAX 卡通動畫頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1060
+#EXTINF:-1 group-title="台灣綜合頻道",龍華卡通台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom29
+#EXTINF:-1 group-title="台灣綜合頻道",緯來綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1044
+#EXTINF:-1 group-title="台灣綜合頻道",八大第一HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1043
+#EXTINF:-1 group-title="台灣綜合頻道",八大綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1019
+#EXTINF:-1 group-title="台灣綜合頻道",三立台灣HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1021
+#EXTINF:-1 group-title="台灣綜合頻道",三立都會HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1020
+#EXTINF:-1 group-title="台灣綜合頻道",韓國娛樂台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1024
+#EXTINF:-1 group-title="台灣綜合頻道",東森綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1041
+#EXTINF:-1 group-title="台灣綜合頻道",超視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1180
+#EXTINF:-1 group-title="台灣綜合頻道",中天綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1022
+#EXTINF:-1 group-title="台灣綜合頻道",中天娛樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1023
+#EXTINF:-1 group-title="台灣綜合頻道",東風衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1195
+#EXTINF:-1 group-title="台灣綜合頻道",MUCH TV
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1189
+#EXTINF:-1 group-title="台灣綜合頻道",東森戲劇HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1042
+#EXTINF:-1 group-title="台灣綜合頻道",八大戲劇HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1057
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS歡樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1018
+#EXTINF:-1 group-title="台灣綜合頻道",緯來戲劇
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1186
+#EXTINF:-1 group-title="台灣綜合頻道",龍華戲劇台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1009
+#EXTINF:-1 group-title="台灣綜合頻道",龍華日韓劇
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1010
+#EXTINF:-1 group-title="台灣綜合頻道",龍華偶像劇
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1235
+#EXTINF:-1 group-title="台灣綜合頻道",緯來日本HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1026
+#EXTINF:-1 group-title="台灣綜合頻道",Taiwan Plus
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1238
+#EXTINF:-1 group-title="台灣綜合頻道",年代新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1192
+#EXTINF:-1 group-title="台灣綜合頻道",東森新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1014
+#EXTINF:-1 group-title="台灣綜合頻道",中天新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1015
+#EXTINF:-1 group-title="台灣綜合頻道",民視新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1204
+#EXTINF:-1 group-title="台灣綜合頻道",三立新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1016
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1051
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1254
+#EXTINF:-1 group-title="台灣綜合頻道",非凡新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1013
+#EXTINF:-1 group-title="台灣綜合頻道",非凡商業
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1012
+#EXTINF:-1 group-title="台灣綜合頻道",東森財經HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1017
+#EXTINF:-1 group-title="台灣綜合頻道",寰宇新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1222
+#EXTINF:-1 group-title="台灣綜合頻道",壹新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1242
+#EXTINF:-1 group-title="台灣綜合頻道",CNBC
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1063
+#EXTINF:-1 group-title="台灣綜合頻道",Bloomberg News
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1066
+#EXTINF:-1 group-title="台灣綜合頻道",NHK世界HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1027
+#EXTINF:-1 group-title="台灣綜合頻道",鏡電視新聞台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1031
+#EXTINF:-1 group-title="台灣綜合頻道",好萊塢電影HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1025
+#EXTINF:-1 group-title="台灣綜合頻道",緯來電影HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1183
+#EXTINF:-1 group-title="台灣綜合頻道",龍華電影台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1245
+#EXTINF:-1 group-title="台灣綜合頻道",HBO
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1029
+#EXTINF:-1 group-title="台灣綜合頻道",AXN
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1054
+#EXTINF:-1 group-title="台灣綜合頻道",CINEMAX HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1030
+#EXTINF:-1 group-title="台灣綜合頻道",AMC 電影台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1032
+#EXTINF:-1 group-title="台灣綜合頻道",寵物頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1040
+#EXTINF:-1 group-title="台灣綜合頻道",緯來育樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1045
+#EXTINF:-1 group-title="台灣綜合頻道",緯來體育HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1011
+#EXTINF:-1 group-title="台灣綜合頻道",博斯運動一
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1225
+#EXTINF:-1 group-title="台灣綜合頻道",momo 綜合台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1248
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 1
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1069
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 2
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1072
+#EXTINF:-1 group-title="台灣綜合頻道",廈門衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1033
+#EXTINF:-1 group-title="台灣綜合頻道",CCTV4-中央衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1034
+#EXTINF:-1 group-title="台灣綜合頻道",海峽衛視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1035
+#EXTINF:-1 group-title="台灣綜合頻道",浙江衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1036
+#EXTINF:-1 group-title="台灣綜合頻道",東方衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1037
+#EXTINF:-1 group-title="台灣綜合頻道",湖南衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1038
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視資訊
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1210
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視中文
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1213
+#EXTINF:-1 group-title="台灣綜合頻道",國家地理
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1257
+#EXTINF:-1 group-title="台灣綜合頻道",衛視電影
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1260
+#EXTINF:-1 group-title="台灣綜合頻道",STAR MOVIES GOLD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1263
+#EXTINF:-1 group-title="台灣綜合頻道",Star World
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1266
 
 
 
-################################################
+#EXTINF:-1 group-title="台灣綜合頻道",==123.51.149.68==
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom19
+#EXTINF:-1 group-title="台灣綜合頻道",台視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1047
+#EXTINF:-1 group-title="台灣綜合頻道",中視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1048
+#EXTINF:-1 group-title="台灣綜合頻道",華視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1049
+#EXTINF:-1 group-title="台灣綜合頻道",民視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1050
+#EXTINF:-1 group-title="台灣綜合頻道",公視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1201
+#EXTINF:-1 group-title="台灣綜合頻道",人間衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1198
+#EXTINF:-1 group-title="台灣綜合頻道",大愛電視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1216
+#EXTINF:-1 group-title="台灣綜合頻道",好消息頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1231
+#EXTINF:-1 group-title="台灣綜合頻道",Trace Sport Stars
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1003
+#EXTINF:-1 group-title="台灣綜合頻道",DISCOVERY
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1002
+#EXTINF:-1 group-title="台灣綜合頻道",旅遊生活
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1005
+#EXTINF:-1 group-title="台灣綜合頻道",動物星球
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1004
+#EXTINF:-1 group-title="台灣綜合頻道",亞洲旅遊
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1219
+#EXTINF:-1 group-title="台灣綜合頻道",momo親子台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1007
+#EXTINF:-1 group-title="台灣綜合頻道",東森幼幼HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1008
+#EXTINF:-1 group-title="台灣綜合頻道",ANIMAX 卡通動畫頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1060
+#EXTINF:-1 group-title="台灣綜合頻道",龍華卡通台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom29
+#EXTINF:-1 group-title="台灣綜合頻道",緯來綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1044
+#EXTINF:-1 group-title="台灣綜合頻道",八大第一HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1043
+#EXTINF:-1 group-title="台灣綜合頻道",八大綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1019
+#EXTINF:-1 group-title="台灣綜合頻道",三立台灣HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1021
+#EXTINF:-1 group-title="台灣綜合頻道",三立都會HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1020
+#EXTINF:-1 group-title="台灣綜合頻道",韓國娛樂台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1024
+#EXTINF:-1 group-title="台灣綜合頻道",東森綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1041
+#EXTINF:-1 group-title="台灣綜合頻道",超視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1180
+#EXTINF:-1 group-title="台灣綜合頻道",中天綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1022
+#EXTINF:-1 group-title="台灣綜合頻道",中天娛樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1023
+#EXTINF:-1 group-title="台灣綜合頻道",東風衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1195
+#EXTINF:-1 group-title="台灣綜合頻道",MUCH TV
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1189
+#EXTINF:-1 group-title="台灣綜合頻道",東森戲劇HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1042
+#EXTINF:-1 group-title="台灣綜合頻道",八大戲劇HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1057
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS歡樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1018
+#EXTINF:-1 group-title="台灣綜合頻道",緯來戲劇
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1186
+#EXTINF:-1 group-title="台灣綜合頻道",龍華戲劇台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1009
+#EXTINF:-1 group-title="台灣綜合頻道",龍華日韓劇
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1010
+#EXTINF:-1 group-title="台灣綜合頻道",龍華偶像劇
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1235
+#EXTINF:-1 group-title="台灣綜合頻道",緯來日本HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1026
+#EXTINF:-1 group-title="台灣綜合頻道",Taiwan Plus
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1238
+#EXTINF:-1 group-title="台灣綜合頻道",年代新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1192
+#EXTINF:-1 group-title="台灣綜合頻道",東森新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1014
+#EXTINF:-1 group-title="台灣綜合頻道",中天新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1015
+#EXTINF:-1 group-title="台灣綜合頻道",民視新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1204
+#EXTINF:-1 group-title="台灣綜合頻道",三立新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1016
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1051
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1251
+#EXTINF:-1 group-title="台灣綜合頻道",非凡新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1013
+#EXTINF:-1 group-title="台灣綜合頻道",非凡商業
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1012
+#EXTINF:-1 group-title="台灣綜合頻道",東森財經HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1017
+#EXTINF:-1 group-title="台灣綜合頻道",寰宇新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1222
+#EXTINF:-1 group-title="台灣綜合頻道",壹新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1242
+#EXTINF:-1 group-title="台灣綜合頻道",CNBC
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1063
+#EXTINF:-1 group-title="台灣綜合頻道",Bloomberg News
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1066
+#EXTINF:-1 group-title="台灣綜合頻道",NHK世界HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1027
+#EXTINF:-1 group-title="台灣綜合頻道",鏡電視新聞台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1031
+#EXTINF:-1 group-title="台灣綜合頻道",好萊塢電影HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1025
+#EXTINF:-1 group-title="台灣綜合頻道",緯來電影HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1183
+#EXTINF:-1 group-title="台灣綜合頻道",龍華電影台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1245
+#EXTINF:-1 group-title="台灣綜合頻道",HBO
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1029
+#EXTINF:-1 group-title="台灣綜合頻道",AXN
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1054
+#EXTINF:-1 group-title="台灣綜合頻道",CINEMAX HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1030
+#EXTINF:-1 group-title="台灣綜合頻道",AMC 電影台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1032
+#EXTINF:-1 group-title="台灣綜合頻道",寵物頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1040
+#EXTINF:-1 group-title="台灣綜合頻道",緯來育樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1045
+#EXTINF:-1 group-title="台灣綜合頻道",緯來體育HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1011
+#EXTINF:-1 group-title="台灣綜合頻道",博斯運動一
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1225
+#EXTINF:-1 group-title="台灣綜合頻道",momo 綜合台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1248
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 1
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1069
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 2
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1072
+#EXTINF:-1 group-title="台灣綜合頻道",廈門衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1033
+#EXTINF:-1 group-title="台灣綜合頻道",CCTV4-中央衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1034
+#EXTINF:-1 group-title="台灣綜合頻道",海峽衛視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1035
+#EXTINF:-1 group-title="台灣綜合頻道",浙江衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1036
+#EXTINF:-1 group-title="台灣綜合頻道",東方衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1037
+#EXTINF:-1 group-title="台灣綜合頻道",湖南衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1038
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視資訊
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1210
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視中文
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1213
+#EXTINF:-1 group-title="台灣綜合頻道",探索世界頻道 
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1257
+#EXTINF:-1 group-title="台灣綜合頻道",華藝中文台
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1266
+#EXTINF:-1 group-title="台灣綜合頻道",愛自然頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1263
+#EXTINF:-1 group-title="台灣綜合頻道",搖滾娛樂頻道 
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1260
+#EXTINF:-1 group-title="台灣綜合頻道",搖滾電影頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1254
+#EXTINF:-1 group-title="台灣綜合頻道",DreamWorks
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1269
+#EXTINF:-1 group-title="台灣綜合頻道",MTV Live音樂頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1272
 
 
 
-飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom19
-#EXTINF:-1 group-title="秒開藍山1",台視HD
+#EXTINF:-1 group-title="台灣綜合頻道",==61.216.26.165==
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=custom19
+#EXTINF:-1 group-title="台灣綜合頻道",台視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1047
+#EXTINF:-1 group-title="台灣綜合頻道",中視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1048
+#EXTINF:-1 group-title="台灣綜合頻道",華視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1049
+#EXTINF:-1 group-title="台灣綜合頻道",民視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1050
+#EXTINF:-1 group-title="台灣綜合頻道",公視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1201
+#EXTINF:-1 group-title="台灣綜合頻道",人間衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1198
+#EXTINF:-1 group-title="台灣綜合頻道",大愛電視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1216
+#EXTINF:-1 group-title="台灣綜合頻道",Trace Sport Stars
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1003
+#EXTINF:-1 group-title="台灣綜合頻道",DISCOVERY
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1002
+#EXTINF:-1 group-title="台灣綜合頻道",旅遊生活
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1005
+#EXTINF:-1 group-title="台灣綜合頻道",動物星球
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1004
+#EXTINF:-1 group-title="台灣綜合頻道",momo親子台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1007
+#EXTINF:-1 group-title="台灣綜合頻道",東森幼幼HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1008
+#EXTINF:-1 group-title="台灣綜合頻道",緯來綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1044
+#EXTINF:-1 group-title="台灣綜合頻道",八大第一HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1043
+#EXTINF:-1 group-title="台灣綜合頻道",八大綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1019
+#EXTINF:-1 group-title="台灣綜合頻道",三立台灣HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1021
+#EXTINF:-1 group-title="台灣綜合頻道",三立都會HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1020
+#EXTINF:-1 group-title="台灣綜合頻道",韓國娛樂台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1024
+#EXTINF:-1 group-title="台灣綜合頻道",超視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1180
+#EXTINF:-1 group-title="台灣綜合頻道",中天綜合HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1022
+#EXTINF:-1 group-title="台灣綜合頻道",中天娛樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1023
+#EXTINF:-1 group-title="台灣綜合頻道",MUCH TV
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2002
+#EXTINF:-1 group-title="台灣綜合頻道",東森戲劇HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1042
+#EXTINF:-1 group-title="台灣綜合頻道",八大戲劇HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1057
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS歡樂HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1018
+#EXTINF:-1 group-title="台灣綜合頻道",Taiwan Plus
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1238
+#EXTINF:-1 group-title="台灣綜合頻道",年代新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1192
+#EXTINF:-1 group-title="台灣綜合頻道",東森新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1014
+#EXTINF:-1 group-title="台灣綜合頻道",中天新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1015
+#EXTINF:-1 group-title="台灣綜合頻道",三立新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1016
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS新聞HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1080
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1081
+#EXTINF:-1 group-title="台灣綜合頻道",東森財經HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1017
+#EXTINF:-1 group-title="台灣綜合頻道",寰宇新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1222
+#EXTINF:-1 group-title="台灣綜合頻道",壹新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1242
+#EXTINF:-1 group-title="台灣綜合頻道",CNBC
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1063
+#EXTINF:-1 group-title="台灣綜合頻道",Bloomberg News
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1066
+#EXTINF:-1 group-title="台灣綜合頻道",NHK世界HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1228
+#EXTINF:-1 group-title="台灣綜合頻道",鏡電視新聞台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1031
+#EXTINF:-1 group-title="台灣綜合頻道",HBO
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1029
+#EXTINF:-1 group-title="台灣綜合頻道",AXN
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1054
+#EXTINF:-1 group-title="台灣綜合頻道",CINEMAX HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1030
+#EXTINF:-1 group-title="台灣綜合頻道",AMC 電影台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1032
+#EXTINF:-1 group-title="台灣綜合頻道",寵物頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1040
+#EXTINF:-1 group-title="台灣綜合頻道",博斯運動一
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1225
+#EXTINF:-1 group-title="台灣綜合頻道",momo 綜合台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1248
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 1
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1069
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 2
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1072
+#EXTINF:-1 group-title="台灣綜合頻道",廈門衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1033
+#EXTINF:-1 group-title="台灣綜合頻道",CCTV4-中央衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1034
+#EXTINF:-1 group-title="台灣綜合頻道",海峽衛視HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1035
+#EXTINF:-1 group-title="台灣綜合頻道",浙江衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1036
+#EXTINF:-1 group-title="台灣綜合頻道",東方衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1037
+#EXTINF:-1 group-title="台灣綜合頻道",湖南衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1038
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視資訊
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1210
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視中文
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1213
+#EXTINF:-1 group-title="台灣綜合頻道",寵物頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2024
+#EXTINF:-1 group-title="台灣綜合頻道",AMC 電影台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2023
+#EXTINF:-1 group-title="台灣綜合頻道",Trace Sport Stars
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2025
+#EXTINF:-1 group-title="台灣綜合頻道",韓國娛樂台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2021
+#EXTINF:-1 group-title="台灣綜合頻道",鏡電視新聞台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2022
+#EXTINF:-1 group-title="台灣綜合頻道",三立台灣
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1061
+#EXTINF:-1 group-title="台灣綜合頻道",年代新聞台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1077
+#EXTINF:-1 group-title="台灣綜合頻道",三立新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1079
+#EXTINF:-1 group-title="台灣綜合頻道",尼克兒童頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1139
+#EXTINF:-1 group-title="台灣綜合頻道",nickjr.小尼克
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1138
+#EXTINF:-1 group-title="台灣綜合頻道",MTV Live音樂頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1140
+#EXTINF:-1 group-title="台灣綜合頻道",達文西頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1136
+#EXTINF:-1 group-title="台灣綜合頻道",寵物頻道 
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1137
+#EXTINF:-1 group-title="台灣綜合頻道",DreamWorks
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2892
+#EXTINF:-1 group-title="台灣綜合頻道",國家地理HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2890
+#EXTINF:-1 group-title="台灣綜合頻道",搖滾電影頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2894
+#EXTINF:-1 group-title="台灣綜合頻道",探索世界頻道
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2895
+#EXTINF:-1 group-title="台灣綜合頻道",搖滾娛樂頻道 
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2896
+#EXTINF:-1 group-title="台灣綜合頻道",愛自然頻道 
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2897
+#EXTINF:-1 group-title="台灣綜合頻道",華藝中文台
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2898
+#EXTINF:-1 group-title="台灣綜合頻道",緯來體育
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2899
+#EXTINF:-1 group-title="台灣綜合頻道",民視新聞
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2900
+#EXTINF:-1 group-title="台灣綜合頻道",緯來日本HD
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2901
+#EXTINF:-1 group-title="台灣綜合頻道",東風衛視
+http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2902
+
+
+
+
+#EXTINF:-1 group-title="台灣綜合頻道",==60.250.121.103==
+http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom19
+#EXTINF:-1 group-title="台灣綜合頻道",台視HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1047
-#EXTINF:-1 group-title="秒開藍山1",中視HD
+#EXTINF:-1 group-title="台灣綜合頻道",中視HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1048
-#EXTINF:-1 group-title="秒開藍山1",華視HD
+#EXTINF:-1 group-title="台灣綜合頻道",華視HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1049
-#EXTINF:-1 group-title="秒開藍山1",民視HD
+#EXTINF:-1 group-title="台灣綜合頻道",民視HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1050
-#EXTINF:-1 group-title="秒開藍山1",公視
+#EXTINF:-1 group-title="台灣綜合頻道",公視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1201
-#EXTINF:-1 group-title="秒開藍山1",人間衛視
+#EXTINF:-1 group-title="台灣綜合頻道",人間衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1198
-#EXTINF:-1 group-title="秒開藍山1",大愛電視
+#EXTINF:-1 group-title="台灣綜合頻道",大愛電視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1216
-#EXTINF:-1 group-title="秒開藍山1",好消息頻道
+#EXTINF:-1 group-title="台灣綜合頻道",好消息頻道
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1231
-#EXTINF:-1 group-title="秒開藍山1",Trace Sport Stars
+#EXTINF:-1 group-title="台灣綜合頻道",Trace Sport Stars
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1003
-#EXTINF:-1 group-title="秒開藍山1",DISCOVERY
+#EXTINF:-1 group-title="台灣綜合頻道",DISCOVERY
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1002
-#EXTINF:-1 group-title="秒開藍山1",旅遊生活
+#EXTINF:-1 group-title="台灣綜合頻道",旅遊生活
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1005
-#EXTINF:-1 group-title="秒開藍山1",動物星球
+#EXTINF:-1 group-title="台灣綜合頻道",動物星球
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1004
-#EXTINF:-1 group-title="秒開藍山1",亞洲旅遊
+#EXTINF:-1 group-title="台灣綜合頻道",亞洲旅遊
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1219
-#EXTINF:-1 group-title="秒開藍山1",momo親子台
+#EXTINF:-1 group-title="台灣綜合頻道",momo親子台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1007
-#EXTINF:-1 group-title="秒開藍山1",東森幼幼HD
+#EXTINF:-1 group-title="台灣綜合頻道",東森幼幼HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1008
-#EXTINF:-1 group-title="秒開藍山1",ANIMAX 卡通動畫頻道
+#EXTINF:-1 group-title="台灣綜合頻道",ANIMAX 卡通動畫頻道
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1060
-#EXTINF:-1 group-title="秒開藍山1",龍華卡通台
+#EXTINF:-1 group-title="台灣綜合頻道",龍華卡通台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom29
-#EXTINF:-1 group-title="秒開藍山1",緯來綜合HD
+#EXTINF:-1 group-title="台灣綜合頻道",緯來綜合HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1044
-#EXTINF:-1 group-title="秒開藍山1",八大第一HD
+#EXTINF:-1 group-title="台灣綜合頻道",八大第一HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1043
-#EXTINF:-1 group-title="秒開藍山1",八大綜合HD
+#EXTINF:-1 group-title="台灣綜合頻道",八大綜合HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1019
-#EXTINF:-1 group-title="秒開藍山1",三立台灣HD
+#EXTINF:-1 group-title="台灣綜合頻道",三立台灣HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1021
-#EXTINF:-1 group-title="秒開藍山1",三立都會HD
+#EXTINF:-1 group-title="台灣綜合頻道",三立都會HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1020
-#EXTINF:-1 group-title="秒開藍山1",韓國娛樂台
+#EXTINF:-1 group-title="台灣綜合頻道",韓國娛樂台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1024
-#EXTINF:-1 group-title="秒開藍山1",東森綜合HD
+#EXTINF:-1 group-title="台灣綜合頻道",東森綜合HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1041
-#EXTINF:-1 group-title="秒開藍山1",超視HD
+#EXTINF:-1 group-title="台灣綜合頻道",超視HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1180
-#EXTINF:-1 group-title="秒開藍山1",中天綜合HD
+#EXTINF:-1 group-title="台灣綜合頻道",中天綜合HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1022
-#EXTINF:-1 group-title="秒開藍山1",中天娛樂HD
+#EXTINF:-1 group-title="台灣綜合頻道",中天娛樂HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1023
-#EXTINF:-1 group-title="秒開藍山1",東風衛視
+#EXTINF:-1 group-title="台灣綜合頻道",東風衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1195
-#EXTINF:-1 group-title="秒開藍山1",MUCH TV
+#EXTINF:-1 group-title="台灣綜合頻道",MUCH TV
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1189
-#EXTINF:-1 group-title="秒開藍山1",東森戲劇HD
+#EXTINF:-1 group-title="台灣綜合頻道",東森戲劇HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1042
-#EXTINF:-1 group-title="秒開藍山1",八大戲劇HD
+#EXTINF:-1 group-title="台灣綜合頻道",八大戲劇HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1057
-#EXTINF:-1 group-title="秒開藍山1",TVBS歡樂HD
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS歡樂HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1018
-#EXTINF:-1 group-title="秒開藍山1",緯來戲劇
+#EXTINF:-1 group-title="台灣綜合頻道",緯來戲劇
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1186
-#EXTINF:-1 group-title="秒開藍山1",龍華戲劇台
+#EXTINF:-1 group-title="台灣綜合頻道",龍華戲劇台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1009
-#EXTINF:-1 group-title="秒開藍山1",龍華日韓劇
+#EXTINF:-1 group-title="台灣綜合頻道",龍華日韓劇
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1010
-#EXTINF:-1 group-title="秒開藍山1",龍華偶像劇
+#EXTINF:-1 group-title="台灣綜合頻道",龍華偶像劇
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1235
-#EXTINF:-1 group-title="秒開藍山1",緯來日本HD
+#EXTINF:-1 group-title="台灣綜合頻道",緯來日本HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1026
-#EXTINF:-1 group-title="秒開藍山1",Taiwan Plus
+#EXTINF:-1 group-title="台灣綜合頻道",Taiwan Plus
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1238
-#EXTINF:-1 group-title="秒開藍山1",年代新聞
+#EXTINF:-1 group-title="台灣綜合頻道",年代新聞
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1192
-#EXTINF:-1 group-title="秒開藍山1",東森新聞HD
+#EXTINF:-1 group-title="台灣綜合頻道",東森新聞HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1014
-#EXTINF:-1 group-title="秒開藍山1",中天新聞HD
+#EXTINF:-1 group-title="台灣綜合頻道",中天新聞HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1015
-#EXTINF:-1 group-title="秒開藍山1",民視新聞
+#EXTINF:-1 group-title="台灣綜合頻道",民視新聞
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1204
-#EXTINF:-1 group-title="秒開藍山1",三立新聞HD
+#EXTINF:-1 group-title="台灣綜合頻道",三立新聞HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1016
-#EXTINF:-1 group-title="秒開藍山1",TVBS新聞HD
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS新聞HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1051
-#EXTINF:-1 group-title="秒開藍山1",TVBS HD
+#EXTINF:-1 group-title="台灣綜合頻道",TVBS HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1251
-#EXTINF:-1 group-title="秒開藍山1",非凡新聞
+#EXTINF:-1 group-title="台灣綜合頻道",非凡新聞
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1013
-#EXTINF:-1 group-title="秒開藍山1",非凡商業
+#EXTINF:-1 group-title="台灣綜合頻道",非凡商業
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1012
-#EXTINF:-1 group-title="秒開藍山1",東森財經HD
+#EXTINF:-1 group-title="台灣綜合頻道",東森財經HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1017
-#EXTINF:-1 group-title="秒開藍山1",寰宇新聞
+#EXTINF:-1 group-title="台灣綜合頻道",寰宇新聞
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1222
-#EXTINF:-1 group-title="秒開藍山1",壹新聞
+#EXTINF:-1 group-title="台灣綜合頻道",壹新聞
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1242
-#EXTINF:-1 group-title="秒開藍山1",CNBC
+#EXTINF:-1 group-title="台灣綜合頻道",CNBC
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1063
-#EXTINF:-1 group-title="秒開藍山1",Bloomberg News
+#EXTINF:-1 group-title="台灣綜合頻道",Bloomberg News
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1066
-#EXTINF:-1 group-title="秒開藍山1",NHK世界HD
+#EXTINF:-1 group-title="台灣綜合頻道",NHK世界HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1027
-#EXTINF:-1 group-title="秒開藍山1",鏡電視新聞台
+#EXTINF:-1 group-title="台灣綜合頻道",鏡電視新聞台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1031
-#EXTINF:-1 group-title="秒開藍山1",好萊塢電影HD
+#EXTINF:-1 group-title="台灣綜合頻道",好萊塢電影HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1025
-#EXTINF:-1 group-title="秒開藍山1",緯來電影HD
+#EXTINF:-1 group-title="台灣綜合頻道",緯來電影HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1183
-#EXTINF:-1 group-title="秒開藍山1",龍華電影台
+#EXTINF:-1 group-title="台灣綜合頻道",龍華電影台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1245
-#EXTINF:-1 group-title="秒開藍山1",HBO
+#EXTINF:-1 group-title="台灣綜合頻道",HBO
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1029
-#EXTINF:-1 group-title="秒開藍山1",AXN
+#EXTINF:-1 group-title="台灣綜合頻道",AXN
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1054
-#EXTINF:-1 group-title="秒開藍山1",CINEMAX HD
+#EXTINF:-1 group-title="台灣綜合頻道",CINEMAX HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1030
-#EXTINF:-1 group-title="秒開藍山1",AMC 電影台
+#EXTINF:-1 group-title="台灣綜合頻道",AMC 電影台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1032
-#EXTINF:-1 group-title="秒開藍山1",寵物頻道
+#EXTINF:-1 group-title="台灣綜合頻道",寵物頻道
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1040
-#EXTINF:-1 group-title="秒開藍山1",緯來育樂HD
+#EXTINF:-1 group-title="台灣綜合頻道",緯來育樂HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1045
-#EXTINF:-1 group-title="秒開藍山1",緯來體育HD
+#EXTINF:-1 group-title="台灣綜合頻道",緯來體育HD
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1011
-#EXTINF:-1 group-title="秒開藍山1",博斯運動一
+#EXTINF:-1 group-title="台灣綜合頻道",博斯運動一
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1225
-#EXTINF:-1 group-title="秒開藍山1",momo 綜合台
+#EXTINF:-1 group-title="台灣綜合頻道",momo 綜合台
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1248
-#EXTINF:-1 group-title="秒開藍山1",DAZN 1
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 1
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1069
-#EXTINF:-1 group-title="秒開藍山1",DAZN 2
+#EXTINF:-1 group-title="台灣綜合頻道",DAZN 2
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1072
-#EXTINF:-1 group-title="秒開藍山1",廈門衛視
+#EXTINF:-1 group-title="台灣綜合頻道",廈門衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1033
-#EXTINF:-1 group-title="秒開藍山1",CCTV4-中央衛視
+#EXTINF:-1 group-title="台灣綜合頻道",CCTV4-中央衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1034
-#EXTINF:-1 group-title="秒開藍山1",海峽衛視
+#EXTINF:-1 group-title="台灣綜合頻道",海峽衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1035
-#EXTINF:-1 group-title="秒開藍山1",浙江衛視
+#EXTINF:-1 group-title="台灣綜合頻道",浙江衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1036
-#EXTINF:-1 group-title="秒開藍山1",東方衛視
+#EXTINF:-1 group-title="台灣綜合頻道",東方衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1037
-#EXTINF:-1 group-title="秒開藍山1",湖南衛視
+#EXTINF:-1 group-title="台灣綜合頻道",湖南衛視
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1038
-#EXTINF:-1 group-title="秒開藍山1",鳯凰衛視資訊
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視資訊
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1210
-#EXTINF:-1 group-title="秒開藍山1",鳯凰衛視中文
+#EXTINF:-1 group-title="台灣綜合頻道",鳯凰衛視中文
 http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1213
 
 
 
 
 
-
-#EXTINF:-1 group-title="秒開灣灣2",飯店介紹-藍山大飯店
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom19
-#EXTINF:-1 group-title="秒開灣灣2",台視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1047
-#EXTINF:-1 group-title="秒開灣灣2",中視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1048
-#EXTINF:-1 group-title="秒開灣灣2",華視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1049
-#EXTINF:-1 group-title="秒開灣灣2",民視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1050
-#EXTINF:-1 group-title="秒開灣灣2",公視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1201
-#EXTINF:-1 group-title="秒開灣灣2",人間衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1198
-#EXTINF:-1 group-title="秒開灣灣2",大愛電視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1216
-#EXTINF:-1 group-title="秒開灣灣2",好消息頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1231
-#EXTINF:-1 group-title="秒開灣灣2",Trace Sport Stars
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1003
-#EXTINF:-1 group-title="秒開灣灣2",DISCOVERY
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1002
-#EXTINF:-1 group-title="秒開灣灣2",旅遊生活
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1005
-#EXTINF:-1 group-title="秒開灣灣2",動物星球
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1004
-#EXTINF:-1 group-title="秒開灣灣2",亞洲旅遊
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1219
-#EXTINF:-1 group-title="秒開灣灣2",momo親子台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1007
-#EXTINF:-1 group-title="秒開灣灣2",東森幼幼HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1008
-#EXTINF:-1 group-title="秒開灣灣2",ANIMAX 卡通動畫頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1060
-#EXTINF:-1 group-title="秒開灣灣2",龍華卡通台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom29
-#EXTINF:-1 group-title="秒開灣灣2",緯來綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1044
-#EXTINF:-1 group-title="秒開灣灣2",八大第一HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1043
-#EXTINF:-1 group-title="秒開灣灣2",八大綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1019
-#EXTINF:-1 group-title="秒開灣灣2",三立台灣HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1021
-#EXTINF:-1 group-title="秒開灣灣2",三立都會HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1020
-#EXTINF:-1 group-title="秒開灣灣2",韓國娛樂台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1024
-#EXTINF:-1 group-title="秒開灣灣2",東森綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1041
-#EXTINF:-1 group-title="秒開灣灣2",超視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1180
-#EXTINF:-1 group-title="秒開灣灣2",中天綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1022
-#EXTINF:-1 group-title="秒開灣灣2",中天娛樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1023
-#EXTINF:-1 group-title="秒開灣灣2",東風衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1195
-#EXTINF:-1 group-title="秒開灣灣2",MUCH TV
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1189
-#EXTINF:-1 group-title="秒開灣灣2",東森戲劇HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1042
-#EXTINF:-1 group-title="秒開灣灣2",八大戲劇HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1057
-#EXTINF:-1 group-title="秒開灣灣2",TVBS歡樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1018
-#EXTINF:-1 group-title="秒開灣灣2",緯來戲劇
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1186
-#EXTINF:-1 group-title="秒開灣灣2",龍華戲劇台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1009
-#EXTINF:-1 group-title="秒開灣灣2",龍華日韓劇
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1010
-#EXTINF:-1 group-title="秒開灣灣2",龍華偶像劇
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1235
-#EXTINF:-1 group-title="秒開灣灣2",緯來日本HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1026
-#EXTINF:-1 group-title="秒開灣灣2",Taiwan Plus
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1238
-#EXTINF:-1 group-title="秒開灣灣2",年代新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1192
-#EXTINF:-1 group-title="秒開灣灣2",東森新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1014
-#EXTINF:-1 group-title="秒開灣灣2",中天新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1015
-#EXTINF:-1 group-title="秒開灣灣2",民視新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1204
-#EXTINF:-1 group-title="秒開灣灣2",三立新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1016
-#EXTINF:-1 group-title="秒開灣灣2",TVBS新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1051
-#EXTINF:-1 group-title="秒開灣灣2",TVBS HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1254
-#EXTINF:-1 group-title="秒開灣灣2",非凡新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1013
-#EXTINF:-1 group-title="秒開灣灣2",非凡商業
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1012
-#EXTINF:-1 group-title="秒開灣灣2",東森財經HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1017
-#EXTINF:-1 group-title="秒開灣灣2",寰宇新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1222
-#EXTINF:-1 group-title="秒開灣灣2",壹新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1242
-#EXTINF:-1 group-title="秒開灣灣2",CNBC
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1063
-#EXTINF:-1 group-title="秒開灣灣2",Bloomberg News
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1066
-#EXTINF:-1 group-title="秒開灣灣2",NHK世界HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1027
-#EXTINF:-1 group-title="秒開灣灣2",鏡電視新聞台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1031
-#EXTINF:-1 group-title="秒開灣灣2",好萊塢電影HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1025
-#EXTINF:-1 group-title="秒開灣灣2",緯來電影HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1183
-#EXTINF:-1 group-title="秒開灣灣2",龍華電影台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1245
-#EXTINF:-1 group-title="秒開灣灣2",HBO
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1029
-#EXTINF:-1 group-title="秒開灣灣2",AXN
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1054
-#EXTINF:-1 group-title="秒開灣灣2",CINEMAX HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1030
-#EXTINF:-1 group-title="秒開灣灣2",AMC 電影台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1032
-#EXTINF:-1 group-title="秒開灣灣2",寵物頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1040
-#EXTINF:-1 group-title="秒開灣灣2",緯來育樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1045
-#EXTINF:-1 group-title="秒開灣灣2",緯來體育HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1011
-#EXTINF:-1 group-title="秒開灣灣2",博斯運動一
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1225
-#EXTINF:-1 group-title="秒開灣灣2",momo 綜合台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1248
-#EXTINF:-1 group-title="秒開灣灣2",DAZN 1
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1069
-#EXTINF:-1 group-title="秒開灣灣2",DAZN 2
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1072
-#EXTINF:-1 group-title="秒開灣灣2",廈門衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1033
-#EXTINF:-1 group-title="秒開灣灣2",CCTV4-中央衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1034
-#EXTINF:-1 group-title="秒開灣灣2",海峽衛視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1035
-#EXTINF:-1 group-title="秒開灣灣2",浙江衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1036
-#EXTINF:-1 group-title="秒開灣灣2",東方衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1037
-#EXTINF:-1 group-title="秒開灣灣2",湖南衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1038
-#EXTINF:-1 group-title="秒開灣灣2",鳯凰衛視資訊
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1210
-#EXTINF:-1 group-title="秒開灣灣2",鳯凰衛視中文
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1213
-#EXTINF:-1 group-title="秒開灣灣2",國家地理
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1257
-#EXTINF:-1 group-title="秒開灣灣2",衛視電影
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1260
-#EXTINF:-1 group-title="秒開灣灣2",STAR MOVIES GOLD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1263
-#EXTINF:-1 group-title="秒開灣灣2",Star World
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1266
-
-
-
-#EXTINF:-1 group-title="秒開灣灣3",飯店介紹-藍山大飯店
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom19
-#EXTINF:-1 group-title="秒開灣灣3",台視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1047
-#EXTINF:-1 group-title="秒開灣灣3",中視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1048
-#EXTINF:-1 group-title="秒開灣灣3",華視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1049
-#EXTINF:-1 group-title="秒開灣灣3",民視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1050
-#EXTINF:-1 group-title="秒開灣灣3",公視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1201
-#EXTINF:-1 group-title="秒開灣灣3",人間衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1198
-#EXTINF:-1 group-title="秒開灣灣3",大愛電視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1216
-#EXTINF:-1 group-title="秒開灣灣3",好消息頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1231
-#EXTINF:-1 group-title="秒開灣灣3",Trace Sport Stars
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1003
-#EXTINF:-1 group-title="秒開灣灣3",DISCOVERY
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1002
-#EXTINF:-1 group-title="秒開灣灣3",旅遊生活
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1005
-#EXTINF:-1 group-title="秒開灣灣3",動物星球
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1004
-#EXTINF:-1 group-title="秒開灣灣3",亞洲旅遊
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1219
-#EXTINF:-1 group-title="秒開灣灣3",momo親子台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1007
-#EXTINF:-1 group-title="秒開灣灣3",東森幼幼HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1008
-#EXTINF:-1 group-title="秒開灣灣3",ANIMAX 卡通動畫頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1060
-#EXTINF:-1 group-title="秒開灣灣3",龍華卡通台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom29
-#EXTINF:-1 group-title="秒開灣灣3",緯來綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1044
-#EXTINF:-1 group-title="秒開灣灣3",八大第一HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1043
-#EXTINF:-1 group-title="秒開灣灣3",八大綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1019
-#EXTINF:-1 group-title="秒開灣灣3",三立台灣HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1021
-#EXTINF:-1 group-title="秒開灣灣3",三立都會HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1020
-#EXTINF:-1 group-title="秒開灣灣3",韓國娛樂台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1024
-#EXTINF:-1 group-title="秒開灣灣3",東森綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1041
-#EXTINF:-1 group-title="秒開灣灣3",超視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1180
-#EXTINF:-1 group-title="秒開灣灣3",中天綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1022
-#EXTINF:-1 group-title="秒開灣灣3",中天娛樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1023
-#EXTINF:-1 group-title="秒開灣灣3",東風衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1195
-#EXTINF:-1 group-title="秒開灣灣3",MUCH TV
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1189
-#EXTINF:-1 group-title="秒開灣灣3",東森戲劇HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1042
-#EXTINF:-1 group-title="秒開灣灣3",八大戲劇HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1057
-#EXTINF:-1 group-title="秒開灣灣3",TVBS歡樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1018
-#EXTINF:-1 group-title="秒開灣灣3",緯來戲劇
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1186
-#EXTINF:-1 group-title="秒開灣灣3",龍華戲劇台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1009
-#EXTINF:-1 group-title="秒開灣灣3",龍華日韓劇
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1010
-#EXTINF:-1 group-title="秒開灣灣3",龍華偶像劇
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1235
-#EXTINF:-1 group-title="秒開灣灣3",緯來日本HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1026
-#EXTINF:-1 group-title="秒開灣灣3",Taiwan Plus
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1238
-#EXTINF:-1 group-title="秒開灣灣3",年代新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1192
-#EXTINF:-1 group-title="秒開灣灣3",東森新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1014
-#EXTINF:-1 group-title="秒開灣灣3",中天新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1015
-#EXTINF:-1 group-title="秒開灣灣3",民視新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1204
-#EXTINF:-1 group-title="秒開灣灣3",三立新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1016
-#EXTINF:-1 group-title="秒開灣灣3",TVBS新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1051
-#EXTINF:-1 group-title="秒開灣灣3",TVBS HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1251
-#EXTINF:-1 group-title="秒開灣灣3",非凡新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1013
-#EXTINF:-1 group-title="秒開灣灣3",非凡商業
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1012
-#EXTINF:-1 group-title="秒開灣灣3",東森財經HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1017
-#EXTINF:-1 group-title="秒開灣灣3",寰宇新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1222
-#EXTINF:-1 group-title="秒開灣灣3",壹新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1242
-#EXTINF:-1 group-title="秒開灣灣3",CNBC
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1063
-#EXTINF:-1 group-title="秒開灣灣3",Bloomberg News
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1066
-#EXTINF:-1 group-title="秒開灣灣3",NHK世界HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1027
-#EXTINF:-1 group-title="秒開灣灣3",鏡電視新聞台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1031
-#EXTINF:-1 group-title="秒開灣灣3",好萊塢電影HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1025
-#EXTINF:-1 group-title="秒開灣灣3",緯來電影HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1183
-#EXTINF:-1 group-title="秒開灣灣3",龍華電影台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1245
-#EXTINF:-1 group-title="秒開灣灣3",HBO
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1029
-#EXTINF:-1 group-title="秒開灣灣3",AXN
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1054
-#EXTINF:-1 group-title="秒開灣灣3",CINEMAX HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1030
-#EXTINF:-1 group-title="秒開灣灣3",AMC 電影台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1032
-#EXTINF:-1 group-title="秒開灣灣3",寵物頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1040
-#EXTINF:-1 group-title="秒開灣灣3",緯來育樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1045
-#EXTINF:-1 group-title="秒開灣灣3",緯來體育HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1011
-#EXTINF:-1 group-title="秒開灣灣3",博斯運動一
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1225
-#EXTINF:-1 group-title="秒開灣灣3",momo 綜合台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1248
-#EXTINF:-1 group-title="秒開灣灣3",DAZN 1
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1069
-#EXTINF:-1 group-title="秒開灣灣3",DAZN 2
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1072
-#EXTINF:-1 group-title="秒開灣灣3",廈門衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1033
-#EXTINF:-1 group-title="秒開灣灣3",CCTV4-中央衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1034
-#EXTINF:-1 group-title="秒開灣灣3",海峽衛視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1035
-#EXTINF:-1 group-title="秒開灣灣3",浙江衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1036
-#EXTINF:-1 group-title="秒開灣灣3",東方衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1037
-#EXTINF:-1 group-title="秒開灣灣3",湖南衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1038
-#EXTINF:-1 group-title="秒開灣灣3",鳯凰衛視資訊
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1210
-#EXTINF:-1 group-title="秒開灣灣3",鳯凰衛視中文
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1213
-#EXTINF:-1 group-title="秒開灣灣3",探索世界頻道 
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1257
-#EXTINF:-1 group-title="秒開灣灣3",華藝中文台
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1266
-#EXTINF:-1 group-title="秒開灣灣3",愛自然頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1263
-#EXTINF:-1 group-title="秒開灣灣3",搖滾娛樂頻道 
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1260
-#EXTINF:-1 group-title="秒開灣灣3",搖滾電影頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1254
-#EXTINF:-1 group-title="秒開灣灣3",DreamWorks
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1269
-#EXTINF:-1 group-title="秒開灣灣3",MTV Live音樂頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1272
-
-
-
-
-#EXTINF:-1 group-title="秒開灣灣4",台視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1047
-#EXTINF:-1 group-title="秒開灣灣4",中視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1048
-#EXTINF:-1 group-title="秒開灣灣4",華視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1049
-#EXTINF:-1 group-title="秒開灣灣4",民視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1050
-#EXTINF:-1 group-title="秒開灣灣4",公視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1201
-#EXTINF:-1 group-title="秒開灣灣4",人間衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1198
-#EXTINF:-1 group-title="秒開灣灣4",大愛電視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1216
-#EXTINF:-1 group-title="秒開灣灣4",Trace Sport Stars
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1003
-#EXTINF:-1 group-title="秒開灣灣4",DISCOVERY
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1002
-#EXTINF:-1 group-title="秒開灣灣4",旅遊生活
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1005
-#EXTINF:-1 group-title="秒開灣灣4",動物星球
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1004
-#EXTINF:-1 group-title="秒開灣灣4",momo親子台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1007
-#EXTINF:-1 group-title="秒開灣灣4",東森幼幼HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1008
-#EXTINF:-1 group-title="秒開灣灣4",緯來綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1044
-#EXTINF:-1 group-title="秒開灣灣4",八大第一HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1043
-#EXTINF:-1 group-title="秒開灣灣4",八大綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1019
-#EXTINF:-1 group-title="秒開灣灣4",三立台灣HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1021
-#EXTINF:-1 group-title="秒開灣灣4",三立都會HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1020
-#EXTINF:-1 group-title="秒開灣灣4",韓國娛樂台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1024
-#EXTINF:-1 group-title="秒開灣灣4",超視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1180
-#EXTINF:-1 group-title="秒開灣灣4",中天綜合HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1022
-#EXTINF:-1 group-title="秒開灣灣4",中天娛樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1023
-#EXTINF:-1 group-title="秒開灣灣4",MUCH TV
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2002
-#EXTINF:-1 group-title="秒開灣灣4",東森戲劇HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1042
-#EXTINF:-1 group-title="秒開灣灣4",八大戲劇HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1057
-#EXTINF:-1 group-title="秒開灣灣4",TVBS歡樂HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1018
-#EXTINF:-1 group-title="秒開灣灣4",Taiwan Plus
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1238
-#EXTINF:-1 group-title="秒開灣灣4",年代新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1192
-#EXTINF:-1 group-title="秒開灣灣4",東森新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1014
-#EXTINF:-1 group-title="秒開灣灣4",中天新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1015
-#EXTINF:-1 group-title="秒開灣灣4",三立新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1016
-#EXTINF:-1 group-title="秒開灣灣4",TVBS新聞HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1080
-#EXTINF:-1 group-title="秒開灣灣4",TVBS
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1081
-#EXTINF:-1 group-title="秒開灣灣4",東森財經HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1017
-#EXTINF:-1 group-title="秒開灣灣4",寰宇新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1222
-#EXTINF:-1 group-title="秒開灣灣4",壹新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1242
-#EXTINF:-1 group-title="秒開灣灣4",CNBC
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1063
-#EXTINF:-1 group-title="秒開灣灣4",Bloomberg News
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1066
-#EXTINF:-1 group-title="秒開灣灣4",NHK世界HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1228
-#EXTINF:-1 group-title="秒開灣灣4",鏡電視新聞台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1031
-#EXTINF:-1 group-title="秒開灣灣4",HBO
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1029
-#EXTINF:-1 group-title="秒開灣灣4",AXN
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1054
-#EXTINF:-1 group-title="秒開灣灣4",CINEMAX HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1030
-#EXTINF:-1 group-title="秒開灣灣4",AMC 電影台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1032
-#EXTINF:-1 group-title="秒開灣灣4",寵物頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1040
-#EXTINF:-1 group-title="秒開灣灣4",博斯運動一
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1225
-#EXTINF:-1 group-title="秒開灣灣4",momo 綜合台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1248
-#EXTINF:-1 group-title="秒開灣灣4",DAZN 1
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1069
-#EXTINF:-1 group-title="秒開灣灣4",DAZN 2
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1072
-#EXTINF:-1 group-title="秒開灣灣4",廈門衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1033
-#EXTINF:-1 group-title="秒開灣灣4",CCTV4-中央衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1034
-#EXTINF:-1 group-title="秒開灣灣4",海峽衛視HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1035
-#EXTINF:-1 group-title="秒開灣灣4",浙江衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1036
-#EXTINF:-1 group-title="秒開灣灣4",東方衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1037
-#EXTINF:-1 group-title="秒開灣灣4",湖南衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1038
-#EXTINF:-1 group-title="秒開灣灣4",鳯凰衛視資訊
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1210
-#EXTINF:-1 group-title="秒開灣灣4",鳯凰衛視中文
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1213
-#EXTINF:-1 group-title="秒開灣灣4",寵物頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2024
-#EXTINF:-1 group-title="秒開灣灣4",AMC 電影台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2023
-#EXTINF:-1 group-title="秒開灣灣4",Trace Sport Stars
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2025
-#EXTINF:-1 group-title="秒開灣灣4",韓國娛樂台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2021
-#EXTINF:-1 group-title="秒開灣灣4",鏡電視新聞台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2022
-#EXTINF:-1 group-title="秒開灣灣4",三立台灣
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1061
-#EXTINF:-1 group-title="秒開灣灣4",年代新聞台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1077
-#EXTINF:-1 group-title="秒開灣灣4",三立新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1079
-#EXTINF:-1 group-title="秒開灣灣4",尼克兒童頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1139
-#EXTINF:-1 group-title="秒開灣灣4",nickjr.小尼克
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1138
-#EXTINF:-1 group-title="秒開灣灣4",MTV Live音樂頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1140
-#EXTINF:-1 group-title="秒開灣灣4",達文西頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1136
-#EXTINF:-1 group-title="秒開灣灣4",寵物頻道 
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1137
-#EXTINF:-1 group-title="秒開灣灣4",DreamWorks
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2892
-#EXTINF:-1 group-title="秒開灣灣4",國家地理HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2890
-#EXTINF:-1 group-title="秒開灣灣4",搖滾電影頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2894
-#EXTINF:-1 group-title="秒開灣灣4",探索世界頻道
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2895
-#EXTINF:-1 group-title="秒開灣灣4",搖滾娛樂頻道 
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2896
-#EXTINF:-1 group-title="秒開灣灣4",愛自然頻道 
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2897
-#EXTINF:-1 group-title="秒開灣灣4",華藝中文台
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2898
-#EXTINF:-1 group-title="秒開灣灣4",緯來體育
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2899
-#EXTINF:-1 group-title="秒開灣灣4",民視新聞
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2900
-#EXTINF:-1 group-title="秒開灣灣4",緯來日本HD
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2901
-#EXTINF:-1 group-title="秒開灣灣4",東風衛視
-http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2902
-
-
-
-
 ################################################
+
+
 
 中國央視
 
@@ -1783,6 +1641,14 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
 
 
 
+#EXTINF:-1 group-title="測試頻道",鳯凰衛視資訊
+http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="測試頻道",鳯凰衛視中文
+http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="測試頻道",中天新闻
 http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
@@ -1791,13 +1657,8 @@ http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="測試頻道",CNN
-https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="測試頻道",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-
 #EXTINF:-1 group-title="測試頻道",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="測試頻道",CNA
@@ -1806,35 +1667,30 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="測試頻道",亞太電視綜合台
 http://play2.one-tv.com/live/onetv.m3u8
 
-#EXTINF:-1 group-title="測試頻道",鳯凰衛視資訊
-http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 group-title="測試頻道",鳯凰衛視中文
-http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
 
-
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 澳門蓮花
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",澳門蓮花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 澳門蓮花衛視
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",澳門蓮花衛視
 https://fenghuang.tv12.xyz/187.m3u8
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 鳳凰衛視電影台
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",鳳凰衛視電影台
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",星空衛視
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",CHANNEL[V]
 http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視(國際頻道)
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",星空衛視(國際頻道)
 http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",星空衛視
 http://39.107.120.164:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",CHANNEL[V]
 http://39.107.120.164:8080/live/diyp_channelv.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", 星空衛視
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",星空衛視
 http://39.107.120.164:8080/live/diyp_xingkong.flv
-#EXTINF:-1 tvg-id="euronews" group-title="測試頻道", CHANNEL[V]
+#EXTINF:-1 tvg-id="euronews" group-title="測試頻道",CHANNEL[V]
 http://39.107.120.164:8080/live/diyp_channelv.flv
 
 
@@ -1879,9 +1735,6 @@ http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token
 
 
 
-http://orz.jkun.cf/smt.php?id=eltasport3_twn
-
-
 
 
 
@@ -1889,6 +1742,7 @@ http://orz.jkun.cf/smt.php?id=eltasport3_twn
 
 ################################################
 
+http://orz.jkun.cf/smt.php?id=eltasport3_twn
 
 
 
@@ -5644,14 +5498,144 @@ https://newidco-ygtv-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="mtv-europe" group-title="音樂世界", California Music Channel (1080p)
 https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 
-#EXTINF:-1 group-title="音樂世界" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV_2025.jpg",Space Shower TV
-https://nl00.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="音樂世界" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us_2025.svg",MTV
-https://nl00.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="音樂世界" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.png",Kayo Pops
-https://nl00.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="音樂世界" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv_2025.png",Music On TV
-https://nl00.utako.moe/musicon/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="音樂世界", XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="音樂世界", XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="音樂世界", XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="音樂世界", XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="音樂世界", XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="音樂世界", Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="音樂世界", Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="音樂世界", Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="音樂世界", Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="音樂世界", Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="音樂世界", Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/premium.jpg" group-title="音樂世界",PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash2.antik.sk/live/test_slager_premium_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/360tunebox.jpg" group-title="音樂世界",360 TUNEBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtvhits.jpg" group-title="音樂世界",MTV HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtv90.jpg" group-title="音樂世界",MTV '90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/clubmtv.jpg" group-title="音樂世界",CLUB MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtv00.jpg" group-title="音樂世界",MTV '00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/mtv80.jpg" group-title="音樂世界",MTV '80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ocko.jpg" group-title="音樂世界",OCKO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ockoblack.jpg" group-title="音樂世界",OCKO BLACK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ockoexpress.jpg" group-title="音樂世界",OCKO EXPRES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/ockostar.jpg" group-title="音樂世界",OCKO STAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/retromusic.jpg" group-title="音樂世界",RETRO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/rebel.jpg" group-title="音樂世界",REBEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/stingrayinconcerts.jpg" group-title="音樂世界",STINGRAY ICONCERTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="mtv-europe" group-title="音樂世界", MovieMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
@@ -10558,7 +10542,7 @@ https://cmtv.netlib.re/channel/n1a04904f/index.m3u8?q=1763801745704
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",潘朵啦玩美
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",驚豔台
+#EXTINF:-1 group-title="私密頻道 ADULT",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",松視1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
@@ -10566,6 +10550,23 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",驚豔台(125)
+http://125.227.210.55:8156/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",香蕉台(125)
+http://125.227.210.55:8159/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視3台(125)
+http://125.227.210.55:8201/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視2台(125)
+http://125.227.210.55:8203/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視1台(125)
+http://125.227.210.55:8205/VideoInput/play.ts
+
+
 
 
 
@@ -10592,6 +10593,7 @@ http://lunar.pm:8080/Mrdon/4782314540/131308
 
 #EXTINF:-1 group-title="私密頻道 ADULT",花花公子
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="私密頻道 ADULT",法國時尚
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
@@ -12718,39 +12720,39 @@ http://lunar.pm:8080/Mrdon/4782314540/131356
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="Canais | XXX Adultos",PLAYBOY
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="Canais | XXX Adult",PLAYBOY
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="" group-title="Canais | XXX Adultos",SEX PRIVE
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="" group-title="Canais | XXX Adult",SEX PRIVE
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40001
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="" group-title="Canais | XXX Adultos",SEXTREME
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="" group-title="Canais | XXX Adult",SEXTREME
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40002
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="" group-title="Canais | XXX Adultos",SEXY HOT
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="" group-title="Canais | XXX Adult",SEXY HOT
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="Canais | XXX Adultos",VENUS
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="Canais | XXX Adult",VENUS
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40004
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Erotic TV Online" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Erotic TV Online
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Erotic TV Online" tvg-logo="" group-title="Canais | XXX Adult",Hardcore Erotic TV Online
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40005
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Web Tv" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Web Tv
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Web Tv" tvg-logo="" group-title="Canais | XXX Adult",Hardcore Web Tv
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40006
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore Videos Non Stop" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Videos Non Stop
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Videos Non Stop" tvg-logo="" group-title="Canais | XXX Adult",Hardcore Videos Non Stop
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40007
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online POV" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online POV
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online POV" tvg-logo="" group-title="Canais | XXX Adult",Adult TV Online POV
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40008
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Pornstar" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Pornstar
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Pornstar" tvg-logo="" group-title="Canais | XXX Adult",Adult TV Online Pornstar
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40009
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Milfs" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Milfs
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Milfs" tvg-logo="" group-title="Canais | XXX Adult",Adult TV Online Milfs
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40010
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Live Cams" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Live Cams
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Live Cams" tvg-logo="" group-title="Canais | XXX Adult",Adult TV Live Cams
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40011
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Lesbian" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Lesbian
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Lesbian" tvg-logo="" group-title="Canais | XXX Adult",Adult TV Online Lesbian
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40012
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV online Latina" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV online Latina
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV online Latina" tvg-logo="" group-title="Canais | XXX Adult",Adult TV online Latina
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40013
-#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Interracial" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Interracial
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Interracial" tvg-logo="" group-title="Canais | XXX Adult",Adult TV Online Interracial
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40014
-#EXTINF:-1 tvg-id="" tvg-name="Live Adult TV Hardcore" tvg-logo="" group-title="Canais | XXX Adultos",Live Adult TV Hardcore
+#EXTINF:-1 tvg-id="" tvg-name="Live Adult TV Hardcore" tvg-logo="" group-title="Canais | XXX Adult",Live Adult TV Hardcore
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40015
-#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Brunette" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Brunette
+#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Brunette" tvg-logo="" group-title="Canais | XXX Adult",Adult IPTV Brunette
 http://sinalprivado.info:80/632035/GqGcFV4ntu/40016
 
 
