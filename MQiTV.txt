@@ -14,10 +14,6 @@
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
-    {
-      "name": "💔live💔",
-      "url": "http://live.7887887.xyz/smart.m3u?token=7887887"
-    },
 
     {
       "name": "live",
