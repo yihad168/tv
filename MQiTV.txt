@@ -14,6 +14,10 @@
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
+    {
+      "name": "💔live💔",
+      "url": "http://live.7887887.xyz/smart.m3u?token=7887887"
+    },
 
     {
       "name": "live",
@@ -22,7 +26,7 @@
       "playerType": 1,
       "epg": "https://m3u.ibert.me/epg/112114_xyz.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
- ],
+   },
 
   {
    "name": "💎【冰茶】【央视卫视直播 20250715】💎",
