@@ -10506,6 +10506,7 @@ https://cmtv.netlib.re/channel/n1a04904f/index.m3u8?q=1763801745704
 
 
 #######################################################
+https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
 
 
 #EXTINF:-1 group-title="SMT2-馬來西亞",
@@ -11595,13 +11596,17 @@ http://125.227.210.55:8203/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",奧視1台(125)
 http://125.227.210.55:8205/VideoInput/play.ts
 
-
-
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視2(125)
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視3(125)
+http://125.227.210.55:8917/VideoInput/play.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",麻豆影畫(125)
+http://125.227.210.55:51359/VideoInput/play.ts
 
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
-http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
+http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premium +18 - Asian Bondage (e)(720)" tvg-logo="" group-title="私密頻道 ADULT",Premium +18 - Asian Bondage (e)(720)
 http://tv.zapping.life:8080/huvargas01/latinplus6485/150763
@@ -11691,7 +11696,8 @@ http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/6165/index.m3u8
 http://645hsfs.akadatel.com/iptv/3K5Z3VE8M7N89U/2475/index.m3u8
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4ML799QKS2USNVRQ83BAVUQS/6253/index.m3u8
-
+http://213.226.69.130/iptv/3K5Z3VE8M7N89U/16041/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
 
 
 #EXTINF:-1 group-title="俄羅斯 ADULT",Japan HDV
