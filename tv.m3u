@@ -132,6 +132,22 @@ https://nl.utako.moe/pigoo/index.m3u8
 https://nl.utako.moe/v_paradise/index.m3u8
 
 
+#EXTINF:-1 group-title="JP",NHK WORLD PREMIUM
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/821375.ts
+#EXTINF:-1 group-title="JP",NHK
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/821374.ts
+#EXTINF:-1 group-title="JP",NHK WORLD HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/821373.ts
+#EXTINF:-1 group-title="JP",TOKYO NOW HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/821367.ts
+#EXTINF:-1 group-title="JP",TOKYO MX1
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/821366.ts
+#EXTINF:-1 group-title="JP",NHK GENERAL TV
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/1138522.ts
+#EXTINF:-1 group-title="JP",NIPPON TV
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/1138521.ts
+#EXTINF:-1 group-title="JP",TV ASAHI
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/1138520.ts
 
 
 ################################################
@@ -2260,6 +2276,14 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/802483.ts
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/802482.ts
 
 
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 1 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577967.ts
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 2 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577966.ts
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 3 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577965.ts
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS ESPN FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577964.ts
 
 
 
@@ -5812,9 +5836,6 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/281651.ts
 
 
 
-
-
-
 #EXTINF:-1 group-title="私密頻道 ADULT",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",潘朵啦玩美
@@ -5860,33 +5881,41 @@ http://lunar.pm:8080/Mrdon/4782314540/131325
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248607
 #EXTINF:-1 tvg-id="" tvg-name="JAPAN HDV 2" tvg-logo="https://tenwafers.xyz:443/images/yIFZT7dpUDF8SbNBpUnYhe_FeqN0DjzmKGl7GcQyogLnCb59XTOInwfb0ZPEJVNajLhI7-S9RQGXxBoZpGArLg.png" group-title="私密頻道 ADULT",JAPAN HDV 2
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248608
-
-
+#EXTINF:-1 tvg-id="" tvg-name="CHINA XXX" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",CHINA XXX
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248475
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DREAMROOM" tvg-logo="https://mirror.streamhubtv.ca:443/images/2258a50012e0bf2e325d59ebfb2e190c.png" group-title="私密頻道 ADULT",DREAMROOM
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248046
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX: ASIAN FOOTJOB" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png" group-title="私密頻道 ADULT",ASIAN FOOTJOB
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248018
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: AV TAXI" tvg-logo="http://restream.tv4k.me:80/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png" group-title="私密頻道 ADULT",AV TAXI
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248021
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MODEL MEDIA ASIA" tvg-logo="https://cinebox.one/cinebox_and_pornbox/pornbox-one.png" group-title="私密頻道 ADULT",MODEL MEDIA ASIA
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248091
+#EXTINF:-1 tvg-id="" tvg-name="ASIAM" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",ASIAM
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248403
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN BONDAGE" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",ASIAN BONDAGE
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248404
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN SEX DIARY" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",ASIAN SEX DIARY
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248405
-#EXTINF:-1 tvg-id="" tvg-name="CRAZY COLLEGE GF" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W03035TyJlTzAICtJFwp2QENpyMKqY8277V2FG5oUMpbCvIlPLNMAad0QzVTA8yufw.png" group-title="私密頻道 ADULT",CRAZY COLLEGE GF
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248478
 #EXTINF:-1 tvg-id="" tvg-name="LITTLE ASIANS" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",LITTLE ASIANS
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/248622
+#EXTINF:-1 tvg-id="" tvg-name="XXXX: ASIAM" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",XXXX: ASIAM
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254256
 #EXTINF:-1 tvg-id="" tvg-name="XXXX: ASIAN BONDAGE" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",XXXX:ASIAN BONDAGE
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254257
 #EXTINF:-1 tvg-id="" tvg-name="XXXX: ASIAN SEX DIARY" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",XXXX:ASIAN SEX DIARY
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254258
 #EXTINF:-1 tvg-id="" tvg-name="XXXX: LITTLE ASIANS" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",XXXX:LITTLE ASIANS
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254296
+#EXTINF:-1 tvg-id="" tvg-name="XXXX: CHINA XXX" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",XXXX: CHINA XXX
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254270
+
 #EXTINF:-1 tvg-id="C100039.397.ersatztv.org" tvg-name="Asian 1 On 1" tvg-logo="https://cdn.theporndb.net/sites/f8/50/a2/effc5933f34333c7a0a7ef7f09e8ad0/logo/asian1on1-logo.png" group-title="私密頻道 ADULT",Asian 1 On 1
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/262481
 
 
-
-
-
+#EXTINF:-1 group-title="私密頻道 ADULT",XXX JAPAN HDV
+http://247j.cc:80/1702860sam16923/678655/91286.ts
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",花花公子
@@ -5894,6 +5923,16 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="私密頻道 ADULT",法國時尚
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",Nuart TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99051.m3u
+#EXTINF:-1 group-title="私密頻道 ADULT",Nuart TV Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99052.m3u
+
+
+
 
 #EXTINF:-1 group-title="私密頻道 ADULT",nuart
 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
@@ -10897,3 +10936,537 @@ http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/263028
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/263029
 #EXTINF:-1 tvg-id="C100450.394.ersatztv.org" tvg-name="ZZ Series" tvg-logo="https://cdn.theporndb.net/sites/e4/a0/d5/e397741f7d4441e7ca29313fea0f74b/logo/zzseries-logo.png" group-title=" XXX ADULT | VIDEOS 2",ZZ Series
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/263030
+
+
+
+
+##############################
+
+
+
+
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 1 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444776.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 2 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444777.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 3 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444778.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 4 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444779.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 5 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444780.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 6 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444781.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 7 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444782.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 8 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444783.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 9 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444784.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 10 ᴜʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444785.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 1 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444786.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 2 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444787.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 3 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444788.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 4 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444789.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 5 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444790.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 6 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444791.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 7 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444792.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 8 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444793.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 9 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444794.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 10 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444795.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 11 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444796.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 12 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444797.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 13 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444798.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 14 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444799.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 15 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444800.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 16 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444801.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 17 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444802.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 18 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444803.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 19 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444804.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 20 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444805.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 21 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444806.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 22 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444807.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 23 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444808.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 24 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444809.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 25 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444810.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 26 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444811.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 27 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444812.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 28 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444813.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 29 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444814.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 30 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444815.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 31 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444816.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 32 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444817.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 33 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444818.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 34 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444819.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 35 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444820.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 36 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444821.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 37 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444822.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 38 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444823.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 39 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444824.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 40 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444825.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 41 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444826.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 42 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444827.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 43 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444828.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 44 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444829.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 45 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444830.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 46 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444831.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 47 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444832.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 48 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444833.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 49 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444834.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 50 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444835.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 51 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444836.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 52 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444837.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 53 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444838.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 54 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444839.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 55 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444840.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 56 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444841.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 57 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444842.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 58 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444843.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 59 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444844.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 60 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444845.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 61 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444846.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 62 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444847.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 63 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444848.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 64 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444849.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 65 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444850.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 66 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444851.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 67 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444852.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 68 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444853.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 69 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444854.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Adult 70 ғʜᴅ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/444855.m3u
+
+
+
+#EXTINF:-1 group-title="XRestreamTv Adult",Pure Babes TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/98993.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Naughty TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/98994.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Legal TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/98995.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Hustler HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99003.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Redlight HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99004.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Prıvate TV HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99005.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Dorcel HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99006.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Dorcel XXX HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99007.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Vivid Red HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99008.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Erox HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99009.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Erox XXX HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99010.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Penthouse Gold HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99011.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Penthouse Quickies HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99012.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Super One HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99013.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Babes TV HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99014.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",XY Plus HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99015.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",XY Max HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99016.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",XY Mix HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99017.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Vivid TV Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99018.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Vivid TV Europe CZ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99019.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",DUSK!
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99020.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Hustler TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99021.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",XXL
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99022.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Passie XXX
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99023.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Passion XXX
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99024.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Reality Kings TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99025.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",BraZZers TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99026.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Brazzers TV Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99027.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Brazzers TV Europe Russia
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99028.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Sexy HOT
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99029.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Meiden Van Holland Hard
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99030.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Evil Angel
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99031.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99032.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 2
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99033.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 3
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99034.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 4
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99035.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 5
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99036.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 6
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99037.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 7
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99038.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 8
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99039.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Шалун TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99040.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Playboy
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99041.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Playboy TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99042.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Playboy Europe HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99043.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Playboy Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99044.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Blue Hustler HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99045.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Blue Hustler
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99046.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Blue Hustler Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99047.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Russian Night
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99048.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Russian Night Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99049.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Barely Legal TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99050.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Nuart TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99051.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Nuart TV Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99052.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",O la la TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99053.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",French Lover TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99054.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Secret Circle TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99055.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Exxxotica TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99056.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Sex Prive
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99057.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Man2Man
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99058.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Jasmin TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99059.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",A3 Bikini TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99060.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Bang U
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99061.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Bang U Europe
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99062.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Vivid Touch
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99063.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Penthouse Passion
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99064.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Oldtimer
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99065.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Bangerz
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99066.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Net XX
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99067.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Playhouse
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99068.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Hot Pleasure
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99069.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Milf TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99070.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Red XXX
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99071.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Extreme
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99072.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Lesbian Affair
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99073.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Emanuelle
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99074.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",SEX ATION
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99075.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Hot XXL HD
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99076.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Pinko Club
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99078.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Cent & Cento
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99080.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Free X TV HQ
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99081.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Free X TV 2
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99083.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",X-Dream TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99084.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Balkan Erotic
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99086.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Beate-Uhse.TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99088.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Fast Boyz
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99091.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",X-MO
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99092.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Private TV
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99093.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",Erox
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99094.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",X1
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99096.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",X Bizarre
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99097.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",X Desire
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99098.m3u
+#EXTINF:-1 group-title="XRestreamTv Adult",X Bunga Bunga
+http://249692.solanaflix.com/live/TV-29713531/706554017857/99099.m3u
+
+
+
+
+
+##############################
+
+
+
+
+#EXTINF:-1 group-title="24H Adult",PLAYBOY [FHD]
+http://247j.cc:80/1702860sam16923/678655/90207.ts
+#EXTINF:-1 group-title="24H Adult",PLAYBOY [FHD] (H265)
+http://247j.cc:80/1702860sam16923/678655/90206.ts
+#EXTINF:-1 group-title="24H Adult",PLAYBOY [HD]
+http://247j.cc:80/1702860sam16923/678655/90208.ts
+#EXTINF:-1 group-title="24H Adult",PLAYBOY [SD]
+http://247j.cc:80/1702860sam16923/678655/90209.ts
+#EXTINF:-1 group-title="24H Adult",SEX PRIVE [FHD]
+http://247j.cc:80/1702860sam16923/678655/308385.ts
+#EXTINF:-1 group-title="24H Adult",SEX PRIVE [FHD] (H265)
+http://247j.cc:80/1702860sam16923/678655/95485.ts
+#EXTINF:-1 group-title="24H Adult",SEX PRIVE [HD]
+http://247j.cc:80/1702860sam16923/678655/95486.ts
+#EXTINF:-1 group-title="24H Adult",SEX PRIVE [SD]
+http://247j.cc:80/1702860sam16923/678655/95487.ts
+#EXTINF:-1 group-title="24H Adult",SEXTREME [FHD]
+http://247j.cc:80/1702860sam16923/678655/100038.ts
+#EXTINF:-1 group-title="24H Adult",SEXTREME [HD]
+http://247j.cc:80/1702860sam16923/678655/90306.ts
+#EXTINF:-1 group-title="24H Adult",SEXTREME [SD]
+http://247j.cc:80/1702860sam16923/678655/90307.ts
+#EXTINF:-1 group-title="24H Adult",SEXY HOT [FHD]
+http://247j.cc:80/1702860sam16923/678655/308386.ts
+#EXTINF:-1 group-title="24H Adult",SEXY HOT [FHD] (H265)
+http://247j.cc:80/1702860sam16923/678655/95488.ts
+#EXTINF:-1 group-title="24H Adult",SEXY HOT [HD]
+http://247j.cc:80/1702860sam16923/678655/90308.ts
+#EXTINF:-1 group-title="24H Adult",SEXY HOT [SD]
+http://247j.cc:80/1702860sam16923/678655/90309.ts
+#EXTINF:-1 group-title="24H Adult",VENUS [HD]
+http://247j.cc:80/1702860sam16923/678655/90437.ts
+#EXTINF:-1 group-title="24H Adult",VENUS [SD]
+http://247j.cc:80/1702860sam16923/678655/90438.ts
+#EXTINF:-1 group-title="24H Adult",XXX ANYA OLSEN
+http://247j.cc:80/1702860sam16923/678655/91287.ts
+#EXTINF:-1 group-title="24H Adult",XXX BR ONLYFANS
+http://247j.cc:80/1702860sam16923/678655/91294.ts
+#EXTINF:-1 group-title="24H Adult",XXX BRASILEIRINHAS 01
+http://247j.cc:80/1702860sam16923/678655/95499.ts
+#EXTINF:-1 group-title="24H Adult",XXX BRASILEIRINHAS 02
+http://247j.cc:80/1702860sam16923/678655/91277.ts
+#EXTINF:-1 group-title="24H Adult",XXX GIRL CUM
+http://247j.cc:80/1702860sam16923/678655/91288.ts
+#EXTINF:-1 group-title="24H Adult",XXX INT ONLYFANS
+http://247j.cc:80/1702860sam16923/678655/91282.ts
+#EXTINF:-1 group-title="24H Adult",XXX JAPAN HDV
+http://247j.cc:80/1702860sam16923/678655/91286.ts
+#EXTINF:-1 group-title="24H Adult",XXX JEMMA VALENTINE
+http://247j.cc:80/1702860sam16923/678655/91280.ts
+#EXTINF:-1 group-title="24H Adult",XXX LAUREN WALKER
+http://247j.cc:80/1702860sam16923/678655/91293.ts
+#EXTINF:-1 group-title="24H Adult",XXX MANDY MUSE
+http://247j.cc:80/1702860sam16923/678655/91279.ts
+#EXTINF:-1 group-title="24H Adult",XXX MIA KHALIFA
+http://247j.cc:80/1702860sam16923/678655/91283.ts
+#EXTINF:-1 group-title="24H Adult",XXX MOM XXX
+http://247j.cc:80/1702860sam16923/678655/91292.ts
+#EXTINF:-1 group-title="24H Adult",XXX MULHER MELAO
+http://247j.cc:80/1702860sam16923/678655/91285.ts
+#EXTINF:-1 group-title="24H Adult",XXX MYRA MOANS
+http://247j.cc:80/1702860sam16923/678655/91281.ts
+#EXTINF:-1 group-title="24H Adult",XXX NAUGHTY AMERICA
+http://247j.cc:80/1702860sam16923/678655/91291.ts
+#EXTINF:-1 group-title="24H Adult",XXX REALITY KINGS
+http://247j.cc:80/1702860sam16923/678655/91290.ts
+#EXTINF:-1 group-title="24H Adult",XXX STEFANIE MOON
+http://247j.cc:80/1702860sam16923/678655/91284.ts
+#EXTINF:-1 group-title="24H Adult",XXX VANESSA MOON
+http://247j.cc:80/1702860sam16923/678655/91276.ts
+#EXTINF:-1 group-title="24H Adult",XXX YENIFER CHACON
+http://247j.cc:80/1702860sam16923/678655/91278.ts
+#EXTINF:-1 group-title="24H Adult",XXX A CASA DAS BRASILEIRINHAS
+http://247j.cc:80/1702860sam16923/678655/91289.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 01
+http://247j.cc:80/1702860sam16923/678655/91215.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 02
+http://247j.cc:80/1702860sam16923/678655/91216.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 04
+http://247j.cc:80/1702860sam16923/678655/91218.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 05
+http://247j.cc:80/1702860sam16923/678655/91219.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 06
+http://247j.cc:80/1702860sam16923/678655/91220.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 07
+http://247j.cc:80/1702860sam16923/678655/91221.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 08
+http://247j.cc:80/1702860sam16923/678655/91222.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 09
+http://247j.cc:80/1702860sam16923/678655/91223.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 10
+http://247j.cc:80/1702860sam16923/678655/91224.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 11
+http://247j.cc:80/1702860sam16923/678655/91225.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 12
+http://247j.cc:80/1702860sam16923/678655/91226.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 13
+http://247j.cc:80/1702860sam16923/678655/91227.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 14
+http://247j.cc:80/1702860sam16923/678655/91228.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 15
+http://247j.cc:80/1702860sam16923/678655/91229.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 16
+http://247j.cc:80/1702860sam16923/678655/91230.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 17
+http://247j.cc:80/1702860sam16923/678655/91231.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 18
+http://247j.cc:80/1702860sam16923/678655/91232.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 19
+http://247j.cc:80/1702860sam16923/678655/91233.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 20
+http://247j.cc:80/1702860sam16923/678655/91234.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 21
+http://247j.cc:80/1702860sam16923/678655/91235.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 22
+http://247j.cc:80/1702860sam16923/678655/91236.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 23
+http://247j.cc:80/1702860sam16923/678655/91237.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 24
+http://247j.cc:80/1702860sam16923/678655/91238.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 25
+http://247j.cc:80/1702860sam16923/678655/91239.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 26
+http://247j.cc:80/1702860sam16923/678655/91240.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 27
+http://247j.cc:80/1702860sam16923/678655/91241.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 28
+http://247j.cc:80/1702860sam16923/678655/91242.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 29
+http://247j.cc:80/1702860sam16923/678655/91243.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 30
+http://247j.cc:80/1702860sam16923/678655/91244.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 31
+http://247j.cc:80/1702860sam16923/678655/91245.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 32
+http://247j.cc:80/1702860sam16923/678655/91246.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 33
+http://247j.cc:80/1702860sam16923/678655/91247.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 34
+http://247j.cc:80/1702860sam16923/678655/91248.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 35
+http://247j.cc:80/1702860sam16923/678655/91249.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 36
+http://247j.cc:80/1702860sam16923/678655/91250.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 37
+http://247j.cc:80/1702860sam16923/678655/91251.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 38
+http://247j.cc:80/1702860sam16923/678655/91252.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 39
+http://247j.cc:80/1702860sam16923/678655/91253.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO 40
+http://247j.cc:80/1702860sam16923/678655/91254.ts
+#EXTINF:-1 group-title="24H Adult",XXX ADULTO TRANS
+http://247j.cc:80/1702860sam16923/678655/91275.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
