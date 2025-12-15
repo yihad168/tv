@@ -132,22 +132,6 @@ https://nl.utako.moe/pigoo/index.m3u8
 https://nl.utako.moe/v_paradise/index.m3u8
 
 
-#EXTINF:-1 group-title="JP",NHK WORLD PREMIUM
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/821375.ts
-#EXTINF:-1 group-title="JP",NHK
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/821374.ts
-#EXTINF:-1 group-title="JP",NHK WORLD HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/821373.ts
-#EXTINF:-1 group-title="JP",TOKYO NOW HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/821367.ts
-#EXTINF:-1 group-title="JP",TOKYO MX1
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/821366.ts
-#EXTINF:-1 group-title="JP",NHK GENERAL TV
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/1138522.ts
-#EXTINF:-1 group-title="JP",NIPPON TV
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/1138521.ts
-#EXTINF:-1 group-title="JP",TV ASAHI
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/1138520.ts
 
 
 ################################################
@@ -2260,6 +2244,15 @@ https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 1 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577967.ts
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 2 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577966.ts
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 3 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577965.ts
+#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS ESPN FHD
+
+
 #EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 1
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/802488.ts
 #EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 2
@@ -2275,15 +2268,6 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/802483.ts
 #EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 7
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/802482.ts
 
-
-#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 1 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577967.ts
-#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 2 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577966.ts
-#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS 3 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577965.ts
-#EXTINF:-1 group-title="體育世界",UK - TNT SPORTS ESPN FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577964.ts
 
 
 
@@ -2564,32 +2548,6 @@ https://7pal.short.gy/event4
 ################################################
 
 
-#EXTINF:-1 group-title="韓國頻道",ARIRANG
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/500996.ts
-#EXTINF:-1 group-title="韓國頻道",CTS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/500997.ts
-#EXTINF:-1 group-title="韓國頻道",EBS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/500998.ts
-#EXTINF:-1 group-title="韓國頻道",KBS WORLD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/500999.ts
-#EXTINF:-1 group-title="韓國頻道",MBC
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501000.ts
-#EXTINF:-1 group-title="韓國頻道",MBN
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501001.ts
-#EXTINF:-1 group-title="韓國頻道",NATGEO
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501002.ts
-#EXTINF:-1 group-title="韓國頻道",SBS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501003.ts
-#EXTINF:-1 group-title="韓國頻道",SBS PLUS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501004.ts
-#EXTINF:-1 group-title="韓國頻道",TAN
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501005.ts
-#EXTINF:-1 group-title="韓國頻道",YTN
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/501007.ts
-#EXTINF:-1 group-title="韓國頻道",JTBC NEWS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/829342.ts
-
-
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 꽃보다할배
 https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
@@ -2697,6 +2655,265 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="英國UK",BBC 1
+http://free.cnlive.club/channel/n12f70f84/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",BBC 2
+http://free.cnlive.club/channel/n12f70f83/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",CBBC
+http://free.cnlive.club/channel/7b42ceb8/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",More4
+http://free.cnlive.club/channel/n1246df79/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Freesports
+http://free.cnlive.club/channel/7994d0e3/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Skynews
+http://free.cnlive.club/channel/n65136184/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Pick TV
+http://free.cnlive.club/channel/n8682e17/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",itv 1
+http://free.cnlive.club/channel/n10ba00dc/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",itv 2
+http://free.cnlive.club/channel/n10ba00db/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Euronews
+http://free.cnlive.club/channel/19750d38/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Channel 4
+http://free.cnlive.club/channel/2135795f/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",NatGeo
+http://free.cnlive.club/channel/530c09b4/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",CBeebies
+http://free.cnlive.club/channel/n56ec6d34/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",History
+http://free.cnlive.club/channel/514cb39c/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Kids TV
+http://free.cnlive.club/channel/n10d59be3/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",France 24
+http://free.cnlive.club/channel/n13cd9691/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",DW (Deutsch)
+http://free.cnlive.club/channel/2a24e4c4/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",BBC Earth
+http://free.cnlive.club/channel/3709a607/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",BBC Earth Lifestyle
+http://free.cnlive.club/channel/72553caa/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",MTV Live
+http://free.cnlive.club/channel/52a078d5/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Star Movies
+http://free.cnlive.club/channel/1c63b283/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",NHK World
+http://free.cnlive.club/channel/71de198b/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Warner TV
+http://free.cnlive.club/channel/6235d917/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",HBO
+http://free.cnlive.club/channel/n41a855c1/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",NatGeo Wild
+http://free.cnlive.club/channel/n5e0570c6/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Nickelodeon
+http://free.cnlive.club/channel/24e2e10d/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Nick Jr
+http://free.cnlive.club/channel/n7234a5b3/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Thrill
+http://free.cnlive.club/channel/n2b05b19d/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",CGTN
+http://free.cnlive.club/channel/7b42e3b6/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Hits Movie
+http://free.cnlive.club/channel/n6906b9d8/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Animal Planet (Eng)
+http://free.cnlive.club/channel/23d55997/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",CNBC
+http://free.cnlive.club/channel/7b42fbc4/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",TLC
+http://free.cnlive.club/channel/n6760b00d/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",BBC World News
+http://free.cnlive.club/channel/361e4ef6/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",HGTV
+http://free.cnlive.club/channel/7b452999/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Axn
+http://free.cnlive.club/channel/n4a933563/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Skysports F1
+http://free.cnlive.club/channel/n7c6d1d1d/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Skysports Cricket
+http://free.cnlive.club/channel/n178afb67/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Bloomberg News
+http://free.cnlive.club/channel/fa3b1b0/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Skysports EPL
+http://free.cnlive.club/channel/n11368637/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Skysports Main Event
+http://free.cnlive.club/channel/n40025455/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Skysports News
+http://free.cnlive.club/channel/n1595d4d5/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="英國UK",Al-Jazeera
+http://free.cnlive.club/channel/n312e1c58/index.m3u8?q=1752629214236
+
+
+
+
+################################################
+
+
+#EXTINF:-1 group-title="馬來西亞MY",TV1
+http://free.cnlive.club/channel/fa5521f/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TV1 backup
+http://free.cnlive.club/channel/n519451d/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TV2
+http://free.cnlive.club/channel/fa55220/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TV3
+http://free.cnlive.club/channel/fa55221/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TV3 SD
+http://free.cnlive.club/channel/n486f0f50/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",NTV7
+http://free.cnlive.club/channel/n1afdcb49/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TV8
+http://free.cnlive.club/channel/fa55226/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TV9
+http://free.cnlive.club/channel/fa55227/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Ria
+http://free.cnlive.club/channel/fa54d1a/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Ria-3
+http://free.cnlive.club/channel/n44798bc0/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Al-Hijrah
+http://free.cnlive.club/channel/n3fbbd7fe/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Al-Hijrah backup
+http://free.cnlive.club/channel/73890fa0/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Awani
+http://free.cnlive.club/channel/n4562b60a/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Bernama
+http://free.cnlive.club/channel/n606edc5a/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Prima
+http://free.cnlive.club/channel/n44917d75/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Prima backup
+http://free.cnlive.club/channel/366678f7/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Prima backup 2
+http://free.cnlive.club/channel/36ac1b49/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Ceria
+http://free.cnlive.club/channel/n454e7688/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Astro MTV
+http://free.cnlive.club/channel/n74db47c2/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Mecca Live
+http://free.cnlive.club/channel/n1e7b0117/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Madinah
+http://free.cnlive.club/channel/n782c73d0/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Oasis
+http://free.cnlive.club/channel/n44a72a25/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",HBO
+http://free.cnlive.club/channel/n5df653c9/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",HBO Signature
+http://free.cnlive.club/channel/n4641f303/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",HBO Hits
+http://free.cnlive.club/channel/465013db/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",NatGeo Wild
+http://free.cnlive.club/channel/n6598e6ce/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Cartoon Network
+http://free.cnlive.club/channel/607a1b6c/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Nickelodeon
+http://free.cnlive.club/channel/1c7b5a15/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Nick Jr
+http://free.cnlive.club/channel/20599755/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Dreamworks
+http://free.cnlive.club/channel/n760128b1/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Siar
+http://free.cnlive.club/channel/n1afb3509/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Citra
+http://free.cnlive.club/channel/n454c9c73/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Citra backup
+http://free.cnlive.club/channel/n52b2e4b/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Sensasi
+http://free.cnlive.club/channel/22a4fb90/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Aura
+http://free.cnlive.club/channel/n1b0334ad/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Rania
+http://free.cnlive.club/channel/n447cf679/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",KBS World
+http://free.cnlive.club/channel/14eeb45e/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Boo
+http://free.cnlive.club/channel/fa511d2/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Awesome TV
+http://free.cnlive.club/channel/4d7fdd4f/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Astro Sonypix
+http://free.cnlive.club/channel/n158a73d9/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Sony
+http://free.cnlive.club/channel/33b732a5/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TvN
+http://free.cnlive.club/channel/fa5561c/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",AEC
+http://free.cnlive.club/channel/fa508cf/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",华丽台 HD （Wah Lai Toi）
+http://free.cnlive.club/channel/n177a7044/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",欢喜台 HD （Hua Hee Tai）
+http://free.cnlive.club/channel/n129801d1/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Astro QJ
+http://free.cnlive.club/channel/n2d0f5476/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TVB Jade
+http://free.cnlive.club/channel/30ac9808/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TVB Asia
+http://free.cnlive.club/channel/30a8c4da/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TVB Entertainment
+http://free.cnlive.club/channel/nac85e88/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TVB Classic
+http://free.cnlive.club/channel/n1ab8717e/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",AOD
+http://free.cnlive.club/channel/fa50a06/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",One
+http://free.cnlive.club/channel/fa54276/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TVB 星河台 Xing He
+http://free.cnlive.club/channel/6dd7925f/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",爱奇艺 iQiyi
+http://free.cnlive.club/channel/n367ccbbb/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Animal Planet (Eng)
+http://free.cnlive.club/channel/n1f7b561/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",tvN Movie
+http://free.cnlive.club/channel/n1b6a6bd4/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",CNN backup
+http://free.cnlive.club/channel/n1b9b2af1/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Celestial Classic
+http://free.cnlive.club/channel/n7b0fbbc6/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",CNBC
+http://free.cnlive.club/channel/n1b02e444/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",TLC
+http://free.cnlive.club/channel/fa550fb/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",CNA
+http://free.cnlive.club/channel/fa51166/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",BBC World News
+http://free.cnlive.club/channel/2e8ad8ee/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Foodnetwork Hd
+http://free.cnlive.club/channel/n28c53ee4/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",HGTV
+http://free.cnlive.club/channel/n1b00b66f/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Goshop
+http://free.cnlive.club/channel/n5d1f9a32/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Celestial Movies
+http://free.cnlive.club/channel/5150b0a1/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Axn
+http://free.cnlive.club/channel/n66e1336b/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Paramount Network
+http://free.cnlive.club/channel/2d02c137/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Astrol Kplus
+http://free.cnlive.club/channel/n52c5637e/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",AFC 亚洲旅游
+http://free.cnlive.club/channel/1d3786b3/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Rock Actions
+http://free.cnlive.club/channel/191ec512/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Bloomberg News
+http://free.cnlive.club/channel/8103ba8/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Al-Jazeera
+http://free.cnlive.club/channel/n5abdd660/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Rock Entertainment
+http://free.cnlive.club/channel/n66be2823/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",RTM Sports
+http://free.cnlive.club/channel/ne37fa48/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Arena
+http://free.cnlive.club/channel/n4564ece9/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Arena 2
+http://free.cnlive.club/channel/n7fdd5297/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",BolaArena 1
+http://free.cnlive.club/channel/n6393f37a/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",BolaArena 2
+http://free.cnlive.club/channel/n6393f379/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Astro LOL
+http://free.cnlive.club/channel/n74db4c28/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",Astro Rusi
+http://free.cnlive.club/channel/n268aead6/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",WION
+http://free.cnlive.club/channel/n1af9ddff/index.m3u8?q=1752629214236
+#EXTINF:-1 group-title="馬來西亞MY",RTM Asean
+http://free.cnlive.club/channel/32091bdb/index.m3u8?q=1752629214236
 
 
 ################################################
@@ -5692,143 +5909,1097 @@ https://cmtv.netlib.re/channel/n1a04904f/index.m3u8?q=1763801745704
 
 
 
+
+
 #######################################################
 
 
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX F&F 4K
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="GPT-香港",翡翠台
+https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="GPT-香港",明珠台
+https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
+#EXTINF:-1 tvg-id="無線新聞" tvg-name="無線新聞" tvg-logo="" group-title="GPT-香港",無線新聞
+https://smart.dxjc.pp.ua/smart.php?id=inews_twn&token=tmxk
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="GPT-香港",TVBPLUS
+https://smart.dxjc.pp.ua/smart.php?id=j2_twn&token=tmxk
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="GPT-香港",ViuTV
+https://smart.dxjc.pp.ua/smart.php?id=viu1_twn&token=tmxk
+#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="GPT-香港",ViuTV 6
+https://smart.dxjc.pp.ua/smart.php?id=viusix_twn&token=tmxk
+#EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="GPT-香港",RTHK 31
+https://smart.dxjc.pp.ua/smart.php?id=rhk31_twn&token=tmxk
+#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="GPT-香港",RTHK 32
+https://smart.dxjc.pp.ua/smart.php?id=rhk32_twn&token=tmxk
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="GPT-香港",HOY TV
+https://smart.dxjc.pp.ua/smart.php?id=hoycaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="" group-title="GPT-香港",鳳凰中文
+https://smart.dxjc.pp.ua/smart.php?id=phoenixtv_hd&token=tmxk
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="" group-title="GPT-香港",鳳凰資訊
+https://smart.dxjc.pp.ua/smart.php?id=phoenixinfo_hd&token=tmxk
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="" group-title="GPT-香港",鳳凰香港
+https://smart.dxjc.pp.ua/smart.php?id=hkphoenix_twn&token=tmxk
+#EXTINF:-1 tvg-id="台視 HD" tvg-name="台視 HD" tvg-logo="" group-title="GPT-臺灣",台視 HD
+https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="" group-title="GPT-臺灣",台視新聞
+https://smart.dxjc.pp.ua/smart.php?id=ttvnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="" group-title="GPT-臺灣",台視綜合
+https://smart.dxjc.pp.ua/smart.php?id=ttvzhonghe&token=tmxk
+#EXTINF:-1 tvg-id="中視 HD" tvg-name="中視 HD" tvg-logo="" group-title="GPT-臺灣",中視 HD
+https://smart.dxjc.pp.ua/smart.php?id=zhongshihd_twn&token=tmxk
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="" group-title="GPT-臺灣",中視新聞
+https://smart.dxjc.pp.ua/smart.php?id=zhongshinews_twn&token=tmxk
+#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" tvg-logo="" group-title="GPT-臺灣",中視經典
+https://smart.dxjc.pp.ua/smart.php?id=zhongshi_twn&token=tmxk
+#EXTINF:-1 tvg-id="華視 HD" tvg-name="華視 HD" tvg-logo="" group-title="GPT-臺灣",華視 HD
+https://smart.dxjc.pp.ua/smart.php?id=ctshd_twn&token=tmxk
+#EXTINF:-1 tvg-id="公視 HD" tvg-name="公視 HD" tvg-logo="" group-title="GPT-臺灣",公視 HD
+https://smart.dxjc.pp.ua/smart.php?id=ctv_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="" group-title="GPT-臺灣",公視台語台
+https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
+#EXTINF:-1 tvg-id="三立臺灣台" tvg-name="三立臺灣台" tvg-logo="" group-title="GPT-臺灣",三立臺灣台
+https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
+#EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="" group-title="GPT-臺灣",三立都會台
+https://smart.dxjc.pp.ua/smart.php?id=sanlidouhui&token=tmxk
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="" group-title="GPT-臺灣",三立綜合台
+https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
+#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="" group-title="GPT-臺灣",三立戲劇台
+https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="" group-title="GPT-臺灣",東森新聞台
+https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="" group-title="GPT-臺灣",東森財經新聞台
+https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="" group-title="GPT-臺灣",東森綜合台
+https://smart.dxjc.pp.ua/smart.php?id=ettvzhonghe&token=tmxk
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="" group-title="GPT-臺灣",東森戲劇台
+https://smart.dxjc.pp.ua/smart.php?id=ettvdrama&token=tmxk
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="" group-title="GPT-臺灣",東森電影台
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="" group-title="GPT-臺灣",東森洋片台
+https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="" group-title="GPT-臺灣",東森幼幼台
+https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="GPT-臺灣",東森超視
+https://smart.dxjc.pp.ua/smart.php?id=ettvsuper&token=tmxk
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="GPT-臺灣",TVBS HD
+https://smart.dxjc.pp.ua/smart.php?id=tvbs&token=tmxk
+#EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" tvg-logo="" group-title="GPT-臺灣",TVBS 新聞台
+https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
+#EXTINF:-1 tvg-id="TVBS 歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="" group-title="GPT-臺灣",TVBS 歡樂台
+https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="" group-title="GPT-臺灣",民視 HD
+https://smart.dxjc.pp.ua/smart.php?id=ftvhd_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="" group-title="GPT-臺灣",民視新聞台
+https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
+#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" tvg-logo="" group-title="GPT-臺灣",民視臺灣台
+https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
+#EXTINF:-1 tvg-id="中天綜合" tvg-name="中天綜合" tvg-logo="" group-title="GPT-臺灣",中天綜合
+https://smart.dxjc.pp.ua/smart.php?id=ctizhonghe&token=tmxk
+#EXTINF:-1 tvg-id="中天娛樂" tvg-name="中天娛樂" tvg-logo="" group-title="GPT-臺灣",中天娛樂
+https://smart.dxjc.pp.ua/smart.php?id=ctient&token=tmxk
+#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="" group-title="GPT-臺灣",中天亞洲
+https://smart.dxjc.pp.ua/smart.php?id=ctiasia_twn&token=tmxk
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="" group-title="GPT-臺灣",中天新聞
+https://smart.dxjc.pp.ua/smart.php?id=ctinews&token=tmxk
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="GPT-臺灣",寰宇新聞台
+https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="" group-title="GPT-臺灣",寰宇財經台
+https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="" group-title="GPT-臺灣",八大第一台
+https://smart.dxjc.pp.ua/smart.php?id=badafirst&token=tmxk
+#EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="" group-title="GPT-臺灣",八大綜合台
+https://smart.dxjc.pp.ua/smart.php?id=badazhonghe&token=tmxk
+#EXTINF:-1 tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="" group-title="GPT-臺灣",八大戲劇台
+https://smart.dxjc.pp.ua/smart.php?id=badadrama&token=tmxk
+#EXTINF:-1 tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="" group-title="GPT-臺灣",八大娛樂台
+https://smart.dxjc.pp.ua/smart.php?id=badaentertain&token=tmxk
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="" group-title="GPT-臺灣",緯來體育
+https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
+#EXTINF:-1 tvg-id="緯來精彩" tvg-name="緯來精彩" tvg-logo="" group-title="GPT-臺灣",緯來精彩
+https://smart.dxjc.pp.ua/smart.php?id=videolandspecial_twn&token=tmxk
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="" group-title="GPT-臺灣",緯來日本
+https://smart.dxjc.pp.ua/smart.php?id=videolandjapan&token=tmxk
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="" group-title="GPT-臺灣",緯來電影
+https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
+#EXTINF:-1 tvg-id="緯來綜合" tvg-name="緯來綜合" tvg-logo="" group-title="GPT-臺灣",緯來綜合
+https://smart.dxjc.pp.ua/smart.php?id=videolandzonghe&token=tmxk
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="GPT-臺灣",緯來育樂
+https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="GPT-臺灣",愛爾達綜合台
+https://smart.dxjc.pp.ua/smart.php?id=eltazonghe_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="GPT-臺灣",愛爾達影劇台
+https://smart.dxjc.pp.ua/smart.php?id=eltayingju_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="GPT-臺灣",愛爾達體育1台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="GPT-臺灣",愛爾達體育2台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="GPT-臺灣",愛爾達體育3台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="" group-title="GPT-臺灣",愛爾達體育4台
+https://smart.dxjc.pp.ua/smart.php?id=eltasports4_twn&token=tmxk
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="" group-title="GPT-臺灣",非凡新聞
+https://smart.dxjc.pp.ua/smart.php?id=feifannews_twn&token=tmxk
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="GPT-臺灣",年代新聞
+https://smart.dxjc.pp.ua/smart.php?id=niandainews_twn&token=tmxk
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="" group-title="GPT-臺灣",龍華戲劇
+https://smart.dxjc.pp.ua/smart.php?id=lunghuaxiju_twn&token=tmxk
+#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="" group-title="GPT-臺灣",龍華偶像
+https://smart.dxjc.pp.ua/smart.php?id=lunghuaidol_twn&token=tmxk
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="GPT-臺灣",龍華電影
+https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="GPT-臺灣",龍華洋片
+https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="" group-title="GPT-臺灣",龍華經典
+https://smart.dxjc.pp.ua/smart.php?id=lunghuajingdian_twn&token=tmxk
+#EXTINF:-1 tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="" group-title="GPT-臺灣",靖天國際
+https://smart.dxjc.pp.ua/smart.php?id=jingtianintl_twn&token=tmxk
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="GPT-臺灣",靖天卡通
+https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="" group-title="GPT-臺灣",大愛電視
+https://smart.dxjc.pp.ua/smart.php?id=daai_twn&token=tmxk
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="" group-title="GPT-臺灣",大愛二台
+https://smart.dxjc.pp.ua/smart.php?id=daai2_twn&token=tmxk
+#EXTINF:-1 tvg-id="EYE 旅遊台" tvg-name="EYE 旅遊台" tvg-logo="" group-title="GPT-臺灣",EYE 旅遊台
+https://smart.dxjc.pp.ua/smart.php?id=eyetvtravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="EYE 戲劇台" tvg-name="EYE 戲劇台" tvg-logo="" group-title="GPT-臺灣",EYE 戲劇台
+https://smart.dxjc.pp.ua/smart.php?id=eyetvxiju_twn&token=tmxk
+#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="GPT-臺灣",亞洲美食
+https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GPT-臺灣",美食星球
+https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="" group-title="GPT-臺灣",TLC旅遊生活
+https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="GPT-臺灣",亞洲旅遊台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="" group-title="GPT-臺灣",Arirang
+https://smart.dxjc.pp.ua/smart.php?id=arirang_twn&token=tmxk
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GPT-臺灣",AXN Taiwan
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-臺灣",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GPT-臺灣",HBO_HD
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GPT-臺灣",HBO_HITS
+https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GPT-臺灣",CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="GPT-臺灣",好萊塢電影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="GPT-臺灣",衛視電影台
+https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="GPT-臺灣",龍祥時代
+https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="GPT-臺灣",美亞電影
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="GPT-臺灣",華藝綜合
+https://smart.dxjc.pp.ua/smart.php?id=weishichinese_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="" group-title="GPT-臺灣",博斯運動一台
+https://smart.dxjc.pp.ua/smart.php?id=bosisport1_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="" group-title="GPT-臺灣",博斯運動二台
+https://smart.dxjc.pp.ua/smart.php?id=bosisport2_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="" group-title="GPT-臺灣",博斯高球一台
+https://smart.dxjc.pp.ua/smart.php?id=bosigolf1_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="" group-title="GPT-臺灣",博斯高球二台
+https://smart.dxjc.pp.ua/smart.php?id=bosigolf2_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="" group-title="GPT-臺灣",博斯網球台
+https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="" group-title="GPT-臺灣",博斯無限台
+https://smart.dxjc.pp.ua/smart.php?id=bosiunlimited_twn&token=tmxk
+#EXTINF:-1 tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="" group-title="GPT-臺灣",好消息 2
+https://smart.dxjc.pp.ua/smart.php?id=good2_twn&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-1 綜合" tvg-name="CCTV-1 綜合" tvg-logo="" group-title="GPT-央視",CCTV-1 綜合
+https://smart.dxjc.pp.ua/smart.php?id=cctv1&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-2 財經" tvg-name="CCTV-2 財經" tvg-logo="" group-title="GPT-央視",CCTV-2 財經
+https://smart.dxjc.pp.ua/smart.php?id=cctv2&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-3 綜藝" tvg-name="CCTV-3 綜藝" tvg-logo="" group-title="GPT-央視",CCTV-3 綜藝
+https://smart.dxjc.pp.ua/smart.php?id=cctv3&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="GPT-央視",CCTV-4 中文國際
+https://smart.dxjc.pp.ua/smart.php?id=Cctv4&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="GPT-央視",CCTV-4 中文國際
+https://smart.dxjc.pp.ua/smart.php?id=cctv4&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5 體育" tvg-name="CCTV-5 體育" tvg-logo="" group-title="GPT-央視",CCTV-5 體育
+https://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-6 電影" tvg-name="CCTV-6 電影" tvg-logo="" group-title="GPT-央視",CCTV-6 電影
+https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-7 國防軍事" tvg-name="CCTV-7 國防軍事" tvg-logo="" group-title="GPT-央視",CCTV-7 國防軍事
+https://smart.dxjc.pp.ua/smart.php?id=cctv7&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-8 電視劇" tvg-name="CCTV-8 電視劇" tvg-logo="" group-title="GPT-央視",CCTV-8 電視劇
+https://smart.dxjc.pp.ua/smart.php?id=cctv8hd&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-9 記錄" tvg-name="CCTV-9 記錄" tvg-logo="" group-title="GPT-央視",CCTV-9 記錄
+https://smart.dxjc.pp.ua/smart.php?id=cctv9hd&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="" group-title="GPT-央視",CCTV-10 科教
+https://smart.dxjc.pp.ua/smart.php?id=cctv10hd&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-11 戲曲" tvg-name="CCTV-11 戲曲" tvg-logo="" group-title="GPT-央視",CCTV-11 戲曲
+https://smart.dxjc.pp.ua/smart.php?id=cctv11&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-12 社會與法" tvg-name="CCTV-12 社會與法" tvg-logo="" group-title="GPT-央視",CCTV-12 社會與法
+https://smart.dxjc.pp.ua/smart.php?id=cctv12&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-13 新聞" tvg-name="CCTV-13 新聞" tvg-logo="" group-title="GPT-央視",CCTV-13 新聞
+https://smart.dxjc.pp.ua/smart.php?id=cctv13&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-14 少兒" tvg-name="CCTV-14 少兒" tvg-logo="" group-title="GPT-央視",CCTV-14 少兒
+https://smart.dxjc.pp.ua/smart.php?id=cctv14&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-15 音樂" tvg-name="CCTV-15 音樂" tvg-logo="" group-title="GPT-央視",CCTV-15 音樂
+https://smart.dxjc.pp.ua/smart.php?id=cctv15&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-16 奧林匹克" tvg-name="CCTV-16 奧林匹克" tvg-logo="" group-title="GPT-央視",CCTV-16 奧林匹克
+https://smart.dxjc.pp.ua/smart.php?id=cctv16&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-17 農業農村" tvg-name="CCTV-17 農業農村" tvg-logo="" group-title="GPT-央視",CCTV-17 農業農村
+https://smart.dxjc.pp.ua/smart.php?id=cctv17&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5+ 體育賽事" tvg-name="CCTV-5+ 體育賽事" tvg-logo="" group-title="GPT-央視",CCTV-5+ 體育賽事
+https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="GPT-央視",湖南衛視
+https://smart.dxjc.pp.ua/smart.php?id=hunan_twn&token=tmxk
+#EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="GPT-央視",浙江衛視
+https://smart.dxjc.pp.ua/smart.php?id=zhejiang_twn&token=tmxk
+#EXTINF:-1 tvg-id="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="" group-title="GPT-央視",江蘇衛視
+https://smart.dxjc.pp.ua/smart.php?id=jiangsu_twn&token=tmxk
+#EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="" group-title="GPT-央視",東方衛視
+https://smart.dxjc.pp.ua/smart.php?id=dongfangweishi_twn&token=tmxk
+#EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="" group-title="GPT-央視",北京衛視
+https://smart.dxjc.pp.ua/smart.php?id=beijing&token=tmxk
+#EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="" group-title="GPT-央視",深圳衛視
+https://smart.dxjc.pp.ua/smart.php?id=shenzhen&token=tmxk
+#EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="GPT-央視",廣東衛視
+https://smart.dxjc.pp.ua/smart.php?id=guangdongweishi_twn&token=tmxk
+#EXTINF:-1 tvg-id="大灣區衛視" tvg-name="大灣區衛視" tvg-logo="" group-title="GPT-央視",大灣區衛視
+https://smart.dxjc.pp.ua/smart.php?id=nanfang_twn&token=tmxk
+#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="GPT-央視",珠江台
+https://smart.dxjc.pp.ua/smart.php?id=zhujiang&token=tmxk
+#EXTINF:-1 tvg-id="東南衛視" tvg-name="東南衛視" tvg-logo="" group-title="GPT-央視",東南衛視
+https://smart.dxjc.pp.ua/smart.php?id=fujian&token=tmxk
+#EXTINF:-1 tvg-id="廣西衛視" tvg-name="廣西衛視" tvg-logo="" group-title="GPT-央視",廣西衛視
+https://smart.dxjc.pp.ua/smart.php?id=guangxi&token=tmxk
+#EXTINF:-1 tvg-id="湖北衛視" tvg-name="湖北衛視" tvg-logo="" group-title="GPT-央視",湖北衛視
+https://smart.dxjc.pp.ua/smart.php?id=hubei&token=tmxk
+#EXTINF:-1 tvg-id="四川衛視" tvg-name="四川衛視" tvg-logo="" group-title="GPT-央視",四川衛視
+https://smart.dxjc.pp.ua/smart.php?id=sichuan_twn&token=tmxk
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-央視",CGTN
+https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="GPT-電影",CCTV-6
+https://smart.dxjc.pp.ua/smart.php?id=cctv6&token=tmxk
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GPT-電影",AXN Taiwan
+https://smart.dxjc.pp.ua/smart.php?id=axn_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GPT-電影",HBO_HD
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GPT-電影",HBO_HITS
+https://smart.dxjc.pp.ua/smart.php?id=hbohit_twn&token=tmxk
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GPT-電影",CINEMAX
+https://smart.dxjc.pp.ua/smart.php?id=cinemax_twn&token=tmxk
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="GPT-電影",好萊塢電影台
+https://smart.dxjc.pp.ua/smart.php?id=hollywoodmovies_twn&token=tmxk
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="" group-title="GPT-電影",東森電影
+https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
+#EXTINF:-1 tvg-id="東森洋片" tvg-name="東森洋片" tvg-logo="" group-title="GPT-電影",東森洋片
+https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="GPT-電影",龍華電影
+https://smart.dxjc.pp.ua/smart.php?id=xingwei_movie&token=tmxk
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="GPT-電影",龍華洋片
+https://smart.dxjc.pp.ua/smart.php?id=lunghuawestern_twn&token=tmxk
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="GPT-電影",龍祥時代
+https://smart.dxjc.pp.ua/smart.php?id=lungxiangtime_twn&token=tmxk
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="GPT-電影",美亞電影
+https://smart.dxjc.pp.ua/smart.php?id=meiyamovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="GPT-電影",衛視電影台
+https://smart.dxjc.pp.ua/smart.php?id=weishimovie_twn&token=tmxk
+#EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="" group-title="GPT-電影",天映頻道
+https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+#EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="" group-title="GPT-電影",天映頻道
+https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+#EXTINF:-1 tvg-id="天映經典" tvg-name="天映經典" tvg-logo="" group-title="GPT-電影",天映經典
+https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GPT-電影",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="GPT-電影",Movies Now HD
+https://smart.dxjc.pp.ua/smart.php?id=moviesnow_raj&token=tmxk
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="GPT-電影",Star Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="GPT-電影",Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GPT-電影",Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GPT-電影",HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="GPT-電影",HBO Signature
+https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="GPT-電影",HBO Family
+https://smart.dxjc.pp.ua/smart.php?id=Hbofamily&token=tmxk
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="GPT-電影",HBO Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="GPT-電影",Cinemax
+https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="GPT-電影",Dreamworks
+https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="GPT-電影",SCM
+https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GPT-電影",Thrill
+https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GPT-電影",Hits Movie
+https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GPT-電影",One
+https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GPT-電影",tvN Movie
+https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GPT-電影",Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="GPT-電影",Paramount Network
+https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="GPT-電影",Astrol Kplus
+https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GPT-電影",Rock Actions
+https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GPT-電影",Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="" group-title="GPT-記錄",Natgeo_HD
+https://smart.dxjc.pp.ua/smart.php?id=natgeohd_twn&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="" group-title="GPT-記錄",NatGeo_Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=natgeowild_twn&token=tmxk
+#EXTINF:-1 tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="" group-title="GPT-記錄",Animal_Planet
+https://smart.dxjc.pp.ua/smart.php?id=animalplanet_twn&token=tmxk
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="" group-title="GPT-記錄",Discovery Asia
+https://smart.dxjc.pp.ua/smart.php?id=discoverytwn_twn&token=tmxk
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="" group-title="GPT-記錄",CI
+https://smart.dxjc.pp.ua/smart.php?id=ci_twn&token=tmxk
+#EXTINF:-1 tvg-id="Asia Travel" tvg-name="Asia Travel" tvg-logo="" group-title="GPT-記錄",Asia Travel
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="" group-title="GPT-記錄",Discovery HD
+https://smart.dxjc.pp.ua/smart.php?id=discoveryhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="GPT-記錄",亞洲美食
+https://smart.dxjc.pp.ua/smart.php?id=afc_twn&token=tmxk
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GPT-記錄",美食星球
+https://smart.dxjc.pp.ua/smart.php?id=foodplanet_twn&token=tmxk
+#EXTINF:-1 tvg-id="亞洲TLC" tvg-name="亞洲TLC" tvg-logo="" group-title="GPT-記錄",亞洲TLC
+https://smart.dxjc.pp.ua/smart.php?id=tlc_twn&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="GPT-記錄",NatGeo HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="" group-title="GPT-記錄",Fashion TV
+https://smart.dxjc.pp.ua/smart.php?id=fashiontv_twn&token=tmxk
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="GPT-記錄",History
+https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="GPT-記錄",BBC Earth HD
+https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="GPT-記錄",BBC Earth Lifestyle
+https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-記錄",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GPT-記錄",NatGeo Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GPT-記錄",Animal Planet (Eng)
+https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GPT-記錄",TLC
+https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="GPT-記錄",Foodnetwork Hd
+https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GPT-記錄",HGTV
+https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="GPT-記錄",亞洲旅遊台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="GPT-新聞",Skynews
+https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="" group-title="GPT-新聞",ABC News
+https://smart.dxjc.pp.ua/smart.php?id=abcnews_glo&token=tmxk
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="" group-title="GPT-新聞",東森財經新聞
+https://smart.dxjc.pp.ua/smart.php?id=ettvcaijing_twn&token=tmxk
+#EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="" group-title="GPT-新聞",CBS HD
+https://smart.dxjc.pp.ua/smart.php?id=cbshd_glo&token=tmxk
+#EXTINF:-1 tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="" group-title="GPT-新聞",CBSN HD
+https://smart.dxjc.pp.ua/smart.php?id=cbsn_glo&token=tmxk
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="GPT-新聞",France 24
+https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="GPT-新聞",DW (Deutsch)
+https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="GPT-新聞",NHK World
+https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="" group-title="GPT-新聞",Fox News
+https://smart.dxjc.pp.ua/smart.php?id=foxnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-新聞",CGTN
+https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="GPT-新聞",CNN International
+https://smart.dxjc.pp.ua/smart.php?id=Cnn&token=tmxk
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="GPT-新聞",CNN backup
+https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GPT-新聞",CNBC
+https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新聞",CNA
+https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-新聞",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-新聞",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=Bbcnews&token=tmxk
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GPT-新聞",Bloomberg News
+https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GPT-新聞",Al-Jazeera
+https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+#EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="" group-title="GPT-兒童",Baby TV Eng
+https://smart.dxjc.pp.ua/smart.php?id=Babytv&token=tmxk
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="GPT-兒童",CBeebies
+https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="GPT-兒童",Kids TV
+https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+#EXTINF:-1 tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="" group-title="GPT-兒童",Momo TV
+https://smart.dxjc.pp.ua/smart.php?id=momo1_twn&token=tmxk
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GPT-兒童",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="GPT-兒童",Baby TV
+https://smart.dxjc.pp.ua/smart.php?id=babytv_twn&token=tmxk
+#EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="GPT-兒童",MiaoMi
+https://smart.dxjc.pp.ua/smart.php?id=MiaoMi&token=tmxk
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="GPT-兒童",靖天卡通
+https://smart.dxjc.pp.ua/smart.php?id=jingtiancartoon_twn&token=tmxk
+#EXTINF:-1 tvg-id="東森幼幼" tvg-name="東森幼幼" tvg-logo="" group-title="GPT-兒童",東森幼幼
+https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="GPT-兒童",Cartoon Network
+https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GPT-兒童",Nickelodeon
+https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GPT-兒童",Nick Jr
+https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="GPT-體育",Astro Premier League 1
+https://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
+#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="GPT-體育",Astro EPL 1 backup
+https://smart.dxjc.pp.ua/smart.php?id=go_assp1x&token=tmxk
+#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="GPT-體育",Astro Premier League 2
+https://smart.dxjc.pp.ua/smart.php?id=go_assp2&token=tmxk
+#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="GPT-體育",Astro Grandstand
+https://smart.dxjc.pp.ua/smart.php?id=go_assp3&token=tmxk
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="GPT-體育",Astro Football
+https://smart.dxjc.pp.ua/smart.php?id=go_assp4&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="GPT-體育",Astro Sports Plus
+https://smart.dxjc.pp.ua/smart.php?id=go_sportsplus&token=tmxk
+#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="GPT-體育",Astro Badminton 1
+https://smart.dxjc.pp.ua/smart.php?id=go_badminton1&token=tmxk
+#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="GPT-體育",Astro Badminton 2
+https://smart.dxjc.pp.ua/smart.php?id=go_badminton2&token=tmxk
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="GPT-體育",Astro W-Sports
+https://smart.dxjc.pp.ua/smart.php?id=go_assp5&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="GPT-體育",Supersports 1
+https://smart.dxjc.pp.ua/smart.php?id=Assp1&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="GPT-體育",Supersports 2
+https://smart.dxjc.pp.ua/smart.php?id=Assp2&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="GPT-體育",Supersports 3
+https://smart.dxjc.pp.ua/smart.php?id=Assp3&token=tmxk
+#EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="GPT-體育",Supersports 4
+https://smart.dxjc.pp.ua/smart.php?id=Assp4&token=tmxk
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="GPT-體育",WWE
+https://smart.dxjc.pp.ua/smart.php?id=Wwe&token=tmxk
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="GPT-體育",Fight Sports
+https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="GPT-體育",NBA TV
+https://smart.dxjc.pp.ua/smart.php?id=Nba&token=tmxk
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="GPT-體育",Astro Cricket
+https://smart.dxjc.pp.ua/smart.php?id=Acricket&token=tmxk
+#EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="GPT-體育",Astro Golf
+https://smart.dxjc.pp.ua/smart.php?id=Agolf&token=tmxk
+#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="GPT-體育",Tnt Sports 1
+https://smart.dxjc.pp.ua/smart.php?id=6fac0aaead&token=tmxk
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="GPT-體育",TNT Sports 2
+https://smart.dxjc.pp.ua/smart.php?id=d9a76a79cc&token=tmxk
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="GPT-體育",TNT Sports 3
+https://smart.dxjc.pp.ua/smart.php?id=5fea4d73db&token=tmxk
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="GPT-體育",TNT Sports 4
+https://smart.dxjc.pp.ua/smart.php?id=tntsport4&token=tmxk
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="GPT-體育",Sony Ten 1
+https://smart.dxjc.pp.ua/smart.php?id=ten1_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="GPT-體育",Sony Ten 2
+https://smart.dxjc.pp.ua/smart.php?id=ten2_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="GPT-體育",Sony Ten 3
+https://smart.dxjc.pp.ua/smart.php?id=ten3_raj&token=tmxk
+#EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="GPT-體育",SPOTV 1 HD
+https://smart.dxjc.pp.ua/smart.php?id=go_spotv&token=tmxk
+#EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="GPT-體育",SPO TV 2
+https://smart.dxjc.pp.ua/smart.php?id=go_spotv2&token=tmxk
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="GPT-體育",Skysports F1
+https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="GPT-體育",Skysports Cricket
+https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="GPT-體育",Skysports EPL
+https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="GPT-體育",Skysports Main Event
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="GPT-體育",Skysports News
+https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="GPT-體育",Skysports Mix
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5 體育頻道" tvg-name="CCTV-5 體育頻道" tvg-logo="" group-title="GPT-體育",CCTV-5 體育頻道
+https://smart.dxjc.pp.ua/smart.php?id=cctv5&token=tmxk
+#EXTINF:-1 tvg-id="CCTV-5+ 體育賽事 HD" tvg-name="CCTV-5+ 體育賽事 HD" tvg-logo="" group-title="GPT-體育",CCTV-5+ 體育賽事 HD
+https://smart.dxjc.pp.ua/smart.php?id=cctv5plus&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="GPT-體育",愛爾達體育1台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport1_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="GPT-體育",愛爾達體育2台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="GPT-體育",愛爾達體育3台
+https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
+#EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="GPT-體育",Rugby Pass TV
+https://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="GPT-體育",RTM Sports HD
+https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="GPT-體育",Arena
+https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="GPT-體育",Arena 2
+https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="GPT-體育",BolaArena 1
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="GPT-體育",BolaArena 2
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+#EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="GPT-體育",Astro Beinsports 1
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
+#EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="GPT-體育",Astro Beinsports 2
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
+#EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="GPT-體育",Astro Beinsports 3
+https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="GPT-新加坡",Channel 5
+https://smart.dxjc.pp.ua/smart.php?id=Channel5HD&token=tmxk
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="GPT-新加坡",Channel 8
+https://smart.dxjc.pp.ua/smart.php?id=Channel8HD&token=tmxk
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="GPT-新加坡",Suria
+https://smart.dxjc.pp.ua/smart.php?id=Suria&token=tmxk
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="GPT-新加坡",Channel U
+https://smart.dxjc.pp.ua/smart.php?id=ChannelU&token=tmxk
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="GPT-新加坡",Vasantham
+https://smart.dxjc.pp.ua/smart.php?id=Vasantham&token=tmxk
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-新加坡",CNA
+https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+#EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="" group-title="GPT-新加坡",CNA backup
+https://smart.dxjc.pp.ua/smart.php?id=cna_twn&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 5
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch5&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch 8
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_ch8&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="GPT-新加坡",MeWatch Ch U
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_chU&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="GPT-新加坡",MeWatch Suria
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Suria&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="GPT-新加坡",MeWatch Vasantham
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_Vasantham&token=tmxk
+#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="GPT-新加坡",MeWatch CNA
+https://smart.dxjc.pp.ua/smart.php?id=Mewatch_cna&token=tmxk
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="GPT-馬來西亞",TV1
+https://smart.dxjc.pp.ua/smart.php?id=TV1&token=tmxk
+#EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="" group-title="GPT-馬來西亞",TV1 backup
+https://smart.dxjc.pp.ua/smart.php?id=TV1_backup&token=tmxk
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="" group-title="GPT-馬來西亞",TV2
+https://smart.dxjc.pp.ua/smart.php?id=TV2&token=tmxk
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="" group-title="GPT-馬來西亞",TV3
+https://smart.dxjc.pp.ua/smart.php?id=TV3&token=tmxk
+#EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="" group-title="GPT-馬來西亞",TV3 SD
+https://smart.dxjc.pp.ua/smart.php?id=TV3_mega&token=tmxk
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="" group-title="GPT-馬來西亞",NTV7
+https://smart.dxjc.pp.ua/smart.php?id=NTV7&token=tmxk
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="" group-title="GPT-馬來西亞",TV8
+https://smart.dxjc.pp.ua/smart.php?id=TV8&token=tmxk
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="" group-title="GPT-馬來西亞",TV9
+https://smart.dxjc.pp.ua/smart.php?id=TV9&token=tmxk
+#EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="" group-title="GPT-馬來西亞",Ria
+https://smart.dxjc.pp.ua/smart.php?id=Ria-0&token=tmxk
+#EXTINF:-1 tvg-id="Ria-3" tvg-name="Ria-3" tvg-logo="" group-title="GPT-馬來西亞",Ria-3
+https://smart.dxjc.pp.ua/smart.php?id=Ria_backup&token=tmxk
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="" group-title="GPT-馬來西亞",Al-Hijrah
+https://smart.dxjc.pp.ua/smart.php?id=Alhijrah&token=tmxk
+#EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="" group-title="GPT-馬來西亞",Al-Hijrah backup
+https://smart.dxjc.pp.ua/smart.php?id=Alhijrah_backup&token=tmxk
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="" group-title="GPT-馬來西亞",Awani
+https://smart.dxjc.pp.ua/smart.php?id=Awani&token=tmxk
+#EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="" group-title="GPT-馬來西亞",Bernama
+https://smart.dxjc.pp.ua/smart.php?id=Bernama&token=tmxk
+#EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="" group-title="GPT-馬來西亞",Prima
+https://smart.dxjc.pp.ua/smart.php?id=Prima-0&token=tmxk
+#EXTINF:-1 tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="" group-title="GPT-馬來西亞",Prima backup
+https://smart.dxjc.pp.ua/smart.php?id=AAprima1&token=tmxk
+#EXTINF:-1 tvg-id="Prima backup 2" tvg-name="Prima backup 2" tvg-logo="" group-title="GPT-馬來西亞",Prima backup 2
+https://smart.dxjc.pp.ua/smart.php?id=AAprima&token=tmxk
+#EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="" group-title="GPT-馬來西亞",Ceria
+https://smart.dxjc.pp.ua/smart.php?id=Ceria&token=tmxk
+#EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="" group-title="GPT-馬來西亞",Astro MTV
+https://smart.dxjc.pp.ua/smart.php?id=AstroMTV&token=tmxk
+#EXTINF:-1 tvg-id="Mecca Live HD" tvg-name="Mecca Live HD" tvg-logo="" group-title="GPT-馬來西亞",Mecca Live HD
+https://smart.dxjc.pp.ua/smart.php?id=quran_mido&token=tmxk
+#EXTINF:-1 tvg-id="Madinah HD" tvg-name="Madinah HD" tvg-logo="" group-title="GPT-馬來西亞",Madinah HD
+https://smart.dxjc.pp.ua/smart.php?id=sunnah_mido&token=tmxk
+#EXTINF:-1 tvg-id="Oasis" tvg-name="Oasis" tvg-logo="" group-title="GPT-馬來西亞",Oasis
+https://smart.dxjc.pp.ua/smart.php?id=Oasis&token=tmxk
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GPT-馬來西亞",HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="GPT-馬來西亞",HBO Signature
+https://smart.dxjc.pp.ua/smart.php?id=Hbosignature&token=tmxk
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="GPT-馬來西亞",HBO Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hbohitshd&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GPT-馬來西亞",NatGeo Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="GPT-馬來西亞",Cartoon Network
+https://smart.dxjc.pp.ua/smart.php?id=Cn&token=tmxk
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GPT-馬來西亞",Nickelodeon
+https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GPT-馬來西亞",Nick Jr
+https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="GPT-馬來西亞",Dreamworks
+https://smart.dxjc.pp.ua/smart.php?id=Dreamworks&token=tmxk
+#EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="" group-title="GPT-馬來西亞",Siar
+https://smart.dxjc.pp.ua/smart.php?id=Siar&token=tmxk
+#EXTINF:-1 tvg-id="Citra" tvg-name="Citra" tvg-logo="" group-title="GPT-馬來西亞",Citra
+https://smart.dxjc.pp.ua/smart.php?id=AAcitra&token=tmxk
+#EXTINF:-1 tvg-id="Citra backup" tvg-name="Citra backup" tvg-logo="" group-title="GPT-馬來西亞",Citra backup
+https://smart.dxjc.pp.ua/smart.php?id=AAcitra1&token=tmxk
+#EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="" group-title="GPT-馬來西亞",Sensasi
+https://smart.dxjc.pp.ua/smart.php?id=Sensasi&token=tmxk
+#EXTINF:-1 tvg-id="Aura" tvg-name="Aura" tvg-logo="" group-title="GPT-馬來西亞",Aura
+https://smart.dxjc.pp.ua/smart.php?id=Aura&token=tmxk
+#EXTINF:-1 tvg-id="Rania" tvg-name="Rania" tvg-logo="" group-title="GPT-馬來西亞",Rania
+https://smart.dxjc.pp.ua/smart.php?id=Rania&token=tmxk
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="" group-title="GPT-馬來西亞",KBS World
+https://smart.dxjc.pp.ua/smart.php?id=KBS&token=tmxk
+#EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="" group-title="GPT-馬來西亞",Boo
+https://smart.dxjc.pp.ua/smart.php?id=Boo&token=tmxk
+#EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="" group-title="GPT-馬來西亞",Awesome TV
+https://smart.dxjc.pp.ua/smart.php?id=Dsangat&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="GPT-馬來西亞",Astro Sonypix
+https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="" group-title="GPT-馬來西亞",Sony HD
+https://smart.dxjc.pp.ua/smart.php?id=SetOne&token=tmxk
+#EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="" group-title="GPT-馬來西亞",TvN
+https://smart.dxjc.pp.ua/smart.php?id=TVN&token=tmxk
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="" group-title="GPT-馬來西亞",AEC
+https://smart.dxjc.pp.ua/smart.php?id=AEC&token=tmxk
+#EXTINF:-1 tvg-id="華麗台 HD （Wah Lai Toi）" tvg-name="華麗台 HD （Wah Lai Toi）" tvg-logo="" group-title="GPT-馬來西亞",華麗台 HD （Wah Lai Toi）
+https://smart.dxjc.pp.ua/smart.php?id=Wlt&token=tmxk
+#EXTINF:-1 tvg-id="歡喜台 HD （Hua Hee Tai）" tvg-name="歡喜台 HD （Hua Hee Tai）" tvg-logo="" group-title="GPT-馬來西亞",歡喜台 HD （Hua Hee Tai）
+https://smart.dxjc.pp.ua/smart.php?id=Huahee&token=tmxk
+#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="" group-title="GPT-馬來西亞",Astro QJ
+https://smart.dxjc.pp.ua/smart.php?id=Quanjia&token=tmxk
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="GPT-馬來西亞",TVB Jade
+https://smart.dxjc.pp.ua/smart.php?id=Tvbjade&token=tmxk
+#EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="" group-title="GPT-馬來西亞",TVB Asia
+https://smart.dxjc.pp.ua/smart.php?id=Tvbasia&token=tmxk
+#EXTINF:-1 tvg-id="TVB Entertainment" tvg-name="TVB Entertainment" tvg-logo="" group-title="GPT-馬來西亞",TVB Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Tvbentertainment&token=tmxk
+#EXTINF:-1 tvg-id="TVB Classic" tvg-name="TVB Classic" tvg-logo="" group-title="GPT-馬來西亞",TVB Classic
+https://smart.dxjc.pp.ua/smart.php?id=Tvbclassic&token=tmxk
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="" group-title="GPT-馬來西亞",AOD
+https://smart.dxjc.pp.ua/smart.php?id=Aodhd&token=tmxk
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GPT-馬來西亞",One
+https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+#EXTINF:-1 tvg-id="TVB 星河台 Xing He" tvg-name="TVB 星河台 Xing He" tvg-logo="" group-title="GPT-馬來西亞",TVB 星河台 Xing He
+https://smart.dxjc.pp.ua/smart.php?id=Xinhe&token=tmxk
+#EXTINF:-1 tvg-id="愛奇藝 iQiyi" tvg-name="愛奇藝 iQiyi" tvg-logo="" group-title="GPT-馬來西亞",愛奇藝 iQiyi
+https://smart.dxjc.pp.ua/smart.php?id=Qiyi&token=tmxk
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GPT-馬來西亞",Animal Planet (Eng)
+https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GPT-馬來西亞",tvN Movie
+https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="GPT-馬來西亞",CNN backup
+https://smart.dxjc.pp.ua/smart.php?id=cnn_twn&token=tmxk
+#EXTINF:-1 tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="" group-title="GPT-馬來西亞",Celestial Classic
+https://smart.dxjc.pp.ua/smart.php?id=Celestial2&token=tmxk
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GPT-馬來西亞",CNBC
+https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GPT-馬來西亞",TLC
+https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GPT-馬來西亞",CNA
+https://smart.dxjc.pp.ua/smart.php?id=cna&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-馬來西亞",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=bbcnews_twn&token=tmxk
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="GPT-馬來西亞",Foodnetwork Hd
+https://smart.dxjc.pp.ua/smart.php?id=Foodnetwork&token=tmxk
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GPT-馬來西亞",HGTV
+https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+#EXTINF:-1 tvg-id="Goshop" tvg-name="Goshop" tvg-logo="" group-title="GPT-馬來西亞",Goshop
+https://smart.dxjc.pp.ua/smart.php?id=Goshop&token=tmxk
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GPT-馬來西亞",Celestial Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=Celestial&token=tmxk
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GPT-馬來西亞",Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="GPT-馬來西亞",Paramount Network
+https://smart.dxjc.pp.ua/smart.php?id=Paramountnetwork&token=tmxk
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="GPT-馬來西亞",Astrol Kplus
+https://smart.dxjc.pp.ua/smart.php?id=Kplus&token=tmxk
+#EXTINF:-1 tvg-id="AFC 亞洲旅遊台" tvg-name="AFC 亞洲旅遊台" tvg-logo="" group-title="GPT-馬來西亞",AFC 亞洲旅遊台
+https://smart.dxjc.pp.ua/smart.php?id=asiatravel_twn&token=tmxk
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GPT-馬來西亞",Rock Actions
+https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GPT-馬來西亞",Bloomberg News
+https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GPT-馬來西亞",Al-Jazeera
+https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GPT-馬來西亞",Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="GPT-馬來西亞",RTM Sports HD
+https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="GPT-馬來西亞",Arena
+https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="GPT-馬來西亞",Arena 2
+https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="GPT-馬來西亞",BolaArena 1
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena1&token=tmxk
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="GPT-馬來西亞",BolaArena 2
+https://smart.dxjc.pp.ua/smart.php?id=Bolaarena2&token=tmxk
+#EXTINF:-1 tvg-id="Astro LOL" tvg-name="Astro LOL" tvg-logo="" group-title="GPT-馬來西亞",Astro LOL
+https://smart.dxjc.pp.ua/smart.php?id=Astro_lol&token=tmxk
+#EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="GPT-馬來西亞",Astro Rusi
+https://smart.dxjc.pp.ua/smart.php?id=Rusi&token=tmxk
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="" group-title="GPT-馬來西亞",WION
+https://smart.dxjc.pp.ua/smart.php?id=Wion&token=tmxk
+#EXTINF:-1 tvg-id="RTM Asean" tvg-name="RTM Asean" tvg-logo="" group-title="GPT-馬來西亞",RTM Asean
+https://smart.dxjc.pp.ua/smart.php?id=Rtmasean&token=tmxk
+#EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title="GPT-印尼",TVRI National
+https://smart.dxjc.pp.ua/smart.php?id=TVRI&token=tmxk
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="GPT-印尼",RCTI
+https://smart.dxjc.pp.ua/smart.php?id=Rcti&token=tmxk
+#EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title="GPT-印尼",Kompass TV
+https://smart.dxjc.pp.ua/smart.php?id=Kompass&token=tmxk
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title="GPT-印尼",Berita Satu
+https://smart.dxjc.pp.ua/smart.php?id=BeritaSatu_eko&token=tmxk
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="GPT-印尼",Indosiar HD
+https://smart.dxjc.pp.ua/smart.php?id=Indosiar&token=tmxk
+#EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title="GPT-印尼",AnTV
+https://smart.dxjc.pp.ua/smart.php?id=Antv&token=tmxk
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="GPT-印尼",MNC TV
+https://smart.dxjc.pp.ua/smart.php?id=Mnctv&token=tmxk
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title="GPT-印尼",Trans 7
+https://smart.dxjc.pp.ua/smart.php?id=Trans7_eko&token=tmxk
+#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title="GPT-印尼",Transtv
+https://smart.dxjc.pp.ua/smart.php?id=Transtv&token=tmxk
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="GPT-印尼",JTV
+https://smart.dxjc.pp.ua/smart.php?id=JTV_eko&token=tmxk
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title="GPT-印尼",Metro TV
+https://smart.dxjc.pp.ua/smart.php?id=metrotv_eko&token=tmxk
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="GPT-印尼",Cinemax
+https://smart.dxjc.pp.ua/smart.php?id=Cinemax&token=tmxk
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="GPT-印尼",SCTV
+https://smart.dxjc.pp.ua/smart.php?id=SCTV&token=tmxk
+#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title="GPT-印尼",Tvone
+https://smart.dxjc.pp.ua/smart.php?id=Tvone&token=tmxk
+#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title="GPT-印尼",TVMU
+https://smart.dxjc.pp.ua/smart.php?id=TVMU_eko&token=tmxk
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="GPT-印尼",GTV
+https://smart.dxjc.pp.ua/smart.php?id=Gtv&token=tmxk
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="GPT-印尼",RTV
+https://smart.dxjc.pp.ua/smart.php?id=Rtv&token=tmxk
+#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title="GPT-印尼",Jak TV
+https://smart.dxjc.pp.ua/smart.php?id=JakTV&token=tmxk
+#EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title="GPT-印尼",iNews TV
+https://smart.dxjc.pp.ua/smart.php?id=Inewstv&token=tmxk
+#EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title="GPT-印尼",Daai TV
+https://smart.dxjc.pp.ua/smart.php?id=DaaiTV&token=tmxk
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title="GPT-印尼",Net TV
+https://smart.dxjc.pp.ua/smart.php?id=NetTV&token=tmxk
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GPT-印尼",Animax
+https://smart.dxjc.pp.ua/smart.php?id=Animax&token=tmxk
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="GPT-印尼",EWTN
+https://smart.dxjc.pp.ua/smart.php?id=Ewtn&token=tmxk
+#EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="" group-title="GPT-印尼",AlQuran AlKareem
+https://smart.dxjc.pp.ua/smart.php?id=AlQuran&token=tmxk
+#EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="" group-title="GPT-印尼",Tawaf TV
+https://smart.dxjc.pp.ua/smart.php?id=TawafTV&token=tmxk
+#EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="" group-title="GPT-印尼",Vision Prime
+https://smart.dxjc.pp.ua/smart.php?id=VisionPrime&token=tmxk
+#EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="" group-title="GPT-印尼",Muslim TV
+https://smart.dxjc.pp.ua/smart.php?id=MuslimTV&token=tmxk
+#EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="" group-title="GPT-印尼",Music TV
+https://smart.dxjc.pp.ua/smart.php?id=MusicTV&token=tmxk
+#EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="" group-title="GPT-印尼",Lifestyle&Fashion
+https://smart.dxjc.pp.ua/smart.php?id=Lifestyle&token=tmxk
+#EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="" group-title="GPT-印尼",Entertain
+https://smart.dxjc.pp.ua/smart.php?id=Entertain&token=tmxk
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="GPT-印尼",Hits
+https://smart.dxjc.pp.ua/smart.php?id=Hits&token=tmxk
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GPT-印尼",Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="GPT-印尼",SCM
+https://smart.dxjc.pp.ua/smart.php?id=Weishimovie&token=tmxk
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GPT-印尼",Thrill
+https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="GPT-印尼",Fight Sports
+https://smart.dxjc.pp.ua/smart.php?id=Fs&token=tmxk
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GPT-印尼",Hits Movie
+https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GPT-印尼",One
+https://smart.dxjc.pp.ua/smart.php?id=One&token=tmxk
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GPT-印尼",tvN Movie
+https://smart.dxjc.pp.ua/smart.php?id=Tvnmovie&token=tmxk
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GPT-印尼",Celestial Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=Celestialindo&token=tmxk
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GPT-印尼",Rock Actions
+https://smart.dxjc.pp.ua/smart.php?id=Rockaction&token=tmxk
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GPT-印尼",Rock Entertainment
+https://smart.dxjc.pp.ua/smart.php?id=Rockentertain&token=tmxk
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="GPT-印度",Sun TV HD
+https://smart.dxjc.pp.ua/smart.php?id=Suntv&token=tmxk
+#EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="" group-title="GPT-印度",Star Vijay
+https://smart.dxjc.pp.ua/smart.php?id=Starvijay&token=tmxk
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="" group-title="GPT-印度",Colors Tamil
+https://smart.dxjc.pp.ua/smart.php?id=Colorstam&token=tmxk
+#EXTINF:-1 tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="" group-title="GPT-印度",Sun Music
+https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sunlife" tvg-name="Astro Sunlife" tvg-logo="" group-title="GPT-印度",Astro Sunlife
+https://smart.dxjc.pp.ua/smart.php?id=Sunlife&token=tmxk
+#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="" group-title="GPT-印度",Astro Vaanavil
+https://smart.dxjc.pp.ua/smart.php?id=Vaanavil&token=tmxk
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="" group-title="GPT-印度",Zee Tamil
+https://smart.dxjc.pp.ua/smart.php?id=Zeetamil&token=tmxk
+#EXTINF:-1 tvg-id="Zee Business" tvg-name="Zee Business" tvg-logo="" group-title="GPT-印度",Zee Business
+https://smart.dxjc.pp.ua/smart.php?id=Zeebusiness&token=tmxk
+#EXTINF:-1 tvg-id="News 18 Tamil" tvg-name="News 18 Tamil" tvg-logo="" group-title="GPT-印度",News 18 Tamil
+https://smart.dxjc.pp.ua/smart.php?id=news18tamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="" group-title="GPT-印度",Adithya
+https://smart.dxjc.pp.ua/smart.php?id=Adithya&token=tmxk
+#EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="" group-title="GPT-印度",Makkal TV
+https://smart.dxjc.pp.ua/smart.php?id=Makkaltv&token=tmxk
+#EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="" group-title="GPT-印度",Zee Action
+https://smart.dxjc.pp.ua/smart.php?id=Zeeaction&token=tmxk
+#EXTINF:-1 tvg-id="Astro KTV" tvg-name="Astro KTV" tvg-logo="" group-title="GPT-印度",Astro KTV
+https://smart.dxjc.pp.ua/smart.php?id=Astroktv&token=tmxk
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="" group-title="GPT-印度",Zee TV HD
+https://smart.dxjc.pp.ua/smart.php?id=Zeetvhd&token=tmxk
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-logo="" group-title="GPT-印度",Zee Cinema HD
+https://smart.dxjc.pp.ua/smart.php?id=Zeecinemahd&token=tmxk
+#EXTINF:-1 tvg-id="Color HD" tvg-name="Color HD" tvg-logo="" group-title="GPT-印度",Color HD
+https://smart.dxjc.pp.ua/smart.php?id=Colorhd&token=tmxk
+#EXTINF:-1 tvg-id="Starplus HD" tvg-name="Starplus HD" tvg-logo="" group-title="GPT-印度",Starplus HD
+https://smart.dxjc.pp.ua/smart.php?id=Starplushd&token=tmxk
+#EXTINF:-1 tvg-id="Picture HD" tvg-name="Picture HD" tvg-logo="" group-title="GPT-印度",Picture HD
+https://smart.dxjc.pp.ua/smart.php?id=Npicture&token=tmxk
+#EXTINF:-1 tvg-id="Zee News" tvg-name="Zee News" tvg-logo="" group-title="GPT-印度",Zee News
+https://smart.dxjc.pp.ua/smart.php?id=Zeenews&token=tmxk
+#EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="" group-title="GPT-印度",Asianet
+https://smart.dxjc.pp.ua/smart.php?id=asianet_raj&token=tmxk
+#EXTINF:-1 tvg-id="Asianet News" tvg-name="Asianet News" tvg-logo="" group-title="GPT-印度",Asianet News
+https://smart.dxjc.pp.ua/smart.php?id=asianetnews_raj&token=tmxk
+#EXTINF:-1 tvg-id="Discovery World Tamil" tvg-name="Discovery World Tamil" tvg-logo="" group-title="GPT-印度",Discovery World Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoveryworldtam_raj&token=tmxk
+#EXTINF:-1 tvg-id="History Tamil" tvg-name="History Tamil" tvg-logo="" group-title="GPT-印度",History Tamil
+https://smart.dxjc.pp.ua/smart.php?id=historytam_raj&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Tamil" tvg-name="NatGeo Tamil" tvg-logo="" group-title="GPT-印度",NatGeo Tamil
+https://smart.dxjc.pp.ua/smart.php?id=natgeotamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Natgeo Wild Tamil" tvg-name="Natgeo Wild Tamil" tvg-logo="" group-title="GPT-印度",Natgeo Wild Tamil
+https://smart.dxjc.pp.ua/smart.php?id=natgeowildtamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="GPT-印度",Astro Sonypix
+https://smart.dxjc.pp.ua/smart.php?id=Asonypix&token=tmxk
+#EXTINF:-1 tvg-id="Discovery Kids Tamil" tvg-name="Discovery Kids Tamil" tvg-logo="" group-title="GPT-印度",Discovery Kids Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoverykidtamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Discovery Tamil" tvg-name="Discovery Tamil" tvg-logo="" group-title="GPT-印度",Discovery Tamil
+https://smart.dxjc.pp.ua/smart.php?id=discoverytamil_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sony Yay Tamil" tvg-name="Sony Yay Tamil" tvg-logo="" group-title="GPT-印度",Sony Yay Tamil
+https://smart.dxjc.pp.ua/smart.php?id=sonyyaytam_raj&token=tmxk
+#EXTINF:-1 tvg-id="Sun TV India" tvg-name="Sun TV India" tvg-logo="" group-title="GPT-印度",Sun TV India
+https://smart.dxjc.pp.ua/smart.php?id=suntv_raj&token=tmxk
+#EXTINF:-1 tvg-id="Starmaa HD" tvg-name="Starmaa HD" tvg-logo="" group-title="GPT-印度",Starmaa HD
+https://smart.dxjc.pp.ua/smart.php?id=starmaa_raj&token=tmxk
+#EXTINF:-1 tvg-id="Starmaa Movies HD" tvg-name="Starmaa Movies HD" tvg-logo="" group-title="GPT-印度",Starmaa Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmaamovies_raj&token=tmxk
+#EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="" group-title="GPT-印度",Bollyone
+https://smart.dxjc.pp.ua/smart.php?id=Bollyone&token=tmxk
+#EXTINF:-1 tvg-id="Astro Sunmusic" tvg-name="Astro Sunmusic" tvg-logo="" group-title="GPT-印度",Astro Sunmusic
+https://smart.dxjc.pp.ua/smart.php?id=Sunmusic&token=tmxk
+#EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="" group-title="GPT-印度",Vijay Super
+https://smart.dxjc.pp.ua/smart.php?id=vijaysuper_raj&token=tmxk
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="" group-title="GPT-印度",Vellithirai
+https://smart.dxjc.pp.ua/smart.php?id=Vellithirai&token=tmxk
+#EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" tvg-logo="" group-title="GPT-泰國",Channel 3 Thailand
+https://smart.dxjc.pp.ua/smart.php?id=ch3_pat&token=tmxk
+#EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="Channel 5 Thailand" tvg-logo="" group-title="GPT-泰國",Channel 5 Thailand
+https://smart.dxjc.pp.ua/smart.php?id=ch5_pat&token=tmxk
+#EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-name="Channel 7 Thailand" tvg-logo="" group-title="GPT-泰國",Channel 7 Thailand
+https://smart.dxjc.pp.ua/smart.php?id=ch7_pat&token=tmxk
+#EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-name="MCOT HD Thailand-1" tvg-logo="" group-title="GPT-泰國",MCOT HD Thailand-1
+https://smart.dxjc.pp.ua/smart.php?id=mcot_pat&token=tmxk
+#EXTINF:-1 tvg-id="PPTV Thailand1" tvg-name="PPTV Thailand1" tvg-logo="" group-title="GPT-泰國",PPTV Thailand1
+https://smart.dxjc.pp.ua/smart.php?id=pptv_pat&token=tmxk
+#EXTINF:-1 tvg-id="Thai Thai" tvg-name="Thai Thai" tvg-logo="" group-title="GPT-泰國",Thai Thai
+https://smart.dxjc.pp.ua/smart.php?id=thaithai_pat&token=tmxk
+#EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" tvg-logo="" group-title="GPT-泰國",Amarin
+https://smart.dxjc.pp.ua/smart.php?id=amarin_pat&token=tmxk
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="" group-title="GPT-泰國",Ch 8
+https://smart.dxjc.pp.ua/smart.php?id=ch8_pat&token=tmxk
+#EXTINF:-1 tvg-id="GmmOne" tvg-name="GmmOne" tvg-logo="" group-title="GPT-泰國",GmmOne
+https://smart.dxjc.pp.ua/smart.php?id=gmmone_pat&token=tmxk
+#EXTINF:-1 tvg-id="Mono" tvg-name="Mono" tvg-logo="" group-title="GPT-泰國",Mono
+https://smart.dxjc.pp.ua/smart.php?id=mono_pat&token=tmxk
+#EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="" group-title="GPT-泰國",Thairath
+https://smart.dxjc.pp.ua/smart.php?id=thairath_pat&token=tmxk
+#EXTINF:-1 tvg-id="tpbs" tvg-name="tpbs" tvg-logo="" group-title="GPT-泰國",tpbs
+https://smart.dxjc.pp.ua/smart.php?id=tpbs_pat&token=tmxk
+#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" tvg-logo="" group-title="GPT-泰國",Workpoint
+https://smart.dxjc.pp.ua/smart.php?id=workpoint_pat&token=tmxk
+#EXTINF:-1 tvg-id="Gmm Channel" tvg-name="Gmm Channel" tvg-logo="" group-title="GPT-泰國",Gmm Channel
+https://smart.dxjc.pp.ua/smart.php?id=gmmchannel_pat&token=tmxk
+#EXTINF:-1 tvg-id="Nation" tvg-name="Nation" tvg-logo="" group-title="GPT-泰國",Nation
+https://smart.dxjc.pp.ua/smart.php?id=nation_pat&token=tmxk
+#EXTINF:-1 tvg-id="Tnn24" tvg-name="Tnn24" tvg-logo="" group-title="GPT-泰國",Tnn24
+https://smart.dxjc.pp.ua/smart.php?id=tnn24_pat&token=tmxk
+#EXTINF:-1 tvg-id="Nbt" tvg-name="Nbt" tvg-logo="" group-title="GPT-泰國",Nbt
+https://smart.dxjc.pp.ua/smart.php?id=nbt_pat&token=tmxk
+#EXTINF:-1 tvg-id="New" tvg-name="New" tvg-logo="" group-title="GPT-泰國",New
+https://smart.dxjc.pp.ua/smart.php?id=new_pat&token=tmxk
+#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" tvg-logo="" group-title="GPT-泰國",TPTV
+https://smart.dxjc.pp.ua/smart.php?id=tptv_pat&token=tmxk
+#EXTINF:-1 tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="" group-title="GPT-英國",BBC 1
+https://smart.dxjc.pp.ua/smart.php?id=bbc1_antik&token=tmxk
+#EXTINF:-1 tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="" group-title="GPT-英國",BBC 2
+https://smart.dxjc.pp.ua/smart.php?id=bbc2_antik&token=tmxk
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="" group-title="GPT-英國",CBBC
+https://smart.dxjc.pp.ua/smart.php?id=cbbc_antik&token=tmxk
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="" group-title="GPT-英國",More4
+https://smart.dxjc.pp.ua/smart.php?id=more4_antik&token=tmxk
+#EXTINF:-1 tvg-id="Freesports" tvg-name="Freesports" tvg-logo="" group-title="GPT-英國",Freesports
+https://smart.dxjc.pp.ua/smart.php?id=freesports_antik&token=tmxk
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="GPT-英國",Skynews
+https://smart.dxjc.pp.ua/smart.php?id=skynews_twn&token=tmxk
+#EXTINF:-1 tvg-id="Pick TV" tvg-name="Pick TV" tvg-logo="" group-title="GPT-英國",Pick TV
+https://smart.dxjc.pp.ua/smart.php?id=picktv_antik&token=tmxk
+#EXTINF:-1 tvg-id="itv 1" tvg-name="itv 1" tvg-logo="" group-title="GPT-英國",itv 1
+https://smart.dxjc.pp.ua/smart.php?id=itv1_antik&token=tmxk
+#EXTINF:-1 tvg-id="itv 2" tvg-name="itv 2" tvg-logo="" group-title="GPT-英國",itv 2
+https://smart.dxjc.pp.ua/smart.php?id=itv2_antik&token=tmxk
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="" group-title="GPT-英國",Euronews
+https://smart.dxjc.pp.ua/smart.php?id=euronews_antik&token=tmxk
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="" group-title="GPT-英國",Channel 4
+https://smart.dxjc.pp.ua/smart.php?id=channel4_antik&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="GPT-英國",NatGeo HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeo&token=tmxk
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="GPT-英國",CBeebies
+https://smart.dxjc.pp.ua/smart.php?id=Cbeebies&token=tmxk
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="GPT-英國",History
+https://smart.dxjc.pp.ua/smart.php?id=History&token=tmxk
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="GPT-英國",Kids TV
+https://smart.dxjc.pp.ua/smart.php?id=KidsTV&token=tmxk
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="GPT-英國",France 24
+https://smart.dxjc.pp.ua/smart.php?id=france24_twn&token=tmxk
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="GPT-英國",DW (Deutsch)
+https://smart.dxjc.pp.ua/smart.php?id=dw_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="GPT-英國",BBC Earth HD
+https://smart.dxjc.pp.ua/smart.php?id=bbcearth_twn&token=tmxk
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="GPT-英國",BBC Earth Lifestyle
+https://smart.dxjc.pp.ua/smart.php?id=bbclifestyle_twn&token=tmxk
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-英國",MTV Live
+https://smart.dxjc.pp.ua/smart.php?id=mtvhd_twn&token=tmxk
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="GPT-英國",Star Movies HD
+https://smart.dxjc.pp.ua/smart.php?id=starmovies_raj&token=tmxk
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="GPT-英國",NHK World
+https://smart.dxjc.pp.ua/smart.php?id=nhkworld_japan&token=tmxk
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GPT-英國",Warner TV
+https://smart.dxjc.pp.ua/smart.php?id=WarnerTV&token=tmxk
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GPT-英國",HBO HD
+https://smart.dxjc.pp.ua/smart.php?id=Hbo&token=tmxk
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GPT-英國",NatGeo Wild HD
+https://smart.dxjc.pp.ua/smart.php?id=Natgeowild&token=tmxk
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GPT-英國",Nickelodeon
+https://smart.dxjc.pp.ua/smart.php?id=Nickelodeon&token=tmxk
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GPT-英國",Nick Jr
+https://smart.dxjc.pp.ua/smart.php?id=Nickjr&token=tmxk
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GPT-英國",Thrill
+https://smart.dxjc.pp.ua/smart.php?id=Thrill&token=tmxk
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-英國",CGTN
+https://smart.dxjc.pp.ua/smart.php?id=CGTN&token=tmxk
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GPT-英國",Hits Movie
+https://smart.dxjc.pp.ua/smart.php?id=Hitsmovie&token=tmxk
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GPT-英國",Animal Planet (Eng)
+https://smart.dxjc.pp.ua/smart.php?id=AnimalPlanet&token=tmxk
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GPT-英國",CNBC
+https://smart.dxjc.pp.ua/smart.php?id=cnbc_twn&token=tmxk
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GPT-英國",TLC
+https://smart.dxjc.pp.ua/smart.php?id=Tlc&token=tmxk
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GPT-英國",BBC World News
+https://smart.dxjc.pp.ua/smart.php?id=bbcworldnews_antik&token=tmxk
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GPT-英國",HGTV
+https://smart.dxjc.pp.ua/smart.php?id=HGTV&token=tmxk
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GPT-英國",Axn HD
+https://smart.dxjc.pp.ua/smart.php?id=Axn&token=tmxk
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="GPT-英國",Skysports F1
+https://smart.dxjc.pp.ua/smart.php?id=tiankongf1&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="GPT-英國",Skysports Cricket
+https://smart.dxjc.pp.ua/smart.php?id=tiankongcricket&token=tmxk
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GPT-英國",Bloomberg News
+https://smart.dxjc.pp.ua/smart.php?id=bloomberg_twn&token=tmxk
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="GPT-英國",Skysports EPL
+https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="GPT-英國",Skysports Main Event
+https://smart.dxjc.pp.ua/smart.php?id=tiankongmain&token=tmxk
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="GPT-英國",Skysports News
+https://smart.dxjc.pp.ua/smart.php?id=tiankongnews&token=tmxk
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GPT-英國",Al-Jazeera
+https://smart.dxjc.pp.ua/smart.php?id=aljazeera_twn&token=tmxk
+
+
+
+
+#######################################################
+
+
+
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA ACTION UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577387.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA COMEDY UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577385.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA DRAMA UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577383.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA GREATS UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577382.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA HITS UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577381.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA OSCARS UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577380.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA PREMIERE UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577379.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA SCIFI HORROR UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577378.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA SELECT/OSCARS FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577377.ts
+#EXTINF:-1 group-title="Movies Drama",SKY CINEMA THRILLER UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577376.ts
+
+
+
+#EXTINF:-1 group-title="Movies Drama",HBO MAX F&F 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705106.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 1 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 1 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705105.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 2 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 2 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705104.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 3 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 3 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705103.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 4 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 4 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705102.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 5 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 5 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705101.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 6 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 6 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705100.ts
-#EXTINF:-1 group-title="MOVIES",EN - HBO MAX 7 4K
+#EXTINF:-1 group-title="Movies Drama",HBO MAX 7 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705099.ts
 
 
-#EXTINF:-1 group-title="MOVIES",EN - NETFLIX 4K
+#EXTINF:-1 group-title="Movies Drama",NETFLIX 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705071.ts
-#EXTINF:-1 group-title="MOVIES",EN - NETFLIX 1 4K
+#EXTINF:-1 group-title="Movies Drama",NETFLIX 1 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705070.ts
-#EXTINF:-1 group-title="MOVIES",EN - NETFLIX 2 4K
+#EXTINF:-1 group-title="Movies Drama",NETFLIX 2 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705069.ts
-#EXTINF:-1 group-title="MOVIES",EN - NETFLIX 3 4K
+#EXTINF:-1 group-title="Movies Drama",NETFLIX 3 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705068.ts
-#EXTINF:-1 group-title="MOVIES",EN - NETFLIX 4 4K
+#EXTINF:-1 group-title="Movies Drama",NETFLIX 4 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705067.ts
-#EXTINF:-1 group-title="MOVIES",EN - NETFLIX 5 4K
+#EXTINF:-1 group-title="Movies Drama",NETFLIX 5 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705066.ts
 
 
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705064.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 1 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 1 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705063.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 2 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 2 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705062.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 3 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 3 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705061.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 4 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 4 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705060.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 5 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 5 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705059.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 6 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 6 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705058.ts
-#EXTINF:-1 group-title="MOVIES",EN - SHOWTIME 7 4K
+#EXTINF:-1 group-title="Movies Drama",SHOWTIME 7 4K
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705057.ts
 
 
 
-
-#EXTINF:-1 group-title="MOVIES",IR - IFILM HEVC
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/556667.ts
-#EXTINF:-1 group-title="MOVIES",IR - AVA SERIES HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/556703.ts
-#EXTINF:-1 group-title="MOVIES",IR - KHANE FILM
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/556809.ts
-#EXTINF:-1 group-title="MOVIES",IR - PERSIAN MOVIE
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/556678.ts
-#EXTINF:-1 group-title="MOVIES",IR - METAFILM
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/556840.ts
-#EXTINF:-1 group-title="MOVIES",IN - ZEE CINEMA EU
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281252.ts
-#EXTINF:-1 group-title="MOVIES",IN - B4U MOVIES EU
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281257.ts
-#EXTINF:-1 group-title="MOVIES",IN - COLORS CINEPLEX EU
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281269.ts
-#EXTINF:-1 group-title="MOVIES",IN - ZEE CINEMA UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281278.ts
-#EXTINF:-1 group-title="MOVIES",IN - STAR UTSAV MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281286.ts
-#EXTINF:-1 group-title="MOVIES",IN - ZEE ACTION
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281297.ts
-#EXTINF:-1 group-title="MOVIES",IN - B4U MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281302.ts
-#EXTINF:-1 group-title="MOVIES",IN - CINEPLEX UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281318.ts
-#EXTINF:-1 group-title="MOVIES",IN - UTV ACTION
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281341.ts
-#EXTINF:-1 group-title="MOVIES",IN - UTV MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281343.ts
-#EXTINF:-1 group-title="MOVIES",IN - CINEMA TV
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281351.ts
-#EXTINF:-1 group-title="MOVIES",IN - DISH CINE ACTIVE
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281355.ts
-#EXTINF:-1 group-title="MOVIES",IN - ENTER 10 MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281359.ts
-#EXTINF:-1 group-title="MOVIES",IN - HOUSEFULL ACTION
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281368.ts
-#EXTINF:-1 group-title="MOVIES",IN - HOUSEFULL MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281369.ts
-#EXTINF:-1 group-title="MOVIES",IN - MAHA MOVIE
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281381.ts
-#EXTINF:-1 group-title="MOVIES",IN - MAHA MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281382.ts
-#EXTINF:-1 group-title="MOVIES",IN - MOVIE HOUSE
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281389.ts
-#EXTINF:-1 group-title="MOVIES",IN - MOVIES ACTIVE
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281390.ts
-#EXTINF:-1 group-title="MOVIES",IN - MOVIES NOW UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281391.ts
-#EXTINF:-1 group-title="MOVIES",IN - MULTIPLEX MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281395.ts
-#EXTINF:-1 group-title="MOVIES",IN - TATA SKY BOLLYWOOD UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281430.ts
-#EXTINF:-1 group-title="MOVIES",IN - SHUBH CINEMA
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/842011.ts
-#EXTINF:-1 group-title="MOVIES",IN - MOVIE PLUS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/842009.ts
-#EXTINF:-1 group-title="MOVIES",IN - STAR UTSAV MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/841992.ts
-#EXTINF:-1 group-title="MOVIES",IN - ZEE ANMOL CINEMA
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281436.ts
-#EXTINF:-1 group-title="MOVIES",IN - ZEE ETC BOLLYWOOD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281438.ts
-#EXTINF:-1 group-title="MOVIES",PAK - FILM WORLD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281494.ts
-#EXTINF:-1 group-title="MOVIES",TAM - J MOVIES
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281586.ts
-#EXTINF:-1 group-title="MOVIES",TAM - TATA SKY TAMIL CINEMA
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281614.ts
-#EXTINF:-1 group-title="MOVIES",TAM - CINEMA TAMIL
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/834523.ts
-#EXTINF:-1 group-title="MOVIES",TAM - HOLLYWOOD LOCAL
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/834522.ts
-#EXTINF:-1 group-title="MOVIES",ENG - STAR MOVIES UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281643.ts
-#EXTINF:-1 group-title="MOVIES",ENG - STAR MOVIES SELECT UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281644.ts
-#EXTINF:-1 group-title="MOVIES",ENG - TATA SKY WORLD CINEMA UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281647.ts
-#EXTINF:-1 group-title="MOVIES",ENG - HBO UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/281651.ts
 
 
 
@@ -5909,13 +7080,9 @@ http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254258
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254296
 #EXTINF:-1 tvg-id="" tvg-name="XXXX: CHINA XXX" tvg-logo="http://46.4.101.91/18.png" group-title="私密頻道 ADULT",XXXX: CHINA XXX
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/254270
-
 #EXTINF:-1 tvg-id="C100039.397.ersatztv.org" tvg-name="Asian 1 On 1" tvg-logo="https://cdn.theporndb.net/sites/f8/50/a2/effc5933f34333c7a0a7ef7f09e8ad0/logo/asian1on1-logo.png" group-title="私密頻道 ADULT",Asian 1 On 1
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/262481
 
-
-#EXTINF:-1 group-title="私密頻道 ADULT",XXX JAPAN HDV
-http://247j.cc:80/1702860sam16923/678655/91286.ts
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",花花公子
@@ -5923,13 +7090,6 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="私密頻道 ADULT",法國時尚
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="私密頻道 ADULT",Nuart TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99051.m3u
-#EXTINF:-1 group-title="私密頻道 ADULT",Nuart TV Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99052.m3u
 
 
 
@@ -10943,524 +12103,431 @@ http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/263030
 ##############################
 
 
-
-
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 1 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444776.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 2 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444777.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 3 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444778.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 4 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444779.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 5 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444780.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 6 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444781.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 7 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444782.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 8 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444783.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 9 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444784.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 10 ᴜʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444785.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 1 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444786.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 2 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444787.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 3 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444788.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 4 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444789.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 5 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444790.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 6 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444791.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 7 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444792.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 8 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444793.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 9 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444794.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 10 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444795.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 11 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444796.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 12 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444797.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 13 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444798.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 14 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444799.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 15 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444800.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 16 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444801.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 17 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444802.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 18 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444803.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 19 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444804.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 20 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444805.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 21 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444806.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 22 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444807.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 23 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444808.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 24 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444809.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 25 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444810.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 26 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444811.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 27 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444812.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 28 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444813.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 29 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444814.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 30 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444815.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 31 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444816.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 32 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444817.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 33 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444818.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 34 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444819.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 35 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444820.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 36 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444821.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 37 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444822.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 38 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444823.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 39 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444824.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 40 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444825.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 41 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444826.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 42 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444827.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 43 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444828.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 44 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444829.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 45 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444830.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 46 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444831.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 47 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444832.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 48 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444833.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 49 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444834.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 50 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444835.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 51 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444836.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 52 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444837.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 53 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444838.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 54 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444839.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 55 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444840.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 56 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444841.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 57 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444842.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 58 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444843.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 59 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444844.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 60 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444845.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 61 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444846.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 62 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444847.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 63 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444848.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 64 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444849.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 65 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444850.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 66 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444851.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 67 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444852.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 68 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444853.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 69 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444854.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Adult 70 ғʜᴅ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/444855.m3u
-
-
-
-#EXTINF:-1 group-title="XRestreamTv Adult",Pure Babes TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/98993.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Naughty TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/98994.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Legal TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/98995.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Hustler HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99003.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Redlight HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99004.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Prıvate TV HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99005.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Dorcel HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99006.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Dorcel XXX HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99007.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Vivid Red HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99008.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Erox HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99009.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Erox XXX HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99010.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Penthouse Gold HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99011.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Penthouse Quickies HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99012.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Super One HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99013.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Babes TV HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99014.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",XY Plus HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99015.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",XY Max HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99016.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",XY Mix HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99017.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Vivid TV Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99018.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Vivid TV Europe CZ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99019.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",DUSK!
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99020.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Hustler TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99021.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",XXL
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99022.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Passie XXX
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99023.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Passion XXX
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99024.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Reality Kings TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99025.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",BraZZers TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99026.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Brazzers TV Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99027.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Brazzers TV Europe Russia
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99028.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Sexy HOT
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99029.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Meiden Van Holland Hard
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99030.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Evil Angel
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99031.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99032.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 2
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99033.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 3
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99034.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 4
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99035.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 5
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99036.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 6
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99037.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 7
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99038.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pink Erotic 8
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99039.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Шалун TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99040.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Playboy
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99041.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Playboy TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99042.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Playboy Europe HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99043.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Playboy Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99044.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Blue Hustler HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99045.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Blue Hustler
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99046.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Blue Hustler Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99047.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Russian Night
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99048.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Russian Night Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99049.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Barely Legal TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99050.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Nuart TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99051.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Nuart TV Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99052.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",O la la TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99053.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",French Lover TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99054.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Secret Circle TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99055.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Exxxotica TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99056.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Sex Prive
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99057.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Man2Man
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99058.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Jasmin TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99059.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",A3 Bikini TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99060.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Bang U
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99061.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Bang U Europe
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99062.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Vivid Touch
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99063.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Penthouse Passion
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99064.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Oldtimer
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99065.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Bangerz
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99066.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Net XX
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99067.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Playhouse
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99068.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Hot Pleasure
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99069.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Milf TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99070.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Red XXX
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99071.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Extreme
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99072.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Lesbian Affair
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99073.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Emanuelle
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99074.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",SEX ATION
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99075.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Hot XXL HD
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99076.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Pinko Club
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99078.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Cent & Cento
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99080.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Free X TV HQ
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99081.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Free X TV 2
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99083.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",X-Dream TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99084.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Balkan Erotic
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99086.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Beate-Uhse.TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99088.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Fast Boyz
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99091.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",X-MO
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99092.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Private TV
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99093.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",Erox
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99094.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",X1
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99096.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",X Bizarre
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99097.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",X Desire
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99098.m3u
-#EXTINF:-1 group-title="XRestreamTv Adult",X Bunga Bunga
-http://249692.solanaflix.com/live/TV-29713531/706554017857/99099.m3u
-
-
-
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3151" tvg-logo="http://epg.one/img2/3151.png" tvg-rec="0",Brazzers HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6182/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2021" tvg-logo="http://epg.one/img2/2021.png" tvg-rec="3",Brazzers TV Europe Россия
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/910/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3150" tvg-logo="http://epg.one/img2/3150.png" tvg-rec="0",Brazzers eXXtra
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6181/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2322" tvg-logo="http://epg.one/img2/2322.png" tvg-rec="0",Hustler HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/9065/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2322" tvg-logo="http://epg.one/img2/2322.png" tvg-rec="0",Hustler HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/244/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2249" tvg-logo="http://epg.one/img2/2249.png" tvg-rec="0",Blue Hustler
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/1064/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2777" tvg-logo="http://epg.one/img2/2777.png" tvg-rec="3",Penthouse Gold HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5011/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2779" tvg-logo="http://epg.one/img2/2779.png" tvg-rec="3",Penthouse Reality TV FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5013/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3163" tvg-logo="http://epg.one/img2/3163.png" tvg-rec="0",DDF Network
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6194/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3162" tvg-logo="http://epg.one/img2/3162.png" tvg-rec="0",DDF Busty
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6193/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3206" tvg-logo="http://epg.one/img2/3206.png" tvg-rec="0",Naughty America
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6237/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2015" tvg-logo="http://epg.one/img2/2015.png" tvg-rec="3",Русская Ночь
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/147/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2014" tvg-logo="http://epg.one/img2/2014.png" tvg-rec="3",Playboy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/527/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2779" tvg-logo="http://epg.one/img2/2779.png" tvg-rec="3",Penthouse Reality TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5012/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" tvg-rec="3",Premier Sports 1 HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/2160/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2320" tvg-logo="http://epg.one/img2/2320.png" tvg-rec="3",Redlight HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/242/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2528" tvg-logo="http://epg.one/img2/2528.png" tvg-rec="1",Vivid Red HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/2162/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2781" tvg-logo="http://epg.one/img2/2781.png" tvg-rec="3",Eroxxx HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5015/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2775" tvg-logo="http://epg.one/img2/2775.png" tvg-rec="3",XXL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5009/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3140" tvg-logo="http://epg.one/img2/3140.png" tvg-rec="3",Babes TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/2161/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-rec="3",Extasy Platinum 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/5014/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2321" tvg-logo="http://epg.one/img2/2321.png" tvg-rec="3",Private TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/243/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2632" tvg-logo="http://epg.one/img2/2632.png" tvg-rec="3",Exxxotica HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/2397/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2324" tvg-logo="http://epg.one/img2/2324.png" tvg-rec="3",Dorcel TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/245/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3135" tvg-logo="http://epg.one/img2/3135.png" tvg-rec="0",Adult Time
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6166/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3136" tvg-logo="http://epg.one/img2/3136.png" tvg-rec="0",Red TV Anal
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6167/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3137" tvg-logo="http://epg.one/img2/3137.png" tvg-rec="0",Analized HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6168/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png" tvg-rec="0",SexArt HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6165/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3140" tvg-logo="http://epg.one/img2/3140.png" tvg-rec="0",Babes
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6172/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3142" tvg-logo="http://epg.one/img2/3142.png" tvg-rec="0",Bang Bros HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6173/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3143" tvg-logo="http://epg.one/img2/3143.png" tvg-rec="0",Bang!
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6174/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3144" tvg-logo="http://epg.one/img2/3144.png" tvg-rec="0",Red TV Big Ass
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6175/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3145" tvg-logo="http://epg.one/img2/3145.png" tvg-rec="0",Red TV Big Dick
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6176/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3146" tvg-logo="http://epg.one/img2/3146.png" tvg-rec="0",Red TV Big Tits
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6177/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3147" tvg-logo="http://epg.one/img2/3147.png" tvg-rec="0",Blacked HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6178/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3149" tvg-logo="http://epg.one/img2/3149.png" tvg-rec="0",Red TV Blowjob
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6180/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3152" tvg-logo="http://epg.one/img2/3152.png" tvg-rec="0",Red TV Brunette
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6183/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3154" tvg-logo="http://epg.one/img2/3154.png" tvg-rec="0",Cherry Pimps
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6185/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3155" tvg-logo="http://epg.one/img2/3155.png" tvg-rec="0",Club Sweethearts HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6186/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2015" tvg-logo="http://epg.one/img2/2015.png" tvg-rec="0",Русская Ночь orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/9344/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3156" tvg-logo="http://epg.one/img2/3156.png" tvg-rec="0",Red TV Compilation
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6187/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3157" tvg-logo="http://epg.one/img2/3157.png" tvg-rec="0",Red TV Cuckold
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6188/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3158" tvg-logo="http://epg.one/img2/3158.png" tvg-rec="0",Cum Louder
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6189/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3161" tvg-logo="http://epg.one/img2/3161.png" tvg-rec="0",Day with a Pornstar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6192/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3164" tvg-logo="http://epg.one/img2/3164.png" tvg-rec="0",Digital Desire HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6195/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3165" tvg-logo="http://epg.one/img2/3165.png" tvg-rec="0",Digital Playground HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6196/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3166" tvg-logo="http://epg.one/img2/3166.png" tvg-rec="0",Dorcel Club
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6197/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3167" tvg-logo="http://epg.one/img2/3167.png" tvg-rec="0",Porn Angels
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6198/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3168" tvg-logo="http://epg.one/img2/3168.png" tvg-rec="0",Evil Angel HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6199/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3169" tvg-logo="http://epg.one/img2/3169.png" tvg-rec="0",Evolved Fights
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6200/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3171" tvg-logo="http://epg.one/img2/3171.png" tvg-rec="0",Fake Taxi HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6202/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3177" tvg-logo="http://epg.one/img2/3177.png" tvg-rec="0",Fap TV Compilation
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6208/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3181" tvg-logo="http://epg.one/img2/3181.png" tvg-rec="0",FemJoy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6212/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3182" tvg-logo="http://epg.one/img2/3182.png" tvg-rec="0",Red TV Fetish
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6213/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3183" tvg-logo="http://epg.one/img2/3183.png" tvg-rec="0",Red TV Gangbang
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6214/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3184" tvg-logo="http://epg.one/img2/3184.png" tvg-rec="0",Red TV Gay
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6215/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3185" tvg-logo="http://epg.one/img2/3185.png" tvg-rec="0",Got MYLF
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6216/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3186" tvg-logo="http://epg.one/img2/3186.png" tvg-rec="0",DDF Hands on Hardcore
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6217/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3187" tvg-logo="http://epg.one/img2/3187.png" tvg-rec="0",Hard X
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6218/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3188" tvg-logo="http://epg.one/img2/3188.png" tvg-rec="0",Red TV Hardcore
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6219/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3189" tvg-logo="http://epg.one/img2/3189.png" tvg-rec="0",Hitzefrei HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6220/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3190" tvg-logo="http://epg.one/img2/3190.png" tvg-rec="0",Holed
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6221/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3191" tvg-logo="http://epg.one/img2/3191.png" tvg-rec="0",Hot and Mean
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6222/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3192" tvg-logo="http://epg.one/img2/3192.png" tvg-rec="0",Hot Guys Fuck
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6223/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3193" tvg-logo="http://epg.one/img2/3193.png" tvg-rec="0",Red TV Interracial
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6224/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3194" tvg-logo="http://epg.one/img2/3194.png" tvg-rec="0",Japan HDV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6225/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3195" tvg-logo="http://epg.one/img2/3195.png" tvg-rec="0",Red TV Latina
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6226/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3196" tvg-logo="http://epg.one/img2/3196.png" tvg-rec="0",Lesbea
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6227/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3197" tvg-logo="http://epg.one/img2/3197.png" tvg-rec="0",Red TV Lesbian
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6228/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3198" tvg-logo="http://epg.one/img2/3198.png" tvg-rec="0",Lethal Hardcore
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6229/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3199" tvg-logo="http://epg.one/img2/3199.png" tvg-rec="0",Little Asians HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6230/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3200" tvg-logo="http://epg.one/img2/3200.png" tvg-rec="0",Red TV Live Cams
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6231/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3201" tvg-logo="http://epg.one/img2/3201.png" tvg-rec="0",Lust Cinema
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6232/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3202" tvg-logo="http://epg.one/img2/3202.png" tvg-rec="0",MetArt HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6233/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3203" tvg-logo="http://epg.one/img2/3203.png" tvg-rec="0",Red TV Milf
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6234/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3204" tvg-logo="http://epg.one/img2/3204.png" tvg-rec="0",Monsters of Cock
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6235/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3205" tvg-logo="http://epg.one/img2/3205.png" tvg-rec="0",MYLF TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6236/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3207" tvg-logo="http://epg.one/img2/3207.png" tvg-rec="0",Nubiles TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6238/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3209" tvg-logo="http://epg.one/img2/3209.png" tvg-rec="0",Pink Erotic 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6240/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3210" tvg-logo="http://epg.one/img2/3210.png" tvg-rec="0",Pink Erotic 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6241/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3211" tvg-logo="http://epg.one/img2/3211.png" tvg-rec="0",Playboy Plus
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6242/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3212" tvg-logo="http://epg.one/img2/3212.png" tvg-rec="0",Red TV Pornstar
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6243/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3213" tvg-logo="http://epg.one/img2/3213.png" tvg-rec="0",Red TV POV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6244/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3214" tvg-logo="http://epg.one/img2/3214.png" tvg-rec="0",Private.com HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6245/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3215" tvg-logo="http://epg.one/img2/3215.png" tvg-rec="0",Public Agent
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6246/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3216" tvg-logo="http://epg.one/img2/3216.png" tvg-rec="0",Reality Kings HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6247/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3217" tvg-logo="http://epg.one/img2/3217.png" tvg-rec="0",RK Prime
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6248/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3218" tvg-logo="http://epg.one/img2/3218.png" tvg-rec="0",RK TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6249/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3219" tvg-logo="http://epg.one/img2/3219.png" tvg-rec="0",Red TV Rough
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6250/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3220" tvg-logo="http://epg.one/img2/3220.png" tvg-rec="0",Red TV Russian
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6251/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3221" tvg-logo="http://epg.one/img2/3221.png" tvg-rec="0",Sex With Muslims
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6252/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png" tvg-rec="0",SexArt
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6253/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3224" tvg-logo="http://epg.one/img2/3224.png" tvg-rec="0",SINematica
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6255/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3225" tvg-logo="http://epg.one/img2/3225.png" tvg-rec="0",Red TV Teen
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6256/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3226" tvg-logo="http://epg.one/img2/3226.png" tvg-rec="0",Red TV Threesome
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6257/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3227" tvg-logo="http://epg.one/img2/3227.png" tvg-rec="0",Tiny4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6258/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3228" tvg-logo="http://epg.one/img2/3228.png" tvg-rec="0",Trans Angels
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6259/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3229" tvg-logo="http://epg.one/img2/3229.png" tvg-rec="0",True Amateurs
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6260/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3230" tvg-logo="http://epg.one/img2/3230.png" tvg-rec="0",Tushy HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6261/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3231" tvg-logo="http://epg.one/img2/3231.png" tvg-rec="0",Tushy RAW HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6262/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3232" tvg-logo="http://epg.one/img2/3232.png" tvg-rec="0",Visit-X TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6263/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3234" tvg-logo="http://epg.one/img2/3234.png" tvg-rec="0",Vixen HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6265/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3235" tvg-logo="http://epg.one/img2/3235.png" tvg-rec="0",We Live Together
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6266/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3236" tvg-logo="http://epg.one/img2/3236.png" tvg-rec="0",White Boxxx
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6267/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3237" tvg-logo="http://epg.one/img2/3237.png" tvg-rec="0",Wicked
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6268/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3238" tvg-logo="http://epg.one/img2/3238.png" tvg-rec="0",Xpanded TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6269/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3239" tvg-logo="http://epg.one/img2/3239.png" tvg-rec="0",Balkan Erotic
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6270/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7079" tvg-logo="http://epg.one/img2/7079.png" tvg-rec="0",Red Lips
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6271/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4930" tvg-logo="http://epg.one/img2/4930.png" tvg-rec="0",Leo TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6272/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3244" tvg-logo="http://epg.one/img2/3244.png" tvg-rec="0",HOT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6275/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3246" tvg-logo="http://epg.one/img2/3246.png" tvg-rec="0",Hot Pleasure
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6277/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3250" tvg-logo="http://epg.one/img2/3250.png" tvg-rec="0",Red XXX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6281/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3251" tvg-logo="http://epg.one/img2/3251.png" tvg-rec="0",Sexy Hot
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6282/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3253" tvg-logo="http://epg.one/img2/3253.png" tvg-rec="0",Venus
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6284/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3255" tvg-logo="http://epg.one/img2/3255.png" tvg-rec="0",XY Max HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6286/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3256" tvg-logo="http://epg.one/img2/3256.png" tvg-rec="0",XY Mix HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6287/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3257" tvg-logo="http://epg.one/img2/3257.png" tvg-rec="0",XY Plus HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6288/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3258" tvg-logo="http://epg.one/img2/3258.png" tvg-rec="0",Pink Erotic 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6289/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3259" tvg-logo="http://epg.one/img2/3259.png" tvg-rec="0",Pink Erotic 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6290/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3209" tvg-logo="http://epg.one/img2/3209.png" tvg-rec="0",Pink Erotic 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6291/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3210" tvg-logo="http://epg.one/img2/3210.png" tvg-rec="0",Pink Erotic 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6292/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3262" tvg-logo="http://epg.one/img2/3262.png" tvg-rec="0",Pink Erotic 6
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6293/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3263" tvg-logo="http://epg.one/img2/3263.png" tvg-rec="0",Pink Erotic 7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6294/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3264" tvg-logo="http://epg.one/img2/3264.png" tvg-rec="0",Pink Erotic 8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6295/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2193" tvg-logo="http://epg.one/img2/2193.png" tvg-rec="0",Erox HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6296/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3266" tvg-logo="http://epg.one/img2/3266.png" tvg-rec="0",SuperOne HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/6298/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2324" tvg-logo="http://epg.one/img2/2324.png" tvg-rec="0",Dorcel TV HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/9064/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2320" tvg-logo="http://epg.one/img2/2320.png" tvg-rec="0",Redlight HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/9066/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="9331" tvg-logo="http://epg.one/img2/9331.png" tvg-rec="0",Аппетитный HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/9067/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2632" tvg-logo="http://epg.one/img2/2632.png" tvg-rec="0",Exxxotica HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/9346/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4788" tvg-logo="http://epg.one/img2/4788.png" tvg-rec="7",StrahTV Ох-Ах HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/11068/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4787" tvg-logo="http://epg.one/img2/4787.png" tvg-rec="7",StrahTV KinoXXX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/11052/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3170" tvg-logo="http://epg.one/img2/3170.png" tvg-rec="7",StrahTV Extasy HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/11051/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4800" tvg-logo="http://epg.one/img2/4800.png" tvg-rec="0",VF Cartoon 18+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/11117/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4913" tvg-logo="http://epg.one/img2/4913.png" tvg-rec="0",Alba XXX 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12106/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7721" tvg-logo="http://epg.one/img2/7721.png" tvg-rec="0",Exotic 4k
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12107/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7722" tvg-logo="http://epg.one/img2/7722.png" tvg-rec="0",Euro Girls On Girls
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12108/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7723" tvg-logo="http://epg.one/img2/7723.png" tvg-rec="0",Erotica X
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12109/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7724" tvg-logo="http://epg.one/img2/7724.png" tvg-rec="0",Erotic Spice
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12110/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7725" tvg-logo="http://epg.one/img2/7725.png" tvg-rec="0",DP Fanatics
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12111/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4919" tvg-logo="http://epg.one/img2/4919.png" tvg-rec="0",Pornbox Pure Mature HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12112/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2021" tvg-logo="http://epg.one/img2/2021.png" tvg-rec="0",Brazzers TV Europe HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12113/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4925" tvg-logo="http://epg.one/img2/4925.png" tvg-rec="0",XY Plus
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12118/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3266" tvg-logo="http://epg.one/img2/3266.png" tvg-rec="0",SuperOne
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12121/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7726" tvg-logo="http://epg.one/img2/7726.png" tvg-rec="0",Dirty Wives Club
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12122/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2526" tvg-logo="http://epg.one/img2/2526.png" tvg-rec="0",French Lover
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12124/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4932" tvg-logo="http://epg.one/img2/4932.png" tvg-rec="0",Meiden Van Holland
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12125/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7727" tvg-logo="http://epg.one/img2/7727.png" tvg-rec="0",Dirty Masseur
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12128/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7729" tvg-logo="http://epg.one/img2/7729.png" tvg-rec="0",Dirty Flix
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12130/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2324" tvg-logo="http://epg.one/img2/2324.png" tvg-rec="0",Dorcel TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12131/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-rec="0",Kinky Family HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12133/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2014" tvg-logo="http://epg.one/img2/2014.png" tvg-rec="0",Playboy LA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12135/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4943" tvg-logo="http://epg.one/img2/4943.png" tvg-rec="0",Passie XXX TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12136/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="9703" tvg-logo="http://epg.one/img2/9703.png" tvg-rec="0",Devils Film HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12137/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7730" tvg-logo="http://epg.one/img2/7730.png" tvg-rec="0",Deep Throat Sirens
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12138/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7731" tvg-logo="http://epg.one/img2/7731.png" tvg-rec="0",Deep Lush
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12139/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7732" tvg-logo="http://epg.one/img2/7732.png" tvg-rec="0",Dark X
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12140/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4948" tvg-logo="http://epg.one/img2/4948.png" tvg-rec="0",Veraporn Group Sex
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12141/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4949" tvg-logo="http://epg.one/img2/4949.png" tvg-rec="0",Veraporn Group Sex 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12142/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7733" tvg-logo="http://epg.one/img2/7733.png" tvg-rec="0",Dane Jones
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12143/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7734" tvg-logo="http://epg.one/img2/7734.png" tvg-rec="0",Dancing Bear
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12144/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4953" tvg-logo="http://epg.one/img2/4953.png" tvg-rec="0",Pink Erotic 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12146/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4954" tvg-logo="http://epg.one/img2/4954.png" tvg-rec="0",Pink Erotic 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12147/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4955" tvg-logo="http://epg.one/img2/4955.png" tvg-rec="0",Pink Erotic 3 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12148/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4956" tvg-logo="http://epg.one/img2/4956.png" tvg-rec="0",Pink Erotic 4 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12149/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4957" tvg-logo="http://epg.one/img2/4957.png" tvg-rec="0",Pink Erotic 5 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12150/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4958" tvg-logo="http://epg.one/img2/4958.png" tvg-rec="0",Pink Erotic 6 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12151/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4959" tvg-logo="http://epg.one/img2/4959.png" tvg-rec="0",Pink Erotic 7 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12152/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4960" tvg-logo="http://epg.one/img2/4960.png" tvg-rec="0",Pink Erotic 8 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12153/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7735" tvg-logo="http://epg.one/img2/7735.png" tvg-rec="0",Dad Crush
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12154/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7736" tvg-logo="http://epg.one/img2/7736.png" tvg-rec="0",Family Swap
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12155/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7737" tvg-logo="http://epg.one/img2/7737.png" tvg-rec="0",Family Strokes
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12156/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7738" tvg-logo="http://epg.one/img2/7738.png" tvg-rec="0",Cum4k UHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12157/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7739" tvg-logo="http://epg.one/img2/7739.png" tvg-rec="0",Cum Perfection
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12158/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3202" tvg-logo="http://epg.one/img2/3202.png" tvg-rec="0",MetArt FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12160/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7741" tvg-logo="http://epg.one/img2/7741.png" tvg-rec="0",Bratty Sis
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12161/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7742" tvg-logo="http://epg.one/img2/7742.png" tvg-rec="0",Brand New Amateurs
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12162/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7743" tvg-logo="http://epg.one/img2/7743.png" tvg-rec="0",Beate Uhse
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12163/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7744" tvg-logo="http://epg.one/img2/7744.png" tvg-rec="0",BBC Pie
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12164/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="2313" tvg-logo="http://epg.one/img2/2313.png" tvg-rec="0",Barely Legal TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12165/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7746" tvg-logo="http://epg.one/img2/7746.png" tvg-rec="0",Bang POV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12166/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7747" tvg-logo="http://epg.one/img2/7747.png" tvg-rec="0",Bang Bus
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12167/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7748" tvg-logo="http://epg.one/img2/7748.png" tvg-rec="0",Banana Fever
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12168/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7749" tvg-logo="http://epg.one/img2/7749.png" tvg-rec="0",Asshole Fever
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12169/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7750" tvg-logo="http://epg.one/img2/7750.png" tvg-rec="0",Ass Parade
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12178/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7751" tvg-logo="http://epg.one/img2/7751.png" tvg-rec="0",Anal Time
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12181/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7752" tvg-logo="http://epg.one/img2/7752.png" tvg-rec="0",Anal Teen Angels
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12183/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7753" tvg-logo="http://epg.one/img2/7753.png" tvg-rec="0",Anal Only
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12184/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4994" tvg-logo="http://epg.one/img2/4994.png" tvg-rec="0",Hot Wife XXX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12187/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3230" tvg-logo="http://epg.one/img2/3230.png" tvg-rec="0",Tushy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12188/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7754" tvg-logo="http://epg.one/img2/7754.png" tvg-rec="0",Anal Mom
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12189/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7755" tvg-logo="http://epg.one/img2/7755.png" tvg-rec="0",Anal 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12190/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7756" tvg-logo="http://epg.one/img2/7756.png" tvg-rec="0",Amateur Boxxx
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12191/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7757" tvg-logo="http://epg.one/img2/7757.png" tvg-rec="0",All Anal
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12192/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7758" tvg-logo="http://epg.one/img2/7758.png" tvg-rec="0",Alex Legend
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12193/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7759" tvg-logo="http://epg.one/img2/7759.png" tvg-rec="0",Alba XXX 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12194/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4913" tvg-logo="http://epg.one/img2/4913.png" tvg-rec="0",Alba XXX 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12204/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="5354" tvg-logo="http://epg.one/img2/5354.png" tvg-rec="0",XXX Love's Berry HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/14140/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="5392" tvg-logo="http://epg.one/img2/5392.png" tvg-rec="0",Yosso TV Sexy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/14176/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="6132" tvg-logo="http://epg.one/img2/6132.png" tvg-rec="0",Liberty Эротика FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/16069/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="6321" tvg-logo="http://epg.one/img2/6321.png" tvg-rec="0",Tviksel Кино 18+ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/18075/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="6322" tvg-logo="http://epg.one/img2/6322.png" tvg-rec="0",Tviksel Кино 18+ International
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/18076/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="6320" tvg-logo="http://epg.one/img2/6320.png" tvg-rec="0",Kinoshka Adult HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/18060/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="4633" tvg-logo="http://epg.one/img2/4633.png" tvg-rec="0",Eromania 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/10049/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="5635" tvg-logo="http://epg.one/img2/5635.png" tvg-rec="0",FilmZone Plus HD EE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/20025/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="9006" tvg-logo="http://epg.one/img2/9006.png" tvg-rec="0",О!Кино
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/20023/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="9152" tvg-logo="http://epg.one/img2/9152.png" tvg-rec="0",Duo 3 HD LT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/20026/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7251" tvg-logo="http://epg.one/img2/7251.png" tvg-rec="0",CineMan ExExEx
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/20089/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="7252" tvg-logo="http://epg.one/img2/7252.png" tvg-rec="0",CineMan ExExEx TWO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/20090/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="6228" tvg-logo="http://epg.one/img2/6228.png" tvg-rec="0",BCU Charm HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/18053/index.m3u8
+#EXTINF:0 group-title="Взрослые/Adults" tvg-id="3133" tvg-logo="http://epg.one/img2/3133.png" tvg-rec="0",21 Sextury
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12205/index.m3u8
 
 
 ##############################
-
-
-
-
-#EXTINF:-1 group-title="24H Adult",PLAYBOY [FHD]
-http://247j.cc:80/1702860sam16923/678655/90207.ts
-#EXTINF:-1 group-title="24H Adult",PLAYBOY [FHD] (H265)
-http://247j.cc:80/1702860sam16923/678655/90206.ts
-#EXTINF:-1 group-title="24H Adult",PLAYBOY [HD]
-http://247j.cc:80/1702860sam16923/678655/90208.ts
-#EXTINF:-1 group-title="24H Adult",PLAYBOY [SD]
-http://247j.cc:80/1702860sam16923/678655/90209.ts
-#EXTINF:-1 group-title="24H Adult",SEX PRIVE [FHD]
-http://247j.cc:80/1702860sam16923/678655/308385.ts
-#EXTINF:-1 group-title="24H Adult",SEX PRIVE [FHD] (H265)
-http://247j.cc:80/1702860sam16923/678655/95485.ts
-#EXTINF:-1 group-title="24H Adult",SEX PRIVE [HD]
-http://247j.cc:80/1702860sam16923/678655/95486.ts
-#EXTINF:-1 group-title="24H Adult",SEX PRIVE [SD]
-http://247j.cc:80/1702860sam16923/678655/95487.ts
-#EXTINF:-1 group-title="24H Adult",SEXTREME [FHD]
-http://247j.cc:80/1702860sam16923/678655/100038.ts
-#EXTINF:-1 group-title="24H Adult",SEXTREME [HD]
-http://247j.cc:80/1702860sam16923/678655/90306.ts
-#EXTINF:-1 group-title="24H Adult",SEXTREME [SD]
-http://247j.cc:80/1702860sam16923/678655/90307.ts
-#EXTINF:-1 group-title="24H Adult",SEXY HOT [FHD]
-http://247j.cc:80/1702860sam16923/678655/308386.ts
-#EXTINF:-1 group-title="24H Adult",SEXY HOT [FHD] (H265)
-http://247j.cc:80/1702860sam16923/678655/95488.ts
-#EXTINF:-1 group-title="24H Adult",SEXY HOT [HD]
-http://247j.cc:80/1702860sam16923/678655/90308.ts
-#EXTINF:-1 group-title="24H Adult",SEXY HOT [SD]
-http://247j.cc:80/1702860sam16923/678655/90309.ts
-#EXTINF:-1 group-title="24H Adult",VENUS [HD]
-http://247j.cc:80/1702860sam16923/678655/90437.ts
-#EXTINF:-1 group-title="24H Adult",VENUS [SD]
-http://247j.cc:80/1702860sam16923/678655/90438.ts
-#EXTINF:-1 group-title="24H Adult",XXX ANYA OLSEN
-http://247j.cc:80/1702860sam16923/678655/91287.ts
-#EXTINF:-1 group-title="24H Adult",XXX BR ONLYFANS
-http://247j.cc:80/1702860sam16923/678655/91294.ts
-#EXTINF:-1 group-title="24H Adult",XXX BRASILEIRINHAS 01
-http://247j.cc:80/1702860sam16923/678655/95499.ts
-#EXTINF:-1 group-title="24H Adult",XXX BRASILEIRINHAS 02
-http://247j.cc:80/1702860sam16923/678655/91277.ts
-#EXTINF:-1 group-title="24H Adult",XXX GIRL CUM
-http://247j.cc:80/1702860sam16923/678655/91288.ts
-#EXTINF:-1 group-title="24H Adult",XXX INT ONLYFANS
-http://247j.cc:80/1702860sam16923/678655/91282.ts
-#EXTINF:-1 group-title="24H Adult",XXX JAPAN HDV
-http://247j.cc:80/1702860sam16923/678655/91286.ts
-#EXTINF:-1 group-title="24H Adult",XXX JEMMA VALENTINE
-http://247j.cc:80/1702860sam16923/678655/91280.ts
-#EXTINF:-1 group-title="24H Adult",XXX LAUREN WALKER
-http://247j.cc:80/1702860sam16923/678655/91293.ts
-#EXTINF:-1 group-title="24H Adult",XXX MANDY MUSE
-http://247j.cc:80/1702860sam16923/678655/91279.ts
-#EXTINF:-1 group-title="24H Adult",XXX MIA KHALIFA
-http://247j.cc:80/1702860sam16923/678655/91283.ts
-#EXTINF:-1 group-title="24H Adult",XXX MOM XXX
-http://247j.cc:80/1702860sam16923/678655/91292.ts
-#EXTINF:-1 group-title="24H Adult",XXX MULHER MELAO
-http://247j.cc:80/1702860sam16923/678655/91285.ts
-#EXTINF:-1 group-title="24H Adult",XXX MYRA MOANS
-http://247j.cc:80/1702860sam16923/678655/91281.ts
-#EXTINF:-1 group-title="24H Adult",XXX NAUGHTY AMERICA
-http://247j.cc:80/1702860sam16923/678655/91291.ts
-#EXTINF:-1 group-title="24H Adult",XXX REALITY KINGS
-http://247j.cc:80/1702860sam16923/678655/91290.ts
-#EXTINF:-1 group-title="24H Adult",XXX STEFANIE MOON
-http://247j.cc:80/1702860sam16923/678655/91284.ts
-#EXTINF:-1 group-title="24H Adult",XXX VANESSA MOON
-http://247j.cc:80/1702860sam16923/678655/91276.ts
-#EXTINF:-1 group-title="24H Adult",XXX YENIFER CHACON
-http://247j.cc:80/1702860sam16923/678655/91278.ts
-#EXTINF:-1 group-title="24H Adult",XXX A CASA DAS BRASILEIRINHAS
-http://247j.cc:80/1702860sam16923/678655/91289.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 01
-http://247j.cc:80/1702860sam16923/678655/91215.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 02
-http://247j.cc:80/1702860sam16923/678655/91216.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 04
-http://247j.cc:80/1702860sam16923/678655/91218.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 05
-http://247j.cc:80/1702860sam16923/678655/91219.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 06
-http://247j.cc:80/1702860sam16923/678655/91220.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 07
-http://247j.cc:80/1702860sam16923/678655/91221.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 08
-http://247j.cc:80/1702860sam16923/678655/91222.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 09
-http://247j.cc:80/1702860sam16923/678655/91223.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 10
-http://247j.cc:80/1702860sam16923/678655/91224.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 11
-http://247j.cc:80/1702860sam16923/678655/91225.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 12
-http://247j.cc:80/1702860sam16923/678655/91226.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 13
-http://247j.cc:80/1702860sam16923/678655/91227.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 14
-http://247j.cc:80/1702860sam16923/678655/91228.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 15
-http://247j.cc:80/1702860sam16923/678655/91229.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 16
-http://247j.cc:80/1702860sam16923/678655/91230.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 17
-http://247j.cc:80/1702860sam16923/678655/91231.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 18
-http://247j.cc:80/1702860sam16923/678655/91232.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 19
-http://247j.cc:80/1702860sam16923/678655/91233.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 20
-http://247j.cc:80/1702860sam16923/678655/91234.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 21
-http://247j.cc:80/1702860sam16923/678655/91235.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 22
-http://247j.cc:80/1702860sam16923/678655/91236.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 23
-http://247j.cc:80/1702860sam16923/678655/91237.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 24
-http://247j.cc:80/1702860sam16923/678655/91238.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 25
-http://247j.cc:80/1702860sam16923/678655/91239.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 26
-http://247j.cc:80/1702860sam16923/678655/91240.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 27
-http://247j.cc:80/1702860sam16923/678655/91241.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 28
-http://247j.cc:80/1702860sam16923/678655/91242.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 29
-http://247j.cc:80/1702860sam16923/678655/91243.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 30
-http://247j.cc:80/1702860sam16923/678655/91244.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 31
-http://247j.cc:80/1702860sam16923/678655/91245.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 32
-http://247j.cc:80/1702860sam16923/678655/91246.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 33
-http://247j.cc:80/1702860sam16923/678655/91247.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 34
-http://247j.cc:80/1702860sam16923/678655/91248.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 35
-http://247j.cc:80/1702860sam16923/678655/91249.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 36
-http://247j.cc:80/1702860sam16923/678655/91250.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 37
-http://247j.cc:80/1702860sam16923/678655/91251.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 38
-http://247j.cc:80/1702860sam16923/678655/91252.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 39
-http://247j.cc:80/1702860sam16923/678655/91253.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO 40
-http://247j.cc:80/1702860sam16923/678655/91254.ts
-#EXTINF:-1 group-title="24H Adult",XXX ADULTO TRANS
-http://247j.cc:80/1702860sam16923/678655/91275.ts
-
-
-
-
-
 
 
 
