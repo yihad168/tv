@@ -137,7 +137,11 @@ https://nl.utako.moe/v_paradise/index.m3u8
 ################################################
 https://github.com/TvJapan/iptv-jp/blob/main/jp_relay.m3u
 
+https://raw.githubusercontent.com/KAN314go/ss/refs/heads/main/18.json
 
+https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/ITV
+
+https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
 
 
 ################################################
@@ -2253,22 +2257,6 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/577965.ts
 #EXTINF:-1 group-title="體育世界",UK - TNT SPORTS ESPN FHD
 
 
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 1
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802488.ts
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 2
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802487.ts
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 3
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802486.ts
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 4
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802485.ts
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 5
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802484.ts
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 6
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802483.ts
-#EXTINF:-1 group-title="體育世界",HK - NOW SPORTS 7
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/802482.ts
-
-
 
 
 #EXTINF:-1 group-title="體育世界",beIN SPORTS XTRA
@@ -2387,6 +2375,8 @@ http://vocotv.pro:80/robins/robins/715559
 http://vocotv.pro:80/robins/robins/715558
 #EXTINF:-1 tvg-id="Now HK Now Sports 4K 617" tvg-name="Now HK Now Sports 4K 617" tvg-logo="https://11.112114.xyz/logo/NOWHKNOWSPORTS4K.png" group-title="體育世界",Now HK Now Sports 4K 617
 http://vocotv.pro:80/robins/robins/715557
+
+
 
 
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="體育世界", Hub Premier1 FHD
@@ -7092,15 +7082,15 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="私密頻道 ADULT",nuart
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/31716/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",nuart
 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/31716/index.m3u8
 
+
+
 #EXTINF:-1 group-title="私密頻道 ADULT",Public Agent
 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
-
-
 #EXTINF:-1 group-title="私密頻道 ADULT",Playboy
 http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 
@@ -7211,9 +7201,6 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/629174.ts
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/629175.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",XX: THREESOME TV
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/629173.ts
-
-
-
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",XX: FILMON TV
@@ -12525,15 +12512,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/20090/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/18053/index.m3u8
 #EXTINF:0 group-title="Взрослые/Adults" tvg-id="3133" tvg-logo="http://epg.one/img2/3133.png" tvg-rec="0",21 Sextury
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/12205/index.m3u8
-
-
-##############################
-
-
-
-
-
-
-
+#EXTINF:0 group-title="Взрослые/Adults" tvg-rec="0",nuart
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/31716/index.m3u8
 
 
