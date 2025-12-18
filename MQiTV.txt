@@ -24,13 +24,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
 
-  {
-   "name": "💎【冰茶】【央视卫视直播 20250715】💎",
-   "type": 0,
-      "url": "https://fy.188766.xyz/?ip=192.168.1.2&json=true",
-      "ua": "bingcha/0.1"
-  },
-
  {
       "name": "🔕歐華167🔓🔓VPN",
       "type": 0,
@@ -47,16 +40,22 @@
   },
     {
       "name": "台灣酒店",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "台灣綜合",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "name": "台灣四季",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
+    {
+      "name": "MTVS",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt"
+    },
+
     {
       "name": "4gtv",
       "url": "http://4gtv.korice.eu.org/?type=m3u"
