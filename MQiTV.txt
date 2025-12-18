@@ -38,6 +38,7 @@
     "url": "http://bxtv.3a.ink/live.m3u",
     "ua":  "okhttp/3.15"
   },
+
     {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
@@ -60,6 +61,33 @@
       "name": "4gtv",
       "url": "http://4gtv.korice.eu.org/?type=m3u"
     },
+
+  {
+      "name": "🐅mytv",
+      "type": 0,
+      "url": "http://xtvantsc.xyz/mytv.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.hackserver.net/epg.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+   {
+  "name": "❎SMT 66--py",
+  "type": 3,
+  "api": "https://od.lk/s/NjFfMTAyODU0NTUzXw/smt66.py",
+  "ext": "http://127.0.0.1:8080"
+   },
+
+   {
+     "name": "♌ 4GTV",
+     "type": 0,
+     "url": "https://od.lk/s/NjFfMTE2ODUzNDU1Xw/4GTVaa.txt",
+     "playerType": 2,
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+     "logo": "https://epg.112114.xyz/logo/{name}.png"
+   }, 
+
     {
       "name": "四季",
       "url": "https://raw.githubusercontent.com/van8866/-iptv/refs/heads/main/4gtv.m3u"
