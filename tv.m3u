@@ -1236,7 +1236,7 @@ https://smt.go-iptv.ggff.net/smart.php?id=Nba&token=Goiptv
 https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
 #EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="直播TAIWAN",Astro Golf
 https://smt.go-iptv.ggff.net/smart.php?id=Agolf&token=Goiptv
-#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="直播TAIWAN",Tnt Sports 1
+#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="直播TAIWAN",TNT Sports 1
 https://smt.go-iptv.ggff.net/smart.php?id=6fac0aaead&token=Goiptv
 #EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="直播TAIWAN",TNT Sports 2
 https://smt.go-iptv.ggff.net/smart.php?id=d9a76a79cc&token=Goiptv
@@ -1318,7 +1318,7 @@ https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Suria&token=Goiptv
 https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Vasantham&token=Goiptv
 #EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="直播TAIWAN",MeWatch CNA
 https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_cna&token=Goiptv
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="GPT-馬來西亞",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="直播TAIWAN",TV1
 https://smt.go-iptv.ggff.net/smart.php?id=TV1&token=Goiptv
 #EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="" group-title="直播TAIWAN",TV1 backup
 https://smt.go-iptv.ggff.net/smart.php?id=TV1_backup&token=Goiptv
@@ -6956,57 +6956,6 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-
-#EXTINF:-1 group-title="私密頻道 ADULT",bluehustler
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/91.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",hustlet
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/92.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",private
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/93.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",vividred
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/94.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",vividtv
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/96.ts
-#EXTINF:-1 group-title="私密頻道 ADULT",vividtouch
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/95.ts
-
-
-
-
-#EXTINF:-1 group-title="私密頻道 ADULT",驚艷台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/xEv8LNpfJlH-l5oXC-zMyLQ8dT8XuENm4qlVpQcY8zj4lsOQ0LzzNEemBPFwTxSOK3-95NvLNiPIf_uEmBgJ-i.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",潘朵拉
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/tQ0KXkOE376zDZkZWz-5w9KGmvpr6_zg4VCUjfFDkghpIT-Rwpd9Kc7S5Y0whIHRsFGlQZv1HgBk-sgXvp5bP7.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",松視1台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/dEHGYJExVp5GiDDh5R5oIbzjUFjw3teqPIb6k-P26n6fhYysFSqyeDUzDI1GFxto2f36s5eD3dAnzFRcxRzSLi.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",松視2台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/wuVA92ptDAHl5qnEJR1iPUu_vOiOnO1zThVw6G6E6hMThOas39ZaYRlxy4h-5QtAcvltwNaswaNSydNYlvST.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",松視3台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/yhIkOC3J9gdGb9OjsbC5mrC7jx35EYarLIbpqnPFfGCEcdjZYGcxKPvLhg-rwMv9TO9bPNazeCNAa7ijU5kUEi.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",彩虹e台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_LIQ3nswndVIQzK7DUntRzm4lKfYpJbF1Dowr-zOPXgpljb4xUkp6WDmQDbStzRndC8WwxlI4r1oMM1rzqKc67.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",完美台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/uyi3iUt1TqdT6ct8AK6A5Opc8yOgI5NBAo51P0EIVV1YW-Js1Z2A22rWsdqIe9WK0u9JN6NErpepOF-avEaLwP.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",彩虹K台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/fwSIsOKQu456I6-5zKEQ8yENIOzl14QHCj4EpcbH7zpRbkL7QExAe6VbHrlwAqAV165eDNOf3DJBbBylhwZ5Ti.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",极限台
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_UOm_cqYkNX1AinPoJyrt8dlMJzpjmsdaiY2RaDX3HBg8rSzAQqar6m-k25XMlcnpz20_k9W-8u6fCn1fkzPei.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",彩虹電影
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/Cdas2m-03koDMUDz6VD3D0vR2MpWRw_QsYcXByhoSuTDyoHg97CihHp9YzUCIKnr1Ys0isKAXxeOtR0fC-jGBi.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",HAPPY
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/SEvghCZdsocJ739_UotvDpikw5YpEcrPQvyHFKohv1GxAbxDyqrdnDmhzQ0XyHg_5HecASY0sT48Q9tFc6SGPC.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",Playboy
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/CWxFeX_18hu7ftKU2rxPsqiDwPQ1H08YhS1-FrWSU2AmXFcBgG-s2qVy9ByEbr_B7PsmmglPKDy5tfzc9s_kei.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",Dorcel
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/1R1Dx9dqDZ_SNp9HRMaJWpRoIl7ZSNJeAUacwQ5g92-zNPiHEn2_3b_638Nv4eCA6r_svtXji3MKmcSFTniH9P.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",HAPPY CHANNEL
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/lvxasnj7rz4ELAYdeli7KV7cAQLU0HmJUDhVkqeKVSJvxP7aiq8tYLsOBh76tsqVs2DuOzZWByQViZlgvSWFOP.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",erox
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/6q85EAu3NgxZ_IEUO9L646970i6V3A0YrQXs6AM_tBVCSoEaO-e9Zm2Kbu20RYcvtK98MovRnekw1VU8OsbZ.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",eroxxx
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/f0UM7DWaLnF9R28ally0ihytAjvunU2zWP3E8MWzMEyzGxV5JZ3Umt_h7yVLH-cMlGXwWvvYbFMqpHh21vKjwi.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",brazzers
-https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ty_De4nuMlA4Eplu-nXSYQWEXFu38xXXQzs63W6ih9hvY8TN_hYVeOuXiziYNlgytQQJ8PAZ8pwOxHi3nQOblP.m3u8
 
 
 
