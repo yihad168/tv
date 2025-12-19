@@ -757,396 +757,1018 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 
 
 
-#EXTINF:-1 group-title="直播TAIWAN",寰宇新聞
-http://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
-#EXTINF:-1 group-title="直播TAIWAN",寰宇財經
-http://tzh911.qzz.io/play-smt.php?id=huanyutaiwan_twn
-#EXTINF:-1 group-title="直播TAIWAN",中天新聞
-http://tzh911.qzz.io/play-smt.php?id=ctinews
-#EXTINF:-1 group-title="直播TAIWAN",中天亞洲
-http://tzh911.qzz.io/play-smt.php?id=ctiasia_twn
-#EXTINF:-1 group-title="直播TAIWAN",中天娛樂
-http://tzh911.qzz.io/play-smt.php?id=ctient
-#EXTINF:-1 group-title="直播TAIWAN",中天綜合
-http://tzh911.qzz.io/play-smt.php?id=ctizhonghe
-#EXTINF:-1 group-title="直播TAIWAN",TVBS
-http://tzh911.qzz.io/play-smt.php?id=tvbs
-#EXTINF:-1 group-title="直播TAIWAN",TVBS Asia
-http://tzh911.qzz.io/play-smt.php?id=Tvbasia
-#EXTINF:-1 group-title="直播TAIWAN",TVBS新聞
-http://tzh911.qzz.io/play-smt.php?id=tvbs_n
-#EXTINF:-1 group-title="直播TAIWAN",TVBS歡樂
-http://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="直播TAIWAN",東森新聞
-http://tzh911.qzz.io/play-smt.php?id=ettvnews
-#EXTINF:-1 group-title="直播TAIWAN",東森財經
-http://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="直播TAIWAN",東森綜合
-http://tzh911.qzz.io/play-smt.php?id=ettvzhonghe
-#EXTINF:-1 group-title="直播TAIWAN",東森戲劇
-http://tzh911.qzz.io/play-smt.php?id=ettvdrama
-#EXTINF:-1 group-title="直播TAIWAN",東森洋片
-http://tzh911.qzz.io/play-smt.php?id=ettvwestern
-#EXTINF:-1 group-title="直播TAIWAN",東森電影
-http://tzh911.qzz.io/play-smt.php?id=ettvmovie
-#EXTINF:-1 group-title="直播TAIWAN",東森幼幼
-http://tzh911.qzz.io/play-smt.php?id=yoyo_twn
-#EXTINF:-1 group-title="直播TAIWAN",東森超視
-http://tzh911.qzz.io/play-smt.php?id=ettvsuper
-#EXTINF:-1 group-title="直播TAIWAN",中視新聞
-http://tzh911.qzz.io/play-smt.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="直播TAIWAN",中視
-http://tzh911.qzz.io/play-smt.php?id=zhongshihd_twn
-#EXTINF:-1 group-title="直播TAIWAN",中視經典
-http://tzh911.qzz.io/play-smt.php?id=zhongshi_twn
-#EXTINF:-1 group-title="直播TAIWAN",民視
-http://tzh911.qzz.io/play-smt.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="直播TAIWAN",民視新聞
-http://tzh911.qzz.io/play-smt.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="直播TAIWAN",民視第一
-http://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="直播TAIWAN",民視臺灣
-http://tzh911.qzz.io/play-smt.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="直播TAIWAN",華視
-http://tzh911.qzz.io/play-smt.php?id=ctshd_twn
-#EXTINF:-1 group-title="直播TAIWAN",台視綜合
-http://tzh911.qzz.io/play-smt.php?id=ttvzhonghe
-#EXTINF:-1 group-title="直播TAIWAN",台視
-http://tzh911.qzz.io/play-smt.php?id=ttv_taiwan
-#EXTINF:-1 group-title="直播TAIWAN",台視新聞
-http://tzh911.qzz.io/play-smt.php?id=ttvnews_twn
-#EXTINF:-1 group-title="直播TAIWAN",公視台語
-http://tzh911.qzz.io/play-smt.php?id=ctv2_twn
-#EXTINF:-1 group-title="直播TAIWAN",三立閩南
-http://tzh911.qzz.io/play-smt.php?id=sanlitaiwan
-#EXTINF:-1 group-title="直播TAIWAN",三立戲劇
-http://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="直播TAIWAN",三立綜合
-http://tzh911.qzz.io/play-smt.php?id=sanlizhonghe
-#EXTINF:-1 group-title="直播TAIWAN",三立都會
-http://tzh911.qzz.io/play-smt.php?id=sanlidouhui
-#EXTINF:-1 group-title="直播TAIWAN",非凡新聞
-http://tzh911.qzz.io/play-smt.php?id=feifannews_twn
-#EXTINF:-1 group-title="直播TAIWAN",年代新聞
-http://tzh911.qzz.io/play-smt.php?id=niandainews_twn
-#EXTINF:-1 group-title="直播TAIWAN",八大第一
-http://tzh911.qzz.io/play-smt.php?id=badafirst
-#EXTINF:-1 group-title="直播TAIWAN",八大綜合
-http://tzh911.qzz.io/play-smt.php?id=badazhonghe
-#EXTINF:-1 group-title="直播TAIWAN",八大戲劇
-http://tzh911.qzz.io/play-smt.php?id=badadrama
-#EXTINF:-1 group-title="直播TAIWAN",八大娛樂
-http://tzh911.qzz.io/play-smt.php?id=badaentertain
-#EXTINF:-1 group-title="直播TAIWAN",華藝綜合
-http://tzh911.qzz.io/play-smt.php?id=weishichinese_twn
-#EXTINF:-1 group-title="直播TAIWAN",大愛1台
-http://tzh911.qzz.io/play-smt.php?id=daai_twn
-#EXTINF:-1 group-title="直播TAIWAN",大愛2台
-http://tzh911.qzz.io/play-smt.php?id=daai2_twn
-#EXTINF:-1 group-title="直播TAIWAN",好消息2
-http://tzh911.qzz.io/play-smt.php?id=good2_twn
-#EXTINF:-1 group-title="直播TAIWAN",阿里郎綜合
-http://tzh911.qzz.io/play-smt.php?id=arirang_twn
-#EXTINF:-1 group-title="直播TAIWAN",AXN電影
-http://tzh911.qzz.io/play-smt.php?id=axn_twn
-#EXTINF:-1 group-title="直播TAIWAN",Cinemax
-http://tzh911.qzz.io/play-smt.php?id=cinemax_twn
-#EXTINF:-1 group-title="直播TAIWAN",HBO高清
-http://tzh911.qzz.io/play-smt.php?id=hbohd_twn
-#EXTINF:-1 group-title="直播TAIWAN",HBO家庭
-http://tzh911.qzz.io/play-smt.php?id=fyi_twn
-#EXTINF:-1 group-title="直播TAIWAN",好萊嗚電影
-http://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
-#EXTINF:-1 group-title="直播TAIWAN",龍祥電影
-http://tzh911.qzz.io/play-smt.php?id=lungxiangtime_twn
-#EXTINF:-1 group-title="直播TAIWAN",龍華經典
-http://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
-#EXTINF:-1 group-title="直播TAIWAN",龍華戲劇
-http://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="直播TAIWAN",龍華電影
-http://tzh911.qzz.io/play-smt.php?id=xingwei_movie
-#EXTINF:-1 group-title="直播TAIWAN",龍華偶像
-http://tzh911.qzz.io/play-smt.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="直播TAIWAN",龍華洋片
-http://tzh911.qzz.io/play-smt.php?id=lunghuawestern_twn
-#EXTINF:-1 group-title="直播TAIWAN",緯來電影
-http://tzh911.qzz.io/play-smt.php?id=videolandmovie
-#EXTINF:-1 group-title="直播TAIWAN",緯來日本
-http://tzh911.qzz.io/play-smt.php?id=videolandjapan
-#EXTINF:-1 group-title="直播TAIWAN",緯來體育
-http://tzh911.qzz.io/play-smt.php?id=videolandsport
-#EXTINF:-1 group-title="直播TAIWAN",緯來綜合
-http://tzh911.qzz.io/play-smt.php?id=videolandzonghe
-#EXTINF:-1 group-title="直播TAIWAN",緯來育樂
-http://tzh911.qzz.io/play-smt.php?id=videolandyule
-#EXTINF:-1 group-title="直播TAIWAN",緯來精彩
-http://tzh911.qzz.io/play-smt.php?id=videolandspecial_twn
-#EXTINF:-1 group-title="直播TAIWAN",靖天國際
-http://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
-#EXTINF:-1 group-title="直播TAIWAN",靖天卡通
-http://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="直播TAIWAN",ELTA影劇
-http://tzh911.qzz.io/play-smt.php?id=eltayingju_twn
-#EXTINF:-1 group-title="直播TAIWAN",ELTA綜合
-http://tzh911.qzz.io/play-smt.php?id=eltazonghe_twn
-#EXTINF:-1 group-title="直播TAIWAN",ELTA體育1
-http://tzh911.qzz.io/play-smt.php?id=eltasport_twn
-#EXTINF:-1 group-title="直播TAIWAN",ELTA體育2
-http://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-#EXTINF:-1 group-title="直播TAIWAN",ELTA體育3
-http://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
-#EXTINF:-1 group-title="直播TAIWAN",DAZN 1
-http://tzh911.qzz.io/play-smt.php?id=golfchannel_twn
-#EXTINF:-1 group-title="直播TAIWAN",博斯無限
-http://tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
-#EXTINF:-1 group-title="直播TAIWAN",博斯網球
-http://tzh911.qzz.io/play-smt.php?id=bositennis_twn
-#EXTINF:-1 group-title="直播TAIWAN",博斯運動1
-http://tzh911.qzz.io/play-smt.php?id=bosisport1_twn
-#EXTINF:-1 group-title="直播TAIWAN",博斯運動2
-http://tzh911.qzz.io/play-smt.php?id=bosisport2_twn
-#EXTINF:-1 group-title="直播TAIWAN",博斯高球1
-http://tzh911.qzz.io/play-smt.php?id=bosigolf1_twn
-#EXTINF:-1 group-title="直播TAIWAN",博斯高球2
-http://tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="直播TAIWAN",探索亞洲
-http://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="直播TAIWAN",國家地理
-http://tzh911.qzz.io/play-smt.php?id=natgeohd_twn
-#EXTINF:-1 group-title="直播TAIWAN",野生動物
-http://tzh911.qzz.io/play-smt.php?id=natgeowild_twn
-#EXTINF:-1 group-title="直播TAIWAN",動物星球
-http://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
-#EXTINF:-1 group-title="直播TAIWAN",美食星球
-http://tzh911.qzz.io/play-smt.php?id=foodplanet_twn
-#EXTINF:-1 group-title="直播TAIWAN",亞洲美食
-http://tzh911.qzz.io/play-smt.php?id=afc_twn
-#EXTINF:-1 group-title="直播TAIWAN",亞洲旅遊
-http://tzh911.qzz.io/play-smt.php?id=asiatravel_twn
-#EXTINF:-1 group-title="直播TAIWAN",亞洲TLC
-http://tzh911.qzz.io/play-smt.php?id=tlc_twn
-#EXTINF:-1 group-title="直播TAIWAN",EYETV 旅遊
-http://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="直播TAIWAN",EYETV 戲劇
-http://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="直播TAIWAN",MTV
-http://tzh911.qzz.io/play-smt.php?id=mtvhd_twn
-#EXTINF:-1 group-title="直播TAIWAN",Discovery
-http://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
+
+################################################
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="直播TAIWAN",翡翠台
+https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="直播TAIWAN",翡翠台
+https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="" group-title="直播TAIWAN",明珠台
+https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
+#EXTINF:-1 tvg-id="無線新聞" tvg-name="無線新聞" tvg-logo="" group-title="直播TAIWAN",無線新聞
+https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="" group-title="直播TAIWAN",TVBPLUS
+https://smt.go-iptv.ggff.net/smart.php?id=j2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="直播TAIWAN",ViuTV
+https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
+#EXTINF:-1 tvg-id="ViuTV 6" tvg-name="ViuTV 6" tvg-logo="" group-title="直播TAIWAN",ViuTV 6
+https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
+#EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK 31" tvg-logo="" group-title="直播TAIWAN",RTHK 31
+https://smt.go-iptv.ggff.net/smart.php?id=rhk31_twn&token=Goiptv
+#EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK 32" tvg-logo="" group-title="直播TAIWAN",RTHK 32
+https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="" group-title="直播TAIWAN",HOY TV
+https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="" group-title="直播TAIWAN",鳳凰中文
+https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="" group-title="直播TAIWAN",鳳凰資訊
+https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="" group-title="直播TAIWAN",鳳凰香港
+https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
+#EXTINF:-1 tvg-id="台視 HD" tvg-name="台視 HD" tvg-logo="" group-title="直播TAIWAN",台視 HD
+https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="" group-title="直播TAIWAN",台視新聞
+https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="" group-title="直播TAIWAN",台視綜合
+https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
+#EXTINF:-1 tvg-id="中視 HD" tvg-name="中視 HD" tvg-logo="" group-title="直播TAIWAN",中視 HD
+https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="" group-title="直播TAIWAN",中視新聞
+https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" tvg-logo="" group-title="直播TAIWAN",中視經典
+https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
+#EXTINF:-1 tvg-id="華視 HD" tvg-name="華視 HD" tvg-logo="" group-title="直播TAIWAN",華視 HD
+https://smt.go-iptv.ggff.net/smart.php?id=ctshd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="公視 HD" tvg-name="公視 HD" tvg-logo="" group-title="直播TAIWAN",公視 HD
+https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
+#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="" group-title="直播TAIWAN",公視台語台
+https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="三立臺灣台" tvg-name="三立臺灣台" tvg-logo="" group-title="直播TAIWAN",三立臺灣台
+https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
+#EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="" group-title="直播TAIWAN",三立都會台
+https://smt.go-iptv.ggff.net/smart.php?id=sanlidouhui&token=Goiptv
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="" group-title="直播TAIWAN",三立綜合台
+https://smt.go-iptv.ggff.net/smart.php?id=sanlizhonghe&token=Goiptv
+#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="" group-title="直播TAIWAN",三立戲劇台
+https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="" group-title="直播TAIWAN",東森新聞台
+https://smt.go-iptv.ggff.net/smart.php?id=ettvnews&token=Goiptv
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="" group-title="直播TAIWAN",東森財經新聞台
+https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
+#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="" group-title="直播TAIWAN",東森綜合台
+https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="" group-title="直播TAIWAN",東森戲劇台
+https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="" group-title="直播TAIWAN",東森電影台
+https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="" group-title="直播TAIWAN",東森洋片台
+https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="" group-title="直播TAIWAN",東森幼幼台
+https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="直播TAIWAN",東森超視
+https://smt.go-iptv.ggff.net/smart.php?id=ettvsuper&token=Goiptv
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="直播TAIWAN",TVBS HD
+https://smt.go-iptv.ggff.net/smart.php?id=tvbs&token=Goiptv
+#EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" tvg-logo="" group-title="直播TAIWAN",TVBS 新聞台
+https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
+#EXTINF:-1 tvg-id="TVBS 歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="" group-title="直播TAIWAN",TVBS 歡樂台
+https://smt.go-iptv.ggff.net/smart.php?id=tvbshuanle_twn&token=Goiptv
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="" group-title="直播TAIWAN",民視 HD
+https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="" group-title="直播TAIWAN",民視新聞台
+https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
+#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" tvg-logo="" group-title="直播TAIWAN",民視臺灣台
+https://smt.go-iptv.ggff.net/smart.php?id=ftvtaiwan_twn&token=Goiptv
+#EXTINF:-1 tvg-id="中天綜合" tvg-name="中天綜合" tvg-logo="" group-title="直播TAIWAN",中天綜合
+https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
+#EXTINF:-1 tvg-id="中天娛樂" tvg-name="中天娛樂" tvg-logo="" group-title="直播TAIWAN",中天娛樂
+https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
+#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="" group-title="直播TAIWAN",中天亞洲
+https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="" group-title="直播TAIWAN",中天新聞
+https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="直播TAIWAN",寰宇新聞台
+https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="" group-title="直播TAIWAN",寰宇財經台
+https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="" group-title="直播TAIWAN",八大第一台
+https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+#EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="" group-title="直播TAIWAN",八大綜合台
+https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
+#EXTINF:-1 tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="" group-title="直播TAIWAN",八大戲劇台
+https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
+#EXTINF:-1 tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="" group-title="直播TAIWAN",八大娛樂台
+https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="" group-title="直播TAIWAN",緯來體育
+https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
+#EXTINF:-1 tvg-id="緯來精彩" tvg-name="緯來精彩" tvg-logo="" group-title="直播TAIWAN",緯來精彩
+https://smt.go-iptv.ggff.net/smart.php?id=videolandspecial_twn&token=Goiptv
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="" group-title="直播TAIWAN",緯來日本
+https://smt.go-iptv.ggff.net/smart.php?id=videolandjapan&token=Goiptv
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="" group-title="直播TAIWAN",緯來電影
+https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
+#EXTINF:-1 tvg-id="緯來綜合" tvg-name="緯來綜合" tvg-logo="" group-title="直播TAIWAN",緯來綜合
+https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="直播TAIWAN",緯來育樂
+https://smt.go-iptv.ggff.net/smart.php?id=videolandyule&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="直播TAIWAN",愛爾達綜合台
+https://smt.go-iptv.ggff.net/smart.php?id=eltazonghe_twn&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="直播TAIWAN",愛爾達影劇台
+https://smt.go-iptv.ggff.net/smart.php?id=eltayingju_twn&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="直播TAIWAN",愛爾達體育1台
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport_twn&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="直播TAIWAN",愛爾達體育2台
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="直播TAIWAN",愛爾達體育3台
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="" group-title="直播TAIWAN",愛爾達體育4台
+https://smt.go-iptv.ggff.net/smart.php?id=eltasports4_twn&token=Goiptv
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="" group-title="直播TAIWAN",非凡新聞
+https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="直播TAIWAN",年代新聞
+https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="" group-title="直播TAIWAN",龍華戲劇
+https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
+#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="" group-title="直播TAIWAN",龍華偶像
+https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="直播TAIWAN",龍華電影
+https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="直播TAIWAN",龍華洋片
+https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
+#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="" group-title="直播TAIWAN",龍華經典
+https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
+#EXTINF:-1 tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="" group-title="直播TAIWAN",靖天國際
+https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="直播TAIWAN",靖天卡通
+https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="" group-title="直播TAIWAN",大愛電視
+https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="" group-title="直播TAIWAN",大愛二台
+https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="EYE 旅遊台" tvg-name="EYE 旅遊台" tvg-logo="" group-title="直播TAIWAN",EYE 旅遊台
+https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
+#EXTINF:-1 tvg-id="EYE 戲劇台" tvg-name="EYE 戲劇台" tvg-logo="" group-title="直播TAIWAN",EYE 戲劇台
+https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
+#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="直播TAIWAN",亞洲美食
+https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="直播TAIWAN",美食星球
+https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
+#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="" group-title="直播TAIWAN",TLC旅遊生活
+https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="直播TAIWAN",亞洲旅遊台
+https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="" group-title="直播TAIWAN",Arirang
+https://smt.go-iptv.ggff.net/smart.php?id=arirang_twn&token=Goiptv
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="直播TAIWAN",AXN Taiwan
+https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="直播TAIWAN",MTV Live
+https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="直播TAIWAN",HBO_HD
+https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="直播TAIWAN",HBO_HITS
+https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="直播TAIWAN",CINEMAX
+https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="直播TAIWAN",好萊塢電影台
+https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="直播TAIWAN",衛視電影台
+https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="直播TAIWAN",龍祥時代
+https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="直播TAIWAN",美亞電影
+https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="直播TAIWAN",華藝綜合
+https://smt.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="" group-title="直播TAIWAN",博斯運動一台
+https://smt.go-iptv.ggff.net/smart.php?id=bosisport1_twn&token=Goiptv
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="" group-title="直播TAIWAN",博斯運動二台
+https://smt.go-iptv.ggff.net/smart.php?id=bosisport2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="" group-title="直播TAIWAN",博斯高球一台
+https://smt.go-iptv.ggff.net/smart.php?id=bosigolf1_twn&token=Goiptv
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="" group-title="直播TAIWAN",博斯高球二台
+https://smt.go-iptv.ggff.net/smart.php?id=bosigolf2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="" group-title="直播TAIWAN",博斯網球台
+https://smt.go-iptv.ggff.net/smart.php?id=bositennis_twn&token=Goiptv
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="" group-title="直播TAIWAN",博斯無限台
+https://smt.go-iptv.ggff.net/smart.php?id=bosiunlimited_twn&token=Goiptv
+#EXTINF:-1 tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="" group-title="直播TAIWAN",好消息 2
+https://smt.go-iptv.ggff.net/smart.php?id=good2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-1 綜合" tvg-name="CCTV-1 綜合" tvg-logo="" group-title="直播TAIWAN",CCTV-1 綜合
+https://smt.go-iptv.ggff.net/smart.php?id=cctv1&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-2 財經" tvg-name="CCTV-2 財經" tvg-logo="" group-title="直播TAIWAN",CCTV-2 財經
+https://smt.go-iptv.ggff.net/smart.php?id=cctv2&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-3 綜藝" tvg-name="CCTV-3 綜藝" tvg-logo="" group-title="直播TAIWAN",CCTV-3 綜藝
+https://smt.go-iptv.ggff.net/smart.php?id=cctv3&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="直播TAIWAN",CCTV-4 中文國際
+https://smt.go-iptv.ggff.net/smart.php?id=Cctv4&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="直播TAIWAN",CCTV-4 中文國際
+https://smt.go-iptv.ggff.net/smart.php?id=cctv4&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-5 體育" tvg-name="CCTV-5 體育" tvg-logo="" group-title="直播TAIWAN",CCTV-5 體育
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-6 電影" tvg-name="CCTV-6 電影" tvg-logo="" group-title="直播TAIWAN",CCTV-6 電影
+https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-7 國防軍事" tvg-name="CCTV-7 國防軍事" tvg-logo="" group-title="直播TAIWAN",CCTV-7 國防軍事
+https://smt.go-iptv.ggff.net/smart.php?id=cctv7&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-8 電視劇" tvg-name="CCTV-8 電視劇" tvg-logo="" group-title="直播TAIWAN",CCTV-8 電視劇
+https://smt.go-iptv.ggff.net/smart.php?id=cctv8hd&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-9 記錄" tvg-name="CCTV-9 記錄" tvg-logo="" group-title="直播TAIWAN",CCTV-9 記錄
+https://smt.go-iptv.ggff.net/smart.php?id=cctv9hd&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="" group-title="直播TAIWAN",CCTV-10 科教
+https://smt.go-iptv.ggff.net/smart.php?id=cctv10hd&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-11 戲曲" tvg-name="CCTV-11 戲曲" tvg-logo="" group-title="直播TAIWAN",CCTV-11 戲曲
+https://smt.go-iptv.ggff.net/smart.php?id=cctv11&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-12 社會與法" tvg-name="CCTV-12 社會與法" tvg-logo="" group-title="直播TAIWAN",CCTV-12 社會與法
+https://smt.go-iptv.ggff.net/smart.php?id=cctv12&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-13 新聞" tvg-name="CCTV-13 新聞" tvg-logo="" group-title="直播TAIWAN",CCTV-13 新聞
+https://smt.go-iptv.ggff.net/smart.php?id=cctv13&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-14 少兒" tvg-name="CCTV-14 少兒" tvg-logo="" group-title="直播TAIWAN",CCTV-14 少兒
+https://smt.go-iptv.ggff.net/smart.php?id=cctv14&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-15 音樂" tvg-name="CCTV-15 音樂" tvg-logo="" group-title="直播TAIWAN",CCTV-15 音樂
+https://smt.go-iptv.ggff.net/smart.php?id=cctv15&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-16 奧林匹克" tvg-name="CCTV-16 奧林匹克" tvg-logo="" group-title="直播TAIWAN",CCTV-16 奧林匹克
+https://smt.go-iptv.ggff.net/smart.php?id=cctv16&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-17 農業農村" tvg-name="CCTV-17 農業農村" tvg-logo="" group-title="直播TAIWAN",CCTV-17 農業農村
+https://smt.go-iptv.ggff.net/smart.php?id=cctv17&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-5+ 體育賽事" tvg-name="CCTV-5+ 體育賽事" tvg-logo="" group-title="直播TAIWAN",CCTV-5+ 體育賽事
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
+#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="直播TAIWAN",湖南衛視
+https://smt.go-iptv.ggff.net/smart.php?id=hunan_twn&token=Goiptv
+#EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="直播TAIWAN",浙江衛視
+https://smt.go-iptv.ggff.net/smart.php?id=zhejiang_twn&token=Goiptv
+#EXTINF:-1 tvg-id="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="" group-title="直播TAIWAN",江蘇衛視
+https://smt.go-iptv.ggff.net/smart.php?id=jiangsu_twn&token=Goiptv
+#EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="" group-title="直播TAIWAN",東方衛視
+https://smt.go-iptv.ggff.net/smart.php?id=dongfangweishi_twn&token=Goiptv
+#EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="" group-title="直播TAIWAN",北京衛視
+https://smt.go-iptv.ggff.net/smart.php?id=beijing&token=Goiptv
+#EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="" group-title="直播TAIWAN",深圳衛視
+https://smt.go-iptv.ggff.net/smart.php?id=shenzhen&token=Goiptv
+#EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="直播TAIWAN",廣東衛視
+https://smt.go-iptv.ggff.net/smart.php?id=guangdongweishi_twn&token=Goiptv
+#EXTINF:-1 tvg-id="大灣區衛視" tvg-name="大灣區衛視" tvg-logo="" group-title="直播TAIWAN",大灣區衛視
+https://smt.go-iptv.ggff.net/smart.php?id=nanfang_twn&token=Goiptv
+#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="直播TAIWAN",珠江台
+https://smt.go-iptv.ggff.net/smart.php?id=zhujiang&token=Goiptv
+#EXTINF:-1 tvg-id="東南衛視" tvg-name="東南衛視" tvg-logo="" group-title="直播TAIWAN",東南衛視
+https://smt.go-iptv.ggff.net/smart.php?id=fujian&token=Goiptv
+#EXTINF:-1 tvg-id="廣西衛視" tvg-name="廣西衛視" tvg-logo="" group-title="直播TAIWAN",廣西衛視
+https://smt.go-iptv.ggff.net/smart.php?id=guangxi&token=Goiptv
+#EXTINF:-1 tvg-id="湖北衛視" tvg-name="湖北衛視" tvg-logo="" group-title="直播TAIWAN",湖北衛視
+https://smt.go-iptv.ggff.net/smart.php?id=hubei&token=Goiptv
+#EXTINF:-1 tvg-id="四川衛視" tvg-name="四川衛視" tvg-logo="" group-title="直播TAIWAN",四川衛視
+https://smt.go-iptv.ggff.net/smart.php?id=sichuan_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="直播TAIWAN",CGTN
+https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="" group-title="直播TAIWAN",CCTV-6
+https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="直播TAIWAN",AXN Taiwan
+https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="直播TAIWAN",HBO_HD
+https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="直播TAIWAN",HBO_HITS
+https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="直播TAIWAN",CINEMAX
+https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="直播TAIWAN",好萊塢電影台
+https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="" group-title="直播TAIWAN",東森電影
+https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
+#EXTINF:-1 tvg-id="東森洋片" tvg-name="東森洋片" tvg-logo="" group-title="直播TAIWAN",東森洋片
+https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="直播TAIWAN",龍華電影
+https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="直播TAIWAN",龍華洋片
+https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="直播TAIWAN",龍祥時代
+https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="直播TAIWAN",美亞電影
+https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="直播TAIWAN",衛視電影台
+https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+#EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="" group-title="直播TAIWAN",天映頻道
+https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+#EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="" group-title="直播TAIWAN",天映頻道
+https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
+#EXTINF:-1 tvg-id="天映經典" tvg-name="天映經典" tvg-logo="" group-title="直播TAIWAN",天映經典
+https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="直播TAIWAN",Animax
+https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="直播TAIWAN",Movies Now HD
+https://smt.go-iptv.ggff.net/smart.php?id=moviesnow_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="直播TAIWAN",Star Movies HD
+https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="直播TAIWAN",Hits
+https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="直播TAIWAN",Warner TV
+https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="直播TAIWAN",HBO HD
+https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="直播TAIWAN",HBO Signature
+https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="直播TAIWAN",HBO Family
+https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="直播TAIWAN",HBO Hits
+https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="直播TAIWAN",Cinemax
+https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="直播TAIWAN",Dreamworks
+https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="直播TAIWAN",SCM
+https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="直播TAIWAN",Thrill
+https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="直播TAIWAN",Hits Movie
+https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="直播TAIWAN",One
+https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="直播TAIWAN",tvN Movie
+https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="直播TAIWAN",Axn HD
+https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="直播TAIWAN",Paramount Network
+https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="直播TAIWAN",Astrol Kplus
+https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="直播TAIWAN",Rock Actions
+https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="直播TAIWAN",Rock Entertainment
+https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+#EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="" group-title="直播TAIWAN",Natgeo_HD
+https://smt.go-iptv.ggff.net/smart.php?id=natgeohd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="" group-title="直播TAIWAN",NatGeo_Wild HD
+https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="" group-title="直播TAIWAN",Animal_Planet
+https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="" group-title="直播TAIWAN",Discovery Asia
+https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="" group-title="直播TAIWAN",CI
+https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Asia Travel" tvg-name="Asia Travel" tvg-logo="" group-title="直播TAIWAN",Asia Travel
+https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="" group-title="直播TAIWAN",Discovery HD
+https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="直播TAIWAN",亞洲美食
+https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="直播TAIWAN",美食星球
+https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
+#EXTINF:-1 tvg-id="亞洲TLC" tvg-name="亞洲TLC" tvg-logo="" group-title="直播TAIWAN",亞洲TLC
+https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="直播TAIWAN",NatGeo HD
+https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="" group-title="直播TAIWAN",Fashion TV
+https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="直播TAIWAN",History
+https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="直播TAIWAN",BBC Earth HD
+https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="直播TAIWAN",BBC Earth Lifestyle
+https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="直播TAIWAN",MTV Live
+https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="直播TAIWAN",NatGeo Wild HD
+https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="直播TAIWAN",Animal Planet (Eng)
+https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="直播TAIWAN",TLC
+https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="直播TAIWAN",Foodnetwork Hd
+https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="直播TAIWAN",HGTV
+https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="直播TAIWAN",亞洲旅遊台
+https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="直播TAIWAN",Skynews
+https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="" group-title="直播TAIWAN",ABC News
+https://smt.go-iptv.ggff.net/smart.php?id=abcnews_glo&token=Goiptv
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="" group-title="直播TAIWAN",東森財經新聞
+https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="" group-title="直播TAIWAN",CBS HD
+https://smt.go-iptv.ggff.net/smart.php?id=cbshd_glo&token=Goiptv
+#EXTINF:-1 tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="" group-title="直播TAIWAN",CBSN HD
+https://smt.go-iptv.ggff.net/smart.php?id=cbsn_glo&token=Goiptv
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="直播TAIWAN",France 24
+https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="直播TAIWAN",DW (Deutsch)
+https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="直播TAIWAN",NHK World
+https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="" group-title="直播TAIWAN",Fox News
+https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="直播TAIWAN",CGTN
+https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="直播TAIWAN",CNN International
+https://smt.go-iptv.ggff.net/smart.php?id=Cnn&token=Goiptv
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="直播TAIWAN",CNN backup
+https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="直播TAIWAN",CNBC
+https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="直播TAIWAN",CNA
+https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="直播TAIWAN",BBC World News
+https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="直播TAIWAN",BBC World News
+https://smt.go-iptv.ggff.net/smart.php?id=Bbcnews&token=Goiptv
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="直播TAIWAN",Bloomberg News
+https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="直播TAIWAN",Al-Jazeera
+https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="" group-title="直播TAIWAN",Baby TV Eng
+https://smt.go-iptv.ggff.net/smart.php?id=Babytv&token=Goiptv
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="直播TAIWAN",CBeebies
+https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="直播TAIWAN",Kids TV
+https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
+#EXTINF:-1 tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="" group-title="直播TAIWAN",Momo TV
+https://smt.go-iptv.ggff.net/smart.php?id=momo1_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="直播TAIWAN",Animax
+https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="直播TAIWAN",Baby TV
+https://smt.go-iptv.ggff.net/smart.php?id=babytv_twn&token=Goiptv
+#EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="直播TAIWAN",MiaoMi
+https://smt.go-iptv.ggff.net/smart.php?id=MiaoMi&token=Goiptv
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="直播TAIWAN",靖天卡通
+https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+#EXTINF:-1 tvg-id="東森幼幼" tvg-name="東森幼幼" tvg-logo="" group-title="直播TAIWAN",東森幼幼
+https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="直播TAIWAN",Cartoon Network
+https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="直播TAIWAN",Nickelodeon
+https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="直播TAIWAN",Nick Jr
+https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="直播TAIWAN",Astro Premier League 1
+https://smt.go-iptv.ggff.net/smart.php?id=go_assp1&token=Goiptv
+#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="直播TAIWAN",Astro EPL 1 backup
+https://smt.go-iptv.ggff.net/smart.php?id=go_assp1x&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="直播TAIWAN",Astro Premier League 2
+https://smt.go-iptv.ggff.net/smart.php?id=go_assp2&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="直播TAIWAN",Astro Grandstand
+https://smt.go-iptv.ggff.net/smart.php?id=go_assp3&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="直播TAIWAN",Astro Football
+https://smt.go-iptv.ggff.net/smart.php?id=go_assp4&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="直播TAIWAN",Astro Sports Plus
+https://smt.go-iptv.ggff.net/smart.php?id=go_sportsplus&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="直播TAIWAN",Astro Badminton 1
+https://smt.go-iptv.ggff.net/smart.php?id=go_badminton1&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="直播TAIWAN",Astro Badminton 2
+https://smt.go-iptv.ggff.net/smart.php?id=go_badminton2&token=Goiptv
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="直播TAIWAN",Astro W-Sports
+https://smt.go-iptv.ggff.net/smart.php?id=go_assp5&token=Goiptv
+#EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="直播TAIWAN",Supersports 1
+https://smt.go-iptv.ggff.net/smart.php?id=Assp1&token=Goiptv
+#EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="直播TAIWAN",Supersports 2
+https://smt.go-iptv.ggff.net/smart.php?id=Assp2&token=Goiptv
+#EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="直播TAIWAN",Supersports 3
+https://smt.go-iptv.ggff.net/smart.php?id=Assp3&token=Goiptv
+#EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="直播TAIWAN",Supersports 4
+https://smt.go-iptv.ggff.net/smart.php?id=Assp4&token=Goiptv
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="直播TAIWAN",WWE
+https://smt.go-iptv.ggff.net/smart.php?id=Wwe&token=Goiptv
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="直播TAIWAN",Fight Sports
+https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="直播TAIWAN",NBA TV
+https://smt.go-iptv.ggff.net/smart.php?id=Nba&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="直播TAIWAN",Astro Cricket
+https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="直播TAIWAN",Astro Golf
+https://smt.go-iptv.ggff.net/smart.php?id=Agolf&token=Goiptv
+#EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="Tnt Sports 1" tvg-logo="" group-title="直播TAIWAN",Tnt Sports 1
+https://smt.go-iptv.ggff.net/smart.php?id=6fac0aaead&token=Goiptv
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="直播TAIWAN",TNT Sports 2
+https://smt.go-iptv.ggff.net/smart.php?id=d9a76a79cc&token=Goiptv
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="直播TAIWAN",TNT Sports 3
+https://smt.go-iptv.ggff.net/smart.php?id=5fea4d73db&token=Goiptv
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="直播TAIWAN",TNT Sports 4
+https://smt.go-iptv.ggff.net/smart.php?id=tntsport4&token=Goiptv
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="直播TAIWAN",Sony Ten 1
+https://smt.go-iptv.ggff.net/smart.php?id=ten1_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="直播TAIWAN",Sony Ten 2
+https://smt.go-iptv.ggff.net/smart.php?id=ten2_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="直播TAIWAN",Sony Ten 3
+https://smt.go-iptv.ggff.net/smart.php?id=ten3_raj&token=Goiptv
+#EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="直播TAIWAN",SPOTV 1 HD
+https://smt.go-iptv.ggff.net/smart.php?id=go_spotv&token=Goiptv
+#EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="直播TAIWAN",SPO TV 2
+https://smt.go-iptv.ggff.net/smart.php?id=go_spotv2&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="直播TAIWAN",Skysports F1
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="直播TAIWAN",Skysports Cricket
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="直播TAIWAN",Skysports EPL
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="直播TAIWAN",Skysports Main Event
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="直播TAIWAN",Skysports News
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="直播TAIWAN",Skysports Mix
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongmix&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-5 體育頻道" tvg-name="CCTV-5 體育頻道" tvg-logo="" group-title="直播TAIWAN",CCTV-5 體育頻道
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
+#EXTINF:-1 tvg-id="CCTV-5+ 體育賽事 HD" tvg-name="CCTV-5+ 體育賽事 HD" tvg-logo="" group-title="直播TAIWAN",CCTV-5+ 體育賽事 HD
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="直播TAIWAN",愛爾達體育2台
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="直播TAIWAN",愛爾達體育3台
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="直播TAIWAN",Rugby Pass TV
+https://smt.go-iptv.ggff.net/smart.php?id=Rugbypasstv&token=Goiptv
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="直播TAIWAN",RTM Sports HD
+https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="直播TAIWAN",Arena
+https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="直播TAIWAN",Arena 2
+https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="直播TAIWAN",BolaArena 1
+https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="直播TAIWAN",BolaArena 2
+https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="直播TAIWAN",Astro Beinsports 1
+https://smt.go-iptv.ggff.net/smart.php?id=Astrobein1&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="直播TAIWAN",Astro Beinsports 2
+https://smt.go-iptv.ggff.net/smart.php?id=Astrobein2&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="直播TAIWAN",Astro Beinsports 3
+https://smt.go-iptv.ggff.net/smart.php?id=Astrobein3&token=Goiptv
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="" group-title="直播TAIWAN",Channel 5
+https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="" group-title="直播TAIWAN",Channel 8
+https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="" group-title="直播TAIWAN",Suria
+https://smt.go-iptv.ggff.net/smart.php?id=Suria&token=Goiptv
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="" group-title="直播TAIWAN",Channel U
+https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="" group-title="直播TAIWAN",Vasantham
+https://smt.go-iptv.ggff.net/smart.php?id=Vasantham&token=Goiptv
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="直播TAIWAN",CNA
+https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+#EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA backup" tvg-logo="" group-title="直播TAIWAN",CNA backup
+https://smt.go-iptv.ggff.net/smart.php?id=cna_twn&token=Goiptv
+#EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-name="MeWatch Ch 5" tvg-logo="" group-title="直播TAIWAN",MeWatch Ch 5
+https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch5&token=Goiptv
+#EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-name="MeWatch Ch 8" tvg-logo="" group-title="直播TAIWAN",MeWatch Ch 8
+https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch8&token=Goiptv
+#EXTINF:-1 tvg-id="MeWatch Ch U" tvg-name="MeWatch Ch U" tvg-logo="" group-title="直播TAIWAN",MeWatch Ch U
+https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_chU&token=Goiptv
+#EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="MeWatch Suria" tvg-logo="" group-title="直播TAIWAN",MeWatch Suria
+https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Suria&token=Goiptv
+#EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="MeWatch Vasantham" tvg-logo="" group-title="直播TAIWAN",MeWatch Vasantham
+https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Vasantham&token=Goiptv
+#EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="MeWatch CNA" tvg-logo="" group-title="直播TAIWAN",MeWatch CNA
+https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_cna&token=Goiptv
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="" group-title="GPT-馬來西亞",TV1
+https://smt.go-iptv.ggff.net/smart.php?id=TV1&token=Goiptv
+#EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1 backup" tvg-logo="" group-title="直播TAIWAN",TV1 backup
+https://smt.go-iptv.ggff.net/smart.php?id=TV1_backup&token=Goiptv
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="" group-title="直播TAIWAN",TV2
+https://smt.go-iptv.ggff.net/smart.php?id=TV2&token=Goiptv
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="" group-title="直播TAIWAN",TV3
+https://smt.go-iptv.ggff.net/smart.php?id=TV3&token=Goiptv
+#EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3 SD" tvg-logo="" group-title="直播TAIWAN",TV3 SD
+https://smt.go-iptv.ggff.net/smart.php?id=TV3_mega&token=Goiptv
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="" group-title="直播TAIWAN",NTV7
+https://smt.go-iptv.ggff.net/smart.php?id=NTV7&token=Goiptv
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="" group-title="直播TAIWAN",TV8
+https://smt.go-iptv.ggff.net/smart.php?id=TV8&token=Goiptv
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="" group-title="直播TAIWAN",TV9
+https://smt.go-iptv.ggff.net/smart.php?id=TV9&token=Goiptv
+#EXTINF:-1 tvg-id="Ria" tvg-name="Ria" tvg-logo="" group-title="直播TAIWAN",Ria
+https://smt.go-iptv.ggff.net/smart.php?id=Ria-0&token=Goiptv
+#EXTINF:-1 tvg-id="Ria-3" tvg-name="Ria-3" tvg-logo="" group-title="直播TAIWAN",Ria-3
+https://smt.go-iptv.ggff.net/smart.php?id=Ria_backup&token=Goiptv
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Al-Hijrah" tvg-logo="" group-title="直播TAIWAN",Al-Hijrah
+https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah&token=Goiptv
+#EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="Al-Hijrah backup" tvg-logo="" group-title="直播TAIWAN",Al-Hijrah backup
+https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah_backup&token=Goiptv
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" tvg-logo="" group-title="直播TAIWAN",Awani
+https://smt.go-iptv.ggff.net/smart.php?id=Awani&token=Goiptv
+#EXTINF:-1 tvg-id="Bernama" tvg-name="Bernama" tvg-logo="" group-title="直播TAIWAN",Bernama
+https://smt.go-iptv.ggff.net/smart.php?id=Bernama&token=Goiptv
+#EXTINF:-1 tvg-id="Prima" tvg-name="Prima" tvg-logo="" group-title="直播TAIWAN",Prima
+https://smt.go-iptv.ggff.net/smart.php?id=Prima-0&token=Goiptv
+#EXTINF:-1 tvg-id="Prima backup" tvg-name="Prima backup" tvg-logo="" group-title="直播TAIWAN",Prima backup
+https://smt.go-iptv.ggff.net/smart.php?id=AAprima1&token=Goiptv
+#EXTINF:-1 tvg-id="Prima backup 2" tvg-name="Prima backup 2" tvg-logo="" group-title="直播TAIWAN",Prima backup 2
+https://smt.go-iptv.ggff.net/smart.php?id=AAprima&token=Goiptv
+#EXTINF:-1 tvg-id="Ceria" tvg-name="Ceria" tvg-logo="" group-title="直播TAIWAN",Ceria
+https://smt.go-iptv.ggff.net/smart.php?id=Ceria&token=Goiptv
+#EXTINF:-1 tvg-id="Astro MTV" tvg-name="Astro MTV" tvg-logo="" group-title="直播TAIWAN",Astro MTV
+https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
+#EXTINF:-1 tvg-id="Mecca Live HD" tvg-name="Mecca Live HD" tvg-logo="" group-title="直播TAIWAN",Mecca Live HD
+https://smt.go-iptv.ggff.net/smart.php?id=quran_mido&token=Goiptv
+#EXTINF:-1 tvg-id="Madinah HD" tvg-name="Madinah HD" tvg-logo="" group-title="直播TAIWAN",Madinah HD
+https://smt.go-iptv.ggff.net/smart.php?id=sunnah_mido&token=Goiptv
+#EXTINF:-1 tvg-id="Oasis" tvg-name="Oasis" tvg-logo="" group-title="直播TAIWAN",Oasis
+https://smt.go-iptv.ggff.net/smart.php?id=Oasis&token=Goiptv
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="直播TAIWAN",HBO HD
+https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="直播TAIWAN",HBO Signature
+https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="直播TAIWAN",HBO Hits
+https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="直播TAIWAN",NatGeo Wild HD
+https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="直播TAIWAN",Cartoon Network
+https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="直播TAIWAN",Nickelodeon
+https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="直播TAIWAN",Nick Jr
+https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="直播TAIWAN",Dreamworks
+https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+#EXTINF:-1 tvg-id="Siar" tvg-name="Siar" tvg-logo="" group-title="直播TAIWAN",Siar
+https://smt.go-iptv.ggff.net/smart.php?id=Siar&token=Goiptv
+#EXTINF:-1 tvg-id="Citra" tvg-name="Citra" tvg-logo="" group-title="直播TAIWAN",Citra
+https://smt.go-iptv.ggff.net/smart.php?id=AAcitra&token=Goiptv
+#EXTINF:-1 tvg-id="Citra backup" tvg-name="Citra backup" tvg-logo="" group-title="直播TAIWAN",Citra backup
+https://smt.go-iptv.ggff.net/smart.php?id=AAcitra1&token=Goiptv
+#EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" tvg-logo="" group-title="直播TAIWAN",Sensasi
+https://smt.go-iptv.ggff.net/smart.php?id=Sensasi&token=Goiptv
+#EXTINF:-1 tvg-id="Aura" tvg-name="Aura" tvg-logo="" group-title="直播TAIWAN",Aura
+https://smt.go-iptv.ggff.net/smart.php?id=Aura&token=Goiptv
+#EXTINF:-1 tvg-id="Rania" tvg-name="Rania" tvg-logo="" group-title="直播TAIWAN",Rania
+https://smt.go-iptv.ggff.net/smart.php?id=Rania&token=Goiptv
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="" group-title="直播TAIWAN",KBS World
+https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
+#EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-logo="" group-title="直播TAIWAN",Boo
+https://smt.go-iptv.ggff.net/smart.php?id=Boo&token=Goiptv
+#EXTINF:-1 tvg-id="Awesome TV" tvg-name="Awesome TV" tvg-logo="" group-title="直播TAIWAN",Awesome TV
+https://smt.go-iptv.ggff.net/smart.php?id=Dsangat&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="直播TAIWAN",Astro Sonypix
+https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="" group-title="直播TAIWAN",Sony HD
+https://smt.go-iptv.ggff.net/smart.php?id=SetOne&token=Goiptv
+#EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="" group-title="直播TAIWAN",TvN
+https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="" group-title="直播TAIWAN",AEC
+https://smt.go-iptv.ggff.net/smart.php?id=AEC&token=Goiptv
+#EXTINF:-1 tvg-id="華麗台 HD （Wah Lai Toi）" tvg-name="華麗台 HD （Wah Lai Toi）" tvg-logo="" group-title="直播TAIWAN",華麗台 HD （Wah Lai Toi）
+https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
+#EXTINF:-1 tvg-id="歡喜台 HD （Hua Hee Tai）" tvg-name="歡喜台 HD （Hua Hee Tai）" tvg-logo="" group-title="直播TAIWAN",歡喜台 HD （Hua Hee Tai）
+https://smt.go-iptv.ggff.net/smart.php?id=Huahee&token=Goiptv
+#EXTINF:-1 tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="" group-title="直播TAIWAN",Astro QJ
+https://smt.go-iptv.ggff.net/smart.php?id=Quanjia&token=Goiptv
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="" group-title="直播TAIWAN",TVB Jade
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
+#EXTINF:-1 tvg-id="TVB Asia" tvg-name="TVB Asia" tvg-logo="" group-title="直播TAIWAN",TVB Asia
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
+#EXTINF:-1 tvg-id="TVB Entertainment" tvg-name="TVB Entertainment" tvg-logo="" group-title="直播TAIWAN",TVB Entertainment
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
+#EXTINF:-1 tvg-id="TVB Classic" tvg-name="TVB Classic" tvg-logo="" group-title="直播TAIWAN",TVB Classic
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="" group-title="直播TAIWAN",AOD
+https://smt.go-iptv.ggff.net/smart.php?id=Aodhd&token=Goiptv
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="直播TAIWAN",One
+https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+#EXTINF:-1 tvg-id="TVB 星河台 Xing He" tvg-name="TVB 星河台 Xing He" tvg-logo="" group-title="直播TAIWAN",TVB 星河台 Xing He
+https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
+#EXTINF:-1 tvg-id="愛奇藝 iQiyi" tvg-name="愛奇藝 iQiyi" tvg-logo="" group-title="直播TAIWAN",愛奇藝 iQiyi
+https://smt.go-iptv.ggff.net/smart.php?id=Qiyi&token=Goiptv
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="直播TAIWAN",Animal Planet (Eng)
+https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="直播TAIWAN",tvN Movie
+https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="直播TAIWAN",CNN backup
+https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="" group-title="直播TAIWAN",Celestial Classic
+https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="直播TAIWAN",CNBC
+https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="直播TAIWAN",TLC
+https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="直播TAIWAN",CNA
+https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="直播TAIWAN",BBC World News
+https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="直播TAIWAN",Foodnetwork Hd
+https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="直播TAIWAN",HGTV
+https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+#EXTINF:-1 tvg-id="Goshop" tvg-name="Goshop" tvg-logo="" group-title="直播TAIWAN",Goshop
+https://smt.go-iptv.ggff.net/smart.php?id=Goshop&token=Goiptv
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="直播TAIWAN",Celestial Movies HD
+https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="直播TAIWAN",Axn HD
+https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="直播TAIWAN",Paramount Network
+https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="直播TAIWAN",Astrol Kplus
+https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
+#EXTINF:-1 tvg-id="AFC 亞洲旅遊台" tvg-name="AFC 亞洲旅遊台" tvg-logo="" group-title="直播TAIWAN",AFC 亞洲旅遊台
+https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="直播TAIWAN",Rock Actions
+https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="直播TAIWAN",Bloomberg News
+https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="直播TAIWAN",Al-Jazeera
+https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="直播TAIWAN",Rock Entertainment
+https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="直播TAIWAN",RTM Sports HD
+https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="直播TAIWAN",Arena
+https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="直播TAIWAN",Arena 2
+https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="直播TAIWAN",BolaArena 1
+https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="直播TAIWAN",BolaArena 2
+https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
+#EXTINF:-1 tvg-id="Astro LOL" tvg-name="Astro LOL" tvg-logo="" group-title="直播TAIWAN",Astro LOL
+https://smt.go-iptv.ggff.net/smart.php?id=Astro_lol&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="直播TAIWAN",Astro Rusi
+https://smt.go-iptv.ggff.net/smart.php?id=Rusi&token=Goiptv
+#EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="" group-title="直播TAIWAN",WION
+https://smt.go-iptv.ggff.net/smart.php?id=Wion&token=Goiptv
+#EXTINF:-1 tvg-id="RTM Asean" tvg-name="RTM Asean" tvg-logo="" group-title="直播TAIWAN",RTM Asean
+https://smt.go-iptv.ggff.net/smart.php?id=Rtmasean&token=Goiptv
+#EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title="直播TAIWAN",TVRI National
+https://smt.go-iptv.ggff.net/smart.php?id=TVRI&token=Goiptv
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="直播TAIWAN",RCTI
+https://smt.go-iptv.ggff.net/smart.php?id=Rcti&token=Goiptv
+#EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title="直播TAIWAN",Kompass TV
+https://smt.go-iptv.ggff.net/smart.php?id=Kompass&token=Goiptv
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title="直播TAIWAN",Berita Satu
+https://smt.go-iptv.ggff.net/smart.php?id=BeritaSatu_eko&token=Goiptv
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="直播TAIWAN",Indosiar HD
+https://smt.go-iptv.ggff.net/smart.php?id=Indosiar&token=Goiptv
+#EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title="直播TAIWAN",AnTV
+https://smt.go-iptv.ggff.net/smart.php?id=Antv&token=Goiptv
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="直播TAIWAN",MNC TV
+https://smt.go-iptv.ggff.net/smart.php?id=Mnctv&token=Goiptv
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title="直播TAIWAN",Trans 7
+https://smt.go-iptv.ggff.net/smart.php?id=Trans7_eko&token=Goiptv
+#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title="直播TAIWAN",Transtv
+https://smt.go-iptv.ggff.net/smart.php?id=Transtv&token=Goiptv
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="直播TAIWAN",JTV
+https://smt.go-iptv.ggff.net/smart.php?id=JTV_eko&token=Goiptv
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title="直播TAIWAN",Metro TV
+https://smt.go-iptv.ggff.net/smart.php?id=metrotv_eko&token=Goiptv
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="直播TAIWAN",Cinemax
+https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="直播TAIWAN",SCTV
+https://smt.go-iptv.ggff.net/smart.php?id=SCTV&token=Goiptv
+#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title="直播TAIWAN",Tvone
+https://smt.go-iptv.ggff.net/smart.php?id=Tvone&token=Goiptv
+#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title="直播TAIWAN",TVMU
+https://smt.go-iptv.ggff.net/smart.php?id=TVMU_eko&token=Goiptv
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="直播TAIWAN",GTV
+https://smt.go-iptv.ggff.net/smart.php?id=Gtv&token=Goiptv
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="直播TAIWAN",RTV
+https://smt.go-iptv.ggff.net/smart.php?id=Rtv&token=Goiptv
+#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title="直播TAIWAN",Jak TV
+https://smt.go-iptv.ggff.net/smart.php?id=JakTV&token=Goiptv
+#EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title="直播TAIWAN",iNews TV
+https://smt.go-iptv.ggff.net/smart.php?id=Inewstv&token=Goiptv
+#EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title="直播TAIWAN",Daai TV
+https://smt.go-iptv.ggff.net/smart.php?id=DaaiTV&token=Goiptv
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title="直播TAIWAN",Net TV
+https://smt.go-iptv.ggff.net/smart.php?id=NetTV&token=Goiptv
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="直播TAIWAN",Animax
+https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="直播TAIWAN",EWTN
+https://smt.go-iptv.ggff.net/smart.php?id=Ewtn&token=Goiptv
+#EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-name="AlQuran AlKareem" tvg-logo="" group-title="直播TAIWAN",AlQuran AlKareem
+https://smt.go-iptv.ggff.net/smart.php?id=AlQuran&token=Goiptv
+#EXTINF:-1 tvg-id="Tawaf TV" tvg-name="Tawaf TV" tvg-logo="" group-title="直播TAIWAN",Tawaf TV
+https://smt.go-iptv.ggff.net/smart.php?id=TawafTV&token=Goiptv
+#EXTINF:-1 tvg-id="Vision Prime" tvg-name="Vision Prime" tvg-logo="" group-title="直播TAIWAN",Vision Prime
+https://smt.go-iptv.ggff.net/smart.php?id=VisionPrime&token=Goiptv
+#EXTINF:-1 tvg-id="Muslim TV" tvg-name="Muslim TV" tvg-logo="" group-title="直播TAIWAN",Muslim TV
+https://smt.go-iptv.ggff.net/smart.php?id=MuslimTV&token=Goiptv
+#EXTINF:-1 tvg-id="Music TV" tvg-name="Music TV" tvg-logo="" group-title="直播TAIWAN",Music TV
+https://smt.go-iptv.ggff.net/smart.php?id=MusicTV&token=Goiptv
+#EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-name="Lifestyle&Fashion" tvg-logo="" group-title="直播TAIWAN",Lifestyle&Fashion
+https://smt.go-iptv.ggff.net/smart.php?id=Lifestyle&token=Goiptv
+#EXTINF:-1 tvg-id="Entertain" tvg-name="Entertain" tvg-logo="" group-title="直播TAIWAN",Entertain
+https://smt.go-iptv.ggff.net/smart.php?id=Entertain&token=Goiptv
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="直播TAIWAN",Hits
+https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="直播TAIWAN",Warner TV
+https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="直播TAIWAN",SCM
+https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="直播TAIWAN",Thrill
+https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="直播TAIWAN",Fight Sports
+https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="直播TAIWAN",Hits Movie
+https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="直播TAIWAN",One
+https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="直播TAIWAN",tvN Movie
+https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="直播TAIWAN",Celestial Movies HD
+https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="直播TAIWAN",Rock Actions
+https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="直播TAIWAN",Rock Entertainment
+https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="" group-title="直播TAIWAN",Sun TV HD
+https://smt.go-iptv.ggff.net/smart.php?id=Suntv&token=Goiptv
+#EXTINF:-1 tvg-id="Star Vijay" tvg-name="Star Vijay" tvg-logo="" group-title="直播TAIWAN",Star Vijay
+https://smt.go-iptv.ggff.net/smart.php?id=Starvijay&token=Goiptv
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="" group-title="直播TAIWAN",Colors Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=Colorstam&token=Goiptv
+#EXTINF:-1 tvg-id="Sun Music" tvg-name="Sun Music" tvg-logo="" group-title="直播TAIWAN",Sun Music
+https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Sunlife" tvg-name="Astro Sunlife" tvg-logo="" group-title="直播TAIWAN",Astro Sunlife
+https://smt.go-iptv.ggff.net/smart.php?id=Sunlife&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="" group-title="直播TAIWAN",Astro Vaanavil
+https://smt.go-iptv.ggff.net/smart.php?id=Vaanavil&token=Goiptv
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="" group-title="直播TAIWAN",Zee Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=Zeetamil&token=Goiptv
+#EXTINF:-1 tvg-id="Zee Business" tvg-name="Zee Business" tvg-logo="" group-title="直播TAIWAN",Zee Business
+https://smt.go-iptv.ggff.net/smart.php?id=Zeebusiness&token=Goiptv
+#EXTINF:-1 tvg-id="News 18 Tamil" tvg-name="News 18 Tamil" tvg-logo="" group-title="直播TAIWAN",News 18 Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=news18tamil_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" tvg-logo="" group-title="直播TAIWAN",Adithya
+https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
+#EXTINF:-1 tvg-id="Makkal TV" tvg-name="Makkal TV" tvg-logo="" group-title="直播TAIWAN",Makkal TV
+https://smt.go-iptv.ggff.net/smart.php?id=Makkaltv&token=Goiptv
+#EXTINF:-1 tvg-id="Zee Action" tvg-name="Zee Action" tvg-logo="" group-title="直播TAIWAN",Zee Action
+https://smt.go-iptv.ggff.net/smart.php?id=Zeeaction&token=Goiptv
+#EXTINF:-1 tvg-id="Astro KTV" tvg-name="Astro KTV" tvg-logo="" group-title="直播TAIWAN",Astro KTV
+https://smt.go-iptv.ggff.net/smart.php?id=Astroktv&token=Goiptv
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="" group-title="直播TAIWAN",Zee TV HD
+https://smt.go-iptv.ggff.net/smart.php?id=Zeetvhd&token=Goiptv
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="Zee Cinema HD" tvg-logo="" group-title="直播TAIWAN",Zee Cinema HD
+https://smt.go-iptv.ggff.net/smart.php?id=Zeecinemahd&token=Goiptv
+#EXTINF:-1 tvg-id="Color HD" tvg-name="Color HD" tvg-logo="" group-title="直播TAIWAN",Color HD
+https://smt.go-iptv.ggff.net/smart.php?id=Colorhd&token=Goiptv
+#EXTINF:-1 tvg-id="Starplus HD" tvg-name="Starplus HD" tvg-logo="" group-title="直播TAIWAN",Starplus HD
+https://smt.go-iptv.ggff.net/smart.php?id=Starplushd&token=Goiptv
+#EXTINF:-1 tvg-id="Picture HD" tvg-name="Picture HD" tvg-logo="" group-title="直播TAIWAN",Picture HD
+https://smt.go-iptv.ggff.net/smart.php?id=Npicture&token=Goiptv
+#EXTINF:-1 tvg-id="Zee News" tvg-name="Zee News" tvg-logo="" group-title="直播TAIWAN",Zee News
+https://smt.go-iptv.ggff.net/smart.php?id=Zeenews&token=Goiptv
+#EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet" tvg-logo="" group-title="直播TAIWAN",Asianet
+https://smt.go-iptv.ggff.net/smart.php?id=asianet_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Asianet News" tvg-name="Asianet News" tvg-logo="" group-title="直播TAIWAN",Asianet News
+https://smt.go-iptv.ggff.net/smart.php?id=asianetnews_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Discovery World Tamil" tvg-name="Discovery World Tamil" tvg-logo="" group-title="直播TAIWAN",Discovery World Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=discoveryworldtam_raj&token=Goiptv
+#EXTINF:-1 tvg-id="History Tamil" tvg-name="History Tamil" tvg-logo="" group-title="直播TAIWAN",History Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=historytam_raj&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo Tamil" tvg-name="NatGeo Tamil" tvg-logo="" group-title="直播TAIWAN",NatGeo Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=natgeotamil_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Natgeo Wild Tamil" tvg-name="Natgeo Wild Tamil" tvg-logo="" group-title="直播TAIWAN",Natgeo Wild Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=natgeowildtamil_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Sonypix" tvg-name="Astro Sonypix" tvg-logo="" group-title="直播TAIWAN",Astro Sonypix
+https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
+#EXTINF:-1 tvg-id="Discovery Kids Tamil" tvg-name="Discovery Kids Tamil" tvg-logo="" group-title="直播TAIWAN",Discovery Kids Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=discoverykidtamil_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Discovery Tamil" tvg-name="Discovery Tamil" tvg-logo="" group-title="直播TAIWAN",Discovery Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=discoverytamil_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Sony Yay Tamil" tvg-name="Sony Yay Tamil" tvg-logo="" group-title="直播TAIWAN",Sony Yay Tamil
+https://smt.go-iptv.ggff.net/smart.php?id=sonyyaytam_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Sun TV India" tvg-name="Sun TV India" tvg-logo="" group-title="直播TAIWAN",Sun TV India
+https://smt.go-iptv.ggff.net/smart.php?id=suntv_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Starmaa HD" tvg-name="Starmaa HD" tvg-logo="" group-title="直播TAIWAN",Starmaa HD
+https://smt.go-iptv.ggff.net/smart.php?id=starmaa_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Starmaa Movies HD" tvg-name="Starmaa Movies HD" tvg-logo="" group-title="直播TAIWAN",Starmaa Movies HD
+https://smt.go-iptv.ggff.net/smart.php?id=starmaamovies_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Bollyone" tvg-name="Bollyone" tvg-logo="" group-title="直播TAIWAN",Bollyone
+https://smt.go-iptv.ggff.net/smart.php?id=Bollyone&token=Goiptv
+#EXTINF:-1 tvg-id="Astro Sunmusic" tvg-name="Astro Sunmusic" tvg-logo="" group-title="直播TAIWAN",Astro Sunmusic
+https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
+#EXTINF:-1 tvg-id="Vijay Super" tvg-name="Vijay Super" tvg-logo="" group-title="直播TAIWAN",Vijay Super
+https://smt.go-iptv.ggff.net/smart.php?id=vijaysuper_raj&token=Goiptv
+#EXTINF:-1 tvg-id="Vellithirai" tvg-name="Vellithirai" tvg-logo="" group-title="直播TAIWAN",Vellithirai
+https://smt.go-iptv.ggff.net/smart.php?id=Vellithirai&token=Goiptv
+#EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-name="Channel 3 Thailand" tvg-logo="" group-title="直播TAIWAN",Channel 3 Thailand
+https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="Channel 5 Thailand" tvg-logo="" group-title="直播TAIWAN",Channel 5 Thailand
+https://smt.go-iptv.ggff.net/smart.php?id=ch5_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-name="Channel 7 Thailand" tvg-logo="" group-title="直播TAIWAN",Channel 7 Thailand
+https://smt.go-iptv.ggff.net/smart.php?id=ch7_pat&token=Goiptv
+#EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-name="MCOT HD Thailand-1" tvg-logo="" group-title="直播TAIWAN",MCOT HD Thailand-1
+https://smt.go-iptv.ggff.net/smart.php?id=mcot_pat&token=Goiptv
+#EXTINF:-1 tvg-id="PPTV Thailand1" tvg-name="PPTV Thailand1" tvg-logo="" group-title="直播TAIWAN",PPTV Thailand1
+https://smt.go-iptv.ggff.net/smart.php?id=pptv_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Thai Thai" tvg-name="Thai Thai" tvg-logo="" group-title="直播TAIWAN",Thai Thai
+https://smt.go-iptv.ggff.net/smart.php?id=thaithai_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" tvg-logo="" group-title="直播TAIWAN",Amarin
+https://smt.go-iptv.ggff.net/smart.php?id=amarin_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Ch 8" tvg-logo="" group-title="直播TAIWAN",Ch 8
+https://smt.go-iptv.ggff.net/smart.php?id=ch8_pat&token=Goiptv
+#EXTINF:-1 tvg-id="GmmOne" tvg-name="GmmOne" tvg-logo="" group-title="直播TAIWAN",GmmOne
+https://smt.go-iptv.ggff.net/smart.php?id=gmmone_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Mono" tvg-name="Mono" tvg-logo="" group-title="直播TAIWAN",Mono
+https://smt.go-iptv.ggff.net/smart.php?id=mono_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" tvg-logo="" group-title="直播TAIWAN",Thairath
+https://smt.go-iptv.ggff.net/smart.php?id=thairath_pat&token=Goiptv
+#EXTINF:-1 tvg-id="tpbs" tvg-name="tpbs" tvg-logo="" group-title="直播TAIWAN",tpbs
+https://smt.go-iptv.ggff.net/smart.php?id=tpbs_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" tvg-logo="" group-title="直播TAIWAN",Workpoint
+https://smt.go-iptv.ggff.net/smart.php?id=workpoint_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Gmm Channel" tvg-name="Gmm Channel" tvg-logo="" group-title="直播TAIWAN",Gmm Channel
+https://smt.go-iptv.ggff.net/smart.php?id=gmmchannel_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Nation" tvg-name="Nation" tvg-logo="" group-title="直播TAIWAN",Nation
+https://smt.go-iptv.ggff.net/smart.php?id=nation_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Tnn24" tvg-name="Tnn24" tvg-logo="" group-title="直播TAIWAN",Tnn24
+https://smt.go-iptv.ggff.net/smart.php?id=tnn24_pat&token=Goiptv
+#EXTINF:-1 tvg-id="Nbt" tvg-name="Nbt" tvg-logo="" group-title="直播TAIWAN",Nbt
+https://smt.go-iptv.ggff.net/smart.php?id=nbt_pat&token=Goiptv
+#EXTINF:-1 tvg-id="New" tvg-name="New" tvg-logo="" group-title="直播TAIWAN",New
+https://smt.go-iptv.ggff.net/smart.php?id=new_pat&token=Goiptv
+#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" tvg-logo="" group-title="直播TAIWAN",TPTV
+https://smt.go-iptv.ggff.net/smart.php?id=tptv_pat&token=Goiptv
+#EXTINF:-1 tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="" group-title="直播TAIWAN",BBC 1
+https://smt.go-iptv.ggff.net/smart.php?id=bbc1_antik&token=Goiptv
+#EXTINF:-1 tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="" group-title="直播TAIWAN",BBC 2
+https://smt.go-iptv.ggff.net/smart.php?id=bbc2_antik&token=Goiptv
+#EXTINF:-1 tvg-id="CBBC" tvg-name="CBBC" tvg-logo="" group-title="直播TAIWAN",CBBC
+https://smt.go-iptv.ggff.net/smart.php?id=cbbc_antik&token=Goiptv
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="" group-title="直播TAIWAN",More4
+https://smt.go-iptv.ggff.net/smart.php?id=more4_antik&token=Goiptv
+#EXTINF:-1 tvg-id="Freesports" tvg-name="Freesports" tvg-logo="" group-title="直播TAIWAN",Freesports
+https://smt.go-iptv.ggff.net/smart.php?id=freesports_antik&token=Goiptv
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="直播TAIWAN",Skynews
+https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Pick TV" tvg-name="Pick TV" tvg-logo="" group-title="直播TAIWAN",Pick TV
+https://smt.go-iptv.ggff.net/smart.php?id=picktv_antik&token=Goiptv
+#EXTINF:-1 tvg-id="itv 1" tvg-name="itv 1" tvg-logo="" group-title="直播TAIWAN",itv 1
+https://smt.go-iptv.ggff.net/smart.php?id=itv1_antik&token=Goiptv
+#EXTINF:-1 tvg-id="itv 2" tvg-name="itv 2" tvg-logo="" group-title="直播TAIWAN",itv 2
+https://smt.go-iptv.ggff.net/smart.php?id=itv2_antik&token=Goiptv
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="" group-title="直播TAIWAN",Euronews
+https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="" group-title="直播TAIWAN",Channel 4
+https://smt.go-iptv.ggff.net/smart.php?id=channel4_antik&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="直播TAIWAN",NatGeo HD
+https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="直播TAIWAN",CBeebies
+https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="直播TAIWAN",History
+https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="直播TAIWAN",Kids TV
+https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="直播TAIWAN",France 24
+https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="直播TAIWAN",DW (Deutsch)
+https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="直播TAIWAN",BBC Earth HD
+https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="直播TAIWAN",BBC Earth Lifestyle
+https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="直播TAIWAN",MTV Live
+https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="直播TAIWAN",Star Movies HD
+https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="直播TAIWAN",NHK World
+https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="直播TAIWAN",Warner TV
+https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="直播TAIWAN",HBO HD
+https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="直播TAIWAN",NatGeo Wild HD
+https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="直播TAIWAN",Nickelodeon
+https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="直播TAIWAN",Nick Jr
+https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="直播TAIWAN",Thrill
+https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="直播TAIWAN",CGTN
+https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="直播TAIWAN",Hits Movie
+https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="直播TAIWAN",Animal Planet (Eng)
+https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="直播TAIWAN",CNBC
+https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="直播TAIWAN",TLC
+https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="直播TAIWAN",BBC World News
+https://smt.go-iptv.ggff.net/smart.php?id=bbcworldnews_antik&token=Goiptv
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="直播TAIWAN",HGTV
+https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="直播TAIWAN",Axn HD
+https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="直播TAIWAN",Skysports F1
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="直播TAIWAN",Skysports Cricket
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="直播TAIWAN",Bloomberg News
+https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="直播TAIWAN",Skysports EPL
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="直播TAIWAN",Skysports Main Event
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="直播TAIWAN",Skysports News
+https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="直播TAIWAN",Al-Jazeera
+https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
 
 
-#EXTINF:-1 group-title="直播TAIWAN",愛爾達體育1台
-http://tzh911.qzz.io/play-smt.php?id=eltasport_twn
-#EXTINF:-1 group-title="直播TAIWAN",愛爾達體育2台
-http://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-#EXTINF:-1 group-title="直播TAIWAN",愛爾達體育3台
-http://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
-#EXTINF:-1 group-title="直播TAIWAN",愛爾達體育4台
-http://tzh911.qzz.io/play-smt.php?id=eltasport4_twn
-#EXTINF:-1 group-title="直播TAIWAN",Astro Arena
-http://tzh911.qzz.io/play-smt.php?id=Arena
-#EXTINF:-1 group-title="直播TAIWAN",Astro Arena 2
-http://tzh911.qzz.io/play-smt.php?id=Arena2
-#EXTINF:-1 group-title="直播TAIWAN",Astro Arena Bola 1
-http://tzh911.qzz.io/play-smt.php?id=Bolaarena1
-#EXTINF:-1 group-title="直播TAIWAN",Astro Arena Bola 2
-http://tzh911.qzz.io/play-smt.php?id=Bolaarena2
-#EXTINF:-1 group-title="直播TAIWAN",Astro Bein sports 1
-http://tzh911.qzz.io/play-smt.php?id=Astrobein1
-#EXTINF:-1 group-title="直播TAIWAN",Astro Bein sports 2
-http://tzh911.qzz.io/play-smt.php?id=Astrobein2
-#EXTINF:-1 group-title="直播TAIWAN",Astro Bein sports 3
-http://tzh911.qzz.io/play-smt.php?id=Astrobein3
-#EXTINF:-1 group-title="直播TAIWAN",Astro Badminton 1
-http://tzh911.qzz.io/play-smt.php?id=go_badminton1
-#EXTINF:-1 group-title="直播TAIWAN",Astro Badminton 2
-http://tzh911.qzz.io/play-smt.php?id=go_badminton2
-#EXTINF:-1 group-title="直播TAIWAN",Astro Cricket
-http://tzh911.qzz.io/play-smt.php?id=Acricket
-#EXTINF:-1 group-title="直播TAIWAN",Astro EPL 1 backup
-http://tzh911.qzz.io/play-smt.php?id=go_assp1x
-#EXTINF:-1 group-title="直播TAIWAN",Astro Football
-http://tzh911.qzz.io/play-smt.php?id=go_assp4
-#EXTINF:-1 group-title="直播TAIWAN",Astro Golf
-http://tzh911.qzz.io/play-smt.php?id=Agolf
-#EXTINF:-1 group-title="直播TAIWAN",Astro Grandstand
-http://tzh911.qzz.io/play-smt.php?id=go_assp3
-#EXTINF:-1 group-title="直播TAIWAN",Astro Premier League 1
-http://tzh911.qzz.io/play-smt.php?id=go_assp1
-#EXTINF:-1 group-title="直播TAIWAN",Astro Premier League 2
-http://tzh911.qzz.io/play-smt.php?id=go_assp2
-#EXTINF:-1 group-title="直播TAIWAN",Astro Sports Plus
-http://tzh911.qzz.io/play-smt.php?id=go_sportsplus
-#EXTINF:-1 group-title="直播TAIWAN",Astro W-Sports
-http://tzh911.qzz.io/play-smt.php?id=go_assp5
-#EXTINF:-1 group-title="直播TAIWAN",Fight Sports
-http://tzh911.qzz.io/play-smt.php?id=Fs
-#EXTINF:-1 group-title="直播TAIWAN",NBA TV
-http://tzh911.qzz.io/play-smt.php?id=Nba
-#EXTINF:-1 group-title="直播TAIWAN",RTM Sports HD
-http://tzh911.qzz.io/play-smt.php?id=Rtmsport
-#EXTINF:-1 group-title="直播TAIWAN",Rugby Pass TV
-http://tzh911.qzz.io/play-smt.php?id=Rugbypasstv
-#EXTINF:-1 group-title="直播TAIWAN",Sky sports Cricket
-http://tzh911.qzz.io/play-smt.php?id=tiankongcricket
-#EXTINF:-1 group-title="直播TAIWAN",Sky sports EPL
-http://tzh911.qzz.io/play-smt.php?id=tiankongepl
-#EXTINF:-1 group-title="直播TAIWAN",Sky sports F1
-http://tzh911.qzz.io/play-smt.php?id=tiankongf1
-#EXTINF:-1 group-title="直播TAIWAN",Sky sports Main Event
-http://tzh911.qzz.io/play-smt.php?id=tiankongmain
-#EXTINF:-1 group-title="直播TAIWAN",Sky sports Mix
-http://tzh911.qzz.io/play-smt.php?id=tiankongmix
-#EXTINF:-1 group-title="直播TAIWAN",Sky sports News
-http://tzh911.qzz.io/play-smt.php?id=tiankongnews
-#EXTINF:-1 group-title="直播TAIWAN",Sony Ten 1
-http://tzh911.qzz.io/play-smt.php?id=ten1_raj
-#EXTINF:-1 group-title="直播TAIWAN",Sony Ten 2
-http://tzh911.qzz.io/play-smt.php?id=ten2_raj
-#EXTINF:-1 group-title="直播TAIWAN",Sony Ten 3
-http://tzh911.qzz.io/play-smt.php?id=ten3_raj
-#EXTINF:-1 group-title="直播TAIWAN",SPOTV 1
-http://tzh911.qzz.io/play-smt.php?id=go_spotv
-#EXTINF:-1 group-title="直播TAIWAN",SPOTV 2
-http://tzh911.qzz.io/play-smt.php?id=go_spotv2
-#EXTINF:-1 group-title="直播TAIWAN",Supersports 1
-http://tzh911.qzz.io/play-smt.php?id=Assp1
-#EXTINF:-1 group-title="直播TAIWAN",Supersports 2
-http://tzh911.qzz.io/play-smt.php?id=Assp2
-#EXTINF:-1 group-title="直播TAIWAN",Supersports 3
-http://tzh911.qzz.io/play-smt.php?id=Assp3
-#EXTINF:-1 group-title="直播TAIWAN",Supersports 4
-http://tzh911.qzz.io/play-smt.php?id=Assp4
-#EXTINF:-1 group-title="直播TAIWAN",TNT Sports 1
-http://tzh911.qzz.io/play-smt.php?id=6fac0aaead
-#EXTINF:-1 group-title="直播TAIWAN",TNT Sports 2
-http://tzh911.qzz.io/play-smt.php?id=d9a76a79cc
-#EXTINF:-1 group-title="直播TAIWAN",TNT Sports 3
-http://tzh911.qzz.io/play-smt.php?id=5fea4d73db
-#EXTINF:-1 group-title="直播TAIWAN",TNT Sports 4
-http://tzh911.qzz.io/play-smt.php?id=tntsport4
-#EXTINF:-1 group-title="直播TAIWAN",WWE
-http://tzh911.qzz.io/play-smt.php?id=Wwe
 
-#EXTINF:-1 group-title="直播TAIWAN",Animax
-http://tzh911.qzz.io/play-smt.php?id=Animax
-#EXTINF:-1 group-title="直播TAIWAN",Astrol Kplus
-http://tzh911.qzz.io/play-smt.php?id=Kplus
-#EXTINF:-1 group-title="直播TAIWAN",Axn HD
-http://tzh911.qzz.io/play-smt.php?id=Axn
-#EXTINF:-1 group-title="直播TAIWAN",Celestial Classic
-http://tzh911.qzz.io/play-smt.php?id=Celestial2
-#EXTINF:-1 group-title="直播TAIWAN",Celestial Movies HD
-http://tzh911.qzz.io/play-smt.php?id=Celestialindo
-#EXTINF:-1 group-title="直播TAIWAN",Cinemax
-http://tzh911.qzz.io/play-smt.php?id=Cinemax
-#EXTINF:-1 group-title="直播TAIWAN",Dreamworks
-http://tzh911.qzz.io/play-smt.php?id=Dreamworks
-#EXTINF:-1 group-title="直播TAIWAN",HBO HD
-http://tzh911.qzz.io/play-smt.php?id=Hbo
-#EXTINF:-1 group-title="直播TAIWAN",HBO Family
-http://tzh911.qzz.io/play-smt.php?id=Hbofamily
-#EXTINF:-1 group-title="直播TAIWAN",HBO Hits
-http://tzh911.qzz.io/play-smt.php?id=Hbohitshd
-#EXTINF:-1 group-title="直播TAIWAN",HBO Signature
-http://tzh911.qzz.io/play-smt.php?id=Hbosignature
-#EXTINF:-1 group-title="直播TAIWAN",Hits
-http://tzh911.qzz.io/play-smt.php?id=Hits
-#EXTINF:-1 group-title="直播TAIWAN",Hits Movie
-http://tzh911.qzz.io/play-smt.php?id=Hitsmovie
-#EXTINF:-1 group-title="直播TAIWAN",Movies Now HD
-http://tzh911.qzz.io/play-smt.php?id=moviesnow_raj
-#EXTINF:-1 group-title="直播TAIWAN",One
-http://tzh911.qzz.io/play-smt.php?id=One
-#EXTINF:-1 group-title="直播TAIWAN",Paramount Network
-http://tzh911.qzz.io/play-smt.php?id=Paramountnetwork
-#EXTINF:-1 group-title="直播TAIWAN",Rock Actions
-http://tzh911.qzz.io/play-smt.php?id=Rockaction
-#EXTINF:-1 group-title="直播TAIWAN",Rock Entertainment
-http://tzh911.qzz.io/play-smt.php?id=Rockentertain
-#EXTINF:-1 group-title="直播TAIWAN",SCM
-http://tzh911.qzz.io/play-smt.php?id=Weishimovie
-#EXTINF:-1 group-title="直播TAIWAN",Star Movies HD
-http://tzh911.qzz.io/play-smt.php?id=starmovies_raj
-#EXTINF:-1 group-title="直播TAIWAN",Thrill
-http://tzh911.qzz.io/play-smt.php?id=Thrill
-#EXTINF:-1 group-title="直播TAIWAN",tvN Movie
-http://tzh911.qzz.io/play-smt.php?id=Tvnmovie
-#EXTINF:-1 group-title="直播TAIWAN",Warner TV
-http://tzh911.qzz.io/play-smt.php?id=WarnerTV
-
-
-#EXTINF:-1 group-title="直播TAIWAN",Animal_Planet
-http://tzh911.qzz.io/play-smt.php?id=animalplanet_twn
-#EXTINF:-1 group-title="直播TAIWAN",Animal Planet (Eng)
-http://tzh911.qzz.io/play-smt.php?id=AnimalPlanet
-#EXTINF:-1 group-title="直播TAIWAN",BBC Earth HD
-http://tzh911.qzz.io/play-smt.php?id=bbcearth_twn
-#EXTINF:-1 group-title="直播TAIWAN",BBC Earth Lifestyle
-http://tzh911.qzz.io/play-smt.php?id=bbclifestyle_twn
-#EXTINF:-1 group-title="直播TAIWAN",CI
-http://tzh911.qzz.io/play-smt.php?id=ci_twn
-#EXTINF:-1 group-title="直播TAIWAN",Discovery Asia
-http://tzh911.qzz.io/play-smt.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="直播TAIWAN",Discovery HD
-http://tzh911.qzz.io/play-smt.php?id=discoveryhd_twn
-#EXTINF:-1 group-title="直播TAIWAN",Fashion TV
-http://tzh911.qzz.io/play-smt.php?id=fashiontv_twn
-#EXTINF:-1 group-title="直播TAIWAN",Foodnetwork Hd
-http://tzh911.qzz.io/play-smt.php?id=Foodnetwork
-#EXTINF:-1 group-title="直播TAIWAN",HGTV
-http://tzh911.qzz.io/play-smt.php?id=HGTV
-#EXTINF:-1 group-title="直播TAIWAN",History
-http://tzh911.qzz.io/play-smt.php?id=History
-#EXTINF:-1 group-title="直播TAIWAN",NatGeo HD
-http://tzh911.qzz.io/play-smt.php?id=Natgeo
-#EXTINF:-1 group-title="直播TAIWAN",Natgeo_HD
-http://tzh911.qzz.io/play-smt.php?id=natgeohd_twn
-#EXTINF:-1 group-title="直播TAIWAN",NatGeo Wild HD
-http://tzh911.qzz.io/play-smt.php?id=Natgeowild
-#EXTINF:-1 group-title="直播TAIWAN",NatGeo_Wild HD
-http://tzh911.qzz.io/play-smt.php?id=natgeowild_twn
-#EXTINF:-1 group-title="直播TAIWAN",TLC
-http://tzh911.qzz.io/play-smt.php?id=Tlc
-
-#EXTINF:-1 group-title="直播TAIWAN",ABC News
-http://tzh911.qzz.io/play-smt.php?id=abcnews_glo
-#EXTINF:-1 group-title="直播TAIWAN",Al-Jazeera
-http://tzh911.qzz.io/play-smt.php?id=aljazeera_twn
-#EXTINF:-1 group-title="直播TAIWAN",BBC World News
-http://tzh911.qzz.io/play-smt.php?id=bbcnews_twn
-#EXTINF:-1 group-title="直播TAIWAN",BBC World News
-http://tzh911.qzz.io/play-smt.php?id=Bbcnews
-#EXTINF:-1 group-title="直播TAIWAN",Bloomberg News
-http://tzh911.qzz.io/play-smt.php?id=bloomberg_twn
-#EXTINF:-1 group-title="直播TAIWAN",CBS HD
-http://tzh911.qzz.io/play-smt.php?id=cbshd_glo
-#EXTINF:-1 group-title="直播TAIWAN",CBSN HD
-http://tzh911.qzz.io/play-smt.php?id=cbsn_glo
-#EXTINF:-1 group-title="直播TAIWAN",CNA
-http://tzh911.qzz.io/play-smt.php?id=cna
-#EXTINF:-1 group-title="直播TAIWAN",CNBC
-http://tzh911.qzz.io/play-smt.php?id=cnbc_twn
-#EXTINF:-1 group-title="直播TAIWAN",CNN International
-http://tzh911.qzz.io/play-smt.php?id=Cnn
-#EXTINF:-1 group-title="直播TAIWAN",CNN backup
-http://tzh911.qzz.io/play-smt.php?id=cnn_twn
-#EXTINF:-1 group-title="直播TAIWAN",DW (Deutsch)
-http://tzh911.qzz.io/play-smt.php?id=dw_twn
-#EXTINF:-1 group-title="直播TAIWAN",Fox News
-http://tzh911.qzz.io/play-smt.php?id=foxnews_twn
-#EXTINF:-1 group-title="直播TAIWAN",France 24
-http://tzh911.qzz.io/play-smt.php?id=france24_twn
-#EXTINF:-1 group-title="直播TAIWAN",NHK World
-http://tzh911.qzz.io/play-smt.php?id=nhkworld_japan
-#EXTINF:-1 group-title="直播TAIWAN",Skynews
-http://tzh911.qzz.io/play-smt.php?id=skynews_twn
 
 
 
 ################################################
-
-
 
 https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u
 
@@ -1561,7 +2183,7 @@ http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m
 #EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="台灣酒店",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞
-http://tzh911.qzz.io/play-smt.php?id=niandainews_twn
+https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
 #EXTINF:-1 tvg-name="東森新聞HD" tvg-logo="https://logo.catvod.com/東森新聞HD.png" group-title="台灣酒店",東森新聞HD
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://logo.catvod.com/中天新聞.png" group-title="台灣酒店",中天新聞
@@ -1619,17 +2241,17 @@ http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN 2.png" group-title="台灣酒店",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="台灣酒店",CCTV-5 體育頻道
-http://tzh911.qzz.io/play-smt.php?id=cctv5
+http://tzh911.qzz.io/play-smt.php?id=cctv5&token=Goiptv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="台灣酒店",CCTV-5+ 體育賽事 HD
-http://tzh911.qzz.io/play-smt.php?id=cctv5plus
+https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
-http://tzh911.qzz.io/play-smt.php?id=eltasport_twn
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport_twn&token=Goiptv
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
-http://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
-http://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
+https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
-http://tzh911.qzz.io/play-smt.php?id=eltasports4_twn
+https://smt.go-iptv.ggff.net/smart.php?id=eltasports4_twn&token=Goiptv
 #EXTINF:-1 tvg-name="廈門衛視" tvg-logo="https://logo.catvod.com/廈門衛視.png" group-title="台灣酒店",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="台灣酒店",CCTV4-中央衛視
@@ -2505,6 +3127,303 @@ https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="USA TV" tvg-id="WOLODT1.us@SD",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ACCNetwork.us@SD",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="AMC.us@East",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="AntennaTV.us@SD",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Aspire.us@SD",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="AXSTV.us@SD",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BBCAmerica.us@East",BBC America East
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="beINSportsUSA.us@SD",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BET.us@East",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETGospel.us@SD",BET Gospel
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETHer.us@East",BET Her East
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETJams.us@SD",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETSoul.us@SD",BET Soul
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BigTenNetwork.us@SD",Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BloombergTV.us@US",Bloomberg TV
+https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Bounce.us@SD",Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Bravo.us@East",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Buzzr.us@SD",Buzzr
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CSPAN.us@SD",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WBBMDT1.us@SD",CBS Chicago WBBM-DT1
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CBS.us@East",CBS East (720p)
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CHBLTV.ca@SD",CHBL-TV
+https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CleoTV.us@SD",Cleo TV (720p)
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CMT.us@East",CMT East
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CNBC.us@SD",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CNBCWorld.us@SD",CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ComedyTV.us@SD",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Comet.us@SD",Comet
+https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CourtTV.us@SD",Court TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CoziTV.us@SD",Cozi TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave1.ca@SD",Crave 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave2.ca@SD",Crave 2
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave3.ca@SD",Crave 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave4.ca@SD",Crave 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CuriosityStream.us@SD",CuriosityStream (720p)
+https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CVMTV.jm@SD",CVM TV
+https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="DisneyChannel.us@East",Disney Channel East
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="DisneyJunior.us@East",Disney Junior East
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="E.us@East",E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ESPNU.us@SD",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ESPNews.us@SD",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FanDuelTV.us@SD",FanDuel TV
+https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFLDDT1.us@SD",FOX Chicago WFLD-DT1
+https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FoxSoul.us@SD",Fox Soul
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Freeform.us@East",Free form East
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Fuse.us@East",Fuse East (720p)
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FX.us@East",FX East
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FXM.us@East",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FXX.us@East",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FYI.us@East",FYI East
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="GetTV.us@SD",GetTV (480p)
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="GolfChannel.us@SD",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="History.us@East",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HSN.us@East",HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="INSP.us@SD",INSP
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="IONPlus.us@East",ION Plus East (720p)
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="IONTV.us@East",ION TV East
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Lifetime.us@East",Lifetime East
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="LifetimeMovies.us@East",Lifetime Movies East
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="LoveNature.ca@SD",Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="",MAV TV (720p)
+https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MeTV.us@SD",MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MGMPlus.us@East",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MilitaryHistory.us@SD",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MLBNetwork.us@SD",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MSG.us@SD",MSG
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTVClassic.us@East",MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTV.us@East",MTV East
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTVLive.us@SD",MTV Live (720p)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Much.ca@SD",Much (720p)
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NationalGeographic.us@East",National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NBATV.us@SD",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WMAQDT1.us@SD",NBC Chicago WMAQ-DT1
+https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NewsNation.us@East",News Nation (720p)
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NFLNetwork.us@SD",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NFLRedZone.us@SD",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NickJr.us@East",Nick Jr. East (720p)
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Nickelodeon.us@East",Nickelodeon East
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Nicktoons.us@East",Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="OutdoorChannel.us@SD",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="OutsideTV.us@SD",Outside TV
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Ovation.us@SD",Ovation (1080p)
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Oxygen.us@East",Oxygen East
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ParamountNetwork.us@East",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="PopTV.us@SD",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="PursuitChannel.us@SD",Pursuit Channel (720p)
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="QVC.us@SD",QVC (720p)
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Reelz.us@SD",Reelz (720p)
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Revolt.us@SD",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Showtime2.us@East",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Showtime.us@East",Showtime East
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ShowtimeNext.us@East",Showtime Next East
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Showtime.us@West",Showtime West (1080p)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ShowtimeWomen.us@East",Showtime Women East
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SmithsonianChannel.us@East",Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SonyChannel.mx@SD",Sony Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SportsmanChannel.us@SD",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SportsNetNewYork.us@SD",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="StartTV.us@SD",Start TV
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Starz.us@East",Starz East
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Starz.us@West",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SundanceTV.us@East",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Syfy.us@East",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TeenNick.us@East",TeenNick
+https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TennisChannel.us@SD",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN2.ca@SD",TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN3.ca@SD",TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN4.ca@SD",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN5.ca@SD",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TVLand.us@East",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TVOne.us@SD",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="USANetwork.us@East",USA Network (720p)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="VH1.us@East",VH1 East
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="VICETV.us@SD",VICE TV (720p)
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WNetwork.ca@East",W Network (720p)
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WeTV.us@East",We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFLADT1.us@SD",WFLA-DT1
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFLXDT1.us@SD",WFLX-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFTSDT1.us@SD",WFTS-DT1
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Willow.us@SD",Willow
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WKCFDT1.us@SD",WKCF-DT1
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WorldFishingNetwork.us@SD",World Fishing Network
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WPECDT1.us@SD",WPEC-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WTOGDT1.us@SD",WTOG-DT1
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WVGNLD1.vi@SD",WVGN-LD1
+https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="YesNetwork.us@SD",Yes Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
+
+
+
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA TV",A&E TV
@@ -2854,6 +3773,12 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://11.112114.xyz/logo/MBC여수.png" group-title="韓國頻道",MBC-여수
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RNA" tvg-name="RNA" tvg-logo="" group-title="韓國頻道",RNA
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+#EXTINF:-1 tvg-id="韩国音乐" tvg-name="韩国音乐" tvg-logo="" group-title="韓國頻道",韩国音乐
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="" group-title="韓國頻道",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 
 
@@ -3132,71 +4057,71 @@ http://free.cnlive.club/channel/32091bdb/index.m3u8?q=1752629214236
 
 
 #EXTINF:-1 group-title="港澳台",鳳凰中文
-http://tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
+https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
 #EXTINF:-1 group-title="港澳台",鳳凰資訊
-http://tzh911.qzz.io/play-smt.php?id=phoenixinfo_hd
+https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
 #EXTINF:-1 group-title="港澳台",鳳凰香港
-http://tzh911.qzz.io/play-smt.php?id=hkphoenix_twn
+https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",無線新聞
-http://tzh911.qzz.io/play-smt.php?id=inews_twn
+https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",翡翠台
-http://tzh911.qzz.io/play-smt.php?id=jade_twn
+https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",翡翠台
-http://tzh911.qzz.io/play-smt.php?id=Jade_xue
+https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
 #EXTINF:-1 group-title="港澳台",翡翠台
-http://tzh911.qzz.io/play-smt.php?id=Tvbjade
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
 #EXTINF:-1 group-title="港澳台",明珠台
-http://tzh911.qzz.io/play-smt.php?id=pearl_twn
+https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",TVB Plus
-http://tzh911.qzz.io/play-smt.php?id=j2_twn
+https://smt.go-iptv.ggff.net/smart.php?id=j2_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",無線華麗粵
-http://tzh911.qzz.io/play-smt.php?id=Wlt
+https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
 #EXTINF:-1 group-title="港澳台",無線華麗國
-http://tzh911.qzz.io/play-smt.php?id=Tvbjade
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
 #EXTINF:-1 group-title="港澳台",無線娛樂新聞
-http://tzh911.qzz.io/play-smt.php?id=Tvbentertainment
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
 #EXTINF:-1 group-title="港澳台",千禧經典
-http://tzh911.qzz.io/play-smt.php?id=Tvbclassic
+https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
 #EXTINF:-1 group-title="港澳台",TVB 星河 Xing He
-http://tzh911.qzz.io/play-smt.php?id=Xinhe
+https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
 #EXTINF:-1 group-title="港澳台",HOY 78
-http://tzh911.qzz.io/play-smt.php?id=hoycaijing_twn
+https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",VIUTV
-http://tzh911.qzz.io/play-smt.php?id=viu1_twn
+https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",VIUTV 6
-http://tzh911.qzz.io/play-smt.php?id=viusix_twn
+https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",RTHK-31
-http://tzh911.qzz.io/play-smt.php?id=rhk31_twn
+https://smt.go-iptv.ggff.net/smart.php?id=rhk31_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",RTHK-32
-http://tzh911.qzz.io/play-smt.php?id=rhk32_twn
+https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",天映頻道粵
-http://tzh911.qzz.io/play-smt.php?id=ctv18_twn
+https://smt.go-iptv.ggff.net/smart.php?id=ctv18_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",天映頻道國
-http://tzh911.qzz.io/play-smt.php?id=Celestial
+https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
 #EXTINF:-1 group-title="港澳台",天映頻道
-http://tzh911.qzz.io/play-smt.php?id=Celestialindo
+https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
 #EXTINF:-1 group-title="港澳台",天映經典
-http://tzh911.qzz.io/play-smt.php?id=Celestial2
+https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
 #EXTINF:-1 group-title="港澳台",美亞電影
-http://tzh911.qzz.io/play-smt.php?id=meiyamovie_twn
+https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
 #EXTINF:-1 group-title="港澳台",新加CHANNEL U
-http://tzh911.qzz.io/play-smt.php?id=ChannelU
+https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv
 #EXTINF:-1 group-title="港澳台",新加CHANNEL 5
-http://tzh911.qzz.io/play-smt.php?id=Channel5HD
+https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
 #EXTINF:-1 group-title="港澳台",新加CHANNEL 8
-http://tzh911.qzz.io/play-smt.php?id=Channel8HD
+https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv
 #EXTINF:-1 group-title="港澳台",八度空間
-http://tzh911.qzz.io/play-smt.php?id=TV8
+https://smt.go-iptv.ggff.net/smart.php?id=TV8&token=Goiptv
 #EXTINF:-1 group-title="港澳台",Astro iQiyi 愛奇藝
-http://tzh911.qzz.io/play-smt.php?id=Qiyi
+https://smt.go-iptv.ggff.net/smart.php?id=Qiyi&token=Goiptv
 #EXTINF:-1 group-title="港澳台",Astro QJ
-http://tzh911.qzz.io/play-smt.php?id=Quanjia
+https://smt.go-iptv.ggff.net/smart.php?id=Quanjia&token=Goiptv
 #EXTINF:-1 group-title="港澳台",Astro AOD
-http://tzh911.qzz.io/play-smt.php?id=Aodhd
+https://smt.go-iptv.ggff.net/smart.php?id=Aodhd&token=Goiptv
 #EXTINF:-1 group-title="港澳台",Astro AEC
-http://tzh911.qzz.io/play-smt.php?id=AEC
+https://smt.go-iptv.ggff.net/smart.php?id=AEC&token=Goiptv
 #EXTINF:-1 group-title="港澳台",Astro 歡喜
-http://tzh911.qzz.io/play-smt.php?id=Huahee
+https://smt.go-iptv.ggff.net/smart.php?id=Huahee&token=Goiptv
 
 
 
@@ -6031,6 +6956,58 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 group-title="私密頻道 ADULT",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+#EXTINF:-1 group-title="私密頻道 ADULT",bluehustler
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/91.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",hustlet
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/92.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",private
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/93.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",vividred
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/94.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",vividtv
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/96.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",vividtouch
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/95.ts
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",驚艷台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/xEv8LNpfJlH-l5oXC-zMyLQ8dT8XuENm4qlVpQcY8zj4lsOQ0LzzNEemBPFwTxSOK3-95NvLNiPIf_uEmBgJ-i.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",潘朵拉
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/tQ0KXkOE376zDZkZWz-5w9KGmvpr6_zg4VCUjfFDkghpIT-Rwpd9Kc7S5Y0whIHRsFGlQZv1HgBk-sgXvp5bP7.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",松視1台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/dEHGYJExVp5GiDDh5R5oIbzjUFjw3teqPIb6k-P26n6fhYysFSqyeDUzDI1GFxto2f36s5eD3dAnzFRcxRzSLi.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",松視2台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/wuVA92ptDAHl5qnEJR1iPUu_vOiOnO1zThVw6G6E6hMThOas39ZaYRlxy4h-5QtAcvltwNaswaNSydNYlvST.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",松視3台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/yhIkOC3J9gdGb9OjsbC5mrC7jx35EYarLIbpqnPFfGCEcdjZYGcxKPvLhg-rwMv9TO9bPNazeCNAa7ijU5kUEi.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹e台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_LIQ3nswndVIQzK7DUntRzm4lKfYpJbF1Dowr-zOPXgpljb4xUkp6WDmQDbStzRndC8WwxlI4r1oMM1rzqKc67.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",完美台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/uyi3iUt1TqdT6ct8AK6A5Opc8yOgI5NBAo51P0EIVV1YW-Js1Z2A22rWsdqIe9WK0u9JN6NErpepOF-avEaLwP.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹K台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/fwSIsOKQu456I6-5zKEQ8yENIOzl14QHCj4EpcbH7zpRbkL7QExAe6VbHrlwAqAV165eDNOf3DJBbBylhwZ5Ti.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",极限台
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_UOm_cqYkNX1AinPoJyrt8dlMJzpjmsdaiY2RaDX3HBg8rSzAQqar6m-k25XMlcnpz20_k9W-8u6fCn1fkzPei.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹電影
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/Cdas2m-03koDMUDz6VD3D0vR2MpWRw_QsYcXByhoSuTDyoHg97CihHp9YzUCIKnr1Ys0isKAXxeOtR0fC-jGBi.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",HAPPY
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/SEvghCZdsocJ739_UotvDpikw5YpEcrPQvyHFKohv1GxAbxDyqrdnDmhzQ0XyHg_5HecASY0sT48Q9tFc6SGPC.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Playboy
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/CWxFeX_18hu7ftKU2rxPsqiDwPQ1H08YhS1-FrWSU2AmXFcBgG-s2qVy9ByEbr_B7PsmmglPKDy5tfzc9s_kei.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Dorcel
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/1R1Dx9dqDZ_SNp9HRMaJWpRoIl7ZSNJeAUacwQ5g92-zNPiHEn2_3b_638Nv4eCA6r_svtXji3MKmcSFTniH9P.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",HAPPY CHANNEL
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/lvxasnj7rz4ELAYdeli7KV7cAQLU0HmJUDhVkqeKVSJvxP7aiq8tYLsOBh76tsqVs2DuOzZWByQViZlgvSWFOP.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",erox
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/6q85EAu3NgxZ_IEUO9L646970i6V3A0YrQXs6AM_tBVCSoEaO-e9Zm2Kbu20RYcvtK98MovRnekw1VU8OsbZ.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",eroxxx
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/f0UM7DWaLnF9R28ally0ihytAjvunU2zWP3E8MWzMEyzGxV5JZ3Umt_h7yVLH-cMlGXwWvvYbFMqpHh21vKjwi.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",brazzers
+https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ty_De4nuMlA4Eplu-nXSYQWEXFu38xXXQzs63W6ih9hvY8TN_hYVeOuXiziYNlgytQQJ8PAZ8pwOxHi3nQOblP.m3u8
+
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",香蕉台(125)
@@ -11463,3 +12440,52 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2DRFP4PXP5RHZT/31716/ind
 
 
 
+
+
+
+################################################
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="Canais | XXX Adultos",PLAYBOY
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="" group-title="Canais | XXX Adultos",SEX PRIVE
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40001
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="" group-title="Canais | XXX Adultos",SEXTREME
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40002
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="" group-title="Canais | XXX Adultos",SEXY HOT
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="Canais | XXX Adultos",VENUS
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40004
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Erotic TV Online" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Erotic TV Online
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40005
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Web Tv" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Web Tv
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40006
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Videos Non Stop" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Videos Non Stop
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40007
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online POV" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online POV
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40008
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Pornstar" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Pornstar
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40009
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Milfs" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Milfs
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40010
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Live Cams" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Live Cams
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40011
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Lesbian" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Lesbian
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40012
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV online Latina" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV online Latina
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40013
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Interracial" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Interracial
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40014
+#EXTINF:-1 tvg-id="" tvg-name="Live Adult TV Hardcore" tvg-logo="" group-title="Canais | XXX Adultos",Live Adult TV Hardcore
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40015
+#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Brunette" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Brunette
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40016
+#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Sexy Blondes" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Sexy Blondes
+http://sinalprivado.info:80/632035/GqGcFV4ntu/40017
+
+
+
+
+################################################
