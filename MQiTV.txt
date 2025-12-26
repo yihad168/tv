@@ -23,6 +23,13 @@
       "epg": "https://m3u.ibert.me/epg/112114_xyz.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
+{
+            "name": "SmartTV",
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
+            "timeout": 30,
+            "playerType": 1
+        },
 
  {
       "name": "🔕歐華167🔓🔓VPN",
