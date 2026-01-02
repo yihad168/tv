@@ -53,8 +53,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "台灣四季",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
+      "name": "台灣CAT",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -65,8 +65,8 @@
     },
 
     {
-      "name": "4gtv",
-      "url": "http://4gtv.korice.eu.org/?type=m3u"
+      "name": "冰茶tv",
+      "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130"
     },
     {
       "name": "綜合",
@@ -145,8 +145,8 @@
     },
 
     {
-      "name": "💔司馬特💔",
-      "url": "http://tv123.vvvv.ee/tv.m3u"
+      "name": "💔猫影💔",
+      "url": "https://live.catvod.com/tv.m3u"
     },
 
     {
