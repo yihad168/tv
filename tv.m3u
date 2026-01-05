@@ -8,7 +8,7 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 #EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",松視1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee2.png",松視2
+#EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",松視2
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",松視3
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
@@ -26,12 +26,47 @@ http://125.227.210.55:8203/VideoInput/play.ts
 http://125.227.210.55:8205/VideoInput/play.ts
 
 
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹E台
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/978.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹K台
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/988.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹电影
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/979.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",Amazing 惊艳成人电影台
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/982.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",Banana 香蕉台
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/983.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",HAPPY频道
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/986.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",JStar 极限电影台
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/987.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",LOOK
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/980.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",奥视频道1 Ours 1HD
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/989.ts
+#EXTINF:-1 group-title="私密頻道 ADULT",奥视频道2 Ours 2HD
+http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/990.ts
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
 https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
 
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC5（早7）
+https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC1（早7）
+https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC2
+https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",內衣女孩寫真
@@ -50,8 +85,8 @@ https://jpzy01.com/20230626/MAFTOVhW/1000kb/hls/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 
@@ -140,6 +175,10 @@ http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Club 17
 http://c4dd5336.edemist.com/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6186/index.m3u8
 
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",MetArt HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6233/index.m3u8
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",FemJoy
@@ -7892,11 +7931,153 @@ http://wzcgkffz.mexamo.xyz:80/V713SWTY/D8T8KGTL/1274600
 
 
 
+#EXTINF:-1 group-title="XXX Adult XXX",HOT
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4oBWyWuRQmNz6-OsYHD2VBCktvn1tZdnqaXQ9zRlinv2/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Dusk
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4lFV3BjHOtXX1xCcdDcMh6zdpCA4qrvaG2bmm3FalNzK/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Juice
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4p7OZQwyJGvh7KlvdltSy-yeNCmpZJ9bk7c0OTzk7JOk/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Juice
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4kZDnJvjyC2iUC5jj9N3pUTSkwXbdzVo3G12nL3eDnyA/ts
+#EXTINF:-1 group-title="XXX Adult XXX",HOT
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uDOEGhOgqv5_mr3Tc2Nya1Ezzwdcaaj6SttzIo8tL8k/ts
+#EXTINF:-1 group-title="XXX Adult XXX",CastX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4nBh-XTRk3_mFCu-uCH1aabXwF9QT_vYgdVm8o4yYTn8/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Juice
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4gxLnKNdspPkTONl627XeQWz5dV1WJXF0mG_mHSKdTi-/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sextreme
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uYtvDKVwffcx2KIHFfb6D304eVhJkfv4HDMitNJs1a3/ts
+#EXTINF:-1 group-title="XXX Adult XXX",PenthouseX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4lSK-cJsnTa7PZfFDtuiSCagaUqk9Pkp8TcL8Q5sHVUI/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Mamacitaz
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4u6cY_-R6REMOZYMh327HK8556wGFjG4dAyMvhO0w-OQ/ts
+#EXTINF:-1 group-title="XXX Adult XXX",FamilyXXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4s0AWX7S4Mz7jR7vj5KJcBhFe0NVpY1cOgbJaz_ZayZf/ts
+#EXTINF:-1 group-title="XXX Adult XXX",DORCEL model
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4lk4KQykUmmGvBOPTjOnDt9VfoLd8sqa3cfv2SEZB4B7/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX : Playboy Plus+
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4px9V2yqBIktC48pwfxtLzGGxv9hMahRxSOiF8LDjZw2/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX : Lesbian Channel HD
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4shVkr69syjye1ksbNvg1oCLSAD20Z16LFCTtQfJISuS/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX : Brazzers HD WJJ
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4ilYWWXwedWZaq1LZeXKMReggC8wVBJKaHfCn7KyRPo4/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX : SexMex HD
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4sS8jF3gpF04DIN_4ZdVfghqbFXPJZSCb3dmCwWyJ8OX/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX : Adult Channel HD WJJ
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4osHfwOL9F60klC1TJQrZiVXhawlNufdX0vAedkZ0DSN/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX : Adult Pornbox  HD
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4rD_wUmAeyFxFzkuvrToKRCNVAIAePnsMA9bjlVuUryN/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Mofos - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4lEWLedfmZXm6Et9YRJ5jTR9DiKH8Qsp1tglVww1dBqT/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Exotic - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4k0PlO5MdaKLgAp7EBhiOCXS0qfCnqT7gmj0liQ0Ri8w/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Deeper - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4v1xf0HqfhrfFKFEnKIQFPImkKu8I_fTLw0QalfAYQos/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Ultimate Surrender - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4kaOgiFUdTJABSdbCdxt2UwRWs05I1PfVfT9eh2R2NmZ/ts
+#EXTINF:-1 group-title="XXX Adult XXX",XXX - TWISTYS
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4k2cHf2fk0NjQAGmQtC3buY_-EvQ_TuveluWWP6nTIrb/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Babes - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4mUdMzGml7518-kBtxmBX_ncGVW3xwx4WYEGE0Xb_yqv/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Bang Bros - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4tgC9B8CPkRZicGHR-YG_cnO9d9AMSOobf49IjJBWRpl/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Blacked - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4n2YfYAqhOEyHMpAp-tB5Maq3sQEaaPldGHG_8nw7Mb3/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Deepthroat Sirens - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4hZ686gHVXUnb6PZk5HvUmc_Q5yY0HlIJ3-thDpmfyRD/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Gay (men) - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uoZoPufUpHf7mY775hMlQq7H9pLO1SqTSBXRCrUMijC/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Gay 2 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4n2cu1m6MsImhR8qYolp3Q2UsqnVgqU_HgnlwDTosA6P/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Lesbian - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4rtWFFIZoktMZ4GzpQzaC14tRb1bMC7d_RrkY2ZtPFi1/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Pure Taboo - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4hPyfEzKU_R0r5tmfv9CTr2UZ27zSflUJV09P9HhEou4/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Whipped Ass - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4oXly8UDhiX4lB4JTNN11SCepQDUydOs0-4-1FuZHQ9M/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Erotic 5 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4oZnotldfLcUbAQcXAEeRB3twlNk41QzC2SloNdFEyd-/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Hotclub 3 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4u1eWvX10GvIPLcLj-lBdLtDoDtT3kqu_QwkgaJSS6Xt/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Jasmin TV - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4kqKrR5F8Zgq1VctyHny80yccJ4wvBbj-BwQD2caS0XR/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Max - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4rCkDji4Wykgp9hH90pjps_3gDNX-2GJGoivoeXERMY0/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Oh - Ah - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4jKGXFLFMVGi0UofgBwEO9ndc37aerZJW1tpeRRXfDCQ/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Passion - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4vMroJqibStZBjG_KgHSUgrbaP1y6GAJ6IeFp9y3sVNi/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Penthouse 1 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4hafpSUZUeExD3qi-fp710vdsxkMxDsZUw3QxG3zsMXM/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Penthouse Gold - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4rAiC5OF9Vn5ySUZiI_By7lWogLcC8FuiOgbAbDZhUYD/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Private TV - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4kUy7XG8U5qBUgb15hDFy2kQDap8nxGgH9WS8bYAHEY2/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Tushy - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4quja9VMrGgz2bWz8ytaK-LFojgXxoD86YGlRaR7QGS1/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: VIXEN - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uoXlCeYxDVfMlZw6Ius-QkSRI4-SMRzj2k2jOJb9BO3/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Brazzers - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4iEJdqlUVP_Q5V7wjaTfkz3I10OpAccdjUREI1IvgXag/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Twisty - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4tLnHsGPqPU4sUL7qNzQbEj8oRxyrAGHXap5weNwZC6b/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Blacked - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4pinmGGfjrIu2zkr9_SaznOacCweN5P6Y20t3rOiQJsD/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: MASSAGES ROOMS - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4lLaXFPOE-tUbQbm4CbSHMFJvqxFigapLMNbWFqSgGuk/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: BUMSBUS - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4kynLXPVYItYvOynWfcfa5O2K62_C78H2LIXMqcesJ7q/ts
+#EXTINF:-1 group-title="XXX Adult XXX",NEW Sensations- XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4rd5aYh9gPjiftYCWQPaDpCID2WxuObJntreeKLzB3kk/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: PERV CITY - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uN6-a5JxhKSlRp5uiEyonB1bZvDDcFZBAFd-lBdyidU/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sinsations: Mofos 2 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4nFVH60T0dU0EZqiyRTRqXKpLcF-PKey99_q7i6Sth6v/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Teamskeet - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4tJOOXp9KU6SmsaGLXsxpEA42OegsuJZTtl51D2JYWmp/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Familyx
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4sgmgRbHQEVAEnh-jWisSgUNTcVQXjjvZhgUpByi-T6V/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Swap
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4kh1wfr6XFKqNTsWQ8iBJrP1sTTmSK206Ycvhnp0dGbT/ts
+#EXTINF:-1 group-title="XXX Adult XXX",New Sensation
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4k7-w1qymc3e01C9ohJUrHEDbasmW44gWUWmBNMC4dRw/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Brazzers HD
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4oiifCyNEQh0nv9A4Wiu0C3faFLBICVvTtwk2NjuhTHl/ts
+#EXTINF:-1 group-title="XXX Adult XXX",SEX MEX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4qNJZdBkIDgVR0iDazVTbYpvJCtGZloSnVa25PvtKlMY/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Tushy Raw
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4sp-uZ63yUzR5lT3tj1rKKzokXItO94vb6zMI2OLF-Wg/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Sex-Mex Channel
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uTQKd9IidWuz4M_bBzjPrxc9WAJKNFHEhZF4pi0TpnM/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Teen Curves
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4tR4PnfHf0phy4Yv-VvwQ9Fo_uHP6hQz04bCwU8Z2VCi/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Taboo FHD
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4vnU-p9A8O-5sVPgSehXQViVbaGT0tX7-Tpn8saSYKIP/ts
+#EXTINF:-1 group-title="XXX Adult XXX",VIXEN MODEL
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4uth_R4cGfuImrvum9H6-bIYo42ZMry9pLkl_fByF9kr/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Hentai 2 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4vHEVxYibicTicci2aLU3E8_7DDCeDC47SxYVqgykT2t/ts
+#EXTINF:-1 group-title="XXX Adult XXX",Hentai 3 - XXX
+https://zonamovie.pro:443/play/vVhrjiuWxs24xj1D1v3o4ioWGIzHJPCaBRtGBd4bbEhc3CCtA-ogIW4jT3Zid5-_/ts
+
+
+
+
+################################################
+
+
+################################################
+
+
+################################################
+
+
 ################################################
 
 
 
-################################################
+
+
 https://yydsys.top/duo
 多多线路
 
