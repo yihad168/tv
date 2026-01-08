@@ -6777,17 +6777,17 @@ http://live.catvod.com/live.php?id=jade_twn
 http://live.catvod.com/live.php?id=Jade_xue
 #EXTINF:-1 tvg-id="翡翠台" group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",翡翠台
 http://live.catvod.com/live.php?id=Tvbjade
-#EXTINF:-1 group-title="明珠台" http-user-agent="Goiptv/8.8.8",明珠台
+#EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",明珠台
 http://live.catvod.com/live.php?id=pearl_twn
-#EXTINF:-1 group-title="TVB Plus" group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",TVB Plus
+#EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",TVB Plus
 http://live.catvod.com/live.php?id=j2_twn
 #EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",無線華麗粵
 http://live.catvod.com/live.php?id=Wlt
 #EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",無線華麗國
 http://live.catvod.com/live.php?id=Tvbjade
-#EXTINF:-1 group-title="娛樂新聞台" group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",無線娛樂新聞
+#EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",無線娛樂新聞
 http://live.catvod.com/live.php?id=Tvbentertainment
-#EXTINF:-1 group-title="千禧經典" group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",千禧經典
+#EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",千禧經典
 http://live.catvod.com/live.php?id=Tvbclassic
 #EXTINF:-1 group-title="直播TAIWAN" http-user-agent="Goiptv/8.8.8",TVB 星河 Xing He
 http://live.catvod.com/live.php?id=Xinhe
@@ -16196,111 +16196,111 @@ https://surrit.com/9c6977a1-ad43-49f0-bfb5-ff816b9acb74/720p/video.m3u8
 ################################################
 
 
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-前田陽菜
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-前田陽菜
 https://t33.cdn2020.com/video/m3u8/2025/09/06/fa307ed2/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-永泽真央美
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-永泽真央美
 https://t33.cdn2020.com/video/m3u8/2025/09/06/73f7f2db/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-爱原爱蕾娜
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-爱原爱蕾娜
 https://t33.cdn2020.com/video/m3u8/2025/09/04/4456f49d/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-遥惠美
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-遥惠美
 https://t33.cdn2020.com/video/m3u8/2025/09/04/fc02941c/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-優木まみ
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-優木まみ
 https://t33.cdn2020.com/video/m3u8/2025/08/31/36cd6162/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-藤北彩香
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-藤北彩香
 https://t33.cdn2020.com/video/m3u8/2025/08/27/34be6a91/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-前田陽菜
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-前田陽菜
 https://t33.cdn2020.com/video/m3u8/2025/08/27/54c8cd04/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-杏树纱奈
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-杏树纱奈
 https://t33.cdn2020.com/video/m3u8/2025/08/25/c7afd008/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-绫濑妃亚罗
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-绫濑妃亚罗
 https://t33.cdn2020.com/video/m3u8/2025/08/24/0bf03531/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-小日向美久
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-小日向美久
 https://t33.cdn2020.com/video/m3u8/2025/08/23/6e95a345/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-AIKA
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-AIKA
 https://t33.cdn2020.com/video/m3u8/2025/08/23/025fe2dd/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-濑亚美莉
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-濑亚美莉
 https://t33.cdn2020.com/video/m3u8/2025/08/19/6cdf3b7c/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-绫濑妃亚罗
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-绫濑妃亚罗
 https://t33.cdn2020.com/video/m3u8/2025/08/19/53d1f7dd/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-愛理美久
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-愛理美久
 https://t33.cdn2020.com/video/m3u8/2025/08/18/b4a39106/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-愛内梨花
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-愛内梨花
 https://t33.cdn2020.com/video/m3u8/2025/08/15/024de602/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-黑木亚里沙
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-黑木亚里沙
 https://t33.cdn2020.com/video/m3u8/2025/08/15/9ba8e8b0/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-仓木美绪
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-仓木美绪
 https://t33.cdn2020.com/video/m3u8/2025/08/12/e10f1cc1/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-爱原翼
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-爱原翼
 https://t33.cdn2020.com/video/m3u8/2025/08/10/2a5ed14c/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-羽月希
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-羽月希
 https://t33.cdn2020.com/video/m3u8/2025/08/10/0f925fa3/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-小向真奈美
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-小向真奈美
 https://t33.cdn2020.com/video/m3u8/2025/08/08/f2ee93c9/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-葵舞琉真
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-葵舞琉真
 https://t33.cdn2020.com/video/m3u8/2025/08/08/6068af78/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-南芽梨
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-南芽梨
 https://t33.cdn2020.com/video/m3u8/2025/08/05/95c82862/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-星崎安里
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-星崎安里
 https://t33.cdn2020.com/video/m3u8/2025/08/05/2894852c/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-藤原瞳
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-藤原瞳
 https://t33.cdn2020.com/video/m3u8/2025/08/03/f31406d4/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-青空小夏
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-青空小夏
 https://t33.cdn2020.com/video/m3u8/2025/08/03/73c53cea/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-柳田弥生
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-柳田弥生
 https://t33.cdn2020.com/video/m3u8/2025/08/01/8209c555/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-铃木里美
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-铃木里美
 https://t33.cdn2020.com/video/m3u8/2025/08/01/62402604/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-大枝千穂
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-大枝千穂
 https://t30.cdn2020.com/video/m3u8/2025/07/27/a9a00d0f/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-爱泽莲
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-爱泽莲
 https://t30.cdn2020.com/video/m3u8/2025/07/24/3387121c/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-原明奈
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-原明奈
 https://t30.cdn2020.com/video/m3u8/2025/07/23/0e6af924/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-佐伯雪菜
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-佐伯雪菜
 https://t30.cdn2020.com/video/m3u8/2025/07/21/8de91242/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-愛菜りな
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-愛菜りな
 https://t30.cdn2020.com/video/m3u8/2025/07/18/58323638/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-KYOKO
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-KYOKO
 https://t30.cdn2020.com/video/m3u8/2025/07/18/d2b9556e/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药RikuHinano
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药RikuHinano
 https://t30.cdn2020.com/video/m3u8/2025/07/14/2f53d031/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-LUNA
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-LUNA
 https://t30.cdn2020.com/video/m3u8/2025/07/14/b3291977/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-石川瑞樹
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-石川瑞樹
 https://t30.cdn2020.com/video/m3u8/2025/07/14/ec269ed8/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-ASUKA
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-ASUKA
 https://t30.cdn2020.com/video/m3u8/2025/07/09/6b40b332/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-椎名未来
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-椎名未来
 https://t30.cdn2020.com/video/m3u8/2025/07/08/a3bd8a53/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-香坂美优
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-香坂美优
 https://t30.cdn2020.com/video/m3u8/2025/07/08/c4bd22b1/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-铃香音色
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-铃香音色
 https://t30.cdn2020.com/video/m3u8/2025/07/06/3b14b3e8/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-乞巧奠美沙
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-乞巧奠美沙
 https://t30.cdn2020.com/video/m3u8/2025/07/06/4ee1fe4e/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-橘美穗
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-橘美穗
 https://t30.cdn2020.com/video/m3u8/2025/06/29/93fa18ad/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-水森翠
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-水森翠
 https://t30.cdn2020.com/video/m3u8/2025/06/28/99b3f71a/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-吉崎美帆
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-吉崎美帆
 https://t30.cdn2020.com/video/m3u8/2025/06/27/19240abd/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-大塚咲
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-大塚咲
 https://t30.cdn2020.com/video/m3u8/2025/06/27/405859c9/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-青山光
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-青山光
 https://t30.cdn2020.com/video/m3u8/2025/06/23/23d68627/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-春香悠
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-春香悠
 https://t30.cdn2020.com/video/m3u8/2025/06/21/c360786e/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-乞巧奠美沙
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-乞巧奠美沙
 https://t30.cdn2020.com/video/m3u8/2025/06/18/419a2510/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-片桐绘理佳
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-片桐绘理佳
 https://t27.cdn2020.com/video/m3u8/2025/01/10/4e9e4ca9/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-西园寺铃央
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-西园寺铃央
 https://t27.cdn2020.com/video/m3u8/2024/06/19/dbb614eb/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-桃香林
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-桃香林
 https://t33.cdn2020.com/video/m3u8/2025/08/10/e66601f6/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-花井美纱
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-花井美纱
 https://t30.cdn2020.com/video/m3u8/2025/07/24/d86205cc/index.m3u8
-#EXTINF:-1 group-title="猫步毒药" tvg-logo="",猫步毒药-成島涼
+#EXTINF:-1 group-title="CATWALK POISON ADULTS",猫步毒药-成島涼
 https://t30.cdn2020.com/video/m3u8/2025/06/22/f1d05314/index.m3u8
 
 
