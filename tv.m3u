@@ -9409,6 +9409,81 @@ https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
+#EXTINF:-1 group-title="體育世界",CCTV5
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="體育世界",CCTV5+
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/eurosport-1-uk.png" group-title="體育世界",Eurosport 1
+http://lunar.pm:8080/Mrdon/4782314540/20965
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/eurosport-2-uk.png" group-title="體育世界",Eurosport 2
+http://lunar.pm:8080/Mrdon/4782314540/20966
+
+
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://mirror.streamhubtv.ca:443/images/b4423a42b2be484ea35db8f7d374ead4.png" group-title="體育世界",EUROSPORT 1
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117031
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://mirror.streamhubtv.ca:443/images/c56a07874b4d01537a67c66fbf8cba3b.png" group-title="體育世界",EUROSPORT 2
+http://hardcoremedia.xyz:80/NW3Vk7xXwW/8375773282/117033
+
+
+
+
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT-BT Sport 1" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports1.png" group-title="體育世界",TNT-BT Sport 1
+http://lunar.pm:8080/Mrdon/4782314540/100775
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT-BT Sport 2" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports2.png" group-title="體育世界",TNT-BT Sport 2
+http://lunar.pm:8080/Mrdon/4782314540/100776
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT-BT Sport 3" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports3.png" group-title="體育世界",TNT-BT Sport 3
+http://lunar.pm:8080/Mrdon/4782314540/100777
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT-BT Sport 4 " tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/tntsports4.png" group-title="體育世界",TNT-BT Sport 4 
+http://lunar.pm:8080/Mrdon/4782314540/100778
+
+
+#EXTINF:-1 tvg-id="NBA TV Canada TV HD" tvg-name="CA: NBA TV" tvg-logo="http://163.172.89.228/~msepg/logos/canada/nba-tv-ca.png" group-title="體育世界",CA: NBA TV
+http://lunar.pm:8080/Mrdon/4782314540/67105
+
+#EXTINF:-1 tvg-id="TSN1 HD" tvg-name="CA: TSN 1" tvg-logo="http://163.172.89.228/~msepg/logos/canada/tsn-1-ca.png" group-title="體育世界",CA: TSN 1
+http://lunar.pm:8080/Mrdon/4782314540/67052
+#EXTINF:-1 tvg-id="TSN2 HD" tvg-name="CA: TSN 2" tvg-logo="http://163.172.89.228/~msepg/logos/canada/tsn-2-ca.png" group-title="體育世界",CA: TSN 2
+http://lunar.pm:8080/Mrdon/4782314540/67050
+#EXTINF:-1 tvg-id="TSN3 HD" tvg-name="CA: TSN 3" tvg-logo="http://163.172.89.228/~msepg/logos/canada/tsn-3-ca.png" group-title="體育世界",CA: TSN 3
+http://lunar.pm:8080/Mrdon/4782314540/67048
+#EXTINF:-1 tvg-id="TSN4 HD" tvg-name="CA: TSN 4" tvg-logo="http://163.172.89.228/~msepg/logos/canada/tsn-4-ca.png" group-title="體育世界",CA: TSN 4
+http://lunar.pm:8080/Mrdon/4782314540/67046
+#EXTINF:-1 tvg-id="TSN5 HD" tvg-name="CA: TSN 5" tvg-logo="http://163.172.89.228/~msepg/logos/canada/tsn-5-ca.png" group-title="體育世界",CA: TSN 5
+http://lunar.pm:8080/Mrdon/4782314540/67044
+
+
+
+
+
+
+#EXTINF:-1 group-title="體育世界",Now Sports精選
+http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 group-title="體育世界",NOW體育1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+#EXTINF:-1 group-title="體育世界",NOW體育2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+#EXTINF:-1 group-title="體育世界",NOW體育3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+#EXTINF:-1 group-title="體育世界",NOW體育4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+#EXTINF:-1 group-title="體育世界",NOW體育5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+#EXTINF:-1 group-title="體育世界",NOW體育6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+#EXTINF:-1 group-title="體育世界",NOW體育7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+#EXTINF:-1 group-title="體育世界",NOW體育4K1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+#EXTINF:-1 group-title="體育世界",NOW體育
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="體育世界",beIN SPORTS XTRA
 https://jmp2.uk/stvp-USAJ4300001Q7
@@ -9780,8 +9855,37 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 
 
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",無線翡翠
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW直播台
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW財經台
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW新聞台
+http://hls.168.us.kg/u/332/master.m3u8
 
-
+#EXTINF:-1 group-title="港澳頻道",港台電視31
+http://hls.168.us.kg/u/31/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY國際財經台
+http://hls.168.us.kg/u/76/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY TV
+http://hls.168.us.kg/u/77/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY資訊台
+http://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB Plus
+http://hls.168.us.kg/u/82/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",無綫新聞台
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://hls.168.us.kg/u/84/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",ViuTVsix
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",ViuTV
+http://hls.168.us.kg/u/99/master.m3u8
 
 
 
