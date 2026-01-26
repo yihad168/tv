@@ -5981,6 +5981,76 @@ https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="USA TV",YES Network
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="pac12network.us" tvg-name="USA PAC-12 Mountain" tvg-logo="http://23.227.147.172:80/images/ea703ffeb1c7a3d9ca6cfe95144c41d6.png" group-title="USA Sports",USA PAC-12 Mountain
+http://ky-tv.cc:80/brendan1/brendan1/220393.ts
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA ACC Network" tvg-logo="http://23.227.147.172:80/images/c6e69d75742a6bbdeb383c9d58a2605b.png" group-title="USA Sports",USA ACC Network
+http://ky-tv.cc:80/brendan1/brendan1/220394.ts
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="USA Big Ten Network UHD" tvg-logo="http://185.193.88.130:80/images/37291ed4a20475b8c4f401a912398943.png" group-title="USA Sports",USA Big Ten Network UHD
+http://ky-tv.cc:80/brendan1/brendan1/220402.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN HD" tvg-logo="http://185.193.88.130:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png" group-title="USA Sports",USA ESPN HD
+http://ky-tv.cc:80/brendan1/brendan1/220406.ts
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA ESPN 2" tvg-logo="http://185.193.88.130:80/images/08039b40472b82555a3ba745b0ed32df.png" group-title="USA Sports",USA ESPN 2
+http://ky-tv.cc:80/brendan1/brendan1/220407.ts
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA ESPN NEWS HD" tvg-logo="http://185.193.88.130:80/images/2c3fc98af320861514c64b713186c9e3.png" group-title="USA Sports",USA ESPN NEWS HD
+http://ky-tv.cc:80/brendan1/brendan1/220410.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA ESPN U HD" tvg-logo="http://172.110.220.61:80/images/cba769a92e8b87975731d3c833669c6a.png" group-title="USA Sports",USA ESPN U HD
+http://ky-tv.cc:80/brendan1/brendan1/220412.ts
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="USA FOX DEPORTES HD" tvg-logo="http://23.227.147.172:80/images/7eae97e6d5e49e69dbe45d7a5db53af0.png" group-title="USA Sports",USA FOX DEPORTES HD
+http://ky-tv.cc:80/brendan1/brendan1/220415.ts
+#EXTINF:-1 tvg-id="msg2.us" tvg-name="USA MSG 2 HD" tvg-logo="http://185.193.88.130:80/images/264f50f7383263ab717b0dd33f68f3fe.png" group-title="USA Sports",USA MSG 2 HD
+http://ky-tv.cc:80/brendan1/brendan1/220421.ts
+#EXTINF:-1 tvg-id="msgsnplus2.us" tvg-name="USA MSG 2 PLUS HD" tvg-logo="http://185.193.88.130:80/images/264f50f7383263ab717b0dd33f68f3fe.png" group-title="USA Sports",USA MSG 2 PLUS HD
+http://ky-tv.cc:80/brendan1/brendan1/220422.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="USA NESN Plus" tvg-logo="http://172.110.220.61:80/images/f97e1ff21d89b8d4dfabda5ec0458ace.png" group-title="USA Sports",USA NESN Plus
+http://ky-tv.cc:80/brendan1/brendan1/220439.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA SPORTSMAN CHANNEL HD" tvg-logo="http://172.110.220.61:80/images/b65a7d88a46e4b5b76c3f48551a77843.png" group-title="USA Sports",USA SPORTSMAN CHANNEL HD
+http://ky-tv.cc:80/brendan1/brendan1/220444.ts
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="USA STADIUM 1 HD" tvg-logo="http://185.193.88.130:80/images/4f889206062799cb97db2c1aabadbea4.png" group-title="USA Sports",USA STADIUM 1 HD
+http://ky-tv.cc:80/brendan1/brendan1/220446.ts
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA Tennis Channel*" tvg-logo="http://185.193.88.130:80/images/559c94740089687a14f418003bde0947.png" group-title="USA Sports",USA Tennis Channel*
+http://ky-tv.cc:80/brendan1/brendan1/220448.ts
+#EXTINF:-1 tvg-id="wfnfishing.us" tvg-name="USA WORLD FISHING NETWORK" tvg-logo="http://185.193.88.130:80/images/7ae07620028e8e81d9e969dfcd7cd19c.png" group-title="USA Sports",USA WORLD FISHING NETWORK
+http://ky-tv.cc:80/brendan1/brendan1/220454.ts
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="USA Spectrum SportsNet La Dodgers" tvg-logo="http://185.193.88.130:80/images/b4008bb68e4d1e7ed93b0394ab779fc5.png" group-title="USA Sports",USA Spectrum SportsNet La Dodgers
+http://ky-tv.cc:80/brendan1/brendan1/220460.ts
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="USA NFL Redzone" tvg-logo="http://23.227.147.172:80/images/f9c137f3645db60a1745917a562c480d.png" group-title="USA Sports",USA NFL Redzone
+http://ky-tv.cc:80/brendan1/brendan1/220463.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN UHD" tvg-logo="http://172.110.220.61:80/images/bd1162dfe23bec229b4f16f46604deee.png" group-title="USA Sports",USA ESPN UHD
+http://ky-tv.cc:80/brendan1/brendan1/226642.ts
+#EXTINF:-1 tvg-id="masn.us" tvg-name="USA MASN" tvg-logo="http://23.227.147.172:80/images/e35dd9c8c4046ad90f832b07d2e179f1.png" group-title="USA Sports",USA MASN
+http://ky-tv.cc:80/brendan1/brendan1/312334.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="USA NESN" tvg-logo="http://23.227.147.172:80/images/7156d5cd174d8887025ce9858444be95.png" group-title="USA Sports",USA NESN
+http://ky-tv.cc:80/brendan1/brendan1/312336.ts
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="USA Yes Network HD" tvg-logo="http://185.193.88.130:80/images/d83aa5633c3c07a7c936d853b4dcd4e0.png" group-title="USA Sports",USA Yes Network HD
+http://ky-tv.cc:80/brendan1/brendan1/512819.ts
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="USA WWE NETWORK" tvg-logo="http://172.110.220.61:80/images/a238e44a448d107bef4f46b71cf021c6.png" group-title="USA Sports",USA WWE NETWORK
+http://ky-tv.cc:80/brendan1/brendan1/518055.ts
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="USA Golf LHD" tvg-logo="http://172.110.220.61:80/images/2b983a48035bba7b370d4181a3bfe4ba.png" group-title="USA Sports",USA Golf LHD
+http://ky-tv.cc:80/brendan1/brendan1/809635.ts
+
+
+
+
+
+
+
+
+################################################
+
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN SD" tvg-logo="http://172.110.220.61:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png" group-title="USA Sports",USA ESPN SD
+http://ky-tv.cc:80/brendan1/brendan1/177207.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA FOX SPORTS 1 HD" tvg-logo="http://23.227.147.172:80/images/207e4a4859c6f8a03d7d85dfd7b17176.png" group-title="USA Sports",USA FOX SPORTS 1 HD
+http://ky-tv.cc:80/brendan1/brendan1/220387.ts
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA FOX SPORTS 2 HD" tvg-logo="http://185.193.88.130:80/images/abe900af84acbfa9f0fa73a8d0e79930.png" group-title="USA Sports",USA FOX SPORTS 2 HD
+http://ky-tv.cc:80/brendan1/brendan1/220388.ts
+#EXTINF:-1 tvg-id="spacecityhomenetwork.us" tvg-name="USA Space City Home Network (AT&T SPORTSNET SOUTHWEST)" tvg-logo="http://23.227.147.172:80/images/30058a70551d4aee90d9e827be73e7d7.png" group-title="USA Sports",USA Space City Home Network (AT&T SPORTSNET SOUTHWEST)
+http://ky-tv.cc:80/brendan1/brendan1/220390.ts
+
+
+
+
+
 
 
 
@@ -8209,6 +8279,80 @@ https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56cda3884c00103700199
 https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56d192b31c9010370019981b350f9_258.mp4
 #EXTINF:-1 group-title="演唱會",鄧紫棋 香港站
 https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c02b2307ec2801037001992eb2cbfb_258.mp4
+
+
+
+
+################################################
+
+
+
+
+
+
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Adele Live at The Royal Albert Hall 2011
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328116.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Bob Dylan:The 30th Anniversary Concert Celebration
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328141.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Bruce Springsteen with the Sessions Band:Live in Dublin
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328148.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Bryan Adams - MTV Unplugged
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328150.mp4
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Celibe Dion Live at Tokyo Dome Concert
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328162.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Coldplay au stade de France
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328065.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Creedence Clearwater Revival:The Royal Albert Hall Concert 1970
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328080.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Daryl Hall & John Oates:Live in Dublin
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328086.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Elton John:Live at iTunes Festival 2013
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328111.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Elton John:One Night Only
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328112.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Elton John:The Million Dollar Piano 2011
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328113.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Elvis - 68' Comeback Special
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328015.mp4
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Elvis - Aloha from Hawaii
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328014.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Eric Clapton:Planes Train & Eric 2014
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328019.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Genesis:The MAMA Tour
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328034.avi
+#EXTINF:-1 group-title="✪mypanel CONCERTS",George Michael Live In London
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328035.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Jimi Hendrix Pllays Berkeley
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327981.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",KISS:Rocks Vegas
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328004.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Kylie Minogue:Live at iTunes Festival London 2013
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328006.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Michael Jackson:Live at Wimbley July 16 1988
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327461.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Paul Simon Live Feom Philadephia 1980
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327496.avi
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Phil Collins:Going Back-Live at The Roseland Ballroom NYC
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327403.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Queen:Live at Wimbley Stadium
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327414.mp4
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Queen:The Legendary 1975 Concert
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327416.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Queen:We Will Rock You 1982
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327415.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Sade:Bring Me Home-Live 2011
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327434.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",Santana-Greatest Hits:Live at Montreux 2011
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327435.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",The Police:Live in Concert Tokyo 2008
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327382.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",The Rolling Stones:Havana Moon 2016
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327383.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",The Rolling Stones:Ladies & Gentlemen 1972
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327384.mkv
+#EXTINF:-1 group-title="✪mypanel CONCERTS",The Rolling Stones:Live from Amsterdam 1995
+http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327385.mkv
+
 
 
 
