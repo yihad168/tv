@@ -58,6 +58,62 @@
       "url": "https://ds65.tv1288.xyz"
     },
 
+   {
+            "name": "🦄安博",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博"
+        },
+        {
+            "name": "🦄港台大陆频道",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"
+        },
+
+        {
+            "name": "🦄台湾频道",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+         {
+            "name": "🦄Gather",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://tv.iill.top/m3u/Gather"
+        },
+        {
+            "name": "🦄iptvpro直播",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
+        },
+        {
+            "name": "🦄jackTV",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+        },
+
+        {
+            "name": "🦄anboxtv斯玛特",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://tv.anboxtv.online/tv"
+        },
+         {
+            "name": "🦄catvod斯玛特",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://live.catvod.com/tv.m3u"
+        },
+        {
+            "name": "🦄全球直播",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://tv.anbox.ip-ddns.com/live"
+        },
+
  {
       "name": "🔕歐華167🔓🔓VPN",
       "type": 0,
