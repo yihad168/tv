@@ -143,6 +143,48 @@ https://drm.video.bsy.co.jp/ymbs/4ac6572210e602/PAYhGvbZgwYXp38pUkkSoOiziMpexJd6
 #########################################
 
 
+#EXTINF:-1 group-title="台灣",中視
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="台灣",中視新聞
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="台灣",中視經典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="台灣",中視菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 group-title="台灣",台視
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="台灣",台視新聞
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="台灣",台視綜合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 group-title="台灣",台視財經
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 group-title="台灣",華視
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="台灣",華視新聞資訊
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="台灣",華視教育體育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 group-title="台灣",民視
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="台灣",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="台灣",民視臺灣台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="台灣",民視第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="台灣",公視
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="台灣",公視台語台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="台灣",小公視
+http://74.91.26.218:82/live/ptsse.m3u8
+
+
+
+#########################################
+
+
 
 #EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="LiTV立視",中天新聞
 http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv009
@@ -501,7 +543,1207 @@ http://litv.msbot.dpdns.org/li.php?id=4gtv-4gtv016
 
 #########################################
 
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK - BBC 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/BBC-1.png" group-title="|UK| GENERAL",UK - BBC 1 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577274
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK - BBC 2 FHD" tvg-logo="https://logo.protv.cc/piconsnew/bbc2.png" group-title="|UK| GENERAL",UK - BBC 2 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577272
+#EXTINF:-1 tvg-id="BBC3CBBC.uk" tvg-name="UK - BBC 3 CBBC FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/BBC-3-CBBC.png" group-title="|UK| GENERAL",UK - BBC 3 CBBC FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577270
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK - BBC 4 CBEEBIES FHD" tvg-logo="https://logo.protv.cc/piconsnew/bbc4cbeebies.png" group-title="|UK| GENERAL",UK - BBC 4 CBEEBIES FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577268
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK - ITV 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/ITV-1.png" group-title="|UK| GENERAL",UK - ITV 1 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577265
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK - ITV 2 FHD" tvg-logo="https://logo.protv.cc/piconsnew/itv2.png" group-title="|UK| GENERAL",UK - ITV 2 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577263
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK - ITV 3 FHD" tvg-logo="https://logo.protv.cc/piconsnew/itv3.png" group-title="|UK| GENERAL",UK - ITV 3 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577261
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK - ITV 4 FHD" tvg-logo="https://logo.protv.cc/piconsnew/itv4.png" group-title="|UK| GENERAL",UK - ITV 4 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577259
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK - CHANNEL 4 FHD" tvg-logo="https://logo.protv.cc/piconsnew/channel4.png" group-title="|UK| GENERAL",UK - CHANNEL 4 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577257
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK - CHANNEL 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/channel5.png" group-title="|UK| GENERAL",UK - CHANNEL 5 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577256
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK - E4 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/e4.png" group-title="|UK| GENERAL",UK - E4 FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577255
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK - CBBC FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/cbbc.png" group-title="|UK| GENERAL",UK - CBBC FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577254
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK - 4SEVEN FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/4seven.png" group-title="|UK| GENERAL",UK - 4SEVEN FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577253
+#EXTINF:-1 tvg-id="U.and.alibi.HD.uk" tvg-name="UK - ALIBI FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/alibi.png" group-title="|UK| GENERAL",UK - ALIBI FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577252
+
+
+
 #########################################
+
+
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS.png" group-title="World News",UK - SKY NEWS UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577229
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/BBC-NEWS.png" group-title="World News",UK - BBC NEWS FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577227
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="UK - BBC WORLD NEWS UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/BBC-WORLD-NEWS.png" group-title="World News",UK - BBC WORLD NEWS UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577226
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG FHD" tvg-logo="https://logo.protv.cc/piconsnew/bloomberg.png" group-title="World News",UK - BLOOMBERG FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577221
+#EXTINF:-1 tvg-id="uk.CNN" tvg-name="UK - CNN FHD" tvg-logo="https://logo.protv.cc/piconsnew/cnn.png" group-title="World News",UK - CNN FHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577220
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK - CNN INTERNATIONAL" tvg-logo="https://logo.protv.cc/piconsnew/cnninternational.png" group-title="World News",UK - CNN INTERNATIONAL
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577219
+#EXTINF:-1 tvg-id="" tvg-name="UK - FRANCE 24" tvg-logo="https://logo.protv.cc/piconsnew/france24.png" group-title="World News",UK - FRANCE 24
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577218
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT AMERICA UHD" tvg-logo="http://51.158.145.100/picons/logos/UK/RT-AMERICA.png" group-title="World News",UK - RT AMERICA UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577217
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT DOCUMENTRY UHD" tvg-logo="http://51.158.145.100/picons/logos/UK/RT-DOCUMENTRY.png" group-title="World News",UK - RT DOCUMENTRY UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577216
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT NEWS UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/RT-NEWS.png" group-title="World News",UK - RT NEWS UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577215
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT UK UHD" tvg-logo="http://51.158.145.100/picons/logos/UK/RT-UK.png" group-title="World News",UK - RT UK UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577214
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="UK - AL JAZEERA EN UHD" tvg-logo="https://logo.protv.cc/piconsnew/aljazeeraenglish.png" group-title="World News",UK - AL JAZEERA EN UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577213
+#EXTINF:-1 tvg-id="" tvg-name="UK - ARISE NEWS" tvg-logo="http://103.176.90.118/picons/logos/UK/ARISE-NEWS.jpeg" group-title="World News",UK - ARISE NEWS
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/998384
+#EXTINF:-1 tvg-id="" tvg-name="UK - TRT WORLD" tvg-logo="http://51.158.145.100/picons/logos/logos/trtworld.png" group-title="World News",UK - TRT WORLD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577212
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK - CNBC" tvg-logo="http://51.158.145.100/picons/logos/logos/cnbc.png" group-title="World News",UK - CNBC
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577211
+#EXTINF:-1 tvg-id="" tvg-name="UK - I24NEWS EN" tvg-logo="http://51.158.145.100/picons/logos/logos/i24news.png" group-title="World News",UK - I24NEWS EN
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577210
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK - EURONEWS EN UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/euronews.png" group-title="World News",UK - EURONEWS EN UHD
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577209
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK - EURONEWS" tvg-logo="http://51.158.145.100/picons/logos/logos/euronews.png" group-title="World News",UK - EURONEWS
+http://2k.tstvs.com:80/691eba43db76f/d07ee0f057/577208
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="BBC  NEWS" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="World News",BBC  NEWS
+http://mytv.digital:80/hevern1996/mIovw2mgx6/42226
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="BBC NEWS UK" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="World News",BBC NEWS UK
+http://mytv.digital:80/hevern1996/mIovw2mgx6/51090
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcnews.uk" tvg-name="BBC News HD" tvg-logo="https://logo.m3uassets.com/bbcnews.png" group-title="World News",BBC News HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/51142
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FNCHD" tvg-name="US: FOX NEWS" tvg-logo="https://logo.m3uassets.com/foxnews.png" group-title="World News",US: FOX NEWS
+http://mytv.digital:80/hevern1996/mIovw2mgx6/51128
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="N12NJHD" tvg-name="News 12 New Jersey" tvg-logo="https://logo.m3uassets.com/news12newjersey.png" group-title="World News",News 12 New Jersey
+http://mytv.digital:80/hevern1996/mIovw2mgx6/51502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="N12LIHD" tvg-name="News 12 Long Island" tvg-logo="https://logo.m3uassets.com/news12longisland.png" group-title="World News",News 12 Long Island
+http://mytv.digital:80/hevern1996/mIovw2mgx6/51505
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZA: CGTN NEWS" tvg-name="CGTN News" tvg-logo="https://logo.m3uassets.com/cgtnnews.png" group-title="World News",CGTN News
+http://mytv.digital:80/hevern1996/mIovw2mgx6/53285
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BLOOEHD" tvg-name="[CH411] Bloomberg" tvg-logo="https://logo.m3uassets.com/bloomberg.png" group-title="World News",[CH411] Bloomberg
+http://mytv.digital:80/hevern1996/mIovw2mgx6/53287
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BBCWSAP" tvg-name="BBC World News" tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="World News",BBC World News
+http://mytv.digital:80/hevern1996/mIovw2mgx6/53377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NWSNTHD" tvg-name="CTV News Channel HD CA" tvg-logo="https://logo.m3uassets.com/ctvnewschannel.png" group-title="World News",CTV News Channel HD CA
+http://mytv.digital:80/hevern1996/mIovw2mgx6/54307
+
+
+
+
+#########################################
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Premiere FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premier HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Premier HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premier" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Premier
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Action FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Action HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-action-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Action
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Comedy FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Comedy HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skycinemacomedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Comedy
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Thriller FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Thriller HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Thriller
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="Sky Cinema select FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema select FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="Sky Cinema select HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema select HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyselect.uk" tvg-name="Sky Cinema select" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema select
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi Horror FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema SciFi Horror FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Scifi Horror HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Scifi Horror HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema Scifi Horror" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Scifi Horror
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Family FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Family HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-family-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Family
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Hits FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Hits HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496066
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Hits
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Drama FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Drama HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Drama
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Greats FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Greats HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Greats
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Animation FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496045
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png?raw=true" group-title="UK | Sky Movies",Sky Cinema Animation HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496046
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4.uk" tvg-name="Film4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="UK | Sky Movies",Film4 FHD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496071
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4.uk" tvg-name="Film4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="UK | Sky Movies",Film4 HD
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496072
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4.uk" tvg-name="Film4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="UK | Sky Movies",Film4
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496073
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="film4plus1.uk" tvg-name="Film4 +1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-plus-uk.png?raw=true" group-title="UK | Sky Movies",Film4 +1
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496074
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="legendxtra.uk" tvg-name="Legend xtra" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/legend-xtra-uk.png?raw=true" group-title="UK | Sky Movies",Legend xtra
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496079
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatmovies.uk" tvg-name="Great Mystery" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/great-mystery-uk.png?raw=true" group-title="UK | Sky Movies",Great Mystery
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496080
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatmoviessplus1.uk" tvg-name="Great Mystery +1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/great-mystery-plus-uk.png?raw=true" group-title="UK | Sky Movies",Great Mystery +1
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496081
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greataction.uk" tvg-name="Great Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-uk.png" group-title="UK | Sky Movies",Great Action
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496082
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatactionplus1.uk" tvg-name="Great Action +1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-action-plus-uk.png" group-title="UK | Sky Movies",Great Action +1
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496083
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/talking-pictures-tv-uk.png" group-title="UK | Sky Movies",Talking Pictures
+http://mytv.digital:80/hevern1996/mIovw2mgx6/496084
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinemax.us" tvg-name="US Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="USA | Movies",US Cinemax
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo.us" tvg-name="US HBO (East)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="USA | Movies",US HBO (East)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbowest.us" tvg-name="US HBO (West)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true" group-title="USA | Movies",US HBO (West)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo2.us" tvg-name="US HBO 2 (East)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-2-hd-us.png?raw=true" group-title="USA | Movies",US HBO 2 (East)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbocomedy.us" tvg-name="US HBO COMEDY East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-hz-us.png?raw=true" group-title="USA | Movies",US HBO COMEDY East
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499155
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbocomedypacific.us" tvg-name="US HBO Comedy (West)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-hz-us.png?raw=true" group-title="USA | Movies",US HBO Comedy (West)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499156
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbosignature.us" tvg-name="US HBO Signature (East)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-signature-hd-us.png?raw=true" group-title="USA | Movies",US HBO Signature (East)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499159
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbosignaturepacific.us" tvg-name="US HBO Signature (West)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-signature-hd-us.png?raw=true" group-title="USA | Movies",US HBO Signature (West)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499160
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbozone.us" tvg-name="US HBO Zone (East)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-zone-hd-us.png?raw=true" group-title="USA | Movies",US HBO Zone (East)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499161
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbozonepacific.us" tvg-name="US HBO Zone (West)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hd/hbo-zone-hd-us.png?raw=true" group-title="USA | Movies",US HBO Zone (West)
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgmpacific.us" tvg-name="MGM+ West" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="USA | Movies",MGM+ West
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgmhits.us" tvg-name="MGM+ Hits" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" group-title="USA | Movies",MGM+ Hits
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgmdrivein.us" tvg-name="MGM+ Drive-In" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" group-title="USA | Movies",MGM+ Drive-In
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mgmmarquee.us" tvg-name="MGM+ Marquee" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" group-title="USA | Movies",MGM+ Marquee
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hdnetmovies.us" tvg-name="HDNet Movies" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hdnet-movies-us.png?raw=true" group-title="USA | Movies",HDNet Movies
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shoxbet.us" tvg-name="SHO x BET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sho-bet-us.png?raw=true" group-title="USA | Movies",SHO x BET
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="USA | Movies",Showtime
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499174
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="USA | Movies",Showtime 2
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499175
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeextreme.us" tvg-name="Showtime Extreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="USA | Movies",Showtime Extreme
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499176
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimefamilyzone.us" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="USA | Movies",Showtime Family Zone
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499177
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimenext.us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="USA | Movies",Showtime Next
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499178
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeshowcase.us" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="USA | Movies",Showtime Showcase
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499179
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimewomen.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="USA | Movies",Showtime Women
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499181
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcinema.us" tvg-name="Starz Cinema" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-cinema-us.png?raw=true" group-title="USA | Movies",Starz Cinema
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499183
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcomedy.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="USA | Movies",Starz Comedy
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499184
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzedge.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="USA | Movies",Starz Edge
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499185
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencore.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="USA | Movies",Starz Encore
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499186
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreaction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="USA | Movies",Starz Encore Action
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreblack.us" tvg-name="Starz Encore Black" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-black-us.png?raw=true" group-title="USA | Movies",Starz Encore Black
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499188
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreclassics.us" tvg-name="Starz Encore Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" group-title="USA | Movies",Starz Encore Classic
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499189
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorefamily.us" tvg-name="Starz Encore Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-family-us.png?raw=true" group-title="USA | Movies",Starz Encore Family
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoresuspense.us" tvg-name="Starz Encore Suspense" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-suspense-us.png?raw=true" group-title="USA | Movies",Starz Encore Suspense
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499192
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewest.us" tvg-name="Starz Encore West" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="USA | Movies",Starz Encore West
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499193
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="USA | Movies",Starz Encore Westerns
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499194
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzinblack.us" tvg-name="Starz in Black" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-in-black-us.png?raw=true" group-title="USA | Movies",Starz in Black
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499195
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkidsfamily.us" tvg-name="Starz Kids & Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-kids-and-family-us.png?raw=true" group-title="USA | Movies",Starz Kids & Family
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzwest.us" tvg-name="Starz West" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="USA | Movies",Starz West
+http://mytv.digital:80/hevern1996/mIovw2mgx6/499197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="itv3plus1.uk" tvg-name="ITV3 +1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/itv-3-plus-uk.png?raw=true" group-title="UK | +1 Channels",ITV3 +1
+http://mytv.digital:80/hevern1996/mIovw2mgx6/504066
+
+
+
+
+#########################################
+
+
+
+#########################################
+
+
+
+#########################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY Colors Tamil" tvg-logo="" group-title="MALAYSIA",MY Colors Tamil
+https://tvstar.top:443/live/0211539317/0211539317/142957.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV Alhijrah" tvg-logo="" group-title="MALAYSIA",MY TV Alhijrah
+https://tvstar.top:443/live/0211539317/0211539317/142958.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Comedy Central" tvg-logo="" group-title="MALAYSIA",MY Comedy Central
+https://tvstar.top:443/live/0211539317/0211539317/142959.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY WARNER TV" tvg-logo="" group-title="MALAYSIA",MY WARNER TV
+https://tvstar.top:443/live/0211539317/0211539317/142960.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Wild" tvg-logo="" group-title="MALAYSIA",MY Nat Geo Wild
+https://tvstar.top:443/live/0211539317/0211539317/142961.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVN" tvg-logo="" group-title="MALAYSIA",MY TVN
+https://tvstar.top:443/live/0211539317/0211539317/142962.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVN Movies" tvg-logo="" group-title="MALAYSIA",MY TVN Movies
+https://tvstar.top:443/live/0211539317/0211539317/142963.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY NHK_World_Japan" tvg-logo="" group-title="MALAYSIA",MY NHK_World_Japan
+https://tvstar.top:443/live/0211539317/0211539317/142964.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Channel News Asia" tvg-logo="" group-title="MALAYSIA",MY Channel News Asia
+https://tvstar.top:443/live/0211539317/0211539317/142965.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC Australia" tvg-logo="" group-title="MALAYSIA",MY ABC Australia
+https://tvstar.top:443/live/0211539317/0211539317/142966.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY France24" tvg-logo="" group-title="MALAYSIA",MY France24
+https://tvstar.top:443/live/0211539317/0211539317/142967.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Baby TV" tvg-logo="" group-title="MALAYSIA",MY Baby TV
+https://tvstar.top:443/live/0211539317/0211539317/142968.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro AEC (D)" tvg-logo="" group-title="MALAYSIA",MY Astro AEC (D)
+https://tvstar.top:443/live/0211539317/0211539317/142969.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC_Cbeebies" tvg-logo="" group-title="MALAYSIA",MY BBC_Cbeebies
+https://tvstar.top:443/live/0211539317/0211539317/142970.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY SCM" tvg-logo="" group-title="MALAYSIA",MY SCM
+https://tvstar.top:443/live/0211539317/0211539317/142971.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Boomerang" tvg-logo="" group-title="MALAYSIA",MY Boomerang
+https://tvstar.top:443/live/0211539317/0211539317/142972.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Cinema_World" tvg-logo="" group-title="MALAYSIA",MY Cinema_World
+https://tvstar.top:443/live/0211539317/0211539317/142973.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Nick JR" tvg-logo="" group-title="MALAYSIA",MY Nick JR
+https://tvstar.top:443/live/0211539317/0211539317/142974.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV Asia" tvg-logo="" group-title="MALAYSIA",MY MTV Asia
+https://tvstar.top:443/live/0211539317/0211539317/142975.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV9" tvg-logo="" group-title="MALAYSIA",MY TV9
+https://tvstar.top:443/live/0211539317/0211539317/142976.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV8" tvg-logo="" group-title="MALAYSIA",MY TV8
+https://tvstar.top:443/live/0211539317/0211539317/142977.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY NTV7" tvg-logo="" group-title="MALAYSIA",MY NTV7
+https://tvstar.top:443/live/0211539317/0211539317/142978.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV3" tvg-logo="" group-title="MALAYSIA",MY TV3
+https://tvstar.top:443/live/0211539317/0211539317/142979.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV2 (D)" tvg-logo="" group-title="MALAYSIA",MY TV2 (D)
+https://tvstar.top:443/live/0211539317/0211539317/142980.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV1" tvg-logo="" group-title="MALAYSIA",MY TV1
+https://tvstar.top:443/live/0211539317/0211539317/142981.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Asia" tvg-logo="" group-title="MALAYSIA",MY Nat Geo Asia
+https://tvstar.top:443/live/0211539317/0211539317/142982.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Animax" tvg-logo="" group-title="MALAYSIA",MY Animax
+https://tvstar.top:443/live/0211539317/0211539317/142983.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Zee Cinema (D)" tvg-logo="" group-title="MALAYSIA",MY Zee Cinema (D)
+https://tvstar.top:443/live/0211539317/0211539317/142984.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Zee TV" tvg-logo="" group-title="MALAYSIA",MY Zee TV
+https://tvstar.top:443/live/0211539317/0211539317/142985.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC_Earth" tvg-logo="" group-title="MALAYSIA",MY BBC_Earth
+https://tvstar.top:443/live/0211539317/0211539317/142986.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY LuxeTV" tvg-logo="" group-title="MALAYSIA",MY LuxeTV
+https://tvstar.top:443/live/0211539317/0211539317/142987.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Euronews" tvg-logo="" group-title="MALAYSIA",MY Euronews
+https://tvstar.top:443/live/0211539317/0211539317/142988.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC World News" tvg-logo="" group-title="MALAYSIA",MY BBC World News
+https://tvstar.top:443/live/0211539317/0211539317/142989.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY DW" tvg-logo="" group-title="MALAYSIA",MY DW
+https://tvstar.top:443/live/0211539317/0211539317/142990.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Sky News" tvg-logo="" group-title="MALAYSIA",MY Sky News
+https://tvstar.top:443/live/0211539317/0211539317/142991.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO" tvg-logo="" group-title="MALAYSIA",MY HBO
+https://tvstar.top:443/live/0211539317/0211539317/142992.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO_RED" tvg-logo="" group-title="MALAYSIA",MY HBO_RED
+https://tvstar.top:443/live/0211539317/0211539317/142993.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Bollyone" tvg-logo="" group-title="MALAYSIA",MY Astro Bollyone
+https://tvstar.top:443/live/0211539317/0211539317/142994.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY BOLLYONE_HD_50fps" tvg-logo="" group-title="MALAYSIA",MY BOLLYONE_HD_50fps
+https://tvstar.top:443/live/0211539317/0211539317/142995.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Colors" tvg-logo="" group-title="MALAYSIA",MY Colors
+https://tvstar.top:443/live/0211539317/0211539317/142996.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Colors Tamil" tvg-logo="" group-title="MALAYSIA",MY Colors Tamil
+https://tvstar.top:443/live/0211539317/0211539317/142997.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY K+" tvg-logo="" group-title="MALAYSIA",MY K+
+https://tvstar.top:443/live/0211539317/0211539317/142998.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Phoenix" tvg-logo="" group-title="MALAYSIA",MY Phoenix
+https://tvstar.top:443/live/0211539317/0211539317/142999.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Star Vijay" tvg-logo="" group-title="MALAYSIA",MY Star Vijay
+https://tvstar.top:443/live/0211539317/0211539317/143000.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN TV" tvg-logo="" group-title="MALAYSIA",MY SUN TV
+https://tvstar.top:443/live/0211539317/0211539317/143001.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN Music" tvg-logo="" group-title="MALAYSIA",MY SUN Music
+https://tvstar.top:443/live/0211539317/0211539317/143002.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB News" tvg-logo="" group-title="MALAYSIA",MY TVB News
+https://tvstar.top:443/live/0211539317/0211539317/143003.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Awesome TV" tvg-logo="" group-title="MALAYSIA",MY Awesome TV
+https://tvstar.top:443/live/0211539317/0211539317/143004.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY 8TV" tvg-logo="" group-title="MALAYSIA",MY 8TV
+https://tvstar.top:443/live/0211539317/0211539317/143005.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC Australia" tvg-logo="" group-title="MALAYSIA",MY ABC Australia
+https://tvstar.top:443/live/0211539317/0211539317/143006.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Arena Bola" tvg-logo="" group-title="MALAYSIA",MY Astro Arena Bola
+https://tvstar.top:443/live/0211539317/0211539317/143007.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Adithya" tvg-logo="" group-title="MALAYSIA",MY Adithya
+https://tvstar.top:443/live/0211539317/0211539317/143008.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY AFC" tvg-logo="" group-title="MALAYSIA",MY AFC
+https://tvstar.top:443/live/0211539317/0211539317/143009.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Animal Planet" tvg-logo="" group-title="MALAYSIA",MY Animal Planet
+https://tvstar.top:443/live/0211539317/0211539317/143010.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Animax" tvg-logo="" group-title="MALAYSIA",MY Animax
+https://tvstar.top:443/live/0211539317/0211539317/143011.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 5" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 5
+https://tvstar.top:443/live/0211539317/0211539317/143012.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro AOD 363" tvg-logo="" group-title="MALAYSIA",MY Astro AOD 363
+https://tvstar.top:443/live/0211539317/0211539317/143013.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro AOD 351" tvg-logo="" group-title="MALAYSIA",MY Astro AOD 351
+https://tvstar.top:443/live/0211539317/0211539317/143014.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 4" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 4
+https://tvstar.top:443/live/0211539317/0211539317/143015.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro AOD 353" tvg-logo="" group-title="MALAYSIA",MY Astro AOD 353
+https://tvstar.top:443/live/0211539317/0211539317/143016.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro AOD 362" tvg-logo="" group-title="MALAYSIA",MY Astro AOD 362
+https://tvstar.top:443/live/0211539317/0211539317/143017.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Arena 1" tvg-logo="" group-title="MALAYSIA",MY Astro Arena 1
+https://tvstar.top:443/live/0211539317/0211539317/143018.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Arena 2" tvg-logo="" group-title="MALAYSIA",MY Astro Arena 2
+https://tvstar.top:443/live/0211539317/0211539317/143019.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY ARENA_HD_50fps" tvg-logo="" group-title="MALAYSIA",MY ARENA_HD_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143020.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Arena (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Arena (D)
+https://tvstar.top:443/live/0211539317/0211539317/143021.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Arena 2 (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Arena 2 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143022.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Awani" tvg-logo="" group-title="MALAYSIA",MY Astro Awani
+https://tvstar.top:443/live/0211539317/0211539317/143023.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Awani (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Awani (D)
+https://tvstar.top:443/live/0211539317/0211539317/143024.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY KTV" tvg-logo="" group-title="MALAYSIA",MY KTV
+https://tvstar.top:443/live/0211539317/0211539317/143025.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Sun Life" tvg-logo="" group-title="MALAYSIA",MY Sun Life
+https://tvstar.top:443/live/0211539317/0211539317/143026.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Box Office" tvg-logo="" group-title="MALAYSIA",MY Astro Box Office
+https://tvstar.top:443/live/0211539317/0211539317/143027.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Ceria" tvg-logo="" group-title="MALAYSIA",MY Astro Ceria
+https://tvstar.top:443/live/0211539317/0211539317/143028.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Citra" tvg-logo="" group-title="MALAYSIA",MY Astro Citra
+https://tvstar.top:443/live/0211539317/0211539317/143029.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Oasis" tvg-logo="" group-title="MALAYSIA",MY Astro Oasis
+https://tvstar.top:443/live/0211539317/0211539317/143030.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Premier 1" tvg-logo="" group-title="MALAYSIA",MY Astro Premier 1
+https://tvstar.top:443/live/0211539317/0211539317/143031.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Prima" tvg-logo="" group-title="MALAYSIA",MY Astro Prima
+https://tvstar.top:443/live/0211539317/0211539317/143032.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Rania" tvg-logo="" group-title="MALAYSIA",MY Astro Rania
+https://tvstar.top:443/live/0211539317/0211539317/143033.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Ria" tvg-logo="" group-title="MALAYSIA",MY Astro Ria
+https://tvstar.top:443/live/0211539317/0211539317/143034.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Sensasi" tvg-logo="" group-title="MALAYSIA",MY Astro Sensasi
+https://tvstar.top:443/live/0211539317/0211539317/143035.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 1 (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 1 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143036.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 2 (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 2 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143037.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 2_50fps" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 2_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143038.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 3 (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 3 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143039.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 3_50fps" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 3_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143040.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4 (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 4 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143041.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport UHD/4K" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport UHD/4K
+https://tvstar.top:443/live/0211539317/0211539317/143042.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4_50fps" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 4_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143043.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 5" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 5
+https://tvstar.top:443/live/0211539317/0211539317/143044.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 5 (D)" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 5 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143045.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 5_50fps" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport 5_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143046.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport_50fps" tvg-logo="" group-title="MALAYSIA",MY Astro Supersport_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143048.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Tutor TV SK" tvg-logo="" group-title="MALAYSIA",MY Astro Tutor TV SK
+https://tvstar.top:443/live/0211539317/0211539317/143049.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Tutor TV SMK" tvg-logo="" group-title="MALAYSIA",MY Astro Tutor TV SMK
+https://tvstar.top:443/live/0211539317/0211539317/143050.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Tutor TV UPSR" tvg-logo="" group-title="MALAYSIA",MY Astro Tutor TV UPSR
+https://tvstar.top:443/live/0211539317/0211539317/143051.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Shuang Hing" tvg-logo="" group-title="MALAYSIA",MY Astro Shuang Hing
+https://tvstar.top:443/live/0211539317/0211539317/143052.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Vaanavil" tvg-logo="" group-title="MALAYSIA",MY Astro Vaanavil
+https://tvstar.top:443/live/0211539317/0211539317/143053.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Vellithirai" tvg-logo="" group-title="MALAYSIA",MY Astro Vellithirai
+https://tvstar.top:443/live/0211539317/0211539317/143054.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Aura" tvg-logo="" group-title="MALAYSIA",MY Astro Aura
+https://tvstar.top:443/live/0211539317/0211539317/143055.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Cricket" tvg-logo="" group-title="MALAYSIA",MY Astro Cricket
+https://tvstar.top:443/live/0211539317/0211539317/143056.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Xiao Tai Yang" tvg-logo="" group-title="MALAYSIA",MY Astro Xiao Tai Yang
+https://tvstar.top:443/live/0211539317/0211539317/143057.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY AXN" tvg-logo="" group-title="MALAYSIA",MY AXN
+https://tvstar.top:443/live/0211539317/0211539317/143058.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports" tvg-logo="" group-title="MALAYSIA",MY beIN Sports
+https://tvstar.top:443/live/0211539317/0211539317/143059.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 2 (D)" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 2 (D)
+https://tvstar.top:443/live/0211539317/0211539317/143060.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 2 50fps (D)" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 2 50fps (D)
+https://tvstar.top:443/live/0211539317/0211539317/143061.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 3" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 3
+https://tvstar.top:443/live/0211539317/0211539317/143062.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 3 50fps (D)" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 3 50fps (D)
+https://tvstar.top:443/live/0211539317/0211539317/143063.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN Sports 50fps (D)" tvg-logo="" group-title="MALAYSIA",MY beIN Sports 50fps (D)
+https://tvstar.top:443/live/0211539317/0211539317/143064.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Bernama" tvg-logo="" group-title="MALAYSIA",MY Bernama
+https://tvstar.top:443/live/0211539317/0211539317/143065.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Bloomberg TV" tvg-logo="" group-title="MALAYSIA",MY Bloomberg TV
+https://tvstar.top:443/live/0211539317/0211539317/143067.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY BOO" tvg-logo="" group-title="MALAYSIA",MY BOO
+https://tvstar.top:443/live/0211539317/0211539317/143068.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Boomerang" tvg-logo="" group-title="MALAYSIA",MY Boomerang
+https://tvstar.top:443/live/0211539317/0211539317/143069.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Cartoon Network" tvg-logo="" group-title="MALAYSIA",MY Cartoon Network
+https://tvstar.top:443/live/0211539317/0211539317/143070.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Celestial Classic Movies" tvg-logo="" group-title="MALAYSIA",MY Celestial Classic Movies
+https://tvstar.top:443/live/0211539317/0211539317/143071.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CCTV4" tvg-logo="" group-title="MALAYSIA",MY CCTV4
+https://tvstar.top:443/live/0211539317/0211539317/143072.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Celestial" tvg-logo="" group-title="MALAYSIA",MY Celestial
+https://tvstar.top:443/live/0211539317/0211539317/143073.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CGTN" tvg-logo="" group-title="MALAYSIA",MY CGTN
+https://tvstar.top:443/live/0211539317/0211539317/143074.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Citra Entertainment" tvg-logo="" group-title="MALAYSIA",MY Astro Citra Entertainment
+https://tvstar.top:443/live/0211539317/0211539317/143075.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Cinemax" tvg-logo="" group-title="MALAYSIA",MY Cinemax
+https://tvstar.top:443/live/0211539317/0211539317/143076.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CNA" tvg-logo="" group-title="MALAYSIA",MY CNA
+https://tvstar.top:443/live/0211539317/0211539317/143077.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="" group-title="MALAYSIA",MY CNBC
+https://tvstar.top:443/live/0211539317/0211539317/143078.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="" group-title="MALAYSIA",MY CNBC
+https://tvstar.top:443/live/0211539317/0211539317/143079.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CNN" tvg-logo="" group-title="MALAYSIA",MY CNN
+https://tvstar.top:443/live/0211539317/0211539317/143080.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Crime Investigation" tvg-logo="" group-title="MALAYSIA",MY Crime Investigation
+https://tvstar.top:443/live/0211539317/0211539317/143081.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY CTI Asia" tvg-logo="" group-title="MALAYSIA",MY CTI Asia
+https://tvstar.top:443/live/0211539317/0211539317/143082.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Channel" tvg-logo="" group-title="MALAYSIA",MY Discovery Channel
+https://tvstar.top:443/live/0211539317/0211539317/143083.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY DISCOVERY ASIA (D)" tvg-logo="" group-title="MALAYSIA",MY DISCOVERY ASIA (D)
+https://tvstar.top:443/live/0211539317/0211539317/143084.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Science" tvg-logo="" group-title="MALAYSIA",MY Discovery Science
+https://tvstar.top:443/live/0211539317/0211539317/143085.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Discovery Asia" tvg-logo="" group-title="MALAYSIA",MY Discovery Asia
+https://tvstar.top:443/live/0211539317/0211539317/143086.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Disney Junior" tvg-logo="" group-title="MALAYSIA",MY Disney Junior
+https://tvstar.top:443/live/0211539317/0211539317/143087.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Dmax" tvg-logo="" group-title="MALAYSIA",MY Dmax
+https://tvstar.top:443/live/0211539317/0211539317/143088.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Egg (D)" tvg-logo="" group-title="MALAYSIA",MY Egg (D)
+https://tvstar.top:443/live/0211539317/0211539317/143089.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY eGG_Network" tvg-logo="" group-title="MALAYSIA",MY eGG_Network
+https://tvstar.top:443/live/0211539317/0211539317/143090.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Eurosport" tvg-logo="" group-title="MALAYSIA",MY Eurosport
+https://tvstar.top:443/live/0211539317/0211539317/143091.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Eurosport (D)" tvg-logo="" group-title="MALAYSIA",MY Eurosport (D)
+https://tvstar.top:443/live/0211539317/0211539317/143092.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Food Network" tvg-logo="" group-title="MALAYSIA",MY Food Network
+https://tvstar.top:443/live/0211539317/0211539317/143093.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY France 24" tvg-logo="" group-title="MALAYSIA",MY France 24
+https://tvstar.top:443/live/0211539317/0211539317/143094.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY GO Shop 4" tvg-logo="" group-title="MALAYSIA",MY GO Shop 4
+https://tvstar.top:443/live/0211539317/0211539317/143095.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY GOLF_CHANNEL_HD_50fps" tvg-logo="" group-title="MALAYSIA",MY GOLF_CHANNEL_HD_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143096.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY GO Shop" tvg-logo="" group-title="MALAYSIA",MY GO Shop
+https://tvstar.top:443/live/0211539317/0211539317/143097.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY GO Shop 2" tvg-logo="" group-title="MALAYSIA",MY GO Shop 2
+https://tvstar.top:443/live/0211539317/0211539317/143098.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY GO Shop 3" tvg-logo="" group-title="MALAYSIA",MY GO Shop 3
+https://tvstar.top:443/live/0211539317/0211539317/143099.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO" tvg-logo="" group-title="MALAYSIA",MY HBO
+https://tvstar.top:443/live/0211539317/0211539317/143100.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO Family" tvg-logo="" group-title="MALAYSIA",MY HBO Family
+https://tvstar.top:443/live/0211539317/0211539317/143101.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO Hits" tvg-logo="" group-title="MALAYSIA",MY HBO Hits
+https://tvstar.top:443/live/0211539317/0211539317/143102.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY HGTV" tvg-logo="" group-title="MALAYSIA",MY HGTV
+https://tvstar.top:443/live/0211539317/0211539317/143103.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY History" tvg-logo="" group-title="MALAYSIA",MY History
+https://tvstar.top:443/live/0211539317/0211539317/143104.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Hits" tvg-logo="" group-title="MALAYSIA",MY Hits
+https://tvstar.top:443/live/0211539317/0211539317/143105.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Hits Movies" tvg-logo="" group-title="MALAYSIA",MY Hits Movies
+https://tvstar.top:443/live/0211539317/0211539317/143106.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Hua Hee Dai" tvg-logo="" group-title="MALAYSIA",MY Astro Hua Hee Dai
+https://tvstar.top:443/live/0211539317/0211539317/143107.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY iQIYI" tvg-logo="" group-title="MALAYSIA",MY iQIYI
+https://tvstar.top:443/live/0211539317/0211539317/143108.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY KBS World" tvg-logo="" group-title="MALAYSIA",MY KBS World
+https://tvstar.top:443/live/0211539317/0211539317/143110.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY KBS World (D)" tvg-logo="" group-title="MALAYSIA",MY KBS World (D)
+https://tvstar.top:443/live/0211539317/0211539317/143111.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Kix" tvg-logo="" group-title="MALAYSIA",MY Kix
+https://tvstar.top:443/live/0211539317/0211539317/143112.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Lifetime" tvg-logo="" group-title="MALAYSIA",MY Lifetime
+https://tvstar.top:443/live/0211539317/0211539317/143113.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Premier 2" tvg-logo="" group-title="MALAYSIA",MY Astro Premier 2
+https://tvstar.top:443/live/0211539317/0211539317/143114.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro SuperSport Events 3" tvg-logo="" group-title="MALAYSIA",MY Astro SuperSport Events 3
+https://tvstar.top:443/live/0211539317/0211539317/143115.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro SuperSport Events 4" tvg-logo="" group-title="MALAYSIA",MY Astro SuperSport Events 4
+https://tvstar.top:443/live/0211539317/0211539317/143116.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro SuperSport Events 5" tvg-logo="" group-title="MALAYSIA",MY Astro SuperSport Events 5
+https://tvstar.top:443/live/0211539317/0211539317/143117.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro SuperSport Events 6" tvg-logo="" group-title="MALAYSIA",MY Astro SuperSport Events 6
+https://tvstar.top:443/live/0211539317/0211539317/143118.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Moonbug Kids" tvg-logo="" group-title="MALAYSIA",MY Moonbug Kids
+https://tvstar.top:443/live/0211539317/0211539317/143119.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV" tvg-logo="" group-title="MALAYSIA",MY MTV
+https://tvstar.top:443/live/0211539317/0211539317/143120.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Wild" tvg-logo="" group-title="MALAYSIA",MY Nat Geo Wild
+https://tvstar.top:443/live/0211539317/0211539317/143121.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY National Geographic" tvg-logo="" group-title="MALAYSIA",MY National Geographic
+https://tvstar.top:443/live/0211539317/0211539317/143122.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Nick JR" tvg-logo="" group-title="MALAYSIA",MY Nick JR
+https://tvstar.top:443/live/0211539317/0211539317/143123.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Nickelodeon" tvg-logo="" group-title="MALAYSIA",MY Nickelodeon
+https://tvstar.top:443/live/0211539317/0211539317/143124.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY NTV7" tvg-logo="" group-title="MALAYSIA",MY NTV7
+https://tvstar.top:443/live/0211539317/0211539317/143125.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Sun News" tvg-logo="" group-title="MALAYSIA",MY Sun News
+https://tvstar.top:443/live/0211539317/0211539317/143126.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY One" tvg-logo="" group-title="MALAYSIA",MY One
+https://tvstar.top:443/live/0211539317/0211539317/143127.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Paramount" tvg-logo="" group-title="MALAYSIA",MY Paramount
+https://tvstar.top:443/live/0211539317/0211539317/143128.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Phoenix News" tvg-logo="" group-title="MALAYSIA",MY Phoenix News
+https://tvstar.top:443/live/0211539317/0211539317/143129.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY PRIMEtime" tvg-logo="" group-title="MALAYSIA",MY PRIMEtime
+https://tvstar.top:443/live/0211539317/0211539317/143130.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Quan Jia" tvg-logo="" group-title="MALAYSIA",MY Astro Quan Jia
+https://tvstar.top:443/live/0211539317/0211539317/143131.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY RUGBY_PASS_50fps" tvg-logo="" group-title="MALAYSIA",MY RUGBY_PASS_50fps
+https://tvstar.top:443/live/0211539317/0211539317/143133.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Showcase Movies" tvg-logo="" group-title="MALAYSIA",MY Showcase Movies
+https://tvstar.top:443/live/0211539317/0211539317/143134.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Sky News" tvg-logo="" group-title="MALAYSIA",MY Sky News
+https://tvstar.top:443/live/0211539317/0211539317/143135.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Sports SPO TV" tvg-logo="" group-title="MALAYSIA",MY Sports SPO TV
+https://tvstar.top:443/live/0211539317/0211539317/143136.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY SPOTV (D)" tvg-logo="" group-title="MALAYSIA",MY SPOTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/143137.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY SPOTV2" tvg-logo="" group-title="MALAYSIA",MY SPOTV2
+https://tvstar.top:443/live/0211539317/0211539317/143138.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TA-DAA!" tvg-logo="" group-title="MALAYSIA",MY TA-DAA!
+https://tvstar.top:443/live/0211539317/0211539317/143139.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TLC" tvg-logo="" group-title="MALAYSIA",MY TLC
+https://tvstar.top:443/live/0211539317/0211539317/143140.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV Okey" tvg-logo="" group-title="MALAYSIA",MY TV Okey
+https://tvstar.top:443/live/0211539317/0211539317/143141.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV OKEY (D)" tvg-logo="" group-title="MALAYSIA",MY TV OKEY (D)
+https://tvstar.top:443/live/0211539317/0211539317/143142.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV2" tvg-logo="" group-title="MALAYSIA",MY TV2
+https://tvstar.top:443/live/0211539317/0211539317/143143.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV3" tvg-logo="" group-title="MALAYSIA",MY TV3
+https://tvstar.top:443/live/0211539317/0211539317/143144.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV9" tvg-logo="" group-title="MALAYSIA",MY TV9
+https://tvstar.top:443/live/0211539317/0211539317/143145.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVBS Asia" tvg-logo="" group-title="MALAYSIA",MY TVBS Asia
+https://tvstar.top:443/live/0211539317/0211539317/143146.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVBS News" tvg-logo="" group-title="MALAYSIA",MY TVBS News
+https://tvstar.top:443/live/0211539317/0211539317/143147.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB Classic" tvg-logo="" group-title="MALAYSIA",MY TVB Classic
+https://tvstar.top:443/live/0211539317/0211539317/143148.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB E News" tvg-logo="" group-title="MALAYSIA",MY TVB E News
+https://tvstar.top:443/live/0211539317/0211539317/143149.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB Jade" tvg-logo="" group-title="MALAYSIA",MY TVB Jade
+https://tvstar.top:443/live/0211539317/0211539317/143150.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB Xing He" tvg-logo="" group-title="MALAYSIA",MY TVB Xing He
+https://tvstar.top:443/live/0211539317/0211539317/143151.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN" tvg-logo="" group-title="MALAYSIA",MY tvN
+https://tvstar.top:443/live/0211539317/0211539317/143152.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVN (D)" tvg-logo="" group-title="MALAYSIA",MY TVN (D)
+https://tvstar.top:443/live/0211539317/0211539317/143153.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN Movies" tvg-logo="" group-title="MALAYSIA",MY tvN Movies
+https://tvstar.top:443/live/0211539317/0211539317/143154.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TVS" tvg-logo="" group-title="MALAYSIA",MY TVS
+https://tvstar.top:443/live/0211539317/0211539317/143155.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV Alhijrah" tvg-logo="" group-title="MALAYSIA",MY TV Alhijrah
+https://tvstar.top:443/live/0211539317/0211539317/143156.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Vinmeen" tvg-logo="" group-title="MALAYSIA",MY Astro Vinmeen
+https://tvstar.top:443/live/0211539317/0211539317/143157.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Warna" tvg-logo="" group-title="MALAYSIA",MY Astro Warna
+https://tvstar.top:443/live/0211539317/0211539317/143158.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY Warner TV" tvg-logo="" group-title="MALAYSIA",MY Warner TV
+https://tvstar.top:443/live/0211539317/0211539317/143159.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY WWE Network" tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg" group-title="MALAYSIA",MY WWE Network
+https://tvstar.top:443/live/0211539317/0211539317/143160.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) NHK World Japan" tvg-logo="" group-title="INDONESIA",ID (VD) NHK World Japan
+https://tvstar.top:443/live/0211539317/0211539317/151135.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) FashionTV L'Original" tvg-logo="" group-title="INDONESIA",ID (VD) FashionTV L'Original
+https://tvstar.top:443/live/0211539317/0211539317/151138.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) Rock Action" tvg-logo="" group-title="INDONESIA",ID (VD) Rock Action
+https://tvstar.top:443/live/0211539317/0211539317/151142.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) ROCK Entertainment" tvg-logo="" group-title="INDONESIA",ID (VD) ROCK Entertainment
+https://tvstar.top:443/live/0211539317/0211539317/151143.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) Champions TV 3" tvg-logo="" group-title="INDONESIA",ID (VD) Champions TV 3
+https://tvstar.top:443/live/0211539317/0211539317/151151.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) Kompas TV" tvg-logo="" group-title="INDONESIA",ID (VD) Kompas TV
+https://tvstar.top:443/live/0211539317/0211539317/151164.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID (VD) Indosiar" tvg-logo="" group-title="INDONESIA",ID (VD) Indosiar
+https://tvstar.top:443/live/0211539317/0211539317/151171.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bein Sport 3 HD (D)" tvg-logo="" group-title="INDONESIA",ID Bein Sport 3 HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151173.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CNBC INDONESIA (D)" tvg-logo="" group-title="INDONESIA",ID CNBC INDONESIA (D)
+https://tvstar.top:443/live/0211539317/0211539317/151175.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CNN INDONESIA (D)" tvg-logo="" group-title="INDONESIA",ID CNN INDONESIA (D)
+https://tvstar.top:443/live/0211539317/0211539317/151176.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID INDOSIAR (D)" tvg-logo="" group-title="INDONESIA",ID INDOSIAR (D)
+https://tvstar.top:443/live/0211539317/0211539317/151177.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID BERITA SATU WORLD (D)" tvg-logo="" group-title="INDONESIA",ID BERITA SATU WORLD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151178.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID BERITA SATU (D)" tvg-logo="" group-title="INDONESIA",ID BERITA SATU (D)
+https://tvstar.top:443/live/0211539317/0211539317/151179.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TVKU (D)" tvg-logo="" group-title="INDONESIA",ID TVKU (D)
+https://tvstar.top:443/live/0211539317/0211539317/151180.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Sports 3 HD (D)" tvg-logo="" group-title="INDONESIA",ID MNC Sports 3 HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151181.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bein Sports 1 HD (D)" tvg-logo="" group-title="INDONESIA",ID Bein Sports 1 HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151182.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC News HD (D)" tvg-logo="" group-title="INDONESIA",ID MNC News HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151183.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Indonesia Movie Channels HD (D)" tvg-logo="" group-title="INDONESIA",ID Indonesia Movie Channels HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151184.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID RCTI HD (D)" tvg-logo="" group-title="INDONESIA",ID RCTI HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151185.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Soccer Channel HD (D)" tvg-logo="" group-title="INDONESIA",ID Soccer Channel HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151186.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Sports 2 HD (D)" tvg-logo="" group-title="INDONESIA",ID MNC Sports 2 HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151187.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Sports HD (D)" tvg-logo="" group-title="INDONESIA",ID MNC Sports HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151188.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Galaxy Premium HD (D)" tvg-logo="" group-title="INDONESIA",ID Galaxy Premium HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151189.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Galaxy HD (D)" tvg-logo="" group-title="INDONESIA",ID Galaxy HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151190.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Asian Food Network HD (D)" tvg-logo="" group-title="INDONESIA",ID Asian Food Network HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151191.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID NickJr HD (D)" tvg-logo="" group-title="INDONESIA",ID NickJr HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151192.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SPOTV 2 HD (D)" tvg-logo="" group-title="INDONESIA",ID SPOTV 2 HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151193.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SPOTV HD (D)" tvg-logo="" group-title="INDONESIA",ID SPOTV HD (D)
+https://tvstar.top:443/live/0211539317/0211539317/151194.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SEA Channel (D)" tvg-logo="" group-title="INDONESIA",ID SEA Channel (D)
+https://tvstar.top:443/live/0211539317/0211539317/151195.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID NHK World Japan (D)" tvg-logo="" group-title="INDONESIA",ID NHK World Japan (D)
+https://tvstar.top:443/live/0211539317/0211539317/151196.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Cinemax (D)" tvg-logo="" group-title="INDONESIA",ID Cinemax (D)
+https://tvstar.top:443/live/0211539317/0211539317/151197.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Arirang Korea (D)" tvg-logo="" group-title="INDONESIA",ID Arirang Korea (D)
+https://tvstar.top:443/live/0211539317/0211539317/151198.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Celestial Movies (D)" tvg-logo="" group-title="INDONESIA",ID Celestial Movies (D)
+https://tvstar.top:443/live/0211539317/0211539317/151199.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID SCM (D)" tvg-logo="" group-title="INDONESIA",ID SCM (D)
+https://tvstar.top:443/live/0211539317/0211539317/151200.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Fox News (D)" tvg-logo="" group-title="INDONESIA",ID Fox News (D)
+https://tvstar.top:443/live/0211539317/0211539317/151201.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CNN (D)" tvg-logo="" group-title="INDONESIA",ID CNN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151202.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID History (D)" tvg-logo="" group-title="INDONESIA",ID History (D)
+https://tvstar.top:443/live/0211539317/0211539317/151203.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Discovery Channel (D)" tvg-logo="" group-title="INDONESIA",ID Discovery Channel (D)
+https://tvstar.top:443/live/0211539317/0211539317/151204.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Nat Geo Wild (D)" tvg-logo="" group-title="INDONESIA",ID Nat Geo Wild (D)
+https://tvstar.top:443/live/0211539317/0211539317/151205.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HBO Signature (D)" tvg-logo="" group-title="INDONESIA",ID HBO Signature (D)
+https://tvstar.top:443/live/0211539317/0211539317/151206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Sony ONE (D)" tvg-logo="" group-title="INDONESIA",ID Sony ONE (D)
+https://tvstar.top:443/live/0211539317/0211539317/151207.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Animax (D)" tvg-logo="" group-title="INDONESIA",ID Animax (D)
+https://tvstar.top:443/live/0211539317/0211539317/151208.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID AXN (D)" tvg-logo="" group-title="INDONESIA",ID AXN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151209.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Lifetime (D)" tvg-logo="" group-title="INDONESIA",ID Lifetime (D)
+https://tvstar.top:443/live/0211539317/0211539317/151210.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID News Asia Channel (D)" tvg-logo="" group-title="INDONESIA",ID News Asia Channel (D)
+https://tvstar.top:443/live/0211539317/0211539317/151211.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HBO Hits (D)" tvg-logo="" group-title="INDONESIA",ID HBO Hits (D)
+https://tvstar.top:443/live/0211539317/0211539317/151212.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Crime Investigation (D)" tvg-logo="" group-title="INDONESIA",ID Crime Investigation (D)
+https://tvstar.top:443/live/0211539317/0211539317/151214.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Warner TV (D)" tvg-logo="" group-title="INDONESIA",ID Warner TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151215.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CNBC (D)" tvg-logo="" group-title="INDONESIA",ID CNBC (D)
+https://tvstar.top:443/live/0211539317/0211539317/151216.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Nat Geo (D)" tvg-logo="" group-title="INDONESIA",ID Nat Geo (D)
+https://tvstar.top:443/live/0211539317/0211539317/151217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Nickelodeon (D)" tvg-logo="" group-title="INDONESIA",ID Nickelodeon (D)
+https://tvstar.top:443/live/0211539317/0211539317/151218.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TV5 Monde Asia (D)" tvg-logo="" group-title="INDONESIA",ID TV5 Monde Asia (D)
+https://tvstar.top:443/live/0211539317/0211539317/151219.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Animal Planet (D)" tvg-logo="" group-title="INDONESIA",ID Animal Planet (D)
+https://tvstar.top:443/live/0211539317/0211539317/151220.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Cartoon Network (D)" tvg-logo="" group-title="INDONESIA",ID Cartoon Network (D)
+https://tvstar.top:443/live/0211539317/0211539317/151221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Baby TV" tvg-logo="" group-title="INDONESIA",ID Baby TV
+https://tvstar.top:443/live/0211539317/0211539317/151222.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID FMN (D)" tvg-logo="" group-title="INDONESIA",ID FMN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151223.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Fight Sports (D)" tvg-logo="" group-title="INDONESIA",ID Fight Sports (D)
+https://tvstar.top:443/live/0211539317/0211539317/151224.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Disney XD" tvg-logo="" group-title="INDONESIA",ID Disney XD
+https://tvstar.top:443/live/0211539317/0211539317/151225.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MiaoMI (D)" tvg-logo="" group-title="INDONESIA",ID MiaoMI (D)
+https://tvstar.top:443/live/0211539317/0211539317/151226.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CGTN (D)" tvg-logo="" group-title="INDONESIA",ID CGTN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151227.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bein Sport 2 (D)" tvg-logo="" group-title="INDONESIA",ID Bein Sport 2 (D)
+https://tvstar.top:443/live/0211539317/0211539317/151228.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bandung TV (D)" tvg-logo="" group-title="INDONESIA",ID Bandung TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151229.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Tawaf TV (D)" tvg-logo="" group-title="INDONESIA",ID Tawaf TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151230.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID LifeStyle Fashion (D)" tvg-logo="" group-title="INDONESIA",ID LifeStyle Fashion (D)
+https://tvstar.top:443/live/0211539317/0211539317/151231.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID OK TV (D)" tvg-logo="" group-title="INDONESIA",ID OK TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151232.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Kids TV (D)" tvg-logo="" group-title="INDONESIA",ID Kids TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151233.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID DW (D)" tvg-logo="" group-title="INDONESIA",ID DW (D)
+https://tvstar.top:443/live/0211539317/0211539317/151234.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID France24 (D)" tvg-logo="" group-title="INDONESIA",ID France24 (D)
+https://tvstar.top:443/live/0211539317/0211539317/151235.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Al Jazeera English (D)" tvg-logo="" group-title="INDONESIA",ID Al Jazeera English (D)
+https://tvstar.top:443/live/0211539317/0211539317/151236.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Hits (D)" tvg-logo="" group-title="INDONESIA",ID Hits (D)
+https://tvstar.top:443/live/0211539317/0211539317/151237.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Music TV (D)" tvg-logo="" group-title="INDONESIA",ID Music TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151238.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID BBC Cbeebies (D)" tvg-logo="" group-title="INDONESIA",ID BBC Cbeebies (D)
+https://tvstar.top:443/live/0211539317/0211539317/151239.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID IDX (D)" tvg-logo="" group-title="INDONESIA",ID IDX (D)
+https://tvstar.top:443/live/0211539317/0211539317/151240.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Infotainment (D)" tvg-logo="" group-title="INDONESIA",ID MNC Infotainment (D)
+https://tvstar.top:443/live/0211539317/0211539317/151241.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Life (D)" tvg-logo="" group-title="INDONESIA",ID Life (D)
+https://tvstar.top:443/live/0211539317/0211539317/151242.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Muslim TV (D)" tvg-logo="" group-title="INDONESIA",ID Muslim TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151243.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Entertainment (D)" tvg-logo="" group-title="INDONESIA",ID MNC Entertainment (D)
+https://tvstar.top:443/live/0211539317/0211539317/151244.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Vision Prime (D)" tvg-logo="" group-title="INDONESIA",ID Vision Prime (D)
+https://tvstar.top:443/live/0211539317/0211539317/151245.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Shop Smart (D)" tvg-logo="" group-title="INDONESIA",ID MNC Shop Smart (D)
+https://tvstar.top:443/live/0211539317/0211539317/151246.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Zee Bioskop (D)" tvg-logo="" group-title="INDONESIA",ID Zee Bioskop (D)
+https://tvstar.top:443/live/0211539317/0211539317/151247.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Thrill (D)" tvg-logo="" group-title="INDONESIA",ID Thrill (D)
+https://tvstar.top:443/live/0211539317/0211539317/151248.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID ANTV (D)" tvg-logo="" group-title="INDONESIA",ID ANTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151249.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HBO Family (D)" tvg-logo="" group-title="INDONESIA",ID HBO Family (D)
+https://tvstar.top:443/live/0211539317/0211539317/151250.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TVN Movies (D)" tvg-logo="" group-title="INDONESIA",ID TVN Movies (D)
+https://tvstar.top:443/live/0211539317/0211539317/151251.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TVN (D)" tvg-logo="" group-title="INDONESIA",ID TVN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151252.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Al Quran Al Karem (D)" tvg-logo="" group-title="INDONESIA",ID Al Quran Al Karem (D)
+https://tvstar.top:443/live/0211539317/0211539317/151253.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HITS Movies (D)" tvg-logo="" group-title="INDONESIA",ID HITS Movies (D)
+https://tvstar.top:443/live/0211539317/0211539317/151254.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TV One (D)" tvg-logo="" group-title="INDONESIA",ID TV One (D)
+https://tvstar.top:443/live/0211539317/0211539317/151255.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TransTV (D)" tvg-logo="" group-title="INDONESIA",ID TransTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151256.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC TV (D)" tvg-logo="" group-title="INDONESIA",ID MNC TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151257.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Metro TV (D)" tvg-logo="" group-title="INDONESIA",ID Metro TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151258.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID iNews (D)" tvg-logo="" group-title="INDONESIA",ID iNews (D)
+https://tvstar.top:443/live/0211539317/0211539317/151259.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID GTV (D)" tvg-logo="" group-title="INDONESIA",ID GTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151260.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID MNC Shop Trendy (D)" tvg-logo="" group-title="INDONESIA",ID MNC Shop Trendy (D)
+https://tvstar.top:443/live/0211539317/0211539317/151261.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Trans7 (D)" tvg-logo="" group-title="INDONESIA",ID Trans7 (D)
+https://tvstar.top:443/live/0211539317/0211539317/151262.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID KompasTV (D)" tvg-logo="" group-title="INDONESIA",ID KompasTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151264.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID BaliTV (D)" tvg-logo="" group-title="INDONESIA",ID BaliTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151265.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID &TV (D)" tvg-logo="" group-title="INDONESIA",ID &TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151266.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Reformed 21 (D)" tvg-logo="" group-title="INDONESIA",ID Reformed 21 (D)
+https://tvstar.top:443/live/0211539317/0211539317/151267.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID NET. (D)" tvg-logo="" group-title="INDONESIA",ID NET. (D)
+https://tvstar.top:443/live/0211539317/0211539317/151268.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TRT World (D)" tvg-logo="" group-title="INDONESIA",ID TRT World (D)
+https://tvstar.top:443/live/0211539317/0211539317/151269.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID RT English (D)" tvg-logo="" group-title="INDONESIA",ID RT English (D)
+https://tvstar.top:443/live/0211539317/0211539317/151270.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID RTV (D)" tvg-logo="" group-title="INDONESIA",ID RTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151271.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID EWTN (D)" tvg-logo="" group-title="INDONESIA",ID EWTN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151272.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Zee TV (D)" tvg-logo="" group-title="INDONESIA",ID Zee TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151273.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Zee Cinema (D)" tvg-logo="" group-title="INDONESIA",ID Zee Cinema (D)
+https://tvstar.top:443/live/0211539317/0211539317/151274.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID ZING (D)" tvg-logo="" group-title="INDONESIA",ID ZING (D)
+https://tvstar.top:443/live/0211539317/0211539317/151275.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Daai TV (D)" tvg-logo="" group-title="INDONESIA",ID Daai TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151276.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HBO (D)" tvg-logo="" group-title="INDONESIA",ID HBO (D)
+https://tvstar.top:443/live/0211539317/0211539317/151277.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID KIX (D)" tvg-logo="" group-title="INDONESIA",ID KIX (D)
+https://tvstar.top:443/live/0211539317/0211539317/151278.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Cinema World (D)" tvg-logo="" group-title="INDONESIA",ID Cinema World (D)
+https://tvstar.top:443/live/0211539317/0211539317/151279.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Boomerang (D)" tvg-logo="" group-title="INDONESIA",ID Boomerang (D)
+https://tvstar.top:443/live/0211539317/0211539317/151280.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Jak TV (D)" tvg-logo="" group-title="INDONESIA",ID Jak TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151281.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID HGTV (D)" tvg-logo="" group-title="INDONESIA",ID HGTV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151282.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Euronews (D)" tvg-logo="" group-title="INDONESIA",ID Euronews (D)
+https://tvstar.top:443/live/0211539317/0211539317/151283.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bloomberg (D)" tvg-logo="" group-title="INDONESIA",ID Bloomberg (D)
+https://tvstar.top:443/live/0211539317/0211539317/151284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Besmart (D)" tvg-logo="" group-title="INDONESIA",ID Besmart (D)
+https://tvstar.top:443/live/0211539317/0211539317/151285.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID NHK World Premium (D)" tvg-logo="" group-title="INDONESIA",ID NHK World Premium (D)
+https://tvstar.top:443/live/0211539317/0211539317/151286.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Berita Satu (D)" tvg-logo="" group-title="INDONESIA",ID Berita Satu (D)
+https://tvstar.top:443/live/0211539317/0211539317/151287.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID BBC World News" tvg-logo="" group-title="INDONESIA",ID BBC World News
+https://tvstar.top:443/live/0211539317/0211539317/151288.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CGTN Documentary (D)" tvg-logo="" group-title="INDONESIA",ID CGTN Documentary (D)
+https://tvstar.top:443/live/0211539317/0211539317/151289.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID BBC Earth" tvg-logo="" group-title="INDONESIA",ID BBC Earth
+https://tvstar.top:443/live/0211539317/0211539317/151290.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID CCM (D)" tvg-logo="" group-title="INDONESIA",ID CCM (D)
+https://tvstar.top:443/live/0211539317/0211539317/151291.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TV9 (D)" tvg-logo="" group-title="INDONESIA",ID TV9 (D)
+https://tvstar.top:443/live/0211539317/0211539317/151293.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TVRI (D)" tvg-logo="" group-title="INDONESIA",ID TVRI (D)
+https://tvstar.top:443/live/0211539317/0211539317/151294.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TV Muhammadiyah (D)" tvg-logo="" group-title="INDONESIA",ID TV Muhammadiyah (D)
+https://tvstar.top:443/live/0211539317/0211539317/151295.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID AnhuiTV  (D)" tvg-logo="" group-title="INDONESIA",ID AnhuiTV  (D)
+https://tvstar.top:443/live/0211539317/0211539317/151296.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Xing Kong TV (D)" tvg-logo="" group-title="INDONESIA",ID Xing Kong TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151297.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Shanghai Dragon TV (D)" tvg-logo="" group-title="INDONESIA",ID Shanghai Dragon TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151298.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Jiangsu TV (D)" tvg-logo="" group-title="INDONESIA",ID Jiangsu TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151299.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Hunan TV (D)" tvg-logo="" group-title="INDONESIA",ID Hunan TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151300.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Cinema One" tvg-logo="" group-title="PHILIPPINES",[PH] Cinema One
+https://tvstar.top:443/live/0211539317/0211539317/19206.ts
+#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA News TV" tvg-logo="" group-title="PHILIPPINES",[PH] GMA News TV
+https://tvstar.top:443/live/0211539317/0211539317/19229.ts
+#EXTINF:-1 tvg-id="" tvg-name="[PH] TFC" tvg-logo="" group-title="PHILIPPINES",[PH] TFC
+https://tvstar.top:443/live/0211539317/0211539317/19247.ts
+#EXTINF:-1 tvg-id="" tvg-name="[PH] GMA Pinoy" tvg-logo="" group-title="PHILIPPINES",[PH] GMA Pinoy
+https://tvstar.top:443/live/0211539317/0211539317/19253.ts
+#EXTINF:-1 tvg-id="" tvg-name="[PH] Crime+Investigation" tvg-logo="" group-title="PHILIPPINES",[PH] Crime+Investigation
+https://tvstar.top:443/live/0211539317/0211539317/19255.ts
+#EXTINF:-1 tvg-id="" tvg-name="[PH] beIN Sports2" tvg-logo="" group-title="PHILIPPINES",[PH] beIN Sports2
+https://tvstar.top:443/live/0211539317/0211539317/133702.ts
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC West (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) TFC West (SP)
+https://tvstar.top:443/live/0211539317/0211539317/150958.ts
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 2 (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) TFC 2 (SP)
+https://tvstar.top:443/live/0211539317/0211539317/150959.ts
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) TFC 1 (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) TFC 1 (SP)
+https://tvstar.top:443/live/0211539317/0211539317/150960.ts
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Pinoy TV (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) GMA Pinoy TV (SP)
+https://tvstar.top:443/live/0211539317/0211539317/150961.ts
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA News TV SD (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) GMA News TV SD (SP)
+https://tvstar.top:443/live/0211539317/0211539317/150962.ts
+#EXTINF:-1 tvg-id="" tvg-name="US (PH) GMA Life TV (SP)" tvg-logo="" group-title="PHILIPPINES",US (PH) GMA Life TV (SP)
+https://tvstar.top:443/live/0211539317/0211539317/150963.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH BBC Earth HD (C)" tvg-logo="" group-title="PHILIPPINES",PH BBC Earth HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150964.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH BBC World News (C)" tvg-logo="" group-title="PHILIPPINES",PH BBC World News (C)
+https://tvstar.top:443/live/0211539317/0211539317/150965.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH WARNER HD (C)" tvg-logo="" group-title="PHILIPPINES",PH WARNER HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150966.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH RUSH PBA (FHD) (C)" tvg-logo="" group-title="PHILIPPINES",PH RUSH PBA (FHD) (C)
+https://tvstar.top:443/live/0211539317/0211539317/150967.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH UAAP Varsity CH (C)" tvg-logo="" group-title="PHILIPPINES",PH UAAP Varsity CH (C)
+https://tvstar.top:443/live/0211539317/0211539317/150968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Tap Sports (C)" tvg-logo="" group-title="PHILIPPINES",PH Tap Sports (C)
+https://tvstar.top:443/live/0211539317/0211539317/150969.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Tap Edge Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Tap Edge Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/150970.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Tap Action Flix HD (C)" tvg-logo="" group-title="PHILIPPINES",PH Tap Action Flix HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150971.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5 (C)" tvg-logo="" group-title="PHILIPPINES",PH TV5 (C)
+https://tvstar.top:443/live/0211539317/0211539317/150972.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TAP TV (C)" tvg-logo="" group-title="PHILIPPINES",PH TAP TV (C)
+https://tvstar.top:443/live/0211539317/0211539317/150973.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TAP Movies HD (C)" tvg-logo="" group-title="PHILIPPINES",PH TAP Movies HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150974.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Rock Entertainment (C)" tvg-logo="" group-title="PHILIPPINES",PH Rock Entertainment (C)
+https://tvstar.top:443/live/0211539317/0211539317/150975.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Asia (C)" tvg-logo="" group-title="PHILIPPINES",PH Discovery Asia (C)
+https://tvstar.top:443/live/0211539317/0211539317/150976.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Premier Sports HD (C)" tvg-logo="" group-title="PHILIPPINES",PH Premier Sports HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150978.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Paramount Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Paramount Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/150979.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH One news HD (C)" tvg-logo="" group-title="PHILIPPINES",PH One news HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150980.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH One Sports Plus (C)" tvg-logo="" group-title="PHILIPPINES",PH One Sports Plus (C)
+https://tvstar.top:443/live/0211539317/0211539317/150981.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Nick Jr (C)" tvg-logo="" group-title="PHILIPPINES",PH Nick Jr (C)
+https://tvstar.top:443/live/0211539317/0211539317/150982.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH NHK Japan (C)" tvg-logo="" group-title="PHILIPPINES",PH NHK Japan (C)
+https://tvstar.top:443/live/0211539317/0211539317/150983.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH NAT GEO (C)" tvg-logo="" group-title="PHILIPPINES",PH NAT GEO (C)
+https://tvstar.top:443/live/0211539317/0211539317/150984.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Moonbug Kids SD (C)" tvg-logo="" group-title="PHILIPPINES",PH Moonbug Kids SD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150985.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH KIX HD (C)" tvg-logo="" group-title="PHILIPPINES",PH KIX HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150986.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH K-Plus Channel  (C)" tvg-logo="" group-title="PHILIPPINES",PH K-Plus Channel  (C)
+https://tvstar.top:443/live/0211539317/0211539317/150987.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH HITS HD (C)" tvg-logo="" group-title="PHILIPPINES",PH HITS HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150988.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH France24_DR (C)" tvg-logo="" group-title="PHILIPPINES",PH France24_DR (C)
+https://tvstar.top:443/live/0211539317/0211539317/150990.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH EWTN_DR (C)" tvg-logo="" group-title="PHILIPPINES",PH EWTN_DR (C)
+https://tvstar.top:443/live/0211539317/0211539317/150992.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH EGG (C)" tvg-logo="" group-title="PHILIPPINES",PH EGG (C)
+https://tvstar.top:443/live/0211539317/0211539317/150993.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Dreamworks HD (C)" tvg-logo="" group-title="PHILIPPINES",PH Dreamworks HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150994.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH DepEd (C)" tvg-logo="" group-title="PHILIPPINES",PH DepEd (C)
+https://tvstar.top:443/live/0211539317/0211539317/150995.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN HD (C)" tvg-logo="" group-title="PHILIPPINES",PH CNN HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/150997.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN (C)" tvg-logo="" group-title="PHILIPPINES",PH CNN (C)
+https://tvstar.top:443/live/0211539317/0211539317/150998.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CCTV 4 (C)" tvg-logo="" group-title="PHILIPPINES",PH CCTV 4 (C)
+https://tvstar.top:443/live/0211539317/0211539317/150999.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Blue Ant Extreme Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Blue Ant Extreme Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151001.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Be in sports 2 (C)" tvg-logo="" group-title="PHILIPPINES",PH Be in sports 2 (C)
+https://tvstar.top:443/live/0211539317/0211539317/151002.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH BUKO Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH BUKO Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151004.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH BOOMERANG (C)" tvg-logo="" group-title="PHILIPPINES",PH BOOMERANG (C)
+https://tvstar.top:443/live/0211539317/0211539317/151005.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Aniplus Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Aniplus Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151006.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ARIRANG TV WORLD (C)" tvg-logo="" group-title="PHILIPPINES",PH ARIRANG TV WORLD (C)
+https://tvstar.top:443/live/0211539317/0211539317/151007.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAL PLANET (C)" tvg-logo="" group-title="PHILIPPINES",PH ANIMAL PLANET (C)
+https://tvstar.top:443/live/0211539317/0211539317/151008.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH AL JAZEERA (C)" tvg-logo="" group-title="PHILIPPINES",PH AL JAZEERA (C)
+https://tvstar.top:443/live/0211539317/0211539317/151009.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH A2Z  (C)" tvg-logo="" group-title="PHILIPPINES",PH A2Z  (C)
+https://tvstar.top:443/live/0211539317/0211539317/151010.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH One News HD (C)" tvg-logo="" group-title="PHILIPPINES",PH One News HD (C)
+https://tvstar.top:443/live/0211539317/0211539317/151012.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH One News  SD (C)" tvg-logo="" group-title="PHILIPPINES",PH One News  SD (C)
+https://tvstar.top:443/live/0211539317/0211539317/151013.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH NHK WORLD (C)" tvg-logo="" group-title="PHILIPPINES",PH NHK WORLD (C)
+https://tvstar.top:443/live/0211539317/0211539317/151014.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH EWTN (C)" tvg-logo="" group-title="PHILIPPINES",PH EWTN (C)
+https://tvstar.top:443/live/0211539317/0211539317/151015.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Teleradio (D)" tvg-logo="" group-title="PHILIPPINES",PH Teleradio (D)
+https://tvstar.top:443/live/0211539317/0211539317/151016.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ANC (D)" tvg-logo="" group-title="PHILIPPINES",PH ANC (D)
+https://tvstar.top:443/live/0211539317/0211539317/151017.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) FILIPINO (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) FILIPINO (E)
+https://tvstar.top:443/live/0211539317/0211539317/151018.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA LIFE (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA LIFE (E)
+https://tvstar.top:443/live/0211539317/0211539317/151019.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA NEWS (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA NEWS (E)
+https://tvstar.top:443/live/0211539317/0211539317/151020.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA PINOY (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA PINOY (E)
+https://tvstar.top:443/live/0211539317/0211539317/151021.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) KAPATID 5 (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) KAPATID 5 (E)
+https://tvstar.top:443/live/0211539317/0211539317/151022.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (E)" tvg-logo="" group-title="PHILIPPINES",CA (PH) TFC (E)
+https://tvstar.top:443/live/0211539317/0211539317/151023.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Cinema One Global (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Cinema One Global (B)
+https://tvstar.top:443/live/0211539317/0211539317/151024.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Filipino TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Filipino TV (B)
+https://tvstar.top:443/live/0211539317/0211539317/151025.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Life TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA Life TV (B)
+https://tvstar.top:443/live/0211539317/0211539317/151026.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA News TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA News TV (B)
+https://tvstar.top:443/live/0211539317/0211539317/151027.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) GMA Pinoy TV (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) GMA Pinoy TV (B)
+https://tvstar.top:443/live/0211539317/0211539317/151028.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Kapatid TV5 (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Kapatid TV5 (B)
+https://tvstar.top:443/live/0211539317/0211539317/151029.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) Lifestyle Network (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) Lifestyle Network (B)
+https://tvstar.top:443/live/0211539317/0211539317/151030.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA (PH) TFC (B)" tvg-logo="" group-title="PHILIPPINES",CA (PH) TFC (B)
+https://tvstar.top:443/live/0211539317/0211539317/151031.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ABC Austrailia (C)" tvg-logo="" group-title="PHILIPPINES",PH ABC Austrailia (C)
+https://tvstar.top:443/live/0211539317/0211539317/151032.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ASIAN FOOD CHANNEL (C)" tvg-logo="" group-title="PHILIPPINES",PH ASIAN FOOD CHANNEL (C)
+https://tvstar.top:443/live/0211539317/0211539317/151033.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAX (C)" tvg-logo="" group-title="PHILIPPINES",PH ANIMAX (C)
+https://tvstar.top:443/live/0211539317/0211539317/151034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arabic TFC" tvg-logo="" group-title="PHILIPPINES",Arabic TFC
+https://tvstar.top:443/live/0211539317/0211539317/151035.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH AXN (C)" tvg-logo="" group-title="PHILIPPINES",PH AXN (C)
+https://tvstar.top:443/live/0211539317/0211539317/151036.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CELESTIAL MOVIE PINOY (C)" tvg-logo="" group-title="PHILIPPINES",PH CELESTIAL MOVIE PINOY (C)
+https://tvstar.top:443/live/0211539317/0211539317/151038.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinema One (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinema One (D)
+https://tvstar.top:443/live/0211539317/0211539317/151040.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo (C)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo (C)
+https://tvstar.top:443/live/0211539317/0211539317/151041.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo APAC (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo APAC (D)
+https://tvstar.top:443/live/0211539317/0211539317/151042.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo EMEA (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo EMEA (D)
+https://tvstar.top:443/live/0211539317/0211539317/151043.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo Nola (D)" tvg-logo="" group-title="PHILIPPINES",PH Cinemo Nola (D)
+https://tvstar.top:443/live/0211539317/0211539317/151044.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CHANNEL NEWS ASIA (C)" tvg-logo="" group-title="PHILIPPINES",PH CHANNEL NEWS ASIA (C)
+https://tvstar.top:443/live/0211539317/0211539317/151045.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN (D)" tvg-logo="" group-title="PHILIPPINES",PH CNN (D)
+https://tvstar.top:443/live/0211539317/0211539317/151046.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN Philipines (C)" tvg-logo="" group-title="PHILIPPINES",PH CNN Philipines (C)
+https://tvstar.top:443/live/0211539317/0211539317/151047.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Discovery Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151048.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH ONE SPORTS (C)" tvg-logo="" group-title="PHILIPPINES",PH ONE SPORTS (C)
+https://tvstar.top:443/live/0211539317/0211539317/151049.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA LIFE (D)" tvg-logo="" group-title="PHILIPPINES",PH GMA LIFE (D)
+https://tvstar.top:443/live/0211539317/0211539317/151052.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA News TV (D)" tvg-logo="" group-title="PHILIPPINES",PH GMA News TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151053.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA Pinoy TV (D)" tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151054.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Hillsong Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Hillsong Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151055.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH HITS Movies (C)" tvg-logo="" group-title="PHILIPPINES",PH HITS Movies (C)
+https://tvstar.top:443/live/0211539317/0211539317/151056.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH IBC13 (C)" tvg-logo="" group-title="PHILIPPINES",PH IBC13 (C)
+https://tvstar.top:443/live/0211539317/0211539317/151057.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya (D)" tvg-logo="" group-title="PHILIPPINES",PH Kapamilya (D)
+https://tvstar.top:443/live/0211539317/0211539317/151058.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Kapamilya Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151059.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151061.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel (D)" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel (D)
+https://tvstar.top:443/live/0211539317/0211539317/151062.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (C)" tvg-logo="" group-title="PHILIPPINES",PH LIGHT TV (C)
+https://tvstar.top:443/live/0211539317/0211539317/151063.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV (D)" tvg-logo="" group-title="PHILIPPINES",PH LIGHT TV (D)
+https://tvstar.top:443/live/0211539317/0211539317/151064.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH MTV Asia (C)" tvg-logo="" group-title="PHILIPPINES",PH MTV Asia (C)
+https://tvstar.top:443/live/0211539317/0211539317/151065.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH MYX (D)" tvg-logo="" group-title="PHILIPPINES",PH MYX (D)
+https://tvstar.top:443/live/0211539317/0211539317/151066.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Nick (C)" tvg-logo="" group-title="PHILIPPINES",PH Nick (C)
+https://tvstar.top:443/live/0211539317/0211539317/151067.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH One (C)" tvg-logo="" group-title="PHILIPPINES",PH One (C)
+https://tvstar.top:443/live/0211539317/0211539317/151068.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinema World (C)" tvg-logo="" group-title="PHILIPPINES",PH Cinema World (C)
+https://tvstar.top:443/live/0211539317/0211539317/151069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ph ONE Sport (C)" tvg-logo="" group-title="PHILIPPINES",Ph ONE Sport (C)
+https://tvstar.top:443/live/0211539317/0211539317/151070.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Outdoor Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Outdoor Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151071.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH PBO (C)" tvg-logo="" group-title="PHILIPPINES",PH PBO (C)
+https://tvstar.top:443/live/0211539317/0211539317/151072.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH NBN 4 (C)" tvg-logo="" group-title="PHILIPPINES",PH NBN 4 (C)
+https://tvstar.top:443/live/0211539317/0211539317/151073.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH PTV4 (D)" tvg-logo="" group-title="PHILIPPINES",PH PTV4 (D)
+https://tvstar.top:443/live/0211539317/0211539317/151074.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI (C)" tvg-logo="" group-title="PHILIPPINES",PH SARI SARI (C)
+https://tvstar.top:443/live/0211539317/0211539317/151075.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TeleNovela (C)" tvg-logo="" group-title="PHILIPPINES",PH TeleNovela (C)
+https://tvstar.top:443/live/0211539317/0211539317/151076.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC (D)
+https://tvstar.top:443/live/0211539317/0211539317/151077.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Asia (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Asia (D)
+https://tvstar.top:443/live/0211539317/0211539317/151078.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Australia (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Australia (D)
+https://tvstar.top:443/live/0211539317/0211539317/151079.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Canada (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Canada (D)
+https://tvstar.top:443/live/0211539317/0211539317/151080.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Europe (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Europe (D)
+https://tvstar.top:443/live/0211539317/0211539317/151081.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Middle East (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC Middle East (D)
+https://tvstar.top:443/live/0211539317/0211539317/151082.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC USA (D)" tvg-logo="" group-title="PHILIPPINES",PH TFC USA (D)
+https://tvstar.top:443/live/0211539317/0211539317/151083.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH thill (C)" tvg-logo="" group-title="PHILIPPINES",PH thill (C)
+https://tvstar.top:443/live/0211539317/0211539317/151084.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH TLC (C)" tvg-logo="" group-title="PHILIPPINES",PH TLC (C)
+https://tvstar.top:443/live/0211539317/0211539317/151085.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH Travel Channel (C)" tvg-logo="" group-title="PHILIPPINES",PH Travel Channel (C)
+https://tvstar.top:443/live/0211539317/0211539317/151086.ts
+#EXTINF:-1 tvg-id="" tvg-name="PH VIVA CINEMA (C)" tvg-logo="" group-title="PHILIPPINES",PH VIVA CINEMA (C)
+https://tvstar.top:443/live/0211539317/0211539317/151090.ts
+
+
+
+
+
+
 
 #########################################
 
@@ -2667,6 +3909,61 @@ https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="https://bananamuncher.com:443/images/p3048syZLWnj-1Td0r1nyIUnevSsVhj3jrPI9e7fjgZSbEROSCF7tb6pOvjNQEuSjk552o9x8QkOsjYDTt3f5K8v6gPA6nY2YYaUp9OZZyw.png" group-title="體育世界",CA: TSN 1
+http://mytv.digital:80/hevern1996/mIovw2mgx6/821797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="https://bananamuncher.com:443/images/p3048syZLWnj-1Td0r1nyIUnevSsVhj3jrPI9e7fjgZSbEROSCF7tb6pOvjNQEuSsjdoPkbyUmsUTV1oTTAEXQLum-_VHZyTB_8FDMtpMBU.png" group-title="體育世界",CA: TSN 2
+http://mytv.digital:80/hevern1996/mIovw2mgx6/821796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="https://bananamuncher.com:443/images/p3048syZLWnj-1Td0r1nyIUnevSsVhj3jrPI9e7fjgZSbEROSCF7tb6pOvjNQEuSr9VYGjwqS5VjtvULL_pGNlCG1yp2z8JCYC6c1nD_y6Q.png" group-title="體育世界",CA: TSN 3
+http://mytv.digital:80/hevern1996/mIovw2mgx6/821795
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="https://bananamuncher.com:443/images/p3048syZLWnj-1Td0r1nyIUnevSsVhj3jrPI9e7fjgZSbEROSCF7tb6pOvjNQEuSwFPYgw630E183HgHqy8LNEvdXw7WQYlgP3ixyNDqQbk.png" group-title="體育世界",CA: TSN 4
+http://mytv.digital:80/hevern1996/mIovw2mgx6/821794
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="https://bananamuncher.com:443/images/p3048syZLWnj-1Td0r1nyIUnevSsVhj3jrPI9e7fjgZSbEROSCF7tb6pOvjNQEuS5_Z3iMVVt6knQ4pgYH9VL_9CA-ss0Y8EzYH3o-uuUfA.png" group-title="體育世界",CA: TSN 5
+http://mytv.digital:80/hevern1996/mIovw2mgx6/821793
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD VIP" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="體育世界",US: Fox Sports 2 HD VIP
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24022
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="體育世界",US: Fox Sports 2 HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24023
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2 FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/FOXSports2.png" group-title="體育世界",US: Fox Sports 2 FHD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24024
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="體育世界",US: Fox Sports 1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24025
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="體育世界",US: Fox Sports 1 FHD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24026
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="體育世界",US: Fox Sports 1 HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24027
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Soccer Plus HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Soccer_Plus_%28Flat%29.svg/revision/latest?cb=20210112104241" group-title="體育世界",US: Fox Soccer Plus HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24028
+#EXTINF:-1 tvg-id="" tvg-name="US: Bally Sports San Diego HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bally_Sports_San_Diego_logo.svg/1200px-Bally_Sports_San_Diego_logo.svg.png" group-title="體育世界",US: Bally Sports San Diego HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24029
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN News HD" tvg-logo="https://archive.org/download/EspnNews/espn%20news.png" group-title="體育世界",US: ESPN News HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24042
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/ESPNU_HD_1.png/revision/latest?cb=20221002035929" group-title="體育世界",US: ESPN U HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24043
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1 HD" tvg-logo="https://tinyurl.com/y5xm55ya" group-title="體育世界",US: ESPN 1 HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24044
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 VIP" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="體育世界",US: ESPN 2 VIP
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24045
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="體育世界",US: ESPN 2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24046
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="體育世界",US: ESPN 2 HD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24047
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 FHD VIP" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="體育世界",US: ESPN 2 FHD VIP
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24048
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="體育世界",US: ESPN 2 FHD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24049
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1 VIP" tvg-logo="https://tinyurl.com/y5xm55ya" group-title="體育世界",US: ESPN 1 VIP
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24050
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1 FHD" tvg-logo="https://tinyurl.com/y5xm55ya" group-title="體育世界",US: ESPN 1 FHD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24051
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3 FHD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn3.png" group-title="體育世界",US: ESPN 3 FHD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/24052
+
+
+
 
 #EXTINF:-1 group-title="體育世界",CCTV5
 http://go.bkpcp.top/mg/cctv5
@@ -2807,6 +4104,139 @@ https://jmp2.uk/stvp-IN270000230
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 
 
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHTSPORTSHD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/FIGHT SPORTS HD.png" group-title="體育世界",FIGHT SPORTS HD
+https://012v4.goiptv.us.ci/stream/starhub/fightsportshd/
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="HUBSPORTS1HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 1 HD.png" group-title="體育世界",Hub Sports 1 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports1hd/
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="HUBSPORTS2HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 2 HD.png" group-title="體育世界",Hub Sports 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports2hd/
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="HUBSPORTS3HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 3 HD.png" group-title="體育世界",Hub Sports 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports3hd/
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="HUBSPORTS4HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 4 HD.png" group-title="體育世界",Hub Sports 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports4hd/
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="HUBSPORTS5HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 5 HD.png" group-title="體育世界",Hub Sports 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports5hd/
+#EXTINF:-1 tvg-id="Hub Sports 6 HD" tvg-name="HUBSPORTS6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 6.png" group-title="體育世界",Hub Sports 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports6hd/
+#EXTINF:-1 tvg-id="Hub Sports 7 HD" tvg-name="HUBSPORTS7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 7.png" group-title="體育世界",Hub Sports 7 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports7hd/
+#EXTINF:-1 tvg-id="Hub Sports 8 HD" tvg-name="HUBSPORTS8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Sports 8.png" group-title="體育世界",Hub Sports 8 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubsports8hd/
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="BEINSPORTSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="體育世界",beIN Sports HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsportshd/
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="BEINSPORTS2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="體育世界",beIN Sports 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports2hd/
+#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="BEINSPORTS3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="體育世界",beIN Sports 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports3hd/
+#EXTINF:-1 tvg-id="beIN Sports 4 HD" tvg-name="BEINSPORTS4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BEINSPORTSUSA.png" group-title="體育世界",beIN Sports 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports4hd/
+#EXTINF:-1 tvg-id="beIN Sports 5 HD" tvg-name="BEINSPORTS5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN Sports 5.png" group-title="體育世界",beIN Sports 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/beinsports5hd/
+#EXTINF:-1 tvg-id="Hub Premier 1 HD" tvg-name="HUBPREMIER1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HUB Premier 1.png" group-title="體育世界",Hub Premier 1 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier1hd/
+#EXTINF:-1 tvg-id="Hub Premier 2 HD" tvg-name="HUBPREMIER2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 2.png" group-title="體育世界",Hub Premier 2 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier2hd/
+#EXTINF:-1 tvg-id="Hub Premier 2 4K" tvg-name="HUBPREMIER2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 2.png" group-title="體育世界",Hub Premier 2 4K
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier24k/
+#EXTINF:-1 tvg-id="Hub Premier 3 HD" tvg-name="HUBPREMIER3" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 3.png" group-title="體育世界",Hub Premier 3 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier3hd/
+#EXTINF:-1 tvg-id="Hub Premier 4 HD" tvg-name="HUBPREMIER4" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 4.png" group-title="體育世界",Hub Premier 4 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier4hd/
+#EXTINF:-1 tvg-id="Hub Premier 5 HD" tvg-name="HUBPREMIER5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 5.png" group-title="體育世界",Hub Premier 5 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier5hd/
+#EXTINF:-1 tvg-id="Hub Premier 6 HD" tvg-name="HUBPREMIER6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 6.png" group-title="體育世界",Hub Premier 6 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier6hd/
+#EXTINF:-1 tvg-id="Hub Premier 7 HD" tvg-name="HUBPREMIER7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 7.png" group-title="體育世界",Hub Premier 7 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier7hd/
+#EXTINF:-1 tvg-id="Hub Premier 8 HD" tvg-name="HUBPREMIER8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub Premier 8.png" group-title="體育世界",Hub Premier 8 HD
+https://012v4.goiptv.us.ci/stream/starhub/hubpremier8hd/
+
+
+
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/NBA.png"  group-title="體育世界", NBA TV
+https://hls.iill.top/api/NBA/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png"  group-title="體育世界", TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-2.png"  group-title="體育世界", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-3.png" group-title="體育世界", TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-4.png" group-title="體育世界", TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-1.png" group-title="體育世界",beIN Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-2.png" group-title="體育世界",beIN Sports 2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-3.png" group-title="體育世界",beIN Sports 3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-4.png" group-title="體育世界",beIN Sports 4
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-5.png" group-title="體育世界",beIN Sports 5
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-1.png" group-title="體育世界",Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-2.png" group-title="體育世界",Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-3.png" group-title="體育世界",Hub Premier 3
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-4.png" group-title="體育世界",Hub Premier 4
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-5.png" group-title="體育世界",Hub Premier 5
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-6.png" group-title="體育世界",Hub Premier 6
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-7.png" group-title="體育世界",Hub Premier 7
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-8.png" group-title="體育世界",Hub Premier 8
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-1.png" group-title="體育世界",Hub Sports 1
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-2.png" group-title="體育世界",Hub Sports 2
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-3.png" group-title="體育世界",Hub Sports 3
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-4.png" group-title="體育世界",Hub Sports 4
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-5.png" group-title="體育世界",Hub Sports 5
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-6.png" group-title="體育世界",Hub Sports 6
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-7.png" group-title="體育世界",Hub Sports 7
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-8.png" group-title="體育世界",Hub Sports 8
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Fight-Sports.png" group-title="體育世界",Fight Sports
+https://hls.iill.top/api/Fight-Sports/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Eurosport-1.png"  group-title="體育世界", Eurosport 1
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Eurosport-2.png"  group-title="體育世界", Eurosport 2
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-1.png" group-title="體育世界",Spotv 1
+https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-2.png" group-title="體育世界",Spotv 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
+#EXTINF:-1 tvg-id="Now Sports 英超TV" tvg-name="Now Sports 英超TV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports Premier League TV.png" group-title="體育世界",Now Sports 英超TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
+#EXTINF:-1 tvg-id="Now Sports 1" tvg-name="Now Sports 1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 1.png" group-title="體育世界",Now Sports 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
+#EXTINF:-1 tvg-id="Now Sports 2" tvg-name="Now Sports 2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 2.png" group-title="體育世界",Now Sports 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
+#EXTINF:-1 tvg-id="Now Sports 3" tvg-name="Now Sports 3" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 3.png" group-title="體育世界",Now Sports 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
+#EXTINF:-1 tvg-id="Now Sports 4" tvg-name="Now Sports 4" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 4.png" group-title="體育世界",Now Sports 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382840&extension=ts&play_token=eoeYdjrkUg
+#EXTINF:-1 tvg-id="Now Sports 5" tvg-name="Now Sports 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 5.png" group-title="體育世界",Now Sports 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
+#EXTINF:-1 tvg-id="Now Sports 6" tvg-name="Now Sports 6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 6.png" group-title="體育世界",Now Sports 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
+#EXTINF:-1 tvg-id="Now Sports 7" tvg-name="Now Sports 7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/Now Sports 7.png" group-title="體育世界",Now Sports 7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
+#EXTINF:-1 tvg-id="now体育4k" tvg-name="now体育4k" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/NowSports4K1.png" group-title="體育世界",Now Sports 4K 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
+
+
+
 
 
 #########################################
@@ -2824,6 +4254,19 @@ https://newidco-ygtv-1-us.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="音樂世界", YG TV (1080p)
 https://newidco-ygtv-1-us.plex.wurl.tv/4300.m3u8
 
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Reggae Mix" tvg-logo="http://mytv4u.uk/mytvdigital.png" group-title="音樂世界",Reggae Mix
+http://mytv.digital:80/hevern1996/mIovw2mgx6/831264
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Soft Rock" tvg-logo="http://mytv4u.uk/mytvdigital.png" group-title="音樂世界",Soft Rock
+http://mytv.digital:80/hevern1996/mIovw2mgx6/831260
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Classic Rock" tvg-logo="http://mytv4u.uk/mytvdigital.png" group-title="音樂世界",Classic Rock
+http://mytv.digital:80/hevern1996/mIovw2mgx6/831257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Motown & Soul" tvg-logo="http://mytv4u.uk/mytvdigital.png" group-title="音樂世界",Motown & Soul
+http://mytv.digital:80/hevern1996/mIovw2mgx6/831258
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Old Skool Dance" tvg-logo="http://mytv4u.uk/mytvdigital.png" group-title="音樂世界",Old Skool Dance
+http://mytv.digital:80/hevern1996/mIovw2mgx6/831212
 
 
 
@@ -3642,6 +5085,132 @@ https://1399.pl10000.top/1.m3u8
 https://1399.pl10000.top/1.m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="抖音K歌",Nevada
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300ff30000but4f2452a13sf6temog&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Unstoppable
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce4av3bc77u7mqoje2kg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",once upon a time
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cumt1mfog65krksdg31g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Faded
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ctbhakfog65pugm8msu0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Alone
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f360000bupoprjphouv4f104kdg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",The Spectre
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctv3ntnog65htc7dg9k0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",OAO-WAKE
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cssap9fog65j9je20u7g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",wake
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cu3qlgvog65u1houq180&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Baby
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ctq63sfog65oesmmlnfg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",窒 Suffocating
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000cugku9vog65immg30nmg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",時代進行曲(Phonk)
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cujiftvog65jokluhvng&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",That Girl
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cvuhvk7og65lbjnumu8g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",stronger
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ctl7v6fog65ustur117g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",because of you
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cn5vg13c77u9kllf7rng&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Colbie Caillat-Try
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ckblmvrc77u7sbpm2vjg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",pink-try
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ctft5s7og65u0hdbnig0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",natural
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000caj6qnrc77u88k20m8jg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",rolling in the deep
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ct11konog65sgjaem0n0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",apologize
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f2b0000btoqjanm1ok3lil6c8f0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",salt
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000cstvnkfog65p72v2jrrg&ratio=720p&line=0b
+#EXTINF:-1 group-title="抖音K歌",hymn  for the weekend
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f360000bv64mkrphouv4f2o1kpg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",see you again
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f3e0000bt8c30sebj9j64kkop2g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",right nowm
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f4e0000bs8n4m6fbk5pph8knf2g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",something just like this
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cs4hhsvog65kgk2fa28g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",umbrella
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c75hnj3c77uboleql2vg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",legends never die
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fff0000bujdacisocvbkm7qhtqg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",love the way you lie
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csk8qsvog65nldrobpag&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",lone Ranger
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c67opt3c77u4kb9gjuu0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",insomnia
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmso8mjc77u3n6klkh40&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Victory
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8c32klftubd6erb6ig&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Star Sky
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f9c0000bt8c32me4f98gqkmvu00&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",shape of you
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f060000bsvqd8hl43bkt6rc4sv0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",booty music
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000crn1o6nog65mbsvrkdjg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",far away from home
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ca1ttbrc77u57r2ktc0g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",move your body
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000clkl27bc77u100fn3qo0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",shots
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ctqgk5vog65vl902jf8g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",love story
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f410000buj6ial4q2a6rctrcdv0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",we don't talk anymore
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfb0e4bc77u38s842ah0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",call me maybe
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csl040fog65p2l58uqdg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",the day you went away
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000crchtlnog65ud12ifgd0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",bad romance
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cv55iuvog65uhoogkirg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",the cure
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctc4cd7og65hrog41isg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",i want you to know
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cvn75nnog65u3q261730&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Love You like a Love Song
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnbjh5rc77u8no9th78g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",wolves
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f3e0000bt8c32cebj9j64kkp230&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Reality
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fb00000bup46gpu718r2jkqr92g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",You Don't Know me
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200ffd0000bughtrht4rmmsdcm6fu0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",I do
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f260000bu416dd6mgceo9a0ume0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Free Loop
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fd90000bu2n37d2kepoqmgibfng&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",good time
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f0e0000btpfugg6de4h3n78ccig&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Talking to the moon
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f0e0000btktaso6de4h3n6m8mug&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",That's Why You Go Away
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f2b0000btjbvrnm1ok3likh5big&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Nothing's gonna change my love for you
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f680000btisjnvh3f2dgbhasf6g&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Burning
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f2b0000bti8l4nm1ok3like33ag&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",My Love
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f050000bt8c30ibn0fk5akcthh0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Trouble Is a Friend
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce4sahbc77u86e1eone0&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",fire
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f7e0000bt9epjpk950m5pm5itog&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Cry On My Shoulder
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f560000bt8c31an6tf9cl2gpmsg&ratio=720p&line=0
+#EXTINF:-1 group-title="抖音K歌",Dance Monkey
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8c334lftubd6erba3g&ratio=720p&line=0
+
+
+
+
 #########################################
 
 
@@ -3965,6 +5534,429 @@ http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327384.mkv
 #EXTINF:-1 group-title="mypanel CONCERTS",The Rolling Stones:Live from Amsterdam 1995
 http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327385.mkv
 
+#########################################
+
+
+
+#EXTINF:-1 group-title="韓國女團",韓團MTV-1
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-2
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-3
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-4
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-5
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-6
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-7
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-8
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-9
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-10
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-11
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-12
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-13
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-14
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-15
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-16
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-17
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-18
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-19
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-20
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-21
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-22
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-23
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-24
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-25
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-26
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-27
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-28
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-29
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-30
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-31
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-32
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-33
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-34
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-35
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-36
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-37
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-38
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-39
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-40
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-41
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-42
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-43
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-44
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-45
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-46
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-47
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-48
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-49
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-50
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-51
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065838644.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-52
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239945877111.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-53
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240184339138.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-54
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239842640589.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-55
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240186067562.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-56
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240187071401.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-57
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240069974546.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-58
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-59
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070818783.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-60
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-61
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239951329234.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-62
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240191295627.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-63
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240026585459.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-64
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-65
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239911732892.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-66
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240196491782.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-67
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239960909980.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-68
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240017737344.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-69
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240202339353.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-70
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-71
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240205555546.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-72
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239983417489.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-74
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-75
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240222023079.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-76
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107150280.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-77
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240224523227.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-78
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-79
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225803033.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-80
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239989445779.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-81
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240229579224.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-82
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993533054.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-83
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994225085.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-84
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994741288.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-85
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995197198.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-86
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240232939168.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-87
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-88
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890568711.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-89
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240233783820.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-90
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-92
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239895496483.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-93
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240119938989.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-94
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002397273.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-95
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240241527208.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-96
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239899840062.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-97
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240243499351.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-98
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240127638122.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-99
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240030505796.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-100
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-101
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240247623420.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-102
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240043672242.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-103
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240339124000.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-104
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221702622.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-105
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239993732827.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-106
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239994460907.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-107
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240340899550.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-108
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239995692215.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-109
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240341971789.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-110
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239996664565.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-111
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240342839842.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-112
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225254466.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-113
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240225226897.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-114
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998000351.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-115
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240105989528.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-116
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239998340711.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-117
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240106477140.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-118
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240107389699.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-119
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240345787129.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-120
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240227966801.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-121
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240228462625.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-122
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240108721427.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-123
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001176191.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-125
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001228776.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-126
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240109533631.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-127
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240347663598.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-128
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240001932458.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-129
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-130
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240111085001.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-131
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350575186.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-132
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240350771160.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-133
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240113261859.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-134
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240352039996.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-135
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240236014123.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-136
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008036293.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-137
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240354863286.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-138
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240008780109.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-139
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240009608741.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-140
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240379515679.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-141
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240262842385.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-142
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240264262344.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-143
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240384227055.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-145
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240267170778.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-146
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240386743317.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-147
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240268654616.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-148
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240387107547.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-149
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150573492.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-150
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240388683474.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-151
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240270774376.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-152
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-153
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-154
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-155
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-156
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-157
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-158
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-159
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-160
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-161
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-162
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-163
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-164
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-165
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-166
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-167
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-168
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-169
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-170
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-171
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-172
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-173
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-174
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-175
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-176
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-177
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-178
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-179
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-180
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-181
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-182
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-183
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-184
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-185
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4%EF%BB%BF
+#EXTINF:-1 group-title="韓國女團",韓團MTV-186
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-187
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-188
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-189
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-190
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-191
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-192
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-193
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-194
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240250429573.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-195
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-196
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+#EXTINF:-1 group-title="韓國女團",韓團MTV-198
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
+#EXTINF:-1 group-title="韓國女團",MTV-麥可·傑克森
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4m//play/u/57349687/p/1/e/6/t/1/240250429573.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞1
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOCe9wUotr-RqQU.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞2
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguuCe9wUoyKfU-gI.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞3
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl_Ce9wUo6t-WdQ.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞4
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmeCe9wUoiJmTxgc.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞5
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj_Ce9wUoqtHxJQ.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞6
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmuCe9wUokNHLuAQ.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞7
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgneCe9wUouKLe8Ac.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞8
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyd_e9wUoiNbEwAc.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞9
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3N_e9wUogdbOaQ.mp4
+#EXTINF:-1 group-title="韓國女團",印度歌舞10
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1t_e9wUouM_i8wM.mp4
+#EXTINF:-1 group-title="韓國女團",印度神曲1
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
+#EXTINF:-1 group-title="韓國女團",印度神曲2
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
+#EXTINF:-1 group-title="韓國女團",印度神曲3
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
+#EXTINF:-1 group-title="韓國女團",印度神曲4
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
+
+
+
 
 
 
@@ -3995,6 +5987,15 @@ http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u
 http://z88.ubtvfans.com/live/rx4/2935/b2216e8fc2323f8a0a275e7c62df8732/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",HAPPY
 http://z88.ubtvfans.com/live/rx3/2908/4c3e4b9e99716d8b7116e48bfb348363/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹頻道
+https://z88.ubtvfans.com/live/rx5/2914/d540481f8b60b8caaa55cd9976a37e88/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視頻道
+https://z88.ubtvfans.com/live/rx5/2915/dc96726c46e474959909a7a2d77d5280/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視頻道2
+https://z88.ubtvfans.comm/live/rx5/2916/e6fef1f52b41a9f7c8661ce1a3ac95b8/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
@@ -7120,6 +9121,178 @@ http://7inter2.cc:8080/15648640/1564564Kjs/344335
 
 
 
+#########################################
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY SD" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PLAYBOY SD
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14087
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14107
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14108
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14109
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14110
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:SEXTREME_LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14111
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14112
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14113
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14114
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14115
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14116
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:VENUS_LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14117
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14120
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14121
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14122
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14123
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA7
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14124
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA8
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14125
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PINKO_LA10
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14127
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14130
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14131
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_7 LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14133
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14134
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14135
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14136
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14137
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_6 LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14138
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14141
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14142
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14143
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14144
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_5 LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14145
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14146
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14147
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14148
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14149
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14150
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_3 LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14151
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14152
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14153
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14154
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14155
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14156
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_2 LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14157
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14158
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14159
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14160
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14161
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14162
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_1 LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14163
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14164
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14166
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14167
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14168
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14169
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA7
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14170
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA9
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14179
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:HOT_LA10
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14187
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:EROTIC_4 LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14190
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14191
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14192
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14193
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14194
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14195
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA7
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14196
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA8
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14197
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA9
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14198
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA10
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14199
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA11
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14200
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA12
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14201
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:PRIVATE_LA14
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14203
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14204
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14205
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14206
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14207
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14208
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:A6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14209
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B1
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14210
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B2
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14211
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B3
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14212
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B4
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14213
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B5
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14214
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="→ CANALES XXX ADULTOS ←",XXX:B6
+http://canal-pro.xyz:8080/percycordova/78CBU8fxc76/14215
+
 
 
 
@@ -7195,6 +9368,41 @@ https://m3md.n6uem8.xyz/doudou/ms/e80a2665209016913fb6d1f21d__950386/hls/1/index
 https://m3md.n6uem8.xyz/doudou/ms/dd54459e213476913fc683ba97__950393/hls/1/index.m3u8
 #EXTINF:-1 group-title="麻豆傳媒 ADULT",34麻豆傳媒SZL-031.洛溪.單身女下班回家慘遭猥瑣男跟蹤猥褻
 https://m3md.n6uem8.xyz/doudou/ms/3f82ae0622196680f8e84bf76c__509110/hls/1/index.m3u8
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",1【今日爆料】明星女演員孫荷頤被爆下海入住of付費合集流出
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970270336136916992/193b14e4739d4e92b6cab2b68ed5a24e.m3u8?t=69801926&us=2018156275332366336&sign=550fd0648bed61421e58105c763b68f455858523
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",2“網洩密首爾18線女星張妍被影視圈導演潛規則，視頻洩密流出
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970270384216223744/ac21a7153162440f91fb4272110bf741.m3u8?t=69801926&us=2018156275332366340&sign=02d69b31ccaf291e415c993f33d23b8fadabc66b
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",3【電影女演員】最新下海亂倫大尺度巨乳裸舞粉穴福利“孫禾頤”
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970270928477499392/9c1bf167249b4c329d4a323d05623a9f.m3u8?t=69801934&us=2018156333631135744&sign=ee1767983fede9e2a8b37632517655b3beaf337b
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",4【王瑞兒】三線女演員不雅私拍全集，自“慰滴蠟噴水，臉逼同框！
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970270957149761536/089cd173763d4cc199cf06709b636c0f.m3u8?t=69801934&us=2018156333635330050&sign=598199f51d73e7890f27b3c72594240da03c966d
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",5【明星黑料】三級女星孫禾頤第八彈極品高顏值美女
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970271326303039488/2ad9e7a2ca1e40218c01b7f40fc4cc12.m3u8?t=69801934&us=2018156333652107264&sign=ecd683b6dc81400ed237b1cdcfd864693e95215f
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",6回獨家完整版【電影正義廊女郎孫禾頤】性愛視頻遭曝光，人美逼騷身材棒
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970268080779964416/25b50546bb964ab2b9c97f0aafadae3e.m3u8?t=69801c32&us=2018159548560957442&sign=44a10d534b643ae8ff75f4969b308153a2d4d12c
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",7吃瓜爆料-臺灣反差歌手劉冠燕黑料慘遭曝光，不雅視頻被玩伴曝光太淫蕩了
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970266987576569856/299449c20bdf4abd8abd32319d3fc39d.m3u8?t=69801c32&us=2018159548569346050&sign=b6ae654d48c1cc1d9a4cc912c61a529975b9b88c
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",8十八線明星孫禾姬最新粉絲圖元尺福利視頻
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970265723182657536/f6de55fb9ba24d0e973d0b96ddc21007.m3u8?t=69801c56&us=2018159700689145856&sign=4909258c7ba5a1631584261976da5f4c34ecf588
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",9電影女演員孫和頤最新下海私拍大尺度道具自慰扣逼第三彈
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970265461298704384/cc9062a3e6214e8da7d33224e0d71c5c.m3u8?t=69801d2c&us=2018160595451629568&sign=644777734c32ddd7c4e906331a29e21b03b9482f
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",10陳翔六點半女演員【王妍】被曝光下海做週邊露臉實拍全裸自慰福利全網獨家爆料！
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970268804435816448/06aae4fa1c9d423f89f01b3a962d6ecb.m3u8?t=69801d92&us=2018161022516936704&sign=ea233f91c61a596df334c066457d69c89c104aab
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",11重磅黑料【臺灣女歌手雲娜下海拍色情片】內部視頻慘遭洩密，超級美豔性感少女
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970267138940612608/0b55a86ddbbf492d8b5e48a4164a4938.m3u8?t=69801d92&us=2018161022521131008&sign=e11eb1a5bccb136c051df62d0ac1d39ab24d3268
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",12（明星黑料）三級女星孫未頤第六彈極品高顏值美
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970269002050449408/65c5183efeb14802b81b4b7bed03dda1.m3u8?t=69801d92&us=2018161022529519616&sign=6cddba850393bd101cb69f8f5ec71d6ee1893f90
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",13（勁爆吃瓜）18線小明星“蔣珊“被爆和娛樂公司金主露臉口活啪啪調教流出
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-23/7/1970269063945793536/8e8b72fadeb54851aa268b08d5526cde.m3u8?t=69801e10&us=2018161551807721474&sign=6883bf57fcb24f5a966ee7410ce675b62689a528
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",14重磅大瓜女神【劉若英】網曝與某導演兒子小潮男激情自拍嬌喘呻吟視頻流出
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-22/21/1970123338096193536/fdde8abff45d427aa658591432ddf1ad.m3u8?t=69801f22&us=2018162701550657538&sign=646190efc5194aab92ebc6207dbd2341038def99
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",15網爆範瑋琪捲入王力宏出軌事件李靚蕾爆料，大尺度不雅視頻曝光
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-22/21/1970124171357597696/5b6e94bcf6ae4013bbef846c3c79a116.m3u8?t=69801f6f&us=2018163024832565250&sign=14191551781465f282a6539fafca35f72d20216d
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",16【網曝明星洩露】TV'B使徒行者女主角黃智雯早期被灌醉不雅視頻洩露
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-22/22/1970132961888972800/778bb998eeb941c98c7c4325326ea60e.m3u8?t=698049cd&us=2018208517685108736&sign=77636ad4cc3353d08a8dbb50947b1517259b91a5
+#EXTINF:-1 group-title="麻豆傳媒 ADULT",17【網曝明星門】熱門巨乳極品女歌手『長鹿』下海私密視頻洩密，淪為土豪母狗
+https://d6ii9agw2wrlt.cloudfront.net/video/2025-09-22/22/1970132976409653248/3ff97c3f54554215a5228b9bb5149087.m3u8?t=698049cd&us=2018208517685108738&sign=797e17eef751b78c0b828a763a9248f078fd0a0
+
 
 
 
@@ -7404,6 +9612,27 @@ https://yzzy.play-cdn8.com/20220911/19278_871cc3d0/index.m3u8?t=1764511171817
 https://vip.lz-cdn16.com/20221222/1040_850899a7/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",100軍閥趣史
 https://play.xluuss.com/play/DdwjD9wb/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",101一路向西
+https://vip1.lz-cdn.com/20220917/33114_9987901b/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",102蜜桃成熟時2005之三人同眠
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867036766392897536/3b2a6369b27f4d49be6b0f10c152e327.m3u8?t=69804e1c&us=2018213141343232006&sign=7417cb428419a3e8ce5594666c8731e958365e86
+#EXTINF:-1 group-title="經典三級 ADULT",103烈火女警花
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867037278479667200/9f72e93e91b94855963d28fc48a98b3d.m3u8?t=69804e1c&us=2018213141355814916&sign=f05db463cea5239f6c6c019e232f5aa229aea60a
+#EXTINF:-1 group-title="經典三級 ADULT",104南洋十大邪術
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867038772058738688/8dc63a01aa8c44088aacb2373a40aa24.m3u8?t=69804e5f&us=2018213425328009224&sign=1d515f4cba29f6ade68379ec5c3bc4ade638478e
+#EXTINF:-1 group-title="經典三級 ADULT",105老泥妹
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867041341103493120/c26aad750baf43c89b803b8833dc3aad.m3u8?t=69804f3a&us=2018214343088881666&sign=78adf93efff187f36038a6e4aa495eff9312e111
+#EXTINF:-1 group-title="經典三級 ADULT",106絕種賤男之小男人小周記
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867044289808257024/9a2a0daa9cba41f0a490dbc2e64c8aaf.m3u8?t=69804f7e&us=2018214626121551874&sign=b7bea9f934f523d414e5dd8e245e22421bc6e48a
+#EXTINF:-1 group-title="經典三級 ADULT",107絕種賤男之愛在三級的日子
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867044436608897024/34831761ace54cbc84d26c63f5cb97ed.m3u8?t=69804f7e&us=2018214626121551880&sign=8df08f1b8a100229baff695262d3bb8337e22379
+#EXTINF:-1 group-title="經典三級 ADULT",108性劫蘭桂芳
+https://d6ii9agw2wrlt.cloudfront.net/video/2023-05-11/10/1656488518979301376/fb6874f539de4ef789285256fb6e0604.m3u8?t=69805006&us=2018215199511232512&sign=1cc5281cee9c08713a6b1636f65d5c7539536c3a
+#EXTINF:-1 group-title="經典三級 ADULT",109田螺豔鬼(無碼)
+https://d6ii9agw2wrlt.cloudfront.net/video/2023-05-11/10/1656489245583749120/fd135318be3c451e898fb51cbdd738b0.m3u8?t=69805006&us=2018215199544786944&sign=b893b2639332257ed49d0d3783a09c460435e4e2
+
+
+
 
 #EXTINF:-1 group-title="經典三級 ADULT",內衣女孩寫真
 https://jpzy01.com/20240421/ciky3Gar/1100kb/hls/index.m3u8
