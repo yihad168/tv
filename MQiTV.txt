@@ -58,12 +58,35 @@
       "url": "https://ds65.tv1288.xyz"
     },
 
+       {
+            "name": "🦄港台",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
+        },
+
+        {
+            "name": "🦄中港台直播源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://t.freetv.fun/m3u/playlist.txt"
+        },
+
+        {
+            "name": "🦄台湾欢乐看源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://ezc.xtvantsc.xyz/欢乐看.txt"
+        },
+
+
    {
             "name": "🦄安博",
             "type": 0,
             "ua": "okhttp",
             "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博"
         },
+
         {
             "name": "🦄港台大陆频道",
             "type": 0,
@@ -78,7 +101,7 @@
             "url": "https://epg.pw/test_channels_taiwan.m3u"
              },   
 
-{
+         {
             "name": "🦄Gather",
             "type": 0,
             "ua": "okhttp",
@@ -106,7 +129,12 @@
             "url": "http://xtvantsc.xyz/4gtv.txt"
         },
 
-
+        {
+            "name": "🦄台湾频道(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
 
         {
             "name": "🦄jackTV",
@@ -121,12 +149,14 @@
             "ua": "okhttp",
             "url": "https://tv.anboxtv.online/tv"
         },
+
          {
             "name": "🦄catvod斯玛特",
             "type": 0,
             "ua": "okhttp",
             "url": "http://live.catvod.com/tv.m3u"
         },
+
         {
             "name": "🦄全球直播",
             "type": 0,
@@ -141,6 +171,12 @@
             "url": "https://tv.anboxtv.online/tv"
         },
 
+        {
+            "name": "🦄新加坡频道(梯子新加坡节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/新加坡.m3u"
+        },
 
  {
       "name": "🔕歐華167🔓🔓VPN",
@@ -192,6 +228,7 @@
       "name": "綜合jade_box",
       "url": "https://raw.githubusercontent.com/mlabalabala/resource/refs/heads/main/jade_box/boxlive.txt"
     },
+
     {
       "name": "中國大陸",
       "url": "https://live.tv.darwinchow.com/sub/02Rmp7XOozfgFiaSPkRbxv2Ud5Kn8V"
@@ -228,10 +265,6 @@
      "logo": "https://epg.112114.xyz/logo/{name}.png"
    }, 
 
-    {
-      "name": "anbo",
-      "url": "http://kenneth001.serv00.net/anbo.json"
-    },
 
     {
       "name": "四季",
@@ -246,6 +279,7 @@
       "name": "💔GPT💔",
       "url": "https://raw.githubusercontent.com/SWCZ56/abszm-zby/refs/heads/main/zby.m3u"
     },
+
     {
       "name": "💔斯玛特💔",
       "url": "http://tv123.vvvv.ee/tv.m3u"
@@ -297,9 +331,9 @@
     },
 
  {
-    "name" : "XXX LITV-GO XXXX",
+    "name" : "日本電視台",
     "type" : 0,
-    "url": "http://154.219.113.217:8080/vipsir?type=m3u&token=112233",
+    "url": "https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u",
    "playerType":2,
    "ext": { }
   },
@@ -311,6 +345,7 @@
             "url": "http://xtvantsc.xyz/litv_ts.php",  
             "ua": "okhttp/3.15"
  },
+
   {
             "name": "🌸💔LiTV[挂T台湾节点美国xg.52sw.top]🐟",
             "type": 0,
@@ -330,11 +365,13 @@
 	  "playerType":2,
    "ext": { }
  },
+
   {
    "name": "🍄💔掛點 breezy选节点 20250608🌸",
    "type": "0",
    "url":"https://breezy-audrie-zspace-7524863c.koyeb.app/snowai?type=m3u&token=leifeng"
  },
+
  {
             "name": "🌸💔掛點【STV】 20250822🐟",
             "type": 0,
@@ -343,6 +380,7 @@
              "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
+
  {
    "name": "💔日本JAPAN💔",
    "type": "0",
@@ -367,18 +405,21 @@
   "playerType":2,
   "ext": { }
   },
+
   {
     "name" : " 🐟🐟四季（要台湾节点）20250725🧑🏻‍🌾",
     "type" : 0,
     "url": "http://xtvantsc.xyz/4gtv.txt",
     "ext": { }
   }, 
+
    {
     "name" : " 💔四季（4GTV要台湾节点）20250806🧑🏻‍🌾",
     "type" : 0,
     "url": "http://xtvantsc.xyz/litv_ts.php",
     "ext": { }
   }, 
+
   {
             "name": "🐟🐟港台mytv0 可看nowTV 挑节点20250730 💔",
             "type": "0",
@@ -386,6 +427,7 @@
             "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
              "ua": "okhttp/3.15"
  },
+
  {
       "name": "🍈📺秒播 20250720🏠",
       "type": 0,
@@ -401,6 +443,7 @@
     "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
     "ext": { }
   }, 
+
   {
       "name": "💔🍈🐟风云秒开接口 20250820💔",
       "type": 0,
@@ -409,6 +452,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
+
  {
       "name": "🐟风云秒开营养快线 20250901💔",
       "type": 0,
@@ -438,6 +482,7 @@
         "X-FORWARDED-FOR": "127.0.0.1"
       }
     },
+
   {
     "name" : "🧑🏻‍🌾【Smt直播catvod UA:catvod.com】 20250707🧑🏻‍🌾",
     "type" : 3,
@@ -445,13 +490,15 @@
     "ua": "catvod.com",
     "ext" : {}
   },
+
  {
     "name" : " 💔🐟smt新IP免梯.txt 20250815🧑💔",
     "type" : 0,
     "url": "https://d.kstore.dev/download/12464/cxrtv/smt%E6%96%B0IP%E5%85%8D%E6%A2%AF.txt",
      "ua": "Goiptv/8.8.8",
     "ext": { }
-  },               
+  },   
+
  {
       "name" : "🧑🏻‍🌾♾️🍄IPTV研究所 Judy  MytvSuper.m3u 20250813【挂T】🧑🏻‍🌾",
       "type": 0,
@@ -462,27 +509,32 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
   {
    "name": "♾️🍄稳定榴芒8.138.7.223/51.php 20250627🍄🍄🍄💔",
    "type": "0",
    "url":"http://8.138.7.223/51.php"
  },
+
  {
    "name": "♾️🍄WEB港湾(影视专用) 20250709🍄🍄🍄💔",
    "type": "0",
    "url":"https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E5%BD%B1%E8%A7%86%E4%B8%93%E7%94%A8.txt"
  }, 
+
   {
    "name": "♾️🍄aktv 20250618🍄🍄🍄💔",
    "type": "0",
    "url":"https://aktv.space/live.m3u"
  },
+
   {
             "name": "JACKTV",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
             "epg": "https://iptv.crestekk.cn/epgphp/?ch={name}&date={date}"
         },
+
  {
       "name": "🐟💔綜合 20251002💔🐟",
       "type": 0,
@@ -490,56 +542,21 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
  {
       "name": "💔貓抓💔",
       "url": "https://live.catvod.com/tv.m3u",
       "ua": "catvod.com"
  },
- {
-      "name": "🏠5434GTV🏠",
-      "url": "http://tv543.cc/4gtv.m3u",
-      "pass": false,
-      "boot": false,
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
+
     {
       "name": "🍄STV🍄",
       "url": "https://php.946985.xyz/stv.m3u",
       "epg" : "http://iptv.52sw.top:668/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
- {
-            "name": "🍪🍄【4gtv直播 20250615】🍄💔",
-            "type": 0,
-            "ua": "Goiptv/0.0.1",
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/%E6%B8%AF%E6%BE%B34Gtv.txt"
-  },
- {
-      "name": "TV543.CC",
-      "url": "http://tv543.cc/4gtv1.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- {
-      "name": "543.CC 台灣酒店",
-      "url": "http://tv543.cc/酒店.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- {
-      "name": "SMT",
-      "url": "http://tv543.cc/smart.m3u",
-      "type": 3,
-      "ua": "Goiptv/8.8.8"
-    },
- {
-      "name": "SMT1",
-      "url": "http://tv543.cc/smt.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
   {
             "name": "新视界",
             "type": 0,
