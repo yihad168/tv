@@ -206,20 +206,25 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "台灣CAT",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tv.m3u",
+      "name": "台灣543",
+      "url": "http://iptv543.com/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
     {
-      "name": "MTVS",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt"
+      "name": "備用線路",
+      "url": "https://iptv543.com/smt1.m3u"
     },
 
     {
-      "name": "直播",
-      "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt"
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
+    },
+
+    {
+      "name": "韓團MTVS",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt"
     },
 
    {
