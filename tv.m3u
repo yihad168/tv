@@ -284,8 +284,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="JAPAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png",TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
-
+#########################################
 http://protv.fun/get.php?username=4cafe94867&password=48a12d348c&type=m3u_plus
+
+
+
+https://raw.githubusercontent.com/pkj99/demo/refs/heads/main/tv/sourceNavigation.json
 
 #########################################
          台灣數位電視台
@@ -328,6 +332,13 @@ http://74.91.26.218:82/live/pts.m3u8
 http://74.91.26.218:82/live/ptsty.m3u8
 #EXTINF:-1 group-title="台灣",小公視
 http://74.91.26.218:82/live/ptsse.m3u8
+
+
+#EXTINF:-1 group-title="台灣",小公視(PTS+)
+https://livecdn9.ptsplus.tv/pts-youth-B/playlist.m3u8
+#EXTINF:-1 group-title="台灣",小公視(PTS+)
+https://livecdn9.ptsplus.tv/pts-youth-B/3.m3u8
+
 
 #EXTINF:-1 group-title="台灣",TVBS新聞台
 http://74.91.26.218:82/live/tvbsxw.m3u8
@@ -4072,6 +4083,256 @@ http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/439267.ts
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SBO 3: SKY SPORTS BOX OFFICE SD" tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",SBO 3: SKY SPORTS BOX OFFICE SD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/677309.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBO 4: SKY SPORT BOX OFFICE FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",SBO 4: SKY SPORT BOX OFFICE FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/677308.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SPORTS UHD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK] SPORTS UHD #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/578002.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="|UK| SPORTS",UK - TNT SPORTS 1 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/578001.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="|UK| SPORTS",UK - TNT SPORTS 2 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/578000.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="|UK| SPORTS",UK - TNT SPORTS 3 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577999.ts
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="|UK| SPORTS",UK - TNT SPORTS ESPN UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577998.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENTS UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577997.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577996.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577995.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577994.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577993.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577992.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577991.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577990.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577989.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577988.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577987.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577985.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577984.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV UHD" tvg-logo="https://logo.protv.cc/piconsnew/premiersport.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577983.ts
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - PREMIER SPORTS 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577982.ts
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORT 2 UHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577981.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK]  SKY SPORTS FHD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK]  SKY SPORTS FHD #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577979.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577978.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577977.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577976.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577975.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577974.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577973.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577972.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577971.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577970.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577969.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577968.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="|UK| SPORTS",UK - TNT SPORTS 1 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577967.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="|UK| SPORTS",UK - TNT SPORTS 2 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577966.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="|UK| SPORTS",UK - TNT SPORTS 3 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577965.ts
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="|UK| SPORTS",UK - TNT SPORTS ESPN FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577964.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 FHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577963.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 FHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577962.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577961.ts
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - VIAPLAY SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - VIAPLAY SPORT 1 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577960.ts
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORTS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 2 FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577959.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SKY SPORTS SD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK] SKY SPORTS SD #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577948.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577947.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.protv.cc/piconsnew/skysportspremierleague.png" group-title="|UK| SPORTS",UK - SKY SPORTS PREMIER LEAGUE
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577946.ts
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577945.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577944.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577943.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577942.ts
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577941.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF" tvg-logo="https://logo.protv.cc/piconsnew/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577940.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577939.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577938.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING" tvg-logo="https://logo.protv.cc/piconsnew/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577937.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### BEIN SPORTS #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828093.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 1 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-1FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 1 EN FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828092.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 2 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-2FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 2 EN FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828091.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 3 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-3FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 3 EN FHD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828090.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 1 EN HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-1FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 1 EN HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828089.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 2 EN HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-2FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 2 EN HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828088.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 3 EN HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3HDENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 3 EN HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828087.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM1HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 PREMIUM HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828086.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM2HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 PREMIUM HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828085.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM3HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 PREMIUM HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828084.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-1HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828083.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-2HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828082.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-3HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828081.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT4.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 4 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828080.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT5.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 5 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828079.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT6.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 6 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828078.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 7 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828077.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 EN SD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-1ENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 EN SD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828076.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 EN SD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-2ENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 EN SD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828075.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 EN SD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3HDENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 EN SD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828074.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS ASIA #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### BEIN SPORTS ASIA #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828073.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-1UHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828072.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-2UHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828071.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3UHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828070.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### SUPER SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### SUPER SPORTS #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828122.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MAXIMO HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_maximo.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT MAXIMO HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828120.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT ACTION HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828119.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORTS PLAY 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_1.png" group-title="|UK| WORLD SPORTS",UK - SUPER SPORTS PLAY 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828118.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PL HD" tvg-logo="http://51.158.145.100/picons/logos/UK/SUPERSPORT-PL.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT PL HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828116.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT LIGA HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_liga.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT LIGA HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828115.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT TENNIS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/supersport_tennis.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT TENNIS HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828114.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_blitz.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT BLITZ HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828113.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PSL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_psl.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT PSL HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828112.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GOLF-TV.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT GOLF HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828111.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GRANDSTAND HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT GRANDSTAND HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828110.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MOTORSPORT HD" tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-motorsport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT MOTORSPORT HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828109.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT FOOTBALL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_football.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT FOOTBALL HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828108.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT RUGBY HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_rugby.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT RUGBY HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828107.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT CRICKET HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT CRICKET HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828106.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828105.ts
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="UK - SUPERSPORT VARIETY 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 2 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828104.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/SUPERSPORT-VARIETY-3.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 3 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828103.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/SUPERSPORT-VARIETY-4.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 4 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828102.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### UK ASTRO SPORTS #####
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828101.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORT 1 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SUPERSPORT 1 4K
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828100.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORT 2 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SUPERSPORT 2 4K
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828099.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828098.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 2 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828097.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 3 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828096.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 4 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828095.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 5 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828094.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS1.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 1
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827940.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS2.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 2
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827939.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS3.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 3
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827938.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS4.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 4
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827937.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS5.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 5
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827936.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS6.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 6
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827935.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 7
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827934.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 8" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 8
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827933.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS1.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 1
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827932.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS2.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 2
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827931.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS3.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 3
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827930.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS4.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 4
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827929.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS5.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 5
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827928.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS6.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 6
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827927.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS7.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 7
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/827926.ts
+
+
 
 
 #########################################
@@ -7449,8 +7710,76 @@ http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451484
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451485
 
 
+#########################################
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 1" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 1
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9736
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 2" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 2
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9735
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 3" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 3
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9734
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 4" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 4
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9733
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 5" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 5
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9732
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 6" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 6
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9655
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 7" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 7
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9746
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 8" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 8
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/10019
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 9" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 9
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9644
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 10" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 10
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9643
+#EXTINF:-1 tvg-id="" tvg-name="+18 Porn Mix 11" tvg-logo="" group-title="For Adults 18 +",+18 Porn Mix 11
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9642
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 12" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 12
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9641
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 13" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 13
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9640
+#EXTINF:-1 tvg-id="" tvg-name="+18  Porn Mix 14" tvg-logo="" group-title="For Adults 18 +",+18  Porn Mix 14
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9639
+#EXTINF:-1 tvg-id="" tvg-name="+18  Porn Mix 15" tvg-logo="" group-title="For Adults 18 +",+18  Porn Mix 15
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9638
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 1 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 1 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9647
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 2 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 2 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9648
+#EXTINF:-1 tvg-id="" tvg-name="18+ Premium 3 HD" tvg-logo="" group-title="For Adults 18 +",18+ Premium 3 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9649
+#EXTINF:-1 tvg-id="" tvg-name="18+ Premium 4 HD" tvg-logo="" group-title="For Adults 18 +",18+ Premium 4 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9650
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 5 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 5 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9651
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 6 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 6 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9652
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 7 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 7 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9653
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 17" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 17
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9738
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 16" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 16
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9740
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 18" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 18
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9739
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 23" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 23
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9741
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 19" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 19
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9742
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 20" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 20
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9743
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 21" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 21
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9744
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 22" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 22
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9745
+
+
+
 
 #########################################
+
 
 
 
@@ -18182,7 +18511,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUMtgGwI_hSdfsfq3gs_KZsL8JsWRB48DKG4S_KEUTZxbV7YF_1GEPQIM0BlRibQCppGrdHPFBslhgIKN7pjoFM_LmN-f9yZL9XCCKGm02xnxpiUHVq6CT9F7wx6mpT5mVnXTQSRCuiqtxvK1lY6uIFT4zepMhUYCXJPKFfxkQhxVBRFChlW1h1lVfqhZCQ01OKwWDCQEzT7GDTeeG8JYZPg.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",爱奇艺HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXEDUXNSjBZf661tPTuj8ZXtMNcSsi0K8oE95GfBqnf9hoHNVZ6JTFv0_epi8iahHZt0L0ZJh0d98fmv5pnALK8kC5q1naDa1VXL1oVDAUJcaeW7QyA5TqfPfD8W0yd80O3Uq8j5lM0Pff9nNbGxRWvxIWPo-k-Cs8rzebeIz85rCK4_knOFdaHwdQqt6NgWjQoz-oAXe9Voe_cqUxoY9mA.m3u8?u=1756878715
-
 #EXTINF:-1 group-title="8885",AODHD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUiDWyQiRfoKJ7v06c804QYB7MSUIACDNm04fXgga51MoT1q7H72LVczcMm4ZY4W7-7FD8_-le0n6nSm_Fm3K4WmFrHs46IppKwKfkcgjQgm7jTf2vl9SUcpxIgRdNpr4AfZ32oU9WEYuKMRX6UYjDbUzItUHV48FORgJnKloc0lw4kFajwEOBhMEy2TWRrqgUgsVQ6JokuECwwTZ_98FGWQ.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",SPOTHD
@@ -18265,7 +18593,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUATjDuC3j8G7Jt0-cLCJUV4OSP3dpt-M-fgeYHWYe8YxxvSgrtPid9ztLOuXuRlUIgZMsWa90MBSKsJVkhS8448sj72qNninPZK2Kzc-CViEBnwNo25r7UrxxCPugpAGHGbU5Y0fmTA-03BcNu2bJ8Sw4n5S7vi5n9n9KjixyZmXFSAyAS7n_ZfP1BuxgjihYFJUqamSZpM-Zy3XP32f7xQ.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",SUNEWSHD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUbfvaaLTSOqBE-WFwY4Rz64RHaQUltAQzvVPGCVpYUA6Sy6RQfREfww5LSOnjRSldkMdbjrWa-IcQNijGgrSZNuL6VZQFILp-2NQ5piBPyOnwhQVHaD-oylbYNJ1AXZuS0B7FvOHddxSkcw1uNrAT1Q_ZoyY61RKOy6kZ4WUV2g2X2mVrDOKxU5nKyUrrclXF9z6cxpKG1gZ5N0_sUMhz_w.m3u8?u=1756878715
-
 #EXTINF:-1 group-title="8885",CH-5HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUCR7-liXelC3Ys6o7xqrtgqmyXcXnrP6H4y71OWc1LIyiO_G0G3JZ7Lw69ApJWikTMHIRJtOcyAkjbISgCek572wTbqlClpWSZ5Rt13sgOWyM4H0_ZEciPFoo9zdDCylisJa6VHKL9keQqVW8JDRDwBXrxlpbZknsdfPLeyeOqngd-Uy6hA4U4hXFDeMSSGLWi4BeMGHRcRxd2-Y6LI85_Q.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",CH-8HD
@@ -18458,96 +18785,12 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 group-title="8885",万秀猪王
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUhctQdvsofJefkP7jTBrD1faWhgMYPMQXwS5aaBug-nqr9t3DykJE2Oyx57GcZwonyLbPDHqAvvrHtrrQPObHUgOEOCDuS6dH8fUYZ4neH2v0jyJIYtBp3hb1DW__SJV4iS4yM8_W8E9XMaPzzCOYZxuBgw8DfgAjTKgmwiYs8jqnAIBmGu95ekNBUPGicJ30Ifx9FYYrDVb132GwNEIgqQ.m3u8?u=1756878715
 
-#EXTINF:-1 group-title="8885",BernamaNewsHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUj_7Jy2VOhT0RVmPC-kEFuTtBeCfVeb2413-H4pKbWY4l5RoVEaR8ZkjPVOOjl2if2xlhlWZgLBwq3kMiB5hEbO44Ch4k9gH-kNFRF0qwQ3e3YYxYfgQD_DpkCDodoBdlDa-2_kOfznooNBRM0XL4OlJMQ7wr7sF1PiXqx3dkq2_pGiayCGnjwLuvFqNmogU2Mcv8c-xozjh3oXHUnmMnSw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",TALHIJRAHHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-Pq1qG8WEZ3b9lCDobG3sXAzmFZv96a2mfBjvMyPBbujBEiHfmk0O2mMJoSaYKisqgEALyqFa3LzAHUTGqdI-SOldX573ay3S-VrgEu4OsuDm3sCSllT8MHn4-Flac6JYA3KhPXEXXro-_aFPyP3jq0d1wR3D63b6w5nlpGIooTnvgJs4RW3FiJohbikqwChp9E-2EogSkHzyYmCm_tIEg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",DIDIKTHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUv4QResu2HZ6nw5fvP20kWpiHR6zwnwZIKA96lmN-hWrMJw4RaW-6aGs40SR0pO91lQHKzsJEag7j_C8JVHowbiIiSdLXPPqhbQIT6f1tTJOCghJh5eEfstr9ZlxwFyDUYlDtcxMqb9Q4W9cuxI_9bmRbXnR7SoAz5p0EtbNZ3eTR_r4SIIV-Q-zXJbDF-ZYQHLm0ZgQqW_6rPn0F2_DARA.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",8THD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXgBayV2BNU-Rh716ys796kilYQCoL5siZYVibxDrrurachFelDZNMw170L-YhVFRaaTs5n_UqLIVuzf1-41CVuJGe2DNn2TS7fKpp74r4PZvrfBuCvUExLXSVv4ibJuF46yxMTHnA-YKO2N3iu40DQgdLqj_V7KfvPCx5ZJLf64Oq247xvPRDPOE4_F0jukdO1kkqf3SmGakuH9DB4Z0hQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",TV9HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWd64T-nhX7rWpM-WMdYvDmxb2PGZF7Qh6cQyNJ6SfR2sHvbhR3h4wfxt9FhgN9NF6JyN5B5uWZZW5uHEG6aVhP2y_9HVzFQ--G2Tav-qci0gvKxBre2vZdkpU_4r5Hcv7IMR4sf04VpprgdyWKozFJA3FRQO0XhUS0nZHBqbtWpfKVnVx5PsD4dKgqmJUTzAz0qd0VAatnRzamWi1IqHvw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",OkeyHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iULv2-SU0IUqdQsP28zfbMd0l1mKQGlNDPKN3h8fxJlo2E3-TDoKw2SwK2ARUpsJqe0LRs5_Vy1kwZ4Dym6j2GA6v0DYWJeFAwiU55MQtLOeiSimuaaR5wHolQIgZ4b-5dhBe-fWYLHR6zTAHxoxBoE4ipamarO15i9BScxIX2el-RZpq0eP4AqR_civPlca9vJAg2ht8SLOUu96cOcJLz_w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",AWANHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iURKwVhj4jcgLsmn8W8GimyvlqKSG2HMK8tHeZjCyZWnkmhnaiGBjTGop5WUekCQdwnVtmmRshNZaJcKglu84fSbemFRbYTSLF9jaGiWOtIRmGv59InWKTrTS_yltwWBh0jOLBxXQ8lLbfuK_Pp34cSugDdY4YE-kul6_kPnndlnZhoo4DWrIS8Sf5NcOaFdVp4NfW69CCXNMMYIYeiImbCA.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",RIAHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUKv84sIFj-Nuzt1S63cCV9QxPOSOpYJ-YgK0YHYccYL8TyfitqcuAZodaCm_6CbbiAFGAhOlyGL-Hhblh1lo2LlFIo_j9KSAJk-yThY9NZBKwHR8XPuZQtuU0sEgas46W9-tmeB-fInjQxTHfhF-d-gwDZU69VB_u-27A5U5h1T8mygmv8ImXp9lgmO5mjZY2BsanpHozPvt7NLONNOtHOw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",CITRAHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmk83rUmLGkO7_-jfVoNGukUfYdfo-ZzpKW9w8bjPi8pAYLmVvBGclxwlZ0WH4zaiuT6BcjGwPoKXifYT6bQOTk2MoGxALwfa4kWxx-T64EbNdcQEZy_3NCsHPLZ4LiulUGEharLAxhtH2Wuy6aSFE1EAhjecVnMc9o8T46eCZVH6plVNlAfmSZQEVqalQjz8yYVfiwn9AD_2KiWL1b7lbg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",PRIMAHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUiLJaAjN22ULkvuq5itnVl4CpuIKynsgJu5cx_CneLhYvrXhQXBlSe2PZig13odOw1IMangntdn9a8i4bDuw7AkQtl3Qpnk1kPsJ3VcpByIlsE7SMRbgYDFxOqyhAGwvn7j9YtocCmTmLm7UbKOJC-gXL7ldYIM_G9qH_rERTRcDmtleUBXXeDjSN-Cwu7BGMnXeV7EAneqdxHgnM5usxFw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",AURAHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyBkumBfyLT55i5a9jxXB7cCWUrbgglOZMzgooFlA2KB3a2WBXudUu34m7kbMvQH8xRg0WNXqZO4UlNkY79KJFDJwTy_4m9scdGPxLlmg17rimkhKBoGDlQ44LlQFVZ_DbKycWzFrd0k4AmrxfqFF_KnmsXECSAMGsTXSf3Wv-AU4FoUihBg3LAVA6uZtFpt1vB1qVXCiEvfZQD9WwOnvIw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",RANIAHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUpRS9hHVFZhlq8gyjJnGwKrG7-0e_GJFBDqXgn2HTUiVCpflsDSAkCJwEJAxZLrOfunCirVQpxyua6p5g8w6O6KUR-v_E__DhntqLCTzbBHEzms_4yfY08vFD4RENjfeXFq3CJFS2hQUDnujRvz-srypL0SOLR0H3m2J1EG9kvy-MKR19fFb8DbudUZZWdO35G_j7wDcW6VSecNCwv2Ge0A.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",OASISHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXH6hGt_UXsJf85vNP091qvxgYugKOXl8yzyEdDFwrLMOhDj3p9cgW_inKlYI84kMlqiVmCb17pbOaVeBSSB1zAjL-tZ4PK1xpLYNqPvmFJy0_bOcFvHzrz0Q74BFilvYG7bNlNeFGwrgnMGoS2KE3Gz4IgEWqr8dw-Sy3hW_ooevqjL1V9le7GGnDrrzhCmjXJmfUjdQsHgl6lGiF0D1iw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",astroPremierLeague
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU5HGLDf5H6ibAFPug17n0bLQ9lRexxM2mhv74l8HFFyghM_alIDJBjMQgw0vFQyMey4GwcSZ3jMjKP709Wa5N0Rzh1RWgn172zFbcGg28U047kkd_sCvCcfX3qNZnZ6TOeldQBpOw1AN4NyM2PGY4-FbGATSs3dZ9l_7WwG82RIu5uchn42C76QNPh88RJTuVGWidOU_bN2qsBGDaqlNrpJT7hqsigKND-yKjsKgC7k8.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",astroPremierLeagu2
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUnVjd4bcplRBCMvOC_GyGKCNTmXSHa6BNZdySB980bDtBpGkkFttidufZDhihsLZrINpxqZ_98SrKLVgH-8-S0YkLcZrjd5Bi57Juy8tXkWfXxeKNpeVN4Qe5_kV2ox6Spuozh2nAvT0wxDNlfs7k7ov0kVRkDAMOuF7Qfq2DFyr2TfucV_bFlBi5u0XzL4EMhEWagFY5pHqJTx7Eav6qh6a7dOqAbwiOnTI8QpfqK-g.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",astroGrandstand
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUlqHBs6b7rivJHgU8EOYhOwvoOSbosSGjO-OBl-o8DRvscguycZVOMBKkHGceffhCrL0aLR7GyuVnK8eBfzII-FzuO4BWcZFAIaeogfXx0Uwo6UB3pM_x3eBROOQQQSZEwthAYFV8jVm5_MRoIij4_Vft9EkAgvetDGEvxImmQ-X1_Y9fGcx5Z2m2I_nVcxOIeBX2q3JD5x0OpPBar6eCLg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",astroBadminton
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUzXdnBpDYgCuRvFYR4ABJ5Dx7ph_vlEkp2NILAZGiBeCaFSHcfLf39MHOTqhq2ppM_wHiaoD-VKLAFsI-JCpoV6wqgVxLxoD_2ojf1h-JqhQ2z_T9PSer6BBLvqGg9Xb_YxAQK6LZC1xUswfNojA9spVfh8M3NFowSwDE6qas1nsdq--xqb3lkTQKk62IuteY_kyHKYB7hCChyinEaxyLng.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",astroFootball
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUzNACA2cTTCJ8jHs7S0f7BY8vHn4voq1UkdbBa4nq0Q9FSi4lRnlN72P_ps5mrJHoIW27i5wC-kx90tch9_L1KJJMkvy8prIEn4AscwOhDoCZ-Zua-pYhTpIitx47zxjk9E6x9BxF9YlHA_r1LXYZa0DovjGhltudHcmKQJoujzGOc4Ia-RFybDo5txJxqdMg5PZxx9gl7PLiYT_OK5lU0w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",astroSportsPlus
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUNFJAisIl3fm0VCwYuljk_NrVqn1b5AqccTUVmP1UYKj_I_WwkTb7ra6RPEi4zokJm5Ka-1A44aHPn0HTe2bmuoGallAFYiV_oJ3EnN9jclsdzykTywVjyj7PCNd7xF_OnLc_K8NzvS3I5ZmzpEc_4QA-NtjwWgf21bPe3C9spriHfyDvP35wTI7f4t9PTr51FM0ZmyFRMrIosKKk62WVWQ.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",W-sporHD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU0IbAIs_UzmCdo6qdMrKADpMlvkq8dvvCi4HnAkj-xZMyba0usMt7dJ3qLknN8kTO030UuWgU8iB62VMtTyV5_V4MECCvbiTTNJejXfU_luzmeov5ElIoW66B_ZqWfDL8qyybJVui2JutazGNd-nP_gtw4m66KQ3rnmmSxJuhYdNgOxCkrMhlG9OOxik-DpWdMcPYaNTM31V40PpKaAEK-w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",W-sporHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU0IbAIs_UzmCdo6qdMrKADpMlvkq8dvvCi4HnAkj-xZMyba0usMt7dJ3qLknN8kTO030UuWgU8iB62VMtTyV5_V4MECCvbiTTNJejXfU_luzmeov5ElIoW66B_ZqWfDL8qyybJVui2JutazGNd-nP_gtw4m66KQ3rnmmSxJuhYdNgOxCkrMhlG9OOxik-DpWdMcPYaNTM31V40PpKaAEK-w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",ARENAHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgQSkadDmyTtJyXi6LG9frcKKRjn4QdSWP8OiicE2JZDgT5i9RmhanuWjHrR_vPjFABNkrHeRgUMhDgvRy0z-tWTmRRRjkmuy4IILo30yIW1dssjjRi5q6BzgWinC6QfW3Y6WQULU95T3zQTKt84xew3mXx0jFHfRnJprWCPq2GGvdb2pSfnzk3152_jI7GBE0OHxNgFfo8JnuegMXOJDA.m3u8?u=1756878715
+
 #EXTINF:-1 group-title="8885",ARENA2HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEGO6b8kyVAwFqkdebDnwrO4sqI26E8SoU2AgjoTI2IKoDFDIp3L3-VznYBq34mMDHIYMQas4wKOEeYRlI5vjhetMft8PrqW6rv8HsUtc2Fo23I4gouagHJm64mk6KtOs4nkN1EKnGfKihduWNTo0qHrLJzoresAuR8XnPp32P7MoDg6TjHs7XE_pTp2UsxvFYpXWzcjzYgaXBuNp43UpPQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",ArenaBolaHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaVnzVc2Rc-TEwJ5bveJnTcqv_cUbwpTJbfgXpr3cL_ZDcMoLyh0vs3NxN_kUV94igIewyhgYGCpVYzNlsBu2znt4dFm5XaxJrSDNiB8M1oSJ_Y0tU69KuJyJtIPQzzh1wksyvk0QR4DxOaGauu0pH9cxQUe4MN1i5aBwPkR8GMKQz0gbx9Q9pRH__ezHzBCXyos-Z-VGyiWjPRN-Wf9Mew.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",ArenaBola2HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-pZnh7qy_Zr_KF6-8MGM888bwbHpRaST2zkrgPn_kWoG2dwvlBC9DkRMeuf9bj5g0XVk534mzLQ_GJyygK6Rx4PvcrbPrs-lGK8hZ26GV9VBpP3k7Pnn3XJ6aJ7wYUw1qxGLjBecGv_wTNk0ZaU3J8WeW8IPssipHPaq4Ccnn6mwE6oG-ZEhkRBqFSpQw8BKDuJYP0QFFapH8bwxNrXvUQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",beISports1HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUlZyB59AVI7Cz3nJsQ_KMMgWGm12WLT-_eBjC3O1MwxkaW1-Sr5_yqYswYUDynZc6q4UFLpYI76TYcfbLwT6dY34Piyh85NbUqUWeQTTRQ0CZaQ7k3SJfrusPNKGQsmRx4egvk-nQQXpbe7JW0ceg_4xDpVyELpTM8-7FEg1nq4iARNsA6fLo7mwUZoYzgOVeCA-TxoHZuIy0wJk9MoiYsA.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",beISports2HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUlP_Xv6Q-n2vFunBGbIpwIAHGZuZd2VEmlY9qcAUXkoqatWRevrFshvhQoS7i0b0UeWxMaFLG0FY52-kugg44UxKucllbSHwynZJc2euau1unRVk-MK_ozstZDYZwpiancfUyTHiliUKviz7SJdM2Dgvykoy6Klvumg3DCxxSF6iiZEJO81t0k-Kd3xWmJwJpobEse9C5wSuvziiNkv2w9g.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",beISports3HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdFcidhOhwaktCIaAjxdXB28FOyJxXQQneaqE5ZzV0V0_nerr3THVmjmRDKDI12QsQrHN7Q_9mgALab7izfyPYSVCw7XsNPt0B1p2UgtYJUiA7wQjIbVqDjHsqPDv1Ei9u8pmaQveGC21cYvlHvS53uFDnuWfPWVUs2_uj_rAoKHc6kU6NxurIoy754_OnND6n938DZBVVt5bUE6FvBYL6w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",PREMIERSPORTSHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUymbPEKQQPXh7jHUmDbOEc6Px8QTyILyUAROjE5oFetoeJ44QtrLjE3gl9w5BaZAjWO2wfXOZbMukvhGNMvN1mproVDwSMCZPIs0n_UTnaHQ5ExxQ9nIdvdr_gr7qxWUbDot07riQ36m_9rnxFcZjpVihYwudUm-KzleL6h0Zf3PfYBCOWvwx1SOdHXYsbQQJ3SKyMu1DNFuSB2gAa3cDlg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",EurosporHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU31OQOoeLuHHAB_Go3mxOYpQZRSCMpjPQ3bLVehgA014RqRl_R3SOyHsviaOKKOO2-vx5d1pXXTTGgcAqFn6_CVXItarLWE_wfmptGd6KfGMrCnY7iiGXaB2QPvN72h9dzsdVirCQ6mpe9m0o7yG1xe7NXV8BcmKNCgDFcyLlfNw7hX-JGhZo1sORCT4tSgduwo1tZg4ngzVqtmuEbwcMnw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",GOLFHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU9lo3H4RIHe5cNtvXG0Ni8vNganvc9bK1zaseCmMQwl3e1KrCdY-yq7e8kpGGg1pNL_6yys6-VAVA76qzPKGpeccVXT4KkVQ9aUUZ5YVjvmdYAczfot5sZF6BitnXAwv24mJgPuo5Pa-MBJg-K8RWQhNlLzDSS1ksVCHyztKh3ZxM4yNyB3jzp2joGnrixg0QFwaB2s6WFn43KOaHMTqZ6w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",AECHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUMtgGwI_hSdfsfq3gs_KZsL8JsWRB48DKG4S_KEUTZxbV7YF_1GEPQIM0BlRibQCppGrdHPFBslhgIKN7pjoFM_LmN-f9yZL9XCCKGm02xnxpiUHVq6CT9F7wx6mpT5mVnXTQSRCuiqtxvK1lY6uIFT4zepMhUYCXJPKFfxkQhxVBRFChlW1h1lVfqhZCQ01OKwWDCQEzT7GDTeeG8JYZPg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",爱奇艺HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUXEDUXNSjBZf661tPTuj8ZXtMNcSsi0K8oE95GfBqnf9hoHNVZ6JTFv0_epi8iahHZt0L0ZJh0d98fmv5pnALK8kC5q1naDa1VXL1oVDAUJcaeW7QyA5TqfPfD8W0yd80O3Uq8j5lM0Pff9nNbGxRWvxIWPo-k-Cs8rzebeIz85rCK4_knOFdaHwdQqt6NgWjQoz-oAXe9Voe_cqUxoY9mA.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",AODHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUiDWyQiRfoKJ7v06c804QYB7MSUIACDNm04fXgga51MoT1q7H72LVczcMm4ZY4W7-7FD8_-le0n6nSm_Fm3K4WmFrHs46IppKwKfkcgjQgm7jTf2vl9SUcpxIgRdNpr4AfZ32oU9WEYuKMRX6UYjDbUzItUHV48FORgJnKloc0lw4kFajwEOBhMEy2TWRrqgUgsVQ6JokuECwwTZ_98FGWQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",SPOTHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGxoSruXH75YYPz5xgwglSXMKpXc5ugdAnJIv0RSra8AzywcYuk8zwy7NtpLcQ3LYU8UKPI1he2FKX2keoVcufNlBZT2XvDX_i-u9Yuz4yZoKEnlCbua9LN7ob_nFUuxr3GrdA5PzHnhoAku5lH3lkL3uSzJBwzbzuzM67X4DSneW0at22IaDRZqGw4AESVB_puK2ZXcxrJuUiU3T4wk8Bw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",SPOT2HD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGxoSruXH75YYPz5xgwglSaOw3qBD_tFabu6v6CrBIBBlGPikNBIHiUYtiXxL8JEFa_nvL0NDU3bt36XlIhmM7AW4pznIcClA1IyPz5dQWuOBpYTvvTxLMvahMlQAEwoKgoeZHJzxrQDP2ewkxn1Fo5XsC121shCnUDxGinwkRCdcmOoIhkBHGqKIBpwICdZUSuopxdCXMbERbPCOxXV5mQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",AXHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUwhfJY_tp0WgwC0N_7iuYcEZOwG54QLCzbJs2DmsUOOxHqvsJVfhm1GmgefMh4WJL29iW75pZC9FsPlLNgSZg3-whxPxoCFKAWplrP3bMeKIZe6CH1K0PLaxtJxkvpYlBnV17ErZnap6iuDmbu4eplheOyrgj4_87FSQmEryKvwB9cFpjqFhJQbplkHb_HnFGuW5nmF4SpySF_ztVm3IXMQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",CINEMAXHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUVLD2kZeFRWdrwQ4wcJfEF71EFvumjLWi0OOU3oVj6OGZn2pbpZ3zhoTjZc8jHuyjT4_cSHzGIObFy6LUrp5VDUHIFojERSn7os1bj7QgZpro2TrmYB3zqheFCV8FMCmxcDFKphudPmdNuhp1ocpx-H4fPoIs8VXaics3OO-KLrqSDuGOxBZM7pQlxu2JC_01JVaqkrByZcGpJn4uSblK0w.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",tvHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUSgGrmZUbZxYcwovwUvaOdwZ8Oqx5MGYttxfueO78c3G3Zucobbv2jcfPPE09nj_CGskJi7hhCDtuO4656tGwoB-3jPhhJ-qEdfS4b5qPkfhN0luCmPcLTnfAcrpc1cDZ37kvD2cMmIHH6RwmbqR4Sy2JJVepifuvtjd39KwJjaG7JIEVzwMNxLqZ0ZkqSlPtCIdWqbouhf4KhONRzLZ8dQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",tvMoviesHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUDyXdwMMIFwjgBf6LwenrdMHM2qtIIxtS8NxDg3x13zo_OGwGKng8cZhexN1ftVRorJKlVNHz_pAfnep0S8A-FX-dxifJJyfJPx2kO1zUOmMNXsJoBxCuEsnea_obLC9GsqRNQm03f7Yba7ePqoLXcMO4NFcAvPkZ2Em8E0y7m4mEDVdR5vm9cvbUGCloTF7wmzI_1ayPE8IPe1nBQO81Lg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",BBCearthHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU3uOznvwt4M21T0Ial5n1hLVfVYaT6a5NUp_gnBJlNVALO5NPN76XNPOXfuvgi0SBaOOooZZM3pLbiB2VvYFbfr5oW5xOj2hMqSMT9jPBVGP6sirHc5w8sWFwRcciBbF3IWmswcmXcNGuIyHKpAIdb-O39tzVkJYQ_awZH-UsPSLJZ4znB0y_vhYhlTljk0rCddlCCyxSi33gu2cj9IhHKQ.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",BBCLifestylHD(C)
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUBFM34L_78cz6BUfxUFE_XnSPtDGgi_Cxgo9I75k2XilH2iCmHH5_6WSeNNVrLm2C3Da4R0Lhzo-Ypccd_VFUp6NgIaslqWuLUMHMQOJBgxMK9KVSghBxedxvdcq1vALvwkbrcwDe9OYOnPrFyDXW7v3SqdChwUTbVW3_eqC8QQyysa89TxUeJjQeS7hbTKwhH1ApbyCmvj9VgUPYqKjR4E2McsOdWcoLfjDvKoEzGl8.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",HGTHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUjt2HaOU_WojVzI_o4Oysn0_cqwIaZRFjrokLxE2fu1sIUnInshcmy4mkbPU5aZR-CX5Um3lcVwwfvwg3JIyh-L5q9OR-JvHe7aTamaATNDelRsy5LjfomZVC0eGIfiNuqncto0-T0pN1S1U1MBqw0IQfuDUOBPbFlIn2fOhydoezM3MHtb7ZljmWWWBsGzZBWXyL0EAl3qi4QQmrg55tQw.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",Lifetime
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUxmN4hVPysTem9cOXSX63KMixOcSt6gKWeDiFsyUbEzA1IA2flHt9sSoTJRcXZD9AfQQnvoucywyvPAwANcDuEV_mXsIl8Mr1ugQL7kU389wTxJ91GuBjsEuxDxh35GaUbvnrF8HzvvTht1Hv_iP9VSazFnIrNZIlZitzXLaIkV6xo29XQYgQc0TM--UIJ-ZITOYZTWRm8mlCYp01hUX-kg.m3u8?u=1756878715
-#EXTINF:-1 group-title="8885",TLCHD
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUpmu0_FxtJjtcAXP5vKFOgUT7GxLK0wYBYPnklxTTp3Pz1HEnTlWve_Cq_kuKdB-GFJZmz84uUw5Buifdxe5SKwNE6_jwonI7ubWabwLjHcv_w5De5D4IlHG61L25ufHmGcexCicUWuXu8uNJYvCICMmSJ__BKep0xVgTC7d_SFjS4zH22AdN2ksMFOmaNrtqRDgQVAud_wU3coBe8am7Ag.m3u8?u=1756878715
+
 #EXTINF:-1 group-title="8885",FoodNetworkHD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUZkVeoPznYM_OnRU3r2tVlcgGiJpQBd7bSAaVNsVFB9cktXcKVQjLruWVvdkNg4H4KJm_m6T3G1mBPatpbzDG-aXVcuE_0UPdZVgPhXYVbaMa52xyOj2NyKXkTrO6sPc3nHT40cU-TcWcCDHC7cvFBWp8zdjPSHqDrOxxnYFzikB8gvdVdeYCMdvfpabDknrHezTRKIwTsVzmc6hu9m-8dg.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",AFHD
@@ -18699,5 +18942,244 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUMlVFwgKPJolUfLz83I6u33C-EZWfso2O1zPIVirs8iB7TGHwt9Kf__yl2J0wrRQXTKZLYwLq7y9YRf_4dcbG7kh0fzffGvD5eSnzJ-5gTHO5gddvhXiA0fA8MBLCQD--mM8ithI_zWWH7nTVhv3jiVecPEyOK7C9B7F1hAP-arS47Js9Z52e_FWIvSaFNbD3p-_fE-fl4MgLSUR_R1_k1g.m3u8?u=1756878715
 #EXTINF:-1 group-title="8885",CCTV-6HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUoxGriZAMA4X2pfVvcb-VI6jRrHYIK0WhhVnfZssGFvBiN1mgBPEgxXsgt5ThgKs1hHv7gLkHS3trNL7XTZUKThp63Tj3OkgzvI8Pq2PLs1wN6uGDok10s31ShnzAn6eOwyHC5m1PpoZ_-WKO-jFFDybC_m5wTJ8FITCORjlB1SlJPRPfFiA7p92Lb9DOykgj2_kVLS0dUdUzlW78XFNwJQ.m3u8?u=1756878715
+
+
+
+
+
+
+#EXTINF:-1 group-title="8787",AMC電影台
+http://211.23.125.95:50007/4gtv-4gtv017/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",ELTA生活旅遊
+http://211.23.125.95:50007/4gtv-live120/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",FUN4K探索娛樂
+http://211.23.125.95:50007/4gtv-live011/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",MTVLive
+http://211.23.125.95:50007/4gtv-live025/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS歡樂台
+http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS歡樂台
+http://211.23.125.95:50007/li-4gtv-4gtv068/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS精采台
+http://211.23.125.95:50007/4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS精采台
+http://211.23.125.95:50007/li-4gtv-4gtv067/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS台劇台
+http://211.23.125.95:50007/4gtv-live088/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS新聞台
+http://211.23.125.95:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS綜藝台
+http://211.23.125.95:50007/4gtv-live087/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS
+http://211.23.125.95:50007/4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",TVBS
+http://211.23.125.95:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",八大精彩
+http://211.23.125.95:50007/4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",八大精彩
+http://211.23.125.95:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",八大綜藝
+http://211.23.125.95:50007/4gtv-4gtv039/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",半島新聞台
+http://211.23.125.95:50007/li-litv-ftv10/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",半島新聞台
+http://211.23.125.95:50007/litv-ftv10/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",采昌影劇
+http://211.23.125.95:50007/4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",采昌影劇
+http://211.23.125.95:50007/li-4gtv-4gtv049/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",大愛二台
+http://211.23.125.95:50007/4gtv-live106/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",東森財經新聞
+http://211.23.125.95:50007/li-4gtv-4gtv153/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",東森新聞
+http://211.23.125.95:50007/4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",東森新聞
+http://211.23.125.95:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",公視戲劇
+http://211.23.125.95:50007/4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",公視戲劇
+http://211.23.125.95:50007/li-4gtv-4gtv042/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",華視
+http://211.23.125.95:50007/4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",華視
+http://211.23.125.95:50007/li-4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",華視
+http://211.23.125.95:50007/of-4gtv-4gtv041/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",華視新聞台
+http://211.23.125.95:50007/4gtv-4gtv052/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",寰宇財經
+http://211.23.125.95:50007/li-4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",寰宇財經
+http://211.23.125.95:50007/of-4gtv-4gtv158/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",寰宇新聞
+http://211.23.125.95:50007/li-litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",寰宇新聞
+http://211.23.125.95:50007/of-litv-longturn14/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",寰宇新聞台灣台
+http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",寰宇新聞台灣台
+http://211.23.125.95:50007/li-4gtv-4gtv156/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",經典電影台
+http://211.23.125.95:50007/4gtv-live021/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",鏡電視新聞台
+http://211.23.125.95:50007/4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",鏡電視新聞台
+http://211.23.125.95:50007/li-4gtv-4gtv075/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天
+http://211.23.125.95:50007/4gtv-4gtv063/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天
+http://211.23.125.95:50007/li-4gtv-4gtv063/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天電影
+http://211.23.125.95:50007/4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天電影
+http://211.23.125.95:50007/li-4gtv-4gtv061/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天歡樂
+http://211.23.125.95:50007/4gtv-4gtv054/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天歡樂
+http://211.23.125.95:50007/li-4gtv-4gtv054/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天卡通台
+http://211.23.125.95:50007/4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天卡通台
+http://211.23.125.95:50007/li-4gtv-4gtv044/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天日本
+http://211.23.125.95:50007/4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天日本
+http://211.23.125.95:50007/li-4gtv-4gtv047/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天戲劇
+http://211.23.125.95:50007/li-4gtv-4gtv058/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天映畫
+http://211.23.125.95:50007/4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天映畫
+http://211.23.125.95:50007/li-4gtv-4gtv055/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天育樂
+http://211.23.125.95:50007/4gtv-4gtv062/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天育樂
+http://211.23.125.95:50007/li-4gtv-4gtv062/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天資訊
+http://211.23.125.95:50007/4gtv-4gtv065/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天資訊
+http://211.23.125.95:50007/li-4gtv-4gtv065/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖天綜合
+http://211.23.125.95:50007/4gtv-4gtv046/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖洋卡通
+http://211.23.125.95:50007/4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖洋卡通
+http://211.23.125.95:50007/li-4gtv-4gtv057/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",靖洋戲劇
+http://211.23.125.95:50007/4gtv-4gtv045/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華電影
+http://211.23.125.95:50007/litv-longturn03/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華經典
+http://211.23.125.95:50007/li-litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華經典
+http://211.23.125.95:50007/litv-longturn21/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華卡通
+http://211.23.125.95:50007/li-litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華卡通
+http://211.23.125.95:50007/litv-longturn01/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華偶像
+http://211.23.125.95:50007/li-litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華偶像
+http://211.23.125.95:50007/litv-longturn12/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華日韓
+http://211.23.125.95:50007/li-litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華日韓
+http://211.23.125.95:50007/litv-longturn11/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華戲劇
+http://211.23.125.95:50007/li-litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華戲劇
+http://211.23.125.95:50007/litv-longturn18/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華洋片
+http://211.23.125.95:50007/li-litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",龍華洋片
+http://211.23.125.95:50007/litv-longturn02/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視
+http://211.23.125.95:50007/4gtv-4gtv002/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視第一台
+http://211.23.125.95:50007/4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視第一台
+http://211.23.125.95:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視旅遊
+http://211.23.125.95:50007/li-litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視旅遊
+http://211.23.125.95:50007/litv-ftv07/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視台灣台
+http://211.23.125.95:50007/4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視台灣台
+http://211.23.125.95:50007/li-4gtv-4gtv001/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視新聞
+http://211.23.125.95:50007/li-litv-ftv13/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視新聞
+http://211.23.125.95:50007/litv-ftv13/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視影劇
+http://211.23.125.95:50007/li-litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視影劇
+http://211.23.125.95:50007/litv-ftv09/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視綜藝
+http://211.23.125.95:50007/4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",民視綜藝
+http://211.23.125.95:50007/li-4gtv-4gtv004/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",倪珍播新聞
+http://211.23.125.95:50007/nnews-zh/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",倪珍英語新聞
+http://211.23.125.95:50007/nnews-en/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",人間衛視
+http://211.23.125.95:50007/4gtv-live008/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",三立iNEWS
+http://211.23.125.95:50007/4gtv-live089/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",三立iNEWS
+http://211.23.125.95:50007/iNEWS/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",三立綜合合
+http://211.23.125.95:50007/4gtv-live207/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",台視新聞台
+http://211.23.125.95:50007/li-4gtv-4gtv051/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",臺灣戲劇台
+http://211.23.125.95:50007/li-litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",臺灣戲劇台
+http://211.23.125.95:50007/litv-longturn22/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",亞洲旅遊
+http://211.23.125.95:50007/4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",亞洲旅遊
+http://211.23.125.95:50007/li-4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",亞洲旅遊
+http://211.23.125.95:50007/of-4gtv-4gtv076/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",影迷數位電影台
+http://211.23.125.95:50007/4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",影迷數位電影台
+http://211.23.125.95:50007/li-4gtv-4gtv011/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",影迷數位紀實台
+http://211.23.125.95:50007/li-litv-ftv15/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",影迷數位紀實台
+http://211.23.125.95:50007/litv-ftv15/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視
+http://211.23.125.95:50007/4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視
+http://211.23.125.95:50007/li-4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視
+http://211.23.125.95:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視菁采台
+http://211.23.125.95:50007/4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視菁采台
+http://211.23.125.95:50007/li-4gtv-4gtv064/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視經典台
+http://211.23.125.95:50007/4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視經典台
+http://211.23.125.95:50007/li-4gtv-4gtv080/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視新聞台
+http://211.23.125.95:50007/4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中視新聞台
+http://211.23.125.95:50007/of-4gtv-4gtv074/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中天新聞台
+http://211.23.125.95:50007/4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中天新聞台
+http://211.23.125.95:50007/li-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中天新聞台
+http://211.23.125.95:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 group-title="8787",中天亞洲台
+http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
+
+
+
 
 
