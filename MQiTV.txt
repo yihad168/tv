@@ -99,6 +99,15 @@
 
     },
 
+  {
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://59.125.210.231:4433",
+      "jar":"https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/chvyo2.txt",
+      "timeout": 30,
+      "playerType": 1
+        },
 
        {
             "name": "🦄地方直播 TG:@usfgrjk",
