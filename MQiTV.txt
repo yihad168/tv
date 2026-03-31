@@ -443,6 +443,34 @@
       "url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u"
     },
 
+
+
+
+        {
+            "name": "🔞全部纯福利🔞",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/mmhy.zzong6599.workers.dev"
+        },
+
+        {
+            "name": "🔞直播🔞",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/live.js",
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "🔞xwll18🔞",
+      "url": "https://github.com/123linyao123/apptest123/raw/refs/heads/main/xwll18.m3u"
+    },
+
+    {
+      "name": "🔞18+18+18+🔞",
+      "url": "https://github.com/123linyao123/apptest123/raw/refs/heads/main/adult/18.m3u"
+    },
+
     {
       "name": "🔞ZBSS1🔞",
       "url": "https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/ZBSS1.txt"
