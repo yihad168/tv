@@ -82,6 +82,14 @@
     }
   },
 
+    {
+      "name": "♻️TVonlive",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
   {
       "name": "🐅易发TV",
