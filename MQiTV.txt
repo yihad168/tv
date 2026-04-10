@@ -1149,6 +1149,10 @@
       "type": 1
    },
 
+ {"name": "🚓华哥TV","type":0,"url":"http://tv.anbox.ip-ddns.com/live12","playerType":1},
+ {"name": "🚓港澳TV","type":0,"url":"http://tv.anbox.ip-ddns.com/live19","playerType":1},
+ {"name": "🚓港澳MYTV","type":0,"url":"http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt","playerType":1},
+
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
  {"name": "💔传说061899.xyz直播","type": 0,"url": "https://wds.ecsxs.com/230580.json","playerType":1},
