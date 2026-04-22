@@ -92,6 +92,12 @@
       "url": "https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt"
     },
 
+        {
+            "name": "CATVOD",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
     {
       "name": "cat",
