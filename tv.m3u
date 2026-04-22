@@ -957,6 +957,26 @@ https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="HBO" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="台灣", HBO
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247927.ts
+
+#EXTINF:-1 tvg-id="HBO Family" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="台灣",HBO Family
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247980.ts
+
+#EXTINF:-1 tvg-id="HBOHits" x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp" group-title="台灣", HBO Hits
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247981.ts
+
+#EXTINF:-1 x-tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="台灣",HBO Signature
+http:/goldenpro.xyz:80/live/194679431759017/8173373055/1247982.ts
+
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.indo.xml" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png" group-title="台灣", CINEMAX
+http://goldenpro.xyz:80/live/194679431759017/8173373055/1247962.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華電影.png" group-title="台灣",龍華電影台
 http://cdn8.veryfast.filegear-sg.me/163189/lhdy
 #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華經典.png" group-title="台灣",龍華經典台
@@ -3559,256 +3579,6 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #########################################
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SBO 3: SKY SPORTS BOX OFFICE SD" tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",SBO 3: SKY SPORTS BOX OFFICE SD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/677309.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBO 4: SKY SPORT BOX OFFICE FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",SBO 4: SKY SPORT BOX OFFICE FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/677308.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SPORTS UHD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK] SPORTS UHD #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/578002.ts
-#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="|UK| SPORTS",UK - TNT SPORTS 1 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/578001.ts
-#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="|UK| SPORTS",UK - TNT SPORTS 2 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/578000.ts
-#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="|UK| SPORTS",UK - TNT SPORTS 3 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577999.ts
-#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="|UK| SPORTS",UK - TNT SPORTS ESPN UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577998.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENTS UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577997.ts
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577996.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577995.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577994.ts
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577993.ts
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577992.ts
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577991.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS UHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577990.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577989.ts
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577988.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577987.ts
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577985.ts
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 UHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577984.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV UHD" tvg-logo="https://logo.protv.cc/piconsnew/premiersport.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577983.ts
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - PREMIER SPORTS 1 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577982.ts
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORT 2 UHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577981.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### [UK]  SKY SPORTS FHD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK]  SKY SPORTS FHD #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577979.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577978.ts
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportspl.png" group-title="|UK| SPORTS",UK - SKY SPORTS PL FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577977.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577976.ts
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577975.ts
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577974.ts
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577973.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577972.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577971.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577970.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577969.ts
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="https://logo.protv.cc/piconsnew/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577968.ts
-#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK - TNT SPORTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-1.png" group-title="|UK| SPORTS",UK - TNT SPORTS 1 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577967.ts
-#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK - TNT SPORTS 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-2.png" group-title="|UK| SPORTS",UK - TNT SPORTS 2 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577966.ts
-#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK - TNT SPORTS 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-3.png" group-title="|UK| SPORTS",UK - TNT SPORTS 3 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577965.ts
-#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK - TNT SPORTS ESPN FHD" tvg-logo="http://51.158.145.100/picons/logos/logos/TNT-SPORTS-ESPN.png" group-title="|UK| SPORTS",UK - TNT SPORTS ESPN FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577964.ts
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 FHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport1.png" group-title="|UK| SPORTS",UK - EUROSPORT 1 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577963.ts
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 FHD" tvg-logo="https://logo.protv.cc/piconsnew/eurosport2.png" group-title="|UK| SPORTS",UK - EUROSPORT 2 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577962.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="|UK| SPORTS",UK - PREMIER SPORT LALIGA TV FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577961.ts
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK - VIAPLAY SPORT 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - VIAPLAY SPORT 1 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577960.ts
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK - PREMIER SPORTS 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/POLAND/VIAPLAY.png" group-title="|UK| SPORTS",UK - PREMIER SPORTS 2 FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577959.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SKY SPORTS SD #####" tvg-logo="http://51.158.145.100/picons/logos/logos/UK.png" group-title="|UK| SPORTS",##### [UK] SKY SPORTS SD #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577948.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="|UK| SPORTS",UK - SKY SPORTS MAIN EVENT
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577947.ts
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.protv.cc/piconsnew/skysportspremierleague.png" group-title="|UK| SPORTS",UK - SKY SPORTS PREMIER LEAGUE
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577946.ts
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="UK - SKY SPORTS NFL" tvg-logo="http://51.158.145.100/picons/logos/logos/skysportsnfl.png" group-title="|UK| SPORTS",UK - SKY SPORTS NFL
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577945.ts
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="|UK| SPORTS",UK - SKY SPORTS ARENA
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577944.ts
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET" tvg-logo="https://logo.protv.cc/piconsnew/skysportscricket.png" group-title="|UK| SPORTS",UK - SKY SPORTS CRICKET
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577943.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="|UK| SPORTS",UK - SKY SPORTS DARTS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577942.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-name="UK - SKY SPORTS FOOTBALL" tvg-logo="https://logo.protv.cc/piconsnew/skysportsfootball.png" group-title="|UK| SPORTS",UK - SKY SPORTS FOOTBALL
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577941.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF" tvg-logo="https://logo.protv.cc/piconsnew/skysportsgolf.png" group-title="|UK| SPORTS",UK - SKY SPORTS GOLF
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577940.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmix.png" group-title="|UK| SPORTS",UK - SKY SPORTS MIX
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577939.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsnews.png" group-title="|UK| SPORTS",UK - SKY SPORTS NEWS
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577938.ts
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING" tvg-logo="https://logo.protv.cc/piconsnew/skysportsracing.png" group-title="|UK| SPORTS",UK - SKY SPORTS RACING
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/577937.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### BEIN SPORTS #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828093.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 1 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-1FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 1 EN FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828092.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 2 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-2FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 2 EN FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828091.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 3 EN FHD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-3FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 3 EN FHD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828090.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 1 EN HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-1FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 1 EN HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828089.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 2 EN HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sports-2FHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 2 EN HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828088.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORT 3 EN HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3HDENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORT 3 EN HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828087.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM1HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 PREMIUM HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828086.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM2HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 PREMIUM HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828085.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/PREMIUM3HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 PREMIUM HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828084.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-1HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828083.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-2HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828082.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/bein_sport-3HD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828081.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT4.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 4 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828080.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT5.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 5 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828079.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 6 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT6.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 6 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828078.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 7 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-SPORT7.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 7 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828077.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 EN SD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-1ENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 EN SD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828076.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 EN SD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-2ENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 EN SD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828075.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 EN SD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3HDENG.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 EN SD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828074.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS ASIA #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### BEIN SPORTS ASIA #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828073.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-1UHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 1 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828072.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-2UHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 2 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828071.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3UHD.png" group-title="|UK| WORLD SPORTS",UK - BEIN SPORTS 3 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828070.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### SUPER SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### SUPER SPORTS #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828122.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MAXIMO HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_maximo.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT MAXIMO HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828120.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT ACTION HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828119.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORTS PLAY 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_1.png" group-title="|UK| WORLD SPORTS",UK - SUPER SPORTS PLAY 1 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828118.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PL HD" tvg-logo="http://51.158.145.100/picons/logos/UK/SUPERSPORT-PL.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT PL HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828116.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT LIGA HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_liga.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT LIGA HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828115.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT TENNIS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/supersport_tennis.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT TENNIS HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828114.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT BLITZ HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_blitz.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT BLITZ HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828113.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PSL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_psl.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT PSL HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828112.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF HD" tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GOLF-TV.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT GOLF HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828111.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GRANDSTAND HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT GRANDSTAND HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828110.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MOTORSPORT HD" tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-motorsport.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT MOTORSPORT HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828109.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT FOOTBALL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_football.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT FOOTBALL HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828108.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT RUGBY HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_rugby.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT RUGBY HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828107.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT CRICKET HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT CRICKET HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828106.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 1 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828105.ts
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="UK - SUPERSPORT VARIETY 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 2 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828104.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/SUPERSPORT-VARIETY-3.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 3 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828103.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/SUPERSPORT-VARIETY-4.png" group-title="|UK| WORLD SPORTS",UK - SUPERSPORT VARIETY 4 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828102.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/UK.png" group-title="|UK| WORLD SPORTS",##### UK ASTRO SPORTS #####
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828101.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORT 1 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SUPERSPORT 1 4K
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828100.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SUPERSPORT 2 4K" tvg-logo="http://51.158.145.100/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SUPERSPORT 2 4K
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828099.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 1 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828098.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 2 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828097.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 3 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828096.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 4 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828095.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="|UK| WORLD SPORTS",UK - ASTRO SPORTS 5 HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/828094.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS1.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 1
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827940.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS2.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 2
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827939.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS3.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 3
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827938.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS4.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 4
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827937.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS5.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 5
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827936.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS6.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 6
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827935.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 7
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827934.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK PREMIER SPORTS 8" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="|UK| WORLD SPORTS",UK - NOW HK PREMIER SPORTS 8
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827933.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS1.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 1
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827932.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS2.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 2
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827931.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS3.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 3
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827930.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS4.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 4
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827929.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS5.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 5
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827928.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS6.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 6
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827927.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - NOW HK NOW SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS7.png" group-title="|UK| WORLD SPORTS",UK - NOW HK NOW SPORTS 7
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/827926.ts
-
-
 
 
 #########################################
@@ -3820,6 +3590,65 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/827926.ts
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/195495.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1 FHD" tvg-logo="" group-title="體育世界",UK : BT Sport 1 FHD
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601691.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY - BEIN SPORTS HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1.png" group-title="體育世界",MY - BEIN SPORTS HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052432
+#EXTINF:-1 tvg-id="beinsports2.my" tvg-name="MY - BEIN SPORTS 2 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 2.png" group-title="體育世界",MY - BEIN SPORTS 2 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052426
+#EXTINF:-1 tvg-id="beinsport3.my" tvg-name="MY - BEIN SPORTS 3 HD" tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 3.png" group-title="體育世界",MY - BEIN SPORTS 3 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052430
+#EXTINF:-1 tvg-id="" tvg-name="MY - PREMIER SPORTS HD" tvg-logo="https://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="體育世界",MY - PREMIER SPORTS HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052581
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY - ASTRO SUPERSPORT 1 HD" tvg-logo=" https://go4.pw/ASIA/su1su2.png" group-title="體育世界",MY - ASTRO SUPERSPORT 1 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/955661
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY - ASTRO SUPERSPORT 2 HD" tvg-logo=" https://go4.pw/ASIA/su2su.png" group-title="體育世界",MY - ASTRO SUPERSPORT 2 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/955663
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY - ASTRO SUPERSPORT 4 HD" tvg-logo=" https://go4.pw/ASIA/su4.png" group-title="體育世界",MY - ASTRO SUPERSPORT 4 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/955665
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY - ASTRO ARENA HD" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="體育世界",MY - ASTRO ARENA HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052376
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="MY - ASTRO ARENA 2 HD" tvg-logo="https://go4.pw/ASIA/ASTRO.png" group-title="體育世界",MY - ASTRO ARENA 2 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052374
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY - ASTRO AURA HD" tvg-logo="https://go4.pw/ASIA/AURA.png" group-title="體育世界",MY - ASTRO AURA HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052380
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO FOOTBALL HD" tvg-logo="https://go4.pw/ASIA/football.png" group-title="體育世界",MY - ASTRO FOOTBALL HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1170917
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO SPORTS PLUS HD" tvg-logo="https://go4.pw/ASIA/Plus.png" group-title="體育世界",MY - ASTRO SPORTS PLUS HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1170925
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER LEAGUE  3 HD" tvg-logo="https://go4.pw/ASIA/League.png" group-title="體育世界",MY - ASTRO PREMIER LEAGUE  3 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1170918
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO PREMIER LEAGUE 5 HD" tvg-logo="https://go4.pw/ASIA/League.png" group-title="體育世界",MY - ASTRO PREMIER LEAGUE 5 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1170919
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY - ASTRO CITRA HD" tvg-logo="https://go4.pw/ASIA/Citra.png" group-title="體育世界",MY - ASTRO CITRA HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052391
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RIA (not 24/7) HD" tvg-logo="https://go4.pw/ASIA/astroria.png" group-title="體育世界",MY - ASTRO RIA (not 24/7) HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1119956
+#EXTINF:-1 tvg-id="" tvg-name="MY - W-SPORT HD" tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="體育世界",MY - W-SPORT HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052657
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="體育世界",MY - SPOTV
+http://goldenpro.xyz:80/194679431759017/8173373055/1052588
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV HD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="體育世界",MY - SPOTV HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1052592
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 FHD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="體育世界",MY - SPOTV 2 FHD
+http://goldenpro.xyz:80/194679431759017/8173373055/957706
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 HEVC" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="體育世界",MY - SPOTV 2 HEVC
+http://goldenpro.xyz:80/194679431759017/8173373055/1052589
+#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV 2 HD" tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="體育世界",MY - SPOTV 2 HD
+http://goldenpro.xyz:80/194679431759017/8173373055/957732
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="體育世界",Eurosport 1
@@ -4295,163 +4124,6 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="韓國頻道",YTN
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=YTN&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1jYTk0MDRiZjExMTQ=
-#EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="韓國頻道",YTN2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=YTN2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1lMmM3YThmMzExMTU=
-#EXTINF:-1 tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png" group-title="韓國頻道",YTN사이언스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=YTN%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1mNTI0ODU4NzExMTY=
-#EXTINF:-1 tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png" group-title="韓國頻道",연합뉴스TV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0zZWUxYWE2ZDExMTc=
-#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="韓國頻道",JTBC
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=JTBC&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1jYTZiNTQ3MjExMTg=
-#EXTINF:-1 tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png" group-title="韓國頻道",JTBC2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=JTBC2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wMDJkYzZiZjExMTk=
-#EXTINF:-1 tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png" group-title="韓國頻道",JTBC4
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=JTBC4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0xZGNlMTg3MDExMjA=
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="韓國頻道",tvN
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=tvN&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yZjQ4YmVjNjExMjE=
-#EXTINF:-1 tvg-name="tvN SHOW" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png" group-title="韓國頻道",tvN SHOW
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=tvN%20SHOW&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD04MTk5ZGVlMDExMjI=
-#EXTINF:-1 tvg-name="tvN DRAMA" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png" group-title="韓國頻道",tvN DRAMA
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=tvN%20DRAMA&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD00ZDI2ZTE3ZTExMjM=
-#EXTINF:-1 tvg-name="tvN STORY" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="韓國頻道",tvN STORY
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=tvN%20STORY&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD00ODE3Zjg1ZDExMjQ=
-#EXTINF:-1 tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="韓國頻道",채널A
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EC%B1%84%EB%84%90A&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1jNGJjYTViYzExMjU=
-#EXTINF:-1 tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="韓國頻道",채널A플러스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01OWE4ZDgyODExMjY=
-#EXTINF:-1 tvg-name="TV CHOSUN" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png" group-title="韓國頻道",TV CHOSUN
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=TV%20CHOSUN&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wYjdkNWRiZDExMjc=
-#EXTINF:-1 tvg-name="TV CHOSUN 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png" group-title="韓國頻道",TV CHOSUN 2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=TV%20CHOSUN%202&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yNTQxOWJlOTExMjg=
-#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png" group-title="韓國頻道",Mnet
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=Mnet&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wMjM0NjYwMjExMjk=
-#EXTINF:-1 tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png" group-title="韓國頻道",MBN
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBN&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1kODhlMzc4MDExMzA=
-#EXTINF:-1 tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png" group-title="韓國頻道",MBN 플러스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1hMGJlNmYxNzExMzE=
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png" group-title="韓國頻道",LIFETIME
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=LIFETIME&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0zYTZlNDdjYzExMzI=
-#EXTINF:-1 tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png" group-title="韓國頻道",중화TV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EC%A4%91%ED%99%94TV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD02MmUyZTVjZTExMzM=
-#EXTINF:-1 tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png" group-title="韓國頻道",히스토리
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1lMmMxMjZiZDExMzQ=
-#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓國頻道",EBS1
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=EBS1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01YWU1ODU2YjExMzU=
-#EXTINF:-1 tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png" group-title="韓國頻道",국회방송(NATV)
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1(NATV)&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yOWFhNjA0ZTExMzY=
-#EXTINF:-1 tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png" group-title="韓國頻道",ANIBOX
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=ANIBOX&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1jMmJhNTZjNjExMzc=
-#EXTINF:-1 tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png" group-title="韓國頻道",애니맥스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD02Y2ViMTdlZjExMzg=
-#EXTINF:-1 tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="韓國頻道",투니버스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1mYjZhMTViNjExMzk=
-#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://pjytv.760515.xyz/logo/KBS1.png" group-title="韓國頻道",KBS1
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD03MmZmYTkyMzExNDA=
-#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://pjytv.760515.xyz/logo/KBS2.png" group-title="韓國頻道",KBS2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wYjlhOWRmOTExNDE=
-#EXTINF:-1 tvg-name="KBS드라마" tvg-logo="https://pjytv.760515.xyz/logo/KBS드라마.png" group-title="韓國頻道",KBS드라마
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%EB%93%9C%EB%9D%BC%EB%A7%88&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wYTFmMDUyMTExNDI=
-#EXTINF:-1 tvg-name="KBS조이" tvg-logo="https://pjytv.760515.xyz/logo/KBS조이.png" group-title="韓國頻道",KBS조이
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%EC%A1%B0%EC%9D%B4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1kMWFmNTNhMDExNDM=
-#EXTINF:-1 tvg-name="KBS키즈" tvg-logo="https://pjytv.760515.xyz/logo/KBS키즈.png" group-title="韓國頻道",KBS키즈
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%ED%82%A4%EC%A6%88&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1kZGY2MTUzZTExNDQ=
-#EXTINF:-1 tvg-name="KBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/KBS LIFE.png" group-title="韓國頻道",KBS LIFE
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%20LIFE&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1iYThhMzVjMjExNDU=
-#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://pjytv.760515.xyz/logo/KBS Story.png" group-title="韓國頻道",KBS Story
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%20Story&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD03MTlhNDVjNTExNDY=
-#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://pjytv.760515.xyz/logo/KBS WORLD.png" group-title="韓國頻道",KBS WORLD
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%20WORLD&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD02MjVlYjhiYjExNDc=
-#EXTINF:-1 tvg-name="KBS뉴스" tvg-logo="https://pjytv.760515.xyz/logo/KBS뉴스.png" group-title="韓國頻道",KBS뉴스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=KBS%EB%89%B4%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1kM2QzMmQzYTExNDg=
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://pjytv.760515.xyz/logo/SBS.png" group-title="韓國頻道",SBS
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wNWMzZTUxZjExNDk=
-#EXTINF:-1 tvg-name="SBS플러스" tvg-logo="https://pjytv.760515.xyz/logo/SBS플러스.png" group-title="韓國頻道",SBS플러스
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%ED%94%8C%EB%9F%AC%EC%8A%A4&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD04OGIyNWIzMjExNTA=
-#EXTINF:-1 tvg-name="SBS퍼니" tvg-logo="https://pjytv.760515.xyz/logo/SBS퍼니.png" group-title="韓國頻道",SBS퍼니
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%ED%8D%BC%EB%8B%88&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01OTZjZDhjNTExNTE=
-#EXTINF:-1 tvg-name="SBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/SBS LIFE.png" group-title="韓國頻道",SBS LIFE
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%20LIFE&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1lZmRmYjZkZDExNTI=
-#EXTINF:-1 tvg-name="SBS KPOP" tvg-logo="https://pjytv.760515.xyz/logo/SBS KPOP.png" group-title="韓國頻道",SBS KPOP
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%20KPOP&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01Y2VkZjUzOTExNTM=
-#EXTINF:-1 tvg-name="SBS골프" tvg-logo="https://pjytv.760515.xyz/logo/SBS골프.png" group-title="韓國頻道",SBS골프
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%EA%B3%A8%ED%94%84&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01MmQyNGM3MTExNTQ=
-#EXTINF:-1 tvg-name="SBS Golf2" tvg-logo="https://pjytv.760515.xyz/logo/SBS Golf2.png" group-title="韓國頻道",SBS Golf2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%20Golf2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD04MTdjNGY2MTExNTU=
-#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://pjytv.760515.xyz/logo/SBS스포츠.png" group-title="韓國頻道",SBS스포츠
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%EC%8A%A4%ED%8F%AC%EC%B8%A0&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1kOTJlOTM0ZDExNTY=
-#EXTINF:-1 tvg-name="SBS Biz" tvg-logo="https://pjytv.760515.xyz/logo/SBS Biz.png" group-title="韓國頻道",SBS Biz
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=SBS%20Biz&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD02ZjliMDc4ZDExNTc=
-#EXTINF:-1 tvg-name="MBC" tvg-logo="https://pjytv.760515.xyz/logo/MBC.png" group-title="韓國頻道",MBC
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBC&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1lMDkwZDcwMzExNTg=
-#EXTINF:-1 tvg-name="MBC드라마넷" tvg-logo="https://pjytv.760515.xyz/logo/MBC드라마넷.png" group-title="韓國頻道",MBC드라마넷
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBC%EB%93%9C%EB%9D%BC%EB%A7%88%EB%84%B7&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01MzViMWI5ZTExNTk=
-#EXTINF:-1 tvg-name="MBC에브리원" tvg-logo="https://pjytv.760515.xyz/logo/MBC에브리원.png" group-title="韓國頻道",MBC에브리원
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBC%EC%97%90%EB%B8%8C%EB%A6%AC%EC%9B%90&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0xNzU1MTcyZDExNjA=
-#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://pjytv.760515.xyz/logo/MBC M.png" group-title="韓國頻道",MBC M
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBC%20M&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1jOThmYjk5NzExNjE=
-#EXTINF:-1 tvg-name="MBC ON" tvg-logo="https://pjytv.760515.xyz/logo/MBC ON.png" group-title="韓國頻道",MBC ON
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBC%20ON&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yNmNjYTI4MTExNjI=
-#EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://pjytv.760515.xyz/logo/MBCNET.png" group-title="韓國頻道",MBCNET
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MBCNET&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD00ODYzMzFkMzExNjM=
-#EXTINF:-1 tvg-name="아리랑TV" group-title="韓國頻道",아리랑TV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EC%95%84%EB%A6%AC%EB%9E%91TV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1jYWNhZWQyMDExNjQ=
-#EXTINF:-1 tvg-name="TBSTV" group-title="韓國頻道",TBSTV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=TBSTV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yOTc4ZTMwOTExNjU=
-#EXTINF:-1 tvg-name="ABN" tvg-logo="https://pjytv.760515.xyz/logo/ABN.png" group-title="韓國頻道",ABN
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=ABN&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD03ZjVjNjBiYTExNjY=
-#EXTINF:-1 tvg-name="농협TV" tvg-logo="https://pjytv.760515.xyz/logo/농협TV.png" group-title="韓國頻道",농협TV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EB%86%8D%ED%98%91TV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1iNDQ4MTE5OTExNjc=
-#EXTINF:-1 tvg-name="복지TV" group-title="韓國頻道",복지TV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EB%B3%B5%EC%A7%80TV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1iMGU5MWQ0ZDExNjg=
-#EXTINF:-1 tvg-name="국민방송" tvg-logo="https://pjytv.760515.xyz/logo/국민방송.png" group-title="韓國頻道",국민방송
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EA%B5%AD%EB%AF%BC%EB%B0%A9%EC%86%A1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yZDJjMjFkMTExNjk=
-#EXTINF:-1 tvg-name="문화유산채널" tvg-logo="https://pjytv.760515.xyz/logo/문화유산채널.png" group-title="韓國頻道",문화유산채널
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EB%AC%B8%ED%99%94%EC%9C%A0%EC%82%B0%EC%B1%84%EB%84%90&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD00MDhhMDQwZDExNzA=
-#EXTINF:-1 tvg-name="방송대학TV" tvg-logo="https://pjytv.760515.xyz/logo/방송대학TV.png" group-title="韓國頻道",방송대학TV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=%EB%B0%A9%EC%86%A1%EB%8C%80%ED%95%99TV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD03OGJkOGRiYzExNzE=
-#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓國頻道",EBS1
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=EBS1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0yY2IyMmMwNzExNzI=
-#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://pjytv.760515.xyz/logo/EBS2.png" group-title="韓國頻道",EBS2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=EBS2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0xNzY1MDljOTExNzM=
-#EXTINF:-1 tvg-name="EBS+1" tvg-logo="https://pjytv.760515.xyz/logo/EBS+1.png" group-title="韓國頻道",EBS+1
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=EBS%2B1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1lMjIwMTQ0ODExNzQ=
-#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://pjytv.760515.xyz/logo/EBS+2.png" group-title="韓國頻道",EBS+2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=EBS%2B2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1iMTE2NjVhZTExNzU=
-#EXTINF:-1 tvg-name="EBS English" tvg-logo="https://pjytv.760515.xyz/logo/EBS English.png" group-title="韓國頻道",EBS English
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=EBS%20English&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1lYzFlYjBjMzExNzY=
-
-#EXTINF:-1 tvg-name="CNN" group-title="韓國頻道",CNN
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=CNN&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1mODFlZjYxYTExOTc=
-#EXTINF:-1 tvg-name="CBS News" group-title="韓國頻道",CBS News
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=CBS%20News&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0zNjlkYzQ4NDExOTg=
-#EXTINF:-1 tvg-name="BBC" group-title="韓國頻道",BBC
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=BBC&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD00OThjZmEwYjExOTk=
-#EXTINF:-1 tvg-name="Bloomberg" group-title="韓國頻道",Bloomberg
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=Bloomberg&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0zMDk1MWEzZDEyMDA=
-#EXTINF:-1 tvg-name="Fox" group-title="韓國頻道",Fox
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=Fox&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wODljZmJhZTEyMDE=
-#EXTINF:-1 tvg-name="NHKWorld" group-title="韓國頻道",NHKWorld
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=NHKWorld&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0zMTg4NWJhNDEyMDI=
-#EXTINF:-1 tvg-name="ANTV" group-title="韓國頻道",ANTV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=ANTV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0zNzJmMzIzNjEyMDM=
-#EXTINF:-1 tvg-name="NDTV" group-title="韓國頻道",NDTV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=NDTV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD02OTgwODlhYjEyMDQ=
-#EXTINF:-1 tvg-name="FashionTV" group-title="韓國頻道",FashionTV
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=FashionTV&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD00NjE3ZjUwMjEyMDU=
-#EXTINF:-1 tvg-name="MOVIE1" group-title="韓國頻道",MOVIE1
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MOVIE1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD04MTdkYTQ5ZjEyMDY=
-#EXTINF:-1 tvg-name="MOVIE2" group-title="韓國頻道",MOVIE2
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=MOVIE2&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD01MmMzOTNkODEyMDc=
-#EXTINF:-1 tvg-name="F1" group-title="韓國頻道",F1
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=F1&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD04ZjZmNmQxNjEyMDg=
-#EXTINF:-1 tvg-name="FAILARMY" group-title="韓國頻道",FAILARMY
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=FAILARMY&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD0wZWE1MjI1MjEyMDk=
-#EXTINF:-1 tvg-name="Drybarcomedy" group-title="韓國頻道",Drybarcomedy
-https://virtual.anbox118.workers.dev/resolve?session=d7897d9e-d5cf-4b8f-8802-2f40a822051d&channel=Drybarcomedy&src=aHR0cDovL3R2MTIzLmNjLmNkL2xpdmUucGhwLz9jaD1iZDhmZTEwYjEyMTA=
-
-
 #########################################
              MALAYSIA TV
 #########################################
@@ -4629,30 +4301,50 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
 
 #########################################
-            NEWS
+            GLOBAL NEWS
 #########################################
 
 
 
-#EXTINF:-1 group-title="News",SPECTRUM NEWS SO CAL
+
+#EXTINF:-1 tvg-id="" tvg-name="ID - CNBC" tvg-logo="https://go4.pw/INDONESIA/CNBC.png" group-title="GLOBAL NEWS",ID - CNBC
+http://goldenpro.xyz:80/194679431759017/8173373055/584529
+#EXTINF:-1 tvg-id="" tvg-name="ID - AL JAZEERA ENGLISH" tvg-logo="https://go4.pw/INDONESIA/AL_JAZEERA_ENGLISH.png" group-title="GLOBAL NEWS",ID - AL JAZEERA ENGLISH
+http://goldenpro.xyz:80/194679431759017/8173373055/584470
+#EXTINF:-1 tvg-id="" tvg-name="ID - NHK WORLD PREMIUM" tvg-logo="https://go4.pw/INDONESIA/NHK_WORLD_PREMIUM.png" group-title="GLOBAL NEWS",ID - NHK WORLD PREMIUM
+http://goldenpro.xyz:80/194679431759017/8173373055/584477
+#EXTINF:-1 tvg-id="" tvg-name="ID - RT" tvg-logo="https://go4.pw/INDONESIA/RT1.png" group-title="GLOBAL NEWS",ID - RT
+http://goldenpro.xyz:80/194679431759017/8173373055/584475
+#EXTINF:-1 tvg-id="" tvg-name="ID - ARIRANG KOREA" tvg-logo="https://go4.pw/INDONESIA/ARIRANG_KOREA.png" group-title="GLOBAL NEWS",ID - ARIRANG KOREA
+http://goldenpro.xyz:80/194679431759017/8173373055/584534
+#EXTINF:-1 tvg-id="" tvg-name="ID - ARIRANG" tvg-logo="https://go4.pw/INDONESIA/Arirang.png" group-title="GLOBAL NEWS",ID - ARIRANG
+http://goldenpro.xyz:80/194679431759017/8173373055/830517
+#EXTINF:-1 tvg-id="" tvg-name="ID - FRANCE 24" tvg-logo="https://go4.pw/EUROPE/NORWAY/FRANCE 24.png" group-title="GLOBAL NEWS",ID - FRANCE 24
+http://goldenpro.xyz:80/194679431759017/8173373055/1088914
+#EXTINF:-1 tvg-id="" tvg-name="ID - BBC World News HD" tvg-logo="https://go4.pw/EUROPE/DENMARK/BBC_World_News.png" group-title="GLOBAL NEWS",ID - BBC World News HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1247905
+#EXTINF:-1 tvg-id="" tvg-name="ID - CNN Int HD" tvg-logo="" group-title="GLOBAL NEWS",ID - CNN Int HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1247915
+#EXTINF:-1 tvg-id="" tvg-name="ID - Rai Italia HD" tvg-logo="" group-title="GLOBAL NEWS",ID - Rai Italia HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1247940
+#EXTINF:-1 tvg-id="" tvg-name="ID - TV5 Monde HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png" group-title="GLOBAL NEWS",ID - TV5 Monde HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1247948
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID - NHK WORLD JAPAN" tvg-logo="https://go4.pw/ASIA/NHK-WORLD.png" group-title="AS | INDONESIA",ID - NHK WORLD JAPAN
+http://goldenpro.xyz:80/194679431759017/8173373055/584530
+#EXTINF:-1 tvg-id="" tvg-name="ID - DW TV HD" tvg-logo="https://go4.pw/EUROPE/DENMARK/DW_English.png" group-title="AS | INDONESIA",ID - DW TV HD
+http://goldenpro.xyz:80/194679431759017/8173373055/1247891
+#EXTINF:-1 tvg-id="" tvg-name="ID - CNN ID" tvg-logo="" group-title="AS | INDONESIA",ID - CNN ID
+http://goldenpro.xyz:80/194679431759017/8173373055/1247963
+
+
+
+
+#EXTINF:-1 group-title="GLOBAL NEWS",SPECTRUM NEWS SO CAL
 http://suprino.xyz/live/Rogi007/95WXXSR/1284290.ts
-
-
-
-
-#EXTINF:-1 group-title="News",CNN INTL
+#EXTINF:-1 group-title="GLOBAL NEWS",CNN INTL
 http://suprino.xyz/live/Rogi007/95WXXSR/71486.ts
-
-#EXTINF:-1 group-title="News",USA - CNN HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/552001.ts
-#EXTINF:-1 group-title="News",USA - CNN INTERNATIONAL HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/551998.ts
-#EXTINF:-1 group-title="News",USA - CNN MAX HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/985333.ts
-#EXTINF:-1 group-title="News",USA - CNBC HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/551993.ts
-#EXTINF:-1 group-title="News",USA - CNBC WORLD HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/551992.ts
 
 
 
@@ -19534,6 +19226,9 @@ http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371850.mp4
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais" tvg-logo="" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371848.mp4
+
+
+
 
 
 
