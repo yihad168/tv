@@ -817,6 +817,10 @@ https://living1.jpantv.live/jp96/playlist.m3u8?token=QA3APiYwbB
 
 #########################################
 
+https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt
+
+
+
 http://cdn4k.cc:80/get.php?username=JosemarOliveira&password=24jos999064802&type=m3u_plus
 
 
@@ -2537,28 +2541,60 @@ https://o11.163189.xyz/stream/tvb/fct4k/
 
 
 
-#EXTINF:-1 group-title="中國央視",CCTV-1綜合
+#EXTINF:-1 group-title="中國央視",CCTV1 綜合
 http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-2財經
+#EXTINF:-1 group-title="中國央視",CCTV2 財經
 http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-3綜藝
+#EXTINF:-1 group-title="中國央視",CCTV3 綜藝
 http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-4中文國際
+#EXTINF:-1 group-title="中國央視",CCTV4 中文國際
 http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-5體育
+#EXTINF:-1 group-title="中國央視",CCTV5 體育
 http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-6電影
+#EXTINF:-1 group-title="中國央視",CCTV6 電影
 http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-7國防軍事
+#EXTINF:-1 group-title="中國央視",CCTV7 國防軍事
 http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-8電視劇
+#EXTINF:-1 group-title="中國央視",CCTV8 電視劇
 http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-9紀錄
+#EXTINF:-1 group-title="中國央視",CCTV9 紀錄
 http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-10科教
+#EXTINF:-1 group-title="中國央視",CCTV10 科教
 http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 group-title="中國央視",CCTV-13新聞
+#EXTINF:-1 group-title="中國央視",CCTV11 戲曲
+http://69.30.246.194/live/cctv11.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV12 社會與法
+http://69.30.246.194/live/cctv12.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV13 新聞
 http://69.30.246.194/live/cctv13.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV14 少兒
+http://69.30.246.194/live/cctv14.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV15 音樂
+http://69.30.246.194/live/cctv15.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV16 奧林匹克
+http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV17 農業農村
+http://69.30.246.194/live/cctv17.m3u8
+#EXTINF:-1 group-title="中國央視",CCTV5+ 體育賽事
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 group-title="中國央視",CHC動作電影
+http://69.30.245.50/live/chcdz.m3u8
+#EXTINF:-1 group-title="中國央視",CHC家庭影院
+http://69.30.245.50/live/chcjt.m3u8
+#EXTINF:-1 group-title="中國央視",CHC影迷電影
+http://69.30.245.50/live/chcym.m3u8
+#EXTINF:-1 group-title="中國央視",重溫經典
+http://69.30.246.194/live/cwjd.m3u8
+#EXTINF:-1 group-title="中國央視",湖南衛視
+http://69.30.246.194/live/hnws.m3u8
+#EXTINF:-1 group-title="中國央視",浙江衛視
+http://69.30.246.194/live/zjws.m3u8
+#EXTINF:-1 group-title="中國央視",江蘇衛視
+http://69.30.246.194/live/jsws.m3u8
+#EXTINF:-1 group-title="中國央視",東方衛視
+http://69.30.246.194/live/dfws.m3u8
+
+
 
 
 
@@ -2594,6 +2630,237 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/577962.ts
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/195495.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport 1 FHD" tvg-logo="" group-title="體育世界",UK : BT Sport 1 FHD
 http://domestipo1.online:80/Antonioal2026/xFEAAKhdf6/601691.ts
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="體育世界",TNT Sports 1
+http://cdn2.dongfang.uk/stream/service/48246cb4c49c818aff2d9e06ff908352
+#EXTINF:-1 group-title="體育世界",TNT Sports 2
+http://cdn2.dongfang.uk/stream/service/ca163b5023150954383517020275f095 
+#EXTINF:-1 group-title="體育世界",TNT Sports 3
+http://cdn2.dongfang.uk/stream/service/b6143c17e997ba9d64615d2fc0209616 
+#EXTINF:-1 group-title="體育世界",TNT Sports 4
+http://cdn2.dongfang.uk/stream/service/1bd908da3cf3c7adf7903ff4e7386794 
+#EXTINF:-1 group-title="體育世界",TNT Sports 5
+http://cdn2.dongfang.uk/stream/service/0f3aea3f020896c5d564d7ae8042ed87 
+#EXTINF:-1 group-title="體育世界",TNT Sports 7
+http://cdn2.dongfang.uk/stream/service/fcb66216142419f0d1ac8780a8608bcc
+#EXTINF:-1 group-title="體育世界",TNT Sports 8
+http://cdn2.dongfang.uk/stream/service/66e47a02b83d7aca6cd60ba1019bb67f 
+#EXTINF:-1 group-title="體育世界",TNT Sports 9
+http://cdn2.dongfang.uk/stream/service/11908b34a9c5208e8d9fb5f93e170dfc
+#EXTINF:-1 group-title="體育世界",TNT Sports 10
+http://cdn2.dongfang.uk/stream/service/f9212acbdf09c61ca03e93628bb27278 
+#EXTINF:-1 group-title="體育世界",Sky Sports News
+http://cdn2.dongfang.uk/stream/service/8b70c914c0e8fb99961589884e7168bc 
+#EXTINF:-1 group-title="體育世界",Sky Sports Action
+http://cdn2.dongfang.uk/stream/service/70a79beb6d4dd9853a3e505c4d640a36
+#EXTINF:-1 group-title="體育世界",Sky Sports Arena
+http://cdn2.dongfang.uk/stream/service/413002202e0b26efd5cdd8a93c1f7caf
+#EXTINF:-1 group-title="體育世界",Sky Sports Cricket
+http://cdn2.dongfang.uk/stream/service/3b685bb39211c7313ab14cfc9c8b09ce 
+#EXTINF:-1 group-title="體育世界",Sky Sports F1
+http://cdn2.dongfang.uk/stream/service/407af8079be364b2447e468197f729e2
+#EXTINF:-1 group-title="體育世界",Sky Sports Golf
+http://cdn2.dongfang.uk/stream/service/48e74c4450b241747d990e489558184c 
+#EXTINF:-1 group-title="體育世界",Sky Sports Main Event
+http://cdn2.dongfang.uk/stream/service/bf1770c6bdb54b735f8990433f166ffd 
+#EXTINF:-1 group-title="體育世界",Sky Sports Mix
+http://cdn2.dongfang.uk/stream/service/d4161aab5af34bdea8c91c5614113154 
+#EXTINF:-1 group-title="體育世界",Sky Sports Racing
+http://cdn2.dongfang.uk/stream/service/375f770b542ff70171e6dfdefa530d68 
+#EXTINF:-1 group-title="體育世界",Disney Channel
+http://cdn2.dongfang.uk/stream/service/ebdf1b85549f7b05ac48dbd60c402f90 
+#EXTINF:-1 group-title="體育世界",Disney Junior
+http://cdn2.dongfang.uk/stream/service/ecc0c86282ac3605617ae9f0cc406cb7 
+#EXTINF:-1 group-title="體育世界",Disney XD
+http://cdn2.dongfang.uk/stream/service/34f2a78a944f84423c98215b4b738a8d
+#EXTINF:-1 group-title="體育世界",beIN Sports
+http://cdn2.dongfang.uk/stream/service/922edf4fc882241b0eba0a279b26dee2 
+#EXTINF:-1 group-title="體育世界",beIN Sports 2
+http://cdn2.dongfang.uk/stream/service/40f1fc945fc73109d98b102b880c0b26 
+#EXTINF:-1 group-title="體育世界",beIN Sports 4
+http://cdn2.dongfang.uk/stream/service/b1e13ca85f193e61f15e543d5730944b
+#EXTINF:-1 group-title="體育世界",beIN Sports 5
+http://cdn2.dongfang.uk/stream/service/57945fc17826d360ab06aa287696ac55
+#EXTINF:-1 group-title="體育世界",beIN Sports 6
+http://cdn2.dongfang.uk/stream/service/b0c5bb34bd6f065b9523b93cc2ae72eb
+#EXTINF:-1 group-title="體育世界",beIN Sports 7
+http://cdn2.dongfang.uk/stream/service/b79ef1162d1c766920a396e3a53c40df
+#EXTINF:-1 group-title="體育世界",beIN Sports 8
+http://cdn2.dongfang.uk/stream/service/2a199f05ff194820c84dfd46fad68b71 
+#EXTINF:-1 group-title="體育世界",beIN Sports Xtra 1
+http://cdn2.dongfang.uk/stream/service/4c541dd019378b78a0a66ea10d956698
+#EXTINF:-1 group-title="體育世界",CBS Sports Network
+http://cdn2.dongfang.uk/stream/service/7f1abd9709ec048b399feff5a382e371 
+#EXTINF:-1 group-title="體育世界",Eleven Sports
+http://cdn2.dongfang.uk/stream/service/c93d5547f618feb222950051ec99095d 
+#EXTINF:-1 group-title="體育世界",ESPN
+http://cdn2.dongfang.uk/stream/service/b52b9c871834086c8acb978862960a72
+#EXTINF:-1 group-title="體育世界",ESPN 2
+http://cdn2.dongfang.uk/stream/service/aa0f892bbf0002592270a5b613a5c5a1
+#EXTINF:-1 group-title="體育世界",ESPN 3
+http://cdn2.dongfang.uk/stream/service/158ed0c3636419cb6b35efd26f48cd46
+#EXTINF:-1 group-title="體育世界",ESPN News
+http://cdn2.dongfang.uk/stream/service/949dcad7b0f7cd5e3f0b33406438d4b4
+#EXTINF:-1 group-title="體育世界",Fox Sports 1
+http://cdn2.dongfang.uk/stream/service/dcd60cdb3c44bc5a13cc59ef91649dfa
+#EXTINF:-1 group-title="體育世界",Fox Sports 2
+http://cdn2.dongfang.uk/stream/service/cd61c82a17467629803241fbe38eaf9d 
+#EXTINF:-1 group-title="體育世界",NBA TV Canada
+http://cdn2.dongfang.uk/stream/service/6b032e5cd82473a7bd5fd18ea3622df1 
+#EXTINF:-1 group-title="體育世界",FIGHT Network
+http://cdn2.dongfang.uk/stream/service/f9c036dabfde590da194f495920862d3 
+#EXTINF:-1 group-title="體育世界",TSN 1
+http://cdn2.dongfang.uk/stream/service/21764d9aeb83f7c5234c4ea74889974d 
+#EXTINF:-1 group-title="體育世界",TSN 2
+http://cdn2.dongfang.uk/stream/service/73ed6eab6648471ba72fa1b12707c328 
+#EXTINF:-1 group-title="體育世界",TSN 3
+http://cdn2.dongfang.uk/stream/service/5dd8c7b303bd987de9eec6ec11f0be9f 
+#EXTINF:-1 group-title="體育世界",TSN 4
+http://cdn2.dongfang.uk/stream/service/35df36a4acf6ea44b6eaa5f3aeae9d43 
+#EXTINF:-1 group-title="體育世界",TSN 5
+http://cdn2.dongfang.uk/stream/service/16133607c97542558da33b7453689291 
+#EXTINF:-1 group-title="體育世界",HBO 1
+http://cdn2.dongfang.uk/stream/service/84fa10809c726a7c20eec32e0458e928
+#EXTINF:-1 group-title="體育世界",HBO 2
+http://cdn2.dongfang.uk/stream/service/43b8b81d853669278889f6c5df73c884 
+
+
+
+#EXTINF:-1 group-title="日本Nippon",NHK G
+http://cdn2.dongfang.uk/stream/service/4265c7b9682f7d8607a9b2e56f8ec814
+#EXTINF:-1 group-title="日本Nippon",NHK E
+http://cdn2.dongfang.uk/stream/service/07985f1fa1a999ad6a50b2e7b21cc090 
+#EXTINF:-1 group-title="日本Nippon",NTV
+http://cdn2.dongfang.uk/stream/service/7d5d579d2188d9d0437a2aa25b586177 
+#EXTINF:-1 group-title="日本Nippon",TBS
+http://cdn2.dongfang.uk/stream/service/5614f8cd6fa3fe4f093d28c09f1b9a20 
+#EXTINF:-1 group-title="日本Nippon",Fuji TV
+http://cdn2.dongfang.uk/stream/service/de5201bdaf7367da041acdc3c9ddf8fe
+#EXTINF:-1 group-title="日本Nippon",TV Asahi
+http://cdn2.dongfang.uk/stream/service/7b8a6ee2d9928d18f61da53479eb402d
+#EXTINF:-1 group-title="日本Nippon",TV Tokyo
+http://cdn2.dongfang.uk/stream/service/a55e13a2d513d902d5fdc13d3aad9784 
+#EXTINF:-1 group-title="日本Nippon",TOKYO MX1
+http://cdn2.dongfang.uk/stream/service/b3111b15f999f8070735e3641e95fb8b 
+#EXTINF:-1 group-title="日本Nippon",TOKYO MX2
+http://cdn2.dongfang.uk/stream/service/36f139459d96985241620ec096ab2315 
+#EXTINF:-1 group-title="日本Nippon",MBS
+http://cdn2.dongfang.uk/stream/service/dd39467172afec10ba3cbb08f3de7dd4 
+#EXTINF:-1 group-title="日本Nippon",ABC
+http://cdn2.dongfang.uk/stream/service/6fb892797d617c2f589d3f5d2cc4a111
+#EXTINF:-1 group-title="日本Nippon",TV Osaka
+http://cdn2.dongfang.uk/stream/service/121ed52f065e173b8c35333658460ae5
+#EXTINF:-1 group-title="日本Nippon",Kansai TV
+http://cdn2.dongfang.uk/stream/service/d0f80ca5b52ca75bfebe88b5e8db7556 
+#EXTINF:-1 group-title="日本Nippon",KBS
+http://cdn2.dongfang.uk/stream/service/c950161796d63c616c41ad1c79f326ec 
+#EXTINF:-1 group-title="日本Nippon",SUN
+http://cdn2.dongfang.uk/stream/service/331fc5d8cc84f5e8d6ed046329b464bc
+#EXTINF:-1 group-title="日本Nippon",NHK BS
+http://cdn2.dongfang.uk/stream/service/6331f1912f6fdfe20b563d2ff82ac529
+#EXTINF:-1 group-title="日本Nippon",BS NTV
+http://cdn2.dongfang.uk/stream/service/d6938561a5a3a5c384a48149716ed34a
+#EXTINF:-1 group-title="日本Nippon",BS Asahi
+http://cdn2.dongfang.uk/stream/service/5769c91b481c49cf0818af338f044885
+#EXTINF:-1 group-title="日本Nippon",BS TBS
+http://cdn2.dongfang.uk/stream/service/77ac7ba4c66223d884838eaafd86b4ab
+#EXTINF:-1 group-title="日本Nippon",BS TV Tokyo
+http://cdn2.dongfang.uk/stream/service/f0ae0be7085808889d955a4f96b121bb
+#EXTINF:-1 group-title="日本Nippon",BS Fuji
+http://cdn2.dongfang.uk/stream/service/06335542a55bbda653ea5d7f4ef9518a 
+#EXTINF:-1 group-title="日本Nippon",BS11
+http://cdn2.dongfang.uk/stream/service/f0e0b421e88537e28a5259756a2fd7d1
+#EXTINF:-1 group-title="日本Nippon",WOWOW Prime
+http://cdn2.dongfang.uk/stream/service/1fa0d70404b482780d19eb07c755b314
+#EXTINF:-1 group-title="日本Nippon",WOWOW Cinema
+http://cdn2.dongfang.uk/stream/service/d5e15bd209f474e8f6825cb7d0cae476
+#EXTINF:-1 group-title="日本Nippon",WOWOW Live
+http://cdn2.dongfang.uk/stream/service/005f0d140eb2f23e3e04d359d09757e2
+#EXTINF:-1 group-title="日本Nippon",BS 10 Star Channel
+http://cdn2.dongfang.uk/stream/service/30f848f663e50fd798ce33e1439c2945
+#EXTINF:-1 group-title="日本Nippon",J Sport 1
+http://cdn2.dongfang.uk/stream/service/49d493eac156405d012a5123a359c3f4
+#EXTINF:-1 group-title="日本Nippon",J Sport 2
+http://cdn2.dongfang.uk/stream/service/739d61e04d07eed534ea915c859827e6
+#EXTINF:-1 group-title="日本Nippon",J Sport 3
+http://cdn2.dongfang.uk/stream/service/c8dd90648bb57605d3193a6b155efb93
+#EXTINF:-1 group-title="日本Nippon",J Sport 4
+http://cdn2.dongfang.uk/stream/service/b6d5ff320f4a9f3b9709a70166e6dac3
+
+
+#EXTINF:-1 group-title="日本Nippon",Green Channel
+http://8.218.84.3:8886/japan2/74/index.m3u8 
+#EXTINF:-1 group-title="日本Nippon",Animax
+http://8.218.84.3:8886/japan2/75/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Nihon Eiga Senmon
+http://8.218.84.3:8886/japan2/76/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Sky A
+http://8.218.84.3:8886/japan2/77/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Gaora Sports
+http://8.218.84.3:8886/japan2/78/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",AT-X
+http://8.218.84.3:8886/japan2/79/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Space Shower TV
+http://8.218.84.3:8886/japan2/80/index.m3u8 
+#EXTINF:-1 group-title="日本Nippon",MTV
+http://8.218.84.3:8886/japan2/81/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Kayo Pops
+http://8.218.84.3:8886/japan2/82/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Kids Staton
+http://8.218.84.3:8886/japan2/83/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Disney Channel
+http://8.218.84.3:8886/japan2/84/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Cartoon Network
+http://8.218.84.3:8886/japan2/85/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Nittele G+
+http://8.218.84.3:8886/japan2/86/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Family Gekijyo
+http://8.218.84.3:8886/japan2/87/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Mondo TV
+http://8.218.84.3:8886/japan2/88/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Music ON TV
+http://8.218.84.3:8886/japan2/89/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Mnet
+http://8.218.84.3:8886/japan2/90/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",TBS Channel 1
+http://8.218.84.3:8886/japan2/91/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",TBS Channel 2
+http://8.218.84.3:8886/japan2/92/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",TV Asahi Channel 1
+http://8.218.84.3:8886/japan2/93/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",TV Asahi Channel 2
+http://8.218.84.3:8886/japan2/94/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Fuji TV ONE
+http://8.218.84.3:8886/japan2/95/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Fuji TV TWO
+http://8.218.84.3:8886/japan2/96/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Fuji TV NEXT
+http://8.218.84.3:8886/japan2/97/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Neco Channel
+http://8.218.84.3:8886/japan2/98/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Dlife
+http://8.218.84.3:8886/japan2/99/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Toei Channel
+http://8.218.84.3:8886/japan2/100/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Fighting TV Samurai
+http://8.218.84.3:8886/japan2/101/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Entermei Tele
+http://8.218.84.3:8886/japan2/102/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Sport Live Plus
+http://8.218.84.3:8886/japan2/103/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Home Drama Channel
+http://8.218.84.3:8886/japan2/104/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Channel Ginga
+http://8.218.84.3:8886/japan2/105/index.m3u8
+#EXTINF:-1 group-title="日本Nippon",Tabi Channel
+http://8.218.84.3:8886/japan2/106/index.m3u8
+
 
 
 #########################################
