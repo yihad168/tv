@@ -220,6 +220,19 @@
         },
 
          {
+            "name": "🐬各大源合集",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
+        }, 
+        {
+            "name": "🐬综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://ds65.tv1288.xyz",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+         },
+         {
             "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
@@ -253,7 +266,7 @@
             "name": "🐬Mytv",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://iptv.yang-1989.eu.org/m3u/MyTV"
+            "url": "https://cdn.qd.je/live.m3u"
         },
         {
             "name": "🐬黄蚂蚁先锋推流源",
@@ -292,12 +305,6 @@
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
         {
-            "name": "🐬台湾欢乐看源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://ezc.xtvantsc.xyz/欢乐看.txt"
-        },
-        {
             "name": "🐬4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
@@ -310,7 +317,7 @@
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
-            "name": "🐬playlist源",
+            "name": "🐬新港台频道",
             "type": 0,
             "ua": "okhttp",
             "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
@@ -339,13 +346,13 @@
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
         },
-
-         {
+        {
             "name": "🐬欧美大片直播🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/欧美2160.m3u"
         },
+
 
         {
             "name": "🦄BAO盒live🔞",
