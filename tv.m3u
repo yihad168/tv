@@ -6295,6 +6295,14 @@ https://streams.alwaysdata.net/x?ch=dorcel.m3u8
 https://streams.alwaysdata.net/x?ch=hustlertv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Playboy_TV_Logo.svg/revision/latest/scale-to-width-down/200?cb=20130325074908" group-title="私密頻道 ADULT",Playboy
+http://79.127.207.193:80/PlayboyHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="私密頻道 ADULT",Hustler HD
+http://79.127.207.193:80/Hustler/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/REALITY_KINGS_TV.png/revision/latest/scale-to-width-down/1200?cb=20191119152518" group-title="私密頻道 ADULT",RealityKings
+http://79.127.207.193:80/RealityKings/playlist.m3u8
+
+
 
 
 
@@ -6435,6 +6443,9 @@ http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451484
 #EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451485
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451485
+
+
+
 
 
 
@@ -19672,6 +19683,8 @@ http://zw00.xyz:8080/movie/dKCnzd16uN/b5MpkXnBkT/385433.mkv
 http://zw00.xyz:8080/movie/dKCnzd16uN/b5MpkXnBkT/385435.mkv
 #EXTINF:-1 tvg-id="" tvg-name="MY.FRIENDS.HOT.MOM.83.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FOR ADULTS ✨ MILF",MY.FRIENDS.HOT.MOM.83.2020
 http://zw00.xyz:8080/movie/dKCnzd16uN/b5MpkXnBkT/385437.mkv
+
+
 
 
 ############################
