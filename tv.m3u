@@ -257,7 +257,7 @@ https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="日本/Japan CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",歌謡ポップスチャンネル
 https://nl.utako.moe/kayopops/index.m3u8
 
-#EXTINF:-1 group-title="日本/Japan CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", キッズステーション
+#EXTINF:-1 group-title="日本/Japan CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png",キッズステーション
 https://nl.utako.moe/kids_station/index.m3u8
 
 #EXTINF:-1 group-title="日本/Japan CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",ディズニーチャンネル
@@ -478,11 +478,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 group-title="JAPAN BS" tvg-id="skya.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="JAPAN BS" tvg-id="fishingvision.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png", Fishing Vision (Primehome)
+#EXTINF:-1 group-title="JAPAN BS" tvg-id="fishingvision.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png",Fishing Vision (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 group-title="JAPAN BS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png", Disney Channel (Primehome)
+#EXTINF:-1 group-title="JAPAN BS" tvg-id="disneychannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png",Disney Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
-#EXTINF:-1 group-title="JAPAN BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png", Jcom BS (Primehome)
+#EXTINF:-1 group-title="JAPAN BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png",Jcom BS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
 #EXTINF:-1 group-title="JAPAN CS" tvg-id="gaorasports.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",Gaora Sports
@@ -552,65 +552,65 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="JAPAN CS" tvg-id="vparadise.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png", Jidaigeki Senmon (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png",Jidaigeki Senmon (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="toeichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png", Toei Channel (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="toeichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-173-400x400.png",Toei Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="eiseigekijo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png", Eisei Gekijo (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="eiseigekijo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png",Eisei Gekijo (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="familygekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png", Family Gekijo (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="familygekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png",Family Gekijo (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="movieplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png", Movie Plus (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="movieplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",Movie Plus (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="homedramachannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png", Home Drama Channel (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="homedramachannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png",Home Drama Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="tabichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png", Tabi Channel (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="tabichannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png",Tabi Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="fujitvnext.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png", Fuji TV Next (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="fujitvnext.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",Fuji TV Next (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="skya.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png", Sky A  (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="skya.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png",Sky A (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="gaorasports.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png", Gaora Sports (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="gaorasports.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png",Gaora Sports (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="golfnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png", Golf Network (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="golfnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png",Golf Network (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png", NTV G+ (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="nittelegplus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png",NTV G+ (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="mondotv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png", Mondo TV (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="mondotv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png",Mondo TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="channelginga.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png", Channel Ginga (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="channelginga.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png",Channel Ginga (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="spaceshowertv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png", Space Shower TV (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="spaceshowertv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png",Space Shower TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_639.gif", Music Japan TV (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/m_639.gif",Music Japan TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="kayopops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png", Kayo Pops (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="kayopops.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png",Kayo Pops (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="mtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png", MTV (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="mtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="lalatv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png", LaLa TV (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="lalatv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png",LaLa TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="takarazukaskystage.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="takarazukaskystage.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png",Takarazuka Sky Stage (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png", Kids Staton TV (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="kidsstation.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png",Kids Staton TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png", Cartoon Network (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png",Cartoon Network (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="nationalgeographic.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png", National Geographic Japan (Primehome) 
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="nationalgeographic.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png",National Geographic Japan (Primehome) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="disneyjunior.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png", Disney Junior (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="disneyjunior.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png",Disney Junior (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="discoverychannelsoutheastasia.sg@japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png", Discovery Channel (Primehome)  
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="discoverychannelsoutheastasia.sg@japan" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png",Discovery Channel (Primehome)  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="animalplanet.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png", Animal Planet (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="animalplanet.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png",Animal Planet (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 #EXTINF:-1 group-title="JAPAN CS" tvg-id="history.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png", History (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="cnnj.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png", CNNj (Primehome) 
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="cnnj.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png",CNNj (Primehome) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png", BBC News (Primehome)  
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png",BBC News (Primehome)  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 group-title="JAPAN CS" tvg-id="tbsnewscs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png", TBS News (Primehome)
+#EXTINF:-1 group-title="JAPAN CS" tvg-id="tbsnewscs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",TBS News (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
 
@@ -693,28 +693,17 @@ https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 
 https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt
-
-
-
 http://cdn4k.cc:80/get.php?username=JosemarOliveira&password=24jos999064802&type=m3u_plus
-
-
 https://github.com/maxlay/maxlay.github.io/tree/main/JAV-video
-
 https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u
-
 http://royalibox.com/get.php?username=9680723188&password=kyft6ks0g7gr7uw0xio6&type=m3u_plus
-
 http://protv.fun/get.php?username=4cafe94867&password=48a12d348c&type=m3u_plus
-
-
 http://proxy.nr3.xyz:80/get.php?username=max289&password=991374465&type=m3u_plus
 https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E8%B1%9A%E5%BD%B1%E8%A7%86
 https://raw.githubusercontent.com/cm851228/my51228888/refs/heads/main/2025live.json
 
 熱播電影
 https://raw.githubusercontent.com/pkj99/demo/refs/heads/main/tv/sourceNavigation.json
-
 https://raw.githubusercontent.com/Hsudavid/app/refs/heads/main/1.json
 
 盒子之家
@@ -737,18 +726,18 @@ http://www.饭太硬.com/tv
 
 catvod接口:
 https://tvbox.catvod.com/xs/api.json
-
 https://hyhy65.lanzoui.com/b0hdjcd1g
 
 海豚佬接口：
 https://ghfast.top/https://raw.githuburcontent.com/FGBLH/FG/refs/heads/main/海豚影视
-
 https://ghfast.top/https://raw.githuburcontent.com/FGBLH/FG/refs/heads/main/海豚影视无18加
-
-
 https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/%E5%91%B3%E7%B2%BE
 
+
 https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/xxx.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u
+
+
 
 #########################################
          台灣數位電視台
@@ -3697,140 +3686,6 @@ https://zap-live1-ott.izzigo.tv/13/out/u/dash/MUSIC-CLUB-BAILE/default.mpd?origi
 #########################################
 
 
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 꽃보다할배
-https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 나의 아저씨
-https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 도깨비
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 라켓보이즈
-https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 마인
-https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 멜랑꼴리아
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN 철인왕후
-https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://11.112114.xyz/logo/TVN.png" group-title="韓國頻道",tvN THE K2
-https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",Arirang 阿里郎
-http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="韓國頻道",KBS 1
-https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1 group-title="韓國頻道",KBS 2
-https://tv.iill.top/kbs/12&p=0
-#EXTINF:-1 group-title="韓國頻道",BBS 불교 방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-#EXTINF:-1 group-title="韓國頻道",CJ OnStyle
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",CJ OnStyle Plus
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",EBS+ 1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="韓國頻道",EBS+ 2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="韓國頻道",EBS 1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:-1 group-title="韓國頻道",EBS 2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-#EXTINF:-1 group-title="韓國頻道",EBS 키즈
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 group-title="韓國頻道",GS Shop
-https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",Gugak TV
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 group-title="韓國頻道",KBS Joy
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 group-title="韓國頻道",KBS Kids
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 group-title="韓國頻道",KBS LIFE
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 group-title="韓國頻道",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",KBS Story
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 group-title="韓國頻道",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",NBS
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",SBS
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 group-title="韓國頻道",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",국방国防TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道",MBC
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283879
-#EXTINF:-1 group-title="韓國頻道",YTN
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283878
-#EXTINF:-1 group-title="韓國頻道",SBS
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283876
-#EXTINF:-1 group-title="韓國頻道",SBS PLUS
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283877
-#EXTINF:-1 group-title="韓國頻道",KBS WORLD
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283887
-#EXTINF:-1 group-title="韓國頻道",ARIRANG
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283886
-#EXTINF:-1 group-title="韓國頻道",EBS
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283881
-#EXTINF:-1 tvg-id="TV조선" tvg-name="TV조선" tvg-logo="https://11.112114.xyz/logo/TV조선.png" group-title="韓國頻道",TV조선
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV조선 2" tvg-name="TV조선 2" tvg-logo="https://11.112114.xyz/logo/TV조선2.png" group-title="韓國頻道",TV조선 2
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://11.112114.xyz/logo/KOREATV.png" group-title="韓國頻道",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC 综艺频道" tvg-name="MBC 综艺频道" tvg-logo="https://11.112114.xyz/logo/MBC综艺.png" group-title="韓國頻道",MBC 综艺频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBS 农业广播" tvg-name="NBS 农业广播" tvg-logo="https://11.112114.xyz/logo/NBS农业广播.png" group-title="韓國頻道",NBS 农业广播
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS 清州放送" tvg-name="SBS 清州放送" tvg-logo="https://11.112114.xyz/logo/SBS清州放送.png" group-title="韓國頻道",SBS 清州放送
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-id="TBS Seoul" tvg-name="TBS Seoul" tvg-logo="https://11.112114.xyz/logo/TBSSEOUL.png" group-title="韓國頻道",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://11.112114.xyz/logo/华艺MBC.png" group-title="韓國頻道",MBC
-http://mytv.dothome.co.kr/ch/public/5.php
-#EXTINF:-1 tvg-id="MBC-목포" tvg-name="MBC-목포" tvg-logo="https://11.112114.xyz/logo/MBC목포.png" group-title="韓國頻道",MBC-목포
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC-춘천" tvg-name="MBC-춘천" tvg-logo="https://11.112114.xyz/logo/MBC춘천.png" group-title="韓國頻道",MBC-춘천
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC-대구" tvg-name="MBC-대구" tvg-logo="https://11.112114.xyz/logo/MBC대구.png" group-title="韓國頻道",MBC-대구
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC-제주" tvg-name="MBC-제주" tvg-logo="https://11.112114.xyz/logo/MBC제주.png" group-title="韓國頻道",MBC-제주
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://11.112114.xyz/logo/MBC여수.png" group-title="韓國頻道",MBC-여수
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RNA" tvg-name="RNA" tvg-logo="" group-title="韓國頻道",RNA
-http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-#EXTINF:-1 tvg-id="韩国音乐" tvg-name="韩国音乐" tvg-logo="" group-title="韓國頻道",韓國音樂
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="" group-title="韓國頻道",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lzY0CqKE62NiMboM_-HizbzkBjSXP7zDiuIu1xsgtOlFM=s900-c-k-c0x00ffffff-no-rj",K-Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://cdn.mos.cms.futurecdn.net/7JgVkbVefaceTZjRcBZxwj.jpg",RomCom K-Drama
-https://tinyurl.com/3h2e4rtz
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624",K-POP TV play
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3P-nVkTDzY0CMTdeQmffbjuKItoZ9pPkDeA&s",YG TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg/250px-JIBS_%EC%A0%9C%EC%A3%BC%EB%B0%A9%EC%86%A1.svg.png",JIBS SBS
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://yt3.googleusercontent.com/no8fqWNb5b7mQAsbgkTD4s0ffrMSVERn0m2XJkp6ZCqo8MsBHKkkfl_FTG4HtUKHhCpuPE17bT4=s900-c-k-c0x00ffffff-no-rj",ABN TV
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="韓國頻道" tvg-logo="https://play-lh.googleusercontent.com/SzUVoIqN6VV37DEau__D8QkDu1SQvByxbIC6pws9y-dwHnruLBwldJ6KARLLggqMpGc",Korea TV
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-
-
-
-
 
 #########################################
                  抖音K歌
@@ -5424,79 +5279,6 @@ https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c02b2307ec280103700199
 https://vip.dytt-live.com/20250506/5880_055e31fa/index.m3u8
 #EXTINF:-1 group-title="演唱會",2025大灣區電影音樂晚會
 https://vip.dytt-kan.com/20251002/7177_2723ad49/index.m3u8
-
-
-
-#########################################
-           mypanel CONCERTS
-#########################################
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="mypanel CONCERTS",Adele Live at The Royal Albert Hall 2011
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328116.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Bob Dylan:The 30th Anniversary Concert Celebration
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328141.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Bruce Springsteen with the Sessions Band:Live in Dublin
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328148.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Bryan Adams - MTV Unplugged
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328150.mp4
-#EXTINF:-1 group-title="mypanel CONCERTS",Celibe Dion Live at Tokyo Dome Concert
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328162.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Coldplay au stade de France
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328065.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Creedence Clearwater Revival:The Royal Albert Hall Concert 1970
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328080.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Daryl Hall & John Oates:Live in Dublin
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328086.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Elton John:Live at iTunes Festival 2013
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328111.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Elton John:One Night Only
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328112.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Elton John:The Million Dollar Piano 2011
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328113.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Elvis - 68' Comeback Special
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328015.mp4
-#EXTINF:-1 group-title="mypanel CONCERTS",Elvis - Aloha from Hawaii
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328014.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Eric Clapton:Planes Train & Eric 2014
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328019.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Genesis:The MAMA Tour
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328034.avi
-#EXTINF:-1 group-title="mypanel CONCERTS",George Michael Live In London
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328035.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Jimi Hendrix Pllays Berkeley
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327981.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",KISS:Rocks Vegas
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328004.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Kylie Minogue:Live at iTunes Festival London 2013
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/328006.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Michael Jackson:Live at Wimbley July 16 1988
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327461.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Paul Simon Live Feom Philadephia 1980
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327496.avi
-#EXTINF:-1 group-title="mypanel CONCERTS",Phil Collins:Going Back-Live at The Roseland Ballroom NYC
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327403.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Queen:Live at Wimbley Stadium
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327414.mp4
-#EXTINF:-1 group-title="mypanel CONCERTS",Queen:The Legendary 1975 Concert
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327416.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Queen:We Will Rock You 1982
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327415.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Sade:Bring Me Home-Live 2011
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327434.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",Santana-Greatest Hits:Live at Montreux 2011
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327435.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",The Police:Live in Concert Tokyo 2008
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327382.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",The Rolling Stones:Havana Moon 2016
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327383.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",The Rolling Stones:Ladies & Gentlemen 1972
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327384.mkv
-#EXTINF:-1 group-title="mypanel CONCERTS",The Rolling Stones:Live from Amsterdam 1995
-http://mypanel-4k.com:80/movie/me52pjdqa6/dt2t9r16ja/327385.mkv
-
 
 
 
@@ -14206,4 +13988,7 @@ http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371850.mp4
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371848.mp4
+
+
+
 
