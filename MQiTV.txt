@@ -45,7 +45,14 @@
             "name": "♻️sylu",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "http://xclasvgas.sylu.net:8080/smt.php"
+            "url": "http://dbmlasvgas.sylu.cc:8080/smt.php"
+        },
+
+        {
+            "name": "707626",
+            "type": 0,
+            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
    {
