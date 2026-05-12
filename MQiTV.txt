@@ -3,7 +3,7 @@
  {
             "name": "🐟🐟🍄myTV🍄🐟🐟",
             "type": 0,
-            "url": "https://www.apsattv.com/xiaomi.m3u",
+            "url": "https://raw.githubusercontent.com/jack2713/mynew/refs/heads/main/TMP/hw.txt",
            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
