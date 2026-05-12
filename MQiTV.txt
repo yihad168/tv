@@ -48,25 +48,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
-   {
-            "name": "🔓大葱MyTV🔓",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/MyTV",
-            "ua": "okhttp/5.0.0-alpha.14",
-            "timeout": 30,
-            "playerType": 2
-        },
-
-    {
-      "name": "🔓大葱Gather🔓",
-      "url": "https://tv.iill.top/m3u/Gather"
-    },
-
-    {
-      "name": "🔓大葱Sport🔓",
-      "url": "https://tv.iill.top/m3u/Sport"
-    },
-
     {
       "name": "🔓CAT直播",
       "url": "http://tv.anbox.ip-ddns.com/live7"
