@@ -1,17 +1,15 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
 #EXTM3U url-tvg="https://arva.netgenx.site/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
-https://live.livingtv.live/jp1/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp1/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
-https://live.livingtv.live/jp3/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp3/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",NTV
-https://live.livingtv.live/jp4/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp4/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
-https://live.livingtv.live/jp7/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp7/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
-https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2MH
+https://live.livingtv.live/jp5/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV Tokyo
 https://live.livingtv.live/jp8/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
@@ -151,9 +149,9 @@ https://live.livingjtv.live/jp60/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="gstv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
-https://arva.netgenx.site/stream/jp/gstv/stream-output.m3u8?mode=hls
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif",Jidaigeki Senmon
 https://live.livingjtv.live/jp52/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="eiseigekijo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif",Eisei Gekijo
@@ -172,7 +170,7 @@ https://live.livingjtv.live/jp94/playlist.m3u8?token=M7VMdfn2WH
 https://live.livingjtv.live/jp89/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="disneyjunior.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif",Disney Junior
 https://live.livingjtv.live/jp84/playlist.m3u8?token=M7VMdfn2WH
-#EXTINF:-1 group-title="CS" tvg-id="discoverychannelsoutheast.sg@japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif",Discovery  
+#EXTINF:-1 group-title="CS" tvg-id="discoverychannelsoutheastasia.sg@japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif",Discovery  
 https://live.livingjtv.live/jp90/playlist.m3u8?token=M7VMdfn2WH
 #EXTINF:-1 group-title="CS" tvg-id="animalplanet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",Animal Planet
 https://live.livingjtv.live/jp91/playlist.m3u8?token=M7VMdfn2WH
@@ -187,7 +185,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=1-15
 #EXTINF:-1 group-title="CS" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News  
 http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=1-15
 #EXTINF:-1 group-title="CS" tvg-id="tbsnewscs.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=1-15
+https://live.livingjtv.live/jp96/playlist.m3u8?token=M7VMdfn2WH
 
 
 #########################################
@@ -196,16 +194,7 @@ http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=1-15
 
 
 
-
-
-#########################################
-
-#########################################
-
 #EXTM3U url-tvg="https://epg.utako.moe/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
-
-
 
 #EXTINF:-1 group-title="JAPAN Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G HD (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
@@ -239,8 +228,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=201829&playseek=0&timestamp=1731880947&sign=6c38a87b1200a510db9781325f615bdd0509c8be5bd3ea38e91cbd697d0e8fbf
 #EXTINF:-1 group-title="JAPAN Tokyo" tvg-id="tokyomx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1 (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=201829&playseek=0&timestamp=1732772970&sign=498184efda0887f8d4bf7c9db688072421a95f0013c34712505ac434f7245db5
-
-
 
 #EXTINF:-1 group-title="JAPAN BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
@@ -286,7 +273,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24 
 #EXTINF:-1 group-title="JAPAN BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png",Jcom BS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-
 
 #EXTINF:-1 group-title="JAPAN CS" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png",Jidaigeki Senmon (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
@@ -352,20 +338,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
 
 
+#########################################
+
 
 #########################################
+#########################################
+
 
 #EXTM3U url-tvg="https://arva.netgenx.site/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
-
-
-
-
-
-
-
-
-#########################################
-#########################################
 
 
 
@@ -682,6 +662,14 @@ http://cdn6.163189.xyz/163189/amty
 https://cdn6.163189.xyz/163189/as
 #EXTINF:-1 group-title="台灣",澳門綜藝
 http://cdn6.163189.xyz/163189/amzy
+
+
+#EXTINF:-1 group-title="台灣",華藏衛視
+https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
+#EXTINF:-1 group-title="台灣",唯心
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="台灣",唯心
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 
 
@@ -1164,6 +1152,364 @@ https://hls.iill.top/api/Discovery/playlist.m3u8
 #########################################
 
 #EXTM3U url-tvg="https://static.188766.xyz/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="鳳凰中文" group-title="mytv",鳳凰中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
+https://cdn6.163189.xyz/163189/cctv1
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+https://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+https://cdn.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY資訊台
+https://cdn.163189.xyz/163189/hoy78
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY國際財經台
+https://cdn11.163189.xyz/163189/2c86601a7180416e
+#EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
+https://cdn10.163189.xyz/stream/163189/viu/
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 tvg-name="Now新聞台" group-title="mytv",NOW新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+https://cdn.163189.xyz/163189/rthk31
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+https://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-name="澳視澳門" group-title="mytv",澳視澳門
+https://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 tvg-name="澳視衛星" group-title="mytv",澳視衛星
+https://cdn6.163189.xyz/163189/as
+#EXTINF:-1 tvg-name="澳視體育" group-title="mytv",澳門體育
+https://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳視綜藝" group-title="mytv",澳門綜藝
+https://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-name="澳門蓮花" group-title="mytv",澳門蓮花
+https://cdn6.163189.xyz/163189/amlh
+#EXTINF:-1 tvg-name="重溫經典" group-title="mytv",重溫經典
+https://cdn6.163189.xyz/163189/cwjd
+#EXTINF:-1 tvg-name="鳳凰資訊" group-title="mytv",鳳凰資訊
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-name="鳳凰香港" group-title="mytv",鳳凰香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
+https://cdn6.163189.xyz/163189/tvb1
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
+https://cdn6.163189.xyz/163189/j1
+#EXTINF:-1 tvg-name="翡翠劇集台" group-title="mytv",翡翠劇集台
+https://cdn6.163189.xyz/163189/tvbd
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+https://cdn6.163189.xyz/163189/fct
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(字幕)
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
+https://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-name="廣東珠江" group-title="mytv",廣東珠江
+https://cdn2.163189.xyz/163189/gdzj
+#EXTINF:-1 tvg-name="廣東體育" group-title="mytv",廣東體育
+https://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 tvg-name="八度空間" group-title="mytv",八度空間
+https://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-name="Channel 5" group-title="mytv",CH5
+https://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="Channel 8" group-title="mytv",CH8
+https://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="Channel U" group-title="mytv",CHU
+https://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-name="龍華電影" group-title="mytv",龍華電影
+https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-name="龍華經典" group-title="mytv",龍華經典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-name="龍華偶像" group-title="mytv",龍華偶像
+https://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-name="龍華日韓" group-title="mytv",龍華日韓
+https://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="mytv",龍華戲劇
+https://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戲
+https://o11.163189.xyz/stream/live/jgbdx/
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台
+https://cdn6.163189.xyz/163189/hlfct
+#EXTINF:-1 tvg-name="TVB亞洲武俠" group-title="mytv",TVB亞洲武俠
+https://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娛樂新聞台
+https://cdn6.163189.xyz/163189/ylxw
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
+https://cdn6.163189.xyz/163189/wxxwt
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+https://cdn6.163189.xyz/163189/tvbxh
+#EXTINF:-1 tvg-name="海峽衛視" group-title="mytv",海峽衛視
+https://cdn3.163189.xyz/163189/hxws
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+https://cdn10.163189.xyz/stream/163189/xinghe/
+#EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映新加坡
+https://cdn10.163189.xyz/stream/163189/typd/
+#EXTINF:-1 tvg-name="天映經典" group-title="mytv",天映經典
+https://cdn10.163189.xyz/stream/163189/ccm/
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台(硬字幕)
+https://cdn6.163189.xyz/163189/jade
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 tvg-name="AOD" group-title="mytv",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="AEC" group-title="mytv",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-name="QJ" group-title="mytv",Astro QJ
+https://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="mytv",Astro歡喜台
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-name="iQIYI" group-title="mytv",愛奇藝
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="天映馬來西亞" group-title="mytv",天映頻道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="天映經典" group-title="mytv",天映經典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧經典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" group-title="mytv",CCTV14
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+#EXTINF:-1 tvg-name="重溫經典" group-title="mytv",重溫經典
+https://cdn13.178.indevs.in/163189/21d79187db6e9793
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="mytv",CHC家庭影院
+https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
+#EXTINF:-1 tvg-name="CHC動作電影" group-title="mytv",CHC動作電影
+https://cdn13.178.indevs.in/163189/32a810b251717bd0
+#EXTINF:-1 tvg-name="廣州綜合" group-title="mytv",廣州綜合
+https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+#EXTINF:-1 tvg-name="廣州新聞" group-title="mytv",廣州新聞
+https://cdn13.178.indevs.in/163189/609602b1e1048784
+#EXTINF:-1 tvg-name="南國都市4K" group-title="mytv",廣州南國都市
+https://cdn15.163189.xyz/163189/90871926591ebcbc
+#EXTINF:-1 tvg-name="五星體育" group-title="mytv",五星體育
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-name="民視影劇台" group-title="mytv",民視影劇台
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 tvg-name="公視戲劇" group-title="mytv",公視戲劇
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 tvg-name="采昌影劇台" group-title="mytv",采昌影劇台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 tvg-name="靖天映畫" group-title="mytv",靖天映畫
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 tvg-name="靖天戲劇台" group-title="mytv",靖天戲劇台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天電影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戲劇台
+https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+#EXTINF:-1 tvg-name="影迷數位電影台" group-title="mytv",影迷數位電影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 tvg-name="amc電影台" group-title="mytv",amc電影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="mytv",CinemaWorld
+https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="mytv",My Cinema Europe
+https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 tvg-name="經典電影台" group-title="mytv",經典電影台
+https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="mytv",CMusic
+https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 tvg-name="DreamWorks" group-title="mytv",DreamWorks夢工廠動畫
+https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 tvg-name="精選動漫台" group-title="mytv",精選動漫台
+https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戲
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(WebVTT字幕)
+https://hls.163189.xyz/163189/0205c25f6b2ce920
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(WebVTT字幕)
+https://hls.163189.xyz/163189/d6a00a3009bf239e
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(WebVTT字幕)
+https://hls.163189.xyz/163189/a2beac471af96802
+#EXTINF:-1 tvg-name="黃金華劇台" group-title="mytv",黃金華劇台(WebVTT字幕)
+https://hls.163189.xyz/163189/71fb62ece10887e8
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus
+https://smt.1678520.xyz/163189/de659ed6e3ab1e55
+#EXTINF:-1 tvg-name="緯來電影台" group-title="mytv",緯來電影台
+https://smt.1678520.xyz/163189/602e9465658d4f8c
+#EXTINF:-1 tvg-name="緯來戲劇台" group-title="mytv",緯來戲劇台
+https://smt.1678520.xyz/163189/ab657380c65c1fd1
+#EXTINF:-1 tvg-name="緯來體育台" group-title="mytv",緯來體育台
+https://smt.1678520.xyz/163189/b10b2645c6d9de2b
+#EXTINF:-1 tvg-name="龍祥時代" group-title="mytv",龍祥時代
+https://smt.1678520.xyz/163189/6963a2247128286b
+#EXTINF:-1 tvg-name="東森電影" group-title="mytv",東森電影
+https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
+#EXTINF:-1 tvg-name="東森戲劇" group-title="mytv",東森戲劇
+https://smt.1678520.xyz/163189/f60cd3f14b06dabc
+#EXTINF:-1 tvg-name="東森洋片" group-title="mytv",東森洋片
+https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+https://smt2.1678520.xyz/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+https://smt2.1678520.xyz/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
+https://smt2.1678520.xyz/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB PLUS
+https://smt2.1678520.xyz/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+https://smt2.1678520.xyz/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧經典台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娛樂新聞台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
+https://smt2.1678520.xyz/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVSix
+https://smt2.1678520.xyz/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY資訊台
+https://smt2.1678520.xyz/smt3.2.1.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="鳳凰中文" group-title="mytv",鳳凰中文
+https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="鳳凰資訊" group-title="mytv",鳳凰資訊
+https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="鳳凰香港" group-title="mytv",鳳凰香港
+https://smt2.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="美亞電影台" group-title="mytv",美亞電影台
+https://smt2.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映馬來西亞" group-title="mytv",天映頻道
+https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映經典" group-title="mytv",天映經典
+https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="AOD" group-title="mytv",Astro AOD
+https://smt2.1678520.xyz/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="AEC" group-title="mytv",Astro AEC
+https://smt2.1678520.xyz/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="iQIYI" group-title="mytv",愛奇藝
+https://smt2.1678520.xyz/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-name="QJ" group-title="mytv",Astro QJ
+https://smt2.1678520.xyz/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="mytv",Astro歡喜台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空間" group-title="mytv",八度空間
+https://smt2.1678520.xyz/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="緯來電影台" group-title="mytv",緯來電影
+https://smt2.1678520.xyz/smt3.2.1.php?id=videolandmovie
+#EXTINF:-1 tvg-name="緯來體育台" group-title="mytv",緯來體育
+https://smt2.1678520.xyz/smt3.2.1.php?id=videolandsport
+
+
+
+#########################################
+             NEWS
+#########################################
+
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN*" tvg-logo="http://23.227.147.172:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN*
+http://ky-tv.cc:80/brendan1/brendan1/1846753.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News Channel" tvg-logo="http://23.227.147.172:80/images/06d4711bdf88b2a49098b97b1dbd6d85.png" group-title="USA News",USA Fox News Channel
+http://ky-tv.cc:80/brendan1/brendan1/1846754.ts
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="USA OAN (One America News Network)" tvg-logo="http://172.110.220.61:80/images/e7ce7207e9824ac6b3003f5209c19e8b.png" group-title="USA News",USA OAN (One America News Network)
+http://ky-tv.cc:80/brendan1/brendan1/1846765.ts
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="USA CNBC World" tvg-logo="http://23.227.147.172:80/images/d10a64b7dae17d8cb16f87e937ef4ca8.png" group-title="USA News",USA CNBC World
+http://ky-tv.cc:80/brendan1/brendan1/1846793.ts
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA BBC World News" tvg-logo="http://23.227.147.172:80/images/3d87c506ecb1e0f104cbaf21039c12a8.png" group-title="USA News",USA BBC World News
+http://ky-tv.cc:80/brendan1/brendan1/1847083.ts
+#EXTINF:-1 tvg-id="CBNSTR" tvg-name="USA CHEDDAR NEWS" tvg-logo="http://172.110.220.61:80/images/f7e4479aa6b3f9047c78703099d643f7.png" group-title="USA News",USA CHEDDAR NEWS
+http://ky-tv.cc:80/brendan1/brendan1/1852101.ts
+#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="USA Cheddar Business" tvg-logo="http://172.110.220.61:80/images/f7e4479aa6b3f9047c78703099d643f7.png" group-title="USA News",USA Cheddar Business
+http://ky-tv.cc:80/brendan1/brendan1/1852102.ts
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="USA Bloomberg" tvg-logo="http://172.110.220.61:80/images/556a887a4d1a629b64692fadd01bce04.png" group-title="USA News",USA Bloomberg
+http://ky-tv.cc:80/brendan1/brendan1/1852103.ts
+#EXTINF:-1 tvg-id="newsy.us" tvg-name="USA Newsy" tvg-logo="http://172.110.220.61:80/images/69797a7a3b3a1ab9e16d4e3b051188bb.png" group-title="USA News",USA Newsy
+http://ky-tv.cc:80/brendan1/brendan1/1852104.ts
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC SD" tvg-logo="http://23.227.147.172:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="USA News",USA CNBC SD
+http://ky-tv.cc:80/brendan1/brendan1/1855511.ts
+
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN SD" tvg-logo="http://172.110.220.61:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png" group-title="USA Sports",USA ESPN SD
+http://ky-tv.cc:80/brendan1/brendan1/177207.ts
+#EXTINF:-1 timeshift="1" tvg-id="foxsports1.us" tvg-name="USA FOX SPORTS 1 HD" tvg-logo="http://185.193.88.130:80/images/207e4a4859c6f8a03d7d85dfd7b17176.png" group-title="USA Sports",USA FOX SPORTS 1 HD
+http://ky-tv.cc:80/brendan1/brendan1/220387.ts
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA FOX SPORTS 2 HD" tvg-logo="http://185.193.88.130:80/images/abe900af84acbfa9f0fa73a8d0e79930.png" group-title="USA Sports",USA FOX SPORTS 2 HD
+http://ky-tv.cc:80/brendan1/brendan1/220388.ts
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA ACC Network" tvg-logo="http://185.193.88.130:80/images/c6e69d75742a6bbdeb383c9d58a2605b.png" group-title="USA Sports",USA ACC Network
+http://ky-tv.cc:80/brendan1/brendan1/220394.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN HD" tvg-logo="http://23.227.147.172:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png" group-title="USA Sports",USA ESPN HD
+http://ky-tv.cc:80/brendan1/brendan1/220406.ts
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA ESPN 2" tvg-logo="http://23.227.147.172:80/images/08039b40472b82555a3ba745b0ed32df.png" group-title="USA Sports",USA ESPN 2
+http://ky-tv.cc:80/brendan1/brendan1/220407.ts
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA ESPN NEWS HD" tvg-logo="http://185.193.88.130:80/images/2c3fc98af320861514c64b713186c9e3.png" group-title="USA Sports",USA ESPN NEWS HD
+http://ky-tv.cc:80/brendan1/brendan1/220410.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA ESPN U HD" tvg-logo="http://172.110.220.61:80/images/cba769a92e8b87975731d3c833669c6a.png" group-title="USA Sports",USA ESPN U HD
+http://ky-tv.cc:80/brendan1/brendan1/220412.ts
+#EXTINF:-1 tvg-id="msg2.us" tvg-name="USA MSG 2 HD" tvg-logo="http://23.227.147.172:80/images/264f50f7383263ab717b0dd33f68f3fe.png" group-title="USA Sports",USA MSG 2 HD
+http://ky-tv.cc:80/brendan1/brendan1/220421.ts
+#EXTINF:-1 tvg-id="msgsnplus2.us" tvg-name="USA MSG 2 PLUS HD" tvg-logo="http://185.193.88.130:80/images/264f50f7383263ab717b0dd33f68f3fe.png" group-title="USA Sports",USA MSG 2 PLUS HD
+http://ky-tv.cc:80/brendan1/brendan1/220422.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA NBC GOLF HD" tvg-logo="http://185.193.88.130:80/images/bd5acf4711283ecd26f1fbf8434b39ed.png" group-title="USA NBC Sports",USA NBC GOLF HD
+http://ky-tv.cc:80/brendan1/brendan1/220424.ts
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA Tennis Channel*" tvg-logo="http://23.227.147.172:80/images/559c94740089687a14f418003bde0947.png" group-title="USA Sports",USA Tennis Channel*
+http://ky-tv.cc:80/brendan1/brendan1/220448.ts
+
+
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="CA MLB Network" tvg-logo="http://23.227.147.172:80/images/6febc1188009677559358a68cb9223d6.png" group-title="CA: Canada Sports",CA MLB Network
+http://ky-tv.cc:80/brendan1/brendan1/182012.ts
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV" tvg-logo="http://185.193.88.130:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="CA: Canada Sports",CA NBA TV
+http://ky-tv.cc:80/brendan1/brendan1/182026.ts
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA NFL Network" tvg-logo="http://23.227.147.172:80/images/400a545783c26f0d74a40f5d3303f59f.png" group-title="CA: Canada Sports",CA NFL Network
+http://ky-tv.cc:80/brendan1/brendan1/182030.ts
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World HD" tvg-logo="http://23.227.147.172:80/images/0111f2442b173833163419c7f6396ab4.png" group-title="CA: Canada Sports",CA Sportsnet World HD
+http://ky-tv.cc:80/brendan1/brendan1/182080.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA SPORTSNET_PPV" tvg-logo="" group-title="CA: Canada Sports",CA SPORTSNET_PPV
+http://ky-tv.cc:80/brendan1/brendan1/182083.ts
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1" tvg-logo="http://185.193.88.130:80/images/868df5064f70c896741ca6fa4f33500d.png" group-title="CA: Canada Sports",CA TSN 1
+http://ky-tv.cc:80/brendan1/brendan1/182183.ts
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD" tvg-logo="http://172.110.220.61:80/images/a17274b6179195e35df27b4764772045.png" group-title="CA: Canada Sports",CA TSN 4 HD
+http://ky-tv.cc:80/brendan1/brendan1/182186.ts
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA beIN Sports HD" tvg-logo="http://23.227.147.172:80/images/637304911355ee96d801524b303196ed.png" group-title="CA: Canada Sports",CA beIN Sports HD
+http://ky-tv.cc:80/brendan1/brendan1/228404.ts
+#EXTINF:-1 timeshift="1" tvg-id="tsn1.ca" tvg-name="CA TSN 1 HD" tvg-logo="http://185.193.88.130:80/images/30b077e72c6291ea119c03a9461ecfc1.png" group-title="CA: Canada Sports",CA TSN 1 HD
+http://ky-tv.cc:80/brendan1/brendan1/228697.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA MLB Network Canada HD" tvg-logo="http://172.110.220.61:80/images/6febc1188009677559358a68cb9223d6.png" group-title="CA: Canada Sports",CA MLB Network Canada HD
+http://ky-tv.cc:80/brendan1/brendan1/1506690.ts
 
 
 
