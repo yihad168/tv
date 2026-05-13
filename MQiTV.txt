@@ -441,6 +441,98 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
         },
 
+    {
+      "name": "🐅港台2",
+      "type": 0,
+      "url": "http://php.946985.filegear-sg.me/test.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "🐅飞扬",
+      "type": 0,
+      "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "🐅涛涛TV",
+      "type": 0,
+      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+        {
+            "name": "🛰️全球电视直播",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/fyzb.txt",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+
+
+        {
+            "name": "🎠香港频道",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+
+        {
+            "name": "👽台湾频道",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+
+        {
+            "name": "🛫澳门频道",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/ipv4/categories/macau.m3u",
+            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+
+
+    {
+      "name": "分类电影",
+      "type": 0,
+      "url": "https://pan.uvqzu.cn/f/GeecQ/03.%E5%88%86%E7%B1%BB%E7%94%B5%E5%BD%B1.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/03.分类电影.png"
+    },
+
+
+    {
+      "name": "万部电影",
+      "type": 0,
+      "url": "https://pan.uvqzu.cn/f/PXefE/04.%E4%B8%87%E9%83%A8%E7%94%B5%E5%BD%B1.txt",
+      "ua": "changshou/521",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/04.万部电影.png"
+    },
+
+
  {
       "name": "🔕歐華167🔓🔓VPN",
       "type": 0,
