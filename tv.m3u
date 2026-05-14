@@ -452,6 +452,10 @@ https://livecdn9.ptsplus.tv/pts-youth-B/playlist.m3u8
 #EXTINF:-1 group-title="台灣",小公視(PTS+)
 https://livecdn9.ptsplus.tv/pts-youth-B/3.m3u8
 
+#EXTINF:-1 group-title="台灣",原視
+https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+
+
 
 #EXTINF:-1 group-title="台灣",民視新聞(211)
 http://211.72.174.95:8117/0.ts
@@ -465,6 +469,11 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 group-title="台灣",台視(211)
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="台灣",東森新聞
+http://211.72.174.95:8138/0.ts
+
+
+
 
 
 #EXTINF:-1 group-title="台灣",緯來電影
@@ -1442,77 +1451,7 @@ https://smt2.1678520.xyz/smt3.2.1.php?id=videolandsport
              NEWS
 #########################################
 
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN*" tvg-logo="http://23.227.147.172:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN*
-http://ky-tv.cc:80/brendan1/brendan1/1846753.ts
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA Fox News Channel" tvg-logo="http://23.227.147.172:80/images/06d4711bdf88b2a49098b97b1dbd6d85.png" group-title="USA News",USA Fox News Channel
-http://ky-tv.cc:80/brendan1/brendan1/1846754.ts
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="USA OAN (One America News Network)" tvg-logo="http://172.110.220.61:80/images/e7ce7207e9824ac6b3003f5209c19e8b.png" group-title="USA News",USA OAN (One America News Network)
-http://ky-tv.cc:80/brendan1/brendan1/1846765.ts
-#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="USA CNBC World" tvg-logo="http://23.227.147.172:80/images/d10a64b7dae17d8cb16f87e937ef4ca8.png" group-title="USA News",USA CNBC World
-http://ky-tv.cc:80/brendan1/brendan1/1846793.ts
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA BBC World News" tvg-logo="http://23.227.147.172:80/images/3d87c506ecb1e0f104cbaf21039c12a8.png" group-title="USA News",USA BBC World News
-http://ky-tv.cc:80/brendan1/brendan1/1847083.ts
-#EXTINF:-1 tvg-id="CBNSTR" tvg-name="USA CHEDDAR NEWS" tvg-logo="http://172.110.220.61:80/images/f7e4479aa6b3f9047c78703099d643f7.png" group-title="USA News",USA CHEDDAR NEWS
-http://ky-tv.cc:80/brendan1/brendan1/1852101.ts
-#EXTINF:-1 tvg-id="cheddarbusiness.us" tvg-name="USA Cheddar Business" tvg-logo="http://172.110.220.61:80/images/f7e4479aa6b3f9047c78703099d643f7.png" group-title="USA News",USA Cheddar Business
-http://ky-tv.cc:80/brendan1/brendan1/1852102.ts
-#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="USA Bloomberg" tvg-logo="http://172.110.220.61:80/images/556a887a4d1a629b64692fadd01bce04.png" group-title="USA News",USA Bloomberg
-http://ky-tv.cc:80/brendan1/brendan1/1852103.ts
-#EXTINF:-1 tvg-id="newsy.us" tvg-name="USA Newsy" tvg-logo="http://172.110.220.61:80/images/69797a7a3b3a1ab9e16d4e3b051188bb.png" group-title="USA News",USA Newsy
-http://ky-tv.cc:80/brendan1/brendan1/1852104.ts
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA CNBC SD" tvg-logo="http://23.227.147.172:80/images/c7808644eda4e181fbae1ba268d14bb3.png" group-title="USA News",USA CNBC SD
-http://ky-tv.cc:80/brendan1/brendan1/1855511.ts
-
-
-#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN SD" tvg-logo="http://172.110.220.61:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png" group-title="USA Sports",USA ESPN SD
-http://ky-tv.cc:80/brendan1/brendan1/177207.ts
-#EXTINF:-1 timeshift="1" tvg-id="foxsports1.us" tvg-name="USA FOX SPORTS 1 HD" tvg-logo="http://185.193.88.130:80/images/207e4a4859c6f8a03d7d85dfd7b17176.png" group-title="USA Sports",USA FOX SPORTS 1 HD
-http://ky-tv.cc:80/brendan1/brendan1/220387.ts
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA FOX SPORTS 2 HD" tvg-logo="http://185.193.88.130:80/images/abe900af84acbfa9f0fa73a8d0e79930.png" group-title="USA Sports",USA FOX SPORTS 2 HD
-http://ky-tv.cc:80/brendan1/brendan1/220388.ts
-#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="USA ACC Network" tvg-logo="http://185.193.88.130:80/images/c6e69d75742a6bbdeb383c9d58a2605b.png" group-title="USA Sports",USA ACC Network
-http://ky-tv.cc:80/brendan1/brendan1/220394.ts
-#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN HD" tvg-logo="http://23.227.147.172:80/images/f11c7812e24f17351f1f6c7a22fff7f0.png" group-title="USA Sports",USA ESPN HD
-http://ky-tv.cc:80/brendan1/brendan1/220406.ts
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA ESPN 2" tvg-logo="http://23.227.147.172:80/images/08039b40472b82555a3ba745b0ed32df.png" group-title="USA Sports",USA ESPN 2
-http://ky-tv.cc:80/brendan1/brendan1/220407.ts
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA ESPN NEWS HD" tvg-logo="http://185.193.88.130:80/images/2c3fc98af320861514c64b713186c9e3.png" group-title="USA Sports",USA ESPN NEWS HD
-http://ky-tv.cc:80/brendan1/brendan1/220410.ts
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA ESPN U HD" tvg-logo="http://172.110.220.61:80/images/cba769a92e8b87975731d3c833669c6a.png" group-title="USA Sports",USA ESPN U HD
-http://ky-tv.cc:80/brendan1/brendan1/220412.ts
-#EXTINF:-1 tvg-id="msg2.us" tvg-name="USA MSG 2 HD" tvg-logo="http://23.227.147.172:80/images/264f50f7383263ab717b0dd33f68f3fe.png" group-title="USA Sports",USA MSG 2 HD
-http://ky-tv.cc:80/brendan1/brendan1/220421.ts
-#EXTINF:-1 tvg-id="msgsnplus2.us" tvg-name="USA MSG 2 PLUS HD" tvg-logo="http://185.193.88.130:80/images/264f50f7383263ab717b0dd33f68f3fe.png" group-title="USA Sports",USA MSG 2 PLUS HD
-http://ky-tv.cc:80/brendan1/brendan1/220422.ts
-#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA NBC GOLF HD" tvg-logo="http://185.193.88.130:80/images/bd5acf4711283ecd26f1fbf8434b39ed.png" group-title="USA NBC Sports",USA NBC GOLF HD
-http://ky-tv.cc:80/brendan1/brendan1/220424.ts
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA Tennis Channel*" tvg-logo="http://23.227.147.172:80/images/559c94740089687a14f418003bde0947.png" group-title="USA Sports",USA Tennis Channel*
-http://ky-tv.cc:80/brendan1/brendan1/220448.ts
-
-
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="CA MLB Network" tvg-logo="http://23.227.147.172:80/images/6febc1188009677559358a68cb9223d6.png" group-title="CA: Canada Sports",CA MLB Network
-http://ky-tv.cc:80/brendan1/brendan1/182012.ts
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV" tvg-logo="http://185.193.88.130:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="CA: Canada Sports",CA NBA TV
-http://ky-tv.cc:80/brendan1/brendan1/182026.ts
-#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA NFL Network" tvg-logo="http://23.227.147.172:80/images/400a545783c26f0d74a40f5d3303f59f.png" group-title="CA: Canada Sports",CA NFL Network
-http://ky-tv.cc:80/brendan1/brendan1/182030.ts
-#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World HD" tvg-logo="http://23.227.147.172:80/images/0111f2442b173833163419c7f6396ab4.png" group-title="CA: Canada Sports",CA Sportsnet World HD
-http://ky-tv.cc:80/brendan1/brendan1/182080.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA SPORTSNET_PPV" tvg-logo="" group-title="CA: Canada Sports",CA SPORTSNET_PPV
-http://ky-tv.cc:80/brendan1/brendan1/182083.ts
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1" tvg-logo="http://185.193.88.130:80/images/868df5064f70c896741ca6fa4f33500d.png" group-title="CA: Canada Sports",CA TSN 1
-http://ky-tv.cc:80/brendan1/brendan1/182183.ts
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD" tvg-logo="http://172.110.220.61:80/images/a17274b6179195e35df27b4764772045.png" group-title="CA: Canada Sports",CA TSN 4 HD
-http://ky-tv.cc:80/brendan1/brendan1/182186.ts
-#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA beIN Sports HD" tvg-logo="http://23.227.147.172:80/images/637304911355ee96d801524b303196ed.png" group-title="CA: Canada Sports",CA beIN Sports HD
-http://ky-tv.cc:80/brendan1/brendan1/228404.ts
-#EXTINF:-1 timeshift="1" tvg-id="tsn1.ca" tvg-name="CA TSN 1 HD" tvg-logo="http://185.193.88.130:80/images/30b077e72c6291ea119c03a9461ecfc1.png" group-title="CA: Canada Sports",CA TSN 1 HD
-http://ky-tv.cc:80/brendan1/brendan1/228697.ts
-#EXTINF:-1 tvg-id="" tvg-name="CA MLB Network Canada HD" tvg-logo="http://172.110.220.61:80/images/6febc1188009677559358a68cb9223d6.png" group-title="CA: Canada Sports",CA MLB Network Canada HD
-http://ky-tv.cc:80/brendan1/brendan1/1506690.ts
-
-
-
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt
 
 #########################################
              體育世界
@@ -1521,14 +1460,339 @@ http://ky-tv.cc:80/brendan1/brendan1/1506690.ts
 #EXTM3U url-tvg="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_epg.xml"
 
 
+#EXTINF:-1  group-title="體育世界",NESN 4K
+https://iptv.852851.xyz/ch/4213d7c43e94f427ba46fe8d513eeb87/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports F1 4K UK
+https://iptv.852851.xyz/ch/bd0b990aff0b71aa30c31c1fdffcd489/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Main Event 4K UK
+https://iptv.852851.xyz/ch/94bc404ba847c522d544ef509a1f7bec/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet 4K CA
+https://iptv.852851.xyz/ch/788975a1aeb9eb21c5df4d7a4f2b4f57/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet One 4K CA
+https://iptv.852851.xyz/ch/a9d13ca36dbe39ea4ccfc992454c2949/master.m3u8
+#EXTINF:-1  group-title="體育世界",Stingray Ambiance 4K CA
+https://iptv.852851.xyz/ch/2d7e3f74ee17d098e5a28abc2ddb276f/master.m3u8
+#EXTINF:-1  group-title="體育世界",Stingray Festival 4K CA
+https://iptv.852851.xyz/ch/1d4986dd6c77a0981c8b3320e23f3c13/master.m3u8
+#EXTINF:-1  group-title="體育世界",Stingray NOW 4K CA
+https://iptv.852851.xyz/ch/8156776cca812d2161e96c067e59cf58/master.m3u8
+#EXTINF:-1  group-title="體育世界",TNT Sports Ultimate 4K UK
+https://iptv.852851.xyz/ch/7ef3550983afc7a57615b4960a5f1e04/master.m3u8
+#EXTINF:-1  group-title="體育世界",TSN 4K CA
+https://iptv.852851.xyz/ch/8ff763fd35d875090fd9ecd3787d3224/master.m3u8
+#EXTINF:-1  group-title="體育世界",ACC Digital Network
+https://iptv.852851.xyz/ch/d3f2800feca4e468a70c7464615b1a78/master.m3u8
+#EXTINF:-1  group-title="體育世界",Altitude Sports
+https://iptv.852851.xyz/ch/78211070648680044214a9af60354ca0/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN SPORTS XTRA
+https://iptv.852851.xyz/ch/d11f96193790e7aac85cdd59e30b2382/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN SPORTS
+https://iptv.852851.xyz/ch/f8528e6a4a6c9e7da66021cb74b99f83/master.m3u8
+#EXTINF:-1  group-title="體育世界",Big Ten Network
+https://iptv.852851.xyz/ch/5f40c4c1ce39f8641a96adc541d12f18/master.m3u8
+#EXTINF:-1  group-title="體育世界",CBS Sports Network
+https://iptv.852851.xyz/ch/ea517bff4402ffda8d3e00a3c9886b8f/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 1 GR
+https://iptv.852851.xyz/ch/6394a0b1ec6363b07c37ced887f4b955/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 2 GR
+https://iptv.852851.xyz/ch/1af5ff28ac3ca79ee196acc1bedd0eda/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 3 GR
+https://iptv.852851.xyz/ch/b4a1c35febceb1931172b9436e4d3cb8/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 4 GR
+https://iptv.852851.xyz/ch/c4b023f8305cc9c03e2e37c557463b52/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 5 GR
+https://iptv.852851.xyz/ch/fb7b1307c45ae94264d86f4340bc40ed/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 6 GR
+https://iptv.852851.xyz/ch/9b641af2adee72db43c2b936572ba11c/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 7 GR
+https://iptv.852851.xyz/ch/e9551200da050e511cf4fe3a8e7da415/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 8 GR
+https://iptv.852851.xyz/ch/5c79bc0c89964dff9f5fe90fa90be867/master.m3u8
+#EXTINF:-1  group-title="體育世界",Cosmote Sport 9 GR
+https://iptv.852851.xyz/ch/b9c6cc06051dda756078fc59c3d8804b/master.m3u8
+#EXTINF:-1  group-title="體育世界",ESPN Deportes
+https://iptv.852851.xyz/ch/f29b7d2d1e025f8f710777d6e9dacaf7/master.m3u8
+#EXTINF:-1  group-title="體育世界",ESPN
+https://iptv.852851.xyz/ch/75a9574332955be8bb9be27b4660836d/master.m3u8
+#EXTINF:-1  group-title="體育世界",ESPN2
+https://iptv.852851.xyz/ch/6b0c81641d32db9353070cb781f3998d/master.m3u8
+#EXTINF:-1  group-title="體育世界",ESPN8 The Ocho
+https://iptv.852851.xyz/ch/f903742c76c5259334dd83c3f02a54c6/master.m3u8
+#EXTINF:-1  group-title="體育世界",ESPNEWS
+https://iptv.852851.xyz/ch/25e86f19270687bbfb1e8570d6360a21/master.m3u8
+#EXTINF:-1  group-title="體育世界",ESPNU
+https://iptv.852851.xyz/ch/a9e90c47eef4a753e1bbca654dd7a104/master.m3u8
+#EXTINF:-1  group-title="體育世界",EuroSport 1 UK
+https://iptv.852851.xyz/ch/d57084eab1d815ac130ae1755f0a1ae4/master.m3u8
+#EXTINF:-1  group-title="體育世界",EuroSport 2 UK
+https://iptv.852851.xyz/ch/e137c29820cc5c607fc031e65edd29f7/master.m3u8
+#EXTINF:-1  group-title="體育世界",FanDuel Racing
+https://iptv.852851.xyz/ch/8bcbe0e7f6b6528c9684d1b0da74241c/master.m3u8
+#EXTINF:-1  group-title="體育世界",FanDuel TV Extra
+https://iptv.852851.xyz/ch/a2f5fb1556b854eb9303ddb8e383f87a/master.m3u8
+#EXTINF:-1  group-title="體育世界",FanDuel TV
+https://iptv.852851.xyz/ch/215cb81af55381634753da0c309e46fa/master.m3u8
+#EXTINF:-1  group-title="體育世界",FIGHT SPORTS 
+https://iptv.852851.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 501 AU
+https://iptv.852851.xyz/ch/f004708c5e19549922015dba2ab18053/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 502 AU
+https://iptv.852851.xyz/ch/010cf94a28f1044dd09b1a899ab0d5b6/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 503 AU
+https://iptv.852851.xyz/ch/5eaf7a604ce49ab84abd674af222b5ea/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 504 AU
+https://iptv.852851.xyz/ch/2a92b7e319ec1a44cc3c7141a49c6533/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 505 AU
+https://iptv.852851.xyz/ch/8262b52aedbf35c96d924ebc6a470946/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 506 AU
+https://iptv.852851.xyz/ch/34171726ab8a8fdc922ff536cff891b1/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fox Sports 507 AU
+https://iptv.852851.xyz/ch/8f161dc63de033568a4590b72809afcb/master.m3u8
+#EXTINF:-1  group-title="體育世界",FS1
+https://iptv.852851.xyz/ch/16afd98d9cf4464e4b0a436744a1256b/master.m3u8
+#EXTINF:-1  group-title="體育世界",FS2
+https://iptv.852851.xyz/ch/55389daf1fca8230237d804feee04444/master.m3u8
+#EXTINF:-1  group-title="體育世界",Fubo Sports Network
+https://iptv.852851.xyz/ch/0f08892344581662951383a05d74541d/master.m3u8
+#EXTINF:-1  group-title="體育世界",Golf Channel
+https://iptv.852851.xyz/ch/87a84e7cf5970831e7555788d83e3a3a/master.m3u8
+#EXTINF:-1  group-title="體育世界",Marquee Sports Network
+https://iptv.852851.xyz/ch/67153ffd7d8086bdaa1299ffbfb9445e/master.m3u8
+#EXTINF:-1  group-title="體育世界",MLB Network
+https://iptv.852851.xyz/ch/f68e5a8078f9b7321384c8c8fc013cc4/master.m3u8
+#EXTINF:-1  group-title="體育世界",MotoGP TV
+https://iptv.852851.xyz/ch/97df4f1e569cc470b2940fd10b613a2a/master.m3u8
+#EXTINF:-1  group-title="體育世界",MSG SportsZone
+https://iptv.852851.xyz/ch/cf880edb083c23bb61e5520026585ddd/master.m3u8
+#EXTINF:-1  group-title="體育世界",MSG
+https://iptv.852851.xyz/ch/6a704eb917b262a524d0f186de0498e9/master.m3u8
+#EXTINF:-1  group-title="體育世界",NASCAR Channel
+https://iptv.852851.xyz/ch/107bebbd9180a298ccebdb253c1f9cbd/master.m3u8
+#EXTINF:-1  group-title="體育世界",NBC Sports Bay Area
+https://iptv.852851.xyz/ch/51ade5e14b8b010084fcac9bde1bc61f/master.m3u8
+#EXTINF:-1  group-title="體育世界",NBC Sports Boston
+https://iptv.852851.xyz/ch/ae916654554b3c49b2c856c77430c365/master.m3u8
+#EXTINF:-1  group-title="體育世界",NBC Sports California
+https://iptv.852851.xyz/ch/d32a669551b7ca66397e98093dae6eff/master.m3u8
+#EXTINF:-1  group-title="體育世界",NBC Sports NOW
+https://iptv.852851.xyz/ch/7979fec45200b99551f9e5019954a852/master.m3u8
+#EXTINF:-1  group-title="體育世界",NBC Sports Philadelphia
+https://iptv.852851.xyz/ch/213b52a8457b4c39c185298a5df74321/master.m3u8
+#EXTINF:-1  group-title="體育世界",NESN Nation
+https://iptv.852851.xyz/ch/8f5958a87a3f33568ebf9fc4e1ce42bb/master.m3u8
+#EXTINF:-1  group-title="體育世界",NFL Network
+https://iptv.852851.xyz/ch/50e44ffc37741b47739457fba51a227a/master.m3u8
+#EXTINF:-1  group-title="體育世界",NFL RedZone
+https://iptv.852851.xyz/ch/7fe212daf0c05f9f07a6b82174bb58d1/master.m3u8
+#EXTINF:-1  group-title="體育世界",NHL Network
+https://iptv.852851.xyz/ch/29be07e54fd465ffdb753d20d05abf83/master.m3u8
+#EXTINF:-1  group-title="體育世界",PFL
+https://iptv.852851.xyz/ch/6f11f66663cdc1786e620c3f00ac84b9/master.m3u8
+#EXTINF:-1  group-title="體育世界",Premier Sports 1 UK
+https://iptv.852851.xyz/ch/44db9f01a6527d1f0fe2579186ebb6fa/master.m3u8
+#EXTINF:-1  group-title="體育世界",Premier Sports 2 UK
+https://iptv.852851.xyz/ch/8840a3826d7533ec85a18e6ef6e801e6/master.m3u8
+#EXTINF:-1  group-title="體育世界",Red Bull TV
+https://iptv.852851.xyz/ch/8cc0878f1c92f36a4bd095568cf3ee18/master.m3u8
+#EXTINF:-1  group-title="體育世界",SEC Network
+https://iptv.852851.xyz/ch/07dcd9f2f34c351467edee62eafd1fa3/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 1 NZ
+https://iptv.852851.xyz/ch/70d78f87f1f0e457d2f9164abeeed722/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 2 NZ
+https://iptv.852851.xyz/ch/c846659aac9c76c77b8a7580589e1c39/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 3 NZ
+https://iptv.852851.xyz/ch/ef70ad4f2530ddb96e7ea6c51aedce52/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 4 NZ
+https://iptv.852851.xyz/ch/f0cdab89b360d0c914aef209d3d89269/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 5 NZ
+https://iptv.852851.xyz/ch/a74c8ef0ce6e235fca317855f5ba64a1/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 6 NZ
+https://iptv.852851.xyz/ch/1e153f1fb1ccbf650bda7bae47e244e4/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 7 NZ
+https://iptv.852851.xyz/ch/49dc35bd137eb05b48bef9f8595406bc/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 8 Premier League NZ
+https://iptv.852851.xyz/ch/b4a8c10d80278ae783c89fe830a9ecab/master.m3u8
+#EXTINF:-1  group-title="體育世界",SKY Sport 9 NZ
+https://iptv.852851.xyz/ch/278e4121762644b45621672edd8bd680/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Action UK
+https://iptv.852851.xyz/ch/8dc4acbfb0cc317cf579b9e5072f913b/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Cricket UK
+https://iptv.852851.xyz/ch/f20221c881d6177fdbac71014162e963/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports F1 UK
+https://iptv.852851.xyz/ch/fcd24cf47abdfbe546a3f5c418b2e15a/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Football UK
+https://iptv.852851.xyz/ch/f251692e8c113a7aa504e61c4b2f98ff/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Golf UK
+https://iptv.852851.xyz/ch/6b16b3dc40dd358c8f424d3dfd963b8e/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Main Event UK
+https://iptv.852851.xyz/ch/8e7f4d61756a334943773b8e3c7b1e48/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Mix UK
+https://iptv.852851.xyz/ch/0596db9d39ed6f392123f82a483b5503/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports News UK
+https://iptv.852851.xyz/ch/809ac0feb08e75e55d6ff7f785e4b4e5/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Premier League UK
+https://iptv.852851.xyz/ch/5962885013d605383f164db560ce8cc9/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Racing UK
+https://iptv.852851.xyz/ch/ec825ddf2c8fc539df94b9f707b57895/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports Tennis UK
+https://iptv.852851.xyz/ch/9c7db8c91c4082c2d0af115a59bbdd5e/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sky Sports+ UK
+https://iptv.852851.xyz/ch/444c7cea2036e6ffa26c542c48856025/master.m3u8
+#EXTINF:-1  group-title="體育世界",Space City Home Network
+https://iptv.852851.xyz/ch/89848bc418d518c07606e0ba10a71e20/master.m3u8
+#EXTINF:-1  group-title="體育世界",Spectrum SportsNet LA Dodgers
+https://iptv.852851.xyz/ch/4bbdb78a0e33e44b87ddab0be60f7a79/master.m3u8
+#EXTINF:-1  group-title="體育世界",Spectrum SportsNet Lakers
+https://iptv.852851.xyz/ch/c2da5443b6d55864f2dff290f39cff3c/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet 360 CA
+https://iptv.852851.xyz/ch/fa9a4e784bd7dcf68a806d3a5856710d/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet East CA
+https://iptv.852851.xyz/ch/97b97e6a35a32d24265927cfd064d352/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet ONE CA
+https://iptv.852851.xyz/ch/3c64195d34ac3002cb46c887b8595ee8/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet Pittsburgh
+https://iptv.852851.xyz/ch/ab8715f1c70515c51198a23dfee47dbd/master.m3u8
+#EXTINF:-1  group-title="體育世界",Sportsnet World CA
+https://iptv.852851.xyz/ch/dd67b22546ad7a1ded79c3251580e771/master.m3u8
+#EXTINF:-1  group-title="體育世界",Strongman Champions League
+https://iptv.852851.xyz/ch/2125c23748ab8d83c14eae86b447eaef/master.m3u8
+#EXTINF:-1  group-title="體育世界",The Cowboy Channel
+https://iptv.852851.xyz/ch/a5b5812b771fe3fe462f70eed582de8d/master.m3u8
+#EXTINF:-1  group-title="體育世界",TNT Sports 1 UK
+https://iptv.852851.xyz/ch/13e95de0a5b3d13180a318527a959ffc/master.m3u8
+#EXTINF:-1  group-title="體育世界",TNT Sports 2 UK
+https://iptv.852851.xyz/ch/095274f949fea09fd3c2df98873c9d91/master.m3u8
+#EXTINF:-1  group-title="體育世界",TNT Sports 3 UK
+https://iptv.852851.xyz/ch/4a9995466bc739f56f0c4e16cf99ab7c/master.m3u8
+#EXTINF:-1  group-title="體育世界",TNT Sports 4 UK
+https://iptv.852851.xyz/ch/a6b48de73223d9b4ec1b05ed997b1e5f/master.m3u8
+#EXTINF:-1  group-title="體育世界",TSN1 CA
+https://iptv.852851.xyz/ch/2621d5a26c6450368f0fd9c2ec011d11/master.m3u8
+#EXTINF:-1  group-title="體育世界",TSN2 CA
+https://iptv.852851.xyz/ch/98b4c1da875aa45f7348f618748a5433/master.m3u8
+#EXTINF:-1  group-title="體育世界",TSN3 CA
+https://iptv.852851.xyz/ch/0c4c153d1c3a2c6fa9fdbe574d55788c/master.m3u8
+#EXTINF:-1  group-title="體育世界",TSN4 CA
+https://iptv.852851.xyz/ch/5f1d15219556c4328f53363d4af03209/master.m3u8
+#EXTINF:-1  group-title="體育世界",TSN5 CA
+https://iptv.852851.xyz/ch/19045d0386fe3f34ede3e45da1a355a1/master.m3u8
+#EXTINF:-1  group-title="體育世界",UFC
+https://iptv.852851.xyz/ch/80a1c27f2c0ff806f5668d7ebc9f07ef/master.m3u8
+#EXTINF:-1  group-title="體育世界",Willow Cricket
+https://iptv.852851.xyz/ch/1d8464374d454629a8d20dc553ea6b56/master.m3u8
+#EXTINF:-1  group-title="體育世界",Willow Sports
+https://iptv.852851.xyz/ch/6ed66c531f660b3dadb6a0afd0a8b8e4/master.m3u8
+#EXTINF:-1  group-title="體育世界",Women's Sports Network
+https://iptv.852851.xyz/ch/dd22e7408a4e18e7772cfef054f08145/master.m3u8
+#EXTINF:-1  group-title="體育世界",World Fishing Network
+https://iptv.852851.xyz/ch/d18a1d733d9c57f201148538cc2f6b46/master.m3u8
+#EXTINF:-1  group-title="體育世界",WWE Network
+https://iptv.852851.xyz/ch/4c9d4af1d33b49eb0dae73811115dec0/master.m3u8
+#EXTINF:-1  group-title="體育世界",WWE Superstar Central
+https://iptv.852851.xyz/ch/91990bbcad037c2815d5999fe36bec95/master.m3u8
+#EXTINF:-1  group-title="體育世界",YES Network
+https://iptv.852851.xyz/ch/ac5452f4877c623c857a289808b1baae/master.m3u8
+#EXTINF:-1  group-title="體育世界",Ziggo Sport 1 NL
+https://iptv.852851.xyz/ch/16bd369ce0db093e8280fce34e360238/master.m3u8
+#EXTINF:-1  group-title="體育世界",Ziggo Sport 2 NL
+https://iptv.852851.xyz/ch/0723791564047695b0530db33ba7923b/master.m3u8
+#EXTINF:-1  group-title="體育世界",Ziggo Sport 3 NL
+https://iptv.852851.xyz/ch/097d3d12a6974384feebc1c181187996/master.m3u8
+#EXTINF:-1  group-title="體育世界",Ziggo Sport 4 NL
+https://iptv.852851.xyz/ch/c7afa80476b9893417a11c4b4615673d/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 1 
+https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 2 
+https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 3 
+https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 4 
+https://iptv.852851.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 5 
+https://iptv.852851.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 6 
+https://iptv.852851.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 7 
+https://iptv.852851.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Premier 8 
+https://iptv.852851.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 1 
+https://iptv.852851.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 2 
+https://iptv.852851.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 3 
+https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 4 
+https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 5 
+https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 6 
+https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 7 
+https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
+#EXTINF:-1  group-title="體育世界",Hub Sports 8 
+https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN Sports 1 
+https://iptv.852851.xyz/ch/8a2742ca6f44887706dc2cd75a458de3/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN Sports 2 
+https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN Sports 3 
+https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN Sports 4 
+https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
+#EXTINF:-1  group-title="體育世界",beIN Sports 5 
+https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+
 #EXTINF:-1 channel-id="USBD420002446" tvg-id="USBD420002446" tvg-chno="2338" tvg-name="NBC Sports NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png" group-title="體育世界",NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/6tImLu773-5D_g==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjlAAQ==" group-title="體育世界",MLB
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CA MLB Network Canada HD" tvg-logo="http://172.110.220.61:80/images/6febc1188009677559358a68cb9223d6.png" group-title="體育世界",CA MLB Network Canada HD
+http://ky-tv.cc:80/brendan1/brendan1/1506690.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="CA MLB Network" tvg-logo="http://23.227.147.172:80/images/6febc1188009677559358a68cb9223d6.png" group-title="體育世界",CA MLB Network
+http://ky-tv.cc:80/brendan1/brendan1/182012.ts
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV" tvg-logo="http://185.193.88.130:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="體育世界",CA NBA TV
+http://ky-tv.cc:80/brendan1/brendan1/182026.ts
 
 
+#EXTINF:-1  group-title="體育世界",Eurosport 1
+https://test.946985.filegear-sg.me/proxy/f51e9e9f89a7c51b
+#EXTINF:-1  group-title="體育世界",Eurosport 2
+https://test.946985.filegear-sg.me/proxy/f3ac916626fd3059
+#EXTINF:-1  group-title="體育世界",Eurosport 1
+https://test.946985.filegear-sg.me/proxy/1ecc8ebee4a45909
+#EXTINF:-1  group-title="體育世界",Eurosport 2
+https://test.946985.filegear-sg.me/proxy/8d4df0de49a19a92
+#EXTINF:-1  group-title="體育世界",Eurosport 1
+https://test.946985.filegear-sg.me/proxy/0ec0634135a2cd3e
+#EXTINF:-1  group-title="體育世界",Eurosport 2
+https://test.946985.filegear-sg.me/proxy/60fbadb5d9cb8c73
 
+#EXTINF:-1 tvg-name="博斯網球台"  group-title="體育世界",博斯網球台
+https://test.946985.filegear-sg.me/proxy/f6ef623eab0bd5c9
+#EXTINF:-1 tvg-name="博斯無限一台"  group-title="體育世界",博斯無限一台
+https://test.946985.filegear-sg.me/proxy/86eda08c835ca83b
+#EXTINF:-1 tvg-name="博斯無限二台"  group-title="體育世界",博斯無限二台
+https://test.946985.filegear-sg.me/proxy/24f2e151f6966ed2
+#EXTINF:-1 tvg-name="博斯魅力台"  group-title="體育世界",博斯魅力台
+https://test.946985.filegear-sg.me/proxy/6ecb3fd3fb9772b2
+#EXTINF:-1 tvg-name="博斯高球一台"  group-title="體育世界",博斯高球一台
+https://test.946985.filegear-sg.me/proxy/2378932ea39d747e
+#EXTINF:-1 tvg-name="博斯高球二台"  group-title="體育世界",博斯高球二台
+https://test.946985.filegear-sg.me/proxy/a573f9ed005869ad
+#EXTINF:-1 tvg-name="博斯運動一台"  group-title="體育世界",博斯運動一台
+https://test.946985.filegear-sg.me/proxy/4fbfde36336ad2b8
+#EXTINF:-1 tvg-name="博斯運動二台"  group-title="體育世界",博斯運動二台
+https://test.946985.filegear-sg.me/proxy/1fcd92d2d3d63f7f
+#EXTINF:-1 tvg-name="時尚運動X"  group-title="體育世界",時尚運動X
+https://test.946985.filegear-sg.me/proxy/fe184bca34396130
+#EXTINF:-1 tvg-name="智林體育台"  group-title="體育世界",智林體育台
+https://test.946985.filegear-sg.me/proxy/296f5ea0b97b0ab1
+#EXTINF:-1 tvg-name="TRACE Sport Stars"  group-title="體育世界",TRACE Sport Stars
+https://test.946985.filegear-sg.me/proxy/f0889f7214e25cb8
+#EXTINF:-1 tvg-name="GINX Esports TV"  group-title="體育世界",GINX Esports TV
+https://test.946985.filegear-sg.me/proxy/25bcb8604b848db6
 
 
 #########################################
