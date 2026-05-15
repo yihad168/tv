@@ -1513,6 +1513,10 @@
 
  {"name": "🚓华哥TV","type":0,"url":"http://tv.anbox.ip-ddns.com/live12","playerType":1},
  {"name": "🚓港澳TV","type":0,"url":"http://tv.anbox.ip-ddns.com/live19","playerType":1},
+
+ {"name": "🚓港澳TV2","type":0,"url":"https://tv.anbox.ip-ddns.com/live23","playerType":1},
+
+
  {"name": "🚓港澳MYTV","type":0,"url":"http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt","playerType":1},
 
  {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
