@@ -433,55 +433,38 @@ https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_goshogi" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト
 https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_busns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアムチャンネル
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_recip" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび PRODUCED by るるぶ
 https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_samri" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV（Powered by 時代劇専門チャンネル）
 https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_comdy" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",Lemino TV
 https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_kids" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックスFREE
 https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_jpthp" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい
 https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_asdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジアFree
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_pett1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV
 https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_bgolf" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_hokkaido" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道ch
 https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_tokai" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポch
 https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_news1" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州ch
 https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_travl" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはん なに？
 https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_snyon" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHION+
 https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_entns" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース POWERED BY ORICON NEWS
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_camng" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドアチャンネルPowered byハピキャン
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
-
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
@@ -1264,28 +1247,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_epg.xml"
 
-#EXTINF:-1 tvg-id="Eurosport.es" tvg-name="Eurosport 1" tvg-logo="http://l0g0s.r3s1ste.icu:8080/images/b9f27923ca0992c23c1b7d9701918d32.png" group-title="體育世界",Eurosport 1
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/561
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Eurosport 1 LD" tvg-logo="http://l0g0s.r3s1ste.icu:8080/images/b9f27923ca0992c23c1b7d9701918d32.png" group-title="體育世界",Eurosport 1 LD
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1319
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://l0g0s.r3s1ste.icu:8080/images/094253dae392cb0c75211d28510a3938.png" group-title="體育世界",Eurosport 2
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/563
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 LD" tvg-logo="http://l0g0s.r3s1ste.icu:8080/images/094253dae392cb0c75211d28510a3938.png" group-title="體育世界",Eurosport 2 LD
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/1320
-
-
-#EXTINF:-1 channel-id="USBD420002446" tvg-id="USBD420002446" tvg-chno="2338" tvg-name="NBC Sports NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250729T010447SQUARE.png" group-title="體育世界",NBC Sports NOW
-https://jmp2.uk/stvp-USBD420002446
-#EXTINF:-1 tvg-id="613765" tvg-logo="https://canvas-lb.tubitv.com/opts/6tImLu773-5D_g==/652d017f-fb2a-460e-a528-ee54cc6ed872/CHgQeDoFMS4xLjlAAQ==" group-title="體育世界",MLB
-https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CA MLB Network Canada HD" tvg-logo="http://172.110.220.61:80/images/6febc1188009677559358a68cb9223d6.png" group-title="體育世界",CA MLB Network Canada HD
-http://ky-tv.cc:80/brendan1/brendan1/1506690.ts
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="CA MLB Network" tvg-logo="http://23.227.147.172:80/images/6febc1188009677559358a68cb9223d6.png" group-title="體育世界",CA MLB Network
-http://ky-tv.cc:80/brendan1/brendan1/182012.ts
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV" tvg-logo="http://185.193.88.130:80/images/af1b22659dba63c1f7532554b5ad7003.png" group-title="體育世界",CA NBA TV
-http://ky-tv.cc:80/brendan1/brendan1/182026.ts
-
 
 
 
@@ -1300,10 +1261,6 @@ http://ky-tv.cc:80/brendan1/brendan1/182026.ts
 https://newidco-newkid-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="音樂世界", New K-Pop (1080p)
 https://newidco-newkid-1-eu.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 group-title="音樂世界", YG TV (720p)
-https://newidco-ygtv-1-us.plex.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="音樂世界", YG TV (1080p)
-https://newidco-ygtv-1-us.plex.wurl.tv/4300.m3u8
 
 
 
@@ -1371,18 +1328,6 @@ https://jmp2.uk/stvp-GBBC19000017V
 https://jmp2.uk/stvp-USBD3000145P
 
 
-#EXTINF:-1 tvg-id="mtv-europe" group-title="音樂世界", MovieMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", THT Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", Movie Music
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", AMC Music
-https://AMChls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", Music Channel
-https://cmc-ono.amagi.tv/playlist1080_p.m3u8
-#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", AT Krone Hit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
 
 #EXTINF:-1 group-title="音樂世界" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", VEVO '70s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
@@ -1480,6 +1425,7 @@ https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-v
 https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="音樂世界",Vevo 00s
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+
 
 
 
@@ -3561,7 +3507,8 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 #EXTINF:-1 group-title="私密頻道 ADULT"  tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 
-
+#EXTINF:-1 group-title="私密頻道 ADULT",CARAC1
+http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="私密頻道 ADULT",俄羅斯極限電影
 http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
@@ -3598,6 +3545,108 @@ http://z88.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u
 http://z88.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",波多野結衣
 https://z3.ubtvfans.com/live/rx4/3158/c380ba6805c063bf01a758dac2c2cfa8/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",松視3
+https://z3.ubtvfans.com/live/rx3/404/480fe5db5808b25f8ea2d51ccea17233/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",極限電影
+https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹E
+https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",潘朵拉完美
+https://z3.ubtvfans.com/live/rx3/410/4bed718a67aa82a3c0c30be5919498f7/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹K
+https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",JStar
+https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹頻道
+https://z3.ubtvfans.com/live/rx5/2914/970e6b93d6cf6a4c26b6adfcc6b05445/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視頻道
+https://z3.ubtvfans.com/live/rx5/2915/97f674dacae533e3aea1346bf062d60c/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",奧視頻道2
+https://z3.ubtvfans.com/live/rx5/2916/e6fef1f52b41a9f7c8661ce1a3ac95b8/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Banana香蕉
+https://z3.ubtvfans.com/live/rx3/2930/6afc9e96b2b744c62a4a0fcbe92f6b7a/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",LOOK
+https://z3.ubtvfans.com/live/rx4/2933/612f104a0e7d89b6d6a0fabebc2059e0/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",彩虹E
+https://z3.ubtvfans.com/live/rx4/2935/e950ccd5217296d1dbe7590e56dc1499/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Brazzers TV
+https://z3.ubtvfans.com/live/rx4/3076/b76a7adee38f93a3e7ccd5d1a5bdc156/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Erox
+https://z3.ubtvfans.com/live/rx4/3079/5e7d86b8132fec2fa9c3efeeded38f23/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Babes XXX
+https://z3.ubtvfans.com/live/rx4/3085/4800dd054946cda34c63b8943beedba7/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Hustler XXX TV
+https://z3.ubtvfans.com/live/rx4/3087/3db5736f5e614c4abcc0e505ace3fe40/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",BABES
+https://z3.ubtvfans.com/live/rx4/3088/dd5c30f75c5d6b18d32dfd9c97a3b09e/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",BABES UNLEASHED
+https://z3.ubtvfans.com/live/rx4/3089/5ac992f9ce6fab7e5f0c0c987eba8eb3/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",BAEB Perv City
+https://z3.ubtvfans.com/live/rx4/3090/d2d2caef418b2cb18f6880417b3299d5/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS EN ESPANOL
+https://z3.ubtvfans.com/live/rx4/3092/b243cd60aa9f12f431223762a898778f/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",BUSTY LOVER
+https://z3.ubtvfans.com/live/rx4/3093/d986b2c500eefa58b4ada16908cc6cc6/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Blue Hustler
+https://z3.ubtvfans.com/live/rx4/3077/a17d8a372ba2c3c1923bd06c669a663e/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",EXXXTRA SMALL
+https://z3.ubtvfans.com/live/rx4/3099/0b44e4e54cb462130b54ce6acc47a19c/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",DAUGHTER SWAP
+https://z3.ubtvfans.com/live/rx4/3095/169815f6291f6badd72660d9b0fab2fe/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",EROTIC SPICE
+https://z3.ubtvfans.com/live/rx4/3098/47ef39a83255e5dbb5165f1156561c21/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",FAKE AGENT
+https://z3.ubtvfans.com/live/rx4/3100/81fe7d0e042652df32f7570cf7671df0/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",FAKE COP
+https://z3.ubtvfans.com/live/rx4/3102/6ad841187b9781f13909693dac08186b/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",Jgirl
+https://z3.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",蒼井空
+https://z3.ubtvfans.com/live/rx5/3154/e69148d5bbcc6f22eed89add60d7e9d1/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",金絲雀
+https://z3.ubtvfans.com/live/rx4/3155/195b4c966bce260e256f90cc97547976/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",FC2PPV 1
+https://z3.ubtvfans.com/live/rx1/3156/8848431db6d6b5e7dff4a32da3d749c9/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",中字有碼
+https://z3.ubtvfans.com/live/rx5/3157/8b65ae41bb9d51b1c21f81cb71c05b8c/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",波多野結衣
+https://z3.ubtvfans.com/live/rx4/3158/c380ba6805c063bf01a758dac2c2cfa8/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",貓先生
+https://z3.ubtvfans.com/live/rx5/3161/303fd4cabb41fbf7193947b6d5e79036/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",上原亜衣
+https://z3.ubtvfans.com/live/rx4/3162/0f8a2fd886d0700759cd201f528085cb/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",天堂素人約啪
+https://z3.ubtvfans.com/live/rx4/3164/60494dc98eec6d6677c6f8fae113957c/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",天美
+https://z3.ubtvfans.com/live/rx5/3171/f42d5d165dadf008b01e7ee825867f41/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",91短視頻
+https://z3.ubtvfans.com/live/rx4/3172/d072c9162a60525dab8cf99c8201ef8c/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",午夜尋花
+https://z3.ubtvfans.com/live/rx4/3180/ac81fb56a0aeafbee5ab3408e23d567a/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",小寶尋花
+https://z3.ubtvfans.com/live/rx1/3181/307b14451a7968446223d0ccbffa22b8/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",麻豆大番
+https://z3.ubtvfans.com/live/rx1/3184/d7ec9e74daa6ffab755743705cf460eb/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",91沈先生
+https://z3.ubtvfans.com/live/rx1/3185/1cc03bdef8e657335cf8087d59e04228/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",鴨總偵探
+https://z3.ubtvfans.com/live/rx2/3186/c6750a7ac944005586876692112f1856/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",中字有碼3
+https://z3.ubtvfans.com/live/rx2/3187/b488f3be5ece2068c3579b8b37afae9a/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",麻豆
+https://z3.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",麻豆外番
+https://z3.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",無碼破解
+https://z3.ubtvfans.com/live/rx4/3190/da53f5b1bd04b58068c25a0b201c6c6f/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",韓國三級 1
+https://z3.ubtvfans.com/live/rx5/3193/4ca82b148c5599e6a5407bd3bebfa97c/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",韓國三級 2
+https://z3.ubtvfans.com/live/rx1/3194/649809263cb13995d002d300ff7d9901/index.m3u8
 
 
 
@@ -3638,11 +3687,7 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12168/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
 http://88b9da48.kazmazpaz.ru:80/iptv/XVU58NBPX2LUMP/6225/manifest.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
-http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6225/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
 http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",Japan HDV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/6225/index.m3u8
 
 
 
