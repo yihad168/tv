@@ -1248,6 +1248,33 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 #EXTM3U url-tvg="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_epg.xml"
 
 
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802455.png",True Sports 1
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499966.png",True Sports 2
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802480.png",True Sports 3
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847910.png",True Sports 5
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847921.png",True Sports 7
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
+
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499681.png",true Premire football 3
+https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",Monomax 1
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
+
+
 
 
 
@@ -1608,11 +1635,428 @@ https://zap-live1-ott.izzigo.tv/15/out/u/dash/MUSIC-POPCORN/default.mpd?origin=h
 https://zap-live1-ott.izzigo.tv/13/out/u/dash/MUSIC-CLUB-BAILE/default.mpd?origin=https://izzigo.tv|referer=https://izzigo.tv
 
 
+#########################################
+             Tamil
+#########################################
+
+
+
+#EXTINF:-1 tvg-id="ts708" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Tamil",Jaya TV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277086.ts
+#EXTINF:-1 tvg-id="ts608" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_15a9238e-a62c-4641-b564-f5946122eb1a.png" group-title="Tamil",Zee Tamil HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/598757.ts
+#EXTINF:-1 tvg-id="ts708" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Tamil",Jaya TV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277086.ts
+#EXTINF:-1 tvg-id="ts201" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-816-j5m8dqd4-v1/imageContent-816-j5m8dqd4-m1.png" group-title="Tamil",J Movies
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277137.ts
+#EXTINF:-1 tvg-id="ts1182" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThiraiHD_Thumbnail_c3ae3a90-a75c-4600-8a93-1bfbd8732689.png" group-title="Tamil",Zee Thirai HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277123.ts
+#EXTINF:-1 tvg-id="VIJAY.SUPER.HD.in" tvg-name="Vijay Super" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="Tamil" group-logo="", Vijay Super HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277101.ts
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="Tamil", Cricbuzz
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Tamil", PTV Sports
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/49241.ts
+#EXTINF: -1 tvg-id="ts302" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11278-j9j4h4s0-v1/imageContent-11278-j9j4h4s0-m1.png" group-title="Tamil", Chutti TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277111.m3u8
+#EXTINF: -1 tvg-id="119" tvg-logo="https://tatalogo.pages.dev/119.png" group-title="Tamil", Discovery Kids
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277112.m3u8
+#EXTINF: -1 tvg-id="616" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="Tamil", History TV18 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277085.ts
+#EXTINF: -1 tvg-id="219" tvg-logo="https://tatalogo.pages.dev/219.png" group-title="Tamil", Discovery Channel
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/277083.ts
+
+
+#EXTINF:-1 tvg-id="674" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Tamil", Colors Tamil HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277081.ts
+#EXTINF: -1 tvg-id="ts284" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11218-j9ichyag-v1/imageContent-11218-j9ichyag-m1.png" group-title="Tamil", Adithya TV
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277078.ts
+#EXTINF: -1 tvg-id="210" tvg-logo="https://tatalogo.pages.dev/210.png" group-title="Tamil", MN+ HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277008.ts
+#EXTINF: -1 tvg-id="599" tvg-logo="https://tatalogo.pages.dev/599.png" group-title="Tamil", MNX HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277006.ts
+#EXTINF: -1 tvg-id="ts265" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11162-j99oso8o-v2/imageContent-11162-j99oso8o-m1.png" group-title="Tamil", Disney International HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277009.ts
+#EXTINF:-1 tvg-id="ts511" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11954-j9lu45o8-v1/imageContent-11954-j9lu45o8-m1.png" group-title="Tamil",Sun Music HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277096.ts
+#EXTINF:-1 tvg-id="ts199" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png" group-title=Tamil",Jaya Max
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277109.ts
+#EXTINF: -1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Tamil", Star Sports 1 HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276730.ts
+#EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Tamil", Star Sports 2 HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276732.ts
+#EXTINF: -1 tvg-id="114" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/114.png", Disney
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277002.ts
+#EXTINF: -1 tvg-id="605" tvg-logo="https://tatalogo.pages.dev/605.png" group-title="Tamil", National Geographic HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277008.ts
+#EXTINF: -1 tvg-id="158" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBBHD1_Thumbnail-v4/SOBBHD1_Thumbnail.png" group-title="Tamil", SONY BBC Earth HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277093.ts
+#EXTINF: -1 tvg-id="ts413" tvg-logo="https://tatalogo.pages.dev/413.png" group-title="Tamil", Nat Geo Wild HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/277088.ts
+#EXTINF: -1 tvg-id="ts130" tvg-logo="https://tatalogo.pages.dev/130.png" group-title="Tamil", Animal Planet HD
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276935.ts
+
+
 
 
 #########################################
                韓國頻道
 #########################################
+
+
+
+
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G (Tokyo)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G (Osaka)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/250px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfG0d-KoiqybGIrsDStbxjWjZ6mtN-155zQ&s",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",Fuji TV HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCwGGo9Fq8gnptIaFWA0uOj_rMobBBN54QQ&s",Fuji TV NEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ddu86iggSvDRhvsIZKDW-sx0n0jLo5UkJA&s",TV Asahi HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ddu86iggSvDRhvsIZKDW-sx0n0jLo5UkJA&s",TV Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",TV Tokyo HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.mbs.jp/english/images/index/MBS_logo.png",MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/250px-Yomiuri_Telecasting_Corporation_Logo.svg.png",YTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2025/01/tvosaka_420x237_thumb.jpg",TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/a/aa/Ktv_logo.png/revision/latest?cb=20200821080929",Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHr3U1uVUvN2EcARRaz8eKVrHUXkAXaIRgnQ&s",Sun TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",Tokyo MX1 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",Tokyo MX1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ws8M-1vXx3WJTCCbb6cbLpe-Uqqqcsf-w&s",Gaki no Tsukai
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEetdQliPDPN9OsBNPxRyA7fMrArdOLynKQ&s",Tabi Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKsnqWhNUFAA5A9fuC6qlYOkHqhVdnZDXVw&s",Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8vpGCL0bJLLRsgcai9nXsrwqNr126KZYAg&s",BS Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",BS Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",BS TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZPRyIikNfzEphoo56cs2_P58y4WeVqYuuw&s",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",J:COM BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",BS 10 Premium
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s",Movie Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",WOWOW Cinema
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuTQsV_VRpbtjCUf4XpbwkLjUviGn4oBzUQ&s",WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",Family Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1674/_1200x630_fit_center-center_82_none/Toei-Logo-Eng.jpg?mtime=1728075670",Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWk-DaLt72723K5C6zfxu2irGMATXDh2_SmA&s",Home Drama Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i7CPm1dTs-fDNMZhGuEAOSzkipdTGxWLvg&s",Nihon Eiga Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqrXaY7ux1gxHVJ2FtAVwi-IqG8bKx1_Byw&s",Jidaigeki Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj",Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVLQga46f4coqBxuohNJ1ZxBboeexN0eBQQ&s",LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_YIfzzqr92ATGgQtHwNmPRFFAdHlWsT-gPZIkW0Ce-g=s900-c-k-c0x00ffffff-no-rj",Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEGUXWkkruACvVMFVFIKxxV9rxerEAWZJg&s",Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/gPp9qo9jvkd9r9kUJ0ejfO_FoM1zRGbAatXN5AC9AfnUL0a4uh0fy7Ixm3v8G7y_GjDX1eSCYQ=s900-c-k-c0x00ffffff-no-rj",Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.kayopops.jp/parts/common/img/ogimage.png",Kayo Pops
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOK21qZSbUOhBjU4oOgoI_o71dPclnXTMTg&s",Discovery Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",National Geographic Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png",History Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",Animal Planet Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Station
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",TEZUKA PRO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-dc.jpg",Disney Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-junior.jpg",Disney Jr. Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/747.png",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpE1ETERXAr0sDDPk5x4-27nMvr2S1y2_0A&s",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSap0xYgCK4qjD0o7l6NcIdnoefn9z_DvZjKA&s",Nittele G Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",Sky A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/1280px-GAORA_SPORTS_logo.svg.png",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag",Golf Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://hidakakonbu.net/wp-content/uploads/2018/07/logo_greenchannel.png",Green Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://yt3.googleusercontent.com/31dSiRDx8XYX41jikFPIwYJK213ghYEbLKP0wqZ2sHNQlbd98Tv5k_G8vgF0-n5LHWaCdHF9Fw=s160-c-k-c0x00ffffff-no-rj",Fishing Vision
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5etHJU1SBFzofyNl2e9DPxDXtY6Cf3QcddA&s",CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7Pdv6JZ7XZzyulBFCgn4_sUVr9iSNR1qsA&s",TBS News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=7
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJgXxf12A7Ik8BxFWu1ed1T9IQW9TaYTyqw&s",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeMWLmCELz52kJyUYQmrJkIJ8OVnNknkGcA&s",Shop Channel Japan
+https://stream3.shopch.jp/HLS/master.m3u8
+
+
+
+#########################################
+               越南頻道
+#########################################
+
+
+
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhoeycWc7ofrquEhFbNEd1uVq8bqlSiOBNA&s",VTV1
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",VTV5
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/250px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ
+https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2uAfrRm-eKzqHta1cM_AHKWU9isQheE0e2g&s",VTV5 Tây Nguyên
+https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Logo_SCTV1.png/revision/latest?cb=20191009032130",SCTV1
+https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6vYBV96R6UODy47J-mQ-kHHC4M5ddF-GTw&s",SCTV2
+https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/98/SCTV3_logo_2016.png/revision/latest/scale-to-width-down/200?cb=20240917041415&path-prefix=vi",SCTV3
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/SCTV4_logo_06-05-2017.png/revision/latest?cb=20240917042414&path-prefix=vi",SCTV4
+https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVlxsEFytNQs9C9SNrTkQYAKGfqpfOCwzkw&s",SCTV6
+https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROY3nrxH-b6bmgyQjkGU-1lpu03zAseGCWyA&s",SCTV7
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxoVQyjlZ09JOXFegkbqePd122v6CFNw5BdQ&s",SCTV8
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtodJ0Ik2CkmPAPdB8PpW_j4CDJ2_xT3xRw&s",SCTV10
+https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/SCTV_Phim_T%E1%BB%95ng_h%E1%BB%A3p_logo_ident_2012.png/revision/latest?cb=20240529024045&path-prefix=vi",SCTV Phim Tong Hop
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/Vietnam_Today_ident.png/revision/latest/scale-to-width-down/1200?cb=20251101225128&path-prefix=vi",Vietnam Today
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/ATV1_YT_icon_2025.png/revision/latest/scale-to-width-down/512?cb=20251014044857&path-prefix=vi",An Giang TV1
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/ATV1_YT_icon_2025.png/revision/latest/scale-to-width-down/512?cb=20251014044857&path-prefix=vi",An Giang TV2
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/ATV1_YT_icon_2025.png/revision/latest/scale-to-width-down/512?cb=20251014044857&path-prefix=vi",An Giang TV3
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeFRMJKh22eIUh9vbAfUeRQnPA2rzBnimHA&s",Cần Thơ TV1
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMDU4MGNfyRTmtG_IPi69Cr7zMIKqorUR6w&s",Cao Bằng TV
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_DaNangtv_2018.png/960px-Logo_DaNangtv_2018.png",Đà Nẵng TV1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_DaNangtv_2018.png/960px-Logo_DaNangtv_2018.png",Đà Nẵng TV2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhmxkEtF-P9EHwDg0VAxpdt41rKs9VTSFvKw&s",Điện Biên TV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TH%C4%90T-Logo.png",Đồng Tháp TV1
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TH%C4%90T-Logo.png",Đồng Tháp TV2
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlStDGUOHBvvZcgbINis1RMcIxZABi2ytfFA&s",Hà Tĩnh TV
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HanoiTV1_HD_2016-2026.png/revision/latest?cb=20241227073715&path-prefix=vi",HanoiTV1
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7LVqgaPsiel6MYKDR1p2LOiMtiTx3ERH5w&s",HanoiTV2
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMSA3d6KS8GYuR_m2Bx8V0NqaHmlCFxHngA&s",Lâm Đồng TV
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_TayNinhTV_2026.png/250px-Logo_TayNinhTV_2026.png",Tây Ninh TV
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/20230622/e03e7dd9-6288-4c48-9dcc-8d2937b947f8.jpg?width=500",Thái Nguyên TV
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://play-lh.googleusercontent.com/ogmrnURRik6lzvDiKEtW3QbKpi9R5mOS82enqqS4NdpDv3EwI3JALRCjkr_q05SVXQ",VBS TV
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEM3gqgcTVfQ1JoGwhLKD8AX-1Kleo-_BSg&s",ANTV
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_640_360.png",Cà Mau TV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvb6_87hkE-En5FOEDpxlcdhpUDHnIOES7Qg&s",QPVN
+https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/HTV4_logo_2017.png/revision/latest?cb=20230301095054&path-prefix=vi",HTV4
+https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://brandcom.vn/wp-content/uploads/2024/07/logo-ke%CC%82nh-truye%CC%82%CC%80n-hi%CC%80nh-do%CC%82%CC%80ng-nai-1.jpg",Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/RgEOYY7utX-DONGNAI2-THUMBNAIL-KENHVTVgo-500x281.webp",Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Vietnam TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwoN_gxUfnYbSIjNThCJjKA-eUB1BBP3pKQ&s",Da Vinci Asia Vietnam
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
 
 
