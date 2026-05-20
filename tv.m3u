@@ -467,9 +467,13 @@ https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+#EXTINF:-1 group-title="fastch" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS(Kansai)
+http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 
 
 
+https://t.me/s/alistshare
+https://pan.mediy.cn/
 #########################################
          台灣數位電視台
 #########################################
@@ -1275,6 +1279,22 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
 
 
+#EXTINF:-1 group-title="體育世界",博斯無限一台
+https://iptv.852851.xyz/ch/fbe894f41736b84a0191df32c560ecf4/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯無限二台
+https://iptv.852851.xyz/ch/9b8830dfdfa164811638099c48001a3c/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯網球台
+https://iptv.852851.xyz/ch/1c0e5173c5b9386231fca5f45448439e/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯運動一台
+https://iptv.852851.xyz/ch/0474efea8c1c3c6e20242824c61b5e92/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯運動二台
+https://iptv.852851.xyz/ch/6afa6caf7dd79c45d66786820a9f47e3/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯高球一台
+https://iptv.852851.xyz/ch/a5e9e7032ecb8af768a65c9ae12fc884/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯高球二台
+https://iptv.852851.xyz/ch/22c476107f000ce0caa2d434ac8a8665/master.m3u8
+#EXTINF:-1 group-title="體育世界",博斯魅力台
+https://iptv.852851.xyz/ch/5e1200949d2834e71002c6603f0c69cf/master.m3u8
 
 
 
@@ -4115,6 +4135,17 @@ http://lunar.pm:8080/leslie/snook/131308
 http://91.218.50.136:8080/Rose35torres/iB7101/916027
 
 
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: MAX J" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png" group-title="私密頻道 ADULT",PORNBOX: MAX J
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/104516
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: ASIAN FOOTJOB" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png" group-title="私密頻道 ADULT",PORNBOX: ASIAN FOOTJOB
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/104518
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: DREAMROOM" tvg-logo="https://restream.tv4k.me:2096/images/Ie29qqDBf4GUjF3_3-UisJBIuiJ6Gedjqz6Kw68v9nZUjozfy11ZTjv9ZQYIAjPiSB9UAthl0vrMCIqoY9PB3JPQGN8lkobHwXe10z-ksxI.png" group-title="私密頻道 ADULT",PORNBOX: DREAMROOM
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/104552
+#EXTINF:-1 tvg-id="" tvg-name="X4 | Asian" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="私密頻道 ADULT",X4 | Asian
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/104673
+#EXTINF:-1 tvg-id="" tvg-name="X4 | Japan Uncensored" tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="私密頻道 ADULT",X4 | Japan Uncensored
+http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/104794
+
 
 #EXTINF:0 tvg-logo="http://epg.cdntv.online/img/1694.png" group-title="私密頻道 ADULT",Japanese
 http://u.vipl.one/high/ierw63qgf1/1694.m3u8
@@ -4122,6 +4153,10 @@ http://u.vipl.one/high/ierw63qgf1/1694.m3u8
 http://u.vipl.one/high/ierw63qgf1/1723.m3u8
 #EXTINF:0 tvg-id="1700" tvg-logo="http://epg.cdntv.online/img/1700.png" group-title="私密頻道 ADULT",Pregnant
 http://u.vipl.one/high/ierw63qgf1/1700.m3u8
+
+
+
+
 
 
 http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6286/index.m3u8
