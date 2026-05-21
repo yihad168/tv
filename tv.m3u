@@ -520,7 +520,6 @@ http://74.91.26.218:82/live/ptsse.m3u8
 https://livecdn9.ptsplus.tv/pts-youth-B/playlist.m3u8
 #EXTINF:-1 group-title="台灣",小公視(PTS+)
 https://livecdn9.ptsplus.tv/pts-youth-B/3.m3u8
-
 #EXTINF:-1 group-title="台灣",原視
 https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 
@@ -538,26 +537,53 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 group-title="台灣",台視(211)
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1 group-title="台灣",東森新聞
+#EXTINF:-1 group-title="台灣",東森新聞(211)
 http://211.72.174.95:8138/0.ts
 
 
 
+#EXTINF:-1 group-title="台灣",鳳凰中文(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 group-title="台灣",鳳凰資訊(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/pxinhd_iphone.m3u8
+#EXTINF:-1 group-title="台灣",鳳凰香港(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/pxhkus_iphone.m3u8
+#EXTINF:-1 group-title="台灣",鳳凰美洲(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/pxnaus_iphone.m3u8
+#EXTINF:-1 group-title="台灣",TVB新聞(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/tvbnews_iphone.m3u8
+#EXTINF:-1 group-title="台灣",蓮花衛視(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/lotustv_iphone.m3u8
+#EXTINF:-1 group-title="台灣",TVBS(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8
+#EXTINF:-1 group-title="台灣",中天新聞(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8
+#EXTINF:-1 group-title="台灣",大愛電視(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/daai_iphone.m3u8
+#EXTINF:-1 group-title="台灣",東森綜合(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/ebcvtv_iphone.m3u8
+#EXTINF:-1 group-title="台灣",好消息2(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/gdtv2_iphone.m3u8
+#EXTINF:-1 group-title="台灣",華視(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/ctshd_iphone.m3u8
+#EXTINF:-1 group-title="台灣",民視(kylin)
+https://3ea9e6-31f5e6.kylintv.tv/live/formosatv_iphone.m3u8
 
 
-#EXTINF:-1 group-title="台灣",緯來電影
+
+#EXTINF:-1 group-title="台灣",緯來電影(smt)
 https://smt.1678520.xyz/163189/602e9465658d4f8c
-#EXTINF:-1 group-title="台灣",緯來戲劇
+#EXTINF:-1 group-title="台灣",緯來戲劇(smt)
 https://smt.1678520.xyz/163189/ab657380c65c1fd1
-#EXTINF:-1 group-title="台灣",緯來體育
+#EXTINF:-1 group-title="台灣",緯來體育(smt)
 https://smt.1678520.xyz/163189/b10b2645c6d9de2b
-#EXTINF:-1 group-title="台灣",龍祥時代
+#EXTINF:-1 group-title="台灣",龍祥時代(smt)
 https://smt.1678520.xyz/163189/6963a2247128286b
-#EXTINF:-1 group-title="台灣",東森電影
+#EXTINF:-1 group-title="台灣",東森電影(smt)
 https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-#EXTINF:-1 group-title="台灣",東森戲劇
+#EXTINF:-1 group-title="台灣",東森戲劇(smt)
 https://smt.1678520.xyz/163189/f60cd3f14b06dabc
-#EXTINF:-1 group-title="台灣",東森洋片
+#EXTINF:-1 group-title="台灣",東森洋片(smt)
 https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
 
 
@@ -1252,29 +1278,26 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 #EXTM3U url-tvg="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_epg.xml"
 
 
+
+#EXTINF:-1 group-title="體育世界",Eurosport 1
+https://test.946985.filegear-sg.me/proxy/0ec0634135a2cd3e
+#EXTINF:-1 group-title="體育世界",Eurosport 2
+https://test.946985.filegear-sg.me/proxy/60fbadb5d9cb8c73
+
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802455.png",True Sports 1
 https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499966.png",True Sports 2
 https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802480.png",True Sports 3
 https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847910.png",True Sports 5
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847921.png",True Sports 7
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
-
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499681.png",true Premire football 3
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",Monomax 1
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
-
-
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
 
@@ -1295,6 +1318,53 @@ https://iptv.852851.xyz/ch/a5e9e7032ecb8af768a65c9ae12fc884/master.m3u8
 https://iptv.852851.xyz/ch/22c476107f000ce0caa2d434ac8a8665/master.m3u8
 #EXTINF:-1 group-title="體育世界",博斯魅力台
 https://iptv.852851.xyz/ch/5e1200949d2834e71002c6603f0c69cf/master.m3u8
+
+
+
+#EXTINF:-1 group-title="體育世界",法國beIN體育1
+https://test.946985.filegear-sg.me/proxy/d4607e328de9276d
+#EXTINF:-1 group-title="體育世界",法國beIN體育2
+https://test.946985.filegear-sg.me/proxy/036c7921c2126f1c
+#EXTINF:-1 group-title="體育世界",法國beIN體育3
+https://test.946985.filegear-sg.me/proxy/7219fff9bec70249
+#EXTINF:-1 group-title="體育世界",法國CANAL +FOOT
+https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
+#EXTINF:-1 group-title="體育世界",法國CANAL +SPORT 360
+https://test.946985.filegear-sg.me/proxy/3ea1678cd883a5de
+#EXTINF:-1 group-title="體育世界",法國CANAL +SPORT
+https://test.946985.filegear-sg.me/proxy/2aa21fe914880e6a
+#EXTINF:-1 group-title="體育世界",法國CANAL GOLF+
+https://test.946985.filegear-sg.me/proxy/6f6259c47fc0783c
+#EXTINF:-1 group-title="體育世界",法國CANAL+ LIVE 1
+https://test.946985.filegear-sg.me/proxy/f5ead7385ef9e3d7
+#EXTINF:-1 group-title="體育世界",法國CANAL+ LIVE 2
+https://test.946985.filegear-sg.me/proxy/9b5f8a8854074719
+#EXTINF:-1 group-title="體育世界",法國CANAL+ LIVE 3
+https://test.946985.filegear-sg.me/proxy/a820824fa7237a0d
+#EXTINF:-1 group-title="體育世界",羅馬尼亞PRIMA Sport1
+https://test.946985.filegear-sg.me/proxy/031a3f93785f5e10
+#EXTINF:-1 group-title="體育世界",羅馬尼亞PRIMA Sport2
+https://test.946985.filegear-sg.me/proxy/234ec786219f8851
+#EXTINF:-1 group-title="體育世界",羅馬尼亞PRIMA Sport3
+https://test.946985.filegear-sg.me/proxy/920332fcf92f7eec
+#EXTINF:-1 group-title="體育世界",羅馬尼亞PRIMA Sport4
+https://test.946985.filegear-sg.me/proxy/ae7af16a08df032d
+#EXTINF:-1 group-title="體育世界",羅馬尼亞PRIMA Sport5
+https://test.946985.filegear-sg.me/proxy/fda91827991eb386
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 1
+https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 2
+https://test.946985.filegear-sg.me/proxy/8ce632cfdf21dc5e
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 3
+https://test.946985.filegear-sg.me/proxy/ad07dd4338ccb671
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 4
+https://test.946985.filegear-sg.me/proxy/6df3bb711f916488
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 5
+https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 6
+https://test.946985.filegear-sg.me/proxy/4ff930484c5dcc99
+#EXTINF:-1 group-title="體育世界",葡萄牙sporttv 7
+https://test.946985.filegear-sg.me/proxy/a8c7608240dec023
 
 
 
