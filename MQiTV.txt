@@ -197,7 +197,7 @@
       "playerType": 1
         },
 
-         {
+        {
             "name": "🐬各大源合集",
             "type": 0,
             "ua": "okhttp/5.3.2",
@@ -209,6 +209,13 @@
             "playerType": 2,
             "url": "https://ds65.tv1288.xyz",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
+         },
+	     {
+            "name": "🐬电视家",
+            "type": 0,
+            "playerType": 2,
+             "ua": "okhttp",
+			 "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
          },
          {
             "name": "🐬地方直播",
@@ -222,12 +229,6 @@
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
-        {
-            "name": "🐬电视家",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u"
-        },
         {
             "name": "🐬裤佬TV",
             "type": 0,
@@ -259,18 +260,30 @@
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
         {
-            "name": "🐬74源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://im5k.fun/vip.m3u"
-        },
-        {
             "name": "🐬风云源",
             "type": 0,
             "ua": "okhttp",
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
         {
+            "name": "🐬易发源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+        },
+        {
+            "name": "🐬俄罗斯源 有🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://m3u.ch/pl/402fdf5102aacfc997279fd904643392_78d493be9df8cf5d447946793758bfa6.m3u"
+        },
+       {
+            "name": "🐬飞扬源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
+        },
+	    {
             "name": "🐬港奥台国际",
             "type": 0,
             "ua": "okhttp",
@@ -287,6 +300,12 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
+        },
+        {
+            "name": "🐬安博(梯子)卡顿 有🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博.txt"
         },
         {
             "name": "🐬jackTV(梯子)",
@@ -306,24 +325,19 @@
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
-        {
-            "name": "🐬港台大陆频道🔞",
+        { 
+	        "name": "🐬午夜剧场🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/午夜剧场.txt"
         },
-        {
-            "name": "🐬港台大陆频道无18",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容"
-        },
-        {
-            "name": "🐬xxx视频资源🔞",
+	    {
+            "name": "🐬海豚佬xxx视频资源🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
         },
+
         {
             "name": "🐬欧美大片直播🔞",
             "type": 0,
@@ -1248,7 +1262,7 @@
     },
 
  {
-      "name": "🔞xxx視頻資源",
+      "name": "🔞xxx視頻資源🔞",
       "type": 0,
       "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90",
       "playerType": 1
@@ -1338,12 +1352,12 @@
       "logo": ""
     },
    {
-      "name": "🔞花园",
+      "name": "🔞花园🔞",
       "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
       "type": 1
     },
     {
-      "name": "🔞99",
+      "name": "🔞99🔞",
       "url": "https://raw.githubusercontent.com/qdpdwjx/ziyuan/refs/heads/master/99.php",
       "type": 1
     },
