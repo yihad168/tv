@@ -341,85 +341,200 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
 
 
-
 #########################################
 
 
 
-#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://akariko.netgenx.site/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK 総合
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK教育(Eテレ)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",日本テレビ(日テレ)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",テレビ朝日 
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",テレビ東京(テレ東)
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",フジテレビ
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",TOKYO MX1
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08&isp=8-15
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",TOKYO MX2
-https://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls 
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
+https://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
+https://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="joaxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",NTV
+https://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="joexdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",TV Asahi
+https://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="jorxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
+https://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="jotxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",TV Tokyo
+https://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="jocxdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",Fuji TV
+https://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tokyomx1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1
+https://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 Tokyo" tvg-id="tokyomx2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-093-400x400.png",Tokyo MX2
+https://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
-#BS
-#EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
-https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls 
-#EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BSP4K
-https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls 
-#EXTINF:-1 group-title="BS" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS11
-https://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs12.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS12
-https://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="at-x.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-182-400x400.png",AT-X
-https://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="greenchannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png",グリーンチャンネル
-https://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png",Animax
-https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS 日テレ
+#EXTINF:-1 group-title="日本 BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS NTV
 https://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS 朝日
+#EXTINF:-1 group-title="日本 BS" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS Asahi
 https://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+#EXTINF:-1 group-title="日本 BS" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
 https://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS テレ東
+#EXTINF:-1 group-title="日本 BS" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BS TV Tokyo
 https://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS フジ
+#EXTINF:-1 group-title="日本 BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BS Fuji
 https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="bs10.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS10
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
 https://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="ntvnews24.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png",日テレ NEWS 24
-https://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="tbsnewscs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png",TBS NEWS
-http://cdns.kaitekitv.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=8-15
-
-#CS
-#EXTINF:-1 group-title="CS" tvg-id="tbschannel1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png",TBS チャンネル 1
-https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="tbschannel2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png",TBS チャンネル 2
-https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fujitvone.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png",フジテレビONE　スポーツ・バラエティ
-https://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fujitvtwo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png",フジテレビTWO　ドラマ・アニメ
-https://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="fujitvnext.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png",フジテレビNEXT　ライブ・プレミアム
-https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="wowowprime.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOWプライム
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs11.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
+https://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs12トゥエルビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
+https://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
+https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
 https://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="wowowlive.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",WOWOWライブ 
-https://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="wowowcinema.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOWシネマ
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",WOWOW Cinema
 https://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="musicontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-162-400x400.png",MUSIC ON! TV（エムオン!）
-https://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS" tvg-id="mtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png",MTV
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
+https://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="bs10プレミアム_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
+https://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="jsports1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
+https://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="jsports2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
+https://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="jsports3.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif",JSport 3
+https://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="jsports4.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
+https://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="greenchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",Green Channel
+https://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="animax.in" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",Animax
+https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="nihoneigasenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",Nihon Eiga Senmon
+https://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="fishingvision.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",Fishing Vision
+https://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="wowowplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
+https://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="disneychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",Disney Channel
+https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
+https://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 BS" tvg-id="bsよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
+https://akariko.netgenx.site/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="日本 CS" tvg-id="skya.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs250.gif",Sky A
+https://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="gaorasports.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",GAORA
+https://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="atx.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X
+https://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="spaceshowertv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",Space Shower TV
+https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="mtv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
 https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="mnet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",Mnet
+https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="superdramatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",Super Drama TV
+https://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="thecinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
+https://akariko.netgenx.site/stream/jp/the_chinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="kayopops.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",Kayo Pops
+https://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="kidsstation.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",Kids Station
+https://akariko.netgenx.site/stream/jp/kids_station/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="cartoonnetwork.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",Cartoon Network
+https://akariko.netgenx.site/stream/jp/cartoon_network_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="nittelegplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs257.gif",NTV G+
+https://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="nitteleplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",NTV Plus
+https://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="familygekijyo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif",Family Gekijo
+https://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="mondotv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif",Mondo TV
+https://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tbschannel1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif",TBS Channel 1
+https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tbschannel2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif",TBS Channel 2
+https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tvasahichannel1.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",TV Asahi Channel 1
+https://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tvasahichannel2.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",TV Asahi Channel 2
+https://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="fujitvone.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs307.gif",Fuji TV One
+https://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="fujitvtwo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs308.gif",Fuji TV Two
+https://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="fujitvnext.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs309.gif",Fuji TV Next
+https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="channelneco.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",Neco Channel
+https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="dlife.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",Dlife
+https://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="toeichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif",Toei Channel
+https://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="fightingtvsamurai.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",Fighting TV Samurai
+https://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="entermeitele.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",Me-Tele Next
+https://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="sportsliveplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/580.gif",Sport live plus
+https://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="igoshogichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",Shogi Channel
+https://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="homedramachannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",Home Drama Channel
+https://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",Channel Ginga
+https://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tabichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif",Tabi Channel
+https://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tetsudochannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif",Tetsudo Channel
+https://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="musicontv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",Music On! TV
+https://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="musicair.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",Music Air
+https://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="axn.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",Action Channel(AXN)
+https://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="mysterychannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",Mystery Channel
+https://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="shopchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="日本 CS" tvg-id="qvc.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+#EXTINF:-1 group-title="日本 CS" tvg-id="gstv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+#EXTINF:-1 group-title="日本 CS" tvg-id="jidaigekisenmonchannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif",Jidaigeki Senmon
+https://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="eiseigekijo.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif",Eisei Gekijo
+https://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="movieplus.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs240.gif",Movie Plus
+https://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="golfnetwork.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs262.gif",Golf Network
+https://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="musicjapantv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif",Music Japan TV
+https://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="lalatv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs314.gif",LaLa TV
+https://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="takarazukaskystage.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs290.gif",Sky Stage
+https://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="nationalgeographic.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs343.gif",National Geographic
+https://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="disneyjunior.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif",Disney Junior
+https://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="discoverychannelsoutheastasia.sg@japan" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif",Discovery  
+https://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="animalplanet.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",Animal Planet
+https://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="history.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif",History
+https://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="kntv.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",KNTV
+https://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="ntvnews24.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
+https://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="cnnj.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif",CNNj 
+https://akariko.netgenx.site/stream/jp/cnn_j/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="bbcnews.uk@asiapacific" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News  
+https://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="日本 CS" tvg-id="tbsnewscs.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
+https://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+
+
 
 
 
@@ -542,34 +657,6 @@ http://211.72.174.95:8138/0.ts
 
 
 
-#EXTINF:-1 group-title="台灣",鳳凰中文(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/pxna_iphone.m3u8
-#EXTINF:-1 group-title="台灣",鳳凰資訊(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 group-title="台灣",鳳凰香港(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/pxhkus_iphone.m3u8
-#EXTINF:-1 group-title="台灣",鳳凰美洲(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/pxnaus_iphone.m3u8
-#EXTINF:-1 group-title="台灣",TVB新聞(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/tvbnews_iphone.m3u8
-#EXTINF:-1 group-title="台灣",蓮花衛視(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/lotustv_iphone.m3u8
-#EXTINF:-1 group-title="台灣",TVBS(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8
-#EXTINF:-1 group-title="台灣",中天新聞(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8
-#EXTINF:-1 group-title="台灣",大愛電視(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/daai_iphone.m3u8
-#EXTINF:-1 group-title="台灣",東森綜合(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/ebcvtv_iphone.m3u8
-#EXTINF:-1 group-title="台灣",好消息2(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/gdtv2_iphone.m3u8
-#EXTINF:-1 group-title="台灣",華視(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/ctshd_iphone.m3u8
-#EXTINF:-1 group-title="台灣",民視(kylin)
-https://3ea9e6-31f5e6.kylintv.tv/live/formosatv_iphone.m3u8
-
-
 
 #EXTINF:-1 group-title="台灣",緯來電影(smt)
 https://smt.1678520.xyz/163189/602e9465658d4f8c
@@ -597,48 +684,6 @@ http://cdn8.veryfast.filegear-sg.me/163189/lhox
 http://cdn8.veryfast.filegear-sg.me/163189/lhrh
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華戲劇.png" group-title="台灣",龍華戲劇台
 http://cdn8.veryfast.filegear-sg.me/163189/lhxj
-
-
-#EXTINF:-1 group-title="台灣",台視
-https://cdn-2.ttvb.eu.org/api/TTV/index.m3u8
-#EXTINF:-1 group-title="台灣",緯來日本
-https://cdn-2.ttvb.eu.org/api/VL-Japan/index.m3u8
-#EXTINF:-1 group-title="台灣",緯來體育
-https://cdn-2.ttvb.eu.org/api/VL-Sports/index.m3u8
-#EXTINF:-1 group-title="台灣",緯來電影
-https://cdn-2.ttvb.eu.org/api/VL-Movies/index.m3u8
-#EXTINF:-1 group-title="台灣",緯來綜合
-https://cdn-2.ttvb.eu.org/api/VL-ONTV/index.m3u8
-#EXTINF:-1 group-title="台灣",緯來戲劇
-https://cdn-2.ttvb.eu.org/api/VL-Drama/index.m3u8
-#EXTINF:-1 group-title="台灣",緯來育樂
-https://cdn-2.ttvb.eu.org/api/VL-E/index.m3u8
-#EXTINF:-1 group-title="台灣",年代新聞
-https://cdn-2.ttvb.eu.org/api/Era-News/index.m3u8
-#EXTINF:-1 group-title="台灣",中天亞洲
-https://cdn-2.ttvb.eu.org/api/Cti-I/index.m3u8
-#EXTINF:-1 group-title="台灣",中天綜合
-https://cdn-2.ttvb.eu.org/api/Cti-K/index.m3u8
-#EXTINF:-1 group-title="台灣",中天娛樂
-https://cdn-2.ttvb.eu.org/api/Cti-E/index.m3u8
-#EXTINF:-1 group-title="台灣",東森電影
-https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
-#EXTINF:-1 group-title="台灣",東森洋片
-https://cdn-2.ttvb.eu.org/api/ET-Foreign-Movie-Channel/index.m3u8
-#EXTINF:-1 group-title="台灣",東森綜合
-https://cdn-2.ttvb.eu.org/api/ET-Variety-Channel/index.m3u8
-#EXTINF:-1 group-title="台灣",東森戲劇
-https://cdn-2.ttvb.eu.org/api/ET-Drama-Channel/index.m3u8
-#EXTINF:-1 group-title="台灣",東森幼幼
-https://cdn-2.ttvb.eu.org/api/YoYo-TV/index.m3u8
-#EXTINF:-1 group-title="台灣",好萊塢電影
-https://cdn-2.ttvb.eu.org/api/Hollywood-Movie/index.m3u8
-#EXTINF:-1 group-title="台灣",龍祥時代
-https://cdn-2.ttvb.eu.org/api/LSTIME-Movie/index.m3u8
-#EXTINF:-1 group-title="台灣",CINEMAX
-https://cdn-2.ttvb.eu.org/api/Cinemax/index.m3u8
-#EXTINF:-1 group-title="台灣",MTV Live
-https://cdn-2.ttvb.eu.org/api/MTV-Live/index.m3u8
 
 
 
@@ -4242,34 +4287,6 @@ http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Vivid TV, Canal 520" tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="私密頻道 ADULT", Vivid Red
-https://streams.alwaysdata.net/x?ch=vivid.m3u8
-#EXTINF:-1 tvg-id="Extasy, Canal 521" tvg-logo="https://extasy.tv/img/extasy-logo-pro-web.png" group-title="私密頻道 ADULT", Extasy
-https://streams.alwaysdata.net/x?ch=extasy.m3u8
-#EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="私密頻道 ADULT", EroXXX
-https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
-#EXTINF:-1 tvg-id="XXL, Canal 523" tvg-logo="https://ga.dorcel.com/resources/d-header-logo-xxltv-strait/1710490950.png" group-title="私密頻道 ADULT", XXL
-https://streams.alwaysdata.net/x?ch=xxl.m3u8
-#EXTINF:-1 tvg-id="CentoXCento, Canal 524" tvg-logo="https://streaming.alwaysdata.net/img/centoxcento.png" group-title="私密頻道 ADULT", CentoXCento
-https://streams.alwaysdata.net/x?ch=centoxcento.m3u8
-#EXTINF:-1 tvg-id="KinoXXX, Canal 525" tvg-logo="https://streaming.alwaysdata.net/img/kinoxxx.png" group-title="私密頻道 ADULT", KinoXXX
-https://streams.alwaysdata.net/x?ch=kinoxxx.m3u8
-#EXTINF:-1 tvg-id="PassieXXX, Canal 526" tvg-logo="https://streaming.alwaysdata.net/img/passie.png" group-title="私密頻道 ADULT", PassieXXX
-https://streams.alwaysdata.net/x?ch=passie.m3u8
-#EXTINF:-1 tvg-id="Penthouse Gold, Canal 513" tvg-logo="https://penthousetv.com/images/logo_phGold.png" group-title="私密頻道 ADULT", Penthouse Gold
-https://streams.alwaysdata.net/x?ch=penthouse.m3u8
-#EXTINF:-1 tvg-id="Penthouse Passion, Canal 514" tvg-logo="https://penthousetv.com/images/logo_phPassion.png" group-title="私密頻道 ADULT", Penthouse Passion
-https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
-#EXTINF:-1 tvg-id="Penthouse Reality, Canal 515" tvg-logo="https://penthousetv.com/images/phRealityTV_TEMP.jpg" group-title="私密頻道 ADULT", Penthouse Reality
-https://streams.alwaysdata.net/x?ch=penthousereality.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="私密頻道 ADULT", Brazzers TV Europe
-https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
-#EXTINF:-1 tvg-id="Dorcel TV, Canal 502" tvg-logo="https://dorceltv.com/images/cache/139781/project/front_skeleton/tv/channels/dorceltv/logo_light.png" group-title="私密頻道 ADULT", Dorcel TV
-https://streams.alwaysdata.net/x?ch=dorcel.m3u8
-#EXTINF:-1 tvg-id="Hustler TV, Canal 503" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png" group-title="私密頻道 ADULT", Hustler TV
-https://streams.alwaysdata.net/x?ch=hustlertv.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Playboy_TV_Logo.svg/revision/latest/scale-to-width-down/200?cb=20130325074908" group-title="私密頻道 ADULT",Playboy
 http://79.127.207.193:80/PlayboyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="私密頻道 ADULT",Hustler HD
@@ -4346,76 +4363,6 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/12168/index.m3u8
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6165/index.m3u8
 
 
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451451
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451451
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451452
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451452
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451453
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451453
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451454
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451454
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451455
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451455
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451456
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451456
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451457
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451457
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451458
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451458
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451459
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451459
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451460
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451460
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451461
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451461
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451462
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451462
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451463
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451463
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451464
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451464
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451465
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451465
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451466
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451466
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451467
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451467
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451468
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451468
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451469
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451469
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451470
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451470
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451471
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451471
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451472
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451472
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451473
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451473
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451474
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451474
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451475
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451475
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451476
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451476
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451477
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451477
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451478
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451478
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451479
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451479
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451480
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451480
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451481
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451481
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451482
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451482
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451483
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451484
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451484
-#EXTINF:-1 group-title="私密頻道 ADULT",FANTASY 1451485
-http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451485
 
 
 
@@ -6868,6 +6815,7 @@ http://91.218.50.136:8080/Rose35torres/iB7101/2591
 #EXTINF:-1 group-title="Rose35 ADULT",XXX 6
 http://91.218.50.136:8080/Rose35torres/iB7101/2592
 #EXTINF:-1 group-title="Rose35 ADULT",XXX 7
+
 http://91.218.50.136:8080/Rose35torres/iB7101/2593
 #EXTINF:-1 group-title="Rose35 ADULT",XXX 8
 http://91.218.50.136:8080/Rose35torres/iB7101/2594
@@ -8905,10 +8853,12 @@ http://sinalmycn.com:80/movie/632035/GqGcFV4ntu/664028.mp4
 
 
 
+
+
 #EXTINF:-1 group-title="經典三級 ADULT",1色降2之血玫瑰
 https://vip1.lz-cdn1.com/20220331/733_58b741b7/index.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",2新七擒七縱七色狼
-https://jkunnzyx.com/20250426/uToXhon9/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",2色降2之萬裡驅魔
+https://m3u8.cdn202511.com/videos/202411/21/673e5ba03276de039d31a162/7cd5f8/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",3倩女幽魂
 https://jkunnzyx.com/20250423/nU0wWqCw/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",4豔降勾魂
@@ -8919,7 +8869,7 @@ https://jkunnzyx.com/20250422/IzZnh5aN/2000kb/hls/index.m3u8
 https://jkunnzyx.com/20250422/ACOOZ77D/2000kb/hls/index.m3u8?t=1759862410098
 #EXTINF:-1 group-title="經典三級 ADULT",7禁春
 https://jkunnzyx.com/20250420/C6pNQeJa/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",8聊齋豔譚之月宮寶盒
+#EXTINF:-1 group-title="經典三級 ADULT",8聊齋畫皮
 https://vip1.lz-cdn1.com/20220602/7244_b84ad9e5/1200k/hls/mixed.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",9驚變
 https://jkunnzyx.com/20250216/DcmNwFCD/2000kb/hls/index.m3u8
@@ -8931,20 +8881,20 @@ https://vip1.lz-cdn.com/20220917/33110_558f97e4/1200k/hls/mixed.m3u8
 https://sex8sex811.com/20250720/ZVJOiFu6/3000kb/hls/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",13玉蒲團之玉女心經
 https://vip.lzcdn2.com/20220525/7634_7f4228f1/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",14聊齋畫皮
+#EXTINF:-1 group-title="經典三級 ADULT",14聊齋豔譚之玉女聊齋
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867035188432818176/790a397180e94e118b85f278941e42e7.m3u8?t=69804c9d&us=2018211537592377352&sign=808603d3bb0c4ee38c9652b745f55a5629fb07d1
+#EXTINF:-1 group-title="經典三級 ADULT",15聊齋豔譚之月宮寶盒
 https://vip1.lz-cdn1.com/20220602/7246_8dec3f14/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",15聊齋嬰寧
+#EXTINF:-1 group-title="經典三級 ADULT",16聊齋嬰寧
 https://vip1.lz-cdn1.com/20220602/7243_6ac4f584/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",16聊齋荷花三娘子
+#EXTINF:-1 group-title="經典三級 ADULT",17聊齋荷花三娘子
 https://vip1.lz-cdn1.com/20220602/7247_71485294/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",17金瓶梅
+#EXTINF:-1 group-title="經典三級 ADULT",18金瓶梅
 https://vip1.lz-cdn1.com/20220516/5775_36eacadc/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",18金瓶梅2
+#EXTINF:-1 group-title="經典三級 ADULT",19金瓶梅2
 https://vip1.lz-cdn1.com/20220516/5774_3b77c66d/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",193D肉蒲團之極樂寶鑒
+#EXTINF:-1 group-title="經典三級 ADULT",20.3D肉蒲團之極樂寶鑒
 https://vip1.lz-cdn.com/20220917/33091_abc5295d/1200k/hls/mixed.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",20一路向西
-https://vip1.lz-cdn.com/20220917/33114_9987901b/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",21血戀
 https://play.subokk.com/play/BeXoMrvd/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",22血戀2
@@ -9001,16 +8951,16 @@ https://play.subokk.com/play/1aMj09Pb/index.m3u8
 https://v.cdnlz2.com/20230918/26240_a6b81ab0/index.m3u8?t=1764492072297
 #EXTINF:-1 group-title="經典三級 ADULT",48色戒
 https://1080p.huyall.com/play/0dNxgO8a/index.m3u8?t=1764492136224
-#EXTINF:-1 group-title="經典三級 ADULT",49聊齋志異之孽欲孤鬼
+#EXTINF:-1 group-title="經典三級 ADULT",49色咒邪靈
+https://m3u8.cdn202511.com/videos/202511/14/6916c2e4890e5cd4948b7d09/gdda7b/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",50聊齋志異之孽欲孤鬼
 https://play.subokk.com/play/Xe0gMZvd/index.m3u8?t=1764492414384
-#EXTINF:-1 group-title="經典三級 ADULT",50獸性新人類
+#EXTINF:-1 group-title="經典三級 ADULT",51獸性新人類
 https://yzzy.play-cdn7.com/20220701/2384_e248cbb9/index.m3u8?t=1764492497766
-#EXTINF:-1 group-title="經典三級 ADULT",51獸性新人類2失憶性行為
+#EXTINF:-1 group-title="經典三級 ADULT",52獸性新人類2失憶性行為
 https://yzzy.play-cdn9.com/20220927/20_5a5a0b21/index.m3u8?t=1764492490362
-#EXTINF:-1 group-title="經典三級 ADULT",52聊齋豔奇之陸判性經
+#EXTINF:-1 group-title="經典三級 ADULT",53聊齋豔奇之陸判性經
 https://vip.lz15uu.com/20221003/329_2b99c463/index.m3u8?t=1764492625082
-#EXTINF:-1 group-title="經典三級 ADULT",53制服的挑逗
-https://s1.bfllvip.com/video/zhifudetiaodou/%E4%B8%AD%E5%AD%97/index.m3u8?t=1764492746431
 #EXTINF:-1 group-title="經典三級 ADULT",54色欲城市之赤裸姐妹花
 https://yzzy.play-cdn8.com/20220911/19276_b0e6b068/index.m3u8?t=1764492809683
 #EXTINF:-1 group-title="經典三級 ADULT",55男偷情女出牆(無碼)
@@ -9067,8 +9017,8 @@ https://s1.bfllvip.com/video/qingbenjiaren/HD%E4%B8%AD%E5%AD%97/index.m3u8?t=176
 https://jpzy01.com/20240617/Qd37CNBE/index.m3u8?t=1764511768674
 #EXTINF:-1 group-title="經典三級 ADULT",81她來自胡志明市
 https://yzzy.play-cdn6.com/20220805/8741_da7facbf/index.m3u8
-#EXTINF:-1 group-title="經典三級 ADULT",82玉女聊齋
-https://yzzy.play-cdn9.com/20220927/12_c80ba343/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",82聊齋花弄月
+https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867042462354198528/f89996191a544861b8efb255ef2c4b90.m3u8?t=69946eb0&us=2023745681546121216&sign=5631a42952ca7aab98f993ad3a251b25dde33934
 #EXTINF:-1 group-title="經典三級 ADULT",83三級薔薇之戀
 https://play.maoyanplay.top/20250808/PRcJMxaX/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="經典三級 ADULT",84趕屍豔談(無碼)
@@ -9127,10 +9077,52 @@ https://d6ii9agw2wrlt.cloudfront.net/video/2023-05-11/10/1656489245583749120/fd1
 https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/10/1867036575765975040/2541d930d308453f94096b4271edf82a.m3u8?t=69946da2&us=2023744550815154180&sign=57103168c515c87b69ee7e70e30cea3733650364
 #EXTINF:-1 group-title="經典三級 ADULT",111聊齋驚豔
 https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867042198452785152/8b6cf7c5f91a46c2828cdf366754c3d1.m3u8?t=69946eb0&us=2023745681537732610&sign=5e1e3e9ccb471f68ff2863139a64276ddbb58205
-#EXTINF:-1 group-title="經典三級 ADULT",112聊齋花弄月
-https://d6ii9agw2wrlt.cloudfront.net/video/2024-12-12/11/1867042462354198528/f89996191a544861b8efb255ef2c4b90.m3u8?t=69946eb0&us=2023745681546121216&sign=5631a42952ca7aab98f993ad3a251b25dde33934
-
-
+#EXTINF:-1 group-title="經典三級 ADULT",112春女怪談
+https://v.gsuus.com/play/mbkm2Yez/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",113三度誘惑
+https://v.gsuus.com/play/mbk5N3Ne/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",114迷情禪宗
+https://v.gsuus.com/play/ZdP1lm6e/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",115重生之我不是舔狗(無碼)
+https://play.hhuus.com/play/mbk1j4Ee/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",116倩女花開(無碼)
+https://play.maoyanplay.top/20250807/mPBHRUNP/index.m3u8?t=1778256190351
+#EXTINF:-1 group-title="經典三級 ADULT",117制服的挑逗
+https://s1.bfllvip.com/video/zhifudetiaodou/%E4%B8%AD%E5%AD%97/index.m3u8?t=1764492746431
+#EXTINF:-1 group-title="經典三級 ADULT",118白蛇艷談
+https://m3u8.cdn202511.com/videos/202511/06/690c9c268533a83ce575b196/1f11de/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",119新七擒七縱七色狼
+https://jkunnzyx.com/20250426/uToXhon9/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",120妲己性愛傳
+https://m3u8.cdn202511.com/videos/202411/21/673e60283276de039d31a366/239e43/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",121唐伯虎點秋香之淫賊四大才子
+https://m3u8.cdn202511.com/videos/202411/21/673e586e3276de039d319fed/71g8c7/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",122慈禧秘密生活
+https://m3u8.cdn202511.com/videos/202411/17/6739a37794b74ce103367a34/f4ad45/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",123淫龍鬥嬌鳳
+https://play.subokk.com/play/DdwmglXa/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",124鏡花風月之春降
+https://yzzy.play-cdn14.com/20230621/26932_20e1a3a4/index.m3u8?t=1778946791723
+#EXTINF:-1 group-title="經典三級 ADULT",125撞夠本
+https://play.hhuus.com/play/oeEwKgKb/index.m3u8?t=1778947109661
+#EXTINF:-1 group-title="經典三級 ADULT",126農民伯伯鄉下妹
+https://ckzy3.com/20230501/Q7er97j2/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",127非分熟女(未刪減版)蔡卓妍
+https://ckzy3.com/20211120/VQbsjdig/index.m3u8
+#EXTINF:-1 group-title="經典三級 ADULT",128雛妓(蔡卓妍)
+https://v.gsuus.com/play/9avMp8eG/index.m3u8?t=1778948979231
+#EXTINF:-1 group-title="經典三級 ADULT",129古惑仔:以淫為快
+https://v8.rstuuv.com/yyv8/202310/09/JtAhQEGV2y1/video/index.m3u8?t=1778949648778
+#EXTINF:-1 group-title="經典三級 ADULT",130前世情迷
+https://vv.jisuzyv.com/play/QbYZ7XMd/index.m3u8?t=1778949784045
+#EXTINF:-1 group-title="經典三級 ADULT",131鬼叫春
+https://vv.jisuzyv.com/play/1aKwRk8a/index.m3u8?t=1779206123168
+#EXTINF:-1 group-title="經典三級 ADULT",132天邊一朵雲
+https://play.phimgood.com/20260315/26462_58b311ab/index.m3u8?t=1779206352183
+#EXTINF:-1 group-title="經典三級 ADULT",133影子纏身
+https://ckzy3.com/20211217/4oGBt008/index.m3u8?t=1779206466823
+#EXTINF:-1 group-title="經典三級 ADULT",134迷情時空交叉點
+https://vip15.play-cdn15.com/20230820/24126_e726a8e5/index.m3u8?t=1779206697589
 
 
 
@@ -15496,10 +15488,6 @@ http://cdn-user.com:80/movie/JosemarOliveira/24jos999064802/371850.mp4
 http://cdn-user.com:80/movie/JosemarOliveira/24jos999064802/371849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais" tvg-logo="http://cdn-user.com/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO 1",Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais
 http://cdn-user.com:80/movie/JosemarOliveira/24jos999064802/371848.mp4
-
-
-
-
 
 
 
