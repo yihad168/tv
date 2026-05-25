@@ -135,6 +135,20 @@
       "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
     },
 
+        {
+            "name": "🐙Mytv",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://cdn.qd.je/live.m3u"
+        },
+         {
+            "name": "🐙singtel",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/singtel.txt"
+        },
+
+
     {
       "name": "潇雨萌萌TV直播",
       "url": "https://ds65.tv1288.xyz"
