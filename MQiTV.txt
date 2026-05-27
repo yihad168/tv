@@ -229,6 +229,15 @@
             "url": "https://ds65.tv1288.xyz",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
          },
+
+	     {
+            "name": "🐬综合直播2",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+            "ua": "okhttp"
+         },
+
 	     {
             "name": "🐬电视家",
             "type": 0,
@@ -266,6 +275,14 @@
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
+
+        {
+            "name": "🐬singtel(梯子)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/singtel.txt"
+        },
+
         {
             "name": "🐬黄蚂蚁先锋推流源",
             "type": 0,
