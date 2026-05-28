@@ -585,7 +585,7 @@ https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 #EXTINF:-1 group-title="fastch" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS(Kansai)
 http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 
-
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt
 https://raw.githubusercontent.com/zhaojifang/zhaojifang123/refs/heads/master/秘密花園
 https://t.me/s/alistshare
 https://pan.mediy.cn/
@@ -2817,6 +2817,397 @@ https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b5
 
 
 
+#########################################
+             NEWS
+#########################################
+
+
+#EXTINF:-1 group-title="大韓民國",KBS1
+https://hls-gateway.vpstv.net/streams/709115.m3u8
+#EXTINF:-1 group-title="大韓民國",KBS2
+https://hls-gateway.vpstv.net/streams/709116.m3u8
+#EXTINF:-1 group-title="大韓民國",TVN
+https://hls-gateway.vpstv.net/streams/709117.m3u8
+#EXTINF:-1 group-title="大韓民國",채널A
+https://hls-gateway.vpstv.net/streams/709118.m3u8
+#EXTINF:-1 group-title="大韓民國",JTBC
+https://hls-gateway.vpstv.net/streams/709119.m3u8
+#EXTINF:-1 group-title="大韓民國",JTBC2
+https://hls-gateway.vpstv.net/streams/709120.m3u8
+#EXTINF:-1 group-title="大韓民國",JTBC4
+https://hls-gateway.vpstv.net/streams/709121.m3u8
+#EXTINF:-1 group-title="大韓民國",EBS1
+https://hls-gateway.vpstv.net/streams/709122.m3u8
+#EXTINF:-1 group-title="大韓民國",EBS2
+https://hls-gateway.vpstv.net/streams/709123.m3u8
+#EXTINF:-1 group-title="大韓民國",SBS
+https://hls-gateway.vpstv.net/streams/709124.m3u8
+#EXTINF:-1 group-title="大韓民國",MBC
+https://hls-gateway.vpstv.net/streams/709125.m3u8
+#EXTINF:-1 group-title="大韓民國",TV조선
+https://hls-gateway.vpstv.net/streams/709126.m3u8
+#EXTINF:-1 group-title="大韓民國",TV조선2
+https://hls-gateway.vpstv.net/streams/709127.m3u8
+#EXTINF:-1 group-title="大韓民國",연합뉴스TV
+https://hls-gateway.vpstv.net/streams/709128.m3u8
+#EXTINF:-1 group-title="大韓民國",YTN
+https://hls-gateway.vpstv.net/streams/709129.m3u8
+#EXTINF:-1 group-title="大韓民國",MBN
+https://hls-gateway.vpstv.net/streams/709130.m3u8
+#EXTINF:-1 group-title="大韓民國",아이넷TV
+https://hls-gateway.vpstv.net/streams/709131.m3u8
+#EXTINF:-1 group-title="大韓民國",Mnet
+https://hls-gateway.vpstv.net/streams/709132.m3u8
+#EXTINF:-1 group-title="大韓民國",KBS Joy
+https://hls-gateway.vpstv.net/streams/709133.m3u8
+#EXTINF:-1 group-title="大韓民國",TVN STORY
+https://hls-gateway.vpstv.net/streams/709134.m3u8
+#EXTINF:-1 group-title="大韓民國",OCN
+https://hls-gateway.vpstv.net/streams/709135.m3u8
+#EXTINF:-1 group-title="大韓民國",OCN movie
+https://hls-gateway.vpstv.net/streams/709136.m3u8
+#EXTINF:-1 group-title="大韓民國",스크린
+https://hls-gateway.vpstv.net/streams/709137.m3u8
+#EXTINF:-1 group-title="大韓民國",CNTV
+https://hls-gateway.vpstv.net/streams/709138.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV
+https://hls-gateway.vpstv.net/streams/709139.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV2
+https://hls-gateway.vpstv.net/streams/709140.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV PRIME1
+https://hls-gateway.vpstv.net/streams/709141.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV PRIME2
+https://hls-gateway.vpstv.net/streams/709142.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV PRIME+
+https://hls-gateway.vpstv.net/streams/709143.m3u8
+#EXTINF:-1 group-title="大韓民國",KBSN SPORTS
+https://hls-gateway.vpstv.net/streams/709144.m3u8
+#EXTINF:-1 group-title="大韓民國",MBC SPORTS
+https://hls-gateway.vpstv.net/streams/709145.m3u8
+#EXTINF:-1 group-title="大韓民國",SBS SPORTS
+https://hls-gateway.vpstv.net/streams/709146.m3u8
+#EXTINF:-1 group-title="大韓民國",TVN SPORTS
+https://hls-gateway.vpstv.net/streams/709147.m3u8
+#EXTINF:-1 group-title="大韓民國",SKY SPORTS
+https://hls-gateway.vpstv.net/streams/709148.m3u8
+#EXTINF:-1 group-title="大韓民國",IB 스포츠
+https://hls-gateway.vpstv.net/streams/709149.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV Golf health
+https://hls-gateway.vpstv.net/streams/709150.m3u8
+#EXTINF:-1 group-title="大韓民國",JTB Cgolf sports
+https://hls-gateway.vpstv.net/streams/709151.m3u8
+#EXTINF:-1 group-title="大韓民國",PBA\u0026GOLF
+https://hls-gateway.vpstv.net/streams/709152.m3u8
+#EXTINF:-1 group-title="大韓民國",브레인TV
+https://hls-gateway.vpstv.net/streams/709153.m3u8
+#EXTINF:-1 group-title="大韓民國",FTV
+https://hls-gateway.vpstv.net/streams/709154.m3u8
+#EXTINF:-1 group-title="大韓民國",바둑TV
+https://hls-gateway.vpstv.net/streams/709155.m3u8
+#EXTINF:-1 group-title="大韓民國",빌리어즈TV
+https://hls-gateway.vpstv.net/streams/709156.m3u8
+#EXTINF:-1 group-title="大韓民國",히스토리
+https://hls-gateway.vpstv.net/streams/709157.m3u8
+#EXTINF:-1 group-title="大韓民國",디스커버리
+https://hls-gateway.vpstv.net/streams/709158.m3u8
+#EXTINF:-1 group-title="大韓民國",뽀요TV
+https://hls-gateway.vpstv.net/streams/709159.m3u8
+#EXTINF:-1 group-title="大韓民國",부메랑TV
+https://hls-gateway.vpstv.net/streams/709160.m3u8
+#EXTINF:-1 group-title="大韓民國",KBS키즈
+https://hls-gateway.vpstv.net/streams/709161.m3u8
+#EXTINF:-1 group-title="大韓民國",투니버즈
+https://hls-gateway.vpstv.net/streams/709162.m3u8
+#EXTINF:-1 group-title="大韓民國",CBS
+https://hls-gateway.vpstv.net/streams/709163.m3u8
+#EXTINF:-1 group-title="大韓民國",CTS
+https://hls-gateway.vpstv.net/streams/709164.m3u8
+#EXTINF:-1 group-title="大韓民國",CGNTV
+https://hls-gateway.vpstv.net/streams/709165.m3u8
+#EXTINF:-1 group-title="大韓民國",CPBC평화방송
+https://hls-gateway.vpstv.net/streams/709166.m3u8
+#EXTINF:-1 group-title="大韓民國",BTN
+https://hls-gateway.vpstv.net/streams/709167.m3u8
+#EXTINF:-1 group-title="大韓民國",KBS드라마
+https://hls-gateway.vpstv.net/streams/709169.m3u8
+#EXTINF:-1 group-title="大韓民國",KBSN Life
+https://hls-gateway.vpstv.net/streams/709170.m3u8
+#EXTINF:-1 group-title="大韓民國",KBS World
+https://hls-gateway.vpstv.net/streams/709171.m3u8
+#EXTINF:-1 group-title="大韓民國",MBC드라마
+https://hls-gateway.vpstv.net/streams/709172.m3u8
+#EXTINF:-1 group-title="大韓民國",SBS plus
+https://hls-gateway.vpstv.net/streams/709173.m3u8
+#EXTINF:-1 group-title="大韓民國",전원일기
+https://hls-gateway.vpstv.net/streams/709175.m3u8
+#EXTINF:-1 group-title="大韓民國",더 무비
+https://hls-gateway.vpstv.net/streams/709176.m3u8
+#EXTINF:-1 group-title="大韓民國",SBS Golf2
+https://hls-gateway.vpstv.net/streams/709178.m3u8
+#EXTINF:-1 group-title="大韓民國",SBSgolf
+https://hls-gateway.vpstv.net/streams/709177.m3u8
+#EXTINF:-1 group-title="大韓民國",JTBCgolf sports2
+https://hls-gateway.vpstv.net/streams/709179.m3u8
+#EXTINF:-1 group-title="大韓民國",KBSN스토리
+https://hls-gateway.vpstv.net/streams/709180.m3u8
+#EXTINF:-1 group-title="大韓民國",ENA
+https://hls-gateway.vpstv.net/streams/709424.m3u8
+#EXTINF:-1 group-title="大韓民國",BBC Earth
+https://hls-gateway.vpstv.net/streams/476670.m3u8
+#EXTINF:-1 group-title="大韓民國",ANTV
+https://hls-gateway.vpstv.net/streams/476859.m3u8
+#EXTINF:-1 group-title="大韓民國",Cartoon Network
+https://hls-gateway.vpstv.net/streams/709450.m3u8
+#EXTINF:-1 group-title="大韓民國",CELESTIAL MOVIES
+https://hls-gateway.vpstv.net/streams/476869.m3u8
+#EXTINF:-1 group-title="大韓民國",CNN Indonesia
+https://hls-gateway.vpstv.net/streams/476863.m3u8
+#EXTINF:-1 group-title="大韓民國",Fight Sports
+https://hls-gateway.vpstv.net/streams/476875.m3u8
+#EXTINF:-1 group-title="大韓民國",HITS
+https://hls-gateway.vpstv.net/streams/476872.m3u8
+#EXTINF:-1 group-title="大韓民國",INDOSIAR
+https://hls-gateway.vpstv.net/streams/476858.m3u8
+#EXTINF:-1 group-title="大韓民國",Kompas Tv
+https://hls-gateway.vpstv.net/streams/476862.m3u8
+#EXTINF:-1 group-title="大韓民國",METRO TV
+https://hls-gateway.vpstv.net/streams/476861.m3u8
+#EXTINF:-1 group-title="大韓民國",TRANSTV
+https://hls-gateway.vpstv.net/streams/476857.m3u8
+#EXTINF:-1 group-title="大韓民國",Tv One
+https://hls-gateway.vpstv.net/streams/476860.m3u8
+#EXTINF:-1 group-title="大韓民國",SCTV
+https://hls-gateway.vpstv.net/streams/476855.m3u8
+#EXTINF:-1 group-title="大韓民國",TV9 NUSANTARA
+https://hls-gateway.vpstv.net/streams/709416.m3u8
+#EXTINF:-1 group-title="大韓民國",Warner TV
+https://hls-gateway.vpstv.net/streams/602243.m3u8
+#EXTINF:-1 group-title="大韓民國",MCNmycinema
+https://hls-gateway.vpstv.net/streams/602242.m3u8
+#EXTINF:-1 group-title="大韓民國",DREAMWORKS
+https://hls-gateway.vpstv.net/streams/602239.m3u8
+#EXTINF:-1 group-title="大韓民國",TVNMOVIES
+https://hls-gateway.vpstv.net/streams/602232.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV1
+https://hls-gateway.vpstv.net/streams/602227.m3u8
+#EXTINF:-1 group-title="大韓民國",SPOTV2
+https://hls-gateway.vpstv.net/streams/602231.m3u8
+#EXTINF:-1 group-title="大韓民國",ROCKENT
+https://hls-gateway.vpstv.net/streams/602223.m3u8
+#EXTINF:-1 group-title="大韓民國",ROCK ACTION
+https://hls-gateway.vpstv.net/streams/602219.m3u8
+#EXTINF:-1 group-title="大韓民國",nickelodeon
+https://hls-gateway.vpstv.net/streams/602218.m3u8
+#EXTINF:-1 group-title="大韓民國",AFN
+https://hls-gateway.vpstv.net/streams/602212.m3u8
+#EXTINF:-1 group-title="大韓民國",history
+https://hls-gateway.vpstv.net/streams/602207.m3u8
+#EXTINF:-1 group-title="大韓民國",HBO HITS
+https://hls-gateway.vpstv.net/streams/602206.m3u8
+#EXTINF:-1 group-title="大韓民國",HBO
+https://hls-gateway.vpstv.net/streams/602196.m3u8
+#EXTINF:-1 group-title="大韓民國",BBCcbeebies
+https://hls-gateway.vpstv.net/streams/602194.m3u8
+#EXTINF:-1 group-title="大韓民國",ANIMAX
+https://hls-gateway.vpstv.net/streams/602191.m3u8
+#EXTINF:-1 group-title="大韓民國",RTV
+https://hls-gateway.vpstv.net/streams/602188.m3u8
+#EXTINF:-1 group-title="大韓民國",AXN
+https://hls-gateway.vpstv.net/streams/602163.m3u8
+#EXTINF:-1 group-title="大韓民國",NET
+https://hls-gateway.vpstv.net/streams/709410.m3u8
+#EXTINF:-1 group-title="大韓民國",TRANS7
+https://hls-gateway.vpstv.net/streams/709411.m3u8
+#EXTINF:-1 group-title="大韓民國",MAGNA CHANEL
+https://hls-gateway.vpstv.net/streams/709412.m3u8
+#EXTINF:-1 group-title="大韓民國",ELSHINTA
+https://hls-gateway.vpstv.net/streams/709413.m3u8
+#EXTINF:-1 group-title="大韓民國",DENS Life Style
+https://hls-gateway.vpstv.net/streams/709414.m3u8
+#EXTINF:-1 group-title="大韓民國",BTV
+https://hls-gateway.vpstv.net/streams/709415.m3u8
+#EXTINF:-1 group-title="大韓民國",DENS Knowledge
+https://hls-gateway.vpstv.net/streams/709417.m3u8
+#EXTINF:-1 group-title="大韓民國",DENS Showbiz
+https://hls-gateway.vpstv.net/streams/709418.m3u8
+#EXTINF:-1 group-title="大韓民國",DENS Food Chanel
+https://hls-gateway.vpstv.net/streams/709419.m3u8
+#EXTINF:-1 group-title="大韓民國",My Cinema
+https://hls-gateway.vpstv.net/streams/709420.m3u8
+#EXTINF:-1 group-title="大韓民國",Cinema World
+https://hls-gateway.vpstv.net/streams/709421.m3u8
+#EXTINF:-1 group-title="大韓民國",Stingray Classica
+https://hls-gateway.vpstv.net/streams/709422.m3u8
+#EXTINF:-1 group-title="大韓民國",Wsport
+https://hls-gateway.vpstv.net/streams/709423.m3u8
+#EXTINF:-1 group-title="大韓民國",NHK総合・东京
+https://hls-gateway.vpstv.net/streams/709216.m3u8
+#EXTINF:-1 group-title="大韓民國",NHKEテレ・东京
+https://hls-gateway.vpstv.net/streams/709217.m3u8
+#EXTINF:-1 group-title="大韓民國",日テレ
+https://hls-gateway.vpstv.net/streams/709218.m3u8
+#EXTINF:-1 group-title="大韓民國",TBS
+https://hls-gateway.vpstv.net/streams/709219.m3u8
+#EXTINF:-1 group-title="大韓民國",フジテレビ Fuji TV
+https://hls-gateway.vpstv.net/streams/709220.m3u8
+#EXTINF:-1 group-title="大韓民國",テレビ东京
+https://hls-gateway.vpstv.net/streams/709222.m3u8
+#EXTINF:-1 group-title="大韓民國",NHK BS
+https://hls-gateway.vpstv.net/streams/709223.m3u8
+#EXTINF:-1 group-title="大韓民國",NHK BSP4K
+https://hls-gateway.vpstv.net/streams/709224.m3u8
+#EXTINF:-1 group-title="大韓民國",MBS毎日放送
+https://hls-gateway.vpstv.net/streams/709225.m3u8
+#EXTINF:-1 group-title="大韓民國",KBS京都
+https://hls-gateway.vpstv.net/streams/709226.m3u8
+#EXTINF:-1 group-title="大韓民國",関西テレビ
+https://hls-gateway.vpstv.net/streams/709227.m3u8
+#EXTINF:-1 group-title="大韓民國",テレビ大阪
+https://hls-gateway.vpstv.net/streams/709228.m3u8
+#EXTINF:-1 group-title="大韓民國",BS朝日
+https://hls-gateway.vpstv.net/streams/709229.m3u8
+#EXTINF:-1 group-title="大韓民國",BS-TBS
+https://hls-gateway.vpstv.net/streams/709230.m3u8
+#EXTINF:-1 group-title="大韓民國",NHK 综合
+https://hls-gateway.vpstv.net/streams/476573.m3u8
+#EXTINF:-1 group-title="大韓民國",TOKYO MX1
+https://hls-gateway.vpstv.net/streams/709231.m3u8
+#EXTINF:-1 group-title="大韓民國",映画・チャンネル
+https://hls-gateway.vpstv.net/streams/709234.m3u8
+#EXTINF:-1 group-title="大韓民國",时代剧専门チャンネル
+https://hls-gateway.vpstv.net/streams/709235.m3u8
+#EXTINF:-1 group-title="大韓民國",TOKYO MX 2
+https://hls-gateway.vpstv.net/streams/709236.m3u8
+#EXTINF:-1 group-title="大韓民國",ファミリー剧场
+https://hls-gateway.vpstv.net/streams/709237.m3u8
+#EXTINF:-1 group-title="大韓民國",卫星剧场
+https://hls-gateway.vpstv.net/streams/709238.m3u8
+#EXTINF:-1 group-title="大韓民國",BS日本映画専门チャンネル
+https://hls-gateway.vpstv.net/streams/709239.m3u8
+#EXTINF:-1 group-title="大韓民國",BS钓りビジョン
+https://hls-gateway.vpstv.net/streams/709240.m3u8
+#EXTINF:-1 group-title="大韓民國",チャンネル银河
+https://hls-gateway.vpstv.net/streams/709241.m3u8
+#EXTINF:-1 group-title="大韓民國",卫星剧场
+https://hls-gateway.vpstv.net/streams/709242.m3u8
+#EXTINF:-1 group-title="大韓民國",MTV
+https://hls-gateway.vpstv.net/streams/709243.m3u8
+#EXTINF:-1 group-title="大韓民國",MUSIC ON! TV
+https://hls-gateway.vpstv.net/streams/709244.m3u8
+#EXTINF:-1 group-title="大韓民國",ホームドラマチャンネル
+https://hls-gateway.vpstv.net/streams/709245.m3u8
+#EXTINF:-1 group-title="大韓民國",J SPORTS 1
+https://hls-gateway.vpstv.net/streams/709246.m3u8
+#EXTINF:-1 group-title="大韓民國",J SPORTS 2
+https://hls-gateway.vpstv.net/streams/709247.m3u8
+#EXTINF:-1 group-title="大韓民國",J SPORTS 3
+https://hls-gateway.vpstv.net/streams/709248.m3u8
+#EXTINF:-1 group-title="大韓民國",J SPORTS 4
+https://hls-gateway.vpstv.net/streams/709249.m3u8
+#EXTINF:-1 group-title="大韓民國",WOWOWプライム
+https://hls-gateway.vpstv.net/streams/709250.m3u8
+#EXTINF:-1 group-title="大韓民國",WOWOWライブ
+https://hls-gateway.vpstv.net/streams/709251.m3u8
+#EXTINF:-1 group-title="大韓民國",WOWOWシネマ
+https://hls-gateway.vpstv.net/streams/709252.m3u8
+#EXTINF:-1 group-title="大韓民國",WOWOWプラス
+https://hls-gateway.vpstv.net/streams/709253.m3u8
+#EXTINF:-1 group-title="大韓民國",旅チャンネル
+https://hls-gateway.vpstv.net/streams/709254.m3u8
+#EXTINF:-1 group-title="大韓民國",ＡＸＮ 海外ドラマ
+https://hls-gateway.vpstv.net/streams/709255.m3u8
+#EXTINF:-1 group-title="大韓民國",FOX
+https://hls-gateway.vpstv.net/streams/709256.m3u8
+#EXTINF:-1 group-title="大韓民國",スター・チャンネル1
+https://hls-gateway.vpstv.net/streams/709257.m3u8
+#EXTINF:-1 group-title="大韓民國",スター・チャンネル2
+https://hls-gateway.vpstv.net/streams/709258.m3u8
+#EXTINF:-1 group-title="大韓民國",歌谣ポップスチャンネル
+https://hls-gateway.vpstv.net/streams/709259.m3u8
+#EXTINF:-1 group-title="大韓民國",BSアニマックス Animax
+https://hls-gateway.vpstv.net/streams/709260.m3u8
+#EXTINF:-1 group-title="大韓民國",女性チャンネル♪LaLa TV
+https://hls-gateway.vpstv.net/streams/709261.m3u8
+#EXTINF:-1 group-title="大韓民國",CSスポーツチャンネルGAORA
+https://hls-gateway.vpstv.net/streams/709262.m3u8
+#EXTINF:-1 group-title="大韓民國",ムービープラス
+https://hls-gateway.vpstv.net/streams/709263.m3u8
+#EXTINF:-1 group-title="大韓民國",NHK Eテレ・东京
+https://hls-gateway.vpstv.net/streams/709182.m3u8
+#EXTINF:-1 group-title="大韓民國",アニメシアタ-X(AT-X)
+https://hls-gateway.vpstv.net/streams/709514.m3u8
+#EXTINF:-1 group-title="大韓民國",BS11デジタ儿
+https://hls-gateway.vpstv.net/streams/709515.m3u8
+#EXTINF:-1 group-title="大韓民國",キッズステ-ション
+https://hls-gateway.vpstv.net/streams/709516.m3u8
+#EXTINF:-1 group-title="大韓民國",Animal Planet
+https://hls-gateway.vpstv.net/streams/476589.m3u8
+#EXTINF:-1 group-title="大韓民國",Colors
+https://hls-gateway.vpstv.net/streams/476582.m3u8
+#EXTINF:-1 group-title="大韓民國",Colors Tamil
+https://hls-gateway.vpstv.net/streams/476584.m3u8
+#EXTINF:-1 group-title="大韓民國",STAR VIJAY
+https://hls-gateway.vpstv.net/streams/477814.m3u8
+#EXTINF:-1 group-title="大韓民國",SUN Life
+https://hls-gateway.vpstv.net/streams/476608.m3u8
+#EXTINF:-1 group-title="大韓民國",SUN News
+https://hls-gateway.vpstv.net/streams/476606.m3u8
+#EXTINF:-1 group-title="大韓民國",ZEE Tamil
+https://hls-gateway.vpstv.net/streams/476586.m3u8
+#EXTINF:-1 group-title="大韓民國",SUN TV
+https://hls-gateway.vpstv.net/streams/481755.m3u8
+#EXTINF:-1 group-title="大韓民國",MTV
+https://hls-gateway.vpstv.net/streams/709451.m3u8
+#EXTINF:-1 group-title="大韓民國",Zee cinema
+https://hls-gateway.vpstv.net/streams/708704.m3u8
+#EXTINF:-1 group-title="大韓民國",SunAdithya
+https://hls-gateway.vpstv.net/streams/708992.m3u8
+#EXTINF:-1 group-title="大韓民國",Gma 7
+https://hls-gateway.vpstv.net/streams/476724.m3u8
+#EXTINF:-1 group-title="大韓民國",ONEMEDIANETWORK
+https://hls-gateway.vpstv.net/streams/709206.m3u8
+#EXTINF:-1 group-title="大韓民國",PBO
+https://hls-gateway.vpstv.net/streams/476726.m3u8
+#EXTINF:-1 group-title="大韓民國",A2Z
+https://hls-gateway.vpstv.net/streams/709204.m3u8
+#EXTINF:-1 group-title="大韓民國",ONENEWS
+https://hls-gateway.vpstv.net/streams/709207.m3u8
+#EXTINF:-1 group-title="大韓民國",ONESPORTS
+https://hls-gateway.vpstv.net/streams/709208.m3u8
+#EXTINF:-1 group-title="大韓民國",RPTV
+https://hls-gateway.vpstv.net/streams/709211.m3u8
+#EXTINF:-1 group-title="大韓民國",Cinema One
+https://hls-gateway.vpstv.net/streams/476720.m3u8
+#EXTINF:-1 group-title="大韓民國",PREMIERSPORTS
+https://hls-gateway.vpstv.net/streams/708699.m3u8
+#EXTINF:-1 group-title="大韓民國",PREMIERSPORTS2
+https://hls-gateway.vpstv.net/streams/709209.m3u8
+#EXTINF:-1 group-title="大韓民國",SARISARICHANNEL
+https://hls-gateway.vpstv.net/streams/709212.m3u8
+#EXTINF:-1 group-title="大韓民國",TAP
+https://hls-gateway.vpstv.net/streams/709213.m3u8
+#EXTINF:-1 group-title="大韓民國",TMC
+https://hls-gateway.vpstv.net/streams/709214.m3u8
+#EXTINF:-1 group-title="大韓民國",TV5
+https://hls-gateway.vpstv.net/streams/709215.m3u8
+#EXTINF:-1 group-title="大韓民國",ONESPORTSPLUS
+https://hls-gateway.vpstv.net/streams/709266.m3u8
+#EXTINF:-1 group-title="大韓民國",Buko
+https://hls-gateway.vpstv.net/streams/709322.m3u8
+#EXTINF:-1 group-title="大韓民國",TAPACTIONFLIX
+https://hls-gateway.vpstv.net/streams/709382.m3u8
+#EXTINF:-1 group-title="大韓民國",PBARUSH
+https://hls-gateway.vpstv.net/streams/709383.m3u8
+#EXTINF:-1 group-title="大韓民國",TAPMOVIES
+https://hls-gateway.vpstv.net/streams/709384.m3u8
+#EXTINF:-1 group-title="大韓民國",TAPSPORTS
+https://hls-gateway.vpstv.net/streams/709385.m3u8
+#EXTINF:-1 group-title="大韓民國",TFC
+https://hls-gateway.vpstv.net/streams/709386.m3u8
+#EXTINF:-1 group-title="大韓民國",RTP ASIA
+https://hls-gateway.vpstv.net/streams/709055.m3u8
+#EXTINF:-1 group-title="大韓民國",CVI
+https://hls-gateway.vpstv.net/streams/709054.m3u8
 
 #########################################
              NEWS
@@ -18844,4 +19235,10 @@ http://cdn-user.com:80/movie/JosemarOliveira/24jos999064802/371850.mp4
 http://cdn-user.com:80/movie/JosemarOliveira/24jos999064802/371849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais" tvg-logo="http://cdn-user.com/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO 1",Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais
 http://cdn-user.com:80/movie/JosemarOliveira/24jos999064802/371848.mp4
+
+
+
+
+
+
 
