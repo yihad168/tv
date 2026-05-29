@@ -216,7 +216,7 @@
       "playerType": 1
         },
 
-        {
+         {
             "name": "🐬各大源合集",
             "type": 0,
             "ua": "okhttp/5.3.2",
@@ -229,7 +229,6 @@
             "url": "https://ds65.tv1288.xyz",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
          },
-
 	     {
             "name": "🐬综合直播2",
             "type": 0,
@@ -237,7 +236,6 @@
             "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
             "ua": "okhttp"
          },
-
 	     {
             "name": "🐬电视家",
             "type": 0,
@@ -258,6 +256,18 @@
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
         {
+            "name": "🐬国际TV 有🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
+        },
+	    {
+            "name": "🐬UnifiTV",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
+        },
+	    {
             "name": "🐬裤佬TV",
             "type": 0,
             "ua": "okhttp",
@@ -275,15 +285,13 @@
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
-
         {
             "name": "🐬singtel(梯子)",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/singtel.txt"
         },
-
-        {
+	    {
             "name": "🐬黄蚂蚁先锋推流源",
             "type": 0,
             "ua": "okhttp",
@@ -302,7 +310,7 @@
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
         {
-            "name": "🐬易发源",
+            "name": "🐬易发源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
@@ -335,13 +343,19 @@
             "name": "🐬4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
+        },
+	    {
+            "name": "🐬4GTV2",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
         },
         {
             "name": "🐬安博(梯子)卡顿 有🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博.txt"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
         },
         {
             "name": "🐬jackTV(梯子)",
@@ -365,15 +379,14 @@
 	        "name": "🐬午夜剧场🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/午夜剧场.txt"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/午夜剧场.txt"
         },
 	    {
             "name": "🐬海豚佬xxx视频资源🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
         },
-
         {
             "name": "🐬欧美大片直播🔞",
             "type": 0,
