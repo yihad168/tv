@@ -518,6 +518,32 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/2367907737/static/refs/heads/main/TV/1/女优库全集.m3u"
         },
 
+{
+    "name": "🔞黃倉國產🔞",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
+    "timeout": 10
+},
+{
+    "name": "🔞黃倉日韓🔞",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u",
+    "timeout": 10
+},
+{
+    "name": "🔞madou🔞",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
+    "timeout": 10
+},
+{
+    "name": "🔞MissAV🔞",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/vod_missav.m3u",
+    "timeout": 10
+},
+
+
     {
       "name": "🐅港台2",
       "type": 0,
