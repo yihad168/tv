@@ -585,6 +585,8 @@ https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 #EXTINF:-1 group-title="fastch" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS(Kansai)
 http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 
+https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/haitunys
+https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/海豚影视.json
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt
 https://raw.githubusercontent.com/zhaojifang/zhaojifang123/refs/heads/master/秘密花園
 https://t.me/s/alistshare
@@ -649,30 +651,6 @@ https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-dash-hls/da-cl-fhd-4s
 
 
 
-#EXTINF:-1 group-title="台灣",MOMO親子
-http://gat.xyys.site/cdnlive.php?mode=play;id=b48858332dd554bb87f0f62ff2d3e977;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",DreamWorks
-http://gat.xyys.site/cdnlive.php?mode=play;id=5419f14ed0f65f60a5566e417f085d73;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",華藝中文
-http://gat.xyys.site/cdnlive.php?mode=play;id=0a011cdb74635c5ca7eaf0ba9f79a9fd;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達日韓
-http://gat.xyys.site/cdnlive.php?mode=play;id=329d0c64d07e59568922ae4b54812738;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達影劇
-http://gat.xyys.site/cdnlive.php?mode=play;id=8e0d3ac5ce59566b9b318730d4421c7f;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達綜合
-http://gat.xyys.site/cdnlive.php?mode=play;id=9c7fd04c570f59e38246fc5a1f5f4160;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達綜合
-http://gat.xyys.site/cdnlive.php?mode=play;id=7563f78ba12c5e7a8a07a137922d4553;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO
-http://gat.xyys.site/cdnlive.php?mode=play;id=d9a13b2abd9b54c4b9f73b3ea7fc435f;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO_HD
-http://gat.xyys.site/cdnlive.php?mode=play;id=0076c081ca645dce96fec93cc4f000c7;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO Hits
-http://gat.xyys.site/cdnlive.php?mode=play;id=432c06f4959e5ef6869e980ef4aeb03a;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO Signature
-http://gat.xyys.site/cdnlive.php?mode=play;id=c09733a24e805423962c37e7f93b9260;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-
-
 #EXTINF:-1 group-title="台灣",民視新聞(211)
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 group-title="台灣",中視(211)
@@ -693,20 +671,7 @@ http://211.72.174.95:8138/0.ts
 #EXTINF:-1 group-title="台灣",澳門蓮花
 http://r.jdshipin.com/5DWJk
 
-#EXTINF:-1 group-title="台灣",緯來電影(smt)
-https://smt.1678520.xyz/163189/602e9465658d4f8c
-#EXTINF:-1 group-title="台灣",緯來戲劇(smt)
-https://smt.1678520.xyz/163189/ab657380c65c1fd1
-#EXTINF:-1 group-title="台灣",緯來體育(smt)
-https://smt.1678520.xyz/163189/b10b2645c6d9de2b
-#EXTINF:-1 group-title="台灣",龍祥時代(smt)
-https://smt.1678520.xyz/163189/6963a2247128286b
-#EXTINF:-1 group-title="台灣",東森電影(smt)
-https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-#EXTINF:-1 group-title="台灣",東森戲劇(smt)
-https://smt.1678520.xyz/163189/f60cd3f14b06dabc
-#EXTINF:-1 group-title="台灣",東森洋片(smt)
-https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
+
 
 
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華電影.png" group-title="台灣",龍華電影台
@@ -859,6 +824,9 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="台灣",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
+
+
+
 
 
 #########################################
@@ -3102,12 +3070,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 
 
 
-#EXTINF:-1 group-title="體育世界",Eurosport 1
-https://test.946985.filegear-sg.me/proxy/0ec0634135a2cd3e
-#EXTINF:-1 group-title="體育世界",Eurosport 2
-https://test.946985.filegear-sg.me/proxy/60fbadb5d9cb8c73
-
-
 
 #EXTINF:-1 tvg-name="SLY SPORTS F1 HD" group-title="體育世界",SLY SPORTS F1 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2200.ts
@@ -3236,20 +3198,25 @@ https://iptv.852851.xyz/ch/5e1200949d2834e71002c6603f0c69cf/master.m3u8
 
 
 
-#EXTINF:-1 group-title="體育世界",愛爾達
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20B%20(HTTP%20200)%20--%3E
-#EXTINF:-1 group-title="體育世界",愛爾達體育一台
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20A%20(HTTP%20200)%20--%3E?ch=074b9d9a1
-#EXTINF:-1 group-title="體育世界",hami體育一台
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20A%20(HTTP%20200)%20--%3E?ch=102c47822
-#EXTINF:-1 group-title="體育世界",hami足球一台
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20A%20(HTTP%20200)%20--%3E?ch=9081d7833
-#EXTINF:-1 group-title="體育世界",hami棒球1台
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20A%20(HTTP%20200)%20--%3E?ch=28666ee84
-#EXTINF:-1 group-title="體育世界",歐洲體育1
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20A%20(HTTP%20200)%20--%3E?ch=7f4edbc25
-#EXTINF:-1 group-title="體育世界",歐洲體育2
-https://tv123.cc.cd/live.php/%3C!--%20%E6%88%90%E5%8A%9F:%20A%20(HTTP%20200)%20--%3E?ch=f0ff64036
+#EXTINF:-1 group-title="體育世界",DAZN_4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 group-title="體育世界",DAZN_3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 group-title="體育世界",DAZN_2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_NBA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_NFL_NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_TENNIS
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_GOLF
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_BEIN
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
 
 
 
@@ -5348,6 +5315,18 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 https://vd4.bdstatic.com/mda-kmagpap54qyv855r/v1-cae/1080p/mda-kmagpap54qyv855r.mp4
 
 
+#EXTINF:-1 group-title="抖音K歌",點歌台
+http://cfss.cc/cdn/du/85894.flv
+#EXTINF:-1 group-title="抖音K歌",周杰倫MV
+http://cfss.cc/cdn/du/122402.flv
+#EXTINF:-1 group-title="抖音K歌",音樂快鬥
+http://cfss.cc/cdn/du/8324627.flv
+#EXTINF:-1 group-title="抖音K歌",抖音女神
+https://api.e1e1.top/crosswise/cw.php
+
+
+
+
 #########################################
            華語合輯
 #########################################
@@ -6367,15 +6346,6 @@ http://125.227.210.55:3033/VideoInput/play.ts
 
 
 
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/rainbow movie.jpg",彩虹電影
-http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy
-http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-
-
-
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png",CARAC1
 http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",俄羅斯極限電影
@@ -6384,37 +6354,12 @@ http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
 http://bo.xn--zwtw53a.com/live/cx_15710.flv
 
 
-
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar tv.jpg",JStar
-https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow E.png",彩虹E
-https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",彩虹E
-https://z3.ubtvfans.com/live/rx4/2935/e950ccd5217296d1dbe7590e56dc1499/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/k.png",彩虹K
-https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/rainbow.png",彩虹頻道
-https://z3.ubtvfans.com/live/rx5/2914/970e6b93d6cf6a4c26b6adfcc6b05445/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/look.png",LOOK
-https://z3.ubtvfans.com/live/rx4/2933/612f104a0e7d89b6d6a0fabebc2059e0/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jstar tv.jpg",極限電影
-https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",JGIRL
+#EXTINF:-1 group-title="私密頻道 ADULT",JGIRL(Z88)
 http://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",91短視頻
+#EXTINF:-1 group-title="私密頻道 ADULT",91短視頻(Z88)
 http://z88.ubtvfans.com/live/rx4/3172/d072c9162a60525dab8cf99c8201ef8c/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",小寶尋花
-http://z88.ubtvfans.com/live/rx1/3181/894f03cfa9460d024eae6ec7daf3ee79/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",麻豆大番
-http://z88.ubtvfans.com/live/rx1/3184/d7ec9e74daa6ffab755743705cf460eb/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",91沈先生
-http://z88.ubtvfans.com/live/rx1/3185/1ef3b172906284ca3bee783aba5d0fd0/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",麻豆
-http://z88.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",麻豆外番
+#EXTINF:-1 group-title="私密頻道 ADULT",麻豆外番(Z88)
 http://z88.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",波多野結衣
-https://z3.ubtvfans.com/live/rx4/3158/c380ba6805c063bf01a758dac2c2cfa8/index.m3u8
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT",松視3
@@ -6517,6 +6462,11 @@ https://z3.ubtvfans.com/live/rx5/3193/4ca82b148c5599e6a5407bd3bebfa97c/index.m3u
 https://z3.ubtvfans.com/live/rx1/3194/649809263cb13995d002d300ff7d9901/index.m3u8
 
 
+
+#EXTINF:-1 group-title="私密頻道 ADULT",測試視頻1
+https://ckbhm3u8.vip/20260101/fAVdo6Dj/index.m3u8
+#EXTINF:-1 group-title="私密頻道 ADULT",測試視頻2
+https://ckbhm3u8.vip/20251202/FgQc3RTf/index.m3u8
 
 
 
@@ -19735,6 +19685,52 @@ https://t27.cdn2020.com/video/m3u8/2022/09/23/c576921c/index.m3u8
 https://t27.cdn2020.com/video/m3u8/2020/10/09/543287aa/index.m3u8
 #EXTINF:-1 group-title="我的收藏 ADULT",SONE-525 一千萬兩天一夜 有棲花緋
 https://t30.cdn2020.com/video/m3u8/2025/01/30/3b85faa5/index.m3u8
+
+
+
+#EXTINF:-1 group-title="我的收藏 ADULT",【橋本香菜】淫蕩女主播被房東的黑屌怒射絲襪美足,https://ckbhm3u8.vip/20260518/lRzeTbpF/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",秀人網頭條模特楊晨晨新作
+https://ckbhm3u8.vip/20260518/vcdJXyMd/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",小水水-潮噴浮娃小水水母狗情趣皮衣深喉高潮噴水
+https://ckbhm3u8.vip/20260518/xZR9lo0u/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【玩偶姐姐】超緊裙子，自己扣穴，勾起性欲後直接內射粉嫩的美穴
+https://ckbhm3u8.vip/20260518/qOzsdQq0/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",推特網紅奶咪炮擊自慰
+https://ckbhm3u8.vip/20260518/AV0hTHmw/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",性感玩偶姐姐，嫩逼jk白絲，抱起來後入幹不停
+https://ckbhm3u8.vip/20260518/WRCLow0U/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",JK少女米胡桃會旋轉的震動棒好舒服！好羞恥！
+https://ckbhm3u8.vip/20260518/r1kouQd5/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",臺灣SWAG_monlingwu_吳夢夢_在粉絲家實戰被他家人突襲
+https://ckbhm3u8.vip/20260518/HuqEla9I/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",國產精品美女博主米菲兔bunnymiffy（BunnyMiffy）爆操長靴外賣員OFZYCB97
+https://ckbhm3u8.vip/20260518/in2WEuMO/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【阿朱新作】女特務執行任務被抓，慘遭毒手
+https://ckbhm3u8.vip/20260518/LVos55zX/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",網紅NicoLove-穿著瑜伽緊身褲的妮可被教練潛規則【主頁更精彩點點關注，不迷路】
+https://ckbhm3u8.vip/20260518/yKD8Jy2J/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【性啟蒙導師】來自餅乾姐姐的專業肉體授課,https://ckbhm3u8.vip/20260518/7JEPoIlK/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【Nana】束縛捆綁挑逗，綁上雙手雙腿插入，最後濃精射滿整個小穴
+https://ckbhm3u8.vip/20260518/wNjPerZf/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【足射】酒會後的激情調教戀足的同事反被操到呻吟不停最後還被內射了
+https://ckbhm3u8.vip/20260518/6vQYqz3D/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【肛交白虎】耶誕節傲嬌麋鹿奉命榨精
+https://ckbhm3u8.vip/20260518/gHBtfgyp/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",歐美新片-妮可•多西(NicoleDoshi)釋放自我
+https://ckbhm3u8.vip/20260518/ZtxedwIM/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【抖音網紅】超極品K少女奶咪婚紗制服定制作品
+https://ckbhm3u8.vip/20260518/p7GqKBX3/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【網紅香港美少女】致命網襪極限挑逗，甜美遊戲3-[玩偶姐姐]
+https://ckbhm3u8.vip/20260518/NqDC4Syq/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",麻豆傳媒-OL誤上癡漢地鐵-吳夢夢
+https://ckbhm3u8.vip/20260518/5Ed4LmlZ/index.m3u8
+#EXTINF:-1 group-title="我的收藏 ADULT",【我的補習老師】-NicoLove妮可！
+https://ckbhm3u8.vip/20260518/tgT4bNqI/index.m3u8
+
+
+
+
+
 
 
 
