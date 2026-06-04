@@ -532,6 +532,28 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
 
+   {
+      "name": "歐華(需32位影视)",
+      "url": "http://dbmlosa.sylu.net:8080/ouhua.txt",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
+
+    {
+      "name": "CloudTV(需32位影视)",
+      "url": "http://dbmlosa.sylu.net:8080/CloudTV.txt",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
+    {
+      "name": "cloudtv盒子版",
+      "url": "http://tv543.cc/cloudtv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
+    },
 
 
     {
