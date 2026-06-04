@@ -15,7 +15,6 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
 
-
  {
             "name": "🍄MITTWNO1🍄",
             "type": 0,
@@ -34,25 +33,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    {
-      "name": "原冰茶",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://ds65.tv1288.xyz",
-      "ua": "bingcha/1.1 (mianfeifenxiang)"
-    },
-
         {
-            "name": "简单ITV",
+            "name": "簡單ITV",
             "type": 0,
             "url": "https://cdn.qd.je/live.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-
-        {
-            "name": "707626",
-            "type": 0,
-            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -62,39 +46,27 @@
     },
 
     {
-      "name": "飽和LIVE",
-      "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u"
+      "name": "🔓全球LIVE",
+      "url": "http://tv.anbox.ip-ddns.com/live12"
     },
 
     {
-      "name": "宝盒直播",
+      "name": "寶盒直播",
       "url": "https://3043.kstore.space/bhvip/bh/bhzb4.txt"
     },
 
     {
-      "name": "新飞扬",
+      "name": "心飛揚",
       "url": "https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt"
     },
 
-        {
-            "name": "CATVOD",
-            "type": 0,
-            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-
     {
-      "name": "cat",
-      "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/cat"
-    },
-
-    {
-      "name": "一抹蓝",
+      "name": "一抹藍",
       "url": "http://yimolan.serv00.net/zb/live.php"
     },
 
     {
-      "name": "月儿王子",
+      "name": "月兒王子",
       "url": "http://wangziduoqing.com/yuan/zb.txt"
     },
 
@@ -108,51 +80,34 @@
       "url": "https://raw.githubusercontent.com/zht98/zhiboyuan/refs/heads/main/xfrzb.txt"
     },
 
-
-
-    {
-      "name": "🇯🇵日本TV",
-      "url": "https://web.utako.moe/jp.m3u"
-    },
-
     {
       "name": "🇯🇵日本JAPAN",
-      "url": "https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp.m3u"
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp.m3u"
     },
 
     {
       "name": "🇯🇵日本JP RELAY",
-      "url": "https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u"
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u"
     },
 
     {
-      "name": "四季TV直播",
-      "url": "http://ezc.xtvantsc.xyz/litv.php"
-    },
-
-    {
-      "name": "4GTV直播",
+      "name": "四季影視4GTV",
       "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
     },
 
         {
-            "name": "🐙Mytv",
+            "name": "🐙香港Mytv",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
+
          {
             "name": "🐙singtel",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/singtel.txt"
         },
-
-
-    {
-      "name": "潇雨萌萌TV直播",
-      "url": "https://ds65.tv1288.xyz"
-    },
 
     {
       "name": "premium",
@@ -169,11 +124,8 @@
       "url": "http://tv123.vvvv.ee/tv.m3u"
     },
 
-
-
-
   {
-      "name": "🐅易发TV",
+      "name": "🐅易發TV",
       "type": 0,
       "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
       "playerType": 1,
@@ -182,36 +134,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    {
-      "name": "臨時1線",
-      "url": "https://live.catvod.com/live.php?token=39664e86c43ba8c1bd95680a1c427c02c732bd1c2df2a6b70eb8b64fb282df3b",
-      "User-Agent": "PharosTVPlayer",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "543_1",
-      "url": "http://iptv543.com/543.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-
-    },
-
-    {
-      "name": "543",
-      "url": "http://66.103.204.107/list.php",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-
-    },
-
   {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://59.125.210.231:4433",
-      "jar":"https://github.com/alenin-zhang/IPTV/raw/refs/heads/main/chvyo2.txt",
+      "jar":"https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
       "timeout": 30,
       "playerType": 1
         },
@@ -222,13 +150,7 @@
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
-        {
-            "name": "🐬综合直播",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://ds65.tv1288.xyz",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-         },
+
 	     {
             "name": "🐬综合直播2",
             "type": 0,
@@ -236,170 +158,181 @@
             "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
             "ua": "okhttp"
          },
+
 	     {
             "name": "🐬电视家",
             "type": 0,
             "playerType": 2,
              "ua": "okhttp",
-			 "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
+	     "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
          },
+
          {
             "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
+
          {
             "name": "🐬地方直播2",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
-        {
-            "name": "🐬国际TV 有🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
-        },
+
 	    {
             "name": "🐬UnifiTV",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
         },
+
 	    {
             "name": "🐬裤佬TV",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
         },
+
         {
             "name": "🐬Gather",
             "type": 0,
             "ua": "okhttp",
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
+
         {
             "name": "🐬Mytv",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
+
         {
             "name": "🐬singtel(梯子)",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/singtel.txt"
         },
+
 	    {
             "name": "🐬黄蚂蚁先锋推流源",
             "type": 0,
             "ua": "okhttp",
             "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
         },
+
         {
             "name": "🐬港台",
             "type": 0,
             "ua": "okhttp",
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
+
         {
             "name": "🐬风云源",
             "type": 0,
             "ua": "okhttp",
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
+
         {
             "name": "🐬易发源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
         },
+
         {
             "name": "🐬俄罗斯源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://m3u.ch/pl/402fdf5102aacfc997279fd904643392_78d493be9df8cf5d447946793758bfa6.m3u"
         },
+
        {
             "name": "🐬飞扬源",
             "type": 0,
             "ua": "okhttp",
             "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
         },
+
 	    {
             "name": "🐬港奥台国际",
             "type": 0,
             "ua": "okhttp",
             "url": "http://tv123.vvvv.ee/tv.m3u"
         },
+
         {
             "name": "🐬中港台直播源",
             "type": 0,
             "ua": "okhttp",
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
+
         {
             "name": "🐬4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
         },
+
 	    {
             "name": "🐬4GTV2",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
         },
+
         {
             "name": "🐬安博(梯子)卡顿 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
         },
+
         {
             "name": "🐬jackTV(梯子)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
+
         {
             "name": "🐬新港台频道",
             "type": 0,
             "ua": "okhttp",
             "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
         },
+
         {
-            "name": "🐬台湾频道(梯子台湾节点)",
+            "name": "🐬台湾频道",
             "type": 0,
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
+
         { 
 	        "name": "🐬午夜剧场🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/午夜剧场.txt"
         },
+
 	    {
             "name": "🐬海豚佬xxx视频资源🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
         },
+
         {
             "name": "🐬欧美大片直播🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/欧美2160.m3u"
-        },
-
-
-        {
-            "name": "🦄BAO盒live🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u"
         },
 
         {
@@ -409,116 +342,111 @@
             "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/%E9%BA%BB%E8%B1%86%E5%9B%BE%E6%A0%87%E7%89%88.m3u"
         },
 
-
     {
       "name": "🔞AV精品合集🔞",
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u"
     },
 
-    {
-      "name": "🔞haijiao669🔞",
-      "url": "https://raw.githubusercontent.com/FGBLH/fgrjk2/refs/heads/main/haijiao669"
-    },
 
         {
-            "name": "🐙欧美大片直播🔞",
+            "name": "🐙歐美大片直播🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/欧美2160.m3u"
         },
 
         {
-            "name": "🐙日本女优1🔞",
+            "name": "🇯🇵日本女優1🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
         },
 
         {
-            "name": "🐙日本女优2🔞",
+            "name": "🇯🇵日本女優2🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
         },
 
         {
-            "name": "🐙日本女优3🔞",
+            "name": "🇯🇵日本女優3🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
         },
 
          {
-            "name": "🐙日本女优4🔞",
+            "name": "🇯🇵日本女優4🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
         },
 
         {
-            "name": "🐙日本女优5🔞",
+            "name": "🇯🇵日本女優5🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
         },
 
         {
-            "name": "🐙日本女优6🔞",
+            "name": "🇯🇵日本女優6🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
         },
 
          {
-            "name": "🐙日本女优7🔞",
+            "name": "🇯🇵日本女優7🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
         },
 
          {
-            "name": "🐙日本女优8🔞",
+            "name": "🇯🇵日本女優8🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
         },
 
          {
-            "name": "🐙日本女优9🔞",
+            "name": "🇯🇵日本女優9🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
         },
 
          {
-            "name": "🐙日本女优10🔞",
+            "name": "🇯🇵日本女優10🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
         },
 
          {
-            "name": "🐙日本女优11🔞",
+            "name": "🇯🇵日本女優11🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
         },
 
         {
-            "name": "🐙日本女优12🔞",
+            "name": "🇯🇵日本女優12🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
         },
 
         {
-            "name": "🔞女优库全集🔞",
+            "name": "🇯🇵女優庫全集🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/2367907737/static/refs/heads/main/TV/1/女优库全集.m3u"
         },
 
-{
+    {
     "name": "🔞黃倉國產🔞",
     "type": 0,
     "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
@@ -545,17 +473,7 @@
 
 
     {
-      "name": "🐅港台2",
-      "type": 0,
-      "url": "http://php.946985.filegear-sg.me/test.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "🐅飞扬",
+      "name": "🐅飛揚",
       "type": 0,
       "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt",
       "playerType": 1,
@@ -565,7 +483,7 @@
     },
 
     {
-      "name": "🐅涛涛TV",
+      "name": "🐅濤濤TV",
       "type": 0,
       "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/taoBox2620/taoBox2620/main/log.png",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -573,7 +491,7 @@
     },
 
         {
-            "name": "🛰️全球电视直播",
+            "name": "🛰️全球電視直播",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/tvds/refs/heads/main/fyzb.txt",
             "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
@@ -583,39 +501,8 @@
         },
 
 
-        {
-            "name": "🎠香港频道",
-            "type": 0,
-            "url": "https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u",
-            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-
-        {
-            "name": "👽台湾频道",
-            "type": 0,
-            "url": "https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u",
-            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-
-        {
-            "name": "🛫澳门频道",
-            "type": 0,
-            "url": "https://live.hacks.tools/tv/ipv4/categories/macau.m3u",
-            "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-
-
     {
-      "name": "分类电影",
+      "name": "分類電影",
       "type": 0,
       "url": "https://pan.uvqzu.cn/f/GeecQ/03.%E5%88%86%E7%B1%BB%E7%94%B5%E5%BD%B1.txt",
       "ua": "changshou/521",
@@ -626,7 +513,7 @@
 
 
     {
-      "name": "万部电影",
+      "name": "萬部電影",
       "type": 0,
       "url": "https://pan.uvqzu.cn/f/PXefE/04.%E4%B8%87%E9%83%A8%E7%94%B5%E5%BD%B1.txt",
       "ua": "changshou/521",
@@ -645,24 +532,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
 
-    {
-      "name": "543",
-      "url": "http://66.103.204.107/list.php",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
 
-    {
-      "name": "台灣543",
-      "url": "http://iptv543.com/543.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
-      "name": "備用線路",
-      "url": "https://iptv543.com/smt1.m3u"
-    },
 
     {
       "name": "日本頻道",
@@ -677,11 +547,6 @@
     {
       "name": "FYTV風雲試看",
       "url": "http://iptv.4666888.xyz/FYTV.txt"
-    },
-
-    {
-      "name": "綜合頻道",
-      "url": "https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/tv.txt"
     },
 
     {
@@ -710,15 +575,6 @@
         },
 
 
-         {
-            "name": "Web118",
-            "type": 0,
-            "url": "https://web.anbox118.dpdns.org/playlist.m3u8.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        }, 
-
       {
             "name": "Anbox直播",
             "type": 0,
@@ -731,88 +587,18 @@
             
         },
 
-        {
-            "name": "Anbox备",
-            "type": 0,
-            "url": "https://tv.anboxtv.online/live",
-            "playerType": 2,
-            "ua": "okhttp",
-            "timeout": 30,
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
-
-        },
-
-   {
-     "name": "♌ 4GTV",
-     "type": 0,
-     "url": "https://od.lk/s/NjFfMTE2ODUzNDU1Xw/4GTVaa.txt",
-     "playerType": 2,
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-     "logo": "https://epg.112114.xyz/logo/{name}.png"
-   }, 
-
-    {
-      "name": "四季",
-      "url": "https://raw.githubusercontent.com/van8866/-iptv/refs/heads/main/4gtv.m3u"
-    },
-
-    {
-      "name": "💔四季2💔",
-      "url": "https://raw.githubusercontent.com/SWCZ56/abszm-zby/refs/heads/main/4gtv.m3u"
-    },
-
     {
       "name": "💔GPT💔",
       "url": "https://raw.githubusercontent.com/SWCZ56/abszm-zby/refs/heads/main/zby.m3u"
     },
 
     {
-      "name": "💔斯玛特💔",
+      "name": "💔斯瑪特💔",
       "url": "http://tv123.vvvv.ee/tv.m3u"
     },
 
-    {
-      "name": "💔ofiii歐飛💔",
-      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/ofiii.m3u"
-    },
-
-    {
-      "name": "💔猫影💔",
-      "url": "https://live.catvod.com/tv.m3u"
-    },
-
-    {
-      "name": "💔私瑪特-cn💔",
-      "url": "https://tmxk.pp.ua/smart-cn.m3u"
-    },
-
-    {
-      "name": "💔🌌jackTV💔",
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-    },
-
-    {
-      "name": "💔4gtvjudy💔",
-      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u"
-    },
-
-    {
-      "name": "💔SMTjudy💔",
-      "url": "https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u"
-    },
-
-
-
-
         {
-            "name": "🔞全部纯福利🔞",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/mmhy.zzong6599.workers.dev"
-        },
-
-        {
-            "name": "🔞直播🔞",
+            "name": "🔞傳媒🔞",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/live/live.js",
             "ua": "okhttp/3.15",
@@ -841,120 +627,11 @@
     },
 
     {
-      "name": "🔞haijiao888🔞",
-      "url": "https://raw.githubusercontent.com/FGBLH/fgrjk2/refs/heads/main/haijiao669"
-    },
-
-    {
-      "name": "🔞4.5万部岛国XX🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/4.5%E4%B8%87%E9%83%A8%E5%B2%9B%E5%9B%BDXX.m3u"
-    },
-
-    {
-      "name": "🔞69福利直播源🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/69%E7%A6%8F%E5%88%A9%E7%9B%B4%E6%92%AD%E6%BA%90%EF%BC%88m3u%E6%96%87%E4%BB%B6%E7%89%88%E6%9C%AC%EF%BC%89.m3u"
-    },
-
-    {
-      "name": "🔞A麻豆🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/A%E9%BA%BB%E8%B1%86.m3u"
-    },
-
-    {
-      "name": "🔞whosTv影片全集🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/whosTv%E5%BD%B1%E7%89%87%E5%85%A8%E9%9B%86.m3u"
-    },
-
-    {
-      "name": "🔞whos_live🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/whos_live.m3u"
-    },
-
-    {
-      "name": "🔞whostv🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/whostv.txt"
-    },
-
-    {
-      "name": "🔞女优库全集🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/%E5%A5%B3%E4%BC%98%E5%BA%93%E5%85%A8%E9%9B%86.m3u"
-    },
-
-    {
-      "name": "🔞无码_IPTV🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/%E6%97%A0%E7%A0%81_IPTV.m3u"
-    },
-
-    {
-      "name": "🔞直播_IPTV🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/%E7%9B%B4%E6%92%AD.m3u"
-    },
-
-    {
-      "name": "🔞［蜜桃］FC2-PPV🔞",
-      "url": "https://raw.githubusercontent.com/KAN314go/g6/refs/heads/main/file/%EF%BC%BB%E8%9C%9C%E6%A1%83%EF%BC%BDFC2-PPV.m3u"
-    },
-
-    {
       "name": "🔞花都影視🔞",
       "url": "https://pan.gt68.cn/down.php/4755e467ba5f66e70200a69780e47b06.m3u"
     },
 
- {
-    "name" : "日本電視台",
-    "type" : 0,
-    "url": "https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u",
-   "playerType":2,
-   "ext": { }
-  },
 
-  {
-            "name": "💔📺litv直播20250813 【挂T挑节点哪吒台湾美国💔】",
-            "type": "0",
-            "pass": true,
-            "url": "http://xtvantsc.xyz/litv_ts.php",  
-            "ua": "okhttp/3.15"
- },
-
-
-  {
-   "name": "💔日本JAPAN💔",
-   "type": "0",
-   "url":"https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp.m3u",
-   "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-   "logo":"https://epg.112114.xyz/logo/{name}.png",
-   "ua":"judy/5.2.1"
-  }, 
-
- {
-    "name" : "💔220.132.15.209:5008 V2.0 接口20250818 V01【挂T台湾】🧑🏻‍🌾",
-    "type" : 0,
-    "url": "http://220.132.15.209:5008/?type=m3u&proxy=false",
-  "playerType":2,
-  "ext": { }
-  },
-
-  {
-    "name" : " 🐟🐟四季（要台湾节点）20250725🧑🏻‍🌾",
-    "type" : 0,
-    "url": "http://xtvantsc.xyz/4gtv.txt",
-    "ext": { }
-  }, 
-
-   {
-    "name" : " 💔四季（4GTV要台湾节点）20250806🧑🏻‍🌾",
-    "type" : 0,
-    "url": "http://xtvantsc.xyz/litv_ts.php",
-    "ext": { }
-  }, 
-
-  {
-            "name": "🐟🐟港台mytv0 可看nowTV 挑节点20250730 💔",
-            "type": "0",
-            "pass": true,
-            "url": "https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/mytv0.m3u",
-             "ua": "okhttp/3.15"
- },
 
  {
       "name": "🍈📺秒播 20250720🏠",
@@ -1118,7 +795,7 @@
     {
       "name": "MQiTV",
       "api": "csp_MQiTV",
-      "jar": "https://5413.kstore.space/DM/jar/fm.jar",
+      "jar": "https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
       "ext": [
         {
           "name": "59",
@@ -1141,7 +818,7 @@
   {
       "name": "MQitv59，60",
       "api": "csp_MQiTV",
-	  "jar": "https://d.kstore.dev/download/12464/cxrtv/custom_spider.jar",
+	  "jar": "https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
       "ext": [
         {
           "name": "59",
@@ -1249,7 +926,7 @@
    {
       "name": "60酒店源",
       "type": 3,
-      "jar": "https://5413.kstore.space/DM/jar/fm.jar",
+      "jar": "https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
       "api": "csp_MQiTV",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
       "ext": [
@@ -1336,6 +1013,7 @@
       "url": "https://raw.githubusercontent.com/ddhola/file/1e38fb4e68b2cd7fb281cf0dc6c0e71bf94608bf/x1pd2.txt",
       "playerType": 1
     },
+
  {
       "name": "🔞💔💎XXX💎💔",
       "type": 0,
@@ -1350,48 +1028,136 @@
       "playerType": 1
     },
 
+
  {
-      "name": "🔞💔💎666💎💔",
+      "name": "🔞4.5万部岛国XX🔞",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/FGBLH/fgrjk2/refs/heads/main/666",
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/4.5万部岛国XX.m3u",
       "playerType": 1
     },
+
+ {
+      "name": "🔞69福利直播源🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/69福利直播源（m3u文件版本）.m3u",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞AV兄弟无码🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/AV%E5%85%84%E5%BC%9F%E6%97%A0%E7%A0%81.txt",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞A麻豆🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/A麻豆.m3u",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞Naixxzy🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/Naixxzy.txt",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞whosTv影片全集🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/whosTv%E5%BD%B1%E7%89%87%E5%85%A8%E9%9B%86.m3u",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞【无码】播放列表_汇总🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/%E3%80%90%E6%97%A0%E7%A0%81%E3%80%91%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8_%E6%B1%87%E6%80%BB.m3u",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞乌云成人🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/%E4%B9%8C%E4%BA%91%E6%88%90%E4%BA%BA.m3u",
+      "playerType": 1
+    },
+
+
+
+ {
+      "name": "🔞国产色情🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/%E5%9B%BD%E4%BA%A7%E8%89%B2%E6%83%85_20260417_113746.m3u",
+      "playerType": 1
+    },
+
+
+ {
+      "name": "🔞女优库全集🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/%E5%A5%B3%E4%BC%98%E5%BA%93%E5%85%A8%E9%9B%86.m3u",
+      "playerType": 1
+    },
+
+ {
+      "name": "🔞无码_IPTV🔞",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/KAN314go/cc/refs/heads/main/file/%E6%97%A0%E7%A0%81_IPTV.m3u",
+      "playerType": 1
+    },
+
+
  {
       "name": "🔞💔💎WMAV💎💔",
       "type": 0,
       "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/wmav.txt",
       "playerType": 1
     },
+
  {
       "name": "🔞💔💎QSAV💎💔",
       "type": 0,
       "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/qsav.txt",
       "playerType": 1
     },
+
  {
       "name": "🔞💔💎終級💎💔",
       "type": 0,
       "url": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/%E7%BB%88%E6%9E%81.txt",
       "playerType": 1
     },
+
  {
       "name": "🔞💔💎至尊💎💔",
       "type": 0,
       "url": "https://github.com/fish2018/lib/raw/refs/heads/main/txt/%E8%87%B3%E5%B0%8A.m3u",
       "playerType": 1
     },
+
  {
       "name": "🔞💔💎春色CR💎💔",
       "type": 0,
       "url": "https://raw.githubusercontent.com/chh818/chh818.github.io/refs/heads/main/cr.txt",
       "playerType": 1
     },
+
  {
       "name": "🔞💔💎完美zb1💎💔",
       "type": 0,
       "url": "https://raw.githubusercontent.com/chh818/chh818.github.io/refs/heads/main/zb1.txt",
       "playerType": 1
     },
+
 
  {"name":"🔞🍅秘密花园 密码48620💔",
 "type":0,
@@ -1414,12 +1180,8 @@
       "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
       "playerType": 1
     },
- {
-      "name": "🈲🔞JAV🔞🈲",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/cm851228/my51228888/refs/heads/main/JAV.txt",
-      "playerType": 1
-    },
+
+
  {
       "name": "🈲🔞黃色倉庫A🔞🈲",
       "type": 0,
@@ -1469,11 +1231,6 @@
     "logo": "https://epg.112114.xyz/logo/{name}.png"
    },
 
-    {
-      "name": "🔞haijiao553",
-      "url": "https://raw.githubusercontent.com/FGBLH/fgrjk2/refs/heads/main/haijiao553",
-      "type": 1
-   },
 
     {
       "name": "備用線路",
@@ -1496,56 +1253,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    {
-      "name": "🏆️國際EastAsia",
-      "url": "https://gitlab.com/free-iptv1/freeiptv/-/raw/main/EastAsia.m3u?ref_type=heads",
-      "type": 1
-   },
 
-    {
-      "name": "🏆️國際European",
-      "url": "https://gitlab.com/free-iptv1/freeiptv/-/raw/main/European.m3u?ref_type=heads",
-      "type": 1
-   },
 
-    {
-      "name": "🏆️國際SportsandYouth",
-      "url": "https://gitlab.com/free-iptv1/freeiptv/-/raw/main/SportsandYouth.m3u?ref_type=heads",
-      "type": 1
-   },
-
-    {
-      "name": "🏆️國際India1",
-      "url": "https://gitlab.com/free-iptv1/freeiptv/-/raw/main/India1.m3u?ref_type=heads",
-      "type": 1
-   },
-
-{
+     {
             "name": "123TV",
             "url": "http://tv.anbox.ip-ddns.com/live7",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
-        },
-
-{
-            "name": "SWTV",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/SWTV.txt",
-            "ua": "okhttp",
-            "playerType": 2,
-            "timeout": 30
-      
-        },
-
-{
-            "name": "SMARTtv",
-            "type": 0,
-            "url": "http://xclasvgas.sylu.net:8080/smt.php",
-            "ua": "okhttp",
-            "playerType": 2,
-            "timeout": 30
-      
         },
 
 {
@@ -1604,48 +1319,15 @@
 
 {"name": "🏄‍♂️┃serv00「直播」","type": 0,"ua": "okhttp","url": "https://alantang.serv00.net/m3u/jtv.m3u"},
 {"name": "🐍┃tangtang「直播」","type": 0,"ua": "okhttp","url": "https://tangtang.ggff.net/m3u/jtv.m3u"},
-{"name": "🥷┃JunTV「cloudflare」","type": 0,"ua": "okhttp","url": "https://tv.junchao.qzz.io"},
-{"name": "🥷┃mitv「cloudflare」","type": 0,"ua": "okhttp","url": "https://tv.tangtang.us.ci"},
+
 
  {"name": "🚓华哥TV","type":0,"url":"http://tv.anbox.ip-ddns.com/live12","playerType":1},
  {"name": "🚓港澳TV","type":0,"url":"http://tv.anbox.ip-ddns.com/live19","playerType":1},
 
  {"name": "🚓港澳TV2","type":0,"url":"https://tv.anbox.ip-ddns.com/live23","playerType":1},
 
-
- {"name": "🚓港澳MYTV","type":0,"url":"http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt","playerType":1},
-
- {"name": "🚓auto-iptv直播","type":0,"url":"http://47.120.41.246:8899/zb.txt","playerType":1},
  {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
- {"name": "💔传说061899.xyz直播","type": 0,"url": "https://wds.ecsxs.com/230580.json","playerType":1},
- {"name": "💔hu直播央卫视","type": 0,"url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt","playerType":1},
- 
-{
-            "name": "💔💎易发APP💎💔",
-            "type": 0,
-            "url": "https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-            "playerType": 1,
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "備用線路一",
-      "url": "https://live.catvod.com/tv.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "備用線路二",
-      "url": "http://tv543.cc/kb.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "備用線路SMT",
-      "url": "http://tv543.cc/smt.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
 
      {
         "name": "🔞AV1",
@@ -1667,8 +1349,6 @@
         "name": "🔞AV4",
         "url": "https://files.catbox.moe/4vagng.txt"
     }, 
-
-
 
 {
 "name": "📺青龙电视",
