@@ -343,6 +343,11 @@
         },
 
     {
+      "name": "🔞18++🔞",
+      "url": "http://tv543.cc/18+.m3u"
+    },
+
+    {
       "name": "🔞AV精品合集🔞",
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u"
     },
@@ -522,7 +527,29 @@
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/04.万部电影.png"
     },
 
-
+   {
+      "name": "RobYang備1| http://RobYang.dpdns.org",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "pass": true
+    },
+    {
+      "name": "RobYang備2| http://RobYang.rr.nu",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://RobYang.runasp.net/VodLive/lb8ffa",
+      "ua": "okhttp/4.12.0",
+      "timeout": 5,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "pass": true
+    },
+   
  {
       "name": "🔕歐華167🔓🔓VPN",
       "type": 0,
@@ -552,8 +579,41 @@
       "url": "http://tv543.cc/cloudtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-
     },
+
+    {
+      "name": "四季线上",
+      "url": "http://dreamtv.sylu.cc:2082/vtg4.m3u?token=dbm",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
+    {
+      "name": "四季欧飞二合一",
+      "url": "http://dbmactw.sylu.cc:2082/channel?type=m3u&token=7ZJ42qIlyWRAXT4L6c7AyDIQAfEkh18h2WHWrUBoLMO3eqhZ85rd7PYIHCvHBFac&proxy=true",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
+    },
+
+    {
+      "name": "四季影視網頁版",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Dream",
+      "url": "http://dbmlosa.sylu.net:8080/dream.txt",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date},https://tv.mxdyeah.top/epgphp/t.xml.gz",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+      "catchup": {
+        "type": "append",
+        "source": "&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+    },
+
 
 
     {
@@ -945,10 +1005,10 @@
       ]
     },
 
-   {
+    {
       "name": "60酒店源",
       "type": 3,
-      "jar": "https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
+      "jar": "https://5413.kstore.space/DM/jar/fm.jar",
       "api": "csp_MQiTV",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_tw.xml.gz",
       "ext": [
@@ -962,7 +1022,7 @@
  {
       "name": "💔MQitv源",
       "api": "csp_MQiTV",
-	  "jar": "https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
+	  "jar": "https://5413.kstore.space/DM/jar/fm.jar",
       "ext": [
         {
           "name": "59",
@@ -990,7 +1050,7 @@
  {
       "name": "💔MQitv源2",
       "api": "csp_MQiTV",
-	  "jar": "https://od.lk/s/NjFfOTMzOTcyNDBf/000.txt",
+	  "jar": "https://5413.kstore.space/DM/jar/fm.jar",
       "ext": [
         {
           "name": "59",
