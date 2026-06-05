@@ -150,7 +150,13 @@
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
-
+        {
+            "name": "🐬综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://ds65.tv1288.xyz",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+         },
 	     {
             "name": "🐬综合直播2",
             "type": 0,
@@ -158,183 +164,261 @@
             "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
             "ua": "okhttp"
          },
-
 	     {
             "name": "🐬电视家",
             "type": 0,
             "playerType": 2,
              "ua": "okhttp",
-	     "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
+			 "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
          },
-
          {
             "name": "🐬地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
-
          {
             "name": "🐬地方直播2",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
         }, 
-
 	    {
-            "name": "🐬UnifiTV",
+            "name": "🐬多源直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "http://tv.anbox.ip-ddns.com/live"
+        }, 
+        {
+            "name": "🐬国际TV 有🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
+        },
+	    {
+            "name": "🐬国际TV",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
+        },
+	    {
+            "name": "🐬UnifiTV(马来节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
         },
-
 	    {
             "name": "🐬裤佬TV",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
         },
-
         {
             "name": "🐬Gather",
             "type": 0,
             "ua": "okhttp",
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
-
         {
             "name": "🐬Mytv",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
-
         {
-            "name": "🐬singtel(梯子)",
+            "name": "🐬新加坡(梯子)",
             "type": 0,
             "ua": "okhttp",
-            "url": "http://xtvantsc.xyz/singtel.txt"
+            "url": "http://xtvantsc.xyz/新加坡.m3u"
         },
-
 	    {
             "name": "🐬黄蚂蚁先锋推流源",
             "type": 0,
             "ua": "okhttp",
             "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
         },
-
         {
             "name": "🐬港台",
             "type": 0,
             "ua": "okhttp",
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
-
         {
             "name": "🐬风云源",
             "type": 0,
             "ua": "okhttp",
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
-
         {
             "name": "🐬易发源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
         },
-
         {
             "name": "🐬俄罗斯源 有🔞",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://m3u.ch/pl/402fdf5102aacfc997279fd904643392_78d493be9df8cf5d447946793758bfa6.m3u"
+            "url": "https://m3u.biluspeh.com/hls/token=M4xovdRfcMXMXS9M"
         },
-
        {
             "name": "🐬飞扬源",
             "type": 0,
             "ua": "okhttp",
             "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
         },
-
 	    {
             "name": "🐬港奥台国际",
             "type": 0,
             "ua": "okhttp",
             "url": "http://tv123.vvvv.ee/tv.m3u"
         },
-
         {
             "name": "🐬中港台直播源",
             "type": 0,
             "ua": "okhttp",
             "url": "https://t.freetv.fun/m3u/playlist.txt"
         },
-
         {
             "name": "🐬4GTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
         },
-
 	    {
             "name": "🐬4GTV2",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
         },
-
         {
             "name": "🐬安博(梯子)卡顿 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/安博.txt"
         },
-
         {
             "name": "🐬jackTV(梯子)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
-
         {
             "name": "🐬新港台频道",
             "type": 0,
             "ua": "okhttp",
             "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
         },
-
         {
-            "name": "🐬台湾频道",
+            "name": "🐬台湾频道(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
-
         { 
-	        "name": "🐬午夜剧场🔞",
+	        "name": "🐬午夜剧场(梯子)🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/午夜剧场.txt"
         },
-
 	    {
             "name": "🐬海豚佬xxx视频资源🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/xxx视频资源"
         },
-
         {
             "name": "🐬欧美大片直播🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/欧美2160.m3u"
         },
+	    {
+            "name": "🐬EVILANGEL🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/EVILANGEL.m3u"
+        },
+	    {
+            "name": "🐬FC2-PPV1🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/FC2-PPV1.m3u"
+        },
+         {
+            "name": "🐬日本女优1🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
+        },
+        {
+            "name": "🐬日本女优2🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
+        },
+        {
+            "name": "🐬日本女优3🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
+        },
+        {
+            "name": "🐬日本女优4🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
+        },
+        {
+            "name": "🐬日本女优5🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
+        },
+        {
+            "name": "🐬日本女优6🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
+        },
+        {
+            "name": "🐬日本女优7🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
+        },
+         {
+            "name": "🐬日本女优8🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
+        },
+         {
+            "name": "🐬日本女优9🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
+        },
+         {
+            "name": "🐬日本女优10🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
+        },
+         {
+            "name": "🐬日本女优11🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
+        },
+        {
+            "name": "🐬日本女优12🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
+        },
 
+ 
         {
             "name": "🦄毛豆🔞",
             "type": 0,
@@ -352,98 +436,6 @@
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u"
     },
 
-
-        {
-            "name": "🐙歐美大片直播🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://xtvantsc.xyz/欧美2160.m3u"
-        },
-
-        {
-            "name": "🇯🇵日本女優1🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优1.m3u"
-        },
-
-        {
-            "name": "🇯🇵日本女優2🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优2.m3u"
-        },
-
-        {
-            "name": "🇯🇵日本女優3🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优3.m3u"
-        },
-
-         {
-            "name": "🇯🇵日本女優4🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优4.m3u"
-        },
-
-        {
-            "name": "🇯🇵日本女優5🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优5.m3u"
-        },
-
-        {
-            "name": "🇯🇵日本女優6🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优6.m3u"
-        },
-
-         {
-            "name": "🇯🇵日本女優7🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优7.m3u"
-        },
-
-         {
-            "name": "🇯🇵日本女優8🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优8.m3u"
-        },
-
-         {
-            "name": "🇯🇵日本女優9🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优9.m3u"
-        },
-
-         {
-            "name": "🇯🇵日本女優10🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优10.m3u"
-        },
-
-         {
-            "name": "🇯🇵日本女優11🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://cloud.7so.top/f/RO04U5/%E4%B8%BD%E5%BD%B1%E7%90%BC%E5%A7%BF.m3u"
-        },
-
-        {
-            "name": "🇯🇵日本女優12🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
-        },
-
         {
             "name": "🇯🇵女優庫全集🔞",
             "type": 0,
@@ -456,7 +448,8 @@
     "type": 0,
     "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
     "timeout": 10
-},
+    },
+
 {
     "name": "🔞黃倉日韓🔞",
     "type": 0,
@@ -505,7 +498,6 @@
             "timeout": 10
         },
 
-
     {
       "name": "分類電影",
       "type": 0,
@@ -515,7 +507,6 @@
       "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/03.分类电影.png"
     },
-
 
     {
       "name": "萬部電影",
