@@ -689,6 +689,7 @@ https://t.me/s/alistshare
 https://pan.mediy.cn/
 https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/FC2-PPV1.m3u
 https://tv123.cc.cd/tv.m3u
+https://raw.githubusercontent.com/alenin-zhang/KDS/refs/heads/main/91kds.txt
 #########################################
          台灣數位電視台
 #########################################
@@ -6510,14 +6511,6 @@ http://125.227.210.55:3031/VideoInput/play.ts
 http://125.227.210.55:3033/VideoInput/play.ts
 
 
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(usa)
-http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Rainbow Movie.png",彩虹電影(usa)
-http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
-#EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/happy.jpg",Happy(usa)
-http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-
-
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png",CARAC1
 http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",俄羅斯極限電影
@@ -6744,6 +6737,115 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6186/index.m3u8
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/12168/index.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",SexArt HD
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6165/index.m3u8
+
+
+
+#########################################
+
+
+#EXTINF:-1 group-title="成人頻道 ADULT",松视1
+http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
+#EXTINF:-1 group-title="成人頻道 ADULT",松视2
+http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
+#EXTINF:-1 group-title="成人頻道 ADULT",松视3
+http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
+#EXTINF:-1 group-title="成人頻道 ADULT",彩虹e
+http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
+#EXTINF:-1 group-title="成人頻道 ADULT",K频道
+http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
+#EXTINF:-1 group-title="成人頻道 ADULT",彩虹电影台
+http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
+#EXTINF:-1 group-title="成人頻道 ADULT",潘朵啦玩美台
+http://atryffad.usa3.345123.xyz/jrw.php?id=PandoraWanmei
+#EXTINF:-1 group-title="成人頻道 ADULT",惊艳成人电影
+http://atryffad.usa3.345123.xyz/jrw.php?id=Amazingchannel
+#EXTINF:-1 group-title="成人頻道 ADULT",香蕉台
+http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
+#EXTINF:-1 group-title="成人頻道 ADULT",Happy
+http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
+#EXTINF:-1 group-title="成人頻道 ADULT",JStar極限台电影频道
+http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
+#EXTINF:-1 group-title="成人頻道 ADULT",Playboy TV
+http://atryffad.usa3.345123.xyz/jrw.php?id=PlayboyTV
+#EXTINF:-1 group-title="成人頻道 ADULT",アイドル専門チャンネルＰｉｇｏｏ
+http://atryffad.usa3.345123.xyz/jrw.php?id=IdolspecialtychannelPigooHD
+#EXTINF:-1 group-title="成人頻道 ADULT",Babes TV
+http://atryffad.usa3.345123.xyz/jrw.php?id=BabesTV
+#EXTINF:-1 group-title="成人頻道 ADULT",Red Lips
+http://atryffad.usa3.345123.xyz/jrw.php?id=RedLips
+#EXTINF:-1 group-title="成人頻道 ADULT",RusskayaNoch
+http://atryffad.usa3.345123.xyz/jrw.php?id=RusskayaNoch
+#EXTINF:-1 group-title="成人頻道 ADULT",BrazzersTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTVEurope
+#EXTINF:-1 group-title="成人頻道 ADULT",BrazzersTV HD
+http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTV2
+#EXTINF:-1 group-title="成人頻道 ADULT",HustlerTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=Hustler
+#EXTINF:-1 group-title="成人頻道 ADULT",HustlerTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=hustlertv
+#EXTINF:-1 group-title="成人頻道 ADULT",Penthouse Gold
+http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseGold
+#EXTINF:-1 group-title="成人頻道 ADULT",Penthouse Gold
+http://atryffad.usa3.345123.xyz/jrw.php?id=penthouse
+#EXTINF:-1 group-title="成人頻道 ADULT",Penthouse Reality
+http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseQuickies
+#EXTINF:-1 group-title="成人頻道 ADULT",OX-AX
+http://atryffad.usa3.345123.xyz/jrw.php?id=Ohah
+#EXTINF:-1 group-title="成人頻道 ADULT",Vivid Red
+http://atryffad.usa3.345123.xyz/jrw.php?id=VividRed
+#EXTINF:-1 group-title="成人頻道 ADULT",Eroxxx
+http://atryffad.usa3.345123.xyz/jrw.php?id=Eroxxx
+#EXTINF:-1 group-title="成人頻道 ADULT",Extasy
+http://atryffad.usa3.345123.xyz/jrw.php?id=Extasy
+#EXTINF:-1 group-title="成人頻道 ADULT",ExtasyHD
+http://atryffad.usa3.345123.xyz/jrw.php?id=ExtasyHD
+#EXTINF:-1 group-title="成人頻道 ADULT",PrivateTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=PrivateTV
+#EXTINF:-1 group-title="成人頻道 ADULT",Red Light
+http://atryffad.usa3.345123.xyz/jrw.php?id=Redlight
+#EXTINF:-1 group-title="成人頻道 ADULT",CineMan私密频道
+http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道
+#EXTINF:-1 group-title="成人頻道 ADULT",CineMan私密频道2
+http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道2
+#EXTINF:-1 group-title="成人頻道 ADULT",WAAYH
+http://atryffad.usa3.345123.xyz/jrw.php?id=Shalun
+#EXTINF:-1 group-title="成人頻道 ADULT",DorcelTV
+http://atryffad.usa3.345123.xyz/jrw.php?id=DorcelTV
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV 2
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV2
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV 3
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV3
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV 4
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV4
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Parody,
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVParody
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Compilation
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVCompilation
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Anal
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVAnal
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Teens
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVTeens
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Lesbian
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVLesbian
+#EXTINF:-1 group-title="成人頻道 ADULT",FapTV BBW
+http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVBBW
+#EXTINF:-1 group-title="成人頻道 ADULT",BlueHustler
+http://atryffad.usa3.345123.xyz/jrw.php?id=BlueHustler
+#EXTINF:-1 group-title="成人頻道 ADULT",KINO私密频道
+http://atryffad.usa3.345123.xyz/jrw.php?id=Kino私密频道
+#EXTINF:-1 group-title="成人頻道 ADULT",Pinko Club
+http://atryffad.usa3.345123.xyz/jrw.php?id=PinkOTV
+#EXTINF:-1 group-title="成人頻道 ADULT",BarleyLegal
+http://atryffad.usa3.345123.xyz/jrw.php?id=Barelylegal
+#EXTINF:-1 group-title="成人頻道 ADULT",XY Max
+http://atryffad.usa3.345123.xyz/jrw.php?id=XYMax
+#EXTINF:-1 group-title="成人頻道 ADULT",XY Plus
+http://atryffad.usa3.345123.xyz/jrw.php?id=XYPlus
+#EXTINF:-1 group-title="成人頻道 ADULT",XY Mix
+http://atryffad.usa3.345123.xyz/jrw.php?id=XYMix
+#EXTINF:-1 group-title="成人頻道 ADULT",XXL
+http://atryffad.usa3.345123.xyz/jrw.php?id=XXL
+
 
 
 
@@ -10819,6 +10921,15 @@ https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/publicagent/Mia
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/publicagent/Olivia/output.m3u8
 #EXTINF:-1 group-title="5KPORN ADULT",Vampairy
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/publicagent/Throat%26Vampairy/output.m3u8
+
+#EXTINF:-1 group-title="5KPORN ADULT",TMTC011
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC011/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",TMTC012
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC012/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",TMTC013
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC013/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",TMTC014
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC014/output.m3u8
 #EXTINF:-1 group-title="5KPORN ADULT",TMTC015
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC015/output.m3u8
 #EXTINF:-1 group-title="5KPORN ADULT",TMTC016
@@ -10831,6 +10942,7 @@ https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC018/outp
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC019/output.m3u8
 #EXTINF:-1 group-title="5KPORN ADULT",TMTC020
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tm/TMTC020/output.m3u8
+
 #EXTINF:-1 group-title="5KPORN ADULT",MOSO-003
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/tz/MOSO-003/output.m3u8
 #EXTINF:-1 group-title="5KPORN ADULT",MOSO-007
@@ -10907,6 +11019,47 @@ https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/film/All%20Natu
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/FakeTaxi/Molly/output.m3u8
 #EXTINF:-1 group-title="5KPORN ADULT",Athenea
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/FakeHostel/Athenea/output.m3u8
+
+
+#EXTINF:-1 group-title="5KPORN ADULT",Mya00001
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/00001/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya00002
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/00002/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya0001
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/0001/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya00015
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/00015/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya0002
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/0002/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya001
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/001/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya002
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/002/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya01
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/01/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya02
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/02/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya03
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/03/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya1
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/1/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya11
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/11/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya15
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/15/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya2
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/2/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya21
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/21/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya25
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/25/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya28
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/28/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya3
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/3/output.m3u8
+#EXTINF:-1 group-title="5KPORN ADULT",Mya_1
+https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/Mya/_1/output.m3u8
+
 
 
 
