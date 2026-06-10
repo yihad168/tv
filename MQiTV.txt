@@ -194,7 +194,15 @@
             "ua": "okhttp/5.3.2",
             "url": "http://tv.anbox.ip-ddns.com/live"
         }, 
-        {
+
+	    {
+            "name": "🐬atryffad源 有🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/atryffad.txt"
+        },
+
+       {
             "name": "🐬国际TV 有🔞",
             "type": 0,
             "ua": "okhttp",
