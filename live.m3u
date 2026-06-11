@@ -1,5 +1,410 @@
 #EXTM3U url-tvg="https://akariko.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="日本 TV" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G
+http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/250px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png",NHK G (Osaka)
+http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/250px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png",NHK E
+http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfG0d-KoiqybGIrsDStbxjWjZ6mtN-155zQ&s",NHK BS
+http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/330px-Nippon_TV_logo_2014.svg.png",Nippon TV
+http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs300.gif",NTV Plus
+http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs296.gif",TBS Channel 1
+http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs297.gif",TBS Channel 2
+http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",Fuji TV
+http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs307.gif",Fuji TV One
+http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs308.gif",Fuji TV Two
+http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCwGGo9Fq8gnptIaFWA0uOj_rMobBBN54QQ&s",Fuji TV NEXT
+http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Gf4A1npfzt3fXfJ5oU4W2kNEQ_BLHP99w&s",フジテレビ系
+https://ssai-variants.streaks.jp/v5/tver-simul-cx/a78ebf1910144ba287907ec691bdc863/4817bf371f214463a3609e17a365f098/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-178-7884/2d0e62ec-afcb-4689-a1f0-d17fb79b5562/0.m3u8?pdt=-6627&session=2d0e62ec-afcb-4689-a1f0-d17fb79b5562&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiY3gtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTY2MjcifQ.rGchZoAv-VWLdrkowF0VYMb-geWaK_ZcFhYhXb5HolM
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ddu86iggSvDRhvsIZKDW-sx0n0jLo5UkJA&s",TV Asahi
+http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs298.gif",TV Asahi Channel 1
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs299.gif",TV Asahi Channel 2
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",TV Tokyo
+http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",代替 テレ朝系
+https://ssai-variants.streaks.jp/v5/tver-simul-ex/498c4512f66846f1b0a5a3320ee035c3/ce98cb0b48994b50a76dba08ea894e24/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-175-8158/b92b4043-6632-4d74-b9c7-d8444a4eb355/0.m3u8?pdt=-16847&session=b92b4043-6632-4d74-b9c7-d8444a4eb355&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoiZXgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTE2ODQ3In0.LmScKQAVVQYt76GM-z64D8Py0KfYRz-3H5zc6GDcBj0
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/250px-TV_Tokyo_%28Japanese%29_2023.svg.png",代替 テレ朝系
+https://ssai-variants.streaks.jp/v5/tver-simul-tx/035622a82bcb46bc8e41ca5351f95a00/3887c96991ce4ae1bec43ea19f24c4d5/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-177-8159/0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b/0.m3u8?pdt=-11501&session=0f5f5883-a6c1-4cd1-a4c6-0f0a14c9e49b&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHgtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OSwicGR0IjoiLTExNTAxIn0.ENL1yqihdtixoLM2vqtt9oZ3caukXFFuLBwGeXXwUH0
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://asianwiki.com/images/9/9e/ABC-TV-Osaka-pr1.png",ABC
+http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.mbs.jp/english/images/index/MBS_logo.png",MBS
+http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/250px-Yomiuri_Telecasting_Corporation_Logo.svg.png",YTV
+http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2025/01/tvosaka_420x237_thumb.jpg",TV Osaka
+http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/a/aa/Ktv_logo.png/revision/latest?cb=20200821080929",Kansai TV
+http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHr3U1uVUvN2EcARRaz8eKVrHUXkAXaIRgnQ&s",Sun TV
+http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",Tokyo MX1
+http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEbrx4cmr1k6RcfG9sKNF14PUwuHjX5oJA&s",Tokyo MX2
+http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ws8M-1vXx3WJTCCbb6cbLpe-Uqqqcsf-w&s",Gaki no Tsukai
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEetdQliPDPN9OsBNPxRyA7fMrArdOLynKQ&s",Tabi Channel
+http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif",Tetsudo Channel
+http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKsnqWhNUFAA5A9fuC6qlYOkHqhVdnZDXVw&s",Mondo TV
+http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",Me-Tele Next
+http://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCfIpzgJBI8FMje9SSkuxHjvfJn-vqoxvJg&s",Dance Channel
+http://akariko.netgenx.site/stream/jp/dance_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV_BEeKw9TKZl7WkTuu4LcclqXwLm4plnmQ&s",TAKARAZUKA SKY STAGE
+http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/657.gif",KNTV
+http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68EDbfW7W83sPL5zQ3dr3zBnqAsWo1OFCwQ&s",KBS
+http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://yt3.googleusercontent.com/tkMtZf7GKiIm0aZiXQRe6qlJFjxGEvLWMgr8AJsYya74spnmxah23GTMMpk7O_aNOuOIv92Oiw=s900-c-k-c0x00ffffff-no-rj",KBS World
+http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
+http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8vpGCL0bJLLRsgcai9nXsrwqNr126KZYAg&s",BS Fuji TV
+http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9J7Jq8SV1ldJB2XKrq7NIgZVH6KpH0nNgQ&s",BS Nippon TV
+http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/3840px-BS-TBS_logo.svg.png",BS TBS
+http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZPRyIikNfzEphoo56cs2_P58y4WeVqYuuw&s",BS TV Tokyo
+http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png",BS 10
+http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png",BS 11
+http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-222-400x400.png",BS 12
+http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/JCOM_BS_logo_2nd.webp/250px-JCOM_BS_logo_2nd.webp.png",JCOM BS
+http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/6/star-ch1_logo.jpg",BS 10 Premium
+http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s",Movie Plus
+http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs227.gif",The Cinema
+http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest/scale-to-width-down/250?cb=20200215065013",WOWOW Cinema
+http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuTQsV_VRpbtjCUf4XpbwkLjUviGn4oBzUQ&s",WOWOW Prime
+http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
+http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs252.gif",WOWOW Plus
+http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Family_Gekijo_Ident_%282000%29.jpg/revision/latest/scale-to-width-down/250?cb=20251220013701",Family Gekijo
+http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.thefilmcatalogue.com/assets/company-logos/1674/_1200x630_fit_center-center_82_none/Toei-Logo-Eng.jpg?mtime=1728075670",Toei Channel
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWk-DaLt72723K5C6zfxu2irGMATXDh2_SmA&s",Home Drama Channel
+http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i7CPm1dTs-fDNMZhGuEAOSzkipdTGxWLvg&s",Nihon Eiga Senmon
+http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs223.gif",Neco Channel
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqrXaY7ux1gxHVJ2FtAVwi-IqG8bKx1_Byw&s",Jidaigeki Senmon
+http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj",Eisei Gekijo
+http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVLQga46f4coqBxuohNJ1ZxBboeexN0eBQQ&s",LaLa TV
+http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k_YIfzzqr92ATGgQtHwNmPRFFAdHlWsT-gPZIkW0Ce-g=s900-c-k-c0x00ffffff-no-rj",Channel Ginga
+http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/647.gif",Super Drama TV
+http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",Dlife
+http://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs311.gif",Action Channel
+http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs316.gif",Mystery Channel
+http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lYxT0D1YGAcTZ-wG9XSBZn_sPkuaUABIjA&s",V Paradise
+http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",Pigoo
+http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",MTV Japan
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs325.gif",Music On! TV
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwEGUXWkkruACvVMFVFIKxxV9rxerEAWZJg&s",Music Japan TV
+http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://yt3.googleusercontent.com/gPp9qo9jvkd9r9kUJ0ejfO_FoM1zRGbAatXN5AC9AfnUL0a4uh0fy7Ixm3v8G7y_GjDX1eSCYQ=s900-c-k-c0x00ffffff-no-rj",Space Shower TV
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.kayopops.jp/parts/common/img/ogimage.png",Kayo Pops
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",Music Air
+http://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",Mnet
+https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOK21qZSbUOhBjU4oOgoI_o71dPclnXTMTg&s",Discovery Channel Japan
+http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPheBHJ0E3ix72_H2kSWP5iMm-R19w5L9UQ&s",National Geographic Japan
+http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png",History Channel Japan
+http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",Animal Planet Japan
+http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Station
+http://akariko.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs333.gif",AT-X
+http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs331.gif",Cartoon Network Japan
+http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-dc.jpg",Disney Channel Japan
+http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://tv.disney.co.jp/dam/shared/img/logo-junior.jpg",Disney Jr. Japan
+http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png",J Sports 1
+http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/747.png",J Sports 2
+http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",J Sports 3
+http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpE1ETERXAr0sDDPk5x4-27nMvr2S1y2_0A&s",J Sports 4
+http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSap0xYgCK4qjD0o7l6NcIdnoefn9z_DvZjKA&s",Nittele G Plus
+http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/580.gif",Sport live plus
+http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.asahi.co.jp/stepup2024/img/bnr_skya_l.png",Sky A
+http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/1280px-GAORA_SPORTS_logo.svg.png",Gaora Sports
+http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif",Fighting TV Samurai
+http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://play-lh.googleusercontent.com/heUOYjpO3d0veq4-AMbsvnD0dEyhziHgUZ4l2YXAfVUG4QthMnF_IJMNW5yoBB1AUag",Golf Network
+http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://hidakakonbu.net/wp-content/uploads/2018/07/logo_greenchannel.png",Green Channel
+http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://yt3.googleusercontent.com/31dSiRDx8XYX41jikFPIwYJK213ghYEbLKP0wqZ2sHNQlbd98Tv5k_G8vgF0-n5LHWaCdHF9Fw=s160-c-k-c0x00ffffff-no-rj",Fishing Vision
+http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs363.gif",Shogi Channel
+http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5etHJU1SBFzofyNl2e9DPxDXtY6Cf3QcddA&s",CNNj
+http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News Japan
+http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs349.gif",NTV News24
+http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7Pdv6JZ7XZzyulBFCgn4_sUVr9iSNR1qsA&s",TBS News
+http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png",Weather News
+http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJgXxf12A7Ik8BxFWu1ed1T9IQW9TaYTyqw&s",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeMWLmCELz52kJyUYQmrJkIJ8OVnNknkGcA&s",Shop Channel Japan
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif",QVC
+https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif",GSTV
+https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに?
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/samri/channel_logo",時代劇
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/kids/channel_logo",アニメ
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/krdrm/channel_logo",韓流
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://d212zhwse9xz9.cloudfront.net/public/v2/channels/goshogi/channel_logo",囲碁・将棋
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ぷれいば！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",TEZUKA PRO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",Kids English
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 ggroup-title="日本 TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",Wan Nyan
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+
+【9加侖】加厚（35直徑*40高)3個裝
+https://shopee.tw/product/29592137/54700742453?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEbAAAAAwDiA9taSJT5i_yq6yUS_dDHQFvXEyLmCcI2D7aK02-3Ux9jgoNqEsstXtJi3O8cz8QEWPShSGat--gxKV4Qo3jSMcF3Jr4YBZUA9x028ATjTsCWovLbE3jZ1oElKW3aw7X_I_k8PCrPg&gad_source=1&gad_campaignid=23406155691&gbraid=0AAAAADPpeXnJ5O5g4zHtBlewkyZl0GzCk&gclid=EAIaIQobChMIjenCw8H-lAMVwm4PAh0fHSlfEAQYAyABEgIX_fD_BwE
+#########################################
+            JAPAN 1
+#########################################
+
+
+#EXTM3U url-tvg="https://akariko.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
 #EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
 https://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Tokyo" tvg-id="joabdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
@@ -690,6 +1095,9 @@ https://pan.mediy.cn/
 https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/FC2-PPV1.m3u
 https://tv123.cc.cd/tv.m3u
 https://raw.githubusercontent.com/alenin-zhang/KDS/refs/heads/main/91kds.txt
+https://github.com/g782989476/OKBOX/tree/main/Links/xxx
+https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Lbapi01.txt
+https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/HSCK.txt
 #########################################
          台灣數位電視台
 #########################################
@@ -796,17 +1204,17 @@ http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax4
 
 
 
-#EXTINF:-1 group-title="台灣",民視新聞(211)
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/民视新闻台.png",民視新聞(211)
 http://211.72.174.95:8117/0.ts
-#EXTINF:-1 group-title="台灣",中視(211)
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/中视.png",中視(211)
 http://211.72.174.95:8113/0.ts
-#EXTINF:-1 group-title="台灣",華視(211)
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/华视.png",華視(211)
 http://211.72.174.95:8114/0.ts
-#EXTINF:-1 group-title="台灣",公視(211)
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/公视.png",公視(211)
 http://211.72.174.95:8116/0.ts
-#EXTINF:-1 group-title="台灣",民視(211)
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/民视.png",民視(211)
 http://211.72.174.95:8115/0.ts
-#EXTINF:-1 group-title="台灣",台視(211)
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/台视.png",台視(211)
 http://211.72.174.95:8112/0.ts
 #EXTINF:-1 group-title="台灣",東森新聞(211)
 http://211.72.174.95:8138/0.ts
@@ -961,6 +1369,84 @@ http://149.100.11.235:8080/NileSport/index.m3u8
 http://149.100.11.235:8080/France24/index.m3u8
 #EXTINF:-1 group-title="台灣",ATV
 http://149.100.11.235:8080/ATV/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="台灣",民視影劇台
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 group-title="台灣",公視戲劇
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 group-title="台灣",采昌影劇台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 group-title="台灣",靖天映畫
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 group-title="台灣",靖天戲劇台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 group-title="台灣",靖天電影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 group-title="台灣",靖洋戲劇台
+https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+#EXTINF:-1 group-title="台灣",影迷數位電影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 group-title="台灣",amc電影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 group-title="台灣",CinemaWorld
+https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 group-title="台灣",My Cinema Europe
+https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 group-title="台灣",經典電影台
+https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+C#EXTINF:-1 group-title="台灣",Music
+https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 group-title="台灣",DreamWorks夢工廠動畫
+https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 group-title="台灣",精選動漫台
+https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 group-title="台灣",金光布袋戲
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+
+
+#EXTINF:-1 group-title="台灣",民視影劇
+https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 group-title="台灣",公視戲劇
+https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 group-title="台灣",采昌影劇台
+https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 group-title="台灣",靖天映畫
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 group-title="台灣",靖天戲劇台
+https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 group-title="台灣",靖天電影台
+https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 group-title="台灣",靖洋戲劇
+https://cdn12.178.indevs.in/163189/5c1cf6af04d96cb4
+#EXTINF:-1 group-title="台灣",影迷數位電影台
+https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 group-title="台灣",amc電影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 group-title="台灣",CinemaWorld
+https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 group-title="台灣",My Cinema Europe
+https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 group-title="台灣",經典電影台
+https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+#EXTINF:-1 group-title="台灣",CMusic
+https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 group-title="台灣",DreamWorks夢工廠動畫
+https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 group-title="台灣",精選動漫台
+https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 group-title="台灣",金光布袋戲
+https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+#EXTINF:-1 group-title="台灣",緯來電影
+http://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+#EXTINF:-1 group-title="台灣",緯來體育
+http://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+#EXTINF:-1 group-title="台灣",緯來戲劇
+http://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+#EXTINF:-1 group-title="台灣",緯來日本
+http://cdn.19891230.eu.org/api/VL-Japa/index.m3u8
 
 
 #EXTINF:-1 group-title="台灣",灌篮高手
@@ -3215,113 +3701,12 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 
 
 
-
-#EXTINF:-1 tvg-name="SLY SPORTS F1 HD" group-title="體育世界",SLY SPORTS F1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2200.ts
-#EXTINF:-1 tvg-name="SLY SPRTS TENNIS" group-title="體育世界",SLY SPRTS TENNIS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4956.ts
-
-#EXTINF:-1 tvg-name="Varzish Sport HD" group-title="體育世界",Varzish Sport HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1135.ts
-
-#EXTINF:-1 tvg-name="ESPN US HD" group-title="體育世界",ESPN US HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8057.ts
-#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="體育世界",ESPN 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8058.ts
-#EXTINF:-1 tvg-name="Tennis HD" group-title="體育世界",Tennis HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1282.ts
-#EXTINF:-1 tvg-name="TSN 1 HD" group-title="體育世界",TSN 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
-#EXTINF:-1 tvg-name="TSN 2 HD" group-title="體育世界",TSN 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
-#EXTINF:-1 tvg-name="TSN 3 HD" group-title="體育世界",TSN 3 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
-#EXTINF:-1 tvg-name="TSN 4 HD" group-title="體育世界",TSN 4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
-#EXTINF:-1 tvg-name="SPORT TV 1" group-title="體育世界",SPORT TV 1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8055.ts
-#EXTINF:-1 tvg-name="SPORT TV 2" group-title="體育世界",SPORT TV 2
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4957.ts
-#EXTINF:-1 tvg-name="EURO SPRT 1 HD" group-title="體育世界",EURO SPRT 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 1 US" group-title="體育世界",BEIN Sprts 1 US
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1955.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 1HD EN" group-title="體育世界",BEIN Sprts 1HD EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2243.ts
-#EXTINF:-1 tvg-name="BEIN SPRTS 2HD EN" group-title="體育世界",BEIN SPRTS 2HD EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/924.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 3HD EN" group-title="體育世界",BEIN Sprts 3HD EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3906.ts
-#EXTINF:-1 tvg-name="BEIN Sprts Premium 1 HD" group-title="體育世界",BEIN Sprts Premium 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2246.ts
-#EXTINF:-1 tvg-name="BEIN Sprts premium2 HD" group-title="體育世界",BEIN Sprts premium2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2245.ts
-#EXTINF:-1 tvg-name="BEIN Sprts Premium 3HD" group-title="體育世界",BEIN Sprts Premium 3HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2242.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 1 HD" group-title="體育世界",BEIN Sprts 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2253.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 2 HD" group-title="體育世界",BEIN Sprts 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3058.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 3 HD" group-title="體育世界",BEIN Sprts 3 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3059.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 4HD" group-title="體育世界",BEIN Sprts 4HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2250.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 5HD" group-title="體育世界",BEIN Sprts 5HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2249.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 6HD" group-title="體育世界",BEIN Sprts 6HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2248.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 7HD" group-title="體育世界",BEIN Sprts 7HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2247.ts
-#EXTINF:-1 tvg-name="FLOW SPORTS" group-title="體育世界",FLOW SPORTS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/503.ts
-#EXTINF:-1 tvg-name="US FOX SPRTS 1 HD" group-title="體育世界",US FOX SPRTS 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
-#EXTINF:-1 tvg-name="US FOX SPRTS 2 HD" group-title="體育世界",US FOX SPRTS 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
-#EXTINF:-1 tvg-name="FOX SPORTS USA" group-title="體育世界",FOX SPORTS USA
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8050.ts
-#EXTINF:-1 tvg-name="WWE NETWORK" group-title="體育世界",WWE NETWORK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/526.ts
-#EXTINF:-1 tvg-name="FIGHT SPORTS" group-title="體育世界",FIGHT SPORTS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1430.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 1" group-title="體育世界",FUBO SPORTS 1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8051.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 2" group-title="體育世界",FUBO SPORTS 2
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8052.ts
-#EXTINF:-1 tvg-name="ESPN US HD" group-title="體育世界",ESPN US HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8057.ts
-#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="體育世界",ESPN 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8058.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 1" group-title="體育世界",FUBO SPORTS 1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8051.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 2" group-title="體育世界",FUBO SPORTS 2
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8052.ts
-#EXTINF:-1 tvg-name="NBC UNIVERSO" group-title="體育世界",NBC UNIVERSO
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8053.ts
-#EXTINF:-1 tvg-name="NBC SPORTS HD" group-title="體育世界",NBC SPORTS HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1316.ts
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 1
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",ช่อง Monomax 2
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
 
 
-
-
-
-
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802455.png",True Sports 1
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499966.png",True Sports 2
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802480.png",True Sports 3
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847910.png",True Sports 5
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847921.png",True Sports 7
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499681.png",true Premire football 3
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",Monomax 1
-https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
 
 
 #EXTINF:-1 group-title="體育世界",博斯運動1
@@ -3356,73 +3741,12 @@ https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
 
 
-#EXTINF:-1 group-title="體育世界",DAZN_4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 group-title="體育世界",DAZN_3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 group-title="體育世界",DAZN_2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_NBA
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_NFL_NETWORK
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_TENNIS
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_GOLF
-http://23.237.104.106:8080/USA_GOLF/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_BEIN
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports1
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports2
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports3
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports4
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports5
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports6
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports7
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports8
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
-#EXTINF:-1 group-title="NOW SPORTS",NOW sports9
-http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748438.m3u8
-
-
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育3
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育7
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育4K1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
-#EXTINF:-1 group-title="NOW SPORTS",NOW體育
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
-
-
-
 
 #########################################
               音樂世界
 #########################################
+
+
 
 #EXTINF:-1 group-title="音樂世界",韓國歌曲[刷新就是新內容]
 https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
@@ -4358,6 +4682,165 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 
 #EXTINF:-1 group-title="Japanese TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeMWLmCELz52kJyUYQmrJkIJ8OVnNknkGcA&s",Shop Channel Japan
 https://stream3.shopch.jp/HLS/master.m3u8
+
+
+
+
+#########################################
+            Korean TV
+#########################################
+
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png",ช่อง Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPS2HfHVb4Sr1DIRtyxyvQlkYVTj4ZMG4ow&s",ช่อง Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://yt3.googleusercontent.com/no8fqWNb5b7mQAsbgkTD4s0ffrMSVERn0m2XJkp6ZCqo8MsBHKkkfl_FTG4HtUKHhCpuPE17bT4=s900-c-k-c0x00ffffff-no-rj",ช่อง ABN TV
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAwz_N311bILKczb1OvlNK2d1_6sUevcLG-w&s",ช่อง EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/250px-EBS_2TV_Logo.svg.png",ช่อง EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtYNU6BLelPcXqz_9ppjErD14RuhjLeJYPeA&s",ช่อง EBS E
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjO5fqVcDmYgsvy_2pfxEWzG_f1LIND3uZg&s",ช่อง EBS kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKAnwrxW65KM8MwmSOHKXmcF2F_AHGUO8_Gw&s",ช่อง EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png",ช่อง EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8GrciyE4jjeo_HHjftzlzSeTWtHr3EfFPA&s",ช่อง MBC
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgG2sH9KDN1uxHrjctK07YGKvtT58kN39y6g&s",ช่อง TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS G1
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS JIBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS JTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS KBC
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDHT1EKLbXkHzk8EA7WwGiKXlZJ0dGm6FBug&s",ช่อง SBS UBC
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0ehTE8TkQ1jSKdSj4_4n9ByitQHiB3L9qg&s",ช่อง TV Chosun
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HGRJR77OSG6QPNUDEWBVWCH5U.jpg",ช่อง TV Chosun 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYinhFymugMXpuY-M2PKxjIgeUY3v8jrevxw&s",ช่อง FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://yt3.googleusercontent.com/6MYayL2_ujmEop29x3kIIhlfOfIhkNdGxDHw2d-mTBvJmGd4DTCrkPIo2zQOmBOMBkPH4C3zrw=s900-c-k-c0x00ffffff-no-rj",ช่อง GugakTV 국악방송
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://play-lh.googleusercontent.com/-umMinS6kEO1cv0WZqx2ouEVGo-FXgdlXdsRAcKrll_ke6fZN1iuXFEEYtwn9Gr5504",ช่อง Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://yt3.googleusercontent.com/KgiJd6DZBlJNIDzWAwYomcqs4VMQjEcP8em7Mc7kf_1BfOQfNwNtfpMk2kTAZKEsxW_Vp1qMIQ=s900-c-k-c0x00ffffff-no-rj",ช่อง KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5BIBpeN75gnGaZ7oVHMnCpU1y_x9vdRDzng&s",ช่อง Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://www.nhtv.co.kr/resources/images/meta_thumb.jpg",ช่อง NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.namu.wiki/i/LmODYqO5BGcSHCfWsCCyE9f6jUTRWKSWz5WXvrodBgUrdMpy9goiKv8QQ7P42JIWFHxN4AVomTsbi2I3IuOH0w.webp",ช่อง OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/wZ_BWzFTnEg/maxresdefault.jpg",ช่อง RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs318.gif",ช่อง Mnet
+https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7gDK7-klM1F0eW0KNXKGd-K9OUGk-rKmAQ&s",ช่อง National Assembly TV
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEMXk3dxeSF4FoOgpHwoAf7OFpJM8RjojgQ&s",ช่อง NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm0yCqz3GZHEVqgd8kZzGXTEbQUxI77zu8sA&s",ช่อง GoodTV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://yt3.googleusercontent.com/0r9Jac_cmwsL54ggF3BuzHkzx0VkLLYjFQ_ea3mQKSUlPgBrZR27hRImx84E4c_oX1Abjnph=s900-c-k-c0x00ffffff-no-rj",ช่อง BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://play-lh.googleusercontent.com/MPheN6Gjpzn__OpYKvDJ3W_sqGD9bO3pDDZ431KyLW3TqUwWGiYPHqQ14-av1K9NB8Q",ช่อง BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://i.ytimg.com/vi/L9bvCgSJXnc/hq720.jpg?v=69bd4eab&sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAQeQ1fV8KHHbhxa_1sFBKSU3OCuw",ช่อง GCN24 Korean
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl2CtW_RjUCn_iYQFhLIyh6DqZJOgFdOnn1w&s",ช่อง CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtuDFFOs93LWY3-u1up3lWciYbNQouUpKqVA&s",ช่อง CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://img1.kbcard.com/ST/img/cxc/event/logo/shop_gongyoung_b.png",ช่อง Gongyoung Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LtVdCQ0Kn69PPHhjIphh-4JfVnr8ha4xXQ&s",ช่อง GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://img1.daumcdn.net/thumb/R1280x0.fpng/?fname=http://t1.kakaocdn.net/brunch/service/user/iuQV/image/KI1dZhZ2Ysk_VJksu6eYuqi2ABU.png",ช่อง GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://koreatownladirectory.com/wp-content/uploads/2024/05/home_shopping_world_la.jpg",ช่อง Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnJ6RbqK-iM4-UpqD-Y_seQ8GPt72wQ_now&s",ช่อง Shinsegae Shopping TV
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://play-lh.googleusercontent.com/FWH-1e3HbhZ66Se56gcM9wFyEn8oaYu7TukT7S1v44ZJv9u413RKr93Xc-2SVV36PFg",ช่อง Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZWvTaBmpIZEmJ2QX-wVuVNzdhxS1zYL7Rg&s",ช่อง Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZWvTaBmpIZEmJ2QX-wVuVNzdhxS1zYL7Rg&s",ช่อง Hyundai Home Shopping Plus
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://gbaike-image.cdn.bcebos.com/6159252dd42a2834349bcb0029eedeea15ce36d3113e/6159252dd42a2834349bcb0029eedeea15ce36d3113e_16_9?x-bce-process=image/format,f_auto",ช่อง Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 group-title="Korean TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lotte_Logo_%282017%29.svg/1280px-Lotte_Logo_%282017%29.svg.png",ช่อง Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoTVQRJrak0TN9J8SPBjiDg8vULKHQqDJxg&s",ช่อง TVB Jade Astro
+http://r.jdshipin.com/thuYX
+
+#EXTINF:-1 group-title="Hong Kong TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSopBoT7CJ1RfrdlafJVMPk1I1WiP6LYU2NQ&s",ช่อง TVB Pearl
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+
 
 
 
@@ -6740,112 +7223,97 @@ http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/6165/index.m3u8
 
 
 
+#EXTINF:-1 group-title="私密頻道 ADULT",Emma White
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932765
+#EXTINF:-1 group-title="私密頻道 ADULT",Eva Elfie
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932766
+#EXTINF:-1 group-title="私密頻道 ADULT",MIA KHALIFA
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932767
+#EXTINF:-1 group-title="私密頻道 ADULT",Sammy Corazon
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932768
+#EXTINF:-1 group-title="私密頻道 ADULT",Reislin
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932769
+#EXTINF:-1 group-title="私密頻道 ADULT",SQUIRT
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932770
+#EXTINF:-1 group-title="私密頻道 ADULT",SweetieFox
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932771
+#EXTINF:-1 group-title="私密頻道 ADULT",Lexy Lore
+http://conecdg.me:80/Andrielly.Silva/Br131221/3932772
+#EXTINF:-1 group-title="私密頻道 ADULT",BUSTY
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933219
+#EXTINF:-1 group-title="私密頻道 ADULT",WICKED
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933281
+#EXTINF:-1 group-title="私密頻道 ADULT",21 SEXTURY
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933284
+#EXTINF:-1 group-title="私密頻道 ADULT",Andressa Urach
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933285
+#EXTINF:-1 group-title="私密頻道 ADULT",GANGBANG
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933286
+#EXTINF:-1 group-title="私密頻道 ADULT",LEGALPORNO
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933287
+#EXTINF:-1 group-title="私密頻道 ADULT",LEGALPORNO 2
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933288
+#EXTINF:-1 group-title="私密頻道 ADULT",Kelly Aleman
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933289
+#EXTINF:-1 group-title="私密頻道 ADULT",Punheta guiada
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933290
+#EXTINF:-1 group-title="私密頻道 ADULT",Brasileiras
+http://conecdg.me:80/Andrielly.Silva/Br131221/3933412
+#EXTINF:-1 group-title="私密頻道 ADULT",BDSM BOXXX
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935065
+#EXTINF:-1 group-title="私密頻道 ADULT",CLASSICOS ITALIANOS
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935066
+#EXTINF:-1 group-title="私密頻道 ADULT",DORCEL
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935067
+#EXTINF:-1 group-title="私密頻道 ADULT",DORCEL 2
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935068
+#EXTINF:-1 group-title="私密頻道 ADULT",FILTHY KINGS
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935069
+#EXTINF:-1 group-title="私密頻道 ADULT",REALITY KINGS
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935070
+#EXTINF:-1 group-title="私密頻道 ADULT",TEAM SKEET
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935071
+#EXTINF:-1 group-title="私密頻道 ADULT",SIS LOVES ME
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935072
+#EXTINF:-1 group-title="私密頻道 ADULT",ORGIAS
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935073
+#EXTINF:-1 group-title="私密頻道 ADULT",BANGBROS
+http://conecdg.me:80/Andrielly.Silva/Br131221/3935089
+#EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS 1
+http://conecdg.me:80/Andrielly.Silva/Br131221/3954314
+#EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS 2
+http://conecdg.me:80/Andrielly.Silva/Br131221/3954317
+#EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS 3
+http://conecdg.me:80/Andrielly.Silva/Br131221/3954316
+#EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS 4
+http://conecdg.me:80/Andrielly.Silva/Br131221/3954315
+#EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS 5
+http://conecdg.me:80/Andrielly.Silva/Br131221/3959204
+#EXTINF:-1 group-title="私密頻道 ADULT",Brasileirinhas
+http://conecdg.me:80/Andrielly.Silva/Br131221/3959203
+#EXTINF:-1 group-title="私密頻道 ADULT",Fake Hostel
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965386
+#EXTINF:-1 group-title="私密頻道 ADULT",Fake Hub
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965387
+#EXTINF:-1 group-title="私密頻道 ADULT",Fake Taxi
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965388
+#EXTINF:-1 group-title="私密頻道 ADULT",Public Agent
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965389
+#EXTINF:-1 group-title="私密頻道 ADULT",Fake Hospital
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965390
+#EXTINF:-1 group-title="私密頻道 ADULT",Fake Driving School
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965391
+#EXTINF:-1 group-title="私密頻道 ADULT",Fake Agent
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965463
+#EXTINF:-1 group-title="私密頻道 ADULT",LETSDOEIT
+http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
+
+
+
+
+
+
 #########################################
-
-
-#EXTINF:-1 group-title="成人頻道 ADULT",松视1
-http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee1
-#EXTINF:-1 group-title="成人頻道 ADULT",松视2
-http://atryffad.usa3.345123.xyz/jrw.php?id=sonsee2
-#EXTINF:-1 group-title="成人頻道 ADULT",松视3
-http://atryffad.usa3.345123.xyz/jrw.php?id=SonSee3hd
-#EXTINF:-1 group-title="成人頻道 ADULT",彩虹e
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowEhd
-#EXTINF:-1 group-title="成人頻道 ADULT",K频道
-http://atryffad.usa3.345123.xyz/jrw.php?id=RainBowK
-#EXTINF:-1 group-title="成人頻道 ADULT",彩虹电影台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
-#EXTINF:-1 group-title="成人頻道 ADULT",潘朵啦玩美台
-http://atryffad.usa3.345123.xyz/jrw.php?id=PandoraWanmei
-#EXTINF:-1 group-title="成人頻道 ADULT",惊艳成人电影
-http://atryffad.usa3.345123.xyz/jrw.php?id=Amazingchannel
-#EXTINF:-1 group-title="成人頻道 ADULT",香蕉台
-http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel
-#EXTINF:-1 group-title="成人頻道 ADULT",Happy
-http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
-#EXTINF:-1 group-title="成人頻道 ADULT",JStar極限台电影频道
-http://atryffad.usa3.345123.xyz/jrw.php?id=JStarMovies
-#EXTINF:-1 group-title="成人頻道 ADULT",Playboy TV
-http://atryffad.usa3.345123.xyz/jrw.php?id=PlayboyTV
-#EXTINF:-1 group-title="成人頻道 ADULT",アイドル専門チャンネルＰｉｇｏｏ
-http://atryffad.usa3.345123.xyz/jrw.php?id=IdolspecialtychannelPigooHD
-#EXTINF:-1 group-title="成人頻道 ADULT",Babes TV
-http://atryffad.usa3.345123.xyz/jrw.php?id=BabesTV
-#EXTINF:-1 group-title="成人頻道 ADULT",Red Lips
-http://atryffad.usa3.345123.xyz/jrw.php?id=RedLips
-#EXTINF:-1 group-title="成人頻道 ADULT",RusskayaNoch
-http://atryffad.usa3.345123.xyz/jrw.php?id=RusskayaNoch
-#EXTINF:-1 group-title="成人頻道 ADULT",BrazzersTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTVEurope
-#EXTINF:-1 group-title="成人頻道 ADULT",BrazzersTV HD
-http://atryffad.usa3.345123.xyz/jrw.php?id=BrazzersTV2
-#EXTINF:-1 group-title="成人頻道 ADULT",HustlerTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=Hustler
-#EXTINF:-1 group-title="成人頻道 ADULT",HustlerTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=hustlertv
-#EXTINF:-1 group-title="成人頻道 ADULT",Penthouse Gold
-http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseGold
-#EXTINF:-1 group-title="成人頻道 ADULT",Penthouse Gold
-http://atryffad.usa3.345123.xyz/jrw.php?id=penthouse
-#EXTINF:-1 group-title="成人頻道 ADULT",Penthouse Reality
-http://atryffad.usa3.345123.xyz/jrw.php?id=PenthouseQuickies
-#EXTINF:-1 group-title="成人頻道 ADULT",OX-AX
-http://atryffad.usa3.345123.xyz/jrw.php?id=Ohah
-#EXTINF:-1 group-title="成人頻道 ADULT",Vivid Red
-http://atryffad.usa3.345123.xyz/jrw.php?id=VividRed
-#EXTINF:-1 group-title="成人頻道 ADULT",Eroxxx
-http://atryffad.usa3.345123.xyz/jrw.php?id=Eroxxx
-#EXTINF:-1 group-title="成人頻道 ADULT",Extasy
-http://atryffad.usa3.345123.xyz/jrw.php?id=Extasy
-#EXTINF:-1 group-title="成人頻道 ADULT",ExtasyHD
-http://atryffad.usa3.345123.xyz/jrw.php?id=ExtasyHD
-#EXTINF:-1 group-title="成人頻道 ADULT",PrivateTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=PrivateTV
-#EXTINF:-1 group-title="成人頻道 ADULT",Red Light
-http://atryffad.usa3.345123.xyz/jrw.php?id=Redlight
-#EXTINF:-1 group-title="成人頻道 ADULT",CineMan私密频道
-http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道
-#EXTINF:-1 group-title="成人頻道 ADULT",CineMan私密频道2
-http://atryffad.usa3.345123.xyz/jrw.php?id=CineMan私密频道2
-#EXTINF:-1 group-title="成人頻道 ADULT",WAAYH
-http://atryffad.usa3.345123.xyz/jrw.php?id=Shalun
-#EXTINF:-1 group-title="成人頻道 ADULT",DorcelTV
-http://atryffad.usa3.345123.xyz/jrw.php?id=DorcelTV
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV 2
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV2
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV 3
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV3
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV 4
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTV4
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Parody,
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVParody
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Compilation
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVCompilation
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Anal
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVAnal
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Teens
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVTeens
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV Lesbian
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVLesbian
-#EXTINF:-1 group-title="成人頻道 ADULT",FapTV BBW
-http://atryffad.usa3.345123.xyz/jrw.php?id=FapTVBBW
-#EXTINF:-1 group-title="成人頻道 ADULT",BlueHustler
-http://atryffad.usa3.345123.xyz/jrw.php?id=BlueHustler
-#EXTINF:-1 group-title="成人頻道 ADULT",KINO私密频道
-http://atryffad.usa3.345123.xyz/jrw.php?id=Kino私密频道
-#EXTINF:-1 group-title="成人頻道 ADULT",Pinko Club
-http://atryffad.usa3.345123.xyz/jrw.php?id=PinkOTV
-#EXTINF:-1 group-title="成人頻道 ADULT",BarleyLegal
-http://atryffad.usa3.345123.xyz/jrw.php?id=Barelylegal
-#EXTINF:-1 group-title="成人頻道 ADULT",XY Max
-http://atryffad.usa3.345123.xyz/jrw.php?id=XYMax
-#EXTINF:-1 group-title="成人頻道 ADULT",XY Plus
-http://atryffad.usa3.345123.xyz/jrw.php?id=XYPlus
-#EXTINF:-1 group-title="成人頻道 ADULT",XY Mix
-http://atryffad.usa3.345123.xyz/jrw.php?id=XYMix
-#EXTINF:-1 group-title="成人頻道 ADULT",XXL
-http://atryffad.usa3.345123.xyz/jrw.php?id=XXL
-
 
 
 
@@ -21324,4 +21792,45 @@ https://vip.ffzy-online3.com/20230202/10575_fa150d03/index.m3u8
 https://vip.ffzy-online3.com/20230202/10578_019f4b15/index.m3u8
 
 
+
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Brazzers TV
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19526
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Erox
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19529
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Dorcel HD (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19524
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Desire
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19523
+#EXTINF:-1 group-title="夢幻頻道 ADULT",DUSK! (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19522
+#EXTINF:-1 group-title="夢幻頻道 ADULT",EuroXXX FHD (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19520
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Evil Angel HD (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19518
+#EXTINF:-1 group-title="夢幻頻道 ADULT",BANG BROS (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19508
+#EXTINF:-1 group-title="夢幻頻道 ADULT",BEALITYKINGS
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19496
+#EXTINF:-1 group-title="夢幻頻道 ADULT", Penthouse Gold HD
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19495
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Private HD (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19482
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Reality Kings (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19480
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Redlight HD (18 )
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19479
+#EXTINF:-1 group-title="夢幻頻道 ADULT",BAWWHITEMEAT
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19511
+#EXTINF:-1 group-title="夢幻頻道 ADULT",ERO XXXHD
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/24225
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Venus TV
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19468
+#EXTINF:-1 group-title="夢幻頻道 ADULT",CUM 4K
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/54181
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Bangbro Network (18)
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/54184
+#EXTINF:-1 group-title="夢幻頻道 ADULT",BangBro 4k
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/54230
+#EXTINF:-1 group-title="夢幻頻道 ADULT",Blacked
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/56369
 
