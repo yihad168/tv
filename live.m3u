@@ -1098,6 +1098,7 @@ https://raw.githubusercontent.com/alenin-zhang/KDS/refs/heads/main/91kds.txt
 https://github.com/g782989476/OKBOX/tree/main/Links/xxx
 https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Lbapi01.txt
 https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/HSCK.txt
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb2.txt
 #########################################
          台灣數位電視台
 #########################################
@@ -1276,6 +1277,35 @@ https://o11.163189.xyz/stream/live/qj/
 http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛奇藝.png" group-title="台灣",IQIYI
 http://o11.163189.xyz/stream/live/iqiyi/
+
+
+#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="台灣",翡翠台4K(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="台灣",翡翠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="台灣",TVB PLUS(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png" group-title="台灣",明珠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="台灣",华丽翡翠台(多音轨字幕)
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="台灣",华丽翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="台灣",Astro AOD(多音轨字幕)
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="台灣",Astro AEC(多音轨字幕)
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="台灣",TVB星河(多音轨字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="台灣",Astro欢喜台(O11)
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="台灣",爱奇艺(O11)
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典台.png" group-title="台灣",千禧经典台(O11)
+https://o11.163189.xyz/stream/live/tvbc/
+
+
+
 
 
 
@@ -21791,6 +21821,26 @@ https://vip.ffzy-online3.com/20230202/10575_fa150d03/index.m3u8
 #EXTINF:-1 group-title="神雕侠侣",第32集
 https://vip.ffzy-online3.com/20230202/10578_019f4b15/index.m3u8
 
+
+
+#EXTINF:-1 group-title="金庸武俠",倚天屠龍記
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342403
+#EXTINF:-1 group-title="金庸武俠",倚天屠龍記
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23734246
+#EXTINF:-1 group-title="金庸武俠",笑傲江湖
+http://tv.zimtv.cn/tv/player/api/huya.php?id=26355790
+#EXTINF:-1 group-title="金庸武俠",天龍八部
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23903123
+#EXTINF:-1 group-title="金庸武俠",鹿鼎記
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23865080
+#EXTINF:-1 group-title="金庸武俠",神雕俠侶
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23865171
+#EXTINF:-1 group-title="金庸武俠",神雕俠侶
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352964
+#EXTINF:-1 group-title="金庸武俠",射雕英雄傳
+http://tv.zimtv.cn/tv/player/api/huya.php?id=23824164
+#EXTINF:-1 group-title="金庸武俠",金庸武俠
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342435
 
 
 #EXTINF:-1 group-title="夢幻頻道 ADULT",Brazzers TV
