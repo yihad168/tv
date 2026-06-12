@@ -1683,6 +1683,57 @@ https://live.ottiptv.cc/yy/1382735626
 
 
 #########################################
+           數位電視
+#########################################
+
+
+
+#EXTINF:-1 group-title="數位電視",1中視
+http://220.135.241.47:8301/0.ts
+#EXTINF:-1 group-title="數位電視",2中視新聞HD
+http://220.135.241.47:8302/0.ts
+#EXTINF:-1 group-title="數位電視",3原住民族電視台
+http://220.135.241.47:8303/0.ts
+#EXTINF:-1 group-title="數位電視",4國會頻道1台
+http://220.135.241.47:8304/0.ts
+#EXTINF:-1 group-title="數位電視",5公視
+http://220.135.241.47:8305/0.ts
+#EXTINF:-1 group-title="數位電視",6公視台語台
+http://220.135.241.47:8306/0.ts
+#EXTINF:-1 group-title="數位電視",7客家電視台
+http://220.135.241.47:8307/0.ts
+#EXTINF:-1 group-title="數位電視",8民視
+http://220.135.241.47:8308/0.ts
+#EXTINF:-1 group-title="數位電視",9民視第一台
+http://220.135.241.47:8309/0.ts
+#EXTINF:-1 group-title="數位電視",10民視新聞台
+http://220.135.241.47:8310/0.ts
+#EXTINF:-1 group-title="數位電視",11民視台灣台
+http://220.135.241.47:8311/0.ts
+#EXTINF:-1 group-title="數位電視",12小公視
+http://220.135.241.47:8312/0.ts
+#EXTINF:-1 group-title="數位電視",13台視HD
+http://220.135.241.47:8313/0.ts
+#EXTINF:-1 group-title="數位電視",14台視新聞HD
+http://220.135.241.47:8314/0.ts
+#EXTINF:-1 group-title="數位電視",15台視財經HD
+http://220.135.241.47:8315/0.ts
+#EXTINF:-1 group-title="數位電視",16台視綜合HD
+http://220.135.241.47:8316/0.ts
+#EXTINF:-1 group-title="數位電視",17華視CTSHD
+http://220.135.241.47:8317/0.ts
+#EXTINF:-1 group-title="數位電視",18華視教育文化HD
+http://220.135.241.47:8318/0.ts
+#EXTINF:-1 group-title="數位電視",19CTS華視新聞資訊
+http://220.135.241.47:8319/0.ts
+#EXTINF:-1 group-title="數位電視",20TaiwanPlus
+http://220.135.241.47:8320/0.ts
+#EXTINF:-1 group-title="數位電視",21中視經典台
+http://220.135.241.47:8321/0.ts
+#EXTINF:-1 group-title="數位電視",22中視菁采台
+http://220.135.241.47:8322/0.ts
+
+#########################################
               香港MYTV
 #########################################
 
