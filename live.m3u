@@ -1420,11 +1420,134 @@ http://211.72.174.95:8138/0.ts
 
 
 
+#EXTINF:-1 group-title="台灣",CINEMAX(125)
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CNBC(125)
+http://125.227.210.55:1002/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",緯來電影(125)
+http://125.227.210.55:1082/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",緯來日本(125)
+http://125.227.210.55:1083/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",龍祥時代(125)
+http://125.227.210.55:1084/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",八大第一(125)
+http://125.227.210.55:1085/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",非凡新聞(125)
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森超視(125)
+http://125.227.210.55:1087/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",HBO(125)
+http://125.227.210.55:3013/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視新聞(125)
+http://125.227.210.55:3017/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視(125)
+http://125.227.210.55:3018/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",三立台灣(125)
+http://125.227.210.55:3020/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",三立新聞(125)
+http://125.227.210.55:3022/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",公視(125)
+http://125.227.210.55:3024/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CNN(125)
+http://125.227.210.55:3026/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CN卡通頻道(125)
+http://125.227.210.55:3027/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中天娛樂(125)
+http://125.227.210.55:3044/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TVBS新聞(125)
+http://125.227.210.55:3046/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TVBS歡樂(125)
+http://125.227.210.55:3047/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TVBS(125)
+http://125.227.210.55:3048/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視(125)
+http://125.227.210.55:3049/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森電影(125)
+http://125.227.210.55:3052/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",動物星球(125)
+http://125.227.210.55:3054/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森洋片(125)
+http://125.227.210.55:3055/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",ANIMAX(125)
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯高球I(125)
+http://125.227.210.55:3059/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯網球(125)
+http://125.227.210.55:3060/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯運動II(125)
+http://125.227.210.55:3061/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森洋片(125)
+http://125.227.210.55:3078/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視新聞(125)
+http://125.227.210.55:3079/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視經典(125)
+http://125.227.210.55:3080/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視菁采(125)
+http://125.227.210.55:3081/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",公視台語(125)
+http://125.227.210.55:3082/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",Taiwan Plus(125)
+http://125.227.210.55:3083/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視第一台(125)
+http://125.227.210.55:3084/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視台灣台(125)
+http://125.227.210.55:3085/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",小公視(125)
+http://125.227.210.55:3086/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",客家電視(125)
+http://125.227.210.55:3087/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",原住民電視(125)
+http://125.227.210.55:3088/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視新聞(125)
+http://125.227.210.55:3089/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視財經(125)
+http://125.227.210.55:3090/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視綜合(125)
+http://125.227.210.55:3091/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",華視教育體育文化(125)
+http://125.227.210.55:3092/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",華視新聞資訊(125)
+http://125.227.210.55:3093/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",國會頻道1(125)
+http://125.227.210.55:3094/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",國會頻道2(125)
+http://125.227.210.55:3095/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",[V]頻道(125)
+http://125.227.210.55:4043/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",cna(125)
+http://125.227.210.55:4044/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森新聞(125)
+http://125.227.210.55:4046/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TLC旅遊生活(125)
+http://125.227.210.55:4047/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中天綜合(125)
+http://125.227.210.55:4048/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",好萊塢電影(125)
+http://125.227.210.55:4049/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",AXN(125)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森財經新聞(125)
+http://125.227.210.55:4051/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森幼幼(125)
+http://125.227.210.55:4052/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",緯來體育(125)
+http://125.227.210.55:7155/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視(125)
+http://125.227.210.55:8093/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",探索亞洲(125)
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",Bloomberg(125)
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",華視(125)
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",BBC NEWS(125)
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯運動I(125)
+http://125.227.210.55:8173/VideoInput/play.ts
+
+
 #EXTINF:-1 group-title="台灣",澳門蓮花
 http://r.jdshipin.com/5DWJk
-
-
-
 
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華電影.png" group-title="台灣",龍華電影台
 http://cdn8.veryfast.filegear-sg.me/163189/lhdy
@@ -1436,9 +1559,6 @@ http://cdn8.veryfast.filegear-sg.me/163189/lhox
 http://cdn8.veryfast.filegear-sg.me/163189/lhrh
 #EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華戲劇.png" group-title="台灣",龍華戲劇台
 http://cdn8.veryfast.filegear-sg.me/163189/lhxj
-
-
-
 
 
 #EXTINF:-1 group-title="台灣",金光布袋戲
@@ -3977,6 +4097,32 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 #########################################
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_epg.xml"
+
+
+
+
+#EXTINF:-1 group-title="DE ✨ WM 2026",BBC1
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693835
+#EXTINF:-1 group-title="DE ✨ WM 2026",BBC2
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693836
+
+
+
+
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯3
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯4
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯5
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯6
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯7
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",世界杯9
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
 
 
