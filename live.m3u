@@ -3966,10 +3966,19 @@ https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DE ✨ WM 2026",Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 
-#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV05
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
 http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5
-#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV5+
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5+
 http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5p
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+https://cdn16.163189.xyz/163189/cctv5
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ᴅᴇ | FUßBALL.TV 1 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Germany_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴅᴇ | FUßBALL.TV 1 ʜᴅ
