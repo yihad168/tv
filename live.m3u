@@ -3589,6 +3589,19 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 
 #EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
 http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+https://live.chinacert.cftest5.cn/cnmg/live/641886683
+
+
+
+#EXTINF:-1 group-title="DE ✨ WM 2026",ELTA体育1
+rtmp://f13h.mine.nu/sat/md051
+#EXTINF:-1 group-title="DE ✨ WM 2026",ELTA体育2
+rtmp://f13h.mine.nu/sat/md041
+
+
+#EXTINF:-1 group-title="DE ✨ WM 2026",台视HD
+http://211.72.174.95:8112/0.ts
 
 
 #EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
