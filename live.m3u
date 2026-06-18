@@ -777,12 +777,36 @@ http://74.91.26.218:82/live/tyjd.m3u8
 
 
 
-#EXTINF:-1 group-title="台灣",愛爾達體育1
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png",愛爾達體育1
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
-#EXTINF:-1 group-title="台灣",愛爾達體育1
+#EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/sufernnet/jokerone/main/icon/ELTA体育1.png",愛爾達體育1
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
 #EXTINF:-1 group-title="台灣",亞洲旅遊
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-dash-hls/da-cl-fhd-4s-ma/ll-test-dash-hls.mpd
+
+
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/1-480x320.png", ELTA SPORTS 1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/2-480x320.png", ELTA SPORTS 2
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-2
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/3-480x320.png", ELTA SPORTS 3
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-3
+#EXTINF:-1 group-title="台灣" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png", ELTA SPORTS 1 (hami)
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd1-480x320.png", 博斯運動 1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-sport-1
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd2-480x320.png", 博斯運動 2
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-sport-2
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsgq2-480x320.png", 博斯高球 2
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-golf
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bswq-480x320.png", 博斯網球
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tennis-channel
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png", 緯來體育
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-sports-channel
+
+
+
+
 
 
 #EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/民视新闻台.png",民視新聞(211)
@@ -3591,18 +3615,8 @@ https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
 https://live.chinacert.cftest5.cn/cnmg/live/641886683
-
-
-
-#EXTINF:-1 group-title="DE ✨ WM 2026",ELTA体育1
-rtmp://f13h.mine.nu/sat/md051
-#EXTINF:-1 group-title="DE ✨ WM 2026",ELTA体育2
-rtmp://f13h.mine.nu/sat/md041
-
-
 #EXTINF:-1 group-title="DE ✨ WM 2026",台视HD
 http://211.72.174.95:8112/0.ts
-
 
 #EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
 http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5
@@ -3614,8 +3628,6 @@ http://69.30.245.50/live/cctv5.m3u8
 https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 #EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
 https://cdn16.163189.xyz/163189/cctv5
-
-
 
 
 
@@ -4737,6 +4749,10 @@ https://stream3.shopch.jp/HLS/master.m3u8
 #########################################
 
 
+#EXTINF:-1 group-title="Korean TV",MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Korean TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -5108,6 +5124,124 @@ https://liveh34.vtvprime.vn/hls/NINHBINHTV/03.m3u8
            Unifi TV
 #########################################
 
+
+
+#EXTINF:-1 group-title="Thailand TV",News1
+https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",NBT2
+https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiPBS
+https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiTV5
+https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiTV5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Boomerang
+https://live-us1.thaimomo.com/live-as/chboomerang-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",T Sports7
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Channel 8 Thailand
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand TV",BoonniyomTV
+https://live.x2.co.th/live/bntv_720p/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",TPTV
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 group-title="Thailand TV",Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Yateem TV
+https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th_240p/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",New TM
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",White Channel
+https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",TNN16
+https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",JKN18
+rtsp://103.113.47.81:554/tv1jknch18md.sdp
+#EXTINF:-1 group-title="Thailand TV",GBNTV
+https://us.gbnus.com/live/dhamma_high/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",TV Muslim
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Nat TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand TV",NationTV
+https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Workpoint
+https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Workpoint
+https://live-global-cdn-v02.sooplive.com/live-stm-09/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.Rmq9jX3kSq15WvXTCXTjChgwkz1H-9Guzn8beCJgdamm8Wb__UhxWA1F7pJHhpyLpeYIF6pge8jmpgfPfDZVFAeYT5JUjK_fgQy7uclf2GBh2dIi4yiaVv_6SbAk4RtTQzP02-dYrEEWipRo1d2wk1HcEGFesH8XmWkNMtm2bkDCdsrDW79dMALjNu6k42P2
+#EXTINF:-1 group-title="Thailand TV",True4U
+https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",GMM25
+https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="Thailand TV",PoliceTV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiTV8
+https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Suwannabhumi
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 group-title="Thailand TV",Mono29
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",McotHD
+https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",One31
+https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",One31
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="Thailand TV",Thairath
+https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiTV3
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Amarin34
+https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiTV7
+https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",PPTV36
+https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Cable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Topnews
+http://live2.thaimomo.com/live/chtopnew-2/playlist.m3u8Thaichaiyo,https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
+#EXTINF:-1 group-title="Thailand TV",Topnews
+https://live-us1.thaimomo.com/live-as/chcool-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Cool Channel
+https://live.cool-channel.com/cool/live-transmux.m3u8
+#EXTINF:-1 group-title="Thailand TV",Thaichaiyo
+https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
+#EXTINF:-1 group-title="Thailand TV",R Channel
+http://180.180.243.239/streams/3/hls
+#EXTINF:-1 group-title="Thailand TV",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",LanthungTV
+rtsp://103.113.47.86:554/lantungsd.sdp
+#EXTINF:-1 group-title="Thailand TV",Mv Mall Family
+https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",SBBTV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",PeopleTV
+rtsp://103.113.47.86:554/peopletvsd.sdp
+#EXTINF:-1 group-title="Thailand TV",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 group-title="Thailand TV",SBTTV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",ThaiNews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",Siamnews
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",Medianews
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",Chiangrai
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 group-title="Thailand TV",BaanBaan TV 73
+https://vdo.plathong.net/live8794/live8794/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV",Stou Channel
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 
 #########################################
@@ -6009,6 +6143,30 @@ http://cfss.cc/cdn/du/8324627.flv
 #EXTINF:-1 group-title="抖音K歌",抖音女神
 https://api.e1e1.top/crosswise/cw.php
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fussbal TV 1 FHD DE" tvg-logo="" group-title="抖音K歌",Fussbal TV 1 FHD DE
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174175
+#EXTINF:-1 tvg-id="" tvg-name="Fussbal TV 2 FHD DE" tvg-logo="" group-title="抖音K歌",Fussbal TV 2 FHD DE
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174177
+#EXTINF:-1 tvg-id="" tvg-name="Fussbal TV 3 FHD DE" tvg-logo="" group-title="抖音K歌",Fussbal TV 3 FHD DE
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174179
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One UK" tvg-logo="https://picon-13398.kxcdn.com/bbcone.jpg" group-title="抖音K歌",BBC One UK
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/3580
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports1hd.jpg" group-title="抖音K歌",FOX Sports 1 HD US
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9031
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="抖音K歌",FOX Sports 2 HD US
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9030
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg" group-title="抖音K歌",TSN 1 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9032
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn2ca.jpg" group-title="抖音K歌",TSN 2 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9033
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn3ca.jpg" group-title="抖音K歌",TSN 3 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9034
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn4ca.jpg" group-title="抖音K歌",TSN 4 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9035
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn5ca.jpg" group-title="抖音K歌",TSN 5 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9036
 
 
 
@@ -7145,7 +7303,7 @@ https://z3.ubtvfans.com/live/rx5/3193/4ca82b148c5599e6a5407bd3bebfa97c/index.m3u
 #EXTINF:-1 group-title="私密頻道 ADULT",韓國三級 2
 https://z3.ubtvfans.com/live/rx1/3194/649809263cb13995d002d300ff7d9901/index.m3u8
 
-
+http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/6233/manifest.m3u8
 http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/514/index.m3u8
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8
@@ -7354,6 +7512,23 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3965391
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965463
 #EXTINF:-1 group-title="私密頻道 ADULT",LETSDOEIT
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
+
+
+
+#EXTINF:-1 group-title="私密頻道 ADULT",BLACKED
+http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60031
+#EXTINF:-1 group-title="私密頻道 ADULT",FuckingAweSome
+http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60046
+#EXTINF:-1 group-title="私密頻道 ADULT",NewSeneation
+http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60047
+#EXTINF:-1 group-title="私密頻道 ADULT",Japan
+http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60045
+#EXTINF:-1 group-title="私密頻道 ADULT",FILTHYPOV
+http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60044
+#EXTINF:-1 group-title="私密頻道 ADULT",karups
+http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60043
+#EXTINF:-1 group-title="私密頻道 ADULT",Vivid Red HD
+http://88b9da48.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/2162/manifest.m3u8
 
 
 
@@ -20344,7 +20519,122 @@ http://epicboss.live:80/bjune@teksavvy.com/5193594414/54230
 #EXTINF:-1 group-title="夢幻頻道 ADULT",Blacked
 http://epicboss.live:80/bjune@teksavvy.com/5193594414/56369
 
+#EXTINF:-1 group-title="夢幻頻道 ADULT",WMMSC
+https://t0.97img.com/b1000117/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",MSD210
+https://t0.97img.com/a1002305/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",MGL0001
+https://t0.97img.com/a73/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",MGL0002
+https://t0.97img.com/a72/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",MGL0003
+https://t0.97img.com/a71/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",MGL0004
+https://t0.97img.com/a70/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",WMM001
+https://t0.97img.com/a1000097/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",WMM002
+https://t0.97img.com/a1000151/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",MDSR-0005-3
+https://t0.97img.com/a1000438/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C00
+https://t0.97img.com/a1002051/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C01
+https://t0.97img.com/a1002260/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C02
+https://t0.97img.com/a1002220/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C03
+https://t0.97img.com/a1002180/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C04
+https://t0.97img.com/a1002225/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C05
+https://t0.97img.com/a1002250/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C06
+https://t0.97img.com/a1002129/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C07
+https://t0.97img.com/a1002234/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C08
+https://t0.97img.com/a1002089/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C09
+https://t0.97img.com/a1002169/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C10
+https://t0.97img.com/a1001991/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C11
+https://t0.97img.com/a1002008/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C12
+https://t0.97img.com/a1001905/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C13
+https://t0.97img.com/a1002010/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C14
+https://t0.97img.com/a1001688/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C15
+https://t0.97img.com/a1001808/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C16
+https://t0.97img.com/a1001769/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C17
+https://t0.97img.com/a1001885/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C18
+https://t0.97img.com/a1001932/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C19
+https://t0.97img.com/a1001806/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C20
+https://t0.97img.com/a1001805/a.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",C21
+https://t33.cdn2020.com/video/m3u8/2025/12/28/9f171288/index.m3u8
 
+
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D01
+https://t33.cdn2020.com/video/m3u8/2025/10/30/b820f5aa/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D02
+https://t33.cdn2020.com/video/m3u8/2025/10/30/4746c470/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D03
+https://t33.cdn2020.com/video/m3u8/2025/09/20/38a02b14/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D04
+https://t33.cdn2020.com/video/m3u8/2025/08/15/d14f7130/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D05
+https://t33.cdn2020.com/video/m3u8/2025/08/13/f64b1e06/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D06
+https://t30.cdn2020.com/video/m3u8/2025/06/25/bcdec39e/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D07
+https://t30.cdn2020.com/video/m3u8/2025/06/23/5805b011/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D08
+https://t30.cdn2020.com/video/m3u8/2025/06/21/07093916/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D09
+https://t30.cdn2020.com/video/m3u8/2025/06/21/9d1510ea/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D10
+https://t30.cdn2020.com/video/m3u8/2025/06/18/6332ebcc/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D11
+https://t30.cdn2020.com/video/m3u8/2025/06/18/ee1913c0/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D12
+https://t30.cdn2020.com/video/m3u8/2025/06/17/c1eeb8ae/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D13
+https://t30.cdn2020.com/video/m3u8/2025/06/17/baefb6e6/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D14
+https://t30.cdn2020.com/video/m3u8/2025/06/15/e7ab34ca/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D15
+https://t30.cdn2020.com/video/m3u8/2025/06/11/95bad7bb/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D16
+https://t30.cdn2020.com/video/m3u8/2025/06/10/bf6c627e/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D17
+https://t30.cdn2020.com/video/m3u8/2025/06/09/da1ac851/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D18
+https://t30.cdn2020.com/video/m3u8/2025/06/08/5f887038/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D19
+https://t30.cdn2020.com/video/m3u8/2025/06/06/89b09ec5/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D20
+https://t30.cdn2020.com/video/m3u8/2025/06/05/a4c53249/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",D21
+https://t30.cdn2020.com/video/m3u8/2025/06/03/a65a7403/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",F01
+https://t33.cdn2020.com/video/m3u8/2025/12/15/97907b90/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",F02
+https://t33.cdn2020.com/video/m3u8/2025/12/13/507c5557/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",F03
+https://t33.cdn2020.com/video/m3u8/2025/12/11/e239b9e9/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",F04
+https://t33.cdn2020.com/video/m3u8/2025/12/06/4ac8e3ac/index.m3u8
+#EXTINF:-1 group-title="夢幻頻道 ADULT",F05
+https://t33.cdn2020.com/video/m3u8/2025/12/28/eb1d7e72/index.m3u8
 
 
 #EXTM3U
@@ -20352,315 +20642,210 @@ http://epicboss.live:80/bjune@teksavvy.com/5193594414/56369
 
 #EXTINF:-1 tvg-logo="https://raphmx00.com/playboy.jpg" group-title="Canais XXX Adultos", Playboy FHD
 http://s.abapx.in:80/silvana4640/canais9751/147354
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/playboy.jpg" group-title="Canais XXX Adultos", Playboy FHD [Alt]
 http://s.abapx.in:80/silvana4640/canais9751/147749
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/playboy.jpg" group-title="Canais XXX Adultos", Playboy HD
 http://s.abapx.in:80/silvana4640/canais9751/83286
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/playboy.jpg" group-title="Canais XXX Adultos", Playboy HD [Alt]
 http://s.abapx.in:80/silvana4640/canais9751/147750
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/playboy.jpg" group-title="Canais XXX Adultos", Playboy TV SD
 http://s.abapx.in:80/silvana4640/canais9751/83598
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Anal
 http://s.abapx.in:80/silvana4640/canais9751/149398
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Big Ass
 http://s.abapx.in:80/silvana4640/canais9751/149385
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Big Dick
 http://s.abapx.in:80/silvana4640/canais9751/149381
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Big Tits
 http://s.abapx.in:80/silvana4640/canais9751/149382
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Blonde
 http://s.abapx.in:80/silvana4640/canais9751/149401
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Blowjob
 http://s.abapx.in:80/silvana4640/canais9751/149389
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Brunette
 http://s.abapx.in:80/silvana4640/canais9751/149400
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Compilation
 http://s.abapx.in:80/silvana4640/canais9751/149399
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Cuckold
 http://s.abapx.in:80/silvana4640/canais9751/149392
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Fetish
 http://s.abapx.in:80/silvana4640/canais9751/149383
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Gangbang
 http://s.abapx.in:80/silvana4640/canais9751/149397
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Gay
 http://s.abapx.in:80/silvana4640/canais9751/149402
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Hardcore
 http://s.abapx.in:80/silvana4640/canais9751/149391
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Interracial
 http://s.abapx.in:80/silvana4640/canais9751/149386
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Latina
 http://s.abapx.in:80/silvana4640/canais9751/149387
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Lesbian
 http://s.abapx.in:80/silvana4640/canais9751/149395
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Live Cams
 http://s.abapx.in:80/silvana4640/canais9751/149379
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV MILF
 http://s.abapx.in:80/silvana4640/canais9751/149380
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Pornstar
 http://s.abapx.in:80/silvana4640/canais9751/149384
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV POV
 http://s.abapx.in:80/silvana4640/canais9751/149388
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Rough
 http://s.abapx.in:80/silvana4640/canais9751/149396
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Russian
 http://s.abapx.in:80/silvana4640/canais9751/149394
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Teen
 http://s.abapx.in:80/silvana4640/canais9751/149390
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", RedTraffic TV Threesome
 http://s.abapx.in:80/silvana4640/canais9751/149393
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/sextreme.png" group-title="Canais XXX Adultos", Sextreme HD
 http://s.abapx.in:80/silvana4640/canais9751/140651
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/sextreme.png" group-title="Canais XXX Adultos", Sextreme SD
 http://s.abapx.in:80/silvana4640/canais9751/83444
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/sexhot.png" group-title="Canais XXX Adultos", Sexy Hot FHD [Alt]
 http://s.abapx.in:80/silvana4640/canais9751/147753
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/sexhot.png" group-title="Canais XXX Adultos", Sexy Hot HD [Alt]
 http://s.abapx.in:80/silvana4640/canais9751/147754
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais XXX Adultos", VENUS FHD
 http://s.abapx.in:80/silvana4640/canais9751/276478
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais XXX Adultos", VENUS HD
 http://s.abapx.in:80/silvana4640/canais9751/276479
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png" group-title="Canais XXX Adultos", VENUS SD
 http://s.abapx.in:80/silvana4640/canais9751/276480
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/brasileirinhas.jpg" group-title="Canais XXX Adultos", XXX 4K Brasileirinhas: Contos do Big
 http://s.abapx.in:80/silvana4640/canais9751/83765
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/brasileirinhas.jpg" group-title="Canais XXX Adultos", XXX 4K Brasileirinhas: Contos Eróticos
 http://s.abapx.in:80/silvana4640/canais9751/83280
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/brasileirinhas.jpg" group-title="Canais XXX Adultos", XXX A Casa das Brasileirinhas Vol. 62
 http://s.abapx.in:80/silvana4640/canais9751/152671
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/brasileirinhas.jpg" group-title="Canais XXX Adultos", XXX A Casa das Brasileirinhas Vol. 63
 http://s.abapx.in:80/silvana4640/canais9751/152672
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Abella Danger
 http://s.abapx.in:80/silvana4640/canais9751/162851
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Alessandra Marques
 http://s.abapx.in:80/silvana4640/canais9751/162904
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Alexandre Frota
 http://s.abapx.in:80/silvana4640/canais9751/162977
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Aline Rios
 http://s.abapx.in:80/silvana4640/canais9751/162903
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Ana Julia
 http://s.abapx.in:80/silvana4640/canais9751/162906
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Analine
 http://s.abapx.in:80/silvana4640/canais9751/162948
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Asiaticas 01
 http://s.abapx.in:80/silvana4640/canais9751/162976
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Asiaticas 02
 http://s.abapx.in:80/silvana4640/canais9751/162975
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Asiaticas 03
 http://s.abapx.in:80/silvana4640/canais9751/162974
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Asiaticas 04
 http://s.abapx.in:80/silvana4640/canais9751/162973
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 01
 http://s.abapx.in:80/silvana4640/canais9751/162950
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 02
 http://s.abapx.in:80/silvana4640/canais9751/162951
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 03
 http://s.abapx.in:80/silvana4640/canais9751/162952
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 04
 http://s.abapx.in:80/silvana4640/canais9751/162953
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 05
 http://s.abapx.in:80/silvana4640/canais9751/162954
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 06
 http://s.abapx.in:80/silvana4640/canais9751/162955
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 07
 http://s.abapx.in:80/silvana4640/canais9751/162956
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 08
 http://s.abapx.in:80/silvana4640/canais9751/162957
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 09
 http://s.abapx.in:80/silvana4640/canais9751/162958
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 10
 http://s.abapx.in:80/silvana4640/canais9751/162959
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 11
 http://s.abapx.in:80/silvana4640/canais9751/162971
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Brad Montana 12
 http://s.abapx.in:80/silvana4640/canais9751/162972
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais XXX Adultos", XXX Brazzers 01 FHD
 http://s.abapx.in:80/silvana4640/canais9751/151881
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais XXX Adultos", XXX Brazzers 02 FHD
 http://s.abapx.in:80/silvana4640/canais9751/152057
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais XXX Adultos", XXX Brazzers 03 FHD
 http://s.abapx.in:80/silvana4640/canais9751/152058
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais XXX Adultos", XXX Brazzers 04 FHD
 http://s.abapx.in:80/silvana4640/canais9751/152059
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais XXX Adultos", XXX Brazzers 05 FHD
 http://s.abapx.in:80/silvana4640/canais9751/152060
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PF7uqX.png" group-title="Canais XXX Adultos", XXX Brazzers 06 FHD
 http://s.abapx.in:80/silvana4640/canais9751/152061
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Carol Fenix
 http://s.abapx.in:80/silvana4640/canais9751/83290
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Esposa Heyya [amador]
 http://s.abapx.in:80/silvana4640/canais9751/162907
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Fernandinha Fernandez
 http://s.abapx.in:80/silvana4640/canais9751/162905
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Gina Jolie
 http://s.abapx.in:80/silvana4640/canais9751/162908
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Julia Mattos
 http://s.abapx.in:80/silvana4640/canais9751/163032
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Julia Paes
 http://s.abapx.in:80/silvana4640/canais9751/162913
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Julianna Vega
 http://s.abapx.in:80/silvana4640/canais9751/162911
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Loupan
 http://s.abapx.in:80/silvana4640/canais9751/162912
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Manu Fox
 http://s.abapx.in:80/silvana4640/canais9751/83279
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Mia Linz
 http://s.abapx.in:80/silvana4640/canais9751/163033
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Mofos Latina Sex FHD
 http://s.abapx.in:80/silvana4640/canais9751/151325
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Monica Santiago
 http://s.abapx.in:80/silvana4640/canais9751/83620
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Nicolle Bittencourt
 http://s.abapx.in:80/silvana4640/canais9751/83761
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Pamela Pantera
 http://s.abapx.in:80/silvana4640/canais9751/83760
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Rafaela Nakamura
 http://s.abapx.in:80/silvana4640/canais9751/163276
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Rita Cadillac 01
 http://s.abapx.in:80/silvana4640/canais9751/83767
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Rita Cadillac 02
 http://s.abapx.in:80/silvana4640/canais9751/83766
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Show de Bundas 01
 http://s.abapx.in:80/silvana4640/canais9751/83764
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Show de Bundas 02
-http://s.abapx.in:80/silvana4640/canais9751/83763
-
-#EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Thammy Gretchen
+http://s.abapx.in:80/silvana4640/canais9751/83763#EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Thammy Gretchen
 http://s.abapx.in:80/silvana4640/canais9751/162910
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Wanessa Boyer
 http://s.abapx.in:80/silvana4640/canais9751/162949
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX Yara Rocha
 http://s.abapx.in:80/silvana4640/canais9751/163275
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais XXX Adultos", XXX | 4K | BangBros 01
 http://s.abapx.in:80/silvana4640/canais9751/152325
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais XXX Adultos", XXX | 4K | BangBros 02
 http://s.abapx.in:80/silvana4640/canais9751/152326
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais XXX Adultos", XXX | 4K | BangBros 03
 http://s.abapx.in:80/silvana4640/canais9751/152327
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikhZ1kB.png" group-title="Canais XXX Adultos", XXX | 4K | BangBros 04
 http://s.abapx.in:80/silvana4640/canais9751/152328
-
 #EXTINF:-1 tvg-logo="https://raphmx00.com/traffic.png" group-title="Canais XXX Adultos", XXX | 4K | CarnaFunk 2019
 http://s.abapx.in:80/silvana4640/canais9751/162978
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 01
 http://s.abapx.in:80/silvana4640/canais9751/151528
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 02
 http://s.abapx.in:80/silvana4640/canais9751/151675
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 03
 http://s.abapx.in:80/silvana4640/canais9751/151676
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 04
 http://s.abapx.in:80/silvana4640/canais9751/151677
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 05
 http://s.abapx.in:80/silvana4640/canais9751/151678
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 06
 http://s.abapx.in:80/silvana4640/canais9751/151873
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 07
 http://s.abapx.in:80/silvana4640/canais9751/151874
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 08
 http://s.abapx.in:80/silvana4640/canais9751/151875
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 09
 http://s.abapx.in:80/silvana4640/canais9751/151876
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjleFRi.png" group-title="Canais XXX Adultos", XXX | 4K | Holed 10
 http://s.abapx.in:80/silvana4640/canais9751/152062
