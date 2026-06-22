@@ -2153,6 +2153,48 @@ https://hls.iill.top/api/Discovery/playlist.m3u8
 
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
+
+
+
+#EXTINF:-1 group-title="mytv",翡翠台
+http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+#EXTINF:-1 group-title="mytv",翡翠台
+http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+#EXTINF:-1 group-title="mytv",明珠台
+http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
+#EXTINF:-1 group-title="mytv",TVB Plus
+http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+#EXTINF:-1 group-title="mytv",無線新聞
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#EXTINF:-1 group-title="mytv",TVB星河
+http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+#EXTINF:-1 group-title="mytv",華麗翡翠台
+http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+#EXTINF:-1 group-title="mytv",ViuTV
+http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+#EXTINF:-1 group-title="mytv",ViuTVsix
+http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+#EXTINF:-1 group-title="mytv",Now新聞台
+http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+#EXTINF:-1 group-title="mytv",HOY TV
+http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+#EXTINF:-1 group-title="mytv",HOY資訊台
+http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+#EXTINF:-1 group-title="mytv",鳳凰中文
+http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+#EXTINF:-1 group-title="mytv",鳳凰資訊
+http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+#EXTINF:-1 group-title="mytv",鳳凰香港
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+#EXTINF:-1 group-title="mytv",澳視澳門
+http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+#EXTINF:-1 group-title="mytv",澳視衛星
+http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+#EXTINF:-1 group-title="mytv",澳門蓮花
+http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+#EXTINF:-1 group-title="mytv",重溫經典
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="鳳凰中文" group-title="mytv",鳳凰中文
@@ -6469,6 +6511,24 @@ http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9034
 http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9035
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn5ca.jpg" group-title="抖音K歌",TSN 5 HD CA
 http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9036
+
+#EXTINF:-1 group-title="抖音K歌",ELTA体育1台
+https://cdn.dfkj.live/hsywlive.php?id=188
+#EXTINF:-1 group-title="抖音K歌",ELTA体育2台
+https://cdn.dfkj.live/hsywlive.php?id=189
+#EXTINF:-1 group-title="抖音K歌",ELTA体育3台
+https://cdn.dfkj.live/hsywlive.php?id=190
+#EXTINF:-1 group-title="抖音K歌",ELTA体育4
+https://cdn.dfkj.live/hsywlive.php?id=95
+#EXTINF:-1 group-title="抖音K歌",ELTA体育MAX1
+https://cdn.dfkj.live/hsywlive.php?id=66
+#EXTINF:-1 group-title="抖音K歌",ELTA体育MAX2
+https://cdn.dfkj.live/hsywlive.php?id=67
+#EXTINF:-1 group-title="抖音K歌",ELTA体育MAX3
+https://cdn.dfkj.live/hsywlive.php?id=68
+
+
+
 
 
 
