@@ -1275,6 +1275,82 @@
 {"name": "🐍┃tangtang「直播」","type": 0,"ua": "okhttp","url": "https://tangtang.ggff.net/m3u/jtv.m3u"},
 {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
 
+ {
+      "name": "ITV直播",
+      "type": 1,
+      "url": "http://itv.tv1288.xyz/"
+    },
+    {
+      "name": "土豆TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/slasjh/tvlive/refs/heads/main/live.m3u"
+    },
+    {
+      "name": "雨呢TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/lib/iptv.m3u"
+    },
+    {
+      "name": "Collect-IPTV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u"
+    },
+    {
+      "name": "BBXX直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u"
+    },
+    {
+      "name": "GNTV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+    },
+    
+    {
+      "name": "裤佬TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+    },
+    {
+      "name" : "潇雨TV直播",
+      "type" : 1,
+      "url" : "https://itv.tv1288.xyz"
+    },
+    {
+      "name": "日后TV直播",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "涛涛TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png"
+    },
+    {
+      "name": "易发TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+    },
+    {
+      "name": "咪咕TV直播",
+      "type": 0,
+      "url": "https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt"
+    },
+    {
+      "name": "宫殿TV直播",
+      "type": 0,
+      "url": "https://gongdian.top/tv/iptv",
+      "playerType": 1,
+      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+    },
+
+
+
+
 
      {
         "name": "🔞AV1",
