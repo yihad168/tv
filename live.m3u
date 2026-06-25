@@ -4929,6 +4929,12 @@ http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:-1 group-title="DE ✨ WM 2026",台视HD
 http://211.72.174.95:8112/0.ts
 
+#EXTINF:-1 group-title="DE ✨ WM 2026",TSN 1
+http://ip365.cx:80/CBDD6BBD/A58C2D94/1410739
+#EXTINF:-1 group-title="DE ✨ WM 2026",TSN 2
+http://ip365.cx:80/CBDD6BBD/A58C2D94/1410738
+
+
 
 #EXTINF:-1 group-title="DE ✨ WM 2026",FILMBOX
 http://193.239.186.231/FILMBOX/index.m3u8
