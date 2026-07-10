@@ -996,7 +996,8 @@ http://149.100.11.235:8080/ATV/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="台灣" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:-1 group-title="台灣",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
@@ -4066,6 +4067,12 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 #EXTINF:-1 tvg-chno="11" tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="DE ✨ WM 2026",BBC One
 http://193.239.186.231/BBC1/index.m3u8
+
+
+#EXTINF:-1 group-title="DE ✨ WM 2026",BBC One HD UK
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/19176/index.m3u8
+
+
 #EXTINF:-1 group-title="DE ✨ WM 2026",台视HD
 http://211.72.174.95:8112/0.ts
 
@@ -4272,6 +4279,18 @@ http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919188
 #########################################
              體育世界
 #########################################
+
+#EXTINF:-1 group-title="體育世界",Eurosport 1
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/141/index.m3u8
+#EXTINF:-1 group-title="體育世界",Eurosport 2 HD orig
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/5076/index.m3u8
+
+#EXTINF:-1 group-title="體育世界",Setanta Sports 1 HD
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/271/index.m3u8
+#EXTINF:-1 group-title="體育世界",Setanta Sports 2 HD
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/270/index.m3u8
+#EXTINF:-1 group-title="體育世界",Viju+ Sport HD
+http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2007/index.m3u8
 
 
 
