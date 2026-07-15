@@ -40,6 +40,12 @@
       "epg": "http://epg.hackserver.net/epg.php",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+        {
+            "name": "ITV",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/l821706/IPTV/refs/heads/main/IPTV.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
         {
             "name": "簡單ITV",
