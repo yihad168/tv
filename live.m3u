@@ -608,8 +608,9 @@ https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
-
-
+http://line.wow-ott.cc/get.php?username=NDZM6T&password=FNUS78&type=m3u_plus
+https://raw.githubusercontent.com/franksun1211/TXT/refs/heads/main/TVbox/E8jin/NewE8jin-new.json
+https://raw.githubusercontent.com/ajqubbs/zhiboyuan/refs/heads/main/index.php
 https://github.com/cdlongbow/yf2025/blob/main/yiyifafa.txt
 https://raw.githubusercontent.com/pkj99/demo/refs/heads/main/media/movie.m3u
 https://raw.githubusercontent.com/pkj99/demo/refs/heads/main/media/movie-hits.m3u
@@ -2349,44 +2350,68 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 group-title="mytv",翡翠台
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-#EXTINF:-1 group-title="mytv",翡翠台
-http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-#EXTINF:-1 group-title="mytv",明珠台
-http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
-#EXTINF:-1 group-title="mytv",TVB Plus
-http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
-#EXTINF:-1 group-title="mytv",無線新聞
-http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-#EXTINF:-1 group-title="mytv",TVB星河
-http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-#EXTINF:-1 group-title="mytv",華麗翡翠台
-http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-#EXTINF:-1 group-title="mytv",ViuTV
-http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-#EXTINF:-1 group-title="mytv",ViuTVsix
-http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
-#EXTINF:-1 group-title="mytv",Now新聞台
-http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-#EXTINF:-1 group-title="mytv",HOY TV
-http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-#EXTINF:-1 group-title="mytv",HOY資訊台
-http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
-#EXTINF:-1 group-title="mytv",鳳凰中文
-http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-#EXTINF:-1 group-title="mytv",鳳凰資訊
-http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-#EXTINF:-1 group-title="mytv",鳳凰香港
-http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-#EXTINF:-1 group-title="mytv",澳視澳門
-http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-#EXTINF:-1 group-title="mytv",澳視衛星
-http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-#EXTINF:-1 group-title="mytv",澳門蓮花
-http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-#EXTINF:-1 group-title="mytv",重溫經典
-http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+
+#EXTINF:-1 group-title="mytv",翡翠台@
+http://c.123.rr.kg/163189/fct
+#EXTINF:-1 group-title="mytv",華麗翡翠台(硬字幕)@
+http://c.123.rr.kg/163189/jade
+#EXTINF:-1 group-title="mytv",無線新聞台@
+http://c.123.rr.kg/163189/wxxw
+#EXTINF:-1 group-title="mytv",HOY TV@
+http://c.123.rr.kg/163189/hoy
+#EXTINF:-1 group-title="mytv",鳳凰中文@
+http://c.123.rr.kg/163189/fhzw
+#EXTINF:-1 group-title="mytv",鳳凰資訊@
+http://c.123.rr.kg/163189/fhzx
+#EXTINF:-1 group-title="mytv",鳳凰香港@
+http://c.123.rr.kg/163189/fhhk
+#EXTINF:-1 group-title="mytv",CCTV1港澳版@
+http://c.123.rr.kg/163189/cctv1
+#EXTINF:-1 group-title="mytv",澳視澳門@
+http://c.123.rr.kg/163189/asam
+#EXTINF:-1 group-title="mytv",澳視衛星@
+http://c.123.rr.kg/163189/as
+#EXTINF:-1 group-title="mytv",澳門體育@
+http://c.123.rr.kg/163189/amty
+#EXTINF:-1 group-title="mytv",澳門綜藝@
+http://c.123.rr.kg/163189/amzy
+#EXTINF:-1 group-title="mytv",澳門蓮花@
+http://c.123.rr.kg/163189/amlh
+#EXTINF:-1 group-title="mytv",重溫經典@
+http://c.123.rr.kg/163189/cwjd
+#EXTINF:-1 group-title="mytv",TVB1@
+http://c.123.rr.kg/163189/tvb1
+#EXTINF:-1 group-title="mytv",TVBJ1@
+http://c.123.rr.kg/163189/j1
+#EXTINF:-1 group-title="mytv",翡翠劇集台@
+http://c.123.rr.kg/163189/tvbd
+#EXTINF:-1 group-title="mytv",八度空間@
+http://c.123.rr.kg/163189/8tv
+#EXTINF:-1 group-title="mytv",CH5@
+http://c.123.rr.kg/163189/ch5
+#EXTINF:-1 group-title="mytv",CH8@
+http://c.123.rr.kg/163189/ch8
+#EXTINF:-1 group-title="mytv",CHU@
+http://c.123.rr.kg/163189/chu
+#EXTINF:-1 group-title="mytv",華麗翡翠台@
+http://c.123.rr.kg/163189/hlfct
+#EXTINF:-1 group-title="mytv",TVB亞洲武俠@
+http://c.123.rr.kg/163189/yzwx
+#EXTINF:-1 group-title="mytv",TVB娛樂新聞台@
+http://c.123.rr.kg/163189/ylxw
+#EXTINF:-1 group-title="mytv",無線新聞台@
+http://c.123.rr.kg/163189/wxxwt
+#EXTINF:-1 group-title="mytv",TVB星河@
+http://c.123.rr.kg/163189/tvbxh
+#EXTINF:-1 group-title="mytv",重溫經典@
+http://f.123.rr.kg/163189/cwjd
+#EXTINF:-1 group-title="mytv",海峽衛視@
+http://f.123.rr.kg/163189/hxws
+#EXTINF:-1 group-title="mytv",廣州綜合@
+http://f.123.rr.kg/163189/gzzh
+#EXTINF:-1 group-title="mytv",廣州新聞@
+http://f.123.rr.kg/163189/gzxw
+
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
@@ -4492,11 +4517,223 @@ https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b5
 https://raw.githubusercontent.com/alenin-zhang/KDS/refs/heads/main/91kds.txt
 
 
+#EXTM3U
+#EXTINF:-1 group-title="國際",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="國際",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="國際",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="國際",GB News
+https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="國際",ABC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 group-title="國際",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="國際",TV Brics
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="國際",France24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="國際",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 group-title="國際",Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 group-title="國際",Al Jazeera
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="國際",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="國際",NEWSMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:-1 tvg-id="GBBD4900001RG" tvg-name="Reuters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="國際",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 group-title="國際",Global News
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 group-title="國際",NBC News Now
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:-1 group-title="國際",One American News 
+https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="國際",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="國際",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="國際",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="國際",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="國際",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+#EXTINF:-1 group-title="國際",Redbull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="國際",HollyWire
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:-1 group-title="國際",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="國際",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="國際",Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="國際",Mytime Movie
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="國際",BBC Earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+#EXTINF:-1 group-title="國際",The First
+https://thefirst-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="國際",Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="國際",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 group-title="國際",History Hit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="國際",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB3200030CG" tvg-name="Universal Movies" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025._SL170_FMpng_.png" group-title="國際",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
+#EXTINF:-1 tvg-id="99951254" tvg-name="Universal Action" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_action_us._SL170_FMpng_.png" group-title="國際",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
+#EXTINF:-1 tvg-id="99951255" tvg-name="Universal Western" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Westerns_FAST_TitleArt_White._SL170_FMpng_.png" group-title="國際",Universal Western
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
+#EXTINF:-1 tvg-id="99951245" tvg-name="Universal Crime" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White._SL170_FMpng_.png" group-title="國際",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+#EXTINF:-1 tvg-id="US25000063S" tvg-name="CW Gold" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" group-title="國際",CW Gold
+https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
+#EXTINF:-1 tvg-id="US25000075Y" tvg-name="CW Forever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png" group-title="國際",CW Forever
+https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
+#EXTINF:-1 group-title="國際",Sony One Action HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="國際",Sony One Comedy HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="國際",Top Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 group-title="國際",Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="國際",Comedy Movies
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="國際",Thrillers
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=thriller-rakuten-tv_uk&ads.rtv_content_id=6482&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6482&disable_subtitles=true&publishing_platform_id=2
+#EXTINF:-1 group-title="國際",Sci-Fi
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_uk&ads.rtv_content_id=6241&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6241&disable_subtitles=true&publishing_platform_id=2
+#EXTINF:-1 group-title="國際",Romance Movies
+https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.content_livestream=0&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=uk&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=romance-rakuten-tv_uk&ads.rtv_content_id=6194&ads.rtv_language=en&ads.viewsize=[VIEWSIZE]&channel_id=6194&disable_subtitles=true&publishing_platform_id=2
+#EXTINF:-1 group-title="國際",Drama Movies
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="國際",Thriller TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="國際",Comedy TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="國際",Sony One FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="國際",Sony One Dragons' Den
+https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+#EXTINF:-1 group-title="國際",Great British Menu
+https://7ed93f662af44c2e9bdf93b56464f6a8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-gb_GreatBritishMenu/playlist.m3u8
+#EXTINF:-1 group-title="國際",Icon Film Channel
+https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
+#EXTINF:-1 group-title="國際",Popflix
+https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
+#EXTINF:-1 group-title="國際",LG 1 Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 group-title="國際",LG 1 Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 group-title="國際",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 group-title="國際",GoUSA TV
+https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
+#EXTINF:-1 group-title="國際",Inside Outside
+https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+#EXTINF:-1 group-title="國際",SBS Drama
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 group-title="國際",New Kmovies
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 group-title="國際",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 group-title="國際",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="國際",Showtime Extreme
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="國際",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="國際",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="國際",Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-name="Action Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="國際",Action Movies 
+https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/8e7f1d8c-5ba7-4dde-9834-b058e17f6bfe/4.m3u8
+#EXTINF:-1 tvg-id="GB2600020OP" tvg-name="Comedy Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png" group-title="國際",Comedy Movies  
+https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8
+#EXTINF:-1 tvg-id="GB2600012R3" tvg-name="Drama Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20241022T043418SQUARE.png" group-title="國際",Drama Movies 
+https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
+#EXTINF:-1 tvg-id="GB2600014LQ" tvg-name="Romance Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png" group-title="國際",Romance Movies 
+https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
+#EXTINF:-1 tvg-id="GB2600013BO" tvg-name="Sci-Fi - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="國際",Sci-Fi  
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
+#EXTINF:-1 tvg-id="GB4100003VP" tvg-name="Thrillers - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="國際",Thrillers  
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
+#EXTINF:-1 tvg-id="GB2600018PD" tvg-name="Top Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="國際",Top Movies  
+https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
+#EXTINF:-1 tvg-id="GB2600021LP" tvg-name="Reality - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png" group-title="國際",Reality  
+https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="國際",Family  
+https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
+#EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="beIN SPORTS XTRA" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/168x168.png?type=color_onBlack" group-title="國際",beIN SPORTS XTRA
+https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
+#EXTINF:-1 tvg-id="US2900017P2" tvg-name="UFC" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/ufc/channels/ufc-domestic400x200.png" group-title="國際",UFC
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+
+
+
 #########################################
              NEWS
 #########################################
 
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/others_output.txt
+
+
+#EXTINF:-1 group-title="WORLD NEWS",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",GB News
+https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",ABC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 group-title="WORLD NEWS",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",TV Brics
+https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",France24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",Al Jazeera
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",NEWSMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:-1 tvg-id="GBBD4900001RG" tvg-name="Reuters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="WORLD NEWS",Reuters
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",Global News
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",NBC News Now
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",One American News 
+https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="WORLD NEWS",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+
+
 
 #EXTINF:-1 group-title="WORLD NEWS",NHK World Japan
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/217233
@@ -4514,17 +4751,23 @@ http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/256357
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/256362
 #EXTINF:-1 group-title="WORLD NEWS",TV5 MONDE
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/256355
-
-
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="Globo News HD" tvg-logo="http://cdn4k.net/logos/globo.png" group-title="WORLD NEWS",Globo News HD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/6569
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="Record News HD" tvg-logo="http://cdn4k.net/logos/recordnews.png" group-title="WORLD NEWS",Record News HD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/6893
-
 #EXTINF:-1 group-title="WORLD NEWS",Universal Reality FHD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/256371
 #EXTINF:-1 tvg-id="FUTURA HD" tvg-name="Futura HD" tvg-logo="http://cdn4k.net/logos/futura.png" group-title="WORLD NEWS",Futura HD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/10805
+
+
+
+
+
+#########################################
+             越南
+#########################################
+
 
 
 
@@ -4544,8 +4787,14 @@ http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/6478
 #EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SporTV 4 HD" tvg-logo="http://cdn4k.net/logos/SPORTV4.png" group-title="體育世界",SporTV 4 HD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/253831
 
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5
-http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="體育世界",CCTV5
+https://cdn.qd.je/163189.php?id=cctv5
+#EXTINF:-1 group-title="體育世界",CCTV5+
+https://cdn.qd.je/163189.php?id=cctv5p
+#EXTINF:-1 group-title="體育世界",CCTV5
+http://f.123.rr.kg/163189/cctv5
+#EXTINF:-1 group-title="體育世界",CCTV5+
+http://f.123.rr.kg/163189/cctv5p
 
 #EXTINF:-1 group-title="體育世界",ASTRO Football
 https://tv.media4u.top:443/live/media4u/media4u/995128
@@ -4595,9 +4844,6 @@ https://tv.media4u.top:443/live/media4u/media4u/147570
 https://tv.media4u.top:443/live/media4u/media4u/648805
 
 
-
-
-
 #EXTINF:-1 tvg-name="Fussbal TV 1 FHD DE" tvg-logo="" group-title="體育世界",Fussbal TV 1 FHD DE
 http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174175
 #EXTINF:-1 tvg-name="Fussbal TV 2 FHD DE" tvg-logo="" group-title="體育世界",Fussbal TV 2 FHD DE
@@ -4623,13 +4869,32 @@ http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9036
 
 
 
-
-
-
-
 #########################################
               音樂世界
 #########################################
+
+
+#EXTINF:-1 group-title="音樂世界",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="音樂世界",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="音樂世界",Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yo8lEu1.png" group-title="音樂世界",Now 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="音樂世界",Now Rock
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=-OcqsE4KHG7Vg4O2nBCG5w&e=2080470081&scheme=https
+
+
+
+
+#EXTINF:-1 group-title="音樂世界",Fashion TV
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="音樂世界",FON Music
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v2a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 
 
 
@@ -6587,10 +6852,9 @@ http://125.227.210.55:3033/VideoInput/play.ts
 http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="私密頻道 ADULT",俄羅斯極限電影
 http://ef90a6cd.rossteleccom.net/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/14158/index.m3u8
-#EXTINF:-1 group-title="私密頻道 ADULT",探花視頻24小時播放
-http://bo.xn--zwtw53a.com/live/cx_15710.flv
 #EXTINF:-1 group-title="私密頻道 ADULT",BRAZZERS
 http://193.239.186.231/BRAZZERS/index.m3u8
+
 
 #EXTINF:-1 group-title="私密頻道 ADULT",JGIRL(Z88)
 http://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
@@ -16717,173 +16981,176 @@ http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/373540.mp4
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/373539.mp4
 #EXTINF:-1 tvg-name="Bella Da Semana Vitoria Osorio Part 2" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ BELAS DA SEMANA",Bella Da Semana Vitoria Osorio Part 2
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/373538.mp4
-#EXTINF:-1 tvg-name="Pov Fodendo Com a Violet Myers Waifu Em Sexo Amador" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Pov Fodendo Com a Violet Myers Waifu Em Sexo Amador
+
+
+
+#EXTINF:-1 tvg-name="Pov Fodendo Com a Violet Myers Waifu Em Sexo Amador" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Pov Fodendo Com a Violet Myers Waifu Em Sexo Amador
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349116.mp4
-#EXTINF:-1 tvg-name="Sexo Proibido no Trabalho Enquanto Chefe Espera no Corredor" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Proibido no Trabalho Enquanto Chefe Espera no Corredor
+#EXTINF:-1 tvg-name="Sexo Proibido no Trabalho Enquanto Chefe Espera no Corredor" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Proibido no Trabalho Enquanto Chefe Espera no Corredor
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345735.mp4
-#EXTINF:-1 tvg-name="Professor e Alunas Virou Suruba na Aula de Yoga" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Professor e Alunas Virou Suruba na Aula de Yoga
+#EXTINF:-1 tvg-name="Professor e Alunas Virou Suruba na Aula de Yoga" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Professor e Alunas Virou Suruba na Aula de Yoga
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345734.mp4
-#EXTINF:-1 tvg-name="Trisal Marido Pegou no Flagra Sua Assistente e Esposa Transando" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Trisal Marido Pegou no Flagra Sua Assistente e Esposa Transando
+#EXTINF:-1 tvg-name="Trisal Marido Pegou no Flagra Sua Assistente e Esposa Transando" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Trisal Marido Pegou no Flagra Sua Assistente e Esposa Transando
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345733.mp4
-#EXTINF:-1 tvg-name="Meia Irma Arma Plano Anal Pra Transar Com Meio Irmao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Meia Irma Arma Plano Anal Pra Transar Com Meio Irmao
+#EXTINF:-1 tvg-name="Meia Irma Arma Plano Anal Pra Transar Com Meio Irmao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Meia Irma Arma Plano Anal Pra Transar Com Meio Irmao
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345732.mp4
-#EXTINF:-1 tvg-name="Sexo Escondido Com Empregada Virou Trisal Depois Que Namorada Pegou no Flagra" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Escondido Com Empregada Virou Trisal Depois Que Namorada Pegou no Flagra
+#EXTINF:-1 tvg-name="Sexo Escondido Com Empregada Virou Trisal Depois Que Namorada Pegou no Flagra" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Escondido Com Empregada Virou Trisal Depois Que Namorada Pegou no Flagra
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345731.mp4
-#EXTINF:-1 tvg-name="Doutora Safada Ensina Paciente Tarado a Nao Gozar Rapido" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Doutora Safada Ensina Paciente Tarado a Nao Gozar Rapido
+#EXTINF:-1 tvg-name="Doutora Safada Ensina Paciente Tarado a Nao Gozar Rapido" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Doutora Safada Ensina Paciente Tarado a Nao Gozar Rapido
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345730.mp4
-#EXTINF:-1 tvg-name="Minha Madrasta e Atriz Porno e Me Transformou Em Ator Porno" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Minha Madrasta e Atriz Porno e Me Transformou Em Ator Porno
+#EXTINF:-1 tvg-name="Minha Madrasta e Atriz Porno e Me Transformou Em Ator Porno" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Minha Madrasta e Atriz Porno e Me Transformou Em Ator Porno
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345729.mp4
-#EXTINF:-1 tvg-name="Professoras Peitudas Transando Com Aluno Engracadinho Castigo" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Professoras Peitudas Transando Com Aluno Engracadinho Castigo
+#EXTINF:-1 tvg-name="Professoras Peitudas Transando Com Aluno Engracadinho Castigo" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Professoras Peitudas Transando Com Aluno Engracadinho Castigo
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345728.mp4
-#EXTINF:-1 tvg-name="Sexo Com Fa Atriz Famosa Realizar Fantasia Transando no Camarim" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Fa Atriz Famosa Realizar Fantasia Transando no Camarim
+#EXTINF:-1 tvg-name="Sexo Com Fa Atriz Famosa Realizar Fantasia Transando no Camarim" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Fa Atriz Famosa Realizar Fantasia Transando no Camarim
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/346405.mp4
-#EXTINF:-1 tvg-name="Sexo Com Cunhada Vingativa Nao Da Tregua Com Provocacoes" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Cunhada Vingativa Nao Da Tregua Com Provocacoes
+#EXTINF:-1 tvg-name="Sexo Com Cunhada Vingativa Nao Da Tregua Com Provocacoes" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Cunhada Vingativa Nao Da Tregua Com Provocacoes
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/346404.mp4
-#EXTINF:-1 tvg-name="Pegou Namorada Chupando Seu Filho Mostrou Quem e Que Manda" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Pegou Namorada Chupando Seu Filho Mostrou Quem e Que Manda
+#EXTINF:-1 tvg-name="Pegou Namorada Chupando Seu Filho Mostrou Quem e Que Manda" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Pegou Namorada Chupando Seu Filho Mostrou Quem e Que Manda
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/346403.mp4
-#EXTINF:-1 tvg-name="Esposa Transou Escondido Com Mecanico Escondido na Garagem" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Esposa Transou Escondido Com Mecanico Escondido na Garagem
+#EXTINF:-1 tvg-name="Esposa Transou Escondido Com Mecanico Escondido na Garagem" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Esposa Transou Escondido Com Mecanico Escondido na Garagem
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/346402.mp4
-#EXTINF:-1 tvg-name="Sexo Anal Intenso Com Madrasta Milf Apos Reabilitacao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Anal Intenso Com Madrasta Milf Apos Reabilitacao
+#EXTINF:-1 tvg-name="Sexo Anal Intenso Com Madrasta Milf Apos Reabilitacao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Anal Intenso Com Madrasta Milf Apos Reabilitacao
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/347568.mp4
-#EXTINF:-1 tvg-name="Show Adulto Que Ensinar Tudo o Que Seus Pais Nao Te Ensinaram" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Show Adulto Que Ensinar Tudo o Que Seus Pais Nao Te Ensinaram
+#EXTINF:-1 tvg-name="Show Adulto Que Ensinar Tudo o Que Seus Pais Nao Te Ensinaram" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Show Adulto Que Ensinar Tudo o Que Seus Pais Nao Te Ensinaram
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/347567.mp4
-#EXTINF:-1 tvg-name="Alta Fidelidade Part 1 Sexo Intenso Revivendo Lembrancas Com Ex" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Alta Fidelidade Part 1 Sexo Intenso Revivendo Lembrancas Com Ex
+#EXTINF:-1 tvg-name="Alta Fidelidade Part 1 Sexo Intenso Revivendo Lembrancas Com Ex" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Alta Fidelidade Part 1 Sexo Intenso Revivendo Lembrancas Com Ex
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/347566.mp4
-#EXTINF:-1 tvg-name="Professora de Yoga Ensina Sexo a Reporter Curiosa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Professora de Yoga Ensina Sexo a Reporter Curiosa
+#EXTINF:-1 tvg-name="Professora de Yoga Ensina Sexo a Reporter Curiosa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Professora de Yoga Ensina Sexo a Reporter Curiosa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/347565.mp4
-#EXTINF:-1 tvg-name="Sexo Com Familia Nudista do Namorado Em Sessao de Fotos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Familia Nudista do Namorado Em Sessao de Fotos
+#EXTINF:-1 tvg-name="Sexo Com Familia Nudista do Namorado Em Sessao de Fotos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Familia Nudista do Namorado Em Sessao de Fotos
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/347564.mp4
-#EXTINF:-1 tvg-name="Sexo Em Troca dos Deveres de Casa Com Casal" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Em Troca dos Deveres de Casa Com Casal
+#EXTINF:-1 tvg-name="Sexo Em Troca dos Deveres de Casa Com Casal" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Em Troca dos Deveres de Casa Com Casal
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/347563.mp4
-#EXTINF:-1 tvg-name="Transando Com o Pai do Namorado Experimentando as Coisas Novas" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Transando Com o Pai do Namorado Experimentando as Coisas Novas
+#EXTINF:-1 tvg-name="Transando Com o Pai do Namorado Experimentando as Coisas Novas" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Transando Com o Pai do Namorado Experimentando as Coisas Novas
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349125.mp4
-#EXTINF:-1 tvg-name="Sexo no Natal Mae e Filha Fazendo Um Irmaozinho" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo no Natal Mae e Filha Fazendo Um Irmaozinho
+#EXTINF:-1 tvg-name="Sexo no Natal Mae e Filha Fazendo Um Irmaozinho" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo no Natal Mae e Filha Fazendo Um Irmaozinho
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349124.mp4
-#EXTINF:-1 tvg-name="Sexo Explicito Com Bunda Grande Em Dose Dupla" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Explicito Com Bunda Grande Em Dose Dupla
+#EXTINF:-1 tvg-name="Sexo Explicito Com Bunda Grande Em Dose Dupla" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Explicito Com Bunda Grande Em Dose Dupla
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349123.mp4
-#EXTINF:-1 tvg-name="Paciente Peituda e Medico Safado no Exame Intimo Ginecologico" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Paciente Peituda e Medico Safado no Exame Intimo Ginecologico
+#EXTINF:-1 tvg-name="Paciente Peituda e Medico Safado no Exame Intimo Ginecologico" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Paciente Peituda e Medico Safado no Exame Intimo Ginecologico
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349122.mp4
-#EXTINF:-1 tvg-name="Jantar Safado da Vovo Transou Com Namorados dos Netos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Jantar Safado da Vovo Transou Com Namorados dos Netos
+#EXTINF:-1 tvg-name="Jantar Safado da Vovo Transou Com Namorados dos Netos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Jantar Safado da Vovo Transou Com Namorados dos Netos
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349121.mp4
-#EXTINF:-1 tvg-name="Sexo Lesbico Em Familia Com as Tias de Consideracao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Lesbico Em Familia Com as Tias de Consideracao
+#EXTINF:-1 tvg-name="Sexo Lesbico Em Familia Com as Tias de Consideracao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Lesbico Em Familia Com as Tias de Consideracao
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349120.mp4
-#EXTINF:-1 tvg-name="Noite de Sexo Proibido no Jantar Com Amigos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Noite de Sexo Proibido no Jantar Com Amigos
+#EXTINF:-1 tvg-name="Noite de Sexo Proibido no Jantar Com Amigos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Noite de Sexo Proibido no Jantar Com Amigos
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349119.mp4
-#EXTINF:-1 tvg-name="Sexo e Romance Com a Vizinha Que Me Arruinou" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo e Romance Com a Vizinha Que Me Arruinou
+#EXTINF:-1 tvg-name="Sexo e Romance Com a Vizinha Que Me Arruinou" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo e Romance Com a Vizinha Que Me Arruinou
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349118.mp4
-#EXTINF:-1 tvg-name="Continuando Tradicao Proibida de Aniversario de 18 Anos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Continuando Tradicao Proibida de Aniversario de 18 Anos
+#EXTINF:-1 tvg-name="Continuando Tradicao Proibida de Aniversario de 18 Anos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Continuando Tradicao Proibida de Aniversario de 18 Anos
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/349117.mp4
-#EXTINF:-1 tvg-name="Primeira Vez da Melissa Stratton Em Filme Porno Profissional" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Primeira Vez da Melissa Stratton Em Filme Porno Profissional
+#EXTINF:-1 tvg-name="Primeira Vez da Melissa Stratton Em Filme Porno Profissional" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Primeira Vez da Melissa Stratton Em Filme Porno Profissional
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350221.mp4
-#EXTINF:-1 tvg-name="Violet Myers Gostosa Fodendo Com Cada Centimetro do Bbc" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Violet Myers Gostosa Fodendo Com Cada Centimetro do Bbc
+#EXTINF:-1 tvg-name="Violet Myers Gostosa Fodendo Com Cada Centimetro do Bbc" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Violet Myers Gostosa Fodendo Com Cada Centimetro do Bbc
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350220.mp4
-#EXTINF:-1 tvg-name="Sexo na Massagem Com Tratamento Facil" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo na Massagem Com Tratamento Facil
+#EXTINF:-1 tvg-name="Sexo na Massagem Com Tratamento Facil" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo na Massagem Com Tratamento Facil
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350219.mp4
-#EXTINF:-1 tvg-name="Bridgette b Esposa Traindo o Marido Com Cunhado" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Bridgette b Esposa Traindo o Marido Com Cunhado
+#EXTINF:-1 tvg-name="Bridgette b Esposa Traindo o Marido Com Cunhado" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Bridgette b Esposa Traindo o Marido Com Cunhado
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350218.mp4
-#EXTINF:-1 tvg-name="Sexo por Vinganca e Prato Que Serve Melhor Em Negro" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo por Vinganca e Prato Que Serve Melhor Em Negro
+#EXTINF:-1 tvg-name="Sexo por Vinganca e Prato Que Serve Melhor Em Negro" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo por Vinganca e Prato Que Serve Melhor Em Negro
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350217.mp4
-#EXTINF:-1 tvg-name="Casal Grava Sexo Explicito Com Corretora de Imovel na Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Casal Grava Sexo Explicito Com Corretora de Imovel na Casa
+#EXTINF:-1 tvg-name="Casal Grava Sexo Explicito Com Corretora de Imovel na Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Casal Grava Sexo Explicito Com Corretora de Imovel na Casa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350216.mp4
-#EXTINF:-1 tvg-name="Sexo a Tres Lena Paul e Deixava na Mao e Aproveita Dois Bbcs Sozinha" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo a Tres Lena Paul e Deixava na Mao e Aproveita Dois Bbcs Sozinha
+#EXTINF:-1 tvg-name="Sexo a Tres Lena Paul e Deixava na Mao e Aproveita Dois Bbcs Sozinha" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo a Tres Lena Paul e Deixava na Mao e Aproveita Dois Bbcs Sozinha
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350215.mp4
-#EXTINF:-1 tvg-name="Sexo Com Peitudas Alyx Starr e Skylar Snow Em Hardcor" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Peitudas Alyx Starr e Skylar Snow Em Hardcor
+#EXTINF:-1 tvg-name="Sexo Com Peitudas Alyx Starr e Skylar Snow Em Hardcor" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Peitudas Alyx Starr e Skylar Snow Em Hardcor
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350214.mp4
-#EXTINF:-1 tvg-name="Violet Myers Faz Sexo Com Seguranca Como Forma de Agradecimento" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Violet Myers Faz Sexo Com Seguranca Como Forma de Agradecimento
+#EXTINF:-1 tvg-name="Violet Myers Faz Sexo Com Seguranca Como Forma de Agradecimento" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Violet Myers Faz Sexo Com Seguranca Como Forma de Agradecimento
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350213.mp4
-#EXTINF:-1 tvg-name="Sexo Durante a Entrevista de Emprego Com Colegas de Quarto" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Durante a Entrevista de Emprego Com Colegas de Quarto
+#EXTINF:-1 tvg-name="Sexo Durante a Entrevista de Emprego Com Colegas de Quarto" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Durante a Entrevista de Emprego Com Colegas de Quarto
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/350212.mp4
-#EXTINF:-1 tvg-name="Mae Transando Com Namorado da Filha Escondido Pela Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Mae Transando Com Namorado da Filha Escondido Pela Casa
+#EXTINF:-1 tvg-name="Mae Transando Com Namorado da Filha Escondido Pela Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Mae Transando Com Namorado da Filha Escondido Pela Casa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345818.mp4
-#EXTINF:-1 tvg-name="Esposa Fez Sexo Com Professor de Yoga Que Marido Contratou" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Esposa Fez Sexo Com Professor de Yoga Que Marido Contratou
+#EXTINF:-1 tvg-name="Esposa Fez Sexo Com Professor de Yoga Que Marido Contratou" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Esposa Fez Sexo Com Professor de Yoga Que Marido Contratou
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/345817.mp4
-#EXTINF:-1 tvg-name="Violet Myers Faz Sexo Interracial Essa Noite e Toda Sua" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Violet Myers Faz Sexo Interracial Essa Noite e Toda Sua
+#EXTINF:-1 tvg-name="Violet Myers Faz Sexo Interracial Essa Noite e Toda Sua" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Violet Myers Faz Sexo Interracial Essa Noite e Toda Sua
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353453.mp4
-#EXTINF:-1 tvg-name="Sexo Com Meia Irma Megan Desvendando os Segredos Molhados" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Meia Irma Megan Desvendando os Segredos Molhados
+#EXTINF:-1 tvg-name="Sexo Com Meia Irma Megan Desvendando os Segredos Molhados" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Meia Irma Megan Desvendando os Segredos Molhados
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353452.mp4
-#EXTINF:-1 tvg-name="Sexo e Traicao Violet Myers Experimentando o Namorado da Cunhada" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo e Traicao Violet Myers Experimentando o Namorado da Cunhada
+#EXTINF:-1 tvg-name="Sexo e Traicao Violet Myers Experimentando o Namorado da Cunhada" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo e Traicao Violet Myers Experimentando o Namorado da Cunhada
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353451.mp4
-#EXTINF:-1 tvg-name="Kelsi Monroe Encara 4 Paus Transou Dentro da Van" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Kelsi Monroe Encara 4 Paus Transou Dentro da Van
+#EXTINF:-1 tvg-name="Kelsi Monroe Encara 4 Paus Transou Dentro da Van" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Kelsi Monroe Encara 4 Paus Transou Dentro da Van
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353450.mp4
-#EXTINF:-1 tvg-name="Bridgette b Transa Com o Marido da Melhor Amiga" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Bridgette b Transa Com o Marido da Melhor Amiga
+#EXTINF:-1 tvg-name="Bridgette b Transa Com o Marido da Melhor Amiga" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Bridgette b Transa Com o Marido da Melhor Amiga
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353449.mp4
-#EXTINF:-1 tvg-name="Boquete da Madrasta Precisando de Atencao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Boquete da Madrasta Precisando de Atencao
+#EXTINF:-1 tvg-name="Boquete da Madrasta Precisando de Atencao" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Boquete da Madrasta Precisando de Atencao
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353448.mp4
-#EXTINF:-1 tvg-name="Doutor e Enfermeira Dominadores Transam Com Paciente Submissa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Doutor e Enfermeira Dominadores Transam Com Paciente Submissa
+#EXTINF:-1 tvg-name="Doutor e Enfermeira Dominadores Transam Com Paciente Submissa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Doutor e Enfermeira Dominadores Transam Com Paciente Submissa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353447.mp4
-#EXTINF:-1 tvg-name="Sexo Com Vizinho Tratando Ela da Forma Certa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Vizinho Tratando Ela da Forma Certa
+#EXTINF:-1 tvg-name="Sexo Com Vizinho Tratando Ela da Forma Certa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Vizinho Tratando Ela da Forma Certa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353446.mp4
-#EXTINF:-1 tvg-name="Sexo Com a Nova Vizinha dos Peitoes" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com a Nova Vizinha dos Peitoes
+#EXTINF:-1 tvg-name="Sexo Com a Nova Vizinha dos Peitoes" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com a Nova Vizinha dos Peitoes
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353445.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Tira o Estresse Fodendo o Enteado" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Tira o Estresse Fodendo o Enteado
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Tira o Estresse Fodendo o Enteado" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Tira o Estresse Fodendo o Enteado
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/353444.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Querendo Viralizar No Instagram" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Querendo Viralizar No Instagram
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Querendo Viralizar No Instagram" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Querendo Viralizar No Instagram
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365109.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Enteado Tomou Viagra Do Papai Por Engano" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Enteado Tomou Viagra Do Papai Por Engano
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Enteado Tomou Viagra Do Papai Por Engano" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Enteado Tomou Viagra Do Papai Por Engano
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365108.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Dieta Do Semen Direto Da Fonte" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Dieta Do Semen Direto Da Fonte
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Dieta Do Semen Direto Da Fonte" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Dieta Do Semen Direto Da Fonte
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365107.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Enquanto Ela Esta Falando No Celular Com Meu Pai" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Enquanto Ela Esta Falando No Celular Com Meu Pai
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Enquanto Ela Esta Falando No Celular Com Meu Pai" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Enquanto Ela Esta Falando No Celular Com Meu Pai
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365106.mp4
-#EXTINF:-1 tvg-name="Sexo Em Familia Fazendo Live Ao Vivo Na Webcam" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Em Familia Fazendo Live Ao Vivo Na Webcam
+#EXTINF:-1 tvg-name="Sexo Em Familia Fazendo Live Ao Vivo Na Webcam" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Em Familia Fazendo Live Ao Vivo Na Webcam
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365105.mp4
-#EXTINF:-1 tvg-name="Sexo Lesbico Tirando A Virgindade Da Amiga Antes Do Apocalipse Zumbi" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Lesbico Tirando A Virgindade Da Amiga Antes Do Apocalipse Zumbi
+#EXTINF:-1 tvg-name="Sexo Lesbico Tirando A Virgindade Da Amiga Antes Do Apocalipse Zumbi" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Lesbico Tirando A Virgindade Da Amiga Antes Do Apocalipse Zumbi
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365104.mp4
-#EXTINF:-1 tvg-name="Sexo Com Minha Professora Safada Fodendo E Gozando Dentro" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Minha Professora Safada Fodendo E Gozando Dentro
+#EXTINF:-1 tvg-name="Sexo Com Minha Professora Safada Fodendo E Gozando Dentro" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Minha Professora Safada Fodendo E Gozando Dentro
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365103.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Enteado Ser Tornando O Homem Da Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Enteado Ser Tornando O Homem Da Casa
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Enteado Ser Tornando O Homem Da Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Enteado Ser Tornando O Homem Da Casa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365102.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Enquanto Papai Esta Assistindo Tv Distraido" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Enquanto Papai Esta Assistindo Tv Distraido
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Enquanto Papai Esta Assistindo Tv Distraido" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Enquanto Papai Esta Assistindo Tv Distraido
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365101.mp4
-#EXTINF:-1 tvg-name="Sexo Com Tios E Sobrinha Morando Com Os Tios Liberais" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Tios E Sobrinha Morando Com Os Tios Liberais
+#EXTINF:-1 tvg-name="Sexo Com Tios E Sobrinha Morando Com Os Tios Liberais" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Tios E Sobrinha Morando Com Os Tios Liberais
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/365100.mp4
-#EXTINF:-1 tvg-name="Sexo Na Massagem Brianna Moore Precisar De Massagem Na Buceta Molhada" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Na Massagem Brianna Moore Precisar De Massagem Na Buceta Molhada
+#EXTINF:-1 tvg-name="Sexo Na Massagem Brianna Moore Precisar De Massagem Na Buceta Molhada" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Na Massagem Brianna Moore Precisar De Massagem Na Buceta Molhada
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371871.mp4
-#EXTINF:-1 tvg-name="Sexo Com Novinha Se Envolve Com Um Pauzao No Twister" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Novinha Se Envolve Com Um Pauzao No Twister
+#EXTINF:-1 tvg-name="Sexo Com Novinha Se Envolve Com Um Pauzao No Twister" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Novinha Se Envolve Com Um Pauzao No Twister
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371870.mp4
-#EXTINF:-1 tvg-name="Transou Com Madrasta Convencendo Enteado Nao Sair De Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Transou Com Madrasta Convencendo Enteado Nao Sair De Casa
+#EXTINF:-1 tvg-name="Transou Com Madrasta Convencendo Enteado Nao Sair De Casa" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Transou Com Madrasta Convencendo Enteado Nao Sair De Casa
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371869.mp4
-#EXTINF:-1 tvg-name="Transando Com Madrasta Aquecendo Do Frio" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Transando Com Madrasta Aquecendo Do Frio
+#EXTINF:-1 tvg-name="Transando Com Madrasta Aquecendo Do Frio" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Transando Com Madrasta Aquecendo Do Frio
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371868.mp4
-#EXTINF:-1 tvg-name="Esposa Transando Com Vizinho Enquanto Marido Esta Viajando" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Esposa Transando Com Vizinho Enquanto Marido Esta Viajando
+#EXTINF:-1 tvg-name="Esposa Transando Com Vizinho Enquanto Marido Esta Viajando" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Esposa Transando Com Vizinho Enquanto Marido Esta Viajando
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371867.mp4
-#EXTINF:-1 tvg-name="Ultima Transa Da Esposa Com Amante Depois Que Foi Descoberta" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Ultima Transa Da Esposa Com Amante Depois Que Foi Descoberta
+#EXTINF:-1 tvg-name="Ultima Transa Da Esposa Com Amante Depois Que Foi Descoberta" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Ultima Transa Da Esposa Com Amante Depois Que Foi Descoberta
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371866.mp4
-#EXTINF:-1 tvg-name="Lexi Luna Transou Com Namorado Da Filha" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Lexi Luna Transou Com Namorado Da Filha
+#EXTINF:-1 tvg-name="Lexi Luna Transou Com Namorado Da Filha" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Lexi Luna Transou Com Namorado Da Filha
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371865.mp4
-#EXTINF:-1 tvg-name="Lexi Luna Madrasta Ensina Seu Enteado Virgem A Foder Uma Buceta" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Lexi Luna Madrasta Ensina Seu Enteado Virgem A Foder Uma Buceta
+#EXTINF:-1 tvg-name="Lexi Luna Madrasta Ensina Seu Enteado Virgem A Foder Uma Buceta" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Lexi Luna Madrasta Ensina Seu Enteado Virgem A Foder Uma Buceta
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371864.mp4
-#EXTINF:-1 tvg-name="Corretora Encara Gangbang Com 5 Dotados" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Corretora Encara Gangbang Com 5 Dotados
+#EXTINF:-1 tvg-name="Corretora Encara Gangbang Com 5 Dotados" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Corretora Encara Gangbang Com 5 Dotados
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371863.mp4
-#EXTINF:-1 tvg-name="Perdeu A Esposa Lauren Phillips Na Aposta" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Perdeu A Esposa Lauren Phillips Na Aposta
+#EXTINF:-1 tvg-name="Perdeu A Esposa Lauren Phillips Na Aposta" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Perdeu A Esposa Lauren Phillips Na Aposta
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371862.mp4
-#EXTINF:-1 tvg-name="Primeiro Anal Da Viuva Interracial Depois De Anos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Primeiro Anal Da Viuva Interracial Depois De Anos
+#EXTINF:-1 tvg-name="Primeiro Anal Da Viuva Interracial Depois De Anos" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Primeiro Anal Da Viuva Interracial Depois De Anos
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371861.mp4
-#EXTINF:-1 tvg-name="Magrinha Transando Com Negro Dotado No Primeiro Encontro" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Magrinha Transando Com Negro Dotado No Primeiro Encontro
+#EXTINF:-1 tvg-name="Magrinha Transando Com Negro Dotado No Primeiro Encontro" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Magrinha Transando Com Negro Dotado No Primeiro Encontro
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371860.mp4
-#EXTINF:-1 tvg-name="Lisa Ann Medica Gostosa Transando Com O Paciente" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Lisa Ann Medica Gostosa Transando Com O Paciente
+#EXTINF:-1 tvg-name="Lisa Ann Medica Gostosa Transando Com O Paciente" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Lisa Ann Medica Gostosa Transando Com O Paciente
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371859.mp4
-#EXTINF:-1 tvg-name="Madrasta Ensinando Sexo Para O Enteado E Sua Namorada Para Ser Tornar Um Homem" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Madrasta Ensinando Sexo Para O Enteado E Sua Namorada Para Ser Tornar Um Homem
+#EXTINF:-1 tvg-name="Madrasta Ensinando Sexo Para O Enteado E Sua Namorada Para Ser Tornar Um Homem" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Madrasta Ensinando Sexo Para O Enteado E Sua Namorada Para Ser Tornar Um Homem
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371858.mp4
-#EXTINF:-1 tvg-name="Comendo Namorada E Sogra Em Treino De Tres" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Comendo Namorada E Sogra Em Treino De Tres
+#EXTINF:-1 tvg-name="Comendo Namorada E Sogra Em Treino De Tres" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Comendo Namorada E Sogra Em Treino De Tres
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371857.mp4
-#EXTINF:-1 tvg-name="Sexo Com Minha Madrasta E Sua Amiga Revivem Dias De Putas Na Faculdade" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Minha Madrasta E Sua Amiga Revivem Dias De Putas Na Faculdade
+#EXTINF:-1 tvg-name="Sexo Com Minha Madrasta E Sua Amiga Revivem Dias De Putas Na Faculdade" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Minha Madrasta E Sua Amiga Revivem Dias De Putas Na Faculdade
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371856.mp4
-#EXTINF:-1 tvg-name="Gozando Dentro Casada Quer Ajuda Para Engravida" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Gozando Dentro Casada Quer Ajuda Para Engravida
+#EXTINF:-1 tvg-name="Gozando Dentro Casada Quer Ajuda Para Engravida" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Gozando Dentro Casada Quer Ajuda Para Engravida
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371855.mp4
-#EXTINF:-1 tvg-name="Sexo A Tres Com Paciente Ninfomaniaca Em Tratamento Com Doutor E Secretaria" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo A Tres Com Paciente Ninfomaniaca Em Tratamento Com Doutor E Secretaria
+#EXTINF:-1 tvg-name="Sexo A Tres Com Paciente Ninfomaniaca Em Tratamento Com Doutor E Secretaria" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo A Tres Com Paciente Ninfomaniaca Em Tratamento Com Doutor E Secretaria
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371854.mp4
-#EXTINF:-1 tvg-name="Gianna Michaels Quer Sentar No Pau Preto Grande Bbc" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Gianna Michaels Quer Sentar No Pau Preto Grande Bbc
+#EXTINF:-1 tvg-name="Gianna Michaels Quer Sentar No Pau Preto Grande Bbc" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Gianna Michaels Quer Sentar No Pau Preto Grande Bbc
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371853.mp4
-#EXTINF:-1 tvg-name="Sexo Com Duas Mulheres Peitudas Competindo Pelo Cara Da Piscina" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Duas Mulheres Peitudas Competindo Pelo Cara Da Piscina
+#EXTINF:-1 tvg-name="Sexo Com Duas Mulheres Peitudas Competindo Pelo Cara Da Piscina" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Duas Mulheres Peitudas Competindo Pelo Cara Da Piscina
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371852.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Transando Com Enteados Em Dose Dupla" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Transando Com Enteados Em Dose Dupla
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Transando Com Enteados Em Dose Dupla" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Transando Com Enteados Em Dose Dupla
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371851.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Chupou Pau Do Enteado Em Troca De Indicacao De Emprego" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Chupou Pau Do Enteado Em Troca De Indicacao De Emprego
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Chupou Pau Do Enteado Em Troca De Indicacao De Emprego" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Chupou Pau Do Enteado Em Troca De Indicacao De Emprego
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371850.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Quer Leva Gozada Dentro Da Buceta Do Enteado E Marido" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Quer Leva Gozada Dentro Da Buceta Do Enteado E Marido
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Quer Leva Gozada Dentro Da Buceta Do Enteado E Marido" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Quer Leva Gozada Dentro Da Buceta Do Enteado E Marido
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371849.mp4
-#EXTINF:-1 tvg-name="Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="18+ PORNO LEGENDADO",Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais
+#EXTINF:-1 tvg-name="Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais" tvg-logo="https://cdn4k.cc/logos/capa-filmes-adultos.jpg" group-title="adult porn legendado",Sexo Com Madrasta Viciada Em Sexo Testando Seus Impulsos Sexuais
 http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371848.mp4
 
 
@@ -16896,178 +17163,181 @@ http://cdn4k.cc:80/movie/JosemarOliveira/24jos999064802/371848.mp4
 
 
 
-#EXTINF:-1 group-title="Adults Only",A teen with a mature
+#EXTINF:-1 group-title="Adults Only Ovhv",A teen with a mature
 http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Adriana Malao
+#EXTINF:-1 group-title="Adults Only Ovhv",Adriana Malao
 http://ovhv39.twincdn.com/videos/12/12570/12570_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Amateur Teen
+#EXTINF:-1 group-title="Adults Only Ovhv",Amateur Teen
 http://ovhv39.twincdn.com/videos/6/6858/6858_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Anal creampie
+#EXTINF:-1 group-title="Adults Only Ovhv",Anal creampie
 http://ovhv39.twincdn.com/videos/18/18326/18326_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Anal fucked
+#EXTINF:-1 group-title="Adults Only Ovhv",Anal fucked
 http://ovhv40.twincdn.com/videos/1/1167/1167_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Anal taboos
+#EXTINF:-1 group-title="Adults Only Ovhv",Anal taboos
 http://ovhv39.twincdn.com/videos/18/18666/18666_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Ass fucked in her room
+#EXTINF:-1 group-title="Adults Only Ovhv",Ass fucked in her room
 http://ovhv39.twincdn.com/videos/9/9514/9514_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Badezimmerfick
+#EXTINF:-1 group-title="Adults Only Ovhv",Badezimmerfick
 http://ovhv39.twincdn.com/videos/29/29272/29272_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Black mare's asshole is banged
+#EXTINF:-1 group-title="Adults Only Ovhv",Black mare's asshole is banged
 http://ovhv39.twincdn.com/videos/37/37530/37530_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Blonde teenie does anal
+#EXTINF:-1 group-title="Adults Only Ovhv",Blonde teenie does anal
 http://ovhv39.twincdn.com/videos/5/5893/5893_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Blonde Ungarin
+#EXTINF:-1 group-title="Adults Only Ovhv",Blonde Ungarin
 http://ovhv39.twincdn.com/videos/8/8630/8630_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Brazilian anal experience
+#EXTINF:-1 group-title="Adults Only Ovhv",Brazilian anal experience
 http://ovhv40.twincdn.com/videos/prime/00/01/93/70.mp4
-#EXTINF:-1 group-title="Adults Only",brazilian booty screams for sex
+#EXTINF:-1 group-title="Adults Only Ovhv",brazilian booty screams for sex
 http://ovhv39.twincdn.com/videos/prime/00/01/82/54.mp4
-#EXTINF:-1 group-title="Adults Only",Brazilian is penetrated
+#EXTINF:-1 group-title="Adults Only Ovhv",Brazilian is penetrated
 http://ovhv40.twincdn.com/videos/prime/00/01/89/45.mp4
-#EXTINF:-1 group-title="Adults Only",Brazilian likes firm bell ends
+#EXTINF:-1 group-title="Adults Only Ovhv",Brazilian likes firm bell ends
 http://ovhv40.twincdn.com/videos/1/1190/1190_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Brazilianische Dreilochstute
+#EXTINF:-1 group-title="Adults Only Ovhv",Brazilianische Dreilochstute
 http://ovhv39.twincdn.com/videos/35/35651/35651_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Butt sex with young teen
+#EXTINF:-1 group-title="Adults Only Ovhv",Butt sex with young teen
 http://ovhv39.twincdn.com/videos/7/7450/7450_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Casting ohne Kondom
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting ohne Kondom
 http://ovhv39.twincdn.com/videos/6/6837/6837_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Cock in all holes
+#EXTINF:-1 group-title="Adults Only Ovhv",Cock in all holes
 http://ovhv39.twincdn.com/videos/6/6695/6695_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Cock in their assholes
+#EXTINF:-1 group-title="Adults Only Ovhv",Cock in their assholes
 http://ovhv39.twincdn.com/videos/35/35540/35540_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Cute teenie must squirt
+#EXTINF:-1 group-title="Adults Only Ovhv",Cute teenie must squirt
 http://ovhv39.twincdn.com/videos/5/5845/5845_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Fickt mein Arschloch
+#EXTINF:-1 group-title="Adults Only Ovhv",Fickt mein Arschloch
 http://ovhv39.twincdn.com/videos/34/34229/34229_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Finevids 1
+#EXTINF:-1 group-title="Adults Only Ovhv",Finevids 1
 http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4
-#EXTINF:-1 group-title="Adults Only",Finevids 2
+#EXTINF:-1 group-title="Adults Only Ovhv",Finevids 2
 http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4
-#EXTINF:-1 group-title="Adults Only",Finevids 3
+#EXTINF:-1 group-title="Adults Only Ovhv",Finevids 3
 http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4
-#EXTINF:-1 group-title="Adults Only",Fuck with a strap-on
+#EXTINF:-1 group-title="Adults Only Ovhv",Fuck with a strap-on
 http://ovhv39.twincdn.com/videos/4/4557/4557_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Gangbang party
+#EXTINF:-1 group-title="Adults Only Ovhv",Gangbang party
 http://ovhv39.twincdn.com/videos/prime/00/01/85/80.mp4
-#EXTINF:-1 group-title="Adults Only",Girls lecken sich die Sahnefotze
+#EXTINF:-1 group-title="Adults Only Ovhv",Girls lecken sich die Sahnefotze
 http://ovhv39.twincdn.com/videos/6/6857/6857_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Hardcore sex for the black asshole
+#EXTINF:-1 group-title="Adults Only Ovhv",Hardcore sex for the black asshole
 http://ovhv39.twincdn.com/videos/0/69/69_720p.mp4
-#EXTINF:-1 group-title="Adults Only",He rams his white cock into her black asshole
+#EXTINF:-1 group-title="Adults Only Ovhv",He rams his white cock into her black asshole
 http://ovhv39.twincdn.com/videos/29/29661/29661_360p.mp4
-#EXTINF:-1 group-title="Adults Only",Horny teen's ass
+#EXTINF:-1 group-title="Adults Only Ovhv",Horny teen's ass
 http://ovhv39.twincdn.com/videos/9/9358/9358_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Hot pussy tattoo
+#EXTINF:-1 group-title="Adults Only Ovhv",Hot pussy tattoo
 http://ovhv39.twincdn.com/videos/4/4369/4369_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Japanese teen ass has
+#EXTINF:-1 group-title="Adults Only Ovhv",Japanese teen ass has
 http://ovhv40.twincdn.com/videos/prime/00/01/89/73.mp4
-#EXTINF:-1 group-title="Adults Only",Licking and doing anal
+#EXTINF:-1 group-title="Adults Only Ovhv",Licking and doing anal
 http://ovhv39.twincdn.com/videos/24/24028/24028_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Michelly Cinturinha
+#EXTINF:-1 group-title="Adults Only Ovhv",Michelly Cinturinha
 http://ovhv39.twincdn.com/videos/19/19855/19855_720p.mp4
-#EXTINF:-1 group-title="Adults Only",old for the chubby teen
+#EXTINF:-1 group-title="Adults Only Ovhv",old for the chubby teen
 http://ovhv39.twincdn.com/videos/4/4582/4582_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Rarely seen such hot tits
+#EXTINF:-1 group-title="Adults Only Ovhv",Rarely seen such hot tits
 http://ovhv39.twincdn.com/videos/4/4634/4634_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Russian Teen first anal
+#EXTINF:-1 group-title="Adults Only Ovhv",Russian Teen first anal
 http://ovhv39.twincdn.com/videos/prime/00/01/84/44.mp4
-#EXTINF:-1 group-title="Adults Only",Sexy teen is fucked
+#EXTINF:-1 group-title="Adults Only Ovhv",Sexy teen is fucked
 http://ovhv39.twincdn.com/videos/9/9077/9077_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Strayed teenie
+#EXTINF:-1 group-title="Adults Only Ovhv",Strayed teenie
 http://ovhv39.twincdn.com/videos/4/4172/4172_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teen Amirah Adara (Woodman)
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen Amirah Adara (Woodman)
 http://ovhv39.twincdn.com/videos/17/17964/17964_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teen enjoys a rimfuck
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen enjoys a rimfuck
 http://ovhv39.twincdn.com/videos/prime/00/01/85/34.mp4
-#EXTINF:-1 group-title="Adults Only",Teen offers her asshole
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen offers her asshole
 http://ovhv39.twincdn.com/videos/1/1147/1147_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teen sucks a cock
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen sucks a cock
 http://ovhv39.twincdn.com/videos/5/5026/5026_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teenage asshole
+#EXTINF:-1 group-title="Adults Only Ovhv",Teenage asshole
 http://ovhv39.twincdn.com/videos/5/5921/5921_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teengirl ubt Blowjob
+#EXTINF:-1 group-title="Adults Only Ovhv",Teengirl ubt Blowjob
 http://ovhv39.twincdn.com/videos/8/8870/8870_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teens anal threesome
+#EXTINF:-1 group-title="Adults Only Ovhv",Teens anal threesome
 http://ovhv39.twincdn.com/videos/8/8502/8502_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teen's ass is fucked
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen's ass is fucked
 http://ovhv39.twincdn.com/videos/6/6911/6911_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teen's asshole
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen's asshole
 http://ovhv39.twincdn.com/videos/5/5907/5907_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Teen's butthole
+#EXTINF:-1 group-title="Adults Only Ovhv",Teen's butthole
 http://ovhv39.twincdn.com/videos/5/5923/5923_720p.mp4
-#EXTINF:-1 group-title="Adults Only",Two beauties
+#EXTINF:-1 group-title="Adults Only Ovhv",Two beauties
 http://ovhv40.twincdn.com/videos/prime/00/01/94/69.mp4
 
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD1
+
+
+
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD1
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD2
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD2
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD3
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD3
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD4
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD4
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD5
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD5
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD6
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD6
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD7
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD7
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",FANTHD7
+#EXTINF:-1 group-title="Adults Only Ovhv",FANTHD7
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting1
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting1
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_rachel/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting2
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting2
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sageevans/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting3
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting3
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sierraday/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting4
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting4
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_jasminerain/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting5
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting5
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_roxanne/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting6
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting6
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_ashleyadams121014/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Casting7
+#EXTINF:-1 group-title="Adults Only Ovhv",Casting7
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_dillioncarter121214/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd1
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd1
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_keishagrey061614/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd2
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd2
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sarai091714/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd3
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd3
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_veronicaradke/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd4
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd4
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte040714/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd5
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd5
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sierranevadah080814/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd6
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd6
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alicegreen082014/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd7
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd7
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alexisadams/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd8
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd8
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte121713/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Povd9
+#EXTINF:-1 group-title="Adults Only Ovhv",Povd9
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannanicole051914/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 1
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 10
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 10
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 11
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 11
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 2
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 2
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 3
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 3
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 4
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 4
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 5
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 5
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 6
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 6
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 7
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 7
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 8
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 8
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1 group-title="Adults Only FANTHD",Tiny 4k 9
+#EXTINF:-1 group-title="Adults Only Ovhv",Tiny 4k 9
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
 
 
