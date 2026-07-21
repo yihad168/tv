@@ -54,6 +54,20 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
+       {
+            "name": "🐬飞扬源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
+        },
+
+	    {
+            "name": "🐬黄蚂蚁先锋推流源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
+        },
+
     {
       "name": "🔓zhtv",
       "url": "https://raw.githubusercontent.com/yewengood/kzb/refs/heads/main/zhtv.txt"
