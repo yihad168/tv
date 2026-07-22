@@ -608,6 +608,12 @@ https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 #EXTINF:-1 group-title="fastch" tvg-id="fastch_v2_krdrm" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+
+https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_jaychouqq-tvbox-file.json
+https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_xpg-av.json
+https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/index.json
+https://raw.githubusercontent.com/wanganni/yinshiyuan/refs/heads/main/tv18.json
+https://raw.githubusercontent.com/YJL20190405/TVBOX/refs/heads/main/tvbox18.json
 http://line.wow-ott.cc/get.php?username=NDZM6T&password=FNUS78&type=m3u_plus
 https://raw.githubusercontent.com/franksun1211/TXT/refs/heads/main/TVbox/E8jin/NewE8jin-new.json
 https://raw.githubusercontent.com/ajqubbs/zhiboyuan/refs/heads/main/index.php
@@ -1221,6 +1227,7 @@ http://220.135.241.47:8322/0.ts
 http://124.244.129.167:9004/0.ts
 #EXTINF:-1 group-title="數位電視",翡翠台
 http://qingyi.7766.org:9004/0.ts
+
 
 
 #########################################
