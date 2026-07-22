@@ -4783,6 +4783,31 @@ http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/10805
 #########################################
 
 
+#EXTINF:-1 group-title="體育世界",NICK
+https://hls.iptv-th.workers.dev/live/91/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",REDBULL
+https://hls.iptv-th.workers.dev/live/93/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",GOOD
+https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",TRUE VISIONS
+https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
+
+#EXTINF:-1 group-title="體育世界",TRUE SPORTS 5
+https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",TRUE SPORTS
+https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",TRUE VISIONS
+https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",TRUE WILD
+https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",WB TV
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+#EXTINF:-1 group-title="體育世界",TRUE X-XYTE
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
+
+https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="MLB NETWORK HD" tvg-logo="https://imgur.com/R5izfeU" group-title="體育世界",MLB NETWORK HD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/206108
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD" tvg-logo="http://cdn4k.net/logos/sportv.png" group-title="體育世界",SporTV HD
@@ -4893,6 +4918,17 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="音樂世界",Now Rock
 https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=-OcqsE4KHG7Vg4O2nBCG5w&e=2080470081&scheme=https
+
+#EXTINF:-1 group-title="音樂世界",Vevo_Pop_UK_(1080p)
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界",Vevo_Hip_Hop_&_R&B_(1080p)
+https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
+
+
+#EXTINF:-1 group-title="音樂世界",Vevo_'70s_&_'80s_(1080p)
+https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
+#EXTINF:-1 group-title="音樂世界",Vevo_'90s_&_'00s_(1080p)
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
 
 
 
