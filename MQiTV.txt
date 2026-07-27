@@ -111,13 +111,7 @@
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png",
       "ua": "dream"
     },
-    {
-      "name": "美国斯玛特",
-      "url": "http://dbmlasvgas.sylu.cc:2086/trams.m3u?token=NqAERVyoLmQn0tNu9lona-PV7_EltgWnrAr6Rkaf8Ro=",
-      "playerType": 2,
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
-    },
+
     {
       "name": "tv123",
       "type": 0,
