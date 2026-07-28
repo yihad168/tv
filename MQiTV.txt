@@ -49,6 +49,13 @@
         },
 
         {
+            "name": "zhtv",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/yewengood/kzb/refs/heads/main/zhtv.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+
+        {
             "name": "簡單ITV",
             "type": 0,
             "url": "https://cdn.qd.je/live.m3u",
