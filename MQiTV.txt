@@ -40,6 +40,7 @@
       "epg": "http://epg.hackserver.net/epg.php",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
         {
             "name": "ITV",
             "type": 0,
@@ -79,6 +80,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
     {
       "name": "四季影視1",
       "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
@@ -92,6 +94,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+
     {
       "name": "Dream",
       "url": "http://dbmlosa.sylu.cc:8080/dream.txt",
@@ -103,14 +106,7 @@
         "source": "&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
       }
     },
-    {
-      "name": "日本斯玛特",
-      "url": "http://dbm.de5.net/smt.php",
-      "playerType": 2,
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png",
-      "ua": "dream"
-    },
+
 
     {
       "name": "tv123",
@@ -787,18 +783,19 @@
       "name": "RobYang備1| http://RobYang.dpdns.org",
       "type": 0,
       "playerType": 2,
-      "url": "http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
+      "url": "http://RobYang.dpdns.org",
       "ua": "okhttp/4.12.0",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "pass": true
     },
+
     {
       "name": "RobYang備2| http://RobYang.rr.nu",
       "type": 0,
       "playerType": 2,
-      "url": "http://RobYang.runasp.net/VodLive/lb8ffa",
+      "url": "http://RobYang.zone.id",
       "ua": "okhttp/4.12.0",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -815,21 +812,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
 
-   {
-      "name": "歐華(需32位影视)",
-      "url": "http://dbmlosa.sylu.net:8080/ouhua.txt",
-      "playerType": 2,
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-    },
 
-    {
-      "name": "CloudTV(需32位影视)",
-      "url": "http://dbmlosa.sylu.net:8080/CloudTV.txt",
-      "playerType": 2,
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
-    },
+
     {
       "name": "cloudtv盒子版",
       "url": "http://tv543.cc/cloudtv.txt",
@@ -844,17 +828,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    {
-      "name": "Dream",
-      "url": "http://dbmlosa.sylu.net:8080/dream.txt",
-      "playerType": 2,
-      "epg": "http://epg.52sw.top:668/?ch={name}&date={date},https://tv.mxdyeah.top/epgphp/t.xml.gz",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
-      "catchup": {
-        "type": "append",
-        "source": "&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    },
 
 
 
@@ -863,10 +836,14 @@
       "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     },
 
-    {
-      "name": "韓團MTVS",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt"
-    },
+        {
+            "name": "游魂",
+            "type": "0",
+            "pass": true,
+            "url": "https://www.iyouhun.com/tv/zb",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
 
     {
       "name": "FYTV風雲試看",
@@ -917,6 +894,12 @@
     },
 
     {
+      "name": "💔HK💔",
+      "url": "https://raw.githubusercontent.com/swcz56/abszm-zby/refs/heads/main/hk.m3u8"
+    },
+
+
+    {
       "name": "💔斯瑪特💔",
       "url": "http://tv123.vvvv.ee/tv.m3u"
     },
@@ -957,7 +940,7 @@
 
 
 
- {
+    {
       "name": "🍈📺秒播 20250720🏠",
       "type": 0,
       "url": "https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt",
@@ -966,12 +949,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
  
- {
+  {
     "name" : " 🐟🐟河南卫视20250803🧑🏻‍🌾",
     "type" : 0,
     "url": "https://ghfast.top/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
     "ext": { }
   }, 
+
+
 
   {
       "name": "💔🍈🐟风云秒开接口 20250820💔",
@@ -982,7 +967,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
 
- {
+   {
       "name": "🐟风云秒开营养快线 20250901💔",
       "type": 0,
       "url": "http://iptv.4666888.xyz/FYTV.txt",
@@ -990,7 +975,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
  
- {
+
+
+    {
       "name": "💔3043(翻墙)SMT直播(python)",
       "type": 3,
       "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
@@ -1070,7 +1057,7 @@
       "ext": [
         {
           "name": "59",
-          "url": "https://59.125.210.231:4433"
+          "url": "https://220.135.241.47:4433"
         },
         {
           "name": "60",
@@ -1102,7 +1089,7 @@
         },
         {
           "name": "60.250.121.103",
-          "url": "http://60.250.121.103:1888"
+          "url": "http://60.250.121.103:18881"
         },
         {
           "name": "60.250.121.217",
@@ -1114,59 +1101,59 @@
         },
         {
           "name": "61.216.26.165",
-          "url": "http://61.216.26.165:1888"
+          "url": "http://61.216.26.165:18881"
         },
         {
           "name": "61.216.180.81",
-          "url": "http://61.216.180.81:1888"
+          "url": "http://61.216.180.81:18881"
         },
         {
           "name": "61.220.72.26",
-          "url": "http://61.220.72.26:1888"
+          "url": "http://61.220.72.26:18881"
         },
         {
           "name": "61.221.81.93",
-          "url": "http://61.221.81.93:1888"
+          "url": "http://61.221.81.93:18881"
         },
         {
           "name": "123.51.149.68",
-          "url": "http://123.51.149.68:1888"
+          "url": "http://123.51.149.68:18881"
         },
         {
           "name": "123.51.229.128",
-          "url": "http://123.51.229.128:1888"
+          "url": "http://123.51.229.128:18881"
         },
         {
           "name": "123.51.230.108",
-          "url": "http://123.51.230.108:1888"
+          "url": "http://123.51.230.108:18881"
         },
         {
           "name": "123.51.231.132",
-          "url": "http://123.51.231.132:1888"
+          "url": "http://123.51.231.132:18881"
         },
         {
           "name": "123.51.149.52",
-          "url": "http://123.51.149.52:1888"
+          "url": "http://123.51.149.52:18881"
         },
         {
           "name": "123.51.149.68",
-          "url": "http://123.51.149.68:1888"
+          "url": "http://123.51.149.68:18881"
         },
         {
           "name": "211.23.114.106",
-          "url": "http://211.23.114.106:1888"
+          "url": "http://211.23.114.106:18881"
         },
         {
           "name": "211.75.236.187",
-          "url": "http://211.75.236.187:1888"
+          "url": "http://211.75.236.187:18881"
         },
         {
           "name": "218.32.247.100",
-          "url": "http://218.32.247.100:1888"
+          "url": "http://218.32.247.100:18881"
         },
         {
           "name": "220.134.196.147",
-          "url": "http://220.134.196.147:1888"
+          "url": "http://220.134.196.147:18881"
         }
       ]
     },
@@ -1185,6 +1172,7 @@
       ]
     },
 
+ 
  {
       "name": "💔MQitv源",
       "api": "csp_MQiTV",
@@ -1192,19 +1180,23 @@
       "ext": [
         {
           "name": "59",
+          "url": "http://211.23.95.147:18881"
+        },
+        {
+          "name": "59",
           "url": "https://59.125.210.231:4433"
         },
         {
           "name": "211.23.114.106",
-          "url": "http://211.23.114.106:1888"
+          "url": "http://211.23.114.106:18881"
         },
         {
           "name": "220.134.196.147",
-          "url": "http://220.134.196.147:1888"
+          "url": "http://220.134.196.147:18881"
         },
         {
           "name": "60.249.93.7:1888",
-          "url": "http://220.134.196.147:1888"
+          "url": "http://220.134.196.147:18881"
         },
         {
           "name": "60",
@@ -1213,33 +1205,8 @@
       ]
     },
 
- {
-      "name": "💔MQitv源2",
-      "api": "csp_MQiTV",
-	  "jar": "https://5413.kstore.space/DM/jar/fm.jar",
-      "ext": [
-        {
-          "name": "59",
-          "url": "https://59.125.210.231:4433"
-        },
-        {
-          "name": "211.23.114.106",
-          "url": "http://211.23.114.106:1888"
-        },
-        {
-          "name": "220.134.196.147",
-          "url": "http://220.134.196.147:1888"
-        },
-        {
-          "name": "60.249.93.7:1888",
-          "url": "http://220.134.196.147:1888"
-        },
-        {
-          "name": "60",
-          "url": "https://60.248.127.232:4433"
-        }
-      ]
-    },
+
+ 
 
 
  {
@@ -1356,21 +1323,6 @@
       "playerType": 1
     },
 
-
- {
-      "name": "🔞💔💎WMAV💎💔",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/wmav.txt",
-      "playerType": 1
-    },
-
- {
-      "name": "🔞💔💎QSAV💎💔",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/qsav.txt",
-      "playerType": 1
-    },
-
  {
       "name": "🔞💔💎終級💎💔",
       "type": 0,
@@ -1381,14 +1333,7 @@
  {
       "name": "🔞💔💎至尊💎💔",
       "type": 0,
-      "url": "https://github.com/fish2018/lib/raw/refs/heads/main/txt/%E8%87%B3%E5%B0%8A.m3u",
-      "playerType": 1
-    },
-
- {
-      "name": "🔞💔💎春色CR💎💔",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/chh818/chh818.github.io/refs/heads/main/cr.txt",
+      "url": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18%2B.txt",
       "playerType": 1
     },
 
@@ -1400,14 +1345,6 @@
     },
 
 
- {"name":"🔞🍅秘密花园 密码48620💔",
-"type":0,
-"url":"https://gitee.com/sji820/des/raw/master/0.jpg",
-"playerType":1,
-"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}",
-"logo":"http://diyp5.112114.xyz/{name}.png"
-},
-
   {
       "name": "🔞💔💎精品快餐💎💔",
       "type": 0,
@@ -1416,19 +1353,12 @@
     },
 
   {
-      "name": "🔞💔💎18+千部独家传媒无水印💎💔",
+      "name": "🔞💔💎18+千部獨家傳媒無浮水印💎💔",
       "type": 0,
       "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+%E5%8D%83%E9%83%A8%E7%8B%AC%E5%AE%B6%E4%BC%A0%E5%AA%92%E6%97%A0%E6%B0%B4%E5%8D%B0%E6%9D%A5%E8%A2%ADtvlist.txt",
       "playerType": 1
     },
 
-
- {
-      "name": "🈲🔞黃色倉庫A🔞🈲",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/KAN314go/7/refs/heads/main/drpy_js/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93A.txt",
-      "playerType": 1
-    },
     {
       "name": "🈲🔞18+🔞🈲",
       "type": 0,
@@ -1437,7 +1367,7 @@
       "logo": ""
     },
    {
-      "name": "🔞花园🔞",
+      "name": "🔞秘密花園🔞",
       "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
       "type": 1
     },
@@ -1474,13 +1404,6 @@
 
 
     {
-      "name": "備用線路",
-      "url": "https://tv.iill.top/FainTV/list",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
-    {
       "name": "543",
       "url": "http://66.103.204.107/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1494,21 +1417,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-         
 
-       {
-            "name": "Web118",
-            "type": 0,
-            "url": "https://web.anbox118.dpdns.org/playlist.m3u8.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        }, 
-
-{
+        {
             "name": "Anbox直播",
             "type": 0,
-            "url": "http://tv.anbox.ip-ddns.com/live",
+            "url": "http://kenneth001.serv00.net/anbo.json",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2,
@@ -1521,11 +1434,8 @@
 {"name": "🐍┃tangtang「直播」","type": 0,"ua": "okhttp","url": "https://tangtang.ggff.net/m3u/jtv.m3u"},
 {"name": "🏆️Yuanz港·澳·台直播","type": 0,"url": "https://raw.githubusercontent.com//alantang1977/yuanzl77/refs/heads/main/live.m3u","playerType":1},
 
- {
-      "name": "ITV直播",
-      "type": 1,
-      "url": "http://itv.tv1288.xyz/"
-    },
+
+
     {
       "name": "土豆TV直播",
       "type": 1,
@@ -1546,22 +1456,7 @@
       "type": 1,
       "url": "https://gh-proxy.org/https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u"
     },
-    {
-      "name": "GNTV直播",
-      "type": 1,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
-    },
-    
-    {
-      "name": "裤佬TV直播",
-      "type": 1,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
-    },
-    {
-      "name" : "潇雨TV直播",
-      "type" : 1,
-      "url" : "https://itv.tv1288.xyz"
-    },
+ 
     {
       "name": "日后TV直播",
       "type": 0,
@@ -1571,28 +1466,13 @@
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
+
     {
-      "name": "涛涛TV直播",
-      "type": 1,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png"
-    },
-    {
-      "name": "易发TV直播",
+      "name": "易發TV直播",
       "type": 1,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
-    {
-      "name": "咪咕TV直播",
-      "type": 0,
-      "url": "https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt"
-    },
-    {
-      "name": "宫殿TV直播",
-      "type": 0,
-      "url": "https://gongdian.top/tv/iptv",
-      "playerType": 1,
-      "logo": "https://gongdian.top/tv/taibiao/{name}.png"
-    },
+
 
 
      {
@@ -1606,7 +1486,7 @@
     }, 
 
     {
-          "name": "🔞AV3",
+        "name": "🔞AV3",
         "url": "https://files.catbox.moe/pzb4jz.txt"
     }, 
 
@@ -1617,120 +1497,116 @@
 
     {
       "url": "https://raw.githubusercontent.com/fuxkjd/hsck/main/dist/all.m3u",
-      "name": "Test 0号线路"
+      "name": "Test 0號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u",
-      "name": "Test 1号线路"
+      "name": "Test 1號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/ttt.m3u",
-      "name": "Test 2号线路"
+      "name": "Test 2號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/Playboy%20FHD%20(1).m3u",
-      "name": "Test 3号线路"
+      "name": "Test 3號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u",
-      "name": "Test 4号线路"
+      "name": "Test 4號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/playlist.m3u8",
-      "name": "Test 5号线路"
+      "name": "Test 5號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/live.m3u",
-      "name": "Test 6号线路"
+      "name": "Test 6號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/69.m3u",
-      "name": "Test 7号线路"
+      "name": "Test 7號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/file/miss.m3u",
-      "name": "Test 8号线路"
+      "name": "Test 8號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/1.txt",
-      "name": "Test 9号线路"
+      "name": "Test 9號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/ge6bu6/1/refs/heads/main/2.txt",
-      "name": "Test 10号线路"
+      "name": "Test 10號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/NSFW.txt",
-      "name": "Test 11号线路"
+      "name": "Test 11號線路🔞"
     },
     {
       "url": "https://ilook.epg.one/BUYS9YTNABMC25",
-      "name": "Test 12号线路"
+      "name": "Test 12號線路🔞"
     },
     {
       "url": "https://ilook.epg.one/GFGDU5GN37YRF8",
-      "name": "Test 13号线路"
+      "name": "Test 13號線路🔞"
     },
     {
       "url": "https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5",
-      "name": "Test 14号线路"
+      "name": "Test 14號線路🔞"
     },
     
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
-      "name": "1号线路"
+      "name": "1號線路🔞"
     },
     {
       "url": "http://adultiptv.net/chs.m3u",
-      "name": "2号线路"
+      "name": "2號線路🔞"
     },
     {
       "url": "http://xtvantsc.xyz/欧美2160.m3u",
-      "name": "3号线路"
+      "name": "3號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXC.txt",
-      "name": "4号线路"
+      "name": "4號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXE.m3u",
-      "name": "5号线路"
+      "name": "5號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXM.txt",
-      "name": "6号线路"
+      "name": "6號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Adult%20AvDb.json",
-      "name": "7号线路"
+      "name": "7號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Adult%20JaDb.m3u",
-      "name": "8号线路"
+      "name": "8號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Adult%20OmZb.m3u",
-      "name": "9号线路"
+      "name": "9號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/HSCK.txt",
-      "name": "10号线路"
+      "name": "10號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Lbapi01.txt",
-      "name": "11号线路"
+      "name": "11號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/Lbapi02.txt",
-      "name": "12号线路"
+      "name": "12號線路🔞"
     },
     {
       "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXT.txt",
-      "name": "13号线路" 
-    },
-    {
-      "url": "https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/XXD.m3u",
-      "name": "14号线路" 
+      "name": "13號線路🔞" 
     },
 
     {
@@ -1780,12 +1656,12 @@
 
     {
       "url": "https://ilook.epg.one/GFGDU5GN37YRF8",
-      "name": "🔞成人1" 
+      "name": "🔞成人10" 
     },
 
     {
       "url": "https://ilook.epg.one/N38U657879GPVVDFAYZ26AX5",
-      "name": "🔞成人1" 
+      "name": "🔞成人11" 
     },
 
 {
@@ -1853,7 +1729,7 @@
     },
 
     {"name":"💔💎SMT(静态)",
-  "url":"https://qu.ax/GhEvT.txt",
+  "url":"http://live.nctv.top/xj.txt",
   "logo":"https://live.fanmingming.com/tv/{name}.png",
   "boot": true,
   "header":{"CLIENT-IP":"127.0.0.1","X-FORWARDED-FOR":"127.0.0.1"}
