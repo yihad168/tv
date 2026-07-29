@@ -617,321 +617,6 @@ https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 
 
-#EXTM3U
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",1
-http://45.144.165.187:8080/live/playidlive/12345/79.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",2
-http://45.144.165.187:8080/live/playidlive/12345/47.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",3
-http://45.144.165.187:8080/live/playidlive/12345/49.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",4
-http://45.144.165.187:8080/live/playidlive/12345/52.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",5
-http://45.144.165.187:8080/live/playidlive/12345/63.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",6
-http://45.144.165.187:8080/live/playidlive/12345/64.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",7
-http://45.144.165.187:8080/live/playidlive/12345/66.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",8
-http://45.144.165.187:8080/live/playidlive/12345/75.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",9
-http://45.144.165.187:8080/live/playidlive/12345/77.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",10
-http://45.144.165.187:8080/live/playidlive/12345/78.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",11
-http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",12
-https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",13
-https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",14
-https://hls.iptv-th.workers.dev/live/133/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",15
-https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",16
-https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png",17
-https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",18
-https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png",19
-https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",20
-https://hls.iptv-th.workers.dev/live/143/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/126_skya.png",21
-https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",22
-https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",23
-https://hls.iptv-th.workers.dev/live/151/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",24
-https://hls.iptv-th.workers.dev/live/159/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",25
-https://hls.iptv-th.workers.dev/live/162/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",26
-https://hls.iptv-th.workers.dev/live/176/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",27
-https://hls.iptv-th.workers.dev/live/91/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",1
-https://hls.iptv-th.workers.dev/live/93/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",2
-https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",3
-https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",4
-https://hls.iptv-th.workers.dev/live/96/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",5
-https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",6
-https://hls.iptv-th.workers.dev/live/80/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",7
-https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",8
-https://hls.iptv-th.workers.dev/live/78/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",9
-https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",10
-https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",11
-https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",12
-https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",13
-https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",14
-https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",15
-https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",16
-https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",17
-https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",18
-https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",19
-https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",20
-https://hls.iptv-th.workers.dev/live/54/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",21
-https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",22
-https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",23
-https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",24
-https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",25
-https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",1
-https://hls.iptv-th.workers.dev/live/47/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",2
-https://hls.iptv-th.workers.dev/live/46/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",3
-https://hls.iptv-th.workers.dev/live/45/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",4
-https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",5
-https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",6
-https://hls.iptv-th.workers.dev/live/36/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",7
-https://hls.iptv-th.workers.dev/live/35/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",8
-https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",9
-https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",10
-https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",11
-http://45.144.165.187:8080/live/playidlive/12345/23072.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",1
-http://45.144.165.187:8080/live/playidlive/12345/41.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",2
-http://45.144.165.187:8080/live/playidlive/12345/47.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",3
-http://45.144.165.187:8080/live/playidlive/12345/48.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",4
-http://45.144.165.187:8080/live/playidlive/12345/52.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",1
-http://45.144.165.187:8080/live/playidlive/12345/64.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",2
-http://45.144.165.187:8080/live/playidlive/12345/66.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",3
-http://45.144.165.187:8080/live/playidlive/12345/67.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",4
-http://45.144.165.187:8080/live/playidlive/12345/75.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",5
-http://45.144.165.187:8080/live/playidlive/12345/77.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",6
-http://45.144.165.187:8080/live/playidlive/12345/78.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",7
-http://45.144.165.187:8080/live/playidlive/12345/79.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",8
-http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",9
-http://45.144.165.187:8080/live/playidlive/12345/100.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",10
-http://45.144.165.187:8080/live/playidlive/12345/101.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x1
-https://7fighters.samorn-team.workers.dev/127
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x2
-https://7fighters.samorn-team.workers.dev/126
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x3
-https://7fighters.samorn-team.workers.dev/125
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x4
-https://7fighters.samorn-team.workers.dev/101
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x4
-https://7fighters.samorn-team.workers.dev/110
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x4
-https://7fighters.samorn-team.workers.dev/111
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x4
-https://7fighters.samorn-team.workers.dev/114
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",x4
-https://7fighters.samorn-team.workers.dev/124
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tsport2
-https://7fighters.samorn-team.workers.dev/147
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt1
-https://7fighters.samorn-team.workers.dev/151
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt2
-https://7fighters.samorn-team.workers.dev/152
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt3
-https://7fighters.samorn-team.workers.dev/153
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/154
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/155
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/157
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/159
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/161
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/164
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/165
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/166
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/167
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/168
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tnt4
-https://7fighters.samorn-team.workers.dev/169
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",tsport
-https://7fighters.samorn-team.workers.dev/175
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",golf
-https://7fighters.samorn-team.workers.dev/176
-
-#EXTINF:-1 group-title="japan" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",mysci
-https://7fighters.samorn-team.workers.dev/211
-
-
 #########################################
 https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_jaychouqq-tvbox-file.json
 https://raw.githubusercontent.com/g782989476/OKBOX/refs/heads/main/Links/xxx/18Db_xpg-av.json
@@ -3448,257 +3133,172 @@ https://cdn.qd.je/163189.php?id=wxty
 
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",PPTV HD
 https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5SRqiS4IrzwiBVu-VmFRw4lMo2YP0lmGXJQvItL-7g&s=10",CNN
 https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp7VqzCrtWpmLRY086n9C5XHhAtZsRrJjBcEI0Hwx1A&s",BBC News
 https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFffY8mvWU45EfQP4bq7uIEBW5vDdpKSOMR1wpr31LbQ&s",ABC News
 https://hls.iptv-th.workers.dev/live/47/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLX69jQmav01UL0m_DfEmM_zRnSLfjMvaiURvp6unQ1EaC24cVWYJOq_H&s=10",Aljazeera
 https://hls.iptv-th.workers.dev/live/46/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC0qjpA2Y456EYo8uQ-LDRwVDhoeNOzcr7A9pYCiTlTQ&s=10",HBO
 https://hls.iptv-th.workers.dev/live/73/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8joZbDjtfl8PIraa8YLaNyXhTnLTrK3MpV-mkVi5mw&s",HBO Signature
 https://hls.iptv-th.workers.dev/live/72/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWZ64XyNvnOXtjn6dMAimZJ703-0r3MmbijbaiDvYyQ&s=10",HBO HITS
 https://hls.iptv-th.workers.dev/live/71/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVWYMznuUWia_0SKPxHSIRnIQgeME2332gb5IMtERh6Q&s=10",HBO Family
 https://hls.iptv-th.workers.dev/live/65/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YKzJfRmDCd_NQcOOfRtiwYJphp4AWIvev9JBFfeOHQ&s=10",Cinemax
 https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-r1zz_R_5JxT9_K06RAymwed0H8uEcLIzn8HIvV_OQ&s=10",Warner TV
 https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdey_Ek3Xc9okKopf2G0BDtSXqalsOUSTwTTJw-KFIA&s=10",AXN
 https://hls.iptv-th.workers.dev/live/68/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUMJAyBQDVQkjVDnodkH7okOoWxhH2Sk0LdrmeXwOUg&s",Rock Entertainment
 https://hls.iptv-th.workers.dev/live/32/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5yng4p944sIB5MsSpkpCH4WOtuGiHt0Ew2RZzBOZfFtwK-OxYHV16Weo&s=10",Rock Action
 https://hls.iptv-th.workers.dev/live/33/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",True Film 1
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",True Movie Hits
 https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSbG4d97ryyJfQvh8shwyubTUMG536NLPmGqHNzhkmQ&s=10",True Thai Film
 https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
 https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_jg8mpBMwD8RkvQDYjjYYZFX86m2U3GULejHfbP4Aw&s=10",True Asian More
 https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",True Series
 https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFNrTFu0YGKWBQXsduEKCazh66gqbroEqB6yIdF2dLA&s",CCM
 https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://www.ais.th/content/dam/ais/consumer/content/lifestyle/tv-and-movie/premuim-content/ch-logo-asian.jpg",Asian Hits
 https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGuC-r_KXBnlB_a9kO-XJ1w9XSZym2UuwESVQbdtIAQ&s=10",TLC
 https://hls.iptv-th.workers.dev/live/78/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBZXx9pHbZ_ynKbF5V7KCisxIDlepfbxoS40vzhyl2g&s=10",Food Network
 https://hls.iptv-th.workers.dev/live/36/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HpPw7fiuuSeKnBCqgKBkj45yN-Vds1bpE-xuQ0X53A&s=10",AFN
 https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GTsQWKnxDXFy6H2NjMIPZMXtWtNrwCzz95UN9E03Ww&s",FTV
 https://hls.iptv-th.workers.dev/live/35/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCZC2QxF8Yb_awMQ51zBidRVZO4MlpksnxFJ1rJpaLw&s=10",DreamWorks
 https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1NpHstuMtNzkDuKM4gz4yz68MlprQgNrLq7k2C6HtQ&s=10",Cartoon Network
 https://hls.iptv-th.workers.dev/live/54/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest/scale-to-width-down/1200?cb=20240725134816",Nickelodeon
 https://hls.iptv-th.workers.dev/live/91/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XFuI764IuTWIBnEscNuVroWq05GTs2GBLrG6gwy5IQ&s=10",True Sports 1
 https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAPWkreNdjTCXP0aVpSoX_2-bzMaWiY12ktTPztCk7Q&s=10",True Sports 3
 https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3I_UUagocctPbfbLd-Jog7zxX8uWz9OSeM166Veu6Q&s=10",True Sports 4
 https://hls.iptv-th.workers.dev/live/80/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",True Sports 5
 https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",True Sports 7
 https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUDQC6a1TJVeyMVqzoseGYsr1tOvVg4WXYGc9c8gQA&s=10",True Tennis
 https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcg0_e_TEh1MeRLU9y6dKlFJoOs8fDwLnFIpQPuH20g&s=10",SPOTV
 https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz4PB5eqE-J-zOAxIAYVu2w1A_jszo3XWH_uwQzjopg&s=10",SPOTV 2
 https://hls.iptv-th.workers.dev/live/96/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_PyrctBzJXoHDlq5jdlXFnTct1d_JS4hsee6EZRI8Ag&s=10",bein Sports 1
 https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJb59aKPsF7IShIw3a67CNjOk0Bu3wqBAeLQRUzprcw&s=10",bein Sports 2
 https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq50WqjpmmJIlQe9ksZBZUGhNTAIQVJ7KMcCTwFAXK9A&s=10",bein Sports 3
 https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgIXv7IwHNXvNA93hNWgOQWUmQDMoSD5Mn_pJWHLiTwg&s=10",Eurosport
 https://hls.iptv-th.workers.dev/live/45/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiLGZHrYShDZ6hNZjX7neXsdnuE2F1Nd-F6AEWNdwgw&s=10",Red Bull TV
 https://hls.iptv-th.workers.dev/live/93/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRBmZ89_Al7IfDu_r_qxh5iRHIvfQzWJwOQwkMOl6N4ovokpCi19uUleN&s=10",Golf+
 https://hls.iptv-th.workers.dev/live/176/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/rBIE5pQPXoPDXackrRYt82mFKcrwx5adsj8yb9vb9YvrGymtEy6AgREL3M8n3swxzyc1SyEJLzNB-BJmznt6lw",MUTV
 https://hls.iptv-th.workers.dev/live/162/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLahsR3RDXF7tauTzJ4UtDtqGGQ_siWLYmiWJXPcyldg&s=10",True Explore Wild
 https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpqwxnho5AbG0ovIPZhiPY1V1HuDJ7lH6HCT1dFYh-5Q&s=10",Discovery Channel
 https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxmUFS0ogiMAHH7TjVChePNNov_LUg1wR1n8X0F2fEg&s=10",Discovery Asia
 https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFvyLq6jUxEs1hrgSDuPOQTzdGTbED34XSVXehENVpQ&s=10",BBC Lifestyle
 https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15v2QLBFV4mWP-91nERKcXXcxwvgxk1ykICCr78-XGQ&s=10",สำรวจโลก
 https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://play-lh.googleusercontent.com/vNG_NaERyaCQbZJKIyVnZGfvT1brIyrpMhElER62sD2AThD5uH62oN0G0zCL7tC7swPe1F2c4OyxOmvNPjl3Zw=w240-h480-rw",VMUSICLIVE
 https://hls.iptv-th.workers.dev/live/110/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",True X-ZYTE
 https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGuC-r_KXBnlB_a9kO-XJ1w9XSZym2UuwESVQbdtIAQ&s=10",TLC
 https://hls.iptv-th.workers.dev/live/78/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1MkBlVNJpzjaXpCK3rOcl3MV8t96QOxrw5afP090Upw&s=10",True Film 1
 https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSbG4d97ryyJfQvh8shwyubTUMG536NLPmGqHNzhkmQ&s=10",True Thai Film
 https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
 https://hls.iptv-th.workers.dev/live/106/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_jg8mpBMwD8RkvQDYjjYYZFX86m2U3GULejHfbP4Aw&s=10",True Asian More
 https://hls.iptv-th.workers.dev/live/103/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png",True Series
 https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFNrTFu0YGKWBQXsduEKCazh66gqbroEqB6yIdF2dLA&s",CCM
 https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png",True X-ZYTE
 https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1NpHstuMtNzkDuKM4gz4yz68MlprQgNrLq7k2C6HtQ&s=10",Cartoon Network
 https://hls.iptv-th.workers.dev/live/54/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCZC2QxF8Yb_awMQ51zBidRVZO4MlpksnxFJ1rJpaLw&s=10",DreamWorks
 https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxmUFS0ogiMAHH7TjVChePNNov_LUg1wR1n8X0F2fEg&s=10",Discovery Asia
 https://hls.iptv-th.workers.dev/live/57/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToFvyLq6jUxEs1hrgSDuPOQTzdGTbED34XSVXehENVpQ&s=10",BBC Lifestyle
 https://hls.iptv-th.workers.dev/live/49/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Explore Sci
 https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLahsR3RDXF7tauTzJ4UtDtqGGQ_siWLYmiWJXPcyldg&s=10",True Explore Wild
 https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XFuI764IuTWIBnEscNuVroWq05GTs2GBLrG6gwy5IQ&s=10",True Sports 1
 https://hls.iptv-th.workers.dev/live/79/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAPWkreNdjTCXP0aVpSoX_2-bzMaWiY12ktTPztCk7Q&s=10",True Sports 3
 https://hls.iptv-th.workers.dev/live/148/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3I_UUagocctPbfbLd-Jog7zxX8uWz9OSeM166Veu6Q&s=10",True Sports 4
 https://hls.iptv-th.workers.dev/live/80/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.png",True Sports 5
 https://hls.iptv-th.workers.dev/live/115/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png",True Sports 7
 https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUDQC6a1TJVeyMVqzoseGYsr1tOvVg4WXYGc9c8gQA&s=10",True Tennis
 https://hls.iptv-th.workers.dev/live/77/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcg0_e_TEh1MeRLU9y6dKlFJoOs8fDwLnFIpQPuH20g&s=10",SPOTV
 https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz4PB5eqE-J-zOAxIAYVu2w1A_jszo3XWH_uwQzjopg&s=10",SPOTV 2
 https://hls.iptv-th.workers.dev/live/96/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_PyrctBzJXoHDlq5jdlXFnTct1d_JS4hsee6EZRI8Ag&s=10",bein Sports 1
 https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJb59aKPsF7IShIw3a67CNjOk0Bu3wqBAeLQRUzprcw&s=10",bein Sports 2
 https://hls.iptv-th.workers.dev/live/52/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq50WqjpmmJIlQe9ksZBZUGhNTAIQVJ7KMcCTwFAXK9A&s=10",bein Sports 3
 https://hls.iptv-th.workers.dev/live/53/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5SRqiS4IrzwiBVu-VmFRw4lMo2YP0lmGXJQvItL-7g&s=10",CNN
 https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp7VqzCrtWpmLRY086n9C5XHhAtZsRrJjBcEI0Hwx1A&s",BBC News
 https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15v2QLBFV4mWP-91nERKcXXcxwvgxk1ykICCr78-XGQ&s=10",สำรวจโลก
 https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkMwkxQAIgr-Blj51BKMjIq0DW9WsjXSNHQ&s",3 HD
 https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png",TV5HD
 https://hls.iptv-th.workers.dev/live/128/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Channel_7_HD.svg/250px-Logo_Channel_7_HD.svg.png",7HD
 https://hls.iptv-th.workers.dev/live/129/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBy3yX6VqK7Ld_AUOXRByKzICZCdkj8QoTA&s",AMARIN TV HD
 https://hls.iptv-th.workers.dev/live/130/playlist.m3u8
-
 #EXTINF:-1 group-title="Thai TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutjPtd-E2qwzCJeAa2l_2LPgy3Lpx6Q63vA&s",PPTV HD
 https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
-
-
 
 
 
@@ -3744,8 +3344,6 @@ https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
 #EXTINF:-1 group-title="體育世界",TRUE X-XYTE
 https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
 
-https://hls.iptv-th.workers.dev/live/95/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="MLB NETWORK HD" tvg-logo="https://imgur.com/R5izfeU" group-title="體育世界",MLB NETWORK HD
 http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/206108
@@ -3766,53 +3364,6 @@ https://cdn.qd.je/163189.php?id=cctv5p
 http://f.123.rr.kg/163189/cctv5
 #EXTINF:-1 group-title="體育世界",CCTV5+
 http://f.123.rr.kg/163189/cctv5p
-
-#EXTINF:-1 group-title="體育世界",ASTRO Football
-https://tv.media4u.top:443/live/media4u/media4u/995128
-#EXTINF:-1 group-title="體育世界",ASTRO Grandstand
-https://tv.media4u.top:443/live/media4u/media4u/735770
-#EXTINF:-1 group-title="體育世界",ASTRO Premier League
-https://tv.media4u.top:443/live/media4u/media4u/980980
-#EXTINF:-1 group-title="體育世界",ASTRO Premier League 2
-https://tv.media4u.top:443/live/media4u/media4u/291387
-#EXTINF:-1 group-title="體育世界",ASTRO Sports Plus
-https://tv.media4u.top:443/live/media4u/media4u/499499
-#EXTINF:-1 group-title="體育世界",BEIN SPORTS 1 [ID]
-https://tv.media4u.top:443/live/media4u/media4u/847964
-#EXTINF:-1 group-title="體育世界",BEIN SPORTS 2 [ID]
-https://tv.media4u.top:443/live/media4u/media4u/300666
-#EXTINF:-1 group-title="體育世界",HUB SPORTS 1 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/404922
-#EXTINF:-1 group-title="體育世界",HUB SPORTS 2 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/844806
-#EXTINF:-1 group-title="體育世界",HUB SPORTS 3 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/645052
-#EXTINF:-1 group-title="體育世界",HUB SPORTS 4 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/666938
-#EXTINF:-1 group-title="體育世界",HUB SPORTS 5 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/833597
-#EXTINF:-1 group-title="體育世界",STARHUB PREMIER 1 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/906938
-#EXTINF:-1 group-title="體育世界",STARHUB PREMIER 2 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/709486
-#EXTINF:-1 group-title="體育世界",STARHUB PREMIER 2 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/291085
-#EXTINF:-1 group-title="體育世界",STARHUB PREMIER 3 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/959522
-#EXTINF:-1 group-title="體育世界",STARHUB PREMIER 4 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/598123
-#EXTINF:-1 group-title="體育世界",STARHUB PREMIER 5 [SG]
-https://tv.media4u.top:443/live/media4u/media4u/601445
-#EXTINF:-1 group-title="體育世界",TRUE PREMIERE LEAGUE 1 [TH]
-https://tv.media4u.top:443/live/media4u/media4u/746222
-#EXTINF:-1 group-title="體育世界",TRUE PREMIERE LEAGUE 2 [TH]
-https://tv.media4u.top:443/live/media4u/media4u/362618
-#EXTINF:-1 group-title="體育世界",TRUE PREMIERE LEAGUE 3 [TH]
-https://tv.media4u.top:443/live/media4u/media4u/509913
-#EXTINF:-1 group-title="體育世界",TRUE PREMIERE LEAGUE 4 [TH]
-https://tv.media4u.top:443/live/media4u/media4u/147570
-#EXTINF:-1 group-title="體育世界",TRUE PREMIERE LEAGUE 5 [TH]
-https://tv.media4u.top:443/live/media4u/media4u/648805
 
 
 #EXTINF:-1 tvg-name="Fussbal TV 1 FHD DE" tvg-logo="" group-title="體育世界",Fussbal TV 1 FHD DE
@@ -5833,6 +5384,10 @@ http://125.227.210.55:3016/VideoInput/play.ts
 http://125.227.210.55:3031/VideoInput/play.ts
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視3台(125)
 http://125.227.210.55:3033/VideoInput/play.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DREAMROOM" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="私密頻道 ADULT",DREAMROOM
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131308
 
 
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png",CARAC1
@@ -9074,10 +8629,208 @@ http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/233136
 
 
 
+################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A GIRL KNOWS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",A GIRL KNOWS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131295
+#EXTINF:-1 tvg-id="" tvg-name="ADULT TIME" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",ADULT TIME
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131296
+#EXTINF:-1 tvg-id="" tvg-name="ALL GROUP SEX" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",ALL GROUP SEX
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131297
+#EXTINF:-1 tvg-id="" tvg-name="BABES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BABES
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131298
+#EXTINF:-1 tvg-id="" tvg-name="BANG BROS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BANG BROS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131299
+#EXTINF:-1 tvg-id="" tvg-name="BLACKED" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BLACKED
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131300
+#EXTINF:-1 tvg-id="" tvg-name="BLOW ME POV" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BLOW ME POV
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131301
+#EXTINF:-1 tvg-id="" tvg-name="BRATTY SIS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BRATTY SIS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131302
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BRAZZERS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131303
+#EXTINF:-1 tvg-id="" tvg-name="BUMS BUS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BUMS BUS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131304
+#EXTINF:-1 tvg-id="" tvg-name="CASTING COUCH" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",CASTING COUCH
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131305
+#EXTINF:-1 tvg-id="" tvg-name="CUM 4K" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",CUM 4K
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131306
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL CLUB" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",DORCEL CLUB
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131307
+#EXTINF:-1 tvg-id="" tvg-name="DREAMROOM" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",DREAMROOM
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131308
+#EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",EVIL ANGEL
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131309
+#EXTINF:-1 tvg-id="" tvg-name="FAKE HOSTEL" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FAKE HOSTEL
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131310
+#EXTINF:-1 tvg-id="" tvg-name="FAKE TAXI" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",FAKE TAXI
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131311
+#EXTINF:-1 tvg-id="" tvg-name="Fakehub Originals" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",Fakehub Originals
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131312
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY STROKES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FAMILY STROKES
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131313
+#EXTINF:-1 tvg-id="" tvg-name="FAPADOO" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FAPADOO
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131314
+#EXTINF:-1 tvg-id="" tvg-name="FIFTHY KINGS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",FIFTHY KINGS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131315
+#EXTINF:-1 tvg-id="" tvg-name="FIRST ANAL QUEST" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FIRST ANAL QUEST
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131316
+#EXTINF:-1 tvg-id="" tvg-name="JAYS POV" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",JAYS POV
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131317
+#EXTINF:-1 tvg-id="" tvg-name="Holed" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",Holed
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131318
+#EXTINF:-1 tvg-id="" tvg-name="HOT WIFE XXX" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",HOT WIFE XXX
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131319
+#EXTINF:-1 tvg-id="" tvg-name="HUSSIE PASS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",HUSSIE PASS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131320
+#EXTINF:-1 tvg-id="" tvg-name="INTERRACIAL PASS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",INTERRACIAL PASS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131321
+#EXTINF:-1 tvg-id="" tvg-name="KINKY FAMILY" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",KINKY FAMILY
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131322
+#EXTINF:-1 tvg-id="" tvg-name="KINKY INLAWS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",KINKY INLAWS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131323
+#EXTINF:-1 tvg-id="" tvg-name="LETS DOELT" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",LETS DOELT
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131324
+#EXTINF:-1 tvg-id="" tvg-name="Little Asians" tvg-logo="http://img-cdn.curl.pk:8880/chimg/9117170896.jpg" group-title="XXX (Adult 18+ Only)",Little Asians
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131325
+#EXTINF:-1 tvg-id="" tvg-name="MEN" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",MEN
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131326
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",MOFOS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131327
+#EXTINF:-1 tvg-id="" tvg-name="MOM TEACH SEX" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MOM TEACH SEX
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131328
+#EXTINF:-1 tvg-id="" tvg-name="MY FAMILY PIES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY FAMILY PIES
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131329
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY DIRTY HOBBY
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131330
+#EXTINF:-1 tvg-id="" tvg-name="MY LIFE IN MIAMI" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY LIFE IN MIAMI
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131331
+#EXTINF:-1 tvg-id="" tvg-name="MY PERVY FAMILY" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY PERVY FAMILY
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131332
+#EXTINF:-1 tvg-id="" tvg-name="MY TINY WISH" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY TINY WISH
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131333
+#EXTINF:-1 tvg-id="" tvg-name="NET VIDEO GIRLS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",NET VIDEO GIRLS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131334
+#EXTINF:-1 tvg-id="" tvg-name="NEW SENSATIONS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",NEW SENSATIONS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131335
+#EXTINF:-1 tvg-id="" tvg-name="NUBILE FILMS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",NUBILE FILMS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131336
+#EXTINF:-1 tvg-id="" tvg-name="NURU MASSAGE" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",NURU MASSAGE
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131337
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Penthouse Gold
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131338
+#EXTINF:-1 tvg-id="" tvg-name="Playboy Plus" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Playboy Plus
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131339
+#EXTINF:-1 tvg-id="" tvg-name="POVD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",POVD
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131340
+#EXTINF:-1 tvg-id="" tvg-name="PROPERTY SEX" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",PROPERTY SEX
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131341
+#EXTINF:-1 tvg-id="" tvg-name="PURE BBW" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",PURE BBW
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131342
+#EXTINF:-1 tvg-id="" tvg-name="REALITY JUNKIES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",REALITY JUNKIES
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131344
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",REALITY KINGS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131345
+#EXTINF:-1 tvg-id="" tvg-name="Sis Loves Me" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Sis Loves Me
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131346
+#EXTINF:-1 tvg-id="" tvg-name="SLIM 4K" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",SLIM 4K
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131347
+#EXTINF:-1 tvg-id="" tvg-name="STEB SIBLINGS CAUGHT" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",STEB SIBLINGS CAUGHT
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131348
+#EXTINF:-1 tvg-id="" tvg-name="SUGAR BABES" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",SUGAR BABES
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131349
+#EXTINF:-1 tvg-id="" tvg-name="TEEN FIDELITY" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",TEEN FIDELITY
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131350
+#EXTINF:-1 tvg-id="" tvg-name="Thai Girls Wild" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Thai Girls Wild
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131351
+#EXTINF:-1 tvg-id="" tvg-name="TINY4K" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",TINY4K
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131352
+#EXTINF:-1 tvg-id="" tvg-name="TRANS: TRANS ANGELS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",TRANS: TRANS ANGELS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131353
+#EXTINF:-1 tvg-id="" tvg-name="TREASURE ISLAND MEDIA" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",TREASURE ISLAND MEDIA
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131354
+#EXTINF:-1 tvg-id="" tvg-name="TRUE AMATUERS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",TRUE AMATUERS
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131355
+#EXTINF:-1 tvg-id="" tvg-name="VIXEN" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",VIXEN
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/131356
 
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="18's" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",18's
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134480
+#EXTINF:-1 tvg-id="" tvg-name="AnalMom" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",AnalMom
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134481
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Asian
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134482
+#EXTINF:-1 tvg-id="" tvg-name="Babes" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Babes
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134483
+#EXTINF:-1 tvg-id="" tvg-name="BangBros" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",BangBros
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134484
+#EXTINF:-1 tvg-id="" tvg-name="Bonnie Blue 1" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Bonnie Blue 1
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134485
+#EXTINF:-1 tvg-id="" tvg-name="Bonnie Blue 2" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Bonnie Blue 2
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134486
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Brazzers
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134487
+#EXTINF:-1 tvg-id="" tvg-name="Desi Bang" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Desi Bang
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134488
+#EXTINF:-1 tvg-id="" tvg-name="DickDrainers" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",DickDrainers
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134489
+#EXTINF:-1 tvg-id="" tvg-name="Hot MILFs Fuck" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Hot MILFs Fuck
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134490
+#EXTINF:-1 tvg-id="" tvg-name="I feel Myself" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",I feel Myself
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134491
+#EXTINF:-1 tvg-id="" tvg-name="Inserted 1" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Inserted 1
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134492
+#EXTINF:-1 tvg-id="" tvg-name="Inserted 2" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Inserted 2
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134493
+#EXTINF:-1 tvg-id="" tvg-name="Inserted 3" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Inserted 3
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134494
+#EXTINF:-1 tvg-id="" tvg-name="Lesbians" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Lesbians
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134495
+#EXTINF:-1 tvg-id="" tvg-name="LesbianX 1" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",LesbianX 1
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134496
+#EXTINF:-1 tvg-id="" tvg-name="LesbianX 2" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",LesbianX 2
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134497
+#EXTINF:-1 tvg-id="" tvg-name="MOM XXX" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",MOM XXX
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134498
+#EXTINF:-1 tvg-id="" tvg-name="Naughty America 1" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Naughty America 1
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134499
+#EXTINF:-1 tvg-id="" tvg-name="Naughty America 2" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Naughty America 2
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134500
+#EXTINF:-1 tvg-id="" tvg-name="Naughty America 3" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Naughty America 3
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134501
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold 1" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Penthouse Gold 1
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134502
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold 2" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Penthouse Gold 2
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134503
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold 3" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Penthouse Gold 3
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134504
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold 4" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Penthouse Gold 4
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134505
+#EXTINF:-1 tvg-id="" tvg-name="Perv Doctor" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Perv Doctor
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134506
+#EXTINF:-1 tvg-id="" tvg-name="PornWorld" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",PornWorld
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134507
+#EXTINF:-1 tvg-id="" tvg-name="Raw Couples" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Raw Couples
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134508
+#EXTINF:-1 tvg-id="" tvg-name="Reality Kings" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Reality Kings
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134509
+#EXTINF:-1 tvg-id="" tvg-name="TeenCreeper" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",TeenCreeper
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134510
+#EXTINF:-1 tvg-id="" tvg-name="TeenStars" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",TeenStars
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134511
+#EXTINF:-1 tvg-id="" tvg-name="Tushy Raw" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Tushy Raw
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134512
+#EXTINF:-1 tvg-id="" tvg-name="Waitress" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Waitress
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134513
+#EXTINF:-1 tvg-id="" tvg-name="Web Young" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",Web Young
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134514
+#EXTINF:-1 tvg-id="" tvg-name="WoWGirls" tvg-logo="https://247hosting.xyz/images/Icons/adults.jpg" group-title="XXX (Adult 18+ Only)",WoWGirls
+http://lunar.pm:8080/ElizabethG23/9hDcaCfwpQQD/134515
 
 
 
