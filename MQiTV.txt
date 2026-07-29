@@ -87,7 +87,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
     {
       "name": "四季影視1",
       "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
@@ -112,6 +111,14 @@
         "type": "append",
         "source": "&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
       }
+    },
+    {
+      "name": "日本斯玛特",
+      "url": "http://dbm.de5.net/smt.php",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png",
+      "ua": "dream"
     },
 
 
@@ -658,6 +665,11 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/fgrjk/refs/heads/main/日本女优12.m3u"
         },
 
+    {
+      "name": "🔞18++",
+      "url": "http://tv543.cc/18+.m3u"
+    },
+
  
         {
             "name": "🦄毛豆🔞",
@@ -802,7 +814,7 @@
       "name": "RobYang備1| http://RobYang.dpdns.org",
       "type": 0,
       "playerType": 2,
-      "url": "http://RobYang.dpdns.org",
+      "url": "http://www1.RobYang.dpdns.org/VodLive/lb8ffa",
       "ua": "okhttp/4.12.0",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -814,7 +826,7 @@
       "name": "RobYang備2| http://RobYang.rr.nu",
       "type": 0,
       "playerType": 2,
-      "url": "http://RobYang.zone.id",
+      "url": "http://RobYang.runasp.net/VodLive/lb8ffa",
       "ua": "okhttp/4.12.0",
       "timeout": 5,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong",
@@ -831,6 +843,21 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
 
+    {
+      "name": "欧华(需32位影视仅港有效)",
+      "url": "http://dbmlosa.sylu.cc:8080/ouhua.txt",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
+
+    {
+      "name": "欧华(需32位影视)",
+      "url": "http://dbmlosa.sylu.cc:8080/ouhua.txt",
+      "playerType": 2,
+      "epg": "http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
+    },
 
 
     {
@@ -847,7 +874,13 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-
+    {
+      "name": "jacktv",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
 
 
     {
@@ -895,17 +928,7 @@
         },
 
 
-      {
-            "name": "Anbox直播",
-            "type": 0,
-            "url": "http://tv.anbox.ip-ddns.com/live",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2,
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
-            
-        },
+
 
     {
       "name": "💔GPT💔",
