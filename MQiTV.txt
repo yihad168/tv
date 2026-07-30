@@ -1706,6 +1706,29 @@
       "name": "🔞成人11" 
     },
 
+    {
+      "name": "🥎CATVOD",
+      "type": 0,
+      "url": "https://live.catvod.com/?tk=2489d993a8fcf54fd0d6153c29a3bb2c",
+      "playerType": 2,
+      "timeout": 10
+    },
+
+
+    {
+      "name": "🥎catvod",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp5.112114.xyz/{name}.png"
+    },
+
+
+
+
+
 {
 "name": "📺青龙电视",
 "type": 0,
