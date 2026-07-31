@@ -1496,7 +1496,7 @@
         {
             "name": "Anbox直播",
             "type": 0,
-            "url": "http://kenneth001.serv00.net/anbo.json",
+            "url": "https://tv.anbox.ip-ddns.com/live",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2,
